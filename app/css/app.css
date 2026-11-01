@@ -465,3 +465,7 @@ input[type=range]{width:100%;accent-color:var(--accent)}
 .loc .v{flex-wrap:wrap;column-gap:6px;row-gap:0}
 .loc.long .v #loc-t{font-size:1rem}
 @media (max-width:350px){.loc .chg{font-size:0;gap:0}.loc .chg .ico{width:22px;height:22px}.bar .in .loc{gap:10px;padding:10px 12px}}
+/* Untere Leiste mit dezentem Rand: Hell = zartes Hellblau, Dunkel = zartes Leuchtgrün (im Trail das Orange des Trail-Designs) */
+.nav{--navring:#7DAEDD;border-color:color-mix(in srgb,var(--navring) 75%,transparent);box-shadow:0 0 0 1px color-mix(in srgb,var(--navring) 22%,transparent),0 -4px 18px rgba(0,0,0,.06)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .nav{--navring:var(--brand-run);border-color:color-mix(in srgb,var(--navring) 55%,transparent);box-shadow:0 0 0 1px color-mix(in srgb,var(--navring) 14%,transparent),0 0 16px -2px color-mix(in srgb,var(--navring) 22%,transparent),0 -4px 18px rgba(0,0,0,.4)}}
+:root[data-theme="dark"] .nav{--navring:var(--brand-run);border-color:color-mix(in srgb,var(--navring) 55%,transparent);box-shadow:0 0 0 1px color-mix(in srgb,var(--navring) 14%,transparent),0 0 16px -2px color-mix(in srgb,var(--navring) 22%,transparent),0 -4px 18px rgba(0,0,0,.4)}
