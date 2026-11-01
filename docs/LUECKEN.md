@@ -2,67 +2,67 @@
 
 Automatisch erzeugt aus data/races.json. Als vorhanden zählt ein aktueller Wert, ein belegter Vorjahreswert (prev) oder "Veranstalter macht keine Angabe" (na).
 
-**260 Läufe, 950 von 1820 Detailfeldern offen** (48 % gefüllt).
+**260 Läufe, 946 von 1820 Detailfeldern offen** (48 % gefüllt).
 
 | Feld | offen bei Läufen |
 |---|---|
-| Startgeld | 99 |
+| Startgeld | 98 |
 | Startzeit | 71 |
 | Meldeschluss | 179 |
 | Limit | 186 |
-| Startunterlagen | 123 |
-| Parken | 153 |
-| Verpflegung | 139 |
+| Startunterlagen | 122 |
+| Parken | 152 |
+| Verpflegung | 138 |
 
 ## Stufe 1: bis 24.01.2027 (nächste 12 Wochen) (47 Läufe mit Lücken)
 
 - 2027-01-06 Three Kings Ultra Trail (LK Cham) - fehlt: Startgeld, Startzeit, Meldeschluss, Limit, Startunterlagen, Parken, Verpflegung
-- 2026-12-06 Nikolauslauf Landsberg am Lech (LK Landsberg am Lech) - fehlt: Startgeld, Startzeit, Limit, Startunterlagen, Parken, Verpflegung
 - 2027-01-17 Crosslauf der Arnstorfer LG (LK Rottal-Inn) - fehlt: Startgeld, Startzeit, Limit, Startunterlagen, Parken, Verpflegung
+- 2026-12-05 Nikolaus-Waldlauf Weißenbrunn (LK Kronach) - fehlt: Startgeld, Startzeit, Limit, Startunterlagen, Parken, Verpflegung
 - 2026-11-21 Citylauf Ansbach (Stadt Ansbach) - fehlt: Startgeld, Meldeschluss, Limit, Startunterlagen, Parken, Verpflegung
 - 2026-11-14 Waldlauf Büchenbach (LK Roth) - fehlt: Startgeld, Startzeit, Limit, Startunterlagen, Parken, Verpflegung
-- 2026-12-05 Nikolaus-Waldlauf Weißenbrunn (LK Kronach) - fehlt: Startgeld, Startzeit, Limit, Startunterlagen, Parken, Verpflegung
-- 2027-01-06 Sparkassen Neujahrs-Teamlauf (Stadt Coburg) - fehlt: Startgeld, Startzeit, Meldeschluss, Limit, Startunterlagen, Parken
+- 2026-12-06 Nikolauslauf Landsberg am Lech (LK Landsberg am Lech) - fehlt: Startgeld, Startzeit, Limit, Startunterlagen, Parken, Verpflegung
 - 2026-11-08 Rainer Lauf am Lech (LK Donau-Ries) - fehlt: Startgeld, Meldeschluss, Limit, Startunterlagen, Parken, Verpflegung
 - 2026-12-06 Nikolauslauf Ochsenfurt (LK Würzburg) - fehlt: Meldeschluss, Limit, Startunterlagen, Parken, Verpflegung
 - 2026-12-06 46. landesoffener Nikolaus-Waldlauf (LK Rottal-Inn) - fehlt: Startgeld, Meldeschluss, Limit, Startunterlagen, Verpflegung
+- 2027-01-06 Sparkassen Neujahrs-Teamlauf (Stadt Coburg) - fehlt: Startzeit, Meldeschluss, Limit, Startunterlagen, Parken
 - 2026-12-06 Sport-Tahedl-Nikolauslauf (Stadt Regensburg) - fehlt: Startzeit, Limit, Startunterlagen, Parken, Verpflegung
-- 2027-01-06 Dreikönigslauf Lauingen (LK Dillingen a.d.Donau) - fehlt: Startzeit, Limit, Startunterlagen, Parken, Verpflegung
 - 2026-12-13 Friedenslichtlauf (LK Aschaffenburg) - fehlt: Startgeld, Meldeschluss, Limit, Startunterlagen, Parken
+- 2027-01-06 Dreikönigslauf Lauingen (LK Dillingen a.d.Donau) - fehlt: Startzeit, Limit, Startunterlagen, Parken, Verpflegung
 - 2026-12-05 Nikolauslauf Immenstadt (LK Oberallgäu) - fehlt: Startgeld, Meldeschluss, Limit, Verpflegung
 - 2026-11-15 Jetzendorfer Hobby-Cross-Lauf (LK Pfaffenhofen a.d.Ilm) - fehlt: Limit, Startunterlagen, Parken, Verpflegung
-- 2026-12-31 Silvesterlauf Bogen (LK Straubing-Bogen) - fehlt: Startgeld, Limit, Parken, Verpflegung
-- 2026-11-07 Augsburger Winterlaufserie (Stadt Augsburg) - fehlt: Limit, Startunterlagen, Parken, Verpflegung
 - 2026-12-12 Dinkelsbühler Wald- und Crosslauf (LK Ansbach) - fehlt: Limit, Startunterlagen, Parken, Verpflegung
-- 2027-01-03 Dreikönigslauf (Bavaria Ultra) Starnberger See (LK Starnberg) - fehlt: Meldeschluss, Startunterlagen, Parken
-- 2026-12-31 CROSSDOGs Silvestertrail (LK Aschaffenburg) - fehlt: Startgeld, Meldeschluss, Limit
+- 2026-12-31 Silvesterlauf Bogen (LK Straubing-Bogen) - fehlt: Startgeld, Limit, Parken, Verpflegung
 - 2026-11-29 Kuhsee Marathon (Stadt Augsburg) - fehlt: Startgeld, Meldeschluss, Startunterlagen
-- 2026-11-21 Kordigast-Berglauf (LK Lichtenfels) - fehlt: Meldeschluss, Limit, Parken
-- 2027-01-23 Dingolfinger Stadion-Crosslauf (LK Dingolfing-Landau) - fehlt: Limit, Parken, Verpflegung
-- 2026-11-21 Crosslauf Mühldorf (LK Mühldorf a. Inn) - fehlt: Limit, Startunterlagen, Verpflegung
-- 2026-11-28 Hainberglauf (LK Kulmbach) - fehlt: Startzeit, Limit, Parken
 - 2027-01-06 Aichacher Dreikönigslauf (LK Aichach-Friedberg) - fehlt: Limit, Parken, Verpflegung
-- 2026-12-31 Volks-Raiffeisenbank-Silvesterlauf Amberg (Stadt Amberg) - fehlt: Limit, Parken
+- 2026-12-31 CROSSDOGs Silvestertrail (LK Aschaffenburg) - fehlt: Startgeld, Meldeschluss, Limit
+- 2026-11-21 Kordigast-Berglauf (LK Lichtenfels) - fehlt: Meldeschluss, Limit, Parken
+- 2026-11-28 Hainberglauf (LK Kulmbach) - fehlt: Startzeit, Limit, Parken
+- 2026-11-21 Crosslauf Mühldorf (LK Mühldorf a. Inn) - fehlt: Limit, Startunterlagen, Verpflegung
+- 2027-01-23 Dingolfinger Stadion-Crosslauf (LK Dingolfing-Landau) - fehlt: Limit, Parken, Verpflegung
+- 2027-01-03 Dreikönigslauf (Bavaria Ultra) Starnberger See (LK Starnberg) - fehlt: Meldeschluss, Startunterlagen, Parken
 - 2026-12-13 Ismaninger Winterlaufserie (LK München) - fehlt: Meldeschluss, Limit
-- 2026-11-08 StreutalTrail (LK Rhön-Grabfeld) - fehlt: Limit, Startunterlagen
-- 2026-11-08 Höglwörther Seelauf (LK Berchtesgadener Land) - fehlt: Limit, Parken
 - 2027-01-23 Yeti-Trail (LK Weißenburg-Gunzenhausen) - fehlt: Meldeschluss, Limit
-- 2026-11-14 HerzoWerkeTrail (LK Erlangen-Höchstadt) - fehlt: Limit, Parken
 - 2026-11-28 Großkarolinenfelder Nikolauslauf (LK Rosenheim) - fehlt: Limit, Verpflegung
+- 2026-11-08 StreutalTrail (LK Rhön-Grabfeld) - fehlt: Limit, Startunterlagen
+- 2026-12-31 Volks-Raiffeisenbank-Silvesterlauf Amberg (Stadt Amberg) - fehlt: Limit, Parken
+- 2026-11-14 HerzoWerkeTrail (LK Erlangen-Höchstadt) - fehlt: Limit, Parken
 - 2026-11-14 Alzauenlauf (LK Traunstein) - fehlt: Limit, Parken
+- 2026-11-08 Höglwörther Seelauf (LK Berchtesgadener Land) - fehlt: Limit, Parken
 - 2026-11-14 Lauf „Ich lauf mit gegen Gewalt“ (LK München) - fehlt: Parken, Verpflegung
 - 2027-01-23 Mountainman Winterloop (LK Traunstein) - fehlt: Meldeschluss
-- 2027-01-17 Dinkelsbühler Stadtlauf (LK Ansbach) - fehlt: Limit
 - 2027-01-09 Spindellauf im DEZ (Stadt Regensburg) - fehlt: Parken
+- 2027-01-17 Dinkelsbühler Stadtlauf (LK Ansbach) - fehlt: Limit
 - 2026-11-08 Hügelland Trailrun (LK Roth) - fehlt: Meldeschluss
 - 2026-11-14 Runfellows vorWald Ultra Trail (LK Cham) - fehlt: Parken
-- 2026-11-07 Heiner-Mayr-Staffelberglauf (LK Lichtenfels) - fehlt: Limit
 - 2026-11-08 Teufelsberg Crosslauf (Stadt München) - fehlt: Limit
-- 2026-11-14 Fackellauf Gerbrunn (LK Würzburg) - fehlt: Limit
+- 2026-11-07 Heiner-Mayr-Staffelberglauf (LK Lichtenfels) - fehlt: Limit
+- 2026-11-07 Augsburger Winterlaufserie (Stadt Augsburg) - fehlt: Limit
 - 2026-12-05 Mountainman Nikolaus-Trail (LK Nürnberger Land) - fehlt: Meldeschluss
 - 2026-12-31 Finale Furioso – Silvesterlauf der DJK Göggelsbuch (LK Roth) - fehlt: Verpflegung
-- 2026-11-15 Nürnberger Winterlaufserie (Stadt Nürnberg) - fehlt: Limit
 - 2026-12-05 Winterlaufserie München (Stadt München) - fehlt: Limit
+- 2026-11-14 Fackellauf Gerbrunn (LK Würzburg) - fehlt: Limit
+- 2026-11-15 Nürnberger Winterlaufserie (Stadt Nürnberg) - fehlt: Limit
 
 ## Stufe 2: 25.01.2027 bis 30.04.2027 (53 Läufe mit Lücken)
 

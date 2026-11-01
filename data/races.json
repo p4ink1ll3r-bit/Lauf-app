@@ -28,7 +28,10 @@
                       "info":  "Lauf 1: Kinder U12/Jugend U14/U16 ca. 2,8 km 13:00, Hauptlauf ca. 9 km 13:45. Online-Anmeldeschluss jeweils Donnerstag 22:00 vor dem Lauf; Anmeldung erst nach Überweisung gültig",
                       "gpx":  "https://tgva.de/wp-content/uploads/gpx/WiLa%20L1_suedring.gpx",
                       "bezirk":  "Schwaben",
-                      "kreis":  "Stadt Augsburg"
+                      "kreis":  "Stadt Augsburg",
+                      "pickup":  "Startnummern im Start-/Zielbereich: Läufe 1–3 Augsburg-Bergheim beim Waldparkplatz Kathreinerstraße/Brennhölzerweg, Lauf 4 an der Augsburger Waldhütte (Wellenburg)",
+                      "parking":  "Läufe 1–3: Kathreinerstraße in Bergheim oder umliegende Straßen (nicht der Parkplatz am Sportheim Bergheim); Lauf 4: Parkplatz Schlossgaststätte Wellenburg, ca. 15 Minuten Fußweg",
+                      "aid":  "Läufe 1–3: Tee, Wasser und Kuchenbuffet im Ziel; Lauf 4 zusätzlich Glühwein und Kinderpunsch"
                   },
                   {
                       "id":  "heiner-mayr-staffelberglauf-2026",
@@ -2202,7 +2205,8 @@
                       "aid":  "Buffet nach dem Lauf im Sportheim des TSV Scheuerfeld",
                       "info":  "Details und Anmeldung für 2027 noch nicht veröffentlicht; GPX-Dateien 10 km und 21 km auf der Veranstalterseite; laut Veranstalter dank Sponsoren bislang ohne Startgeld",
                       "bezirk":  "Oberfranken",
-                      "kreis":  "Stadt Coburg"
+                      "kreis":  "Stadt Coburg",
+                      "fee":  "Kein Startgeld"
                   },
                   {
                       "id":  "three-kings-ultra-trail-2027",
