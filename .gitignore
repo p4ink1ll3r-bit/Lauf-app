@@ -4,3 +4,7 @@
 .DS_Store
 Thumbs.db
 app/data/
+
+# Privat: bleibt nur lokal
+CLAUDE.md
+docs/UEBERGABE.md
