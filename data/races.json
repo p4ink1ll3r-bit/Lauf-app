@@ -9291,6 +9291,70 @@
              ],
       "bezirk":  "Oberbayern",
       "kreis":  "LK Dachau"
+  },
+  {
+      "id":  "simssee-halbmarathon-riedering-2027",
+      "type":  "road",
+      "name":  "Simssee-Halbmarathon",
+      "place":  "Riedering (Moosen)",
+      "lat":  47.915,
+      "lon":  12.225,
+      "date":  "2027-10-23",
+      "end":  null,
+      "confirmed":  false,
+      "prev_date":  "2026-10-24",
+      "distances":  [
+                        "HM"
+                    ],
+      "elevation":  null,
+      "note":  "Halbmarathon um den Simssee; zusätzlich Kinder-, Jugend- und Bambiniläufe",
+      "url":  "https://www.simsseelauf.de",
+      "reg_open":  null,
+      "reg_close":  null,
+      "fee":  null,
+      "start_time":  null,
+      "checked":  "2026-11-01",
+      "source":  "https://www.runnersworld.de/laufkalender/simssee-halbmarathon-riedering/",
+      "start_place":  "Moosen, 83083 Riedering",
+      "info":  "Veranstalter: PTSV Rosenheim (simsseelauf@ptsv-rosenheim.de). 2026 war die 18. Auflage mit ca. 700 Läufern, Mix aus Asphalt und Naturwegen (lt. haid.app). Nächster Termin laut Runner\u0027s World noch nicht bekannt; Datum geschätzt aus 24.10.2026",
+      "na":  [
+  
+             ],
+      "bezirk":  "Oberbayern",
+      "kreis":  "LK Rosenheim"
+  },
+  {
+      "id":  "gapa-everesting-festival-2027",
+      "type":  "trail",
+      "name":  "GaPa Everesting-Festival",
+      "place":  "Garmisch-Partenkirchen",
+      "lat":  47.4917,
+      "lon":  11.0953,
+      "date":  "2027-05-14",
+      "end":  "2027-05-15",
+      "confirmed":  false,
+      "prev_date":  null,
+      "distances":  [
+                        "3",
+                        "20",
+                        "59"
+                    ],
+      "elevation":  null,
+      "note":  "Festival rund um das Everesting am Gudiberg",
+      "url":  null,
+      "reg_open":  null,
+      "reg_close":  null,
+      "fee":  null,
+      "start_time":  null,
+      "checked":  "2026-11-01",
+      "source":  "https://gotrail.run/nl/kalender/duitsland/bayern/garmisch-partenkirchen",
+      "start_place":  null,
+      "info":  "Termin 14.-15.05.2027 nur aus dem gotrail.run-Kalender, Veranstalterseite noch nicht geprüft; Distanzen laut gotrail.run",
+      "na":  [
+  
+             ],
+      "bezirk":  "Oberbayern",
+      "kreis":  "LK Garmisch-Partenkirchen"
   }
  ]
 }

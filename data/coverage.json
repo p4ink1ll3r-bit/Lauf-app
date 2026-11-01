@@ -224,9 +224,9 @@
                        "typ":  "Landkreis",
                        "bezirk":  "Oberbayern",
                        "prio":  25,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  3,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Dachau",
@@ -287,9 +287,9 @@
                        "typ":  "Landkreis",
                        "bezirk":  "Oberbayern",
                        "prio":  32,
-                       "status":  "offen",
-                       "races":  5,
-                       "checked":  null
+                       "status":  "in Arbeit",
+                       "races":  6,
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Landsberg am Lech",
@@ -350,9 +350,9 @@
                        "typ":  "Landkreis",
                        "bezirk":  "Oberbayern",
                        "prio":  39,
-                       "status":  "offen",
-                       "races":  4,
-                       "checked":  null
+                       "status":  "in Arbeit",
+                       "races":  5,
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Starnberg",
@@ -368,9 +368,9 @@
                        "typ":  "Landkreis",
                        "bezirk":  "Oberbayern",
                        "prio":  41,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  7,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Weilheim-Schongau",
