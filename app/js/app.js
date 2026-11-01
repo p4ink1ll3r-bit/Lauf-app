@@ -1,6 +1,6 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
-const APP_VERSION="v7"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+const APP_VERSION="v8"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
 const DATA_DIR="data/";
 const REPORT_URL="";
 const APP_URL=location.origin+location.pathname.replace(/index\.html$/,"");
@@ -216,6 +216,10 @@ function openDetail(id){const r=R.find(x=>x.id===id);if(!r)return;if($("detail")
      '<div class="top">'+leafHTML(r)+'<div class="tt"><span class="kick">'+(r.t==="trail"?"Trail":"Straße")+' · '+esc(r.o)+'</span><h2 id="d-title">'+esc(r.n)+'</h2><span class="when">'+when+'</span></div></div>'+
      '<div class="pills">'+(r.ok?'<span class="pill ok">Termin bestätigt</span>':'<span class="pill open">Termin offen · Vorjahr '+fmt(r.prev)+'</span>')+
      (reg?'<span class="pill reg">Angemeldet ✓</span>':"")+'<span class="hchip">'+(days<=0?"Heute":"noch <b>"+days+"</b> Tage")+'</span><span class="hchip"><b>'+r.dist+'</b> km entfernt</span></div></div>'+
+   '<div class="regbar'+(r.u?"":" solo")+'" role="group" aria-label="Anmeldung">'+
+     (r.u?'<a class="cta" href="'+esc(r.u)+'" target="_blank" rel="noopener" data-goreg="'+r.id+'">Zur Anmeldung '+IC.ext.replace('<svg','<svg width="16" height="16"')+'</a>':"")+
+     '<button type="button" class="regbtn" data-reg="'+r.id+'" aria-pressed="'+reg+'">'+(reg?"✓ Angemeldet":"Ich bin angemeldet")+'</button>'+
+     '<span class="reghint">Schon angemeldet? Hake es hier ab, dann steht der Lauf unter „Meine Läufe“.</span></div>'+
    '<div class="stats">'+tiles+'</div>'+
    '<section class="box"><h3>'+IC.route+'Strecke</h3>'+(r.course?'<div>'+esc(r.course)+'</div>':"")+(r.cutoff?'<div><b>Zeitlimit:</b> '+esc(r.cutoff)+'</div>':"")+'<div class="legs">'+legs+'</div>'+profileSVG(r)+
      (r.gpx?'<div class="btns"><a class="btn" href="'+esc(r.gpx)+'" target="_blank" rel="noopener">GPX-Track '+IC.ext+'</a></div>':"")+'</section>'+
@@ -231,8 +235,6 @@ function openDetail(id){const r=R.find(x=>x.id===id);if(!r)return;if($("detail")
    ((r.info||r.note)?'<section class="box"><h3>'+IC.info+'Gut zu wissen</h3>'+(r.info?'<div>'+esc(r.info)+'</div>':"")+(r.note?'<div>'+esc(r.note)+'</div>':"")+'</section>':"")+
    '<span class="src">Infos: '+esc(host(r.u))+(r.src?' · Termin-Quelle: '+esc(host(r.src)):"")+(r.checked?' · geprüft am '+fmt(r.checked):"")+'. Angaben ohne Gewähr.</span>'+
    '<button type="button" class="linkbtn" data-report="'+r.id+'">Fehler in diesen Angaben melden</button>'+
-   '<div class="actionbar"><div class="in2"><button type="button" class="regbtn" data-reg="'+r.id+'" aria-pressed="'+reg+'">'+(reg?"✓ Angemeldet":"Ich bin angemeldet")+'</button>'+
-     '<a class="cta" href="'+esc(r.u)+'" target="_blank" rel="noopener" data-goreg="'+r.id+'">Zur Anmeldung '+IC.ext.replace('<svg','<svg width="16" height="16"')+'</a></div></div>'+
   '</div>';
   $("detail").hidden=false;$("detail").scrollTop=0;loadWeather(r,days);document.body.classList.add("locked");$("detail").querySelector("[data-close]").focus({preventScroll:true,focusVisible:false})}
 // Detailseite schließen: kurz zur Seite wegschieben (nur wenn Bewegung erlaubt), dann ausblenden
