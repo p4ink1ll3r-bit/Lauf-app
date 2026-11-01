@@ -215,9 +215,9 @@
                        "typ":  "Landkreis",
                        "bezirk":  "Oberbayern",
                        "prio":  24,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  1,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Berchtesgadener Land",
@@ -233,18 +233,18 @@
                        "typ":  "Landkreis",
                        "bezirk":  "Oberbayern",
                        "prio":  26,
-                       "status":  "offen",
-                       "races":  1,
-                       "checked":  null
+                       "status":  "in Arbeit",
+                       "races":  2,
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Ebersberg",
                        "typ":  "Landkreis",
                        "bezirk":  "Oberbayern",
                        "prio":  27,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  1,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Eichstätt",
@@ -269,18 +269,18 @@
                        "typ":  "Landkreis",
                        "bezirk":  "Oberbayern",
                        "prio":  30,
-                       "status":  "offen",
-                       "races":  1,
-                       "checked":  null
+                       "status":  "in Arbeit",
+                       "races":  2,
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Fürstenfeldbruck",
                        "typ":  "Landkreis",
                        "bezirk":  "Oberbayern",
                        "prio":  31,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  1,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Garmisch-Partenkirchen",
@@ -314,9 +314,9 @@
                        "typ":  "Landkreis",
                        "bezirk":  "Oberbayern",
                        "prio":  35,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  1,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK München",
@@ -341,9 +341,9 @@
                        "typ":  "Landkreis",
                        "bezirk":  "Oberbayern",
                        "prio":  38,
-                       "status":  "offen",
-                       "races":  1,
-                       "checked":  null
+                       "status":  "in Arbeit",
+                       "races":  2,
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Rosenheim",
@@ -377,9 +377,9 @@
                        "typ":  "Landkreis",
                        "bezirk":  "Oberbayern",
                        "prio":  42,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  1,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "Stadt Ingolstadt",

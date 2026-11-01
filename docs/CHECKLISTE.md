@@ -2,7 +2,7 @@
 
 Automatisch erzeugt aus data/coverage.json (Stand 2026-11-01). Nicht von Hand ändern, sondern coverage.json pflegen und das Skript neu ausführen.
 
-**Fortschritt:** 0 von 96 vollständig, 27 in Arbeit, 69 offen.
+**Fortschritt:** 0 von 96 vollständig, 35 in Arbeit, 61 offen.
 
 - [x] vollständig  - [~] in Arbeit  - [ ] offen
 
@@ -37,25 +37,25 @@ Automatisch erzeugt aus data/coverage.json (Stand 2026-11-01). Nicht von Hand ä
 ## Oberbayern (0/23)
 
 - [~] LK Altötting - 1 Läufe, geprüft: 2026-11-01
-- [ ] LK Bad Tölz-Wolfratshausen - 1 Läufe, geprüft: nie
+- [~] LK Bad Tölz-Wolfratshausen - 1 Läufe, geprüft: 2026-11-01
 - [ ] LK Berchtesgadener Land - 3 Läufe, geprüft: nie
-- [ ] LK Dachau - 1 Läufe, geprüft: nie
-- [ ] LK Ebersberg - 1 Läufe, geprüft: nie
+- [~] LK Dachau - 2 Läufe, geprüft: 2026-11-01
+- [~] LK Ebersberg - 1 Läufe, geprüft: 2026-11-01
 - [~] LK Eichstätt - 1 Läufe, geprüft: 2026-11-01
 - [~] LK Erding - 0 Läufe, geprüft: 2026-11-01
-- [ ] LK Freising - 1 Läufe, geprüft: nie
-- [ ] LK Fürstenfeldbruck - 1 Läufe, geprüft: nie
+- [~] LK Freising - 2 Läufe, geprüft: 2026-11-01
+- [~] LK Fürstenfeldbruck - 1 Läufe, geprüft: 2026-11-01
 - [ ] LK Garmisch-Partenkirchen - 5 Läufe, geprüft: nie
 - [ ] LK Landsberg am Lech - 2 Läufe, geprüft: nie
 - [ ] LK Miesbach - 2 Läufe, geprüft: nie
-- [ ] LK Mühldorf a. Inn - 1 Läufe, geprüft: nie
+- [~] LK Mühldorf a. Inn - 1 Läufe, geprüft: 2026-11-01
 - [ ] LK München - 5 Läufe, geprüft: nie
 - [~] LK Neuburg-Schrobenhausen - 1 Läufe, geprüft: 2026-11-01
-- [ ] LK Pfaffenhofen a.d.Ilm - 1 Läufe, geprüft: nie
+- [~] LK Pfaffenhofen a.d.Ilm - 2 Läufe, geprüft: 2026-11-01
 - [ ] LK Rosenheim - 4 Läufe, geprüft: nie
 - [ ] LK Starnberg - 2 Läufe, geprüft: nie
 - [ ] LK Traunstein - 7 Läufe, geprüft: nie
-- [ ] LK Weilheim-Schongau - 1 Läufe, geprüft: nie
+- [~] LK Weilheim-Schongau - 1 Läufe, geprüft: 2026-11-01
 - [~] Stadt Ingolstadt - 1 Läufe, geprüft: 2026-11-01
 - [ ] Stadt München - 7 Läufe, geprüft: nie
 - [ ] Stadt Rosenheim - 1 Läufe, geprüft: nie

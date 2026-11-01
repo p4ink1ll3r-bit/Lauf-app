@@ -9194,6 +9194,103 @@
              ],
       "bezirk":  "Oberbayern",
       "kreis":  "Stadt Ingolstadt"
+  },
+  {
+      "id":  "freisinger-volksfestlauf-2027",
+      "type":  "road",
+      "name":  "Freisinger Volksfestlauf",
+      "place":  "Freising",
+      "lat":  48.4029,
+      "lon":  11.7488,
+      "date":  "2027-09-11",
+      "end":  null,
+      "confirmed":  false,
+      "prev_date":  "2026-09-12",
+      "distances":  [
+                        "6,1",
+                        "10"
+                    ],
+      "elevation":  null,
+      "note":  "10-km-Straßenlauf und 6,122-km-Lauf; ca. 500–1.000 Teilnehmer",
+      "url":  "http://www.volksfestlauf.de/",
+      "reg_open":  null,
+      "reg_close":  null,
+      "fee":  null,
+      "start_time":  "15:00",
+      "checked":  "2026-11-01",
+      "source":  "https://www.hdsports.org/laufen/freisinger-volksfestlauf",
+      "start_place":  "Marienplatz, 85354 Freising",
+      "info":  "Veranstalter: LC Freising. Anmeldung über die Veranstalter-Website. Vorjahre: 06.09.2025, 12.09.2026; Startzeit 15:00 gilt für 2026",
+      "na":  [
+  
+             ],
+      "bezirk":  "Oberbayern",
+      "kreis":  "LK Freising"
+  },
+  {
+      "id":  "pfaffenhofener-stadtlauf-2027",
+      "type":  "road",
+      "name":  "Pfaffenhofener Stadtlauf",
+      "place":  "Pfaffenhofen an der Ilm",
+      "lat":  48.5308,
+      "lon":  11.5086,
+      "date":  "2027-10-17",
+      "end":  null,
+      "confirmed":  false,
+      "prev_date":  "2026-10-18",
+      "distances":  [
+                        "5",
+                        "10"
+                    ],
+      "elevation":  null,
+      "note":  "10 km Hauptlauf (4 Stadtrunden), 5 km Fitnesslauf (2 Stadtrunden); Schüler-, Jugend- und Kinderläufe auf dem Volksfestplatz",
+      "url":  "https://ausdauersport-paf.de/stadtlauf/",
+      "reg_open":  null,
+      "reg_close":  null,
+      "fee":  null,
+      "start_time":  null,
+      "checked":  "2026-11-01",
+      "source":  "https://www.runnersworld.de/laufkalender/pfaffenhofener-stadtlauf/",
+      "start_place":  "Volksfestplatz / FSV-Stadion, Türltorstraße 50, 85276 Pfaffenhofen",
+      "info":  "Veranstalter: Ausdauersport Förderverein Pfaffenhofen e.V. (info@ausdauersport-paf.de). Nächster Termin laut Runner\u0027s World noch nicht bekannt; Datum geschätzt aus 18.10.2026",
+      "na":  [
+  
+             ],
+      "bezirk":  "Oberbayern",
+      "kreis":  "LK Pfaffenhofen a.d.Ilm"
+  },
+  {
+      "id":  "karlsfelder-seelauf-2027",
+      "type":  "road",
+      "name":  "Karlsfelder Seelauf",
+      "place":  "Karlsfeld",
+      "lat":  48.2183,
+      "lon":  11.475,
+      "date":  "2027-09-19",
+      "end":  null,
+      "confirmed":  false,
+      "prev_date":  "2026-09-20",
+      "distances":  [
+                        "5",
+                        "10",
+                        "HM"
+                    ],
+      "elevation":  null,
+      "note":  "Halbmarathon, 10 km und 5 km",
+      "url":  null,
+      "reg_open":  null,
+      "reg_close":  null,
+      "fee":  null,
+      "start_time":  null,
+      "checked":  "2026-11-01",
+      "source":  "https://endorphinsrunning.com/races/karlsfelder-seelauf-halbmarathon-karlsfeld",
+      "start_place":  null,
+      "info":  "Veranstalter laut Drittlisting: TSV Eintracht Karlsfeld. Nur aus Drittquellen (Termin 20.09.2026, Online-Anmeldung meist bis Mitte September, Nachmeldung vor Ort möglich); Veranstalterseite nicht abgerufen, bitte noch prüfen",
+      "na":  [
+  
+             ],
+      "bezirk":  "Oberbayern",
+      "kreis":  "LK Dachau"
   }
  ]
 }
