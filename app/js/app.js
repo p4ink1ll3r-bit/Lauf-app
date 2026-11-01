@@ -1,6 +1,6 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
-const APP_VERSION="v5"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+const APP_VERSION="v6"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
 const DATA_DIR="data/";
 const REPORT_URL="";
 const APP_URL=location.origin+location.pathname.replace(/index\.html$/,"");
@@ -269,9 +269,8 @@ function endWelcome(){const s=$("locsheet");if(!s.classList.contains("welcome"))
 // Fenster am Strich oder oben nach unten wischen schließt sie (nicht im Begrüßungsbildschirm)
 document.querySelectorAll(".bsheet").forEach(sh=>{let y0=null,x0=0,dy=0,t0=0,drag=false;
   sh.addEventListener("touchstart",e=>{y0=null;if(e.touches.length!==1||sh.classList.contains("welcome"))return;
-    if(e.target.closest("input,.sugg,select,textarea"))return;
-    const t=e.touches[0],oben=e.target.closest(".grip")||t.clientY-sh.getBoundingClientRect().top<64;
-    if(sh.scrollTop>0&&!oben)return;y0=t.clientY;x0=t.clientX;dy=0;t0=Date.now();drag=false},{passive:true});
+    if(!e.target.closest(".grip,h2"))return;   // gezogen wird nur am Strich oder an der Überschrift
+    const t=e.touches[0];y0=t.clientY;x0=t.clientX;dy=0;t0=Date.now();drag=false},{passive:true});
   sh.addEventListener("touchmove",e=>{if(y0===null)return;const t=e.touches[0];dy=t.clientY-y0;
     if(!drag){if(dy>8&&dy>Math.abs(t.clientX-x0))drag=true;else if(Math.abs(t.clientX-x0)>12){y0=null;return}}
     if(drag){if(dy<0)dy=0;sh.style.animation="none";sh.style.transition="none";sh.style.transform="translateY("+dy+"px)";e.preventDefault()}},{passive:false});
