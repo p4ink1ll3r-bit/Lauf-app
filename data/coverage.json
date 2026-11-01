@@ -1,871 +1,871 @@
 {
- "land": "Bayern",
- "updated": "2026-11-01",
- "hinweis": "Abdeckungs-Checkliste: status offen | in Arbeit | vollständig. prio = Reihenfolge der Bearbeitung.",
- "kreise": [
-  {
-   "kreis": "LK Deggendorf",
-   "typ": "Landkreis",
-   "bezirk": "Niederbayern",
-   "prio": 1,
-   "status": "in Arbeit",
-   "races": 3,
-   "checked": "2026-11-01"
-  },
-  {
-   "kreis": "LK Dingolfing-Landau",
-   "typ": "Landkreis",
-   "bezirk": "Niederbayern",
-   "prio": 2,
-   "status": "in Arbeit",
-   "races": 7,
-   "checked": "2026-11-01"
-  },
-  {
-   "kreis": "LK Freyung-Grafenau",
-   "typ": "Landkreis",
-   "bezirk": "Niederbayern",
-   "prio": 3,
-   "status": "in Arbeit",
-   "races": 8,
-   "checked": "2026-11-01"
-  },
-  {
-   "kreis": "LK Kelheim",
-   "typ": "Landkreis",
-   "bezirk": "Niederbayern",
-   "prio": 4,
-   "status": "in Arbeit",
-   "races": 8,
-   "checked": "2026-11-01"
-  },
-  {
-   "kreis": "LK Landshut",
-   "typ": "Landkreis",
-   "bezirk": "Niederbayern",
-   "prio": 5,
-   "status": "in Arbeit",
-   "races": 3,
-   "checked": "2026-11-01"
-  },
-  {
-   "kreis": "LK Passau",
-   "typ": "Landkreis",
-   "bezirk": "Niederbayern",
-   "prio": 6,
-   "status": "in Arbeit",
-   "races": 7,
-   "checked": "2026-11-01"
-  },
-  {
-   "kreis": "LK Regen",
-   "typ": "Landkreis",
-   "bezirk": "Niederbayern",
-   "prio": 7,
-   "status": "in Arbeit",
-   "races": 4,
-   "checked": "2026-11-01"
-  },
-  {
-   "kreis": "LK Rottal-Inn",
-   "typ": "Landkreis",
-   "bezirk": "Niederbayern",
-   "prio": 8,
-   "status": "in Arbeit",
-   "races": 5,
-   "checked": "2026-11-01"
-  },
-  {
-   "kreis": "LK Straubing-Bogen",
-   "typ": "Landkreis",
-   "bezirk": "Niederbayern",
-   "prio": 9,
-   "status": "in Arbeit",
-   "races": 6,
-   "checked": "2026-11-01"
-  },
-  {
-   "kreis": "Stadt Landshut",
-   "typ": "kreisfreie Stadt",
-   "bezirk": "Niederbayern",
-   "prio": 10,
-   "status": "in Arbeit",
-   "races": 2,
-   "checked": "2026-11-01"
-  },
-  {
-   "kreis": "Stadt Passau",
-   "typ": "kreisfreie Stadt",
-   "bezirk": "Niederbayern",
-   "prio": 11,
-   "status": "in Arbeit",
-   "races": 2,
-   "checked": "2026-11-01"
-  },
-  {
-   "kreis": "Stadt Straubing",
-   "typ": "kreisfreie Stadt",
-   "bezirk": "Niederbayern",
-   "prio": 12,
-   "status": "in Arbeit",
-   "races": 2,
-   "checked": "2026-11-01"
-  },
-  {
-   "kreis": "LK Amberg-Sulzbach",
-   "typ": "Landkreis",
-   "bezirk": "Oberpfalz",
-   "prio": 13,
-   "status": "in Arbeit",
-   "races": 6,
-   "checked": "2026-11-01"
-  },
-  {
-   "kreis": "LK Cham",
-   "typ": "Landkreis",
-   "bezirk": "Oberpfalz",
-   "prio": 14,
-   "status": "in Arbeit",
-   "races": 8,
-   "checked": "2026-11-01"
-  },
-  {
-   "kreis": "LK Neumarkt i.d.OPf.",
-   "typ": "Landkreis",
-   "bezirk": "Oberpfalz",
-   "prio": 15,
-   "status": "in Arbeit",
-   "races": 7,
-   "checked": "2026-11-01"
-  },
-  {
-   "kreis": "LK Neustadt a.d.Waldnaab",
-   "typ": "Landkreis",
-   "bezirk": "Oberpfalz",
-   "prio": 16,
-   "status": "in Arbeit",
-   "races": 3,
-   "checked": "2026-11-01"
-  },
-  {
-   "kreis": "LK Regensburg",
-   "typ": "Landkreis",
-   "bezirk": "Oberpfalz",
-   "prio": 17,
-   "status": "in Arbeit",
-   "races": 7,
-   "checked": "2026-11-01"
-  },
-  {
-   "kreis": "LK Schwandorf",
-   "typ": "Landkreis",
-   "bezirk": "Oberpfalz",
-   "prio": 18,
-   "status": "in Arbeit",
-   "races": 2,
-   "checked": "2026-11-01"
-  },
-  {
-   "kreis": "LK Tirschenreuth",
-   "typ": "Landkreis",
-   "bezirk": "Oberpfalz",
-   "prio": 19,
-   "status": "in Arbeit",
-   "races": 4,
-   "checked": "2026-11-01"
-  },
-  {
-   "kreis": "Stadt Amberg",
-   "typ": "kreisfreie Stadt",
-   "bezirk": "Oberpfalz",
-   "prio": 20,
-   "status": "in Arbeit",
-   "races": 2,
-   "checked": "2026-11-01"
-  },
-  {
-   "kreis": "Stadt Regensburg",
-   "typ": "kreisfreie Stadt",
-   "bezirk": "Oberpfalz",
-   "prio": 21,
-   "status": "in Arbeit",
-   "races": 7,
-   "checked": "2026-11-01"
-  },
-  {
-   "kreis": "Stadt Weiden i.d.OPf.",
-   "typ": "kreisfreie Stadt",
-   "bezirk": "Oberpfalz",
-   "prio": 22,
-   "status": "in Arbeit",
-   "races": 1,
-   "checked": "2026-11-01"
-  },
-  {
-   "kreis": "LK Altötting",
-   "typ": "Landkreis",
-   "bezirk": "Oberbayern",
-   "prio": 23,
-   "status": "offen",
-   "races": 0,
-   "checked": null
-  },
-  {
-   "kreis": "LK Bad Tölz-Wolfratshausen",
-   "typ": "Landkreis",
-   "bezirk": "Oberbayern",
-   "prio": 24,
-   "status": "offen",
-   "races": 1,
-   "checked": null
-  },
-  {
-   "kreis": "LK Berchtesgadener Land",
-   "typ": "Landkreis",
-   "bezirk": "Oberbayern",
-   "prio": 25,
-   "status": "offen",
-   "races": 3,
-   "checked": null
-  },
-  {
-   "kreis": "LK Dachau",
-   "typ": "Landkreis",
-   "bezirk": "Oberbayern",
-   "prio": 26,
-   "status": "offen",
-   "races": 1,
-   "checked": null
-  },
-  {
-   "kreis": "LK Ebersberg",
-   "typ": "Landkreis",
-   "bezirk": "Oberbayern",
-   "prio": 27,
-   "status": "offen",
-   "races": 1,
-   "checked": null
-  },
-  {
-   "kreis": "LK Eichstätt",
-   "typ": "Landkreis",
-   "bezirk": "Oberbayern",
-   "prio": 28,
-   "status": "offen",
-   "races": 0,
-   "checked": null
-  },
-  {
-   "kreis": "LK Erding",
-   "typ": "Landkreis",
-   "bezirk": "Oberbayern",
-   "prio": 29,
-   "status": "offen",
-   "races": 0,
-   "checked": null
-  },
-  {
-   "kreis": "LK Freising",
-   "typ": "Landkreis",
-   "bezirk": "Oberbayern",
-   "prio": 30,
-   "status": "offen",
-   "races": 1,
-   "checked": null
-  },
-  {
-   "kreis": "LK Fürstenfeldbruck",
-   "typ": "Landkreis",
-   "bezirk": "Oberbayern",
-   "prio": 31,
-   "status": "offen",
-   "races": 1,
-   "checked": null
-  },
-  {
-   "kreis": "LK Garmisch-Partenkirchen",
-   "typ": "Landkreis",
-   "bezirk": "Oberbayern",
-   "prio": 32,
-   "status": "offen",
-   "races": 5,
-   "checked": null
-  },
-  {
-   "kreis": "LK Landsberg am Lech",
-   "typ": "Landkreis",
-   "bezirk": "Oberbayern",
-   "prio": 33,
-   "status": "offen",
-   "races": 2,
-   "checked": null
-  },
-  {
-   "kreis": "LK Miesbach",
-   "typ": "Landkreis",
-   "bezirk": "Oberbayern",
-   "prio": 34,
-   "status": "offen",
-   "races": 2,
-   "checked": null
-  },
-  {
-   "kreis": "LK Mühldorf a. Inn",
-   "typ": "Landkreis",
-   "bezirk": "Oberbayern",
-   "prio": 35,
-   "status": "offen",
-   "races": 1,
-   "checked": null
-  },
-  {
-   "kreis": "LK München",
-   "typ": "Landkreis",
-   "bezirk": "Oberbayern",
-   "prio": 36,
-   "status": "offen",
-   "races": 5,
-   "checked": null
-  },
-  {
-   "kreis": "LK Neuburg-Schrobenhausen",
-   "typ": "Landkreis",
-   "bezirk": "Oberbayern",
-   "prio": 37,
-   "status": "offen",
-   "races": 0,
-   "checked": null
-  },
-  {
-   "kreis": "LK Pfaffenhofen a.d.Ilm",
-   "typ": "Landkreis",
-   "bezirk": "Oberbayern",
-   "prio": 38,
-   "status": "offen",
-   "races": 1,
-   "checked": null
-  },
-  {
-   "kreis": "LK Rosenheim",
-   "typ": "Landkreis",
-   "bezirk": "Oberbayern",
-   "prio": 39,
-   "status": "offen",
-   "races": 4,
-   "checked": null
-  },
-  {
-   "kreis": "LK Starnberg",
-   "typ": "Landkreis",
-   "bezirk": "Oberbayern",
-   "prio": 40,
-   "status": "offen",
-   "races": 2,
-   "checked": null
-  },
-  {
-   "kreis": "LK Traunstein",
-   "typ": "Landkreis",
-   "bezirk": "Oberbayern",
-   "prio": 41,
-   "status": "offen",
-   "races": 7,
-   "checked": null
-  },
-  {
-   "kreis": "LK Weilheim-Schongau",
-   "typ": "Landkreis",
-   "bezirk": "Oberbayern",
-   "prio": 42,
-   "status": "offen",
-   "races": 1,
-   "checked": null
-  },
-  {
-   "kreis": "Stadt Ingolstadt",
-   "typ": "kreisfreie Stadt",
-   "bezirk": "Oberbayern",
-   "prio": 43,
-   "status": "offen",
-   "races": 0,
-   "checked": null
-  },
-  {
-   "kreis": "Stadt München",
-   "typ": "kreisfreie Stadt",
-   "bezirk": "Oberbayern",
-   "prio": 44,
-   "status": "offen",
-   "races": 7,
-   "checked": null
-  },
-  {
-   "kreis": "Stadt Rosenheim",
-   "typ": "kreisfreie Stadt",
-   "bezirk": "Oberbayern",
-   "prio": 45,
-   "status": "offen",
-   "races": 1,
-   "checked": null
-  },
-  {
-   "kreis": "LK Aichach-Friedberg",
-   "typ": "Landkreis",
-   "bezirk": "Schwaben",
-   "prio": 46,
-   "status": "offen",
-   "races": 3,
-   "checked": null
-  },
-  {
-   "kreis": "LK Augsburg",
-   "typ": "Landkreis",
-   "bezirk": "Schwaben",
-   "prio": 47,
-   "status": "offen",
-   "races": 2,
-   "checked": null
-  },
-  {
-   "kreis": "LK Dillingen a.d.Donau",
-   "typ": "Landkreis",
-   "bezirk": "Schwaben",
-   "prio": 48,
-   "status": "offen",
-   "races": 2,
-   "checked": null
-  },
-  {
-   "kreis": "LK Donau-Ries",
-   "typ": "Landkreis",
-   "bezirk": "Schwaben",
-   "prio": 49,
-   "status": "offen",
-   "races": 0,
-   "checked": null
-  },
-  {
-   "kreis": "LK Günzburg",
-   "typ": "Landkreis",
-   "bezirk": "Schwaben",
-   "prio": 50,
-   "status": "offen",
-   "races": 0,
-   "checked": null
-  },
-  {
-   "kreis": "LK Lindau (Bodensee)",
-   "typ": "Landkreis",
-   "bezirk": "Schwaben",
-   "prio": 51,
-   "status": "offen",
-   "races": 1,
-   "checked": null
-  },
-  {
-   "kreis": "LK Neu-Ulm",
-   "typ": "Landkreis",
-   "bezirk": "Schwaben",
-   "prio": 52,
-   "status": "offen",
-   "races": 2,
-   "checked": null
-  },
-  {
-   "kreis": "LK Oberallgäu",
-   "typ": "Landkreis",
-   "bezirk": "Schwaben",
-   "prio": 53,
-   "status": "offen",
-   "races": 3,
-   "checked": null
-  },
-  {
-   "kreis": "LK Ostallgäu",
-   "typ": "Landkreis",
-   "bezirk": "Schwaben",
-   "prio": 54,
-   "status": "offen",
-   "races": 3,
-   "checked": null
-  },
-  {
-   "kreis": "LK Unterallgäu",
-   "typ": "Landkreis",
-   "bezirk": "Schwaben",
-   "prio": 55,
-   "status": "offen",
-   "races": 0,
-   "checked": null
-  },
-  {
-   "kreis": "Stadt Augsburg",
-   "typ": "kreisfreie Stadt",
-   "bezirk": "Schwaben",
-   "prio": 56,
-   "status": "offen",
-   "races": 3,
-   "checked": null
-  },
-  {
-   "kreis": "Stadt Kaufbeuren",
-   "typ": "kreisfreie Stadt",
-   "bezirk": "Schwaben",
-   "prio": 57,
-   "status": "offen",
-   "races": 0,
-   "checked": null
-  },
-  {
-   "kreis": "Stadt Kempten (Allgäu)",
-   "typ": "kreisfreie Stadt",
-   "bezirk": "Schwaben",
-   "prio": 58,
-   "status": "offen",
-   "races": 1,
-   "checked": null
-  },
-  {
-   "kreis": "Stadt Memmingen",
-   "typ": "kreisfreie Stadt",
-   "bezirk": "Schwaben",
-   "prio": 59,
-   "status": "offen",
-   "races": 0,
-   "checked": null
-  },
-  {
-   "kreis": "LK Ansbach",
-   "typ": "Landkreis",
-   "bezirk": "Mittelfranken",
-   "prio": 60,
-   "status": "offen",
-   "races": 5,
-   "checked": null
-  },
-  {
-   "kreis": "LK Erlangen-Höchstadt",
-   "typ": "Landkreis",
-   "bezirk": "Mittelfranken",
-   "prio": 61,
-   "status": "offen",
-   "races": 2,
-   "checked": null
-  },
-  {
-   "kreis": "LK Fürth",
-   "typ": "Landkreis",
-   "bezirk": "Mittelfranken",
-   "prio": 62,
-   "status": "offen",
-   "races": 0,
-   "checked": null
-  },
-  {
-   "kreis": "LK Neustadt a.d.Aisch-Bad Windsheim",
-   "typ": "Landkreis",
-   "bezirk": "Mittelfranken",
-   "prio": 63,
-   "status": "offen",
-   "races": 1,
-   "checked": null
-  },
-  {
-   "kreis": "LK Nürnberger Land",
-   "typ": "Landkreis",
-   "bezirk": "Mittelfranken",
-   "prio": 64,
-   "status": "offen",
-   "races": 1,
-   "checked": null
-  },
-  {
-   "kreis": "LK Roth",
-   "typ": "Landkreis",
-   "bezirk": "Mittelfranken",
-   "prio": 65,
-   "status": "offen",
-   "races": 5,
-   "checked": null
-  },
-  {
-   "kreis": "LK Weißenburg-Gunzenhausen",
-   "typ": "Landkreis",
-   "bezirk": "Mittelfranken",
-   "prio": 66,
-   "status": "offen",
-   "races": 6,
-   "checked": null
-  },
-  {
-   "kreis": "Stadt Ansbach",
-   "typ": "kreisfreie Stadt",
-   "bezirk": "Mittelfranken",
-   "prio": 67,
-   "status": "offen",
-   "races": 0,
-   "checked": null
-  },
-  {
-   "kreis": "Stadt Erlangen",
-   "typ": "kreisfreie Stadt",
-   "bezirk": "Mittelfranken",
-   "prio": 68,
-   "status": "offen",
-   "races": 1,
-   "checked": null
-  },
-  {
-   "kreis": "Stadt Fürth",
-   "typ": "kreisfreie Stadt",
-   "bezirk": "Mittelfranken",
-   "prio": 69,
-   "status": "offen",
-   "races": 1,
-   "checked": null
-  },
-  {
-   "kreis": "Stadt Nürnberg",
-   "typ": "kreisfreie Stadt",
-   "bezirk": "Mittelfranken",
-   "prio": 70,
-   "status": "offen",
-   "races": 3,
-   "checked": null
-  },
-  {
-   "kreis": "Stadt Schwabach",
-   "typ": "kreisfreie Stadt",
-   "bezirk": "Mittelfranken",
-   "prio": 71,
-   "status": "offen",
-   "races": 1,
-   "checked": null
-  },
-  {
-   "kreis": "LK Bamberg",
-   "typ": "Landkreis",
-   "bezirk": "Oberfranken",
-   "prio": 72,
-   "status": "offen",
-   "races": 3,
-   "checked": null
-  },
-  {
-   "kreis": "LK Bayreuth",
-   "typ": "Landkreis",
-   "bezirk": "Oberfranken",
-   "prio": 73,
-   "status": "offen",
-   "races": 2,
-   "checked": null
-  },
-  {
-   "kreis": "LK Coburg",
-   "typ": "Landkreis",
-   "bezirk": "Oberfranken",
-   "prio": 74,
-   "status": "offen",
-   "races": 0,
-   "checked": null
-  },
-  {
-   "kreis": "LK Forchheim",
-   "typ": "Landkreis",
-   "bezirk": "Oberfranken",
-   "prio": 75,
-   "status": "offen",
-   "races": 4,
-   "checked": null
-  },
-  {
-   "kreis": "LK Hof",
-   "typ": "Landkreis",
-   "bezirk": "Oberfranken",
-   "prio": 76,
-   "status": "offen",
-   "races": 0,
-   "checked": null
-  },
-  {
-   "kreis": "LK Kronach",
-   "typ": "Landkreis",
-   "bezirk": "Oberfranken",
-   "prio": 77,
-   "status": "offen",
-   "races": 1,
-   "checked": null
-  },
-  {
-   "kreis": "LK Kulmbach",
-   "typ": "Landkreis",
-   "bezirk": "Oberfranken",
-   "prio": 78,
-   "status": "offen",
-   "races": 4,
-   "checked": null
-  },
-  {
-   "kreis": "LK Lichtenfels",
-   "typ": "Landkreis",
-   "bezirk": "Oberfranken",
-   "prio": 79,
-   "status": "offen",
-   "races": 4,
-   "checked": null
-  },
-  {
-   "kreis": "LK Wunsiedel i. Fichtelgebirge",
-   "typ": "Landkreis",
-   "bezirk": "Oberfranken",
-   "prio": 80,
-   "status": "offen",
-   "races": 1,
-   "checked": null
-  },
-  {
-   "kreis": "Stadt Bamberg",
-   "typ": "kreisfreie Stadt",
-   "bezirk": "Oberfranken",
-   "prio": 81,
-   "status": "offen",
-   "races": 1,
-   "checked": null
-  },
-  {
-   "kreis": "Stadt Bayreuth",
-   "typ": "kreisfreie Stadt",
-   "bezirk": "Oberfranken",
-   "prio": 82,
-   "status": "offen",
-   "races": 0,
-   "checked": null
-  },
-  {
-   "kreis": "Stadt Coburg",
-   "typ": "kreisfreie Stadt",
-   "bezirk": "Oberfranken",
-   "prio": 83,
-   "status": "offen",
-   "races": 1,
-   "checked": null
-  },
-  {
-   "kreis": "Stadt Hof",
-   "typ": "kreisfreie Stadt",
-   "bezirk": "Oberfranken",
-   "prio": 84,
-   "status": "offen",
-   "races": 0,
-   "checked": null
-  },
-  {
-   "kreis": "LK Aschaffenburg",
-   "typ": "Landkreis",
-   "bezirk": "Unterfranken",
-   "prio": 85,
-   "status": "offen",
-   "races": 2,
-   "checked": null
-  },
-  {
-   "kreis": "LK Bad Kissingen",
-   "typ": "Landkreis",
-   "bezirk": "Unterfranken",
-   "prio": 86,
-   "status": "offen",
-   "races": 2,
-   "checked": null
-  },
-  {
-   "kreis": "LK Haßberge",
-   "typ": "Landkreis",
-   "bezirk": "Unterfranken",
-   "prio": 87,
-   "status": "offen",
-   "races": 1,
-   "checked": null
-  },
-  {
-   "kreis": "LK Kitzingen",
-   "typ": "Landkreis",
-   "bezirk": "Unterfranken",
-   "prio": 88,
-   "status": "offen",
-   "races": 1,
-   "checked": null
-  },
-  {
-   "kreis": "LK Main-Spessart",
-   "typ": "Landkreis",
-   "bezirk": "Unterfranken",
-   "prio": 89,
-   "status": "offen",
-   "races": 1,
-   "checked": null
-  },
-  {
-   "kreis": "LK Miltenberg",
-   "typ": "Landkreis",
-   "bezirk": "Unterfranken",
-   "prio": 90,
-   "status": "offen",
-   "races": 3,
-   "checked": null
-  },
-  {
-   "kreis": "LK Rhön-Grabfeld",
-   "typ": "Landkreis",
-   "bezirk": "Unterfranken",
-   "prio": 91,
-   "status": "offen",
-   "races": 1,
-   "checked": null
-  },
-  {
-   "kreis": "LK Schweinfurt",
-   "typ": "Landkreis",
-   "bezirk": "Unterfranken",
-   "prio": 92,
-   "status": "offen",
-   "races": 1,
-   "checked": null
-  },
-  {
-   "kreis": "LK Würzburg",
-   "typ": "Landkreis",
-   "bezirk": "Unterfranken",
-   "prio": 93,
-   "status": "offen",
-   "races": 3,
-   "checked": null
-  },
-  {
-   "kreis": "Stadt Aschaffenburg",
-   "typ": "kreisfreie Stadt",
-   "bezirk": "Unterfranken",
-   "prio": 94,
-   "status": "offen",
-   "races": 0,
-   "checked": null
-  },
-  {
-   "kreis": "Stadt Schweinfurt",
-   "typ": "kreisfreie Stadt",
-   "bezirk": "Unterfranken",
-   "prio": 95,
-   "status": "offen",
-   "races": 1,
-   "checked": null
-  },
-  {
-   "kreis": "Stadt Würzburg",
-   "typ": "kreisfreie Stadt",
-   "bezirk": "Unterfranken",
-   "prio": 96,
-   "status": "offen",
-   "races": 4,
-   "checked": null
-  }
- ]
+    "land":  "Bayern",
+    "updated":  "2026-11-01",
+    "hinweis":  "Abdeckungs-Checkliste: status offen | in Arbeit | vollständig. prio = Reihenfolge der Bearbeitung.",
+    "kreise":  [
+                   {
+                       "kreis":  "LK Deggendorf",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Niederbayern",
+                       "prio":  1,
+                       "status":  "in Arbeit",
+                       "races":  3,
+                       "checked":  "2026-11-01"
+                   },
+                   {
+                       "kreis":  "LK Dingolfing-Landau",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Niederbayern",
+                       "prio":  2,
+                       "status":  "in Arbeit",
+                       "races":  7,
+                       "checked":  "2026-11-01"
+                   },
+                   {
+                       "kreis":  "LK Freyung-Grafenau",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Niederbayern",
+                       "prio":  3,
+                       "status":  "in Arbeit",
+                       "races":  8,
+                       "checked":  "2026-11-01"
+                   },
+                   {
+                       "kreis":  "LK Kelheim",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Niederbayern",
+                       "prio":  4,
+                       "status":  "in Arbeit",
+                       "races":  8,
+                       "checked":  "2026-11-01"
+                   },
+                   {
+                       "kreis":  "LK Landshut",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Niederbayern",
+                       "prio":  5,
+                       "status":  "in Arbeit",
+                       "races":  3,
+                       "checked":  "2026-11-01"
+                   },
+                   {
+                       "kreis":  "LK Passau",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Niederbayern",
+                       "prio":  6,
+                       "status":  "in Arbeit",
+                       "races":  7,
+                       "checked":  "2026-11-01"
+                   },
+                   {
+                       "kreis":  "LK Regen",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Niederbayern",
+                       "prio":  7,
+                       "status":  "in Arbeit",
+                       "races":  4,
+                       "checked":  "2026-11-01"
+                   },
+                   {
+                       "kreis":  "LK Rottal-Inn",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Niederbayern",
+                       "prio":  8,
+                       "status":  "in Arbeit",
+                       "races":  5,
+                       "checked":  "2026-11-01"
+                   },
+                   {
+                       "kreis":  "LK Straubing-Bogen",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Niederbayern",
+                       "prio":  9,
+                       "status":  "in Arbeit",
+                       "races":  6,
+                       "checked":  "2026-11-01"
+                   },
+                   {
+                       "kreis":  "Stadt Landshut",
+                       "typ":  "kreisfreie Stadt",
+                       "bezirk":  "Niederbayern",
+                       "prio":  10,
+                       "status":  "in Arbeit",
+                       "races":  2,
+                       "checked":  "2026-11-01"
+                   },
+                   {
+                       "kreis":  "Stadt Passau",
+                       "typ":  "kreisfreie Stadt",
+                       "bezirk":  "Niederbayern",
+                       "prio":  11,
+                       "status":  "in Arbeit",
+                       "races":  2,
+                       "checked":  "2026-11-01"
+                   },
+                   {
+                       "kreis":  "Stadt Straubing",
+                       "typ":  "kreisfreie Stadt",
+                       "bezirk":  "Niederbayern",
+                       "prio":  12,
+                       "status":  "in Arbeit",
+                       "races":  2,
+                       "checked":  "2026-11-01"
+                   },
+                   {
+                       "kreis":  "LK Amberg-Sulzbach",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Oberpfalz",
+                       "prio":  13,
+                       "status":  "in Arbeit",
+                       "races":  6,
+                       "checked":  "2026-11-01"
+                   },
+                   {
+                       "kreis":  "LK Cham",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Oberpfalz",
+                       "prio":  14,
+                       "status":  "in Arbeit",
+                       "races":  8,
+                       "checked":  "2026-11-01"
+                   },
+                   {
+                       "kreis":  "LK Neumarkt i.d.OPf.",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Oberpfalz",
+                       "prio":  15,
+                       "status":  "in Arbeit",
+                       "races":  7,
+                       "checked":  "2026-11-01"
+                   },
+                   {
+                       "kreis":  "LK Neustadt a.d.Waldnaab",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Oberpfalz",
+                       "prio":  16,
+                       "status":  "in Arbeit",
+                       "races":  3,
+                       "checked":  "2026-11-01"
+                   },
+                   {
+                       "kreis":  "LK Regensburg",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Oberpfalz",
+                       "prio":  17,
+                       "status":  "in Arbeit",
+                       "races":  7,
+                       "checked":  "2026-11-01"
+                   },
+                   {
+                       "kreis":  "LK Schwandorf",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Oberpfalz",
+                       "prio":  18,
+                       "status":  "in Arbeit",
+                       "races":  2,
+                       "checked":  "2026-11-01"
+                   },
+                   {
+                       "kreis":  "LK Tirschenreuth",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Oberpfalz",
+                       "prio":  19,
+                       "status":  "in Arbeit",
+                       "races":  4,
+                       "checked":  "2026-11-01"
+                   },
+                   {
+                       "kreis":  "Stadt Amberg",
+                       "typ":  "kreisfreie Stadt",
+                       "bezirk":  "Oberpfalz",
+                       "prio":  20,
+                       "status":  "in Arbeit",
+                       "races":  2,
+                       "checked":  "2026-11-01"
+                   },
+                   {
+                       "kreis":  "Stadt Regensburg",
+                       "typ":  "kreisfreie Stadt",
+                       "bezirk":  "Oberpfalz",
+                       "prio":  21,
+                       "status":  "in Arbeit",
+                       "races":  7,
+                       "checked":  "2026-11-01"
+                   },
+                   {
+                       "kreis":  "Stadt Weiden i.d.OPf.",
+                       "typ":  "kreisfreie Stadt",
+                       "bezirk":  "Oberpfalz",
+                       "prio":  22,
+                       "status":  "in Arbeit",
+                       "races":  1,
+                       "checked":  "2026-11-01"
+                   },
+                   {
+                       "kreis":  "LK Altötting",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Oberbayern",
+                       "prio":  23,
+                       "status":  "in Arbeit",
+                       "races":  1,
+                       "checked":  "2026-11-01"
+                   },
+                   {
+                       "kreis":  "LK Bad Tölz-Wolfratshausen",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Oberbayern",
+                       "prio":  24,
+                       "status":  "offen",
+                       "races":  1,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Berchtesgadener Land",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Oberbayern",
+                       "prio":  25,
+                       "status":  "offen",
+                       "races":  3,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Dachau",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Oberbayern",
+                       "prio":  26,
+                       "status":  "offen",
+                       "races":  1,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Ebersberg",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Oberbayern",
+                       "prio":  27,
+                       "status":  "offen",
+                       "races":  1,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Eichstätt",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Oberbayern",
+                       "prio":  28,
+                       "status":  "in Arbeit",
+                       "races":  1,
+                       "checked":  "2026-11-01"
+                   },
+                   {
+                       "kreis":  "LK Erding",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Oberbayern",
+                       "prio":  29,
+                       "status":  "in Arbeit",
+                       "races":  0,
+                       "checked":  "2026-11-01"
+                   },
+                   {
+                       "kreis":  "LK Freising",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Oberbayern",
+                       "prio":  30,
+                       "status":  "offen",
+                       "races":  1,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Fürstenfeldbruck",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Oberbayern",
+                       "prio":  31,
+                       "status":  "offen",
+                       "races":  1,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Garmisch-Partenkirchen",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Oberbayern",
+                       "prio":  32,
+                       "status":  "offen",
+                       "races":  5,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Landsberg am Lech",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Oberbayern",
+                       "prio":  33,
+                       "status":  "offen",
+                       "races":  2,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Miesbach",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Oberbayern",
+                       "prio":  34,
+                       "status":  "offen",
+                       "races":  2,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Mühldorf a. Inn",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Oberbayern",
+                       "prio":  35,
+                       "status":  "offen",
+                       "races":  1,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK München",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Oberbayern",
+                       "prio":  36,
+                       "status":  "offen",
+                       "races":  5,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Neuburg-Schrobenhausen",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Oberbayern",
+                       "prio":  37,
+                       "status":  "in Arbeit",
+                       "races":  1,
+                       "checked":  "2026-11-01"
+                   },
+                   {
+                       "kreis":  "LK Pfaffenhofen a.d.Ilm",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Oberbayern",
+                       "prio":  38,
+                       "status":  "offen",
+                       "races":  1,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Rosenheim",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Oberbayern",
+                       "prio":  39,
+                       "status":  "offen",
+                       "races":  4,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Starnberg",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Oberbayern",
+                       "prio":  40,
+                       "status":  "offen",
+                       "races":  2,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Traunstein",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Oberbayern",
+                       "prio":  41,
+                       "status":  "offen",
+                       "races":  7,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Weilheim-Schongau",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Oberbayern",
+                       "prio":  42,
+                       "status":  "offen",
+                       "races":  1,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "Stadt Ingolstadt",
+                       "typ":  "kreisfreie Stadt",
+                       "bezirk":  "Oberbayern",
+                       "prio":  43,
+                       "status":  "in Arbeit",
+                       "races":  1,
+                       "checked":  "2026-11-01"
+                   },
+                   {
+                       "kreis":  "Stadt München",
+                       "typ":  "kreisfreie Stadt",
+                       "bezirk":  "Oberbayern",
+                       "prio":  44,
+                       "status":  "offen",
+                       "races":  7,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "Stadt Rosenheim",
+                       "typ":  "kreisfreie Stadt",
+                       "bezirk":  "Oberbayern",
+                       "prio":  45,
+                       "status":  "offen",
+                       "races":  1,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Aichach-Friedberg",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Schwaben",
+                       "prio":  46,
+                       "status":  "offen",
+                       "races":  3,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Augsburg",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Schwaben",
+                       "prio":  47,
+                       "status":  "offen",
+                       "races":  2,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Dillingen a.d.Donau",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Schwaben",
+                       "prio":  48,
+                       "status":  "offen",
+                       "races":  2,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Donau-Ries",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Schwaben",
+                       "prio":  49,
+                       "status":  "offen",
+                       "races":  0,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Günzburg",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Schwaben",
+                       "prio":  50,
+                       "status":  "offen",
+                       "races":  0,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Lindau (Bodensee)",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Schwaben",
+                       "prio":  51,
+                       "status":  "offen",
+                       "races":  1,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Neu-Ulm",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Schwaben",
+                       "prio":  52,
+                       "status":  "offen",
+                       "races":  2,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Oberallgäu",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Schwaben",
+                       "prio":  53,
+                       "status":  "offen",
+                       "races":  3,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Ostallgäu",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Schwaben",
+                       "prio":  54,
+                       "status":  "offen",
+                       "races":  3,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Unterallgäu",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Schwaben",
+                       "prio":  55,
+                       "status":  "offen",
+                       "races":  0,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "Stadt Augsburg",
+                       "typ":  "kreisfreie Stadt",
+                       "bezirk":  "Schwaben",
+                       "prio":  56,
+                       "status":  "offen",
+                       "races":  3,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "Stadt Kaufbeuren",
+                       "typ":  "kreisfreie Stadt",
+                       "bezirk":  "Schwaben",
+                       "prio":  57,
+                       "status":  "offen",
+                       "races":  0,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "Stadt Kempten (Allgäu)",
+                       "typ":  "kreisfreie Stadt",
+                       "bezirk":  "Schwaben",
+                       "prio":  58,
+                       "status":  "offen",
+                       "races":  1,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "Stadt Memmingen",
+                       "typ":  "kreisfreie Stadt",
+                       "bezirk":  "Schwaben",
+                       "prio":  59,
+                       "status":  "offen",
+                       "races":  0,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Ansbach",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Mittelfranken",
+                       "prio":  60,
+                       "status":  "offen",
+                       "races":  5,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Erlangen-Höchstadt",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Mittelfranken",
+                       "prio":  61,
+                       "status":  "offen",
+                       "races":  2,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Fürth",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Mittelfranken",
+                       "prio":  62,
+                       "status":  "offen",
+                       "races":  0,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Neustadt a.d.Aisch-Bad Windsheim",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Mittelfranken",
+                       "prio":  63,
+                       "status":  "offen",
+                       "races":  1,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Nürnberger Land",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Mittelfranken",
+                       "prio":  64,
+                       "status":  "offen",
+                       "races":  1,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Roth",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Mittelfranken",
+                       "prio":  65,
+                       "status":  "offen",
+                       "races":  5,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Weißenburg-Gunzenhausen",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Mittelfranken",
+                       "prio":  66,
+                       "status":  "offen",
+                       "races":  6,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "Stadt Ansbach",
+                       "typ":  "kreisfreie Stadt",
+                       "bezirk":  "Mittelfranken",
+                       "prio":  67,
+                       "status":  "offen",
+                       "races":  0,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "Stadt Erlangen",
+                       "typ":  "kreisfreie Stadt",
+                       "bezirk":  "Mittelfranken",
+                       "prio":  68,
+                       "status":  "offen",
+                       "races":  1,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "Stadt Fürth",
+                       "typ":  "kreisfreie Stadt",
+                       "bezirk":  "Mittelfranken",
+                       "prio":  69,
+                       "status":  "offen",
+                       "races":  1,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "Stadt Nürnberg",
+                       "typ":  "kreisfreie Stadt",
+                       "bezirk":  "Mittelfranken",
+                       "prio":  70,
+                       "status":  "offen",
+                       "races":  3,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "Stadt Schwabach",
+                       "typ":  "kreisfreie Stadt",
+                       "bezirk":  "Mittelfranken",
+                       "prio":  71,
+                       "status":  "offen",
+                       "races":  1,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Bamberg",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Oberfranken",
+                       "prio":  72,
+                       "status":  "offen",
+                       "races":  3,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Bayreuth",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Oberfranken",
+                       "prio":  73,
+                       "status":  "offen",
+                       "races":  2,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Coburg",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Oberfranken",
+                       "prio":  74,
+                       "status":  "offen",
+                       "races":  0,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Forchheim",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Oberfranken",
+                       "prio":  75,
+                       "status":  "offen",
+                       "races":  4,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Hof",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Oberfranken",
+                       "prio":  76,
+                       "status":  "offen",
+                       "races":  0,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Kronach",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Oberfranken",
+                       "prio":  77,
+                       "status":  "offen",
+                       "races":  1,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Kulmbach",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Oberfranken",
+                       "prio":  78,
+                       "status":  "offen",
+                       "races":  4,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Lichtenfels",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Oberfranken",
+                       "prio":  79,
+                       "status":  "offen",
+                       "races":  4,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Wunsiedel i. Fichtelgebirge",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Oberfranken",
+                       "prio":  80,
+                       "status":  "offen",
+                       "races":  1,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "Stadt Bamberg",
+                       "typ":  "kreisfreie Stadt",
+                       "bezirk":  "Oberfranken",
+                       "prio":  81,
+                       "status":  "offen",
+                       "races":  1,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "Stadt Bayreuth",
+                       "typ":  "kreisfreie Stadt",
+                       "bezirk":  "Oberfranken",
+                       "prio":  82,
+                       "status":  "offen",
+                       "races":  0,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "Stadt Coburg",
+                       "typ":  "kreisfreie Stadt",
+                       "bezirk":  "Oberfranken",
+                       "prio":  83,
+                       "status":  "offen",
+                       "races":  1,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "Stadt Hof",
+                       "typ":  "kreisfreie Stadt",
+                       "bezirk":  "Oberfranken",
+                       "prio":  84,
+                       "status":  "offen",
+                       "races":  0,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Aschaffenburg",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Unterfranken",
+                       "prio":  85,
+                       "status":  "offen",
+                       "races":  2,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Bad Kissingen",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Unterfranken",
+                       "prio":  86,
+                       "status":  "offen",
+                       "races":  2,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Haßberge",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Unterfranken",
+                       "prio":  87,
+                       "status":  "offen",
+                       "races":  1,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Kitzingen",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Unterfranken",
+                       "prio":  88,
+                       "status":  "offen",
+                       "races":  1,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Main-Spessart",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Unterfranken",
+                       "prio":  89,
+                       "status":  "offen",
+                       "races":  1,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Miltenberg",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Unterfranken",
+                       "prio":  90,
+                       "status":  "offen",
+                       "races":  3,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Rhön-Grabfeld",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Unterfranken",
+                       "prio":  91,
+                       "status":  "offen",
+                       "races":  1,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Schweinfurt",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Unterfranken",
+                       "prio":  92,
+                       "status":  "offen",
+                       "races":  1,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "LK Würzburg",
+                       "typ":  "Landkreis",
+                       "bezirk":  "Unterfranken",
+                       "prio":  93,
+                       "status":  "offen",
+                       "races":  3,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "Stadt Aschaffenburg",
+                       "typ":  "kreisfreie Stadt",
+                       "bezirk":  "Unterfranken",
+                       "prio":  94,
+                       "status":  "offen",
+                       "races":  0,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "Stadt Schweinfurt",
+                       "typ":  "kreisfreie Stadt",
+                       "bezirk":  "Unterfranken",
+                       "prio":  95,
+                       "status":  "offen",
+                       "races":  1,
+                       "checked":  null
+                   },
+                   {
+                       "kreis":  "Stadt Würzburg",
+                       "typ":  "kreisfreie Stadt",
+                       "bezirk":  "Unterfranken",
+                       "prio":  96,
+                       "status":  "offen",
+                       "races":  4,
+                       "checked":  null
+                   }
+               ]
 }
