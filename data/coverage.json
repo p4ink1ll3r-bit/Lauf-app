@@ -647,117 +647,117 @@
                        "typ":  "Landkreis",
                        "bezirk":  "Oberfranken",
                        "prio":  72,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  3,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Bayreuth",
                        "typ":  "Landkreis",
                        "bezirk":  "Oberfranken",
                        "prio":  73,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  2,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Coburg",
                        "typ":  "Landkreis",
                        "bezirk":  "Oberfranken",
                        "prio":  74,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  0,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Forchheim",
                        "typ":  "Landkreis",
                        "bezirk":  "Oberfranken",
                        "prio":  75,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  4,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Hof",
                        "typ":  "Landkreis",
                        "bezirk":  "Oberfranken",
                        "prio":  76,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  0,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Kronach",
                        "typ":  "Landkreis",
                        "bezirk":  "Oberfranken",
                        "prio":  77,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  1,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Kulmbach",
                        "typ":  "Landkreis",
                        "bezirk":  "Oberfranken",
                        "prio":  78,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  4,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Lichtenfels",
                        "typ":  "Landkreis",
                        "bezirk":  "Oberfranken",
                        "prio":  79,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  4,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Wunsiedel i. Fichtelgebirge",
                        "typ":  "Landkreis",
                        "bezirk":  "Oberfranken",
                        "prio":  80,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  1,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "Stadt Bamberg",
                        "typ":  "kreisfreie Stadt",
                        "bezirk":  "Oberfranken",
                        "prio":  81,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  1,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "Stadt Bayreuth",
                        "typ":  "kreisfreie Stadt",
                        "bezirk":  "Oberfranken",
                        "prio":  82,
-                       "status":  "offen",
-                       "races":  0,
-                       "checked":  null
+                       "status":  "in Arbeit",
+                       "races":  2,
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "Stadt Coburg",
                        "typ":  "kreisfreie Stadt",
                        "bezirk":  "Oberfranken",
                        "prio":  83,
-                       "status":  "offen",
-                       "races":  1,
-                       "checked":  null
+                       "status":  "in Arbeit",
+                       "races":  2,
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "Stadt Hof",
                        "typ":  "kreisfreie Stadt",
                        "bezirk":  "Oberfranken",
                        "prio":  84,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  0,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Aschaffenburg",

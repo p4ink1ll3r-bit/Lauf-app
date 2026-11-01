@@ -9677,6 +9677,104 @@
              ],
       "bezirk":  "Mittelfranken",
       "kreis":  "LK Weißenburg-Gunzenhausen"
+  },
+  {
+      "id":  "lauf-rund-um-die-veste-coburg-2027",
+      "type":  "road",
+      "name":  "Lauf rund um die Veste Coburg",
+      "place":  "Coburg",
+      "lat":  50.2612,
+      "lon":  10.9627,
+      "date":  "2027-07-04",
+      "end":  null,
+      "confirmed":  false,
+      "prev_date":  "2026-07-05",
+      "distances":  [
+                        "10"
+                    ],
+      "elevation":  [
+                        150
+                    ],
+      "note":  "10 km mit ca. 150 m Höhenunterschied; Bambini-, Kinder- und Jugendläufe",
+      "url":  "https://www.veste-lauf.de",
+      "reg_open":  null,
+      "reg_close":  null,
+      "fee":  null,
+      "start_time":  null,
+      "checked":  "2026-11-01",
+      "source":  "https://www.runnersworld.de/laufkalender/laufrundumdievestecoburg/",
+      "start_place":  "Dr.-Stocke-Stadion, 96450 Coburg",
+      "info":  "Kontakt info@vestelauf.de. hdsports nennt 04.07.2027 als fixierten Termin, Runner\u0027s World sagt, der nächste Termin sei noch nicht bekannt; deshalb als offen markiert. Startgeld und Anmeldung nicht angegeben",
+      "na":  [
+  
+             ],
+      "bezirk":  "Oberfranken",
+      "kreis":  "Stadt Coburg"
+  },
+  {
+      "id":  "maisels-funrun-bayreuth-2027",
+      "type":  "road",
+      "name":  "Maisel\u0027s FunRun Bayreuth",
+      "place":  "Bayreuth",
+      "lat":  49.9427,
+      "lon":  11.5761,
+      "date":  "2027-05-09",
+      "end":  null,
+      "confirmed":  false,
+      "prev_date":  "2026-05-10",
+      "distances":  [
+                        "5",
+                        "HM"
+                    ],
+      "elevation":  null,
+      "note":  "Halbmarathon, Viertelmarathon und 5-km-Lauf; Kinderläufe (U12, U10, Bambini U8, Zwergenlauf U6)",
+      "url":  "https://www.maisels-funrun.de",
+      "reg_open":  null,
+      "reg_close":  null,
+      "fee":  "Vorjahr (2026): Halbmarathon 40 € Frühbucher bis 06.12.2025, danach 47 € bis 09.04.2026; Viertelmarathon 34 / 41 €; 5 km 26 / 32 €",
+      "start_time":  null,
+      "checked":  "2026-11-01",
+      "source":  "https://www.festivalsindeutschland.de/festival/maisels-funrun-bayreuth",
+      "start_place":  "Brauerei Gebr. Maisel, Hindenburgstraße 9, 95445 Bayreuth",
+      "info":  "Veranstalter: Brauerei Gebr. Maisel. 2026 war die 21. Auflage, Anmeldung ab 11.11.2025, alle Läufe waren ausgebucht. Das Vorjahr deutet darauf hin, dass die Anmeldung für 2027 im November öffnet und schnell voll ist. Datum 2027 geschätzt",
+      "na":  [
+  
+             ],
+      "bezirk":  "Oberfranken",
+      "kreis":  "Stadt Bayreuth"
+  },
+  {
+      "id":  "mainauenlauf-bayreuth-2027",
+      "type":  "road",
+      "name":  "Mainauenlauf Bayreuth",
+      "place":  "Bayreuth",
+      "lat":  49.936,
+      "lon":  11.585,
+      "date":  "2027-06-13",
+      "end":  null,
+      "confirmed":  false,
+      "prev_date":  "2026-06-14",
+      "distances":  [
+                        "5",
+                        "10",
+                        "HM"
+                    ],
+      "elevation":  null,
+      "note":  "Halbmarathon, 10-km-Hauptlauf, 5-km-Hobbylauf, Nordic Walking 5 km, Staffel 4×5 km, Kinder- und Schülerlauf",
+      "url":  "https://www.mainauenlauf.de",
+      "reg_open":  null,
+      "reg_close":  null,
+      "fee":  null,
+      "start_time":  "10:20",
+      "checked":  "2026-11-01",
+      "source":  "https://www.festivalsindeutschland.de/festival/mainauenlauf-bayreuth",
+      "start_place":  "Gelände der ehemaligen Landesgartenschau (Wilhelminenaue), Grünes Kabinett, 95448 Bayreuth",
+      "info":  "Veranstalter: MaliCrew e.V. Startzeit gilt für den Halbmarathon 2026 (5 km 10:10, 10 km 11:20). 2026 Online-Anmeldeschluss 01.06., Nachmeldung vor Ort gegen 5 € Aufpreis. Startgebühren laut Ausschreibung auf mainauenlauf.de. Datum 2027 geschätzt",
+      "na":  [
+  
+             ],
+      "bezirk":  "Oberfranken",
+      "kreis":  "Stadt Bayreuth"
   }
  ]
 }

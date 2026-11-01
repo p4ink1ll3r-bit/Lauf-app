@@ -2,7 +2,7 @@
 
 Automatisch erzeugt aus data/coverage.json (Stand 2026-11-01). Nicht von Hand ändern, sondern coverage.json pflegen und das Skript neu ausführen.
 
-**Fortschritt:** 0 von 96 vollständig, 71 in Arbeit, 25 offen.
+**Fortschritt:** 0 von 96 vollständig, 84 in Arbeit, 12 offen.
 
 - [x] vollständig  - [~] in Arbeit  - [ ] offen
 
@@ -94,19 +94,19 @@ Automatisch erzeugt aus data/coverage.json (Stand 2026-11-01). Nicht von Hand ä
 
 ## Oberfranken (0/13)
 
-- [ ] LK Bamberg - 3 Läufe, geprüft: nie
-- [ ] LK Bayreuth - 2 Läufe, geprüft: nie
-- [ ] LK Coburg - 0 Läufe, geprüft: nie
-- [ ] LK Forchheim - 4 Läufe, geprüft: nie
-- [ ] LK Hof - 0 Läufe, geprüft: nie
-- [ ] LK Kronach - 1 Läufe, geprüft: nie
-- [ ] LK Kulmbach - 4 Läufe, geprüft: nie
-- [ ] LK Lichtenfels - 4 Läufe, geprüft: nie
-- [ ] LK Wunsiedel i. Fichtelgebirge - 1 Läufe, geprüft: nie
-- [ ] Stadt Bamberg - 1 Läufe, geprüft: nie
-- [ ] Stadt Bayreuth - 0 Läufe, geprüft: nie
-- [ ] Stadt Coburg - 1 Läufe, geprüft: nie
-- [ ] Stadt Hof - 0 Läufe, geprüft: nie
+- [~] LK Bamberg - 3 Läufe, geprüft: 2026-11-01
+- [~] LK Bayreuth - 2 Läufe, geprüft: 2026-11-01
+- [~] LK Coburg - 0 Läufe, geprüft: 2026-11-01
+- [~] LK Forchheim - 4 Läufe, geprüft: 2026-11-01
+- [~] LK Hof - 0 Läufe, geprüft: 2026-11-01
+- [~] LK Kronach - 1 Läufe, geprüft: 2026-11-01
+- [~] LK Kulmbach - 4 Läufe, geprüft: 2026-11-01
+- [~] LK Lichtenfels - 4 Läufe, geprüft: 2026-11-01
+- [~] LK Wunsiedel i. Fichtelgebirge - 1 Läufe, geprüft: 2026-11-01
+- [~] Stadt Bamberg - 1 Läufe, geprüft: 2026-11-01
+- [~] Stadt Bayreuth - 2 Läufe, geprüft: 2026-11-01
+- [~] Stadt Coburg - 2 Läufe, geprüft: 2026-11-01
+- [~] Stadt Hof - 0 Läufe, geprüft: 2026-11-01
 
 ## Unterfranken (0/12)
 
