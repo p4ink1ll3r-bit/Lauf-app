@@ -529,13 +529,10 @@ details.more .kv{margin-top:6px}
 .quick{display:flex;gap:8px;overflow-x:auto;scrollbar-width:none;margin-inline:-2px;padding:2px;align-items:center}
 .quick::-webkit-scrollbar{display:none}
 .quick[hidden]{display:none}
-.seg2{display:inline-flex;flex:none;background:var(--sunk);padding:3px;border-radius:99px;gap:2px}
-.seg2 button{appearance:none;border:0;background:transparent;color:var(--muted);font:700 .84rem var(--body);padding:6px 12px;border-radius:99px;cursor:pointer}
-.seg2 button[aria-pressed=true]{background:var(--surface);color:var(--ink);box-shadow:0 1px 3px rgba(0,0,0,.18)}
 .qchip{flex:none;appearance:none;font:600 .86rem var(--body);color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:99px;padding:7px 13px;cursor:pointer;white-space:nowrap;box-shadow:var(--shadow)}
 .qchip[aria-pressed=true]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
 .qchip.more{border-style:dashed;box-shadow:none}
-.qchip:focus-visible,.seg2 button:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
+.qchip:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
 
 /* Karten: Zusatzzeile hoechstens zwei Zeilen */
 .meta.note{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}

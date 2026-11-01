@@ -1,6 +1,6 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
-const APP_VERSION="v11"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+const APP_VERSION="v12"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
 const DATA_DIR="data/";
 const REPORT_URL="";
 const APP_URL=location.origin+location.pathname.replace(/index\.html$/,"");
@@ -70,7 +70,7 @@ function priceFrom(fee){if(!fee)return null;const raw=String(fee);
   const v=Math.min(...vals);return{v:Number.isInteger(v)?v:v.toFixed(2).replace(".",","),prev:/vorjahr/i.test(raw)}}
 function priceTxt(p){return p.free?"kostenlos":"ab "+p.v+" €"}
 
-let state={tab:"road",radius:100,home:{name:"94330 Aiterhofen",lat:48.845,lon:12.624},dist:"all",time:"all",hm:"all",stat:"all",sort:"date",moreF:false,favs:[],packed:{},reg:[],view:"list",cal:null,calDay:null};
+let state={tab:"road",radius:100,home:{name:"94330 Aiterhofen",lat:48.845,lon:12.624},dist:"all",time:"all",hm:"all",stat:"all",moreF:false,favs:[],packed:{},reg:[],view:"list",cal:null,calDay:null};
 try{const s=JSON.parse(localStorage.getItem("strail2")||"{}");Object.assign(state,s)}catch(e){}
 try{const o=JSON.parse(localStorage.getItem("strail")||"{}");if(Array.isArray(o.favs)&&!state.favs.length)state.favs=o.favs}catch(e){}
 function save(){try{localStorage.setItem("strail2",JSON.stringify(state))}catch(e){}}
@@ -83,12 +83,10 @@ function syncFilters(){
 const QUICK=[["time","weekend","Dieses Wochenende"],["time","month","30 Tage"],["dist","5","5 km"],["dist","10","10 km"],["dist","hm","Halbmarathon"],["dist","m","Marathon"],["dist","ultra","Ultra"]];
 function renderQuick(){const q=$("quick"),show=state.tab!=="fav"&&state.view!=="cal";q.hidden=!show;if(!show)return;
   const adv=(state.stat!=="all"?1:0)+(state.tab==="trail"&&state.hm!=="all"?1:0),sl=q.scrollLeft;   // Scrollposition der Zeile behalten
-  q.innerHTML='<span class="seg2" role="group" aria-label="Sortierung"><button type="button" data-sort="date" aria-pressed="'+(state.sort!=="dist")+'">Datum</button><button type="button" data-sort="dist" aria-pressed="'+(state.sort==="dist")+'">Nähe</button></span>'+
-    QUICK.filter(c=>c[1]!=="ultra"||state.tab==="trail").map(c=>'<button type="button" class="qchip" data-qk="'+c[0]+'" data-qv="'+c[1]+'" aria-pressed="'+(state[c[0]]===c[1])+'">'+c[2]+'</button>').join("")+
+  q.innerHTML=QUICK.filter(c=>c[1]!=="ultra"||state.tab==="trail").map(c=>'<button type="button" class="qchip" data-qk="'+c[0]+'" data-qv="'+c[1]+'" aria-pressed="'+(state[c[0]]===c[1])+'">'+c[2]+'</button>').join("")+
     '<button type="button" class="qchip more" data-more aria-pressed="'+!!state.moreF+'">Mehr Filter'+(adv?" ("+adv+")":"")+'</button>';
   q.scrollLeft=sl}
 $("quick").addEventListener("click",e=>{
-  const s=e.target.closest("[data-sort]");if(s){state.sort=s.dataset.sort;save();animNext=true;render();return}
   if(e.target.closest("[data-more]")){state.moreF=!state.moreF;save();render();return}
   const c=e.target.closest(".qchip[data-qk]");if(c){const k=c.dataset.qk;state[k]=state[k]===c.dataset.qv?"all":c.dataset.qv;save();animNext=true;render()}});
 // Kurze Rückmeldung unten („Gemerkt“, „Startpunkt gesetzt“ …)
@@ -489,8 +487,7 @@ function render(){
   let list,favView=state.tab==="fav";
   if(favView)list=live.filter(r=>state.favs.includes(r.id));
   else list=near.filter(r=>r.t===state.tab);
-  const byDist=state.sort==="dist"&&!favView&&state.view!=="cal";
-  list.sort(byDist?(a,b)=>a.dist-b.dist||a.d.localeCompare(b.d):(a,b)=>a.d.localeCompare(b.d)||a.dist-b.dist);
+  list.sort((a,b)=>a.d.localeCompare(b.d)||a.dist-b.dist);
   $("tag").textContent=state.tab==="road"?"Straßenläufe":state.tab==="trail"?"Trails & Bergläufe":"Meine Läufe";
   const hc=t=>'<span class="hchip">'+t+'</span>';
   $("sub").innerHTML=favView?hc("<b>"+state.reg.length+"</b> angemeldet")+hc("<b>"+(state.favs.length-state.reg.length)+"</b> gemerkt"):
@@ -509,9 +506,8 @@ function render(){
     if(regL.length)html+='<h2 class="month">Angemeldet</h2>'+regL.map(r=>card(r,true)).join("");
     if(favL.length)html+='<h2 class="month">Gemerkt</h2>'+favL.map(r=>card(r,true)).join("");
     $("out").innerHTML=html;if(anim)riseIn($("out"));return}
-  if(byDist)html='<h2 class="month">Nach Entfernung, nächste zuerst</h2>';
   for(const r of list){const d=dt(r.d),key=d.getFullYear()+"-"+d.getMonth();
-    if(!byDist&&key!==cur){cur=key;html+='<h2 class="month">'+MON[d.getMonth()]+" "+d.getFullYear()+"</h2>"}
+    if(key!==cur){cur=key;html+='<h2 class="month">'+MON[d.getMonth()]+" "+d.getFullYear()+"</h2>"}
     html+=card(r,false)}
   $("out").innerHTML=html;if(anim)riseIn($("out"));}
 
