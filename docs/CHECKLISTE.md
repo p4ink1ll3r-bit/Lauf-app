@@ -2,7 +2,7 @@
 
 Automatisch erzeugt aus data/coverage.json (Stand 2026-11-01). Nicht von Hand ändern, sondern coverage.json pflegen und das Skript neu ausführen.
 
-**Fortschritt:** 0 von 96 vollständig, 59 in Arbeit, 37 offen.
+**Fortschritt:** 0 von 96 vollständig, 71 in Arbeit, 25 offen.
 
 - [x] vollständig  - [~] in Arbeit  - [ ] offen
 
@@ -79,18 +79,18 @@ Automatisch erzeugt aus data/coverage.json (Stand 2026-11-01). Nicht von Hand ä
 
 ## Mittelfranken (0/12)
 
-- [ ] LK Ansbach - 5 Läufe, geprüft: nie
-- [ ] LK Erlangen-Höchstadt - 2 Läufe, geprüft: nie
-- [ ] LK Fürth - 0 Läufe, geprüft: nie
-- [ ] LK Neustadt a.d.Aisch-Bad Windsheim - 1 Läufe, geprüft: nie
-- [ ] LK Nürnberger Land - 1 Läufe, geprüft: nie
-- [ ] LK Roth - 5 Läufe, geprüft: nie
-- [ ] LK Weißenburg-Gunzenhausen - 6 Läufe, geprüft: nie
-- [ ] Stadt Ansbach - 0 Läufe, geprüft: nie
-- [ ] Stadt Erlangen - 1 Läufe, geprüft: nie
-- [ ] Stadt Fürth - 1 Läufe, geprüft: nie
-- [ ] Stadt Nürnberg - 3 Läufe, geprüft: nie
-- [ ] Stadt Schwabach - 1 Läufe, geprüft: nie
+- [~] LK Ansbach - 6 Läufe, geprüft: 2026-11-01
+- [~] LK Erlangen-Höchstadt - 2 Läufe, geprüft: 2026-11-01
+- [~] LK Fürth - 0 Läufe, geprüft: 2026-11-01
+- [~] LK Neustadt a.d.Aisch-Bad Windsheim - 1 Läufe, geprüft: 2026-11-01
+- [~] LK Nürnberger Land - 1 Läufe, geprüft: 2026-11-01
+- [~] LK Roth - 5 Läufe, geprüft: 2026-11-01
+- [~] LK Weißenburg-Gunzenhausen - 8 Läufe, geprüft: 2026-11-01
+- [~] Stadt Ansbach - 1 Läufe, geprüft: 2026-11-01
+- [~] Stadt Erlangen - 1 Läufe, geprüft: 2026-11-01
+- [~] Stadt Fürth - 1 Läufe, geprüft: 2026-11-01
+- [~] Stadt Nürnberg - 3 Läufe, geprüft: 2026-11-01
+- [~] Stadt Schwabach - 1 Läufe, geprüft: 2026-11-01
 
 ## Oberfranken (0/13)
 

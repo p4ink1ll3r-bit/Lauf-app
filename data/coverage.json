@@ -539,108 +539,108 @@
                        "typ":  "Landkreis",
                        "bezirk":  "Mittelfranken",
                        "prio":  60,
-                       "status":  "offen",
-                       "races":  5,
-                       "checked":  null
+                       "status":  "in Arbeit",
+                       "races":  6,
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Erlangen-Höchstadt",
                        "typ":  "Landkreis",
                        "bezirk":  "Mittelfranken",
                        "prio":  61,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  2,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Fürth",
                        "typ":  "Landkreis",
                        "bezirk":  "Mittelfranken",
                        "prio":  62,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  0,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Neustadt a.d.Aisch-Bad Windsheim",
                        "typ":  "Landkreis",
                        "bezirk":  "Mittelfranken",
                        "prio":  63,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  1,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Nürnberger Land",
                        "typ":  "Landkreis",
                        "bezirk":  "Mittelfranken",
                        "prio":  64,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  1,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Roth",
                        "typ":  "Landkreis",
                        "bezirk":  "Mittelfranken",
                        "prio":  65,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  5,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Weißenburg-Gunzenhausen",
                        "typ":  "Landkreis",
                        "bezirk":  "Mittelfranken",
                        "prio":  66,
-                       "status":  "offen",
-                       "races":  6,
-                       "checked":  null
+                       "status":  "in Arbeit",
+                       "races":  8,
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "Stadt Ansbach",
                        "typ":  "kreisfreie Stadt",
                        "bezirk":  "Mittelfranken",
                        "prio":  67,
-                       "status":  "offen",
-                       "races":  0,
-                       "checked":  null
+                       "status":  "in Arbeit",
+                       "races":  1,
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "Stadt Erlangen",
                        "typ":  "kreisfreie Stadt",
                        "bezirk":  "Mittelfranken",
                        "prio":  68,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  1,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "Stadt Fürth",
                        "typ":  "kreisfreie Stadt",
                        "bezirk":  "Mittelfranken",
                        "prio":  69,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  1,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "Stadt Nürnberg",
                        "typ":  "kreisfreie Stadt",
                        "bezirk":  "Mittelfranken",
                        "prio":  70,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  3,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "Stadt Schwabach",
                        "typ":  "kreisfreie Stadt",
                        "bezirk":  "Mittelfranken",
                        "prio":  71,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  1,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Bamberg",

@@ -9551,6 +9551,132 @@
              ],
       "bezirk":  "Schwaben",
       "kreis":  "LK Oberallgäu"
+  },
+  {
+      "id":  "citylauf-ansbach-2026",
+      "type":  "road",
+      "name":  "Citylauf Ansbach",
+      "place":  "Ansbach",
+      "lat":  49.3,
+      "lon":  10.5719,
+      "date":  "2026-11-21",
+      "end":  null,
+      "confirmed":  false,
+      "prev_date":  null,
+      "distances":  [
+                        "10",
+                        "HM"
+                    ],
+      "elevation":  null,
+      "note":  "Halbmarathon und 10-km-Straßenlauf",
+      "url":  "https://citylauf-ansbach.de/",
+      "reg_open":  null,
+      "reg_close":  null,
+      "fee":  null,
+      "start_time":  null,
+      "checked":  "2026-11-01",
+      "source":  "https://www.marathons.com/de/events/citylauf-ansbach_AdCpy",
+      "start_place":  "Martin-Luther-Platz, Altstadt Ansbach (laut Suchtreffer, Quellseite nennt keinen Startort)",
+      "info":  "Veranstalter: WLB Sports Ansbach. Termin unsicher: ein Suchtreffer nennt Samstag 21.11.2026, die Quellseite nur \"Ende November 2026\". Bitte auf citylauf-ansbach.de prüfen; Startgeld und Anmeldeschluss nicht angegeben",
+      "na":  [
+  
+             ],
+      "bezirk":  "Mittelfranken",
+      "kreis":  "Stadt Ansbach"
+  },
+  {
+      "id":  "neuendettelsauer-kirchweihlauf-2027",
+      "type":  "road",
+      "name":  "Neuendettelsauer Kirchweihlauf",
+      "place":  "Neuendettelsau",
+      "lat":  49.2822,
+      "lon":  10.7942,
+      "date":  "2027-07-04",
+      "end":  null,
+      "confirmed":  false,
+      "prev_date":  "2026-07-05",
+      "distances":  [
+                        "6",
+                        "10"
+                    ],
+      "elevation":  null,
+      "note":  "Hauptlauf 10 km (DLV-vermessen), Hobby- und Staffellauf 6 km (Staffel mit 5-km-Etappen); Bambini-, Kinder-/Schüler- und Jugendlauf (2 km)",
+      "url":  null,
+      "reg_open":  null,
+      "reg_close":  null,
+      "fee":  null,
+      "start_time":  null,
+      "checked":  "2026-11-01",
+      "source":  "https://haid.app/en/events/27-neuendettelsauer-kirchweihlauf-mq8zaggc",
+      "start_place":  null,
+      "info":  "Veranstalter: BLV Kreis Ansbach, ausrichtender Verein TSC Neuendettelsau (Leichtathletik). 2026 war die 27. Auflage mit Anmeldeschluss 30.06.2026. Datum 2027 geschätzt aus 05.07.2026; Startgeld und Startzeit nicht angegeben",
+      "na":  [
+  
+             ],
+      "bezirk":  "Mittelfranken",
+      "kreis":  "LK Ansbach"
+  },
+  {
+      "id":  "weissenburger-altstadtlauf-2027",
+      "type":  "road",
+      "name":  "Weißenburger Altstadtlauf",
+      "place":  "Weißenburg in Bayern",
+      "lat":  49.03,
+      "lon":  10.97,
+      "date":  "2027-05-16",
+      "end":  null,
+      "confirmed":  false,
+      "prev_date":  "2026-05-17",
+      "distances":  [
+                        "10"
+                    ],
+      "elevation":  null,
+      "note":  "10 km amtlich vermessen auf 2-km-Rundkurs; Staffelläufe und Bambinilauf",
+      "url":  "https://altstadtlauf.com/",
+      "reg_open":  null,
+      "reg_close":  null,
+      "fee":  null,
+      "start_time":  null,
+      "checked":  "2026-11-01",
+      "source":  "https://www.runnersworld.de/laufkalender/weissenburgeraltstadtlauf/",
+      "start_place":  "Luitpoldstraße am gotischen Rathaus, 91781 Weißenburg",
+      "info":  "Anmeldung per E-Mail an anmeldung@altstadtlauf.com. Nächster Termin laut Runner\u0027s World noch nicht bekannt; Datum geschätzt aus 17.05.2026",
+      "na":  [
+  
+             ],
+      "bezirk":  "Mittelfranken",
+      "kreis":  "LK Weißenburg-Gunzenhausen"
+  },
+  {
+      "id":  "altmuehlfrankenlauf-2027",
+      "type":  "road",
+      "name":  "Altmühlfrankenlauf",
+      "place":  "Weimersheim",
+      "lat":  49.0147,
+      "lon":  10.9744,
+      "date":  "2027-06-19",
+      "end":  null,
+      "confirmed":  false,
+      "prev_date":  "2026-06-20",
+      "distances":  [
+                        "43,4"
+                    ],
+      "elevation":  null,
+      "note":  "Staffellauf über 43,4 km in 12 Etappen",
+      "url":  "https://www.altmuehlfranken-lauf.de",
+      "reg_open":  null,
+      "reg_close":  null,
+      "fee":  null,
+      "start_time":  "09:30",
+      "checked":  "2026-11-01",
+      "source":  "https://www.hdsports.org/laufen/altmuehlfrankenlauf",
+      "start_place":  "Festplatz, 91781 Weimersheim",
+      "info":  "Staffel (Teilnahme als Team). Startzeit 09:30 gilt für 2026. Termin 2027 laut hdsports nur Prognose; Anmeldung über die Veranstalter-Website, Startgeld nicht angegeben. Hinter dem Lauf stehen der Landkreis Weißenburg-Gunzenhausen und die Zukunftsinitiative altmühlfranken",
+      "na":  [
+  
+             ],
+      "bezirk":  "Mittelfranken",
+      "kreis":  "LK Weißenburg-Gunzenhausen"
   }
  ]
 }
