@@ -1,6 +1,6 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
-const APP_VERSION="v10"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+const APP_VERSION="v11"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
 const DATA_DIR="data/";
 const REPORT_URL="";
 const APP_URL=location.origin+location.pathname.replace(/index\.html$/,"");
@@ -70,7 +70,7 @@ function priceFrom(fee){if(!fee)return null;const raw=String(fee);
   const v=Math.min(...vals);return{v:Number.isInteger(v)?v:v.toFixed(2).replace(".",","),prev:/vorjahr/i.test(raw)}}
 function priceTxt(p){return p.free?"kostenlos":"ab "+p.v+" €"}
 
-let state={tab:"road",radius:100,home:{name:"94330 Aiterhofen",lat:48.845,lon:12.624},dist:"all",time:"all",hm:"all",stat:"all",favs:[],packed:{},reg:[],view:"list",cal:null,calDay:null};
+let state={tab:"road",radius:100,home:{name:"94330 Aiterhofen",lat:48.845,lon:12.624},dist:"all",time:"all",hm:"all",stat:"all",sort:"date",moreF:false,favs:[],packed:{},reg:[],view:"list",cal:null,calDay:null};
 try{const s=JSON.parse(localStorage.getItem("strail2")||"{}");Object.assign(state,s)}catch(e){}
 try{const o=JSON.parse(localStorage.getItem("strail")||"{}");if(Array.isArray(o.favs)&&!state.favs.length)state.favs=o.favs}catch(e){}
 function save(){try{localStorage.setItem("strail2",JSON.stringify(state))}catch(e){}}
@@ -78,10 +78,31 @@ const SEL=["dist","time","stat","hm"];
 function buildFilters(){SEL.forEach(k=>$("f-"+k).addEventListener("change",e=>{state[k]=e.target.value;save();animNext=true;render()}))}
 function syncFilters(){
   SEL.forEach(k=>{const el=$("f-"+k);el.value=state[k];el.classList.toggle("on",state[k]!=="all")});
-  $("w-hm").hidden=state.tab!=="trail";$("filters").hidden=state.tab==="fav";}
+  $("w-hm").hidden=state.tab!=="trail";$("filters").hidden=state.tab==="fav"||!state.moreF;}
+// Schnellauswahl über der Liste: Sortierung, häufige Filter, „Mehr Filter“ klappt die Dropdowns auf
+const QUICK=[["time","weekend","Dieses Wochenende"],["time","month","30 Tage"],["dist","5","5 km"],["dist","10","10 km"],["dist","hm","Halbmarathon"],["dist","m","Marathon"],["dist","ultra","Ultra"]];
+function renderQuick(){const q=$("quick"),show=state.tab!=="fav"&&state.view!=="cal";q.hidden=!show;if(!show)return;
+  const adv=(state.stat!=="all"?1:0)+(state.tab==="trail"&&state.hm!=="all"?1:0),sl=q.scrollLeft;   // Scrollposition der Zeile behalten
+  q.innerHTML='<span class="seg2" role="group" aria-label="Sortierung"><button type="button" data-sort="date" aria-pressed="'+(state.sort!=="dist")+'">Datum</button><button type="button" data-sort="dist" aria-pressed="'+(state.sort==="dist")+'">Nähe</button></span>'+
+    QUICK.filter(c=>c[1]!=="ultra"||state.tab==="trail").map(c=>'<button type="button" class="qchip" data-qk="'+c[0]+'" data-qv="'+c[1]+'" aria-pressed="'+(state[c[0]]===c[1])+'">'+c[2]+'</button>').join("")+
+    '<button type="button" class="qchip more" data-more aria-pressed="'+!!state.moreF+'">Mehr Filter'+(adv?" ("+adv+")":"")+'</button>';
+  q.scrollLeft=sl}
+$("quick").addEventListener("click",e=>{
+  const s=e.target.closest("[data-sort]");if(s){state.sort=s.dataset.sort;save();animNext=true;render();return}
+  if(e.target.closest("[data-more]")){state.moreF=!state.moreF;save();render();return}
+  const c=e.target.closest(".qchip[data-qk]");if(c){const k=c.dataset.qk;state[k]=state[k]===c.dataset.qv?"all":c.dataset.qv;save();animNext=true;render()}});
+// Kurze Rückmeldung unten („Gemerkt“, „Startpunkt gesetzt“ …)
+let toastT=null;
+function toast(msg){const t=$("toast");if(!t)return;t.textContent=msg;t.classList.add("on");clearTimeout(toastT);toastT=setTimeout(()=>t.classList.remove("on"),2400)}
+// Dieses Wochenende: Samstag und Sonntag, am Wochenende selbst bis Sonntag
+function weekendRange(){const sat=new Date(TODAY),wd=sat.getDay();if(wd!==0&&wd!==6)sat.setDate(sat.getDate()+6-wd);const sun=new Date(sat);if(sat.getDay()===6)sun.setDate(sun.getDate()+1);return[sat,sun]}
+// Karten-Zusatzzeile: kurze Hinweise ja, Daten-Anmerkungen („Ausschreibung nennt …“) gehören nur auf die Detailseite
+const NOTE_HIDE=/Ausschreibung nennt|beim Veranstalter prüfen|widerspr|nicht abrufbar|Quelle/i;
+function cardNote(r){return r.note&&!NOTE_HIDE.test(r.note)?'<div class="meta note">'+esc(r.note)+'</div>':""}
 function passFilters(r){
   if(state.dist!=="all"&&!r.cls.has(state.dist))return false;
-  if(state.time!=="all"){const lim=new Date(TODAY);if(state.time==="month")lim.setDate(lim.getDate()+30);else if(state.time==="q")lim.setMonth(lim.getMonth()+3);else lim.setFullYear(lim.getFullYear()+1);if(dt(r.d)>lim)return false}
+  if(state.time==="weekend"){const[a,b]=weekendRange();if(!(dt(r.d)<=b&&dt(r.e||r.d)>=a))return false}
+  else if(state.time!=="all"){const lim=new Date(TODAY);if(state.time==="month")lim.setDate(lim.getDate()+30);else if(state.time==="q")lim.setMonth(lim.getMonth()+3);else lim.setFullYear(lim.getFullYear()+1);if(dt(r.d)>lim)return false}
   if(r.t==="trail"&&state.hm!=="all"&&!r.profs.has(state.hm))return false;
   if(state.stat==="ok"&&!r.ok)return false;
   if(state.stat==="open"&&r.ok)return false;
@@ -115,7 +136,7 @@ function card(r,favView){
   return '<article class="card'+(r.t==="trail"?" trail":"")+'" data-card="'+r.id+'">'+dateBox+
     '<div class="info"><h3><button class="open" type="button" data-open="'+r.id+'">'+esc(r.n)+'</button></h3>'+
     '<div class="meta"><span>'+esc(r.o)+'</span><span><b>'+r.dist+' km</b> entfernt</span></div>'+
-    '<div class="chips">'+chips+'</div>'+(r.note?'<div class="meta">'+esc(r.note)+'</div>':"")+
+    '<div class="chips">'+chips+'</div>'+cardNote(r)+
     ((pills||right)?'<div class="row"><span class="pills">'+pills+'</span>'+right+'</div>':"")+'</div>'+
     '<button class="heart" type="button" data-id="'+r.id+'" aria-pressed="'+fav+'" aria-label="'+(fav?"Aus Meine Läufe entfernen":"Merken")+'">'+HEART+'</button></article>';}
 
@@ -294,8 +315,9 @@ $("detail").addEventListener("click",e=>{if(e.target.closest("[data-close]")){cl
   const rg=e.target.closest("[data-reg]");if(rg){const id=rg.dataset.reg,i=state.reg.indexOf(id);
     if(i<0){state.reg.push(id);if(!state.favs.includes(id))state.favs.push(id)}else state.reg.splice(i,1);save();
     const on=state.reg.includes(id);rg.setAttribute("aria-pressed",on);rg.textContent=on?"✓ Angemeldet":"Ich bin angemeldet";
+    toast(on?"Als angemeldet markiert ✓":"Anmeldung wieder entfernt");
     const h=$("detail").querySelector(".heart");if(h)syncHeart(h,id);return}
-  const b=e.target.closest(".heart");if(b){const id=b.dataset.id;toggleFav(id);syncHeart(b,id);
+  const b=e.target.closest(".heart");if(b){const id=b.dataset.id;toggleFav(id);syncHeart(b,id);toast(state.favs.includes(id)?"Gemerkt · steht unter „Meine Läufe“":"Aus „Meine Läufe“ entfernt");
     const rg2=$("detail").querySelector("[data-reg]");if(rg2&&!state.reg.includes(id)){rg2.setAttribute("aria-pressed","false");rg2.textContent="Ich bin angemeldet"}}});
 $("detail").addEventListener("change",e=>{const c=e.target.closest("[data-pack]");if(!c)return;const id=c.dataset.pack,i=+c.value;
   state.packed=state.packed||{};const a=state.packed[id]||(state.packed[id]=[]),k=a.indexOf(i);c.checked?(k<0&&a.push(i)):(k>=0&&a.splice(k,1));save();
@@ -336,7 +358,7 @@ $("set-done").addEventListener("click",closeSheets);
 $("set-loc").addEventListener("click",()=>{$("setsheet").hidden=true;$("locsheet").hidden=false;$("start").focus()});
 
 // Angemeldet? Nach „Zur Anmeldung“ fragt die App beim Zurückkommen nach
-function setReg(id){if(!state.reg.includes(id))state.reg.push(id);if(!state.favs.includes(id))state.favs.push(id);save();
+function setReg(id){if(!state.reg.includes(id))state.reg.push(id);if(!state.favs.includes(id))state.favs.push(id);save();toast("Als angemeldet gespeichert ✓");
   const rg=$("detail").querySelector('[data-reg="'+id+'"]');if(rg){rg.setAttribute("aria-pressed","true");rg.textContent="✓ Angemeldet";const h=$("detail").querySelector(".heart");if(h)syncHeart(h,id)}}
 document.addEventListener("click",e=>{const a=e.target.closest("[data-goreg]");if(a&&!state.reg.includes(a.dataset.goreg)){state.pendingReg={id:a.dataset.goreg,t:Date.now()};save()}});
 function askReg(){const p=state.pendingReg;if(!p||!R.length||!$("asksheet").hidden)return;
@@ -460,14 +482,15 @@ function render(){
   $("n-fav").textContent=state.favs.length;
   document.querySelectorAll(".tab[role=tab]").forEach(b=>b.setAttribute("aria-selected",b.dataset.k===state.tab));
   document.querySelector(".nav .in").dataset.i=["road","trail","fav"].indexOf(state.tab);
-  syncFilters();
+  syncFilters();renderQuick();
   document.body.className="mode-"+state.tab+($("detail").hidden&&$("report").hidden&&$("backdrop").hidden?"":" locked");
   const active=["dist","time","stat"].filter(k=>state[k]!=="all").length+(state.tab==="trail"&&state.hm!=="all"?1:0);
   $("reset").hidden=!active;
   let list,favView=state.tab==="fav";
   if(favView)list=live.filter(r=>state.favs.includes(r.id));
   else list=near.filter(r=>r.t===state.tab);
-  list.sort((a,b)=>a.d.localeCompare(b.d)||a.dist-b.dist);
+  const byDist=state.sort==="dist"&&!favView&&state.view!=="cal";
+  list.sort(byDist?(a,b)=>a.dist-b.dist||a.d.localeCompare(b.d):(a,b)=>a.d.localeCompare(b.d)||a.dist-b.dist);
   $("tag").textContent=state.tab==="road"?"Straßenläufe":state.tab==="trail"?"Trails & Bergläufe":"Meine Läufe";
   const hc=t=>'<span class="hchip">'+t+'</span>';
   $("sub").innerHTML=favView?hc("<b>"+state.reg.length+"</b> angemeldet")+hc("<b>"+(state.favs.length-state.reg.length)+"</b> gemerkt"):
@@ -475,7 +498,7 @@ function render(){
   if(state.view==="cal"){$("out").innerHTML=calHTML(list,favView);if(anim)riseIn($("out"));return}
   if(!list.length){
     const nearest=Math.min(...live.map(r=>r.dist));let msg;
-    if(favView)msg='<strong>Noch nichts gemerkt</strong>Tipp auf das Herz bei einem Lauf, dann landet er hier mit Fristen und Countdown. Bist du schon angemeldet, markier das auf der Detailseite mit „Ich bin angemeldet“.';
+    if(favView){$("out").innerHTML='<div class="empty emptyfav">'+HEART+'<strong>Noch nichts gemerkt</strong><p>Tippe bei einem Lauf auf das Herz, dann steht er hier mit Fristen und Countdown.</p><button type="button" class="cta" data-goto="road">Läufe ansehen</button></div>';return}
     else if(nearest>200)msg='<strong>Hier sind noch keine Läufe erfasst</strong>Der nächste bekannte Lauf ist '+nearest+' km von '+esc(H.name)+' entfernt. Bisher sind Läufe in Bayern erfasst.';
     else if(active)msg='<strong>Keine Treffer mit diesen Filtern</strong>Lockere die Filter oder vergrößere den Umkreis.';
     else msg='<strong>Keine Läufe im Umkreis von '+state.radius+' km</strong>Tipp oben auf deinen Standort und vergrößere den Umkreis.';
@@ -486,13 +509,15 @@ function render(){
     if(regL.length)html+='<h2 class="month">Angemeldet</h2>'+regL.map(r=>card(r,true)).join("");
     if(favL.length)html+='<h2 class="month">Gemerkt</h2>'+favL.map(r=>card(r,true)).join("");
     $("out").innerHTML=html;if(anim)riseIn($("out"));return}
+  if(byDist)html='<h2 class="month">Nach Entfernung, nächste zuerst</h2>';
   for(const r of list){const d=dt(r.d),key=d.getFullYear()+"-"+d.getMonth();
-    if(key!==cur){cur=key;html+='<h2 class="month">'+MON[d.getMonth()]+" "+d.getFullYear()+"</h2>"}
+    if(!byDist&&key!==cur){cur=key;html+='<h2 class="month">'+MON[d.getMonth()]+" "+d.getFullYear()+"</h2>"}
     html+=card(r,false)}
   $("out").innerHTML=html;if(anim)riseIn($("out"));}
 
 $("out").addEventListener("click",e=>{
-  const h=e.target.closest(".heart");if(h){toggleFav(h.dataset.id);render();return}
+  const h=e.target.closest(".heart");if(h){toggleFav(h.dataset.id);toast(state.favs.includes(h.dataset.id)?"Gemerkt · steht unter „Meine Läufe“":"Aus „Meine Läufe“ entfernt");render();return}
+  const gt=e.target.closest("[data-goto]");if(gt){state.tab=gt.dataset.goto;save();animNext=true;render();window.scrollTo({top:0,behavior:RM?"auto":"smooth"});return}
   const rq=e.target.closest("[data-regq]");if(rq){setReg(rq.dataset.regq);render();return}
   const cn=e.target.closest("[data-cal]");if(cn){shiftMonth(+cn.dataset.cal);render();return}
   const dy=e.target.closest("[data-day]");if(dy){const d=+dy.dataset.day;state.calDay=state.calDay===d?null:d;save();render();return}
@@ -518,7 +543,7 @@ function showSugg(){const ul=$("sugg");
 // Der gewählte Startpunkt steht im Eingabefeld selbst (mit Haken), nicht klein darunter
 let homeShown=false;
 function showHome(){const s=$("start");s.value=state.home.name;s.parentElement.classList.add("gesetzt");homeShown=true}
-function choose(e){animNext=true;state.home={name:e.z+" "+e.p,lat:e.la,lon:e.lo};hits=[];sel=-1;showSugg();$("startinfo").classList.remove("err");$("startinfo").textContent="";save();showHome();render();$("start").blur()}
+function choose(e){animNext=true;state.home={name:e.z+" "+e.p,lat:e.la,lon:e.lo};hits=[];sel=-1;showSugg();$("startinfo").classList.remove("err");$("startinfo").textContent="";save();showHome();render();$("start").blur();toast("Startpunkt: "+e.p)}
 $("start").addEventListener("input",e=>{e.target.parentElement.classList.remove("gesetzt");hits=find(e.target.value);sel=hits.length?0:-1;showSugg()});
 $("start").addEventListener("focus",e=>{if(e.target.parentElement.classList.contains("gesetzt"))setTimeout(()=>e.target.select(),0)});
 $("start").addEventListener("keydown",e=>{
@@ -544,7 +569,7 @@ $("geo").addEventListener("click",()=>{const g=$("geo");
   // Erst schnell über das Netz; liefert das nichts, ein zweiter Versuch mit GPS (genauer, aber langsamer)
   const fragen=hoch=>{try{navigator.geolocation.getCurrentPosition(p=>{stop();g.removeAttribute("aria-busy");
       const la=p.coords.latitude,lo=p.coords.longitude,n=nearestPlace(la,lo);
-      state.home={name:"Mein Standort"+(n?" (bei "+n.p+")":""),lat:la,lon:lo};$("startinfo").classList.remove("err");$("startinfo").textContent="";save();showHome();render()},
+      state.home={name:"Mein Standort"+(n?" (bei "+n.p+")":""),lat:la,lon:lo};$("startinfo").classList.remove("err");$("startinfo").textContent="";save();showHome();render();toast("Startpunkt: "+state.home.name)},
     err=>{if(err&&err.code!==1&&!hoch){$("startinfo").textContent="Suche mit GPS … das kann einen Moment dauern.";fragen(true);return}
       stop();geoFail(!err||err.code===1?"Der Standort ist für diese Seite nicht freigegeben. "+HILFE:
       err.code===2?"Dein Handy liefert keinen Standort. Prüfe, ob die Ortung (GPS) eingeschaltet und für deinen Browser erlaubt ist, oder gib PLZ oder Ort ein.":

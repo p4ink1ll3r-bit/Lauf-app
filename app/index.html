@@ -41,11 +41,13 @@
     </div>
   </div>
 
-  <div class="chips-row" id="filters" aria-label="Filter">
+  <div class="quick" id="quick" role="group" aria-label="Sortieren und Schnellfilter" hidden></div>
+
+  <div class="chips-row" id="filters" aria-label="Weitere Filter" hidden>
     <label class="fsel"><span class="sr">Distanz</span><select id="f-dist">
       <option value="all">Distanz</option><option value="5">5 km</option><option value="10">10 km</option><option value="hm">Halbmarathon</option><option value="m">Marathon</option><option value="ultra">Ultra</option></select></label>
     <label class="fsel"><span class="sr">Zeitraum</span><select id="f-time">
-      <option value="all">Zeitraum</option><option value="month">Nächste 30 Tage</option><option value="q">Nächste 3 Monate</option><option value="year">Nächste 12 Monate</option></select></label>
+      <option value="all">Zeitraum</option><option value="weekend">Dieses Wochenende</option><option value="month">Nächste 30 Tage</option><option value="q">Nächste 3 Monate</option><option value="year">Nächste 12 Monate</option></select></label>
     <label class="fsel" id="w-hm"><span class="sr">Profil</span><select id="f-hm">
       <option value="all">Profil</option><option value="flat">Flach (&lt; 300 Hm)</option><option value="hilly">Hügelig (300–1000 Hm)</option><option value="alpine">Alpin (&gt; 1000 Hm)</option></select></label>
     <label class="fsel"><span class="sr">Termin</span><select id="f-stat">
@@ -57,7 +59,7 @@
 
   <div class="foot">
     <button class="reset" type="button" id="missing">Lauf fehlt? Jetzt melden</button>
-    <span><span id="stand"></span>Erfasst sind bisher Läufe in Bayern. Entfernung = Luftlinie. Termine aus öffentlichen Laufkalendern und Veranstalterseiten, ohne Gewähr. Gestricheltes Datum = Termin noch nicht bestätigt, geschätzt nach dem Vorjahr. Favoriten und Anmeldungen werden auf diesem Gerät gespeichert. Vor der Anmeldung immer die Veranstalterseite prüfen.</span>
+    <span><span id="stand"></span>Angaben ohne Gewähr, vor der Anmeldung bitte die Veranstalterseite prüfen. Erklärungen stehen unter Einstellungen.</span>
   </div>
 </div>
 
@@ -109,10 +111,20 @@
   </div>
   <div class="setgrp"><span class="lbl">Startpunkt &amp; Umkreis</span>
     <button type="button" class="btn" id="set-loc">Ändern</button></div>
+  <div class="setgrp"><span class="lbl">So liest du die App</span>
+    <ul class="hints">
+      <li>Die Entfernung ist die Luftlinie zu deinem Startpunkt.</li>
+      <li>Ein gestricheltes Datum heißt: Der Termin ist noch nicht bestätigt und nach dem Vorjahr geschätzt.</li>
+      <li>Termine stammen aus öffentlichen Laufkalendern und von den Veranstalterseiten, ohne Gewähr.</li>
+      <li>Gemerkte und angemeldete Läufe bleiben auf diesem Gerät gespeichert.</li>
+      <li>Es sind bisher Läufe in Bayern erfasst.</li>
+    </ul></div>
   <div class="setgrp"><span class="lbl">Über die Daten</span>
     <span class="src" id="set-stand"></span></div>
   <button class="cta" id="set-done" type="button">Fertig</button>
 </div></div>
+
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
 
 <script src="js/app.js"></script>
 <script>if("serviceWorker" in navigator)addEventListener("load",()=>navigator.serviceWorker.register("service-worker.js").catch(()=>{}))</script>
