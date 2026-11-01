@@ -1,6 +1,6 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
-const APP_VERSION="v9"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+const APP_VERSION="v10"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
 const DATA_DIR="data/";
 const REPORT_URL="";
 const APP_URL=location.origin+location.pathname.replace(/index\.html$/,"");
@@ -160,6 +160,13 @@ function gearBox(r){
    (r.gearNote?'<span class="src">'+esc(r.gearNote)+'</span>':"")+'</section>'}
 function missLine(arr,id){return arr.length?'<p class="miss">Noch offen: '+arr.join(", ")+' – wird beim Sonntags-Update nachgetragen. <button type="button" class="linkbtn inl" data-report="'+id+'" data-kind="Info ergänzen">Weißt du es? Ergänzen</button></p>':""}
 function V(r,k,suf){const v=r[k];if(!v)return r.na.has(k)?'<span class="na">Keine Angabe des Veranstalters</span>':"";return esc(v)+(suf||"")+(r.prevF.has(k)?' <span class="vj">Vorjahr</span>':"")}
+// Anfahrt: Routen-Knöpfe, auf dem Handy steht die passende Karten-App zuerst
+const IS_IOS=/iPad|iPhone|iPod/.test(navigator.userAgent)||(navigator.platform==="MacIntel"&&navigator.maxTouchPoints>1);
+const IS_MOBILE=IS_IOS||/Android/i.test(navigator.userAgent);
+const NAV_IC={
+  pin:'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-6.5-6-6.5-11a6.5 6.5 0 0 1 13 0c0 5-6.5 11-6.5 11z" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="12" cy="10" r="2.3" fill="currentColor"/></svg>',
+  arrow:'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4.5 11.2l15-6.7-6.7 15-2.2-6.1z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>'};
+function navBtn(href,name,ico,pref){return'<a class="navbtn'+(pref?" pref":"")+'" href="'+href+'" target="_blank" rel="noopener"><span class="ni">'+ico+'</span><span class="nt"><b>'+name+'</b><small>Route zum Start öffnen</small></span><span class="go">'+IC.ext+'</span></a>'}
 // Statusbanner über den Anmelde-Knöpfen: sagt auf einen Blick, ob man sich noch anmelden kann
 const ST_IC={
   ok:'<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2"/><path d="M8 12.5l2.7 2.7L16 9.5" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>',
@@ -255,8 +262,10 @@ function openDetail(id){const r=R.find(x=>x.id===id);if(!r)return;if($("detail")
      (r.gpx?'<div class="btns"><a class="btn" href="'+esc(r.gpx)+'" target="_blank" rel="noopener">GPX-Track '+IC.ext+'</a></div>':"")+'</section>'+
    '<section class="box"><h3>'+IC.euro+'Anmeldung &amp; Kosten</h3>'+(plist?plist+(r.prevF.has("fee")?'<span class="vj">Vorjahr</span>':""):"")+kvRows(regRows)+missLine(regMiss,r.id)+'</section>'+
    '<section class="box"><h3>'+IC.flag+'Am Lauftag</h3>'+dayHtml+missLine(dayMiss,r.id)+'</section>'+
-   '<section class="box"><h3>'+IC.car+'Anfahrt</h3><div>'+esc(loc)+' · '+r.dist+' km Luftlinie ab '+esc(state.home.name)+'</div>'+
-     '<div class="btns"><a class="btn" href="'+gmaps+'" target="_blank" rel="noopener">Google Maps '+IC.ext+'</a><a class="btn" href="'+amaps+'" target="_blank" rel="noopener">Apple Karten '+IC.ext+'</a></div></section>'+
+   '<section class="box"><h3>'+IC.car+'Anfahrt</h3>'+
+     '<div class="navaddr">'+NAV_IC.pin+'<div><b>'+esc(loc)+'</b><span>'+r.dist+' km Luftlinie ab '+esc(state.home.name.replace(/^\d{5}\s/,""))+'</span></div></div>'+
+     '<div class="navlist">'+(IS_IOS?navBtn(amaps,"Apple Karten",NAV_IC.arrow,true)+navBtn(gmaps,"Google Maps",NAV_IC.pin,false):navBtn(gmaps,"Google Maps",NAV_IC.pin,IS_MOBILE)+navBtn(amaps,"Apple Karten",NAV_IC.arrow,false))+'</div>'+
+     '<button type="button" class="linkbtn" data-copyaddr="'+esc(loc)+'">Adresse kopieren</button></section>'+
    '<section class="box" id="wx"><h3>'+IC.sun+'Wetter in '+esc(r.o)+'</h3><div id="wxbody" class="na">Vorhersage wird geladen …</div>'+
      '<div class="btns"><a class="btn" href="https://www.meteoblue.com/de/wetter/woche/'+r.la.toFixed(3)+'N'+r.lo.toFixed(3)+'E" target="_blank" rel="noopener">Wetter öffnen '+IC.ext+'</a></div></section>'+
    gearBox(r)+
@@ -279,6 +288,8 @@ function toggleFav(id){const i=state.favs.indexOf(id);if(i<0)state.favs.push(id)
 function syncHeart(b,id){const on=state.favs.includes(id);b.setAttribute("aria-pressed",on);b.setAttribute("aria-label",on?"Aus Meine Läufe entfernen":"Merken")}
 $("detail").addEventListener("click",e=>{if(e.target.closest("[data-close]")){closeDetail();return}
   const sh=e.target.closest("[data-share]");if(sh){shareRace(sh.dataset.share);return}
+  const ca=e.target.closest("[data-copyaddr]");if(ca){const txt=ca.textContent;
+    (navigator.clipboard?navigator.clipboard.writeText(ca.dataset.copyaddr):Promise.reject()).then(()=>{ca.textContent="Kopiert ✓"}).catch(()=>{ca.textContent="Nicht möglich, bitte markieren und kopieren"}).finally(()=>setTimeout(()=>{ca.textContent=txt},2000));return}
   const rp=e.target.closest("[data-report]");if(rp){openReport(rp.dataset.report,rp.dataset.kind);return}
   const rg=e.target.closest("[data-reg]");if(rg){const id=rg.dataset.reg,i=state.reg.indexOf(id);
     if(i<0){state.reg.push(id);if(!state.favs.includes(id))state.favs.push(id)}else state.reg.splice(i,1);save();
