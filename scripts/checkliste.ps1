@@ -1,4 +1,4 @@
-# Erzeugt docs/CHECKLISTE.md aus data/coverage.json (Aufruf: powershell -File scripts\checkliste.ps1)
+﻿# Erzeugt docs/CHECKLISTE.md aus data/coverage.json (Aufruf: powershell -File scripts\checkliste.ps1)
 $root = Split-Path $PSScriptRoot -Parent
 $cov = Get-Content (Join-Path $root 'data\coverage.json') -Raw -Encoding UTF8 | ConvertFrom-Json
 $k = $cov.kreise
