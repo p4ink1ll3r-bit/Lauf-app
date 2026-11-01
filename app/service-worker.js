@@ -1,6 +1,6 @@
 // Offline-Betrieb: App-Gerüst wird beim ersten Start gespeichert, Läufe-Daten kommen bevorzugt frisch aus dem Netz.
 // Bei jeder Änderung an der App VERSION hochzählen, damit alte Dateien ersetzt werden.
-const VERSION = "v4";
+const VERSION = "v5";
 const SHELL = `pacehunt-shell-${VERSION}`;
 const DATA = `pacehunt-data-${VERSION}`;
 const SHELL_FILES = [
@@ -49,8 +49,12 @@ self.addEventListener("fetch", e => {
     return;
   }
 
-  // App-Gerüst: aus dem Speicher, sonst Netz
+  // App-Gerüst: erst frisch aus dem Netz (damit Neuerungen sofort ankommen), ohne Netz aus dem Speicher
   if (url.origin === location.origin) {
-    e.respondWith(caches.match(req).then(hit => hit || fetch(req)));
+    e.respondWith(
+      fetch(req, { cache: "no-cache" })
+        .then(res => { if (res.ok) { const copy = res.clone(); caches.open(SHELL).then(c => c.put(req, copy)); } return res; })
+        .catch(() => caches.match(req).then(hit => hit || caches.match("index.html")))
+    );
   }
 });

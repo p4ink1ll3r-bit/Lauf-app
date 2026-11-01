@@ -1,5 +1,6 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
+const APP_VERSION="v5"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
 const DATA_DIR="data/";
 const REPORT_URL="";
 const APP_URL=location.origin+location.pathname.replace(/index\.html$/,"");
@@ -265,7 +266,20 @@ function openWelcome(){$("locsheet").classList.add("welcome");$("loc-h").textCon
   openSheet("locsheet");$("backdrop").hidden=true;if(document.activeElement&&document.activeElement.blur)document.activeElement.blur()}
 function endWelcome(){const s=$("locsheet");if(!s.classList.contains("welcome"))return;
   s.classList.remove("welcome");$("loc-h").textContent="Startpunkt ändern";$("loc-done").textContent="Fertig";state.onboarded=true;save()}
-function closeSheets(){endWelcome();const ni=document.querySelector(".nav .in");if(ni)ni.dataset.i=["road","trail","fav"].indexOf(state.tab);["locsheet","sharesheet","setsheet","asksheet"].forEach(i=>$(i).hidden=true);$("backdrop").hidden=true;if($("detail").hidden&&$("report").hidden)document.body.classList.remove("locked");if(sheetFocus&&sheetFocus.focus)sheetFocus.focus()}
+// Fenster am Strich oder oben nach unten wischen schließt sie (nicht im Begrüßungsbildschirm)
+document.querySelectorAll(".bsheet").forEach(sh=>{let y0=null,x0=0,dy=0,t0=0,drag=false;
+  sh.addEventListener("touchstart",e=>{y0=null;if(e.touches.length!==1||sh.classList.contains("welcome"))return;
+    if(e.target.closest("input,.sugg,select,textarea"))return;
+    const t=e.touches[0],oben=e.target.closest(".grip")||t.clientY-sh.getBoundingClientRect().top<64;
+    if(sh.scrollTop>0&&!oben)return;y0=t.clientY;x0=t.clientX;dy=0;t0=Date.now();drag=false},{passive:true});
+  sh.addEventListener("touchmove",e=>{if(y0===null)return;const t=e.touches[0];dy=t.clientY-y0;
+    if(!drag){if(dy>8&&dy>Math.abs(t.clientX-x0))drag=true;else if(Math.abs(t.clientX-x0)>12){y0=null;return}}
+    if(drag){if(dy<0)dy=0;sh.style.animation="none";sh.style.transition="none";sh.style.transform="translateY("+dy+"px)";e.preventDefault()}},{passive:false});
+  sh.addEventListener("touchend",()=>{if(y0===null)return;y0=null;if(!drag)return;drag=false;
+    const schnell=dy/Math.max(1,Date.now()-t0)>0.6;sh.style.transition="transform .18s ease";
+    if(dy>110||schnell){sh.style.transform="translateY(100%)";setTimeout(closeSheets,170)}else sh.style.transform=""});
+  sh.addEventListener("touchcancel",()=>{y0=null;drag=false;sh.style.transform=""})});
+function closeSheets(){document.querySelectorAll(".bsheet").forEach(s=>{s.style.animation="";s.style.transform="";s.style.transition=""});endWelcome();const ni=document.querySelector(".nav .in");if(ni)ni.dataset.i=["road","trail","fav"].indexOf(state.tab);["locsheet","sharesheet","setsheet","asksheet"].forEach(i=>$(i).hidden=true);$("backdrop").hidden=true;if($("detail").hidden&&$("report").hidden)document.body.classList.remove("locked");if(sheetFocus&&sheetFocus.focus)sheetFocus.focus()}
 $("backdrop").addEventListener("click",closeSheets);
 $("loc").addEventListener("click",()=>openSheet("locsheet"));
 $("loc-done").addEventListener("click",closeSheets);
@@ -274,7 +288,7 @@ const HOST_THEME=document.documentElement.getAttribute("data-theme");
 function applyTheme(){const t=state.theme||"auto",el=document.documentElement;
   if(t==="auto"){if(HOST_THEME)el.setAttribute("data-theme",HOST_THEME);else el.removeAttribute("data-theme")}else el.setAttribute("data-theme",t);
   document.querySelectorAll("[data-theme-set]").forEach(b=>b.setAttribute("aria-checked",b.dataset.themeSet===t))}
-$("gear").addEventListener("click",()=>{document.querySelector(".nav .in").dataset.i=3;$("set-stand").textContent=$("stand").textContent+"Aktualisierung jeden Sonntag.";openSheet("setsheet");const c=$("setsheet").querySelector('[aria-checked="true"]');if(c)c.focus()});
+$("gear").addEventListener("click",()=>{document.querySelector(".nav .in").dataset.i=3;$("set-stand").textContent=$("stand").textContent+"Aktualisierung jeden Sonntag. App-Version "+APP_VERSION+".";openSheet("setsheet");const c=$("setsheet").querySelector('[aria-checked="true"]');if(c)c.focus()});
 $("setsheet").addEventListener("click",e=>{const b=e.target.closest("[data-theme-set]");if(b){state.theme=b.dataset.themeSet;save();applyTheme()}});
 $("set-done").addEventListener("click",closeSheets);
 $("set-loc").addEventListener("click",()=>{$("setsheet").hidden=true;$("locsheet").hidden=false;$("start").focus()});
@@ -480,17 +494,19 @@ $("geo").addEventListener("click",()=>{const g=$("geo");
   // Wartet so lange auf deine Antwort, wie du brauchst; nach ein paar Sekunden kommt nur ein Hinweis, abgebrochen wird nicht
   const hint=setTimeout(()=>{if(g.getAttribute("aria-busy")==="true")$("startinfo").textContent="Warte auf die Freigabe. Erscheint kein Fenster, erlaube den Standort in den Browser-Einstellungen für diese Seite."},6000);
   const stop=()=>{clearTimeout(hint)};
-  const fragen=()=>{try{navigator.geolocation.getCurrentPosition(p=>{stop();g.removeAttribute("aria-busy");
+  // Erst schnell über das Netz; liefert das nichts, ein zweiter Versuch mit GPS (genauer, aber langsamer)
+  const fragen=hoch=>{try{navigator.geolocation.getCurrentPosition(p=>{stop();g.removeAttribute("aria-busy");
       const la=p.coords.latitude,lo=p.coords.longitude,n=nearestPlace(la,lo);
       state.home={name:"Mein Standort"+(n?" (bei "+n.p+")":""),lat:la,lon:lo};$("startinfo").classList.remove("err");save();render()},
-    err=>{stop();geoFail(!err||err.code===1?"Der Standort ist für diese Seite nicht freigegeben. "+HILFE:
-      err.code===2?"Dein Handy findet den Standort gerade nicht. Schalte die Ortung (GPS) ein oder gib PLZ oder Ort ein.":
-      "Das Ermitteln dauert zu lange. Versuch es noch einmal oder gib PLZ oder Ort ein.")},
-    {enableHighAccuracy:false,timeout:20000,maximumAge:600000})}
+    err=>{if(err&&err.code!==1&&!hoch){$("startinfo").textContent="Suche mit GPS … das kann einen Moment dauern.";fragen(true);return}
+      stop();geoFail(!err||err.code===1?"Der Standort ist für diese Seite nicht freigegeben. "+HILFE:
+      err.code===2?"Dein Handy liefert keinen Standort. Prüfe, ob die Ortung (GPS) eingeschaltet und für deinen Browser erlaubt ist, oder gib PLZ oder Ort ein.":
+      "Das Ermitteln dauert zu lange. Versuch es noch einmal, am besten im Freien, oder gib PLZ oder Ort ein.")},
+    {enableHighAccuracy:!!hoch,timeout:hoch?30000:12000,maximumAge:hoch?0:600000})}
     catch(e){stop();geoFail("Standortzugriff ist hier nicht möglich. Gib PLZ oder Ort ein.")}};
   if(navigator.permissions&&navigator.permissions.query){
-    navigator.permissions.query({name:"geolocation"}).then(r=>{if(r.state==="denied"){stop();geoFail("Der Standort ist für diese Seite gesperrt. "+HILFE)}else fragen()},()=>fragen())}
-  else fragen()});
+    navigator.permissions.query({name:"geolocation"}).then(r=>{if(r.state==="denied"){stop();geoFail("Der Standort ist für diese Seite gesperrt. "+HILFE)}else fragen(false)},()=>fragen(false))}
+  else fragen(false)});
 
 buildFilters();applyTheme();
 $("out").innerHTML='<div class="empty"><strong>Läufe werden geladen …</strong>Einen Moment.</div>';
