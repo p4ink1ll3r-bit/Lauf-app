@@ -413,126 +413,126 @@
                        "typ":  "Landkreis",
                        "bezirk":  "Schwaben",
                        "prio":  46,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  3,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Augsburg",
                        "typ":  "Landkreis",
                        "bezirk":  "Schwaben",
                        "prio":  47,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  2,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Dillingen a.d.Donau",
                        "typ":  "Landkreis",
                        "bezirk":  "Schwaben",
                        "prio":  48,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  2,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Donau-Ries",
                        "typ":  "Landkreis",
                        "bezirk":  "Schwaben",
                        "prio":  49,
-                       "status":  "offen",
-                       "races":  0,
-                       "checked":  null
+                       "status":  "in Arbeit",
+                       "races":  2,
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Günzburg",
                        "typ":  "Landkreis",
                        "bezirk":  "Schwaben",
                        "prio":  50,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  0,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Lindau (Bodensee)",
                        "typ":  "Landkreis",
                        "bezirk":  "Schwaben",
                        "prio":  51,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  1,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Neu-Ulm",
                        "typ":  "Landkreis",
                        "bezirk":  "Schwaben",
                        "prio":  52,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  2,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Oberallgäu",
                        "typ":  "Landkreis",
                        "bezirk":  "Schwaben",
                        "prio":  53,
-                       "status":  "offen",
-                       "races":  3,
-                       "checked":  null
+                       "status":  "in Arbeit",
+                       "races":  4,
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Ostallgäu",
                        "typ":  "Landkreis",
                        "bezirk":  "Schwaben",
                        "prio":  54,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  3,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Unterallgäu",
                        "typ":  "Landkreis",
                        "bezirk":  "Schwaben",
                        "prio":  55,
-                       "status":  "offen",
-                       "races":  0,
-                       "checked":  null
+                       "status":  "in Arbeit",
+                       "races":  1,
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "Stadt Augsburg",
                        "typ":  "kreisfreie Stadt",
                        "bezirk":  "Schwaben",
                        "prio":  56,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  3,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "Stadt Kaufbeuren",
                        "typ":  "kreisfreie Stadt",
                        "bezirk":  "Schwaben",
                        "prio":  57,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  0,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "Stadt Kempten (Allgäu)",
                        "typ":  "kreisfreie Stadt",
                        "bezirk":  "Schwaben",
                        "prio":  58,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  1,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "Stadt Memmingen",
                        "typ":  "kreisfreie Stadt",
                        "bezirk":  "Schwaben",
                        "prio":  59,
-                       "status":  "offen",
-                       "races":  0,
-                       "checked":  null
+                       "status":  "in Arbeit",
+                       "races":  1,
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Ansbach",

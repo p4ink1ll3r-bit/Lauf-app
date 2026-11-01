@@ -2,7 +2,7 @@
 
 Automatisch erzeugt aus data/coverage.json (Stand 2026-11-01). Nicht von Hand ändern, sondern coverage.json pflegen und das Skript neu ausführen.
 
-**Fortschritt:** 0 von 96 vollständig, 45 in Arbeit, 51 offen.
+**Fortschritt:** 0 von 96 vollständig, 59 in Arbeit, 37 offen.
 
 - [x] vollständig  - [~] in Arbeit  - [ ] offen
 
@@ -62,20 +62,20 @@ Automatisch erzeugt aus data/coverage.json (Stand 2026-11-01). Nicht von Hand ä
 
 ## Schwaben (0/14)
 
-- [ ] LK Aichach-Friedberg - 3 Läufe, geprüft: nie
-- [ ] LK Augsburg - 2 Läufe, geprüft: nie
-- [ ] LK Dillingen a.d.Donau - 2 Läufe, geprüft: nie
-- [ ] LK Donau-Ries - 0 Läufe, geprüft: nie
-- [ ] LK Günzburg - 0 Läufe, geprüft: nie
-- [ ] LK Lindau (Bodensee) - 1 Läufe, geprüft: nie
-- [ ] LK Neu-Ulm - 2 Läufe, geprüft: nie
-- [ ] LK Oberallgäu - 3 Läufe, geprüft: nie
-- [ ] LK Ostallgäu - 3 Läufe, geprüft: nie
-- [ ] LK Unterallgäu - 0 Läufe, geprüft: nie
-- [ ] Stadt Augsburg - 3 Läufe, geprüft: nie
-- [ ] Stadt Kaufbeuren - 0 Läufe, geprüft: nie
-- [ ] Stadt Kempten (Allgäu) - 1 Läufe, geprüft: nie
-- [ ] Stadt Memmingen - 0 Läufe, geprüft: nie
+- [~] LK Aichach-Friedberg - 3 Läufe, geprüft: 2026-11-01
+- [~] LK Augsburg - 2 Läufe, geprüft: 2026-11-01
+- [~] LK Dillingen a.d.Donau - 2 Läufe, geprüft: 2026-11-01
+- [~] LK Donau-Ries - 2 Läufe, geprüft: 2026-11-01
+- [~] LK Günzburg - 0 Läufe, geprüft: 2026-11-01
+- [~] LK Lindau (Bodensee) - 1 Läufe, geprüft: 2026-11-01
+- [~] LK Neu-Ulm - 2 Läufe, geprüft: 2026-11-01
+- [~] LK Oberallgäu - 4 Läufe, geprüft: 2026-11-01
+- [~] LK Ostallgäu - 3 Läufe, geprüft: 2026-11-01
+- [~] LK Unterallgäu - 1 Läufe, geprüft: 2026-11-01
+- [~] Stadt Augsburg - 3 Läufe, geprüft: 2026-11-01
+- [~] Stadt Kaufbeuren - 0 Läufe, geprüft: 2026-11-01
+- [~] Stadt Kempten (Allgäu) - 1 Läufe, geprüft: 2026-11-01
+- [~] Stadt Memmingen - 1 Läufe, geprüft: 2026-11-01
 
 ## Mittelfranken (0/12)
 
