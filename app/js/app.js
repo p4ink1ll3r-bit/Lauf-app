@@ -467,18 +467,30 @@ $("start").addEventListener("keydown",e=>{
   else if(e.key==="Escape"){hits=[];showSugg()}});
 $("sugg").addEventListener("mousedown",e=>{const li=e.target.closest("li");if(li){e.preventDefault();choose(hits[+li.dataset.i])}});
 $("start").addEventListener("blur",()=>setTimeout(()=>{hits=[];showSugg()},150));
-function nearestPlace(la,lo){let best=null,bd=1e9;for(const e of PLZ){const d=(e.la-la)**2+((e.lo-lo)*Math.cos(la*Math.PI/180))**2;if(d<bd){bd=d;best=e}}return best}
+// Ortsname für „Mein Standort“: unter den 15 nächsten PLZ-Einträgen gewinnt der häufigste Name (so zählen Firmen-PLZ wie „Essanelle“ nicht)
+function nearestPlace(la,lo){const c=Math.cos(la*Math.PI/180),near=[];
+  for(const e of PLZ){const d=(e.la-la)**2+((e.lo-lo)*c)**2;if(near.length<15||d<near[near.length-1].d){near.push({e,d});near.sort((a,b)=>a.d-b.d);if(near.length>15)near.pop()}}
+  if(!near.length)return null;const cnt={};near.forEach(x=>cnt[x.e.p]=(cnt[x.e.p]||0)+1);
+  return near.find(x=>cnt[x.e.p]===Math.max(...Object.values(cnt))).e}
 function geoFail(msg){$("geo").removeAttribute("aria-busy");const s=$("startinfo");s.classList.add("err");s.textContent=msg}
 $("geo").addEventListener("click",()=>{const g=$("geo");
   if(!("geolocation" in navigator)){geoFail("Dein Gerät kann den Standort hier nicht teilen. Gib PLZ oder Ort ein.");return}
   g.setAttribute("aria-busy","true");$("startinfo").classList.remove("err");$("startinfo").textContent="Standort wird abgefragt …";
-  let done=false;const guard=setTimeout(()=>{if(!done){done=true;geoFail("Keine Standortfreigabe erhalten. Gib PLZ oder Ort ein.")}},12000);
-  try{navigator.geolocation.getCurrentPosition(p=>{if(done)return;done=true;clearTimeout(guard);g.removeAttribute("aria-busy");
+  const HILFE="Erlaube den Standort für diese Seite in den Einstellungen deines Browsers (zum Beispiel über das Schloss- oder Einstellungs-Symbol neben der Adresse) und tippe dann noch einmal. Oder gib PLZ oder Ort ein.";
+  // Wartet so lange auf deine Antwort, wie du brauchst; nach ein paar Sekunden kommt nur ein Hinweis, abgebrochen wird nicht
+  const hint=setTimeout(()=>{if(g.getAttribute("aria-busy")==="true")$("startinfo").textContent="Warte auf die Freigabe. Erscheint kein Fenster, erlaube den Standort in den Browser-Einstellungen für diese Seite."},6000);
+  const stop=()=>{clearTimeout(hint)};
+  const fragen=()=>{try{navigator.geolocation.getCurrentPosition(p=>{stop();g.removeAttribute("aria-busy");
       const la=p.coords.latitude,lo=p.coords.longitude,n=nearestPlace(la,lo);
       state.home={name:"Mein Standort"+(n?" (bei "+n.p+")":""),lat:la,lon:lo};$("startinfo").classList.remove("err");save();render()},
-    err=>{if(done)return;done=true;clearTimeout(guard);geoFail(err&&err.code===1?"Standortzugriff wurde nicht erlaubt. Gib PLZ oder Ort ein.":"Standort konnte nicht ermittelt werden. Gib PLZ oder Ort ein.")},
-    {enableHighAccuracy:false,timeout:10000,maximumAge:600000})}
-  catch(e){done=true;clearTimeout(guard);geoFail("Standortzugriff ist hier nicht möglich. Gib PLZ oder Ort ein.")}});
+    err=>{stop();geoFail(!err||err.code===1?"Der Standort ist für diese Seite nicht freigegeben. "+HILFE:
+      err.code===2?"Dein Handy findet den Standort gerade nicht. Schalte die Ortung (GPS) ein oder gib PLZ oder Ort ein.":
+      "Das Ermitteln dauert zu lange. Versuch es noch einmal oder gib PLZ oder Ort ein.")},
+    {enableHighAccuracy:false,timeout:20000,maximumAge:600000})}
+    catch(e){stop();geoFail("Standortzugriff ist hier nicht möglich. Gib PLZ oder Ort ein.")}};
+  if(navigator.permissions&&navigator.permissions.query){
+    navigator.permissions.query({name:"geolocation"}).then(r=>{if(r.state==="denied"){stop();geoFail("Der Standort ist für diese Seite gesperrt. "+HILFE)}else fragen()},()=>fragen())}
+  else fragen()});
 
 buildFilters();applyTheme();
 $("out").innerHTML='<div class="empty"><strong>Läufe werden geladen …</strong>Einen Moment.</div>';
