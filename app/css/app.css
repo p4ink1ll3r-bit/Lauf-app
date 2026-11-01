@@ -425,3 +425,43 @@ input[type=range]{width:100%;accent-color:var(--accent)}
   .actionbar{animation:up .35s .1s cubic-bezier(.2,.7,.2,1) both}
 }
 @media (prefers-reduced-motion:reduce){*,*::before,*::after{transition:none!important;animation:none!important}}
+
+/* Kopfzeile und Standortkarte (Variante C): Farben kommen aus den Variablen, gelten also in Hell, Dunkel, Straße und Trail */
+.bar .in{flex-direction:column;align-items:stretch;flex-wrap:nowrap;justify-content:flex-start;gap:12px;row-gap:12px;padding-top:calc(env(safe-area-inset-top,0px) + 16px);padding-bottom:16px}
+.bar .logo{order:1;flex:none;width:100%;flex-direction:column;align-items:center;justify-content:center;gap:6px;font-size:2.1rem;text-align:center}
+.bar .logo .nm{display:block}
+.bar .logo .claim{padding-top:0;justify-content:center;white-space:normal;font-size:clamp(.85rem,3.9vw,1.02rem)}
+.bar .in .loc{order:2;width:100%;max-width:none;margin:0;flex:none;border-radius:16px;padding:10px 14px;gap:12px;text-align:left;font-size:1rem;box-shadow:inset 0 0 0 1.5px color-mix(in srgb,var(--brand-run) 60%,transparent)}
+.loc .pin{width:24px;height:24px;color:var(--brand-run)}
+.loc .lt{display:flex;flex-direction:column;min-width:0;flex:1;gap:1px}
+.loc .k{font-size:.72rem;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--brand-dim)}
+.loc .v{display:flex;gap:6px;align-items:baseline;min-width:0;font-size:1.15rem;font-weight:700;color:var(--brand-fg)}
+.loc .v #loc-t{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;min-width:0}
+.loc .v .r{color:var(--brand-dim);font-weight:500;white-space:nowrap}
+.loc .chg{display:inline-flex;align-items:center;gap:1px;flex:none;color:var(--brand-run);font-weight:700;font-size:.92rem}
+.loc:focus-visible{outline:2px solid var(--brand-run);outline-offset:2px}
+
+/* Standort-Fenster: großer Knopf, Umkreis per Stufen und Regler */
+.geo.big{width:100%;justify-content:center;gap:8px;padding:13px 12px;border-radius:14px;border-color:var(--accent);background:var(--accent);color:var(--accent-ink);font-size:1rem}
+.geo.big .ico{width:20px;height:20px}
+.or{text-align:center;color:var(--muted);font-size:.8rem;margin:-2px 0}
+.rchips{display:flex;gap:8px}
+.rchips button{flex:1;appearance:none;border:1px solid var(--line-2);background:var(--surface);color:var(--ink);border-radius:99px;padding:9px 0;font:700 .95rem var(--body);cursor:pointer;min-height:40px}
+.rchips button[aria-pressed=true]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.rscale{display:flex;justify-content:space-between;font-size:.75rem;color:var(--muted);margin-top:-6px}
+.wlogo,.wsub{display:none}
+
+/* Erster Start: dasselbe Fenster, als ganzer Bildschirm mit Logo und Begrüßung */
+#locsheet.welcome:not([hidden]){top:0;max-height:none;border-radius:0;display:flex;align-items:center;justify-content:center;padding-top:calc(env(safe-area-inset-top,0px) + 24px)}
+#locsheet.welcome .in{width:100%;max-width:420px}
+#locsheet.welcome .grip,#locsheet.welcome .radrow,#locsheet.welcome #radius,#locsheet.welcome .rscale{display:none}
+#locsheet.welcome .wlogo{display:flex;flex-direction:column;align-items:center;gap:6px;margin-bottom:10px}
+#locsheet.welcome .wlogo b{font-family:var(--display);font-weight:800;font-size:2.3rem;letter-spacing:.03em;line-height:1;color:var(--ink)}
+#locsheet.welcome .wlogo b .s{color:var(--accent)}
+#locsheet.welcome .wlogo i{font-family:"Permanent Marker","Segoe Print","Comic Sans MS",cursive;font-style:normal;font-size:.95rem;color:var(--muted)}
+#locsheet.welcome h2{text-align:center;font-size:2rem}
+#locsheet.welcome .wsub{display:block;margin:-6px 0 6px;text-align:center;color:var(--muted)}
+/* lange Ortsnamen und sehr schmale Handys */
+.loc .v{flex-wrap:wrap;column-gap:6px;row-gap:0}
+.loc.long .v #loc-t{font-size:1rem}
+@media (max-width:350px){.loc .chg{font-size:0;gap:0}.loc .chg .ico{width:22px;height:22px}.bar .in .loc{gap:10px;padding:10px 12px}}

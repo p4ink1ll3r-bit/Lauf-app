@@ -260,7 +260,12 @@ $("detail").addEventListener("change",e=>{const c=e.target.closest("[data-pack]"
 // Bottom-Sheets (Standort, Teilen)
 let sheetFocus=null;
 function openSheet(id){sheetFocus=document.activeElement;$("backdrop").hidden=false;$(id).hidden=false;document.body.classList.add("locked");const f=$(id).querySelector("input,button,a");if(f)f.focus()}
-function closeSheets(){const ni=document.querySelector(".nav .in");if(ni)ni.dataset.i=["road","trail","fav"].indexOf(state.tab);["locsheet","sharesheet","setsheet","asksheet"].forEach(i=>$(i).hidden=true);$("backdrop").hidden=true;if($("detail").hidden&&$("report").hidden)document.body.classList.remove("locked");if(sheetFocus&&sheetFocus.focus)sheetFocus.focus()}
+// Erster Start: das Standort-Fenster als Begrüßung („Wo läufst du?“), danach nie wieder von selbst
+function openWelcome(){$("locsheet").classList.add("welcome");$("loc-h").textContent="Wo läufst du?";$("loc-done").textContent="Läufe anzeigen";
+  openSheet("locsheet");$("backdrop").hidden=true;if(document.activeElement&&document.activeElement.blur)document.activeElement.blur()}
+function endWelcome(){const s=$("locsheet");if(!s.classList.contains("welcome"))return;
+  s.classList.remove("welcome");$("loc-h").textContent="Startpunkt ändern";$("loc-done").textContent="Fertig";state.onboarded=true;save()}
+function closeSheets(){endWelcome();const ni=document.querySelector(".nav .in");if(ni)ni.dataset.i=["road","trail","fav"].indexOf(state.tab);["locsheet","sharesheet","setsheet","asksheet"].forEach(i=>$(i).hidden=true);$("backdrop").hidden=true;if($("detail").hidden&&$("report").hidden)document.body.classList.remove("locked");if(sheetFocus&&sheetFocus.focus)sheetFocus.focus()}
 $("backdrop").addEventListener("click",closeSheets);
 $("loc").addEventListener("click",()=>openSheet("locsheet"));
 $("loc-done").addEventListener("click",closeSheets);
@@ -380,8 +385,9 @@ function soonBox(list){
 function render(){
   if(!R.length)return;const anim=animNext;animNext=false;
   $("radv").textContent=state.radius;$("radius").value=state.radius;
+  document.querySelectorAll("#rchips button").forEach(b=>b.setAttribute("aria-pressed",+b.dataset.k===state.radius));
   const H=state.home;
-  $("loc-t").textContent=H.name.replace(/^\d{5}\s/,"");$("loc-r").textContent="· "+state.radius+" km";
+  const ort=H.name.replace(/^\d{5}\s/,"");$("loc-t").textContent=ort;$("loc-r").textContent="· "+state.radius+" km";$("loc").classList.toggle("long",ort.length>16);
   if(!$("startinfo").classList.contains("err"))$("startinfo").innerHTML="Aktuell: <strong>"+esc(H.name)+"</strong>";
   R.forEach(r=>r.dist=Math.round(km(H.lat,H.lon,r.la,r.lo)));
   const live=R.filter(r=>dt(r.e||r.d)>=TODAY);
@@ -437,6 +443,7 @@ $("out").addEventListener("click",e=>{
   let o=e.target.closest("[data-open]");if(!o){const c=e.target.closest(".card");if(c)o=c.querySelector("[data-open]")}
   if(o)openDetail(o.dataset.open)});
 $("radius").addEventListener("input",e=>{state.radius=+e.target.value;save();render()});
+$("rchips").addEventListener("click",e=>{const b=e.target.closest("button");if(!b)return;state.radius=+b.dataset.k;save();render()});
 $("reset").addEventListener("click",()=>{SEL.forEach(k=>state[k]="all");save();render()});
 document.querySelectorAll(".tab[role=tab]").forEach(b=>b.addEventListener("click",()=>{if(state.tab===b.dataset.k)return;state.tab=b.dataset.k;save();animNext=true;render();window.scrollTo({top:0,behavior:RM?"auto":"smooth"})}));
 
@@ -478,7 +485,8 @@ $("out").innerHTML='<div class="empty"><strong>Läufe werden geladen …</strong
 (async()=>{
   try{const res=await fetch(DATA_DIR+"races.json",{cache:"no-cache"});if(!res.ok)throw 0;const j=await res.json();META=j;prepare(j.races||[]);
     $("stand").textContent="Läufe-Stand: "+fmt(j.updated)+" · "+(j.races||[]).length+" Läufe. ";render();
-    const h=decodeURIComponent((location.hash||"").slice(1));if(h&&R.some(r=>r.id===h))openDetail(h);setTimeout(askReg,800)}
+    const h=decodeURIComponent((location.hash||"").slice(1));if(h&&R.some(r=>r.id===h))openDetail(h);
+    if(!state.onboarded&&!h)openWelcome();else setTimeout(askReg,800)}
   catch(e){$("out").innerHTML='<div class="empty"><strong>Läufe konnten nicht geladen werden</strong>Prüf deine Verbindung und lade die Seite neu.</div>'}
   try{const res=await fetch(DATA_DIR+"plz.json");const j=await res.json();PLZ=j.map(a=>({z:a[0],p:a[1],la:a[2],lo:a[3],n:norm(a[1])}))}
   catch(e){$("start").placeholder="Ortssuche gerade nicht verfügbar"}

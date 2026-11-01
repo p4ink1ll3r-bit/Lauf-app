@@ -15,10 +15,11 @@
 </head>
 <body>
 <header class="bar"><div class="in">
-  <h1 class="logo"><span><span class="s">PACE</span>HUNT</span><span class="claim"><span class="dash">–</span>find your next race</span></h1>
+  <h1 class="logo"><span class="nm"><span class="s">PACE</span>HUNT</span><span class="claim">find your next race</span></h1>
   <button id="loc" class="loc" type="button" aria-haspopup="dialog" aria-label="Startpunkt und Umkreis ändern">
-    <svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-6.5-6-6.5-11a6.5 6.5 0 0 1 13 0c0 5-6.5 11-6.5 11z" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="12" cy="10" r="2.3" fill="currentColor"/></svg>
-    <span id="loc-t">Startpunkt</span><span class="r" id="loc-r"></span>
+    <svg class="ico pin" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-6.5-6-6.5-11a6.5 6.5 0 0 1 13 0c0 5-6.5 11-6.5 11z" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="12" cy="10" r="2.3" fill="currentColor"/></svg>
+    <span class="lt"><span class="k">Dein Startpunkt</span><span class="v"><span id="loc-t">Startpunkt</span><span class="r" id="loc-r"></span></span></span>
+    <span class="chg">Ändern<svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
   </button>
 </div></header>
 
@@ -26,7 +27,7 @@
   <div class="field">
     <label class="search"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M16 16l4.5 4.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
       <span class="sr">Lauf suchen</span>
-      <input id="q" type="search" autocomplete="off" placeholder="Lauf oder Ort suchen, z. B. Arber" aria-controls="qsugg" aria-expanded="false"></label>
+      <input id="q" type="search" autocomplete="off" placeholder="Lauf suchen, z. B. Arber" aria-controls="qsugg" aria-expanded="false"></label>
     <ul id="qsugg" class="sugg qs" role="listbox" hidden></ul>
   </div>
 
@@ -73,17 +74,24 @@
 <div id="backdrop" class="backdrop" hidden></div>
 <div id="locsheet" class="bsheet" role="dialog" aria-modal="true" aria-labelledby="loc-h" hidden><div class="in">
   <div class="grip"></div>
-  <h2 id="loc-h">Startpunkt &amp; Umkreis</h2>
+  <div class="wlogo" aria-hidden="true"><b><span class="s">PACE</span>HUNT</b><i>find your next race</i></div>
+  <h2 id="loc-h">Startpunkt ändern</h2>
+  <p class="wsub">Dann zeigen wir dir die Läufe in deiner Nähe.</p>
+  <button id="geo" class="geo big" type="button"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>Meinen Standort nutzen</button>
+  <div class="or">oder</div>
   <div class="field">
     <div class="searchrow">
-      <input id="start" type="text" inputmode="search" autocomplete="off" placeholder="PLZ oder Ort, z. B. 93047" aria-label="Startpunkt: Postleitzahl oder Ort" aria-describedby="startinfo" aria-controls="sugg" aria-expanded="false">
-      <button id="geo" class="geo" type="button"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>Standort</button>
+      <input id="start" type="text" inputmode="search" autocomplete="off" placeholder="PLZ oder Ort eingeben" aria-label="Startpunkt: Postleitzahl oder Ort" aria-describedby="startinfo" aria-controls="sugg" aria-expanded="false">
     </div>
     <ul id="sugg" class="sugg" role="listbox" hidden></ul>
   </div>
   <div id="startinfo" class="startinfo"></div>
-  <div class="radrow"><span class="lbl">Umkreis</span><span class="rad"><span id="radv">100</span> km</span></div>
-  <input id="radius" type="range" min="20" max="200" step="10" value="100" aria-label="Umkreis in Kilometern">
+  <div class="radrow"><span class="lbl" id="rad-l">Umkreis</span><span class="rad"><span id="radv">100</span> km</span></div>
+  <div class="rchips" id="rchips" role="group" aria-labelledby="rad-l">
+    <button type="button" data-k="20" aria-pressed="false">20</button><button type="button" data-k="50" aria-pressed="false">50</button><button type="button" data-k="100" aria-pressed="true">100</button><button type="button" data-k="150" aria-pressed="false">150</button><button type="button" data-k="200" aria-pressed="false">200</button>
+  </div>
+  <input id="radius" type="range" min="10" max="200" step="5" value="100" aria-label="Umkreis in Kilometern, genau einstellen">
+  <div class="rscale"><span>10 km</span><span>200 km</span></div>
   <button class="cta" id="loc-done" type="button">Fertig</button>
 </div></div>
 <div id="sharesheet" class="bsheet" role="dialog" aria-modal="true" aria-labelledby="sh-h" hidden></div>
