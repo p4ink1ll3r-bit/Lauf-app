@@ -2,7 +2,7 @@
 
 Automatisch erzeugt aus data/coverage.json (Stand 2026-11-01). Nicht von Hand ändern, sondern coverage.json pflegen und das Skript neu ausführen.
 
-**Fortschritt:** 0 von 96 vollständig, 39 in Arbeit, 57 offen.
+**Fortschritt:** 0 von 96 vollständig, 45 in Arbeit, 51 offen.
 
 - [x] vollständig  - [~] in Arbeit  - [ ] offen
 
@@ -46,19 +46,19 @@ Automatisch erzeugt aus data/coverage.json (Stand 2026-11-01). Nicht von Hand ä
 - [~] LK Freising - 2 Läufe, geprüft: 2026-11-01
 - [~] LK Fürstenfeldbruck - 1 Läufe, geprüft: 2026-11-01
 - [~] LK Garmisch-Partenkirchen - 6 Läufe, geprüft: 2026-11-01
-- [ ] LK Landsberg am Lech - 2 Läufe, geprüft: nie
-- [ ] LK Miesbach - 2 Läufe, geprüft: nie
+- [~] LK Landsberg am Lech - 2 Läufe, geprüft: 2026-11-01
+- [~] LK Miesbach - 2 Läufe, geprüft: 2026-11-01
 - [~] LK Mühldorf a. Inn - 1 Läufe, geprüft: 2026-11-01
-- [ ] LK München - 5 Läufe, geprüft: nie
+- [~] LK München - 5 Läufe, geprüft: 2026-11-01
 - [~] LK Neuburg-Schrobenhausen - 1 Läufe, geprüft: 2026-11-01
 - [~] LK Pfaffenhofen a.d.Ilm - 2 Läufe, geprüft: 2026-11-01
 - [~] LK Rosenheim - 5 Läufe, geprüft: 2026-11-01
-- [ ] LK Starnberg - 2 Läufe, geprüft: nie
+- [~] LK Starnberg - 2 Läufe, geprüft: 2026-11-01
 - [~] LK Traunstein - 7 Läufe, geprüft: 2026-11-01
 - [~] LK Weilheim-Schongau - 1 Läufe, geprüft: 2026-11-01
 - [~] Stadt Ingolstadt - 1 Läufe, geprüft: 2026-11-01
-- [ ] Stadt München - 7 Läufe, geprüft: nie
-- [ ] Stadt Rosenheim - 1 Läufe, geprüft: nie
+- [~] Stadt München - 8 Läufe, geprüft: 2026-11-01
+- [~] Stadt Rosenheim - 1 Läufe, geprüft: 2026-11-01
 
 ## Schwaben (0/14)
 

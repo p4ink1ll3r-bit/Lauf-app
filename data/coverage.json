@@ -296,18 +296,18 @@
                        "typ":  "Landkreis",
                        "bezirk":  "Oberbayern",
                        "prio":  33,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  2,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Miesbach",
                        "typ":  "Landkreis",
                        "bezirk":  "Oberbayern",
                        "prio":  34,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  2,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Mühldorf a. Inn",
@@ -323,9 +323,9 @@
                        "typ":  "Landkreis",
                        "bezirk":  "Oberbayern",
                        "prio":  36,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  5,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Neuburg-Schrobenhausen",
@@ -359,9 +359,9 @@
                        "typ":  "Landkreis",
                        "bezirk":  "Oberbayern",
                        "prio":  40,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  2,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Traunstein",
@@ -395,18 +395,18 @@
                        "typ":  "kreisfreie Stadt",
                        "bezirk":  "Oberbayern",
                        "prio":  44,
-                       "status":  "offen",
-                       "races":  7,
-                       "checked":  null
+                       "status":  "in Arbeit",
+                       "races":  8,
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "Stadt Rosenheim",
                        "typ":  "kreisfreie Stadt",
                        "bezirk":  "Oberbayern",
                        "prio":  45,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  1,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Aichach-Friedberg",

@@ -9355,6 +9355,38 @@
              ],
       "bezirk":  "Oberbayern",
       "kreis":  "LK Garmisch-Partenkirchen"
+  },
+  {
+      "id":  "mental-health-rocks-run-2027",
+      "type":  "road",
+      "name":  "Mental Health Rocks Run",
+      "place":  "München",
+      "lat":  48.1374,
+      "lon":  11.5755,
+      "date":  "2027-03-14",
+      "end":  null,
+      "confirmed":  false,
+      "prev_date":  null,
+      "distances":  [
+                        "5",
+                        "10"
+                    ],
+      "elevation":  null,
+      "note":  "5-km- und 10-km-Lauf",
+      "url":  null,
+      "reg_open":  null,
+      "reg_close":  null,
+      "fee":  null,
+      "start_time":  null,
+      "checked":  "2026-11-01",
+      "source":  "https://haid.app/en/events/mental-health-rocks-run-mq95s8g2",
+      "start_place":  null,
+      "info":  "Termin 14.03.2027 nur aus dem Kalender haid.app; Startort, Veranstalter, Preise und Anmeldung nicht angegeben, Veranstalterseite noch nicht gefunden",
+      "na":  [
+  
+             ],
+      "bezirk":  "Oberbayern",
+      "kreis":  "Stadt München"
   }
  ]
 }
