@@ -1340,7 +1340,8 @@
                       "late_reg":  "7.–10.12. +3 €, am Wettkampftag bis 1 h vor Start +5 €",
                       "info":  "Anmeldung nur online; Urkunde für alle. Startzeiten: 10 km 11:15, 3,5 km 12:30, Kinder- und Jugendläufe 13:05–14:15 (Anmeldeseite nennt 3,5 km statt 3,65 km für die Mittelstrecke)",
                       "bezirk":  "Mittelfranken",
-                      "kreis":  "LK Ansbach"
+                      "kreis":  "LK Ansbach",
+                      "start_time":  "11:15"
                   },
                   {
                       "id":  "friedenslichtlauf-2026",
