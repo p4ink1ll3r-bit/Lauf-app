@@ -9775,6 +9775,38 @@
              ],
       "bezirk":  "Oberfranken",
       "kreis":  "Stadt Bayreuth"
+  },
+  {
+      "id":  "aschaffenburger-sparkassen-halbmarathon-2027",
+      "type":  "road",
+      "name":  "Aschaffenburger Sparkassen Halbmarathon",
+      "place":  "Aschaffenburg",
+      "lat":  49.9807,
+      "lon":  9.1356,
+      "date":  "2027-10-03",
+      "end":  null,
+      "confirmed":  false,
+      "prev_date":  "2026-10-04",
+      "distances":  [
+                        "3,5",
+                        "HM"
+                    ],
+      "elevation":  null,
+      "note":  "Halbmarathon als Einzelstart und Staffel, dazu Inklusionslauf 3,5 km; seit 2003, 2025 war die 22. Ausgabe",
+      "url":  "https://hm-ab.de",
+      "reg_open":  null,
+      "reg_close":  null,
+      "fee":  "Vorjahr (2025): Einzelstart ca. 25 €",
+      "start_time":  "10:30",
+      "checked":  "2026-11-01",
+      "source":  "https://www.festivalsindeutschland.de/es/festival/aschaffenburger-halbmarathon-aschaffenburg/2025",
+      "start_place":  "Ebertbrücke, Aschaffenburg (Ziel: Schloss Johannisburg)",
+      "info":  "Veranstalter: TV Haibach Ausdauersport mit dem Sportamt der Stadt Aschaffenburg. Startzeit und Preis gelten für 2025; Termin 2026 (04.10.) nur aus einem Suchtreffer, nicht auf der Quellseite. Datum 2027 geschätzt",
+      "na":  [
+  
+             ],
+      "bezirk":  "Unterfranken",
+      "kreis":  "Stadt Aschaffenburg"
   }
  ]
 }

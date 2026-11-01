@@ -2,7 +2,7 @@
 
 Automatisch erzeugt aus data/coverage.json (Stand 2026-11-01). Nicht von Hand ändern, sondern coverage.json pflegen und das Skript neu ausführen.
 
-**Fortschritt:** 0 von 96 vollständig, 84 in Arbeit, 12 offen.
+**Fortschritt:** 0 von 96 vollständig, 96 in Arbeit, 0 offen.
 
 - [x] vollständig  - [~] in Arbeit  - [ ] offen
 
@@ -110,15 +110,15 @@ Automatisch erzeugt aus data/coverage.json (Stand 2026-11-01). Nicht von Hand ä
 
 ## Unterfranken (0/12)
 
-- [ ] LK Aschaffenburg - 2 Läufe, geprüft: nie
-- [ ] LK Bad Kissingen - 2 Läufe, geprüft: nie
-- [ ] LK Haßberge - 1 Läufe, geprüft: nie
-- [ ] LK Kitzingen - 1 Läufe, geprüft: nie
-- [ ] LK Main-Spessart - 1 Läufe, geprüft: nie
-- [ ] LK Miltenberg - 3 Läufe, geprüft: nie
-- [ ] LK Rhön-Grabfeld - 1 Läufe, geprüft: nie
-- [ ] LK Schweinfurt - 1 Läufe, geprüft: nie
-- [ ] LK Würzburg - 3 Läufe, geprüft: nie
-- [ ] Stadt Aschaffenburg - 0 Läufe, geprüft: nie
-- [ ] Stadt Schweinfurt - 1 Läufe, geprüft: nie
-- [ ] Stadt Würzburg - 4 Läufe, geprüft: nie
+- [~] LK Aschaffenburg - 2 Läufe, geprüft: 2026-11-01
+- [~] LK Bad Kissingen - 2 Läufe, geprüft: 2026-11-01
+- [~] LK Haßberge - 1 Läufe, geprüft: 2026-11-01
+- [~] LK Kitzingen - 1 Läufe, geprüft: 2026-11-01
+- [~] LK Main-Spessart - 1 Läufe, geprüft: 2026-11-01
+- [~] LK Miltenberg - 3 Läufe, geprüft: 2026-11-01
+- [~] LK Rhön-Grabfeld - 1 Läufe, geprüft: 2026-11-01
+- [~] LK Schweinfurt - 1 Läufe, geprüft: 2026-11-01
+- [~] LK Würzburg - 3 Läufe, geprüft: 2026-11-01
+- [~] Stadt Aschaffenburg - 1 Läufe, geprüft: 2026-11-01
+- [~] Stadt Schweinfurt - 1 Läufe, geprüft: 2026-11-01
+- [~] Stadt Würzburg - 4 Läufe, geprüft: 2026-11-01

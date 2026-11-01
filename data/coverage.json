@@ -764,108 +764,108 @@
                        "typ":  "Landkreis",
                        "bezirk":  "Unterfranken",
                        "prio":  85,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  2,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Bad Kissingen",
                        "typ":  "Landkreis",
                        "bezirk":  "Unterfranken",
                        "prio":  86,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  2,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Haßberge",
                        "typ":  "Landkreis",
                        "bezirk":  "Unterfranken",
                        "prio":  87,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  1,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Kitzingen",
                        "typ":  "Landkreis",
                        "bezirk":  "Unterfranken",
                        "prio":  88,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  1,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Main-Spessart",
                        "typ":  "Landkreis",
                        "bezirk":  "Unterfranken",
                        "prio":  89,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  1,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Miltenberg",
                        "typ":  "Landkreis",
                        "bezirk":  "Unterfranken",
                        "prio":  90,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  3,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Rhön-Grabfeld",
                        "typ":  "Landkreis",
                        "bezirk":  "Unterfranken",
                        "prio":  91,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  1,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Schweinfurt",
                        "typ":  "Landkreis",
                        "bezirk":  "Unterfranken",
                        "prio":  92,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  1,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "LK Würzburg",
                        "typ":  "Landkreis",
                        "bezirk":  "Unterfranken",
                        "prio":  93,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  3,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "Stadt Aschaffenburg",
                        "typ":  "kreisfreie Stadt",
                        "bezirk":  "Unterfranken",
                        "prio":  94,
-                       "status":  "offen",
-                       "races":  0,
-                       "checked":  null
+                       "status":  "in Arbeit",
+                       "races":  1,
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "Stadt Schweinfurt",
                        "typ":  "kreisfreie Stadt",
                        "bezirk":  "Unterfranken",
                        "prio":  95,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  1,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    },
                    {
                        "kreis":  "Stadt Würzburg",
                        "typ":  "kreisfreie Stadt",
                        "bezirk":  "Unterfranken",
                        "prio":  96,
-                       "status":  "offen",
+                       "status":  "in Arbeit",
                        "races":  4,
-                       "checked":  null
+                       "checked":  "2026-11-01"
                    }
                ]
 }
