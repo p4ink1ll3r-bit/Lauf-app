@@ -1,7 +1,9 @@
 """Anmelde- und Zeitnahme-Portale auslesen (ohne KI, nur Standardbibliothek).
 
-Unterstützt: RaceResult (my.raceresult.com), SAS-Eventportal (sas-online.net), Zeitgemäß (zeitgemaess.info).
+Unterstützt: RaceResult (my.raceresult.com) und SAS-Eventportal (sas-online.net).
 Jedes Portal liefert Strecken, Preise und Fristen in festem Aufbau, daher genügt je ein kleines Auslese-Stück.
+NICHT unterstützt: Zeitgemäß (zeitgemaess.info) - deren robots.txt verbietet den automatischen Abruf von event.php.
+Vor jedem Abruf wird die robots.txt der Seite geprüft; was sie verbietet, wird nicht abgerufen.
 
 Aufruf:
     python scripts/portale.py            Vorschau für alle Läufe mit Portal-Link (ändert nichts)
@@ -13,9 +15,12 @@ import html as htmllib
 import json
 import re
 import sys
+import urllib.error
 import urllib.request
+import urllib.robotparser
 from datetime import date
 from pathlib import Path
+from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parent.parent
 RACES = ROOT / "data" / "races.json"
@@ -25,13 +30,34 @@ MONATE = {m: i + 1 for i, m in enumerate(["januar", "februar", "märz", "april",
 
 RR_RE = re.compile(r"raceresult\.com/(\d{4,7})")
 SAS_RE = re.compile(r"sas-online\.net/eventportal_bs/(\d+)")
-ZG_RE = re.compile(r"zeitgemaess\.info/event\.php\?ACCESSCODE=(\w+)")
+
+
+_robots = {}
+
+
+def erlaubt(url):
+    """robots.txt der Seite beachten (4xx = keine Datei = erlaubt, 5xx = nichts abrufen)."""
+    p = urlparse(url)
+    base = f"{p.scheme}://{p.netloc}"
+    if base not in _robots:
+        rp = urllib.robotparser.RobotFileParser()
+        try:
+            with urllib.request.urlopen(urllib.request.Request(base + "/robots.txt", headers=UA), timeout=15) as r:
+                rp.parse(r.read().decode("utf-8", errors="replace").splitlines())
+        except urllib.error.HTTPError as e:
+            rp.disallow_all = e.code >= 500
+            rp.allow_all = e.code < 500
+        except Exception:
+            rp.allow_all = True
+        _robots[base] = rp
+    return _robots[base].can_fetch(UA["User-Agent"], url)
 
 
 def get(url):
+    if not erlaubt(url):
+        raise PermissionError(f"robots.txt verbietet den Abruf: {url}")
     with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=30) as res:
         return res.read().decode("utf-8", errors="replace")
-
 
 def flat(html):
     """HTML -> Text, Tags werden zu '|' (so bleiben Zeilen und Felder getrennt)."""
@@ -102,29 +128,11 @@ def parse_sas(eid):
     return {"datum": datum, "reg_open": None, "reg_close": None, "strecken": contests, "ausgebucht": False}
 
 
-# ---------------------------------------------------------------- Zeitgemäß
-ZG_CONTEST = re.compile(r"\|([^|]+?)\| ?(Jahrgang[^|]*?)\|(\d+,\d\d) ?€")
-
-
-def parse_zeitgemaess(code):
-    t = flat(get(f"https://www.zeitgemaess.info/event.php?ACCESSCODE={code}"))
-    m = re.search(r"am (\d\d\.\d\d\.\d{4})", t)
-    datum = dmy(m.group(1)) if m else None
-    close = None
-    m = re.search(r"Anmeldung geöffnet bis:[\s|]*[^|]*?(\d{1,2})\. (\w+) (\d{4})", t)
-    if m and m.group(2).lower() in MONATE:
-        close = iso(m.group(1), MONATE[m.group(2).lower()], m.group(3))
-    contests = [{"name": n.strip(), "tag": datum, "start": None, "km": None, "preise": [betrag(p)]}
-                for n, _jg, p in ZG_CONTEST.findall(t)]
-    return {"datum": datum, "reg_open": None, "reg_close": close, "strecken": contests, "ausgebucht": False}
-
-
 # ---------------------------------------------------------------- Zuordnung und Vorschläge
 def portal_of(race):
     for key in ("url", "source"):
         s = race.get(key) or ""
-        for name, rx, fn in (("RaceResult", RR_RE, parse_raceresult), ("SAS", SAS_RE, parse_sas),
-                             ("Zeitgemäß", ZG_RE, parse_zeitgemaess)):
+        for name, rx, fn in (("RaceResult", RR_RE, parse_raceresult), ("SAS", SAS_RE, parse_sas)):
             m = rx.search(s)
             if m:
                 return name, m.group(1), fn
