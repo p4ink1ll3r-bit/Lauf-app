@@ -484,3 +484,28 @@ input[type=range]{width:100%;accent-color:var(--accent)}
 .regbar .regbtn{font:700 .98rem/1.15 var(--body)}
 .reghint{grid-column:1/-1;font-size:.82rem;color:var(--muted)}
 .regbtn[aria-pressed=true]~.reghint{display:none}
+/* Detailseite: Statusbanner, Preisliste, Lauftag mit aufklappbarem Rest */
+.status{grid-column:1/-1;display:flex;gap:10px;align-items:center;padding:11px 12px;border-radius:14px;border:1px solid var(--line-2);background:var(--sunk);color:var(--ink)}
+.status svg{width:26px;height:26px;flex:none;color:var(--muted)}
+.status b{display:block;font-size:1rem;line-height:1.2}
+.status span{display:block;font-size:.85rem;color:var(--muted);margin-top:1px}
+.status.s-ok{background:var(--ok-soft);border-color:color-mix(in srgb,var(--ok) 45%,transparent)}
+.status.s-ok svg,.status.s-ok b{color:var(--ok)}
+.status.s-hot{background:var(--hot-soft);border-color:color-mix(in srgb,var(--hot) 55%,transparent)}
+.status.s-hot svg,.status.s-hot b{color:var(--hot)}
+.status.s-open{background:var(--warn-soft);border-color:color-mix(in srgb,var(--warn) 50%,transparent)}
+.status.s-open svg,.status.s-open b{color:var(--warn)}
+.status.s-full{background:var(--hot-soft);border-color:var(--hot)}
+.status.s-full svg,.status.s-full b{color:var(--hot)}
+.prices{list-style:none;margin:0;padding:0;display:flex;flex-direction:column}
+.prices li{display:flex;justify-content:space-between;align-items:baseline;gap:14px;padding:8px 0;border-top:1px solid var(--line)}
+.prices li:first-child{border-top:0;padding-top:0}
+.prices .pv{font-family:var(--display);font-size:1.3rem;font-weight:800;white-space:nowrap;font-variant-numeric:tabular-nums}
+.bigv{font-family:var(--display);font-size:1.3rem;font-weight:800}
+details.more summary{cursor:pointer;color:var(--accent);font-weight:700;list-style:none;display:flex;align-items:center;gap:6px;padding:6px 0}
+details.more summary::-webkit-details-marker{display:none}
+details.more summary::after{content:"";width:8px;height:8px;border-right:2px solid currentColor;border-bottom:2px solid currentColor;transform:rotate(45deg);margin-top:-3px;transition:transform .2s}
+details.more[open] summary::after{transform:rotate(-135deg);margin-top:3px}
+details.more .kv{margin-top:6px}
+.prices li.late{color:var(--muted)}
+.prices li.late .pv{font-size:1.05rem;font-weight:700}

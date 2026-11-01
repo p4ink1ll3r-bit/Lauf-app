@@ -1,6 +1,6 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
-const APP_VERSION="v8"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+const APP_VERSION="v9"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
 const DATA_DIR="data/";
 const REPORT_URL="";
 const APP_URL=location.origin+location.pathname.replace(/index\.html$/,"");
@@ -160,6 +160,33 @@ function gearBox(r){
    (r.gearNote?'<span class="src">'+esc(r.gearNote)+'</span>':"")+'</section>'}
 function missLine(arr,id){return arr.length?'<p class="miss">Noch offen: '+arr.join(", ")+' – wird beim Sonntags-Update nachgetragen. <button type="button" class="linkbtn inl" data-report="'+id+'" data-kind="Info ergänzen">Weißt du es? Ergänzen</button></p>':""}
 function V(r,k,suf){const v=r[k];if(!v)return r.na.has(k)?'<span class="na">Keine Angabe des Veranstalters</span>':"";return esc(v)+(suf||"")+(r.prevF.has(k)?' <span class="vj">Vorjahr</span>':"")}
+// Statusbanner über den Anmelde-Knöpfen: sagt auf einen Blick, ob man sich noch anmelden kann
+const ST_IC={
+  ok:'<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2"/><path d="M8 12.5l2.7 2.7L16 9.5" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>',
+  clock:'<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 7v5.2l3.2 1.9" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>',
+  stop:'<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2"/><path d="M6.6 6.6l10.8 10.8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>'};
+function statusBanner(r){
+  const rd=r.rc?daysTo(r.rc):null,od=r.ro?daysTo(r.ro):null,tag=k=>k<=0?"heute":k===1?"morgen":"in "+k+" Tagen";
+  let c,ic,t,s;
+  if(r.soldout){c="full";ic="stop";t="Ausgebucht";s="Alle Startplätze sind vergeben."}
+  else if(r.rc&&rd<0){c="plain";ic="stop";t="Meldeschluss vorbei";s="Letzter Tag war "+longDate(r.rc)+". "+(r.late?"Nachmeldung: "+esc(r.late):"Ob eine Nachmeldung geht, steht beim Veranstalter.")}
+  else if(od!==null&&od>0){c=od<=14?"hot":"open";ic="clock";t="Anmeldung öffnet "+tag(od);s="Start der Anmeldung: "+longDate(r.ro)}
+  else if(r.rc){c=rd<=7?"hot":"ok";ic=rd<=7?"clock":"ok";t=rd<=7?"Meldeschluss "+tag(rd):"Anmeldung offen";s=(rd<=7?"Letzter Tag: ":"Bis ")+longDate(r.rc)+(rd>7?" · noch "+rd+" Tage":"")}
+  else if(r.ro){c="ok";ic="ok";t="Anmeldung offen";s="Einen Meldeschluss nennt der Veranstalter bisher nicht."}
+  else if(!r.ok){c="open";ic="clock";t="Termin noch nicht bestätigt";s="Das Datum ist nach dem Vorjahr geschätzt. Anmeldung und Preise stehen noch nicht fest."}
+  else return"";
+  return'<div class="status s-'+c+'" role="status">'+ST_IC[ic]+'<div><b>'+t+'</b><span>'+s+'</span></div></div>'}
+// Startgeld: steht der Text klar als „Strecke … Betrag €“, wird er zur Liste; sonst bleibt er Text
+function priceList(txt){if(!txt)return"";
+  const parts=[];
+  for(const g of txt.split(/\s*[;·]\s*/)){const items=g.split(/,\s+(?=[0-9A-ZÄÖÜ])/).map(s=>s.trim()).filter(Boolean),late=/^Nachmeldung/i.test(items[0]||"");
+    items.forEach((s,i)=>parts.push(late&&i>0&&!/^Nachmeldung/i.test(s)?"Nachmeldung "+s:s))}   // „Nachmeldung A 17 €, B 10 €“: auch B ist Nachmeldung
+  if(parts.length<2)return"";
+  const re=/(\+?\d{1,4}(?:[.,]\d{1,2})?)\s?(?:€|Euro)/g,rows=[];
+  for(const p of parts){const m=[...p.matchAll(re)];if(m.length!==1)return"";
+    const label=p.replace(m[0][0],"").replace(/\s*\bje\b\s*$/i,"").replace(/^[\s:–-]+|[\s:–-]+$/g,"");
+    rows.push([label||"Startgeld",m[0][1]+" €"])}
+  return'<ul class="prices">'+rows.map(x=>'<li'+(/^Nachmeldung/i.test(x[0])?' class="late"':"")+'><span>'+esc(x[0])+'</span><b class="pv">'+esc(x[1])+'</b></li>').join("")+'</ul>'}
 function kvRows(rows){const have=rows.filter(x=>x[1]);return have.length?'<dl class="kv">'+have.map(x=>'<dt>'+x[0]+'</dt><dd>'+x[1]+'</dd>').join("")+'</dl>':""}
 
 // Wetter: 7-Tage-Vorhersage (Open-Meteo)
@@ -202,11 +229,14 @@ function openDetail(id){const r=R.find(x=>x.id===id);if(!r)return;if($("detail")
     tile("Startgeld",r.price?priceTxt(r.price):(r.fee?"siehe unten":""),r.price&&r.price.prev?"Vorjahrespreis":"")+
     tile("Anmeldung",ri?ri.s:"",ri&&ri.c==="hot"?ri.t:"");
   // Anmeldung & Kosten
-  const regRows=[["Anmeldung",ri&&(r.ro||ri.c==="full"||ri.c==="plain")?esc(ri.t):""],["Anmeldestart",r.ro?fmt(r.ro):""],["Meldeschluss",r.rc?fmt(r.rc):""],["Startgeld",V(r,"fee")],
+  const plist=priceList(r.fee);
+  const regRows=[["Anmeldung",ri&&(r.ro||ri.c==="full"||ri.c==="plain")?esc(ri.t):""],["Anmeldestart",r.ro?fmt(r.ro):""],["Meldeschluss",r.rc?fmt(r.rc):""],["Startgeld",plist?"":V(r,"fee")],
     ["Teilnehmer&shy;limit",V(r,"limit")+(r.soldout?' <span class="pill full">ausgebucht</span>':"")],["Im Startgeld",r.incl?esc(r.incl):""],["Nachmeldung",r.late?esc(r.late):""]];
   const regMiss=[];if(!r.fee&&!r.na.has("fee"))regMiss.push("Startgeld");if(!r.rc&&!r.na.has("rc"))regMiss.push("Meldeschluss");if(!r.ro&&!r.rc&&!r.na.has("ro"))regMiss.push("Anmeldestart");if(!r.limit&&!r.na.has("limit"))regMiss.push("Teilnehmerlimit");
   // Am Lauftag
-  const dayRows=[["Startzeit",V(r,"st"," Uhr")],["Start/Ziel",V(r,"sp")],["Start&shy;unterlagen",V(r,"pick")],["Anreise &amp; Parken",V(r,"park")],["Verpflegung",V(r,"aid")],["Vor Ort",r.extras?esc(r.extras):""]];
+  const dayMain=[["Startzeit",r.st?'<span class="bigv">'+esc(r.st)+' Uhr</span>'+(r.prevF.has("st")?' <span class="vj">Vorjahr</span>':""):V(r,"st"," Uhr")],["Start&shy;unterlagen",V(r,"pick")],["Anreise &amp; Parken",V(r,"park")]];
+  const dayMore=[["Start/Ziel",V(r,"sp")],["Verpflegung",V(r,"aid")],["Vor Ort",r.extras?esc(r.extras):""]];
+  const dayHtml=kvRows(dayMain)+(dayMore.some(x=>x[1])?'<details class="more"'+(dayMain.some(x=>x[1])?"":" open")+'><summary>Mehr zum Lauftag</summary>'+kvRows(dayMore)+'</details>':"");
   const dayMiss=[];[["st","Startzeit"],["pick","Startunterlagen"],["park","Parken"],["aid","Verpflegung"]].forEach(([k,l])=>{if(!r[k]&&!r.na.has(k))dayMiss.push(l)});
   const gmaps="https://www.google.com/maps/dir/?api=1&destination="+r.la+","+r.lo,amaps="https://maps.apple.com/?daddr="+r.la+","+r.lo+"&q="+encodeURIComponent(r.n);
   $("detail").innerHTML='<div class="in">'+
@@ -216,15 +246,15 @@ function openDetail(id){const r=R.find(x=>x.id===id);if(!r)return;if($("detail")
      '<div class="top">'+leafHTML(r)+'<div class="tt"><span class="kick">'+(r.t==="trail"?"Trail":"Straße")+' · '+esc(r.o)+'</span><h2 id="d-title">'+esc(r.n)+'</h2><span class="when">'+when+'</span></div></div>'+
      '<div class="pills">'+(r.ok?'<span class="pill ok">Termin bestätigt</span>':'<span class="pill open">Termin offen · Vorjahr '+fmt(r.prev)+'</span>')+
      (reg?'<span class="pill reg">Angemeldet ✓</span>':"")+'<span class="hchip">'+(days<=0?"Heute":"noch <b>"+days+"</b> Tage")+'</span><span class="hchip"><b>'+r.dist+'</b> km entfernt</span></div></div>'+
-   '<div class="regbar'+(r.u?"":" solo")+'" role="group" aria-label="Anmeldung">'+
+   '<div class="regbar'+(r.u?"":" solo")+'" role="group" aria-label="Anmeldung">'+statusBanner(r)+
      (r.u?'<a class="cta" href="'+esc(r.u)+'" target="_blank" rel="noopener" data-goreg="'+r.id+'">Zur Anmeldung '+IC.ext.replace('<svg','<svg width="16" height="16"')+'</a>':"")+
      '<button type="button" class="regbtn" data-reg="'+r.id+'" aria-pressed="'+reg+'">'+(reg?"✓ Angemeldet":"Ich bin angemeldet")+'</button>'+
      '<span class="reghint">Schon angemeldet? Hake es hier ab, dann steht der Lauf unter „Meine Läufe“.</span></div>'+
    '<div class="stats">'+tiles+'</div>'+
    '<section class="box"><h3>'+IC.route+'Strecke</h3>'+(r.course?'<div>'+esc(r.course)+'</div>':"")+(r.cutoff?'<div><b>Zeitlimit:</b> '+esc(r.cutoff)+'</div>':"")+'<div class="legs">'+legs+'</div>'+profileSVG(r)+
      (r.gpx?'<div class="btns"><a class="btn" href="'+esc(r.gpx)+'" target="_blank" rel="noopener">GPX-Track '+IC.ext+'</a></div>':"")+'</section>'+
-   '<section class="box"><h3>'+IC.euro+'Anmeldung &amp; Kosten</h3>'+kvRows(regRows)+missLine(regMiss,r.id)+'</section>'+
-   '<section class="box"><h3>'+IC.flag+'Am Lauftag</h3>'+kvRows(dayRows)+missLine(dayMiss,r.id)+'</section>'+
+   '<section class="box"><h3>'+IC.euro+'Anmeldung &amp; Kosten</h3>'+(plist?plist+(r.prevF.has("fee")?'<span class="vj">Vorjahr</span>':""):"")+kvRows(regRows)+missLine(regMiss,r.id)+'</section>'+
+   '<section class="box"><h3>'+IC.flag+'Am Lauftag</h3>'+dayHtml+missLine(dayMiss,r.id)+'</section>'+
    '<section class="box"><h3>'+IC.car+'Anfahrt</h3><div>'+esc(loc)+' · '+r.dist+' km Luftlinie ab '+esc(state.home.name)+'</div>'+
      '<div class="btns"><a class="btn" href="'+gmaps+'" target="_blank" rel="noopener">Google Maps '+IC.ext+'</a><a class="btn" href="'+amaps+'" target="_blank" rel="noopener">Apple Karten '+IC.ext+'</a></div></section>'+
    '<section class="box" id="wx"><h3>'+IC.sun+'Wetter in '+esc(r.o)+'</h3><div id="wxbody" class="na">Vorhersage wird geladen …</div>'+
