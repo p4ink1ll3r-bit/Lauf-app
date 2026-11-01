@@ -1,6 +1,6 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
-const APP_VERSION="v6"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+const APP_VERSION="v7"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
 const DATA_DIR="data/";
 const REPORT_URL="";
 const APP_URL=location.origin+location.pathname.replace(/index\.html$/,"");
@@ -280,7 +280,7 @@ document.querySelectorAll(".bsheet").forEach(sh=>{let y0=null,x0=0,dy=0,t0=0,dra
   sh.addEventListener("touchcancel",()=>{y0=null;drag=false;sh.style.transform=""})});
 function closeSheets(){document.querySelectorAll(".bsheet").forEach(s=>{s.style.animation="";s.style.transform="";s.style.transition=""});endWelcome();const ni=document.querySelector(".nav .in");if(ni)ni.dataset.i=["road","trail","fav"].indexOf(state.tab);["locsheet","sharesheet","setsheet","asksheet"].forEach(i=>$(i).hidden=true);$("backdrop").hidden=true;if($("detail").hidden&&$("report").hidden)document.body.classList.remove("locked");if(sheetFocus&&sheetFocus.focus)sheetFocus.focus()}
 $("backdrop").addEventListener("click",closeSheets);
-$("loc").addEventListener("click",()=>openSheet("locsheet"));
+$("loc").addEventListener("click",()=>{$("startinfo").classList.remove("err");$("startinfo").textContent="";if(state.onboarded||homeShown)showHome();openSheet("locsheet")});
 $("loc-done").addEventListener("click",closeSheets);
 // Einstellungen: Darstellung Automatisch / Hell / Dunkel (auf dem Gerät gespeichert)
 const HOST_THEME=document.documentElement.getAttribute("data-theme");
@@ -401,7 +401,8 @@ function render(){
   document.querySelectorAll("#rchips button").forEach(b=>b.setAttribute("aria-pressed",+b.dataset.k===state.radius));
   const H=state.home;
   const ort=H.name.replace(/^\d{5}\s/,"");$("loc-t").textContent=ort;$("loc-r").textContent="· "+state.radius+" km";$("loc").classList.toggle("long",ort.length>16);
-  if(!$("startinfo").classList.contains("err"))$("startinfo").innerHTML="Aktuell: <strong>"+esc(H.name)+"</strong>";
+  if(!$("startinfo").classList.contains("err"))$("startinfo").textContent="";
+  if((state.onboarded||homeShown)&&document.activeElement!==$("start"))showHome();
   R.forEach(r=>r.dist=Math.round(km(H.lat,H.lon,r.la,r.lo)));
   const live=R.filter(r=>dt(r.e||r.d)>=TODAY);
   state.favs=state.favs.filter(id=>R.some(r=>r.id===id));state.reg=(state.reg||[]).filter(id=>state.favs.includes(id));
@@ -471,15 +472,19 @@ function showSugg(){const ul=$("sugg");
   if(!hits.length){ul.hidden=true;$("start").setAttribute("aria-expanded","false");return}
   ul.innerHTML=hits.map((e,i)=>'<li role="option" data-i="'+i+'" aria-selected="'+(i===sel)+'"><b>'+e.z+'</b><span>'+esc(e.p)+'</span></li>').join("");
   ul.hidden=false;$("start").setAttribute("aria-expanded","true")}
-function choose(e){animNext=true;state.home={name:e.z+" "+e.p,lat:e.la,lon:e.lo};$("start").value="";hits=[];sel=-1;showSugg();$("startinfo").classList.remove("err");save();render()}
-$("start").addEventListener("input",e=>{hits=find(e.target.value);sel=hits.length?0:-1;showSugg()});
+// Der gewählte Startpunkt steht im Eingabefeld selbst (mit Haken), nicht klein darunter
+let homeShown=false;
+function showHome(){const s=$("start");s.value=state.home.name;s.parentElement.classList.add("gesetzt");homeShown=true}
+function choose(e){animNext=true;state.home={name:e.z+" "+e.p,lat:e.la,lon:e.lo};hits=[];sel=-1;showSugg();$("startinfo").classList.remove("err");$("startinfo").textContent="";save();showHome();render();$("start").blur()}
+$("start").addEventListener("input",e=>{e.target.parentElement.classList.remove("gesetzt");hits=find(e.target.value);sel=hits.length?0:-1;showSugg()});
+$("start").addEventListener("focus",e=>{if(e.target.parentElement.classList.contains("gesetzt"))setTimeout(()=>e.target.select(),0)});
 $("start").addEventListener("keydown",e=>{
   if(e.key==="ArrowDown"&&hits.length){sel=(sel+1)%hits.length;showSugg();e.preventDefault()}
   else if(e.key==="ArrowUp"&&hits.length){sel=(sel-1+hits.length)%hits.length;showSugg();e.preventDefault()}
   else if(e.key==="Enter"){e.preventDefault();if(hits[sel])choose(hits[sel]);else if($("start").value.trim()){$("startinfo").classList.add("err");$("startinfo").textContent="Kein Ort gefunden. Versuch es mit einer Postleitzahl."}}
   else if(e.key==="Escape"){hits=[];showSugg()}});
 $("sugg").addEventListener("mousedown",e=>{const li=e.target.closest("li");if(li){e.preventDefault();choose(hits[+li.dataset.i])}});
-$("start").addEventListener("blur",()=>setTimeout(()=>{hits=[];showSugg()},150));
+$("start").addEventListener("blur",()=>setTimeout(()=>{hits=[];showSugg();if(homeShown&&!$("startinfo").classList.contains("err"))showHome()},150));
 // Ortsname für „Mein Standort“: unter den 15 nächsten PLZ-Einträgen gewinnt der häufigste Name (so zählen Firmen-PLZ wie „Essanelle“ nicht)
 function nearestPlace(la,lo){const c=Math.cos(la*Math.PI/180),near=[];
   for(const e of PLZ){const d=(e.la-la)**2+((e.lo-lo)*c)**2;if(near.length<15||d<near[near.length-1].d){near.push({e,d});near.sort((a,b)=>a.d-b.d);if(near.length>15)near.pop()}}
@@ -496,7 +501,7 @@ $("geo").addEventListener("click",()=>{const g=$("geo");
   // Erst schnell über das Netz; liefert das nichts, ein zweiter Versuch mit GPS (genauer, aber langsamer)
   const fragen=hoch=>{try{navigator.geolocation.getCurrentPosition(p=>{stop();g.removeAttribute("aria-busy");
       const la=p.coords.latitude,lo=p.coords.longitude,n=nearestPlace(la,lo);
-      state.home={name:"Mein Standort"+(n?" (bei "+n.p+")":""),lat:la,lon:lo};$("startinfo").classList.remove("err");save();render()},
+      state.home={name:"Mein Standort"+(n?" (bei "+n.p+")":""),lat:la,lon:lo};$("startinfo").classList.remove("err");$("startinfo").textContent="";save();showHome();render()},
     err=>{if(err&&err.code!==1&&!hoch){$("startinfo").textContent="Suche mit GPS … das kann einen Moment dauern.";fragen(true);return}
       stop();geoFail(!err||err.code===1?"Der Standort ist für diese Seite nicht freigegeben. "+HILFE:
       err.code===2?"Dein Handy liefert keinen Standort. Prüfe, ob die Ortung (GPS) eingeschaltet und für deinen Browser erlaubt ist, oder gib PLZ oder Ort ein.":
