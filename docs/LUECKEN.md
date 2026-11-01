@@ -2,11 +2,11 @@
 
 Automatisch erzeugt aus data/races.json. Als vorhanden zählt ein aktueller Wert, ein belegter Vorjahreswert (prev) oder "Veranstalter macht keine Angabe" (na).
 
-**260 Läufe, 940 von 1820 Detailfeldern offen** (48 % gefüllt).
+**260 Läufe, 937 von 1820 Detailfeldern offen** (49 % gefüllt).
 
 | Feld | offen bei Läufen |
 |---|---|
-| Startgeld | 98 |
+| Startgeld | 95 |
 | Startzeit | 71 |
 | Meldeschluss | 175 |
 | Limit | 186 |
@@ -66,59 +66,59 @@ Automatisch erzeugt aus data/races.json. Als vorhanden zählt ein aktueller Wert
 
 ## Stufe 2: 25.01.2027 bis 30.04.2027 (53 Läufe mit Lücken)
 
-- 2027-03-14 Ottobeurer Halbmarathon (LK Unterallgäu) - fehlt: Startgeld, Startzeit, Meldeschluss, Limit, Startunterlagen, Parken, Verpflegung
 - 2027-03-14 Mental Health Rocks Run (Stadt München) - fehlt: Startgeld, Startzeit, Meldeschluss, Limit, Startunterlagen, Parken, Verpflegung
-- 2027-04-25 Bad Kötztinger Stadtlauf (LK Cham) - fehlt: Startgeld, Meldeschluss, Limit, Startunterlagen, Parken, Verpflegung
-- 2027-04-17 Andechs Trail (LK Starnberg) - fehlt: Startgeld, Startzeit, Meldeschluss, Startunterlagen, Parken, Verpflegung
-- 2027-03-14 Ebersberger Seelauf (LK Ebersberg) - fehlt: Startgeld, Startzeit, Limit, Startunterlagen, Parken, Verpflegung
+- 2027-03-14 Ottobeurer Halbmarathon (LK Unterallgäu) - fehlt: Startgeld, Startzeit, Meldeschluss, Limit, Startunterlagen, Parken, Verpflegung
 - 2027-04-24 LOS Ultra Nürnberg-Eckental (LK Erlangen-Höchstadt) - fehlt: Startgeld, Startzeit, Meldeschluss, Startunterlagen, Parken, Verpflegung
-- 2027-02-20 Obertrubacher Crosslauf (LK Forchheim) - fehlt: Startgeld, Startzeit, Limit, Startunterlagen, Parken, Verpflegung
-- 2027-01-31 LuT-Crosslauf (LK Miltenberg) - fehlt: Startgeld, Startzeit, Limit, Startunterlagen, Parken, Verpflegung
-- 2027-02-28 TB-Frühjahrslauf Weiden (Stadt Weiden i.d.OPf.) - fehlt: Startgeld, Meldeschluss, Limit, Startunterlagen, Parken, Verpflegung
+- 2027-03-14 Ebersberger Seelauf (LK Ebersberg) - fehlt: Startgeld, Startzeit, Limit, Startunterlagen, Parken, Verpflegung
+- 2027-04-17 Andechs Trail (LK Starnberg) - fehlt: Startgeld, Startzeit, Meldeschluss, Startunterlagen, Parken, Verpflegung
 - 2027-02-28 Bayerische Cross-Meisterschaft (LK Freyung-Grafenau) - fehlt: Startgeld, Startzeit, Limit, Startunterlagen, Parken, Verpflegung
+- 2027-01-31 LuT-Crosslauf (LK Miltenberg) - fehlt: Startgeld, Startzeit, Limit, Startunterlagen, Parken, Verpflegung
+- 2027-04-25 Bad Kötztinger Stadtlauf (LK Cham) - fehlt: Startgeld, Meldeschluss, Limit, Startunterlagen, Parken, Verpflegung
+- 2027-02-20 Obertrubacher Crosslauf (LK Forchheim) - fehlt: Startgeld, Startzeit, Limit, Startunterlagen, Parken, Verpflegung
+- 2027-02-28 TB-Frühjahrslauf Weiden (Stadt Weiden i.d.OPf.) - fehlt: Startgeld, Meldeschluss, Limit, Startunterlagen, Parken, Verpflegung
+- 2027-03-21 Gögerltrail (LK Weilheim-Schongau) - fehlt: Startgeld, Meldeschluss, Startunterlagen, Parken, Verpflegung
 - 2027-03-21 Deggendorfer Halbmarathon (LK Deggendorf) - fehlt: Startgeld, Meldeschluss, Limit, Startunterlagen, Parken
-- 2027-04-18 Wendelsteiner Panoramalauf (LK Roth) - fehlt: Meldeschluss, Limit, Startunterlagen, Parken, Verpflegung
 - 2027-03-21 Iller-Lauf Senden (LK Neu-Ulm) - fehlt: Startzeit, Limit, Startunterlagen, Parken, Verpflegung
 - 2027-04-10 Saaletal Marathon (LK Bad Kissingen) - fehlt: Startgeld, Meldeschluss, Limit, Parken, Verpflegung
 - 2027-04-11 Obermain-Marathon (LK Lichtenfels) - fehlt: Meldeschluss, Limit, Startunterlagen, Parken, Verpflegung
-- 2027-03-21 Gögerltrail (LK Weilheim-Schongau) - fehlt: Startgeld, Meldeschluss, Startunterlagen, Parken, Verpflegung
 - 2027-04-24 Rottaler Volksmarathon (LK Passau) - fehlt: Startgeld, Startzeit, Meldeschluss, Limit, Startunterlagen
-- 2027-01-31 Prellsteinrennen (LK Amberg-Sulzbach) - fehlt: Startgeld, Startzeit, Startunterlagen, Parken, Verpflegung
+- 2027-04-24 Mini-Maus-Lauf mit Hobbylauf Mendorferbuch (LK Amberg-Sulzbach) - fehlt: Meldeschluss, Limit, Startunterlagen, Parken, Verpflegung
 - 2027-04-24 Dreiburgenland-Marathon (LK Freyung-Grafenau) - fehlt: Meldeschluss, Limit, Startunterlagen, Parken, Verpflegung
 - 2027-01-31 Johannesbad Thermen-Marathon (LK Passau) - fehlt: Startzeit, Limit, Startunterlagen, Parken, Verpflegung
-- 2027-04-24 Mini-Maus-Lauf mit Hobbylauf Mendorferbuch (LK Amberg-Sulzbach) - fehlt: Meldeschluss, Limit, Startunterlagen, Parken, Verpflegung
+- 2027-04-18 Wendelsteiner Panoramalauf (LK Roth) - fehlt: Meldeschluss, Limit, Startunterlagen, Parken, Verpflegung
 - 2027-04-25 Würzburger Residenzlauf (Stadt Würzburg) - fehlt: Meldeschluss, Limit, Startunterlagen, Verpflegung
+- 2027-04-10 Forstenrieder Volkslauf (Stadt München) - fehlt: Meldeschluss, Startunterlagen, Parken, Verpflegung
 - 2027-04-23 SCOTT GaPa Vertical (LK Garmisch-Partenkirchen) - fehlt: Startzeit, Startunterlagen, Parken, Verpflegung
 - 2027-04-18 ROE-CROSS Frühlingslauf (LK Schweinfurt) - fehlt: Limit, Startunterlagen, Parken, Verpflegung
 - 2027-04-18 DJK Domlauf Passau (Stadt Passau) - fehlt: Meldeschluss, Limit, Parken, Verpflegung
-- 2027-04-10 Forstenrieder Volkslauf (Stadt München) - fehlt: Meldeschluss, Startunterlagen, Parken, Verpflegung
 - 2027-03-21 Marktlauf "Rund um Ruhstorf" (LK Passau) - fehlt: Startzeit, Meldeschluss, Limit, Verpflegung
 - 2027-03-29 Wolfsfährte-Trail (Wolfsfährtelauf) (LK Freyung-Grafenau) - fehlt: Meldeschluss, Limit, Parken, Verpflegung
-- 2027-04-17 Soul Trail (LK Deggendorf) - fehlt: Meldeschluss, Limit, Startunterlagen
-- 2027-03-20 Würzburger Gedächtnislauf (Stadt Würzburg) - fehlt: Startgeld, Meldeschluss, Limit
+- 2027-01-31 Prellsteinrennen (LK Amberg-Sulzbach) - fehlt: Startzeit, Startunterlagen, Parken, Verpflegung
 - 2027-03-21 6h von Kelheim (LK Kelheim) - fehlt: Meldeschluss, Limit, Parken
+- 2027-03-20 Würzburger Gedächtnislauf (Stadt Würzburg) - fehlt: Startgeld, Meldeschluss, Limit
 - 2027-04-18 Burgweintinger Nepal-Lauf (Stadt Regensburg) - fehlt: Meldeschluss, Limit, Parken
-- 2027-04-04 Silberwaldlauf (LK Neu-Ulm) - fehlt: Startgeld, Meldeschluss, Limit
-- 2027-04-02 Jurasteig Nonstop Ultratrail (LK Neumarkt i.d.OPf.) - fehlt: Startgeld, Startzeit, Parken
 - 2027-04-24 Skywalk-Lauf (LK Lindau (Bodensee)) - fehlt: Meldeschluss, Limit, Parken
-- 2027-03-07 Dürrwangener Lauf „Zur Alten Kappel“ (LK Ansbach) - fehlt: Startgeld, Startzeit, Limit
-- 2027-04-11 Panorama Run Güntersleben (LK Würzburg) - fehlt: Startgeld, Meldeschluss, Limit
 - 2027-04-24 HiRo Run (LK Roth) - fehlt: Meldeschluss, Limit, Parken
+- 2027-04-17 Soul Trail (LK Deggendorf) - fehlt: Meldeschluss, Limit, Startunterlagen
+- 2027-04-04 Silberwaldlauf (LK Neu-Ulm) - fehlt: Startgeld, Meldeschluss, Limit
+- 2027-04-11 Panorama Run Güntersleben (LK Würzburg) - fehlt: Startgeld, Meldeschluss, Limit
 - 2027-03-14 Halbmarathon Straßlach-Dingharting (LK München) - fehlt: Limit, Parken
-- 2027-04-18 Rosenheimer Citylauf (Stadt Rosenheim) - fehlt: Meldeschluss, Limit
-- 2027-04-18 Amberger Frühlingslauf (Stadt Amberg) - fehlt: Meldeschluss, Limit
+- 2027-04-02 Jurasteig Nonstop Ultratrail (LK Neumarkt i.d.OPf.) - fehlt: Startzeit, Parken
 - 2027-04-04 Landshut Läuft (Stadt Landshut) - fehlt: Startgeld, Meldeschluss
-- 2027-04-10 Seenlandmarathon (LK Weißenburg-Gunzenhausen) - fehlt: Limit
+- 2027-03-07 Dürrwangener Lauf „Zur Alten Kappel“ (LK Ansbach) - fehlt: Startzeit, Limit
+- 2027-04-18 Amberger Frühlingslauf (Stadt Amberg) - fehlt: Meldeschluss, Limit
+- 2027-04-18 Rosenheimer Citylauf (Stadt Rosenheim) - fehlt: Meldeschluss, Limit
 - 2027-03-13 Erlanger Winterwaldlauf (Stadt Erlangen) - fehlt: Limit
 - 2027-04-10 Kallmünzer Frühlingslauf (LK Regensburg) - fehlt: Parken
-- 2027-04-25 Geretsrieder Stadtlauf (LK Bad Tölz-Wolfratshausen) - fehlt: Meldeschluss
 - 2027-04-25 Nordschwabenlauf (LK Dillingen a.d.Donau) - fehlt: Limit
-- 2027-03-14 Bad Windsheimer Weinturmlauf (LK Neustadt a.d.Aisch-Bad Windsheim) - fehlt: Meldeschluss
+- 2027-04-25 Geretsrieder Stadtlauf (LK Bad Tölz-Wolfratshausen) - fehlt: Meldeschluss
+- 2027-04-10 Seenlandmarathon (LK Weißenburg-Gunzenhausen) - fehlt: Limit
+- 2027-04-11 Halbmarathon Pfarrkirchen (LK Rottal-Inn) - fehlt: Meldeschluss
 - 2027-03-28 3 Seen Halbmarathon (LK Weißenburg-Gunzenhausen) - fehlt: Meldeschluss
 - 2027-04-23 Ultratrail Fränkische Schweiz (LK Forchheim) - fehlt: Verpflegung
-- 2027-03-14 Frühjahrslauf Kitzinger Zehner (LK Kitzingen) - fehlt: Limit
 - 2027-04-24 Fränkischer Fischkerwalauf (LK Bamberg) - fehlt: Parken
-- 2027-04-11 Halbmarathon Pfarrkirchen (LK Rottal-Inn) - fehlt: Meldeschluss
+- 2027-03-14 Frühjahrslauf Kitzinger Zehner (LK Kitzingen) - fehlt: Limit
+- 2027-03-14 Bad Windsheimer Weinturmlauf (LK Neustadt a.d.Aisch-Bad Windsheim) - fehlt: Meldeschluss
 
 ## Stufe 3: ab 01.05.2027 (133 Läufe mit Lücken)
 
