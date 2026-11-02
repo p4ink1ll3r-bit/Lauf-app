@@ -1,6 +1,6 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
-const APP_VERSION="v16"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+const APP_VERSION="v17"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
 const DATA_DIR="data/";
 const REPORT_URL="";
 const APP_URL=location.origin+location.pathname.replace(/index\.html$/,"");
@@ -177,23 +177,26 @@ function profileSVG(r){const p=r.prof;if(!Array.isArray(p)||p.length<3)return"";
   return '<figure class="prof"><svg viewBox="0 0 '+W+' '+H+'" role="img" aria-label="Höhenprofil von '+lo+' bis '+hi+' Meter über '+maxK+' Kilometer"><path d="M'+pts[0][0]+' '+(H-20)+' L'+pts.map(x=>x.join(" ")).join(" L")+' L'+pts[pts.length-1][0]+' '+(H-20)+'Z" fill="var(--trail-soft)"/><path d="M'+pts.map(x=>x.join(" ")).join(" L")+'" fill="none" stroke="var(--trail)" stroke-width="2.5" stroke-linejoin="round"/>'+
    '<text x="30" y="14" font-size="12" fill="var(--muted)">'+hi+' m</text><text x="30" y="'+(H-4)+'" font-size="12" fill="var(--muted)">0 km</text><text x="'+(W-10)+'" y="'+(H-4)+'" font-size="12" text-anchor="end" fill="var(--muted)">'+maxK+' km</text></svg></figure>'}
 // Pflichtausrüstung: oben je Strecke Pflicht / empfohlen / keine Pflicht, dann die Liste zum Abhaken
-const GLV={pflicht:["Pflicht","pf"],empfohlen:["Empfohlen","em"],keine:["Keine Pflicht","kn"],offen:["Unklar","kn"]};
+const GLV={pflicht:["Pflicht","pf"],empfohlen:["Empfohlen","em"],keine:["Keine genannt","kn"],offen:["Unklar","kn"]};
 function gearBox(r){
   const hasG=r.gear&&r.gear.length,hasL=r.gl&&r.gl.length;
   if(hasL){const done=(state.packed&&state.packed[r.id])||[];
-    return '<section class="box"><h3>'+IC.pack+'Pflichtausrüstung</h3>'+
+    const lv=new Set(r.gl.map(x=>x.level)),sum=lv.has("pflicht")?(lv.size===1?["Pflicht","pf"]:["Pflicht, nicht überall","pf"]):lv.has("empfohlen")?["Nur empfohlen","em"]:lv.has("offen")?["Unklar","kn"]:["Keine Pflicht genannt","kn"];
+    return gearWrap(sum,
      (r.gs?'<span class="gstand'+(/Vorjahr/.test(r.gs)?" old":"")+'">'+esc(r.gs)+'</span>':"")+
      '<div class="glv">'+r.gl.map(x=>{const l=GLV[x.level]||GLV.offen;return '<div class="gr"><span class="gk">'+esc(/^\d+([,.]\d+)?$/.test(x.km)?x.km+" km":x.km)+'</span><span class="gp '+l[1]+'">'+l[0]+'</span><span class="gc">'+esc(x.check||"")+'</span></div>'}).join("")+'</div>'+
      (r.gw?'<p class="gwarn">'+esc(r.gw)+'</p>':"")+
      (hasG?'<span class="src" id="packcount">'+done.length+' von '+r.gear.length+' eingepackt</span><ul class="pack">'+
        r.gear.map((g,i)=>'<li><label><input type="checkbox" data-pack="'+r.id+'" value="'+i+'"'+(done.includes(i)?" checked":"")+'><span>'+esc(g)+'</span></label></li>').join("")+'</ul>':"")+
-     (r.gearNote?'<span class="src">'+esc(r.gearNote)+'</span>':"")+'</section>'}
+     (r.gearNote?'<span class="src">'+esc(r.gearNote)+'</span>':""))}
   if(!hasG){if(r.t!=="trail"||!(r.maxKm>25))return"";
     return '<section class="box"><h3>'+IC.pack+'Pflichtausrüstung</h3><p class="miss">Noch nicht erfasst. Auf längeren Trailstrecken gibt es meist eine Pflichtausrüstung, sie steht in der Ausschreibung des Veranstalters.'+(r.u?' <a href="'+esc(r.u)+'" target="_blank" rel="noopener">Zur Veranstalterseite</a>':"")+'</p></section>'}
   const done=(state.packed&&state.packed[r.id])||[];
-  return '<section class="box"><h3>'+IC.pack+'Pflichtausrüstung</h3><span class="src" id="packcount">'+done.length+' von '+r.gear.length+' eingepackt</span><ul class="pack">'+
+  return gearWrap(["Liste ansehen","kn"],'<span class="src" id="packcount">'+done.length+' von '+r.gear.length+' eingepackt</span><ul class="pack">'+
    r.gear.map((g,i)=>'<li><label><input type="checkbox" data-pack="'+r.id+'" value="'+i+'"'+(done.includes(i)?" checked":"")+'><span>'+esc(g)+'</span></label></li>').join("")+'</ul>'+
-   (r.gearNote?'<span class="src">'+esc(r.gearNote)+'</span>':"")+'</section>'}
+   (r.gearNote?'<span class="src">'+esc(r.gearNote)+'</span>':""))}
+// Ausklappbarer Kasten: zu sieht man nur die Kurzfassung (Pflicht, empfohlen …), auf die Strecken und die Liste kommen beim Aufklappen
+function gearWrap(sum,body){return '<details class="box gearbox"><summary><h3>'+IC.pack+'Pflichtausrüstung</h3><span class="gsum '+sum[1]+'">'+sum[0]+'</span></summary><div class="gbody">'+body+'</div></details>'}
 function missLine(arr,id){return arr.length?'<p class="miss">Noch offen: '+arr.join(", ")+' – wird beim Sonntags-Update nachgetragen. <button type="button" class="linkbtn inl" data-report="'+id+'" data-kind="Info ergänzen">Weißt du es? Ergänzen</button></p>':""}
 function V(r,k,suf){const v=r[k];if(!v)return r.na.has(k)?'<span class="na">Keine Angabe des Veranstalters</span>':"";return esc(v)+(suf||"")+(r.prevF.has(k)?' <span class="vj">Vorjahr</span>':"")}
 // Anfahrt: Routen-Knöpfe, auf dem Handy steht die passende Karten-App zuerst

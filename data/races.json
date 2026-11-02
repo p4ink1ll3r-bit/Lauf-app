@@ -179,7 +179,8 @@
      "level": "empfohlen",
      "check": "keine Pflicht"
     }
-   ]
+   ],
+   "gear_open": "Ausschreibung nicht erreicht; Stufen nur für 23 und 46 km aus früherer Prüfung"
   },
   {
    "id": "ronsberger-crosslauf-2026",
@@ -261,7 +262,8 @@
    "late_reg": "Am Lauftag, falls Limit nicht erreicht, +5 €",
    "info": "Anmeldung nur online (runtix) · Starts: Marathon 09:00, 11/15 km 11:30, 5 km & 5 km Walking 11:35 (laut Anmeldeseite 11:45); Teilnehmerlimit je Lauf, Zahl nicht genannt",
    "bezirk": "Unterfranken",
-   "kreis": "LK Rhön-Grabfeld"
+   "kreis": "LK Rhön-Grabfeld",
+   "gear_open": "Seiten nennen keine Ausrüstung; Anmeldeseite nicht gelesen"
   },
   {
    "id": "teufelsberg-crosslauf-2026",
@@ -544,7 +546,8 @@
    "late_reg": "Nur über Warteliste bei freien Plätzen, 10 € Nachmeldegebühr; Shorty vor Ort nicht möglich",
    "info": "Voraussichtliche gemischte Startgruppen A 08:00, B 08:30, C 09:00, D 11:00, E 11:30 (Einteilung wird vor dem Start bekanntgegeben); Mensch-Tier-Teams 5 min vor Hauptfeld",
    "bezirk": "Oberpfalz",
-   "kreis": "LK Cham"
+   "kreis": "LK Cham",
+   "gear_open": "Stufen je Strecke fehlen; Seite nennt keine Liste, Quelle der Teilliste unklar"
   },
   {
    "id": "waldlauf-buchenbach-2026",
@@ -610,7 +613,8 @@
     "reg_open"
    ],
    "bezirk": "Unterfranken",
-   "kreis": "LK Haßberge"
+   "kreis": "LK Haßberge",
+   "gear_open": "Portal nennt nichts; Veranstalterseite nicht lesbar"
   },
   {
    "id": "hobby-crosslauf-jetzendorf-2026",
@@ -2285,7 +2289,8 @@
    "late_reg": null,
    "info": null,
    "bezirk": "Oberpfalz",
-   "kreis": "LK Cham"
+   "kreis": "LK Cham",
+   "gear_open": "Seite tkut.runfellows.com nicht erreichbar; Runners Guide (PDF) fehlt"
   },
   {
    "id": "spindellauf-im-dez-2027",
@@ -3382,15 +3387,16 @@
    "parking": null,
    "extras": null,
    "gear": [
-    "Mobiltelefon mit Notfallnummer",
-    "Leih-Tracker",
-    "Eigener Trinkbecher",
     "Stirnlampe",
+    "GPS-Tracker (wird gestellt)",
+    "Startnummer mit Tracking-Chip und Streckenübersicht (wird gestellt)",
+    "Geladenes Handy",
+    "Eigener Becher",
     "Rettungsdecke",
     "Kleines Medikit",
-    "Min. 0,5 l Getränk am Start"
+    "Mindestens 0,5 Liter Getränk beim Start"
    ],
-   "gear_note": null,
+   "gear_note": "Quelle: https://www.junut.de, Abschnitt Pflichtausrüstung und Sicherheit",
    "profile": null,
    "gpx": null,
    "limit": "Einladungslauf – Teilnahme nur nach Prüfung der Lauferfahrung",
@@ -3403,7 +3409,26 @@
     "pickup": "Turnhalle Kindergarten Dietfurt: Do 15–18 Uhr (Briefing 18:30, Pasta-Party), Fr 08:00–14:30"
    },
    "bezirk": "Oberpfalz",
-   "kreis": "LK Neumarkt i.d.OPf."
+   "kreis": "LK Neumarkt i.d.OPf.",
+   "gear_levels": [
+    {
+     "km": "239 km",
+     "level": "pflicht",
+     "check": "Kontrolle vor dem Start"
+    },
+    {
+     "km": "170 km",
+     "level": "pflicht",
+     "check": "Kontrolle vor dem Start"
+    },
+    {
+     "km": "104 km",
+     "level": "pflicht",
+     "check": "Kontrolle vor dem Start"
+    }
+   ],
+   "gear_stand": "Veranstalterseite 2027",
+   "gear_warn": "Wer die Pflichtausrüstung nicht vollständig dabei hat, wird von der Wertung ausgeschlossen. Nur empfohlen: zweite Lichtquelle, GPS-Gerät mit Strecke, wasserdichte Jacke, Stöcke."
   },
   {
    "id": "altenmunster-halbmarathon-2027",
@@ -4320,7 +4345,18 @@
    "limit": "Begrenzt (Meldeschluss früher bei Erreichen der Kapazität)",
    "info": "Mindestalter 14; keine Spikes/Grödel, Stöcke erlaubt; Startzeiten der Gruppen kurz vorher auf der Homepage; Wetterentscheidung bis 12:00 am Vortag",
    "bezirk": "Oberbayern",
-   "kreis": "LK Garmisch-Partenkirchen"
+   "kreis": "LK Garmisch-Partenkirchen",
+   "gear": null,
+   "gear_levels": [
+    {
+     "km": "Alle Strecken",
+     "level": "keine",
+     "check": "nur Schuhregel"
+    }
+   ],
+   "gear_stand": "Ausschreibung 2027",
+   "gear_warn": "Erlaubt sind nur normale Lauf- oder Trailrunschuhe. Stollenschuhe, Spikes und Grödel sind verboten, bei Verstoß droht Disqualifikation. Eine weitere Liste nennt die Ausschreibung nicht.",
+   "gear_note": "Quelle: https://gapavertical.de/ausschreibung-2027/"
   },
   {
    "id": "ultratrail-frankische-schweiz-2027",
@@ -4537,7 +4573,8 @@
    "late_reg": null,
    "info": "Anmeldung über Race Result (my.raceresult.com/427015)",
    "bezirk": "Mittelfranken",
-   "kreis": "LK Erlangen-Höchstadt"
+   "kreis": "LK Erlangen-Höchstadt",
+   "gear_open": "Seite ohne Ausrüstungsangabe"
   },
   {
    "id": "gapa-trail-2027",
@@ -4679,7 +4716,8 @@
    "late_reg": null,
    "info": "60-Minuten-Lauf (Einzel-Challenge: Runden in 1 Std.) oder 2er-Staffel; Anmeldung über datasport; Kinderläufe · Zeitplan 24.04.2027: Einlass/Registrierung 14:00–16:30, Bambini 15:00, Kids 15:10, Nachwuchscup 15:35, 2er-Staffel 16:15, Einzel-Challenge 17:30; Erwachsene erhalten Läufertasche und Medaille; Eintritt für Läufer + 2 Begleiter ab 14 Uhr frei",
    "bezirk": "Schwaben",
-   "kreis": "LK Lindau (Bodensee)"
+   "kreis": "LK Lindau (Bodensee)",
+   "gear_open": "Seite nennt keine Ausrüstung; FAQ nicht gelesen"
   },
   {
    "id": "dreiburgenland-marathon-2027",
@@ -7060,7 +7098,7 @@
    "parking": null,
    "extras": null,
    "gear": null,
-   "gear_note": null,
+   "gear_note": "Quelle: https://www.allgaeu-panorama-marathon.de/content/reglement/",
    "profile": null,
    "gpx": null,
    "limit": null,
@@ -7070,7 +7108,16 @@
    "late_reg": null,
    "info": "Anmeldung über datasport (apm2027); Doppel-Finisher-Medaille für beide HM",
    "bezirk": "Schwaben",
-   "kreis": "LK Oberallgäu"
+   "kreis": "LK Oberallgäu",
+   "gear_levels": [
+    {
+     "km": "Alle Strecken",
+     "level": "keine",
+     "check": "Reglement und Streckenseiten nennen keine"
+    }
+   ],
+   "gear_stand": "Reglement 2027",
+   "gear_warn": "Das Reglement verbietet Hilfsmittel außer Laufstöcken. Eine Liste mit Pflichtausrüstung steht dort nicht. Die Seite zu Informationen für internationale Teilnehmer habe ich nicht gelesen."
   },
   {
    "id": "kelheimer-volksfestlauf-2027",
@@ -7616,7 +7663,8 @@
      "check": "Seite nicht geprüft"
     }
    ],
-   "gear_stand": "Vorjahr 2026 · für 2027 noch nicht veröffentlicht"
+   "gear_stand": "Vorjahr 2026 · für 2027 noch nicht veröffentlicht",
+   "gear_open": "Seiten der Strecken 47, 36 und 20 km nicht gelesen"
   },
   {
    "id": "brauereienlauf-frankische-toskana-2027",
@@ -8080,7 +8128,7 @@
    "parking": null,
    "extras": null,
    "gear": null,
-   "gear_note": null,
+   "gear_note": "Quelle: https://www.hochfellnberglauf.de/meldung-ergebnisse/ausschreibung/",
    "profile": null,
    "gpx": null,
    "limit": null,
@@ -8097,7 +8145,16 @@
     "aid": "Öderkaser (1160 m): Wasser, Schwämme; Verpflegungsbuffet im Nenngeld"
    },
    "bezirk": "Oberbayern",
-   "kreis": "LK Traunstein"
+   "kreis": "LK Traunstein",
+   "gear_levels": [
+    {
+     "km": "Alle Strecken",
+     "level": "keine",
+     "check": "Ausschreibung nennt keine"
+    }
+   ],
+   "gear_stand": "Ausschreibung 2026 (Vorjahr)",
+   "gear_warn": "Spikes und Skistöcke sind unzulässig. Sonst nennt die Ausschreibung keine Ausrüstung."
   },
   {
    "id": "kulmbach-trails-2027",
@@ -8394,7 +8451,8 @@
     "aid": "Basislager rund um die Uhr mit einfachen Snacks, Getränken, Trinkwasser; Eigenverpflegung empfohlen"
    },
    "bezirk": "Niederbayern",
-   "checked": "2026-11-01"
+   "checked": "2026-11-01",
+   "gear_open": "Seite 2026 ohne Ausrüstungsangabe; Ausgabe 2027 noch nicht veröffentlicht"
   },
   {
    "id": "hardy-s-stadtlauf-landsberg-2027",
@@ -8537,7 +8595,8 @@
     "aid": "Verpflegungsbuffet (im Startgeld enthalten)"
    },
    "bezirk": "Oberbayern",
-   "kreis": "LK Berchtesgadener Land"
+   "kreis": "LK Berchtesgadener Land",
+   "gear_open": "nicht geprüft"
   },
   {
    "id": "munchen-marathon-2027",
@@ -8746,7 +8805,8 @@
     "parking": "Öffentliche Parkplätze im Ort (keine Details)"
    },
    "bezirk": "Oberbayern",
-   "kreis": "LK Berchtesgadener Land"
+   "kreis": "LK Berchtesgadener Land",
+   "gear_open": "RunThrough-Seite ohne lesbaren Text zur Ausrüstung"
   },
   {
    "id": "fichtelultra-2027",
@@ -9754,7 +9814,8 @@
    "info": "Termin 14.-15.05.2027 nur aus dem gotrail.run-Kalender, Veranstalterseite noch nicht geprüft; Distanzen laut gotrail.run",
    "na": [],
    "bezirk": "Oberbayern",
-   "kreis": "LK Garmisch-Partenkirchen"
+   "kreis": "LK Garmisch-Partenkirchen",
+   "gear_open": "keine Veranstalterseite in den Daten"
   },
   {
    "id": "mental-health-rocks-run-2027",
@@ -10657,7 +10718,8 @@
    "source": "https://gotrail.run/de/termine/nebelhorn-berglauf",
    "checked": "2026-11-02",
    "start_place": "Talstation der Nebelhornbahn, Oberstdorf (Ziel am Gipfel)",
-   "info": "Anmeldung laut Kalender über die Webseite des Veranstalters; Startgeld für 2027 nicht veröffentlicht"
+   "info": "Anmeldung laut Kalender über die Webseite des Veranstalters; Startgeld für 2027 nicht veröffentlicht",
+   "gear_open": "nicht geprüft"
   },
   {
    "id": "lions-12-stunden-lauf-lindenberg-2027",
