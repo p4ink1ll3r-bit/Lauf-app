@@ -1,6 +1,6 @@
 // Offline-Betrieb: App-Gerüst wird beim ersten Start gespeichert, Läufe-Daten kommen bevorzugt frisch aus dem Netz.
 // Bei jeder Änderung an der App VERSION hochzählen, damit alte Dateien ersetzt werden.
-const VERSION = "v29";
+const VERSION = "v30";
 const SHELL = `pacehunt-shell-${VERSION}`;
 const DATA = `pacehunt-data-${VERSION}`;
 const SHELL_FILES = [

@@ -1,6 +1,6 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
-const APP_VERSION="v29"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+const APP_VERSION="v30"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
 const DATA_DIR="data/";
 const REPORT_URL="https://gbaoxnsytnzcuxbkdrwc.supabase.co/rest/v1/reports";
 const REPORT_KEY="sb_publishable_iuxJbdN94igdsBQ5-dtm5g_OxWYWGH9";   // öffentlicher Schlüssel: darf nur Meldungen anlegen
@@ -603,6 +603,12 @@ document.querySelectorAll(".tab[role=tab]").forEach(b=>b.addEventListener("click
 // Startpunkt: PLZ/Ort-Suche (offline)
 function find(q){q=q.trim();if(!q)return[];
   if(/^\d+$/.test(q))return PLZ.filter(e=>e.z.startsWith(q)).slice(0,8);
+  // PLZ und Ort in beliebiger Reihenfolge („94330 Aiterhofen“, „Aiterhofen, 94330“): die PLZ entscheidet, der Ortsname sortiert vor
+  const zm=q.match(/\d{3,5}/);
+  if(zm){const z=zm[0],n=norm(q.replace(/\d+/g," ").replace(/[,;]/g," ").replace(/\s+/g," ").trim()),c=PLZ.filter(e=>e.z.startsWith(z));
+    if(!n)return c.slice(0,8);
+    return c.filter(e=>e.n.startsWith(n)).concat(c.filter(e=>!e.n.startsWith(n)&&e.n.includes(n)),c.filter(e=>!e.n.includes(n))).slice(0,8)}
+  q=q.replace(/^st\.?\s+/i,"Sankt ");
   const n=norm(q),a=[],b=[],seen=new Set();
   for(const e of PLZ){if(seen.has(e.p))continue;if(e.n.startsWith(n)){seen.add(e.p);a.push(e)}else if(b.length<20&&e.n.includes(n)){seen.add(e.p);b.push(e)}}
   a.sort((x,y)=>x.p.length-y.p.length);return a.concat(b).slice(0,8)}
