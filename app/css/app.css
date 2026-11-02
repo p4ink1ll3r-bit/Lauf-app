@@ -136,8 +136,10 @@ body.mode-trail .bar::after{opacity:1}
 .head h2{margin:0;font-family:var(--display);font-weight:800;font-size:1.55rem;line-height:1.05;text-wrap:balance}
 .head p{margin:2px 0 0;color:var(--muted);font-size:.85rem}
 .viewbar{display:flex;gap:2px;background:var(--sunk);padding:3px;border-radius:10px;flex:none}
-.vb{appearance:none;border:0;background:transparent;border-radius:8px;width:36px;height:32px;display:grid;place-items:center;cursor:pointer;color:var(--muted)}
-.vb[aria-pressed=true]{background:var(--surface);color:var(--ink);box-shadow:0 1px 2px rgba(0,0,0,.1)}
+.vb{appearance:none;border:0;background:transparent;border-radius:8px;min-width:44px;height:40px;padding:0 10px;display:flex;align-items:center;justify-content:center;gap:6px;cursor:pointer;color:var(--ink);font:700 .78rem var(--body,inherit)}
+.vb .ico{width:20px;height:20px}
+.vb[aria-pressed=true]{background:var(--accent);color:var(--accent-ink);box-shadow:0 1px 3px rgba(0,0,0,.25)}
+@media(max-width:350px){.vb:not([aria-pressed=true]) span{display:none}}
 
 /* Abschnittskopf als Farb-Banner mit Motiv (Straße: Stadt-Silhouette, Trail: Bergpanorama) */
 .head{--hc:var(--road);position:relative;overflow:hidden;border-radius:18px;padding:16px 14px 14px;align-items:flex-end;
@@ -247,6 +249,13 @@ button.pill.regq{appearance:none;cursor:pointer;background:transparent;color:var
 .soonrow{appearance:none;border:0;background:none;padding:7px 0;display:flex;justify-content:space-between;gap:10px;text-align:left;cursor:pointer;border-top:1px solid var(--line);font-size:.9rem}
 .soonrow:first-of-type{border-top:0}
 .soonrow span:last-child{white-space:nowrap;font-weight:700;color:var(--hot)}
+/* je näher die Frist, desto roter */
+.soonrow span.u1{color:var(--warn)}
+.soonrow span.u2{color:var(--hot)}
+.soonrow span.u3{color:var(--red);font-weight:800}
+:root{--red:#C81E32}
+@media(prefers-color-scheme:dark){:root:not([data-theme=light]){--red:#FF4D5E}}
+:root[data-theme=dark]{--red:#FF4D5E}
 .src{font-size:.78rem;color:var(--muted)}
 .foot{font-size:.78rem;color:var(--muted);line-height:1.5;display:flex;flex-direction:column;gap:8px;margin-top:8px}
 .foot .reset{align-self:flex-start;padding:0}

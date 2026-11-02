@@ -1,6 +1,6 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
-const APP_VERSION="v23"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+const APP_VERSION="v24"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
 const DATA_DIR="data/";
 const REPORT_URL="";
 const APP_URL=location.origin+location.pathname.replace(/index\.html$/,"");
@@ -489,7 +489,7 @@ function calHTML(list,favView){
   return g+(shown.length?shown.map(r=>card(r,favView)).join(""):'<div class="empty"><strong>Keine Läufe in diesem Monat</strong>Blättere mit den Pfeilen weiter'+(favView?".":" oder vergrößere den Umkreis.")+'</div>')}
 function soonBox(list){
   const soon=list.map(r=>r.ro&&daysTo(r.ro)>=0&&daysTo(r.ro)<=30?{r,k:daysTo(r.ro),t:"Anmeldung öffnet"}:r.rc&&daysTo(r.rc)>=0&&daysTo(r.rc)<=30?{r,k:daysTo(r.rc),t:"Meldeschluss"}:null).filter(Boolean).sort((a,b)=>a.k-b.k);
-  return'<section class="soon" aria-label="Fristen"><span class="lbl">Fristen in den nächsten 30 Tagen</span>'+(soon.length?soon.map(x=>'<button type="button" class="soonrow" data-open="'+x.r.id+'"><span>'+x.t+': <b>'+esc(x.r.n)+'</b></span><span>'+(x.k===0?"heute":x.k===1?"morgen":"in "+x.k+" Tagen")+'</span></button>').join(""):'<span class="src">Bei deinen gemerkten Läufen steht gerade keine Frist an.</span>')+'</section>'}
+  return'<section class="soon" aria-label="Fristen"><span class="lbl">Fristen in den nächsten 30 Tagen</span>'+(soon.length?soon.map(x=>'<button type="button" class="soonrow" data-open="'+x.r.id+'"><span>'+x.t+': <b>'+esc(x.r.n)+'</b></span><span class="'+urg(x.k)+'">'+whenTxt(x.k)+'</span></button>').join(""):'<span class="src">Bei deinen gemerkten Läufen steht gerade keine Frist an.</span>')+'</section>'}
 
 // Erinnerungen in der App: bei gemerkten Läufen naht Anmeldestart, Meldeschluss (state.remind Tage vorher) oder der Lauftag (7 Tage)
 function remindItems(){const days=+state.remind||0;if(!days)return[];const out=[];
@@ -499,6 +499,7 @@ function remindItems(){const days=+state.remind||0;if(!days)return[];const out=[
     const kd=daysTo(r.d);if(r.ok&&kd>=0&&kd<=7)out.push({r,k:kd,t:reg?"Dein Lauf":"Lauftag"})});
   return out.sort((a,b)=>a.k-b.k)}
 function whenTxt(k){return k===0?"heute":k===1?"morgen":"in "+k+" Tagen"}
+function urg(k){return k<=1?"u3":k<=3?"u2":"u1"}
 function syncRemind(){document.querySelectorAll("[data-remind]").forEach(b=>b.setAttribute("aria-checked",+b.dataset.remind===+state.remind))}
 // Meine Läufe: je Lauf ein Link auf die Kalenderdatei (Lauftag, Meldeschluss, Anmeldestart mit Erinnerungen)
 function icsBox(list){if(!list.length)return"";
@@ -521,7 +522,7 @@ function render(){
     nx.innerHTML='<span class="lbl">Dein nächster Lauf</span><strong>'+esc(r.n)+'</strong><span class="big">'+(k<=0?"Heute":k+"<small>"+(k===1?"Tag":"Tage")+"</small>")+'</span><span class="sub">'+longDate(r.d)+' · '+esc(r.o)+(regs.length>1?' · +'+(regs.length-1)+' weitere':"")+'</span>';nx.hidden=false;if(anim&&k>1)countUp(nx.querySelector(".big"),k)}
   else{nx.hidden=true;nx.dataset.id=""}
   const rm=$("remind"),ri2=state.tab==="fav"?[]:remindItems().slice(0,4);
-  if(ri2.length){rm.innerHTML='<span class="lbl">Bald dran</span>'+ri2.map(x=>'<button type="button" class="soonrow" data-open="'+x.r.id+'"><span>'+x.t+': <b>'+esc(x.r.n)+'</b></span><span>'+whenTxt(x.k)+'</span></button>').join("");rm.hidden=false}
+  if(ri2.length){rm.innerHTML='<span class="lbl">Bald dran</span>'+ri2.map(x=>'<button type="button" class="soonrow" data-open="'+x.r.id+'"><span>'+x.t+': <b>'+esc(x.r.n)+'</b></span><span class="'+urg(x.k)+'">'+whenTxt(x.k)+'</span></button>').join("");rm.hidden=false}
   else{rm.innerHTML="";rm.hidden=true}
   document.querySelectorAll(".vb").forEach(b=>b.setAttribute("aria-pressed",b.dataset.v===state.view));
   const inRadius=r=>!H||r.dist<=state.radius;
