@@ -28,3 +28,8 @@ create policy "App darf melden"
   with check (true);
 
 -- Lesen, Ändern, Löschen: für anon keine Regel = nicht erlaubt.
+
+-- Nachtrag (Feedback aus den Einstellungen): die Art "feedback" zulassen.
+-- Wer die Tabelle schon angelegt hat, führt nur diese zwei Zeilen aus:
+alter table public.reports drop constraint if exists reports_type_check;
+alter table public.reports add constraint reports_type_check check (type in ('fehler', 'fehlt', 'feedback'));

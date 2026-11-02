@@ -1,6 +1,6 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
-const APP_VERSION="v31"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+const APP_VERSION="v32"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
 const DATA_DIR="data/";
 const REPORT_URL="https://gbaoxnsytnzcuxbkdrwc.supabase.co/rest/v1/reports";
 const REPORT_KEY="sb_publishable_iuxJbdN94igdsBQ5-dtm5g_OxWYWGH9";   // öffentlicher Schlüssel: darf nur Meldungen anlegen
@@ -78,6 +78,7 @@ try{const s=JSON.parse(localStorage.getItem("strail2")||"{}");Object.assign(stat
 if(state.dist&&state.dist!=="all"&&!state.dists.length)state.dists=[state.dist];delete state.dist;   // alte Einzelauswahl der Strecke übernehmen
 try{const o=JSON.parse(localStorage.getItem("strail")||"{}");if(Array.isArray(o.favs)&&!state.favs.length)state.favs=o.favs}catch(e){}
 function save(){try{localStorage.setItem("strail2",JSON.stringify(state))}catch(e){}}
+if(["road","trail","fav"].includes(state.start))state.tab=state.start;   // Einstellung „Startseite beim Öffnen“
 const SEL=["time","stat","hm"];
 const DNAME={"5":"5 km","10":"10 km","hm":"Halbmarathon","m":"Marathon","ultra":"Ultra","o":"Andere Strecken"};
 const DORDER=["5","10","hm","m","ultra","o"];
@@ -369,7 +370,7 @@ document.querySelectorAll(".bsheet").forEach(sh=>{let y0=null,x0=0,dy=0,t0=0,dra
     const schnell=dy/Math.max(1,Date.now()-t0)>0.6;sh.style.transition="transform .18s ease";
     if(dy>110||schnell){sh.style.transform="translateY(100%)";setTimeout(closeSheets,170)}else sh.style.transform=""});
   sh.addEventListener("touchcancel",()=>{y0=null;drag=false;sh.style.transform=""})});
-function closeSheets(){if(!$("locsheet").hidden)commitStart();document.querySelectorAll(".bsheet").forEach(s=>{s.style.animation="";s.style.transform="";s.style.transition=""});endWelcome();const ni=document.querySelector(".nav .in");if(ni)ni.dataset.i=["road","trail","fav"].indexOf(state.tab);["locsheet","sharesheet","setsheet","asksheet","legalsheet","bellsheet"].forEach(i=>$(i).hidden=true);$("backdrop").hidden=true;if($("detail").hidden&&$("report").hidden)document.body.classList.remove("locked");if(sheetFocus&&sheetFocus.focus)sheetFocus.focus()}
+function closeSheets(){if(!$("locsheet").hidden)commitStart();document.querySelectorAll(".bsheet").forEach(s=>{s.style.animation="";s.style.transform="";s.style.transition=""});endWelcome();const ni=document.querySelector(".nav .in");if(ni)ni.dataset.i=["road","trail","fav"].indexOf(state.tab);["locsheet","sharesheet","setsheet","asksheet","legalsheet","bellsheet","datasheet"].forEach(i=>$(i).hidden=true);$("backdrop").hidden=true;if($("detail").hidden&&$("report").hidden)document.body.classList.remove("locked");if(sheetFocus&&sheetFocus.focus)sheetFocus.focus()}
 $("backdrop").addEventListener("click",()=>{if(!$("locsheet").hidden&&!commitStart())return;closeSheets()});
 $("loc").addEventListener("click",()=>{$("startinfo").classList.remove("err");$("startinfo").textContent="";if(state.onboarded||homeShown)showHome();openSheet("locsheet")});
 // Getippte, aber nicht aus der Liste gewählte PLZ/Ort gilt beim Schließen: der erste Vorschlag wird genommen
@@ -382,7 +383,7 @@ const HOST_THEME=document.documentElement.getAttribute("data-theme");
 function applyTheme(){const t=state.theme||"auto",el=document.documentElement;
   if(t==="auto"){if(HOST_THEME)el.setAttribute("data-theme",HOST_THEME);else el.removeAttribute("data-theme")}else el.setAttribute("data-theme",t);
   document.querySelectorAll("[data-theme-set]").forEach(b=>b.setAttribute("aria-checked",b.dataset.themeSet===t))}
-$("gear").addEventListener("click",()=>{syncRemind();document.querySelector(".nav .in").dataset.i=3;$("set-stand").textContent=$("stand").textContent+"Aktualisierung jeden Sonntag. App-Version "+APP_VERSION+".";openSheet("setsheet");const c=$("setsheet").querySelector('[aria-checked="true"]');if(c)c.focus()});
+$("gear").addEventListener("click",()=>{syncRemind();syncStart();$("dist-sum").textContent=distSum();document.querySelector(".nav .in").dataset.i=3;$("set-stand").textContent=$("stand").textContent+"Die Läufe werden jede Nacht geprüft. App-Version "+APP_VERSION+".";openSheet("setsheet");const c=$("setsheet").querySelector('[aria-checked="true"]');if(c)c.focus()});
 $("setsheet").addEventListener("click",e=>{const b=e.target.closest("[data-theme-set]");if(b){state.theme=b.dataset.themeSet;save();applyTheme()}
   const rb=e.target.closest("[data-remind]");if(rb){state.remind=+rb.dataset.remind;save();syncRemind();render()}});
 $("remind").addEventListener("click",e=>{const o=e.target.closest("[data-open]");if(o)openDetail(o.dataset.open)});
@@ -400,6 +401,43 @@ $("setsheet").addEventListener("click",e=>{
   const l=e.target.closest("[data-legal]");if(l){$("lg-h").textContent=l.dataset.legal;$("lg-t").textContent="Dieser Text wird vor dem öffentlichen Start ergänzt.";$("setsheet").hidden=true;$("legalsheet").hidden=false;$("lg-done").focus()}});
 $("lg-done").addEventListener("click",()=>{$("legalsheet").hidden=true;$("setsheet").hidden=false});
 $("set-loc").addEventListener("click",()=>{$("setsheet").hidden=true;$("locsheet").hidden=false;$("start").focus()});
+// Meine Distanzen: die Streckenwahl liegt im Startpunkt-Fenster und bleibt auf dem Gerät gespeichert
+function distSum(){const n={"5":"5 km","10":"10 km",hm:"HM",m:"M",ultra:"Ultra",o:"Andere"};return state.dists.length?DORDER.filter(k=>state.dists.includes(k)).map(k=>n[k]||k).join(", "):"Alle"}
+$("set-dist").addEventListener("click",()=>{$("setsheet").hidden=true;$("locsheet").hidden=false;$("dchips").scrollIntoView({block:"center"})});
+// Startseite beim Öffnen
+function syncStart(){document.querySelectorAll("[data-start]").forEach(b=>b.setAttribute("aria-checked",b.dataset.start===(state.start||"last")))}
+$("setsheet").addEventListener("click",e=>{const b=e.target.closest("[data-start]");if(b){state.start=b.dataset.start;save();syncStart()}});
+// Sichern und Wiederherstellen: ein Code zum Aufbewahren (iPhone-App-Fenster können keine Dateien speichern)
+const BACKUP_KEYS=["favs","reg","packed","home","radius","dists","theme","remind","start","view"];
+function backupCode(){const o={};BACKUP_KEYS.forEach(k=>{if(state[k]!==undefined)o[k]=state[k]});return"PH1:"+btoa(unescape(encodeURIComponent(JSON.stringify(o))))}
+function restoreCode(c){let o;try{c=c.trim();if(!c.startsWith("PH1:"))throw 0;o=JSON.parse(decodeURIComponent(escape(atob(c.slice(4)))))}catch(e){return"Der Code ist nicht gültig. Kopiere ihn vollständig, er beginnt mit PH1:."}
+  const ids=a=>Array.isArray(a)?a.filter(x=>typeof x==="string"&&R.some(r=>r.id===x)):[];
+  if(o.favs)state.favs=ids(o.favs);if(o.reg)state.reg=ids(o.reg).filter(x=>state.favs.includes(x));
+  if(o.packed&&typeof o.packed==="object")state.packed=o.packed;
+  if(o.home&&typeof o.home.lat==="number"&&typeof o.home.lon==="number"&&typeof o.home.name==="string")state.home={name:o.home.name,lat:o.home.lat,lon:o.home.lon};
+  if([20,30,50,75,100,150,200].includes(+o.radius)||(+o.radius>=10&&+o.radius<=200))state.radius=+o.radius;
+  if(Array.isArray(o.dists))state.dists=o.dists.filter(k=>DORDER.includes(k));
+  if(["auto","light","dark"].includes(o.theme))state.theme=o.theme;
+  if([0,3,7,14].includes(+o.remind))state.remind=+o.remind;
+  if(["last","road","trail","fav"].includes(o.start))state.start=o.start;
+  save();applyTheme();syncRemind();syncStart();render();return"Wiederhergestellt: "+state.favs.length+" gemerkte Läufe, davon "+state.reg.length+" angemeldet."}
+$("set-backup").addEventListener("click",()=>{$("da-code").value=backupCode();$("da-in").value="";$("da-msg").textContent="";$("setsheet").hidden=true;$("datasheet").hidden=false;$("da-done").focus()});
+$("da-copy").addEventListener("click",async()=>{const t=$("da-code");try{await navigator.clipboard.writeText(t.value);$("da-msg").textContent="Kopiert ✓ Jetzt in einer Notiz ablegen."}catch(err){t.focus();t.select();$("da-msg").textContent="Code markiert – jetzt kopieren (lange tippen)."}});
+$("da-restore").addEventListener("click",()=>{const v=$("da-in").value;$("da-msg").textContent=v.trim()?restoreCode(v):"Füge zuerst den Code ein."});
+$("da-done").addEventListener("click",()=>{$("datasheet").hidden=true;$("setsheet").hidden=false});
+// Alles zurücksetzen: zweimal tippen
+let resetArmed=0;
+$("set-reset").addEventListener("click",()=>{const em=$("reset-em");
+  if(!resetArmed){resetArmed=setTimeout(()=>{resetArmed=0;em.textContent="löschen"},4000);em.textContent="nochmal tippen";return}
+  clearTimeout(resetArmed);try{localStorage.removeItem("strail2")}catch(e){}location.reload()});
+// Feedback geben: gleiche Sammelstelle wie die Fehlermeldungen, Art „feedback“
+function openFeedback(){const el=$("report");reportFocus=document.activeElement;closeSheets();
+  el.innerHTML='<div class="in"><button class="back" type="button" data-rclose>← Zurück</button><h2 id="rp-title" class="rph">Feedback geben</h2>'+
+   '<p class="src">Was gefällt dir, was fehlt, was nervt? Schreib einfach los.</p>'+
+   '<form id="rform" class="rform" novalidate><label><span class="lbl">Dein Feedback</span><textarea name="text" rows="6" placeholder="z. B. Mir fehlt der Filter für Läufe mit Hund"></textarea></label>'+
+   '<button class="cta" type="submit">Feedback absenden</button><div id="rmsg" class="src" aria-live="polite"></div></form></div>';
+  el.dataset.race="";el.dataset.mode="feedback";el.hidden=false;el.scrollTop=0;document.body.classList.add("locked");el.querySelector("[data-rclose]").focus()}
+$("set-feedback").addEventListener("click",openFeedback);
 
 // Angemeldet? Nach „Zur Anmeldung“ fragt die App beim Zurückkommen nach
 function setReg(id){if(!state.reg.includes(id))state.reg.push(id);if(!state.favs.includes(id))state.favs.push(id);save();toast("Als angemeldet gespeichert ✓");
@@ -450,16 +488,17 @@ function openReport(id,kind){const r=id?R.find(x=>x.id===id):null,el=$("report")
      '<label><span class="lbl">Link zum Veranstalter</span><input name="link" type="url" placeholder="https://"></label>')+
    '<label><span class="lbl">'+(r?"Was ist richtig?":"Weitere Hinweise")+'</span><textarea name="text" rows="4" placeholder="'+(r?"z. B. 2027 ist der Lauf am 12. Juni, Startgeld 35 €":"z. B. Distanzen, Höhenmeter")+'"></textarea></label>'+
    '<button class="cta" type="submit">Meldung absenden</button><div id="rmsg" class="src" aria-live="polite"></div></form></div>';
-  el.dataset.race=id||"";el.hidden=false;el.scrollTop=0;document.body.classList.add("locked");el.querySelector("[data-rclose]").focus()}
+  el.dataset.race=id||"";el.dataset.mode="";el.hidden=false;el.scrollTop=0;document.body.classList.add("locked");el.querySelector("[data-rclose]").focus()}
 function closeReport(){$("report").hidden=true;if($("detail").hidden)document.body.classList.remove("locked");if(reportFocus&&reportFocus.focus)reportFocus.focus()}
 $("missing").addEventListener("click",()=>openReport(null));
 $("report").addEventListener("click",async e=>{if(e.target.closest("[data-rclose]")){closeReport();return}
   const c=e.target.closest("[data-copy]");if(c){const t=$("report").querySelector(".copy");try{await navigator.clipboard.writeText(t.value);c.textContent="Kopiert ✓"}catch(err){t.focus();t.select();c.textContent="Text markiert – jetzt kopieren"}}});
 $("report").addEventListener("submit",async e=>{e.preventDefault();const f=e.target,o={};new FormData(f).forEach((v,k)=>{v=String(v).trim();if(v)o[k]=v});
-  const id=$("report").dataset.race||null,msg=$("rmsg");
-  if(id&&!o.text){msg.textContent="Schreib kurz dazu, was richtig ist.";return}
-  if(!id&&!o.name){msg.textContent="Bitte gib mindestens den Namen des Laufs an.";return}
-  const r=id?R.find(x=>x.id===id):null,rec=Object.assign({type:id?"fehler":"fehlt",race:id,race_name:r?r.n:null,status:"neu",created:new Date().toISOString()},o);
+  const id=$("report").dataset.race||null,msg=$("rmsg"),fb=$("report").dataset.mode==="feedback";
+  if(fb&&!o.text){msg.textContent="Schreib kurz, was dir einfällt.";return}
+  if(!fb&&id&&!o.text){msg.textContent="Schreib kurz dazu, was richtig ist.";return}
+  if(!fb&&!id&&!o.name){msg.textContent="Bitte gib mindestens den Namen des Laufs an.";return}
+  const r=id?R.find(x=>x.id===id):null,rec=Object.assign({type:fb?"feedback":id?"fehler":"fehlt",race:id,race_name:r?r.n:null,status:"neu",created:new Date().toISOString()},o);
   const btn=f.querySelector("[type=submit]");btn.disabled=true;msg.textContent="Wird gesendet …";
   let ok=false;try{if(REPORT_URL){const res=await fetch(REPORT_URL,{method:"POST",headers:{"Content-Type":"application/json",apikey:REPORT_KEY,Prefer:"return=minimal"},body:JSON.stringify(rec)});ok=res.ok}}catch(err){}
   if(ok){f.innerHTML='<div class="empty"><strong>Danke für deine Meldung!</strong>Sie wird geprüft und eingearbeitet.</div><button class="back" type="button" data-rclose>Schließen</button>'}

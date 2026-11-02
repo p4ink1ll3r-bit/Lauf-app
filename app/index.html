@@ -118,9 +118,17 @@
   <div class="setgrp"><span class="lbl">Suche</span>
     <div class="srows">
       <button type="button" class="srow" id="set-loc"><span>Startpunkt &amp; Umkreis</span><em>Ändern</em></button>
-      <button type="button" class="srow later" data-soon="Startseite"><span>Startseite</span><em>bald</em></button>
-      <button type="button" class="srow later" data-soon="Meine Distanzen"><span>Meine Distanzen</span><em>bald</em></button>
+      <button type="button" class="srow" id="set-dist"><span>Meine Distanzen</span><em id="dist-sum">Alle</em></button>
     </div></div>
+  <div class="setgrp"><span class="lbl" id="st-l">Startseite beim Öffnen</span>
+    <div class="seg seg4" role="radiogroup" aria-labelledby="st-l">
+      <button type="button" role="radio" data-start="last">Zuletzt</button>
+      <button type="button" role="radio" data-start="road">Straße</button>
+      <button type="button" role="radio" data-start="trail">Trail</button>
+      <button type="button" role="radio" data-start="fav">Gemerkt</button>
+    </div>
+    <span class="src">„Zuletzt“ öffnet den Bereich, in dem du beim letzten Mal warst.</span>
+  </div>
   <div class="setgrp"><span class="lbl" id="rm-l">Erinnerungen in der App</span>
     <div class="seg seg4" role="radiogroup" aria-labelledby="rm-l">
       <button type="button" role="radio" data-remind="0">Aus</button>
@@ -132,14 +140,14 @@
   </div>
   <div class="setgrp"><span class="lbl">Meine Daten</span>
     <div class="srows">
-      <button type="button" class="srow later" data-soon="Gemerkte Läufe sichern"><span>Gemerkte Läufe sichern</span><em>bald</em></button>
-      <button type="button" class="srow later" data-soon="Zurücksetzen"><span>Alles zurücksetzen</span><em>bald</em></button>
+      <button type="button" class="srow" id="set-backup"><span>Gemerkte Läufe sichern</span><em>&rsaquo;</em></button>
+      <button type="button" class="srow" id="set-reset"><span>Alles zurücksetzen</span><em id="reset-em">löschen</em></button>
     </div></div>
   <div class="setgrp"><span class="lbl">Mitmachen</span>
     <div class="srows">
       <button type="button" class="srow later" data-soon="App bewerten"><span>App bewerten</span><em>bald</em></button>
       <button type="button" class="srow later" data-soon="Weiterempfehlen"><span>App weiterempfehlen</span><em>bald</em></button>
-      <button type="button" class="srow later" data-soon="Feedback"><span>Feedback geben</span><em>bald</em></button>
+      <button type="button" class="srow" id="set-feedback"><span>Feedback geben</span><em>&rsaquo;</em></button>
     </div></div>
   <div class="setgrp"><span class="lbl">Rechtliches</span>
     <div class="srows">
@@ -157,6 +165,18 @@
   <div class="setgrp"><span class="lbl">Über die Daten</span>
     <span class="src" id="set-stand"></span></div>
   <button class="cta" id="set-done" type="button">Fertig</button>
+</div></div>
+<div id="datasheet" class="bsheet" role="dialog" aria-modal="true" aria-labelledby="da-h" hidden><div class="in">
+  <div class="grip"></div>
+  <h2 id="da-h">Gemerkte Läufe sichern</h2>
+  <p class="src">Deine gemerkten und angemeldeten Läufe und Einstellungen liegen nur auf diesem Gerät. Kopiere den Code und bewahre ihn auf, zum Beispiel in einer Notiz. Auf einem neuen Gerät fügst du ihn unten wieder ein.</p>
+  <textarea id="da-code" class="copy" rows="4" readonly aria-label="Sicherungscode"></textarea>
+  <button class="btn" id="da-copy" type="button">Code kopieren</button>
+  <span class="lbl" style="margin-top:14px">Wiederherstellen</span>
+  <textarea id="da-in" class="copy" rows="3" placeholder="Code hier einfügen" aria-label="Code zum Wiederherstellen"></textarea>
+  <button class="btn" id="da-restore" type="button">Wiederherstellen</button>
+  <div id="da-msg" class="src" aria-live="polite"></div>
+  <button class="cta" id="da-done" type="button">Zurück</button>
 </div></div>
 <div id="bellsheet" class="bsheet" role="dialog" aria-modal="true" aria-labelledby="bl-h" hidden><div class="in">
   <div class="grip"></div>
