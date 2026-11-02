@@ -609,14 +609,15 @@ a.soonrow{text-decoration:none;color:inherit}
 
 /* Wortmarke Race Hunt: RACE verwischt (Schatten nach links), HUNT scharf, darunter Strichweg zum Pin */
 .logo .nm,.bar .logo .nm{--rc:var(--brand-run);position:relative;display:inline-block;padding:.02em 0 .5em}
-.logo .nm .s{position:relative;display:inline-block;font-style:italic;margin-right:.42em}
+/* RACE samt Keilen wird als ein Bauteil schräg gestellt (nicht per Kursivschrift des Geräts), damit Keile und R auf jedem Gerät nahtlos zusammenpassen */
+.logo .nm .s{position:relative;display:inline-block;font-style:normal;transform:skewX(-12deg);transform-origin:0 90%;margin-right:.5em}
 /* dezente Geschwindigkeitsstreifen vor RACE (scharfe Linien, keine Unschärfe) */
 /* Vier spitze Keile HINTER dem R: oben bündig mit der Oberkante der Großbuchstaben (0,19 em), unten mit der Grundlinie (0,90 em).
    Sie enden im senkrechten Strich des R (Kursiv-Schräge eingerechnet) und scheinen deshalb nicht durch Loch oder Öffnung. */
 .nm .s,.wlogo b .s{isolation:isolate}
-.nm .s::before,.wlogo b .s::before{content:"";position:absolute;left:-1.5em;top:.19em;width:1.755em;height:.71em;z-index:-1;background:var(--rc);
- -webkit-mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 175.5 71' preserveAspectRatio='none'%3E%3Cpath d='M75 5L175.5 0V10ZM5 25.3L170.4 20.3V30.3ZM40 45.6L165.3 40.6V50.6ZM85 66L160.25 61V71Z'/%3E%3C/svg%3E") no-repeat 0 0/100% 100%;
- mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 175.5 71' preserveAspectRatio='none'%3E%3Cpath d='M75 5L175.5 0V10ZM5 25.3L170.4 20.3V30.3ZM40 45.6L165.3 40.6V50.6ZM85 66L160.25 61V71Z'/%3E%3C/svg%3E") no-repeat 0 0/100% 100%}
+.nm .s::before,.wlogo b .s::before{content:"";position:absolute;left:-1.45em;top:.19em;width:1.55em;height:.715em;z-index:-1;background:var(--rc);
+ -webkit-mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 155 71.5' preserveAspectRatio='none'%3E%3Cpath d='M70 5L155 0V10ZM0 25.3L155 20.3V30.3ZM35 45.6L155 40.6V50.6ZM80 66.5L155 61.5V71.5Z'/%3E%3C/svg%3E") no-repeat 0 0/100% 100%;
+ mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 155 71.5' preserveAspectRatio='none'%3E%3Cpath d='M70 5L155 0V10ZM0 25.3L155 20.3V30.3ZM35 45.6L155 40.6V50.6ZM80 66.5L155 61.5V71.5Z'/%3E%3C/svg%3E") no-repeat 0 0/100% 100%}
 /* zwei Striche unter beiden Wörtern: erster in Bereichsfarbe bis ins Visier, zweiter weiß und kürzer */
 .nm::before,.nm::after,.wlogo b::before,.wlogo b::after{content:"";position:absolute;height:.11em;right:.04em;clip-path:polygon(0 100%,100% 0,100% 100%)}
 .nm::after,.wlogo b::after{left:-.3em;bottom:.18em;background:var(--rc);transition:background .5s ease}
@@ -628,7 +629,7 @@ a.soonrow{text-decoration:none;color:inherit}
  linear-gradient(currentColor,currentColor) 0 100%/.3em .07em,linear-gradient(currentColor,currentColor) 0 100%/.07em .3em,
  linear-gradient(currentColor,currentColor) 100% 100%/.3em .07em,linear-gradient(currentColor,currentColor) 100% 100%/.07em .3em;background-repeat:no-repeat}
 #locsheet.welcome .wlogo b{--rc:var(--accent);position:relative;display:inline-block;padding-bottom:.5em;margin-left:.9em}
-#locsheet.welcome .wlogo b .s{position:relative;display:inline-block;font-style:italic;margin-right:.4em}
+#locsheet.welcome .wlogo b .s{position:relative;display:inline-block;font-style:normal;transform:skewX(-12deg);transform-origin:0 90%;margin-right:.45em}
 /* Kopfleiste: Logo links, Suche und Glocke rechts, Startpunkt als schmale Zeile */
 .bar .in{display:grid;grid-template-columns:1fr auto auto;align-items:center;gap:10px 8px;padding-bottom:12px}
 .bar .logo{grid-row:1;grid-column:1/-1}
