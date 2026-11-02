@@ -79,8 +79,8 @@ Automatisch erzeugt aus data/coverage.json (Stand 2026-11-02). Nicht von Hand ä
 
 ## Mittelfranken (1/12)
 
-- [~] LK Ansbach - 7 Läufe, geprüft: 2026-11-02
-- [~] LK Erlangen-Höchstadt - 2 Läufe, geprüft: 2026-11-01
+- [~] LK Ansbach - 8 Läufe, geprüft: 2026-11-02
+- [~] LK Erlangen-Höchstadt - 3 Läufe, geprüft: 2026-11-02
 - [x] LK Fürth - 0 Läufe, geprüft: 2026-11-02
 - [~] LK Neustadt a.d.Aisch-Bad Windsheim - 1 Läufe, geprüft: 2026-11-01
 - [~] LK Nürnberger Land - 1 Läufe, geprüft: 2026-11-01

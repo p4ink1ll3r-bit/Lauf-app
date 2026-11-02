@@ -543,7 +543,7 @@
                        "bezirk":  "Mittelfranken",
                        "prio":  60,
                        "status":  "in Arbeit",
-                       "races":  7,
+                       "races":  8,
                        "checked":  "2026-11-02"
                    },
                    {
@@ -552,8 +552,8 @@
                        "bezirk":  "Mittelfranken",
                        "prio":  61,
                        "status":  "in Arbeit",
-                       "races":  2,
-                       "checked":  "2026-11-01"
+                       "races":  3,
+                       "checked":  "2026-11-02"
                    },
                    {
                        "kreis":  "LK Fürth",
