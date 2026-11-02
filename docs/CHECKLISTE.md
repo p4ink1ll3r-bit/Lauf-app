@@ -1,8 +1,8 @@
 ﻿# Checkliste Landkreise Bayern
 
-Automatisch erzeugt aus data/coverage.json (Stand 2026-11-01). Nicht von Hand ändern, sondern coverage.json pflegen und das Skript neu ausführen.
+Automatisch erzeugt aus data/coverage.json (Stand 2026-11-02). Nicht von Hand ändern, sondern coverage.json pflegen und das Skript neu ausführen.
 
-**Fortschritt:** 0 von 96 vollständig, 96 in Arbeit, 0 offen.
+**Fortschritt:** 6 von 96 vollständig, 90 in Arbeit, 0 offen.
 
 - [x] vollständig  - [~] in Arbeit  - [ ] offen
 
@@ -42,7 +42,7 @@ Automatisch erzeugt aus data/coverage.json (Stand 2026-11-01). Nicht von Hand ä
 - [~] LK Dachau - 2 Läufe, geprüft: 2026-11-01
 - [~] LK Ebersberg - 1 Läufe, geprüft: 2026-11-01
 - [~] LK Eichstätt - 1 Läufe, geprüft: 2026-11-01
-- [~] LK Erding - 0 Läufe, geprüft: 2026-11-01
+- [~] LK Erding - 0 Läufe, geprüft: 2026-11-02
 - [~] LK Freising - 2 Läufe, geprüft: 2026-11-01
 - [~] LK Fürstenfeldbruck - 1 Läufe, geprüft: 2026-11-01
 - [~] LK Garmisch-Partenkirchen - 6 Läufe, geprüft: 2026-11-01
@@ -60,28 +60,28 @@ Automatisch erzeugt aus data/coverage.json (Stand 2026-11-01). Nicht von Hand ä
 - [~] Stadt München - 8 Läufe, geprüft: 2026-11-01
 - [~] Stadt Rosenheim - 1 Läufe, geprüft: 2026-11-01
 
-## Schwaben (0/14)
+## Schwaben (2/14)
 
 - [~] LK Aichach-Friedberg - 3 Läufe, geprüft: 2026-11-01
 - [~] LK Augsburg - 2 Läufe, geprüft: 2026-11-01
 - [~] LK Dillingen a.d.Donau - 2 Läufe, geprüft: 2026-11-01
 - [~] LK Donau-Ries - 2 Läufe, geprüft: 2026-11-01
-- [~] LK Günzburg - 0 Läufe, geprüft: 2026-11-01
+- [x] LK Günzburg - 0 Läufe, geprüft: 2026-11-02
 - [~] LK Lindau (Bodensee) - 1 Läufe, geprüft: 2026-11-01
 - [~] LK Neu-Ulm - 2 Läufe, geprüft: 2026-11-01
 - [~] LK Oberallgäu - 4 Läufe, geprüft: 2026-11-01
 - [~] LK Ostallgäu - 3 Läufe, geprüft: 2026-11-01
 - [~] LK Unterallgäu - 1 Läufe, geprüft: 2026-11-01
 - [~] Stadt Augsburg - 3 Läufe, geprüft: 2026-11-01
-- [~] Stadt Kaufbeuren - 0 Läufe, geprüft: 2026-11-01
+- [x] Stadt Kaufbeuren - 0 Läufe, geprüft: 2026-11-02
 - [~] Stadt Kempten (Allgäu) - 1 Läufe, geprüft: 2026-11-01
 - [~] Stadt Memmingen - 1 Läufe, geprüft: 2026-11-01
 
-## Mittelfranken (0/12)
+## Mittelfranken (1/12)
 
 - [~] LK Ansbach - 6 Läufe, geprüft: 2026-11-01
 - [~] LK Erlangen-Höchstadt - 2 Läufe, geprüft: 2026-11-01
-- [~] LK Fürth - 0 Läufe, geprüft: 2026-11-01
+- [x] LK Fürth - 0 Läufe, geprüft: 2026-11-02
 - [~] LK Neustadt a.d.Aisch-Bad Windsheim - 1 Läufe, geprüft: 2026-11-01
 - [~] LK Nürnberger Land - 1 Läufe, geprüft: 2026-11-01
 - [~] LK Roth - 5 Läufe, geprüft: 2026-11-01
@@ -92,13 +92,13 @@ Automatisch erzeugt aus data/coverage.json (Stand 2026-11-01). Nicht von Hand ä
 - [~] Stadt Nürnberg - 3 Läufe, geprüft: 2026-11-01
 - [~] Stadt Schwabach - 1 Läufe, geprüft: 2026-11-01
 
-## Oberfranken (0/13)
+## Oberfranken (3/13)
 
 - [~] LK Bamberg - 3 Läufe, geprüft: 2026-11-01
 - [~] LK Bayreuth - 2 Läufe, geprüft: 2026-11-01
-- [~] LK Coburg - 0 Läufe, geprüft: 2026-11-01
+- [x] LK Coburg - 0 Läufe, geprüft: 2026-11-02
 - [~] LK Forchheim - 4 Läufe, geprüft: 2026-11-01
-- [~] LK Hof - 0 Läufe, geprüft: 2026-11-01
+- [x] LK Hof - 0 Läufe, geprüft: 2026-11-02
 - [~] LK Kronach - 1 Läufe, geprüft: 2026-11-01
 - [~] LK Kulmbach - 4 Läufe, geprüft: 2026-11-01
 - [~] LK Lichtenfels - 4 Läufe, geprüft: 2026-11-01
@@ -106,7 +106,7 @@ Automatisch erzeugt aus data/coverage.json (Stand 2026-11-01). Nicht von Hand ä
 - [~] Stadt Bamberg - 1 Läufe, geprüft: 2026-11-01
 - [~] Stadt Bayreuth - 2 Läufe, geprüft: 2026-11-01
 - [~] Stadt Coburg - 2 Läufe, geprüft: 2026-11-01
-- [~] Stadt Hof - 0 Läufe, geprüft: 2026-11-01
+- [x] Stadt Hof - 0 Läufe, geprüft: 2026-11-02
 
 ## Unterfranken (0/12)
 

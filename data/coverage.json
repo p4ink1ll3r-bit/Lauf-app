@@ -1,6 +1,6 @@
-{
+﻿{
     "land":  "Bayern",
-    "updated":  "2026-11-01",
+    "updated":  "2026-11-02",
     "hinweis":  "Abdeckungs-Checkliste: status offen | in Arbeit | vollständig. prio = Reihenfolge der Bearbeitung.",
     "kreise":  [
                    {
@@ -262,7 +262,8 @@
                        "prio":  29,
                        "status":  "in Arbeit",
                        "races":  0,
-                       "checked":  "2026-11-01"
+                       "checked":  "2026-11-02",
+                       "hinweis":  "Nur Xletix Challenge München Erding am 17.07.2027 (Hindernislauf, 6/12/18 km) gefunden, passt nicht zur Aufnahme-Regel; ein \u0027Stadtlauf Erding 2026\u0027 steht nur in einem Kalender ohne Datum und ist nicht belegt. Geprüft 2026-11-02 (haid.app, gotrail.run, hdsports, Websuche)."
                    },
                    {
                        "kreis":  "LK Freising",
@@ -449,9 +450,10 @@
                        "typ":  "Landkreis",
                        "bezirk":  "Schwaben",
                        "prio":  50,
-                       "status":  "in Arbeit",
+                       "status":  "vollständig",
                        "races":  0,
-                       "checked":  "2026-11-01"
+                       "checked":  "2026-11-02",
+                       "hinweis":  "Nur Landkreislauf Günzburg (4 km, unter der 5-km-Grenze) und Cross-Triathlon; keine Läufe ab 5 km gefunden. Geprüft 2026-11-02 (haid.app, gotrail.run, hdsports, Websuche)."
                    },
                    {
                        "kreis":  "LK Lindau (Bodensee)",
@@ -512,9 +514,10 @@
                        "typ":  "kreisfreie Stadt",
                        "bezirk":  "Schwaben",
                        "prio":  57,
-                       "status":  "in Arbeit",
+                       "status":  "vollständig",
                        "races":  0,
-                       "checked":  "2026-11-01"
+                       "checked":  "2026-11-02",
+                       "hinweis":  "Stadtlauf Kaufbeuren zuletzt 2023 gelistet, keine aktuelle Ausgabe gefunden. Geprüft 2026-11-02 (haid.app, gotrail.run, hdsports, Websuche)."
                    },
                    {
                        "kreis":  "Stadt Kempten (Allgäu)",
@@ -557,9 +560,10 @@
                        "typ":  "Landkreis",
                        "bezirk":  "Mittelfranken",
                        "prio":  62,
-                       "status":  "in Arbeit",
+                       "status":  "vollständig",
                        "races":  0,
-                       "checked":  "2026-11-01"
+                       "checked":  "2026-11-02",
+                       "hinweis":  "Keine Läufe ab 5 km im Landkreis gefunden (Metropolmarathon und Firmenlauf liegen in der Stadt Fürth). Geprüft 2026-11-02 (haid.app, gotrail.run, hdsports, Websuche)."
                    },
                    {
                        "kreis":  "LK Neustadt a.d.Aisch-Bad Windsheim",
@@ -665,9 +669,10 @@
                        "typ":  "Landkreis",
                        "bezirk":  "Oberfranken",
                        "prio":  74,
-                       "status":  "in Arbeit",
+                       "status":  "vollständig",
                        "races":  0,
-                       "checked":  "2026-11-01"
+                       "checked":  "2026-11-02",
+                       "hinweis":  "Keine Läufe im Landkreis gefunden (Vestelauf und Neujahrs-Teamlauf liegen in der Stadt Coburg). Geprüft 2026-11-02 (haid.app, gotrail.run, hdsports, Websuche)."
                    },
                    {
                        "kreis":  "LK Forchheim",
@@ -683,9 +688,10 @@
                        "typ":  "Landkreis",
                        "bezirk":  "Oberfranken",
                        "prio":  76,
-                       "status":  "in Arbeit",
+                       "status":  "vollständig",
                        "races":  0,
-                       "checked":  "2026-11-01"
+                       "checked":  "2026-11-02",
+                       "hinweis":  "Keine Läufe im Landkreis gefunden. Geprüft 2026-11-02 (haid.app, gotrail.run, hdsports, Websuche)."
                    },
                    {
                        "kreis":  "LK Kronach",
@@ -755,9 +761,10 @@
                        "typ":  "kreisfreie Stadt",
                        "bezirk":  "Oberfranken",
                        "prio":  84,
-                       "status":  "in Arbeit",
+                       "status":  "vollständig",
                        "races":  0,
-                       "checked":  "2026-11-01"
+                       "checked":  "2026-11-02",
+                       "hinweis":  "Nur Teams in Bewegung Firmenlauf (6 km, 12.05.2027), Firmenläufe sind laut Regel ausgenommen. Geprüft 2026-11-02 (haid.app, gotrail.run, hdsports, Websuche)."
                    },
                    {
                        "kreis":  "LK Aschaffenburg",
