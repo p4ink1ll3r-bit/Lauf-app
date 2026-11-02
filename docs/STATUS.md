@@ -1,6 +1,6 @@
 # Anmeldestatus der kommenden Läufe
 
-Stand: 02.11.2026 15:22 · 278 kommende Läufe · 90 Anmeldeseiten gelesen · 80 Veranstalterseiten nach einem Anmeldelink durchsucht · 0 Eintrag/Einträge in races.json geändert
+Stand: 02.11.2026 15:21 · 278 kommende Läufe · 75 Anmeldeseiten gelesen · 14 Veranstalterseiten nach einem Anmeldelink durchsucht · 0 Eintrag/Einträge in races.json geändert
 
 ## Heute geändert
 
@@ -26,6 +26,7 @@ Stand: 02.11.2026 15:22 · 278 kommende Läufe · 90 Anmeldeseiten gelesen · 80
 - **Dreiburgenland-Marathon** (2027-04-24): Startgeld (Seite nennt Beträge) – https://www.hotel-schuerger.de
 - **Mini-Maus-Lauf mit Hobbylauf Mendorferbuch** (2027-04-24): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.landkreiscup.de?nav=Information&subnav=mendorferbuch
 - **Bad Kötztinger Stadtlauf** (2027-04-25): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/bad-koetztinger-stadtlauf
+- **Last Legs Ultra** (2027-04-30): Startzeit (Seite nennt Uhrzeiten) – https://lastlegsultra.de/
 - **Insellauf Bad Abbach** (2027-05-02): Startzeit (Seite nennt Uhrzeiten) – https://www.lauftreff-bad-abbach.de
 - **Rogatemarktlauf** (2027-05-02): Startzeit (Seite nennt Uhrzeiten) – http://www.tsv-ergoldsbach.de
 
@@ -42,8 +43,24 @@ Stand: 02.11.2026 15:22 · 278 kommende Läufe · 90 Anmeldeseiten gelesen · 80
 - friedberger-silvesterlauf-2026: RaceResult HTTP Error 404: Not Found
 - traunsteiner-halbmarathon-2027: RaceResult HTTP Error 404: Not Found
 - hoalfinger-sommerlauf-2027: RaceResult HTTP Error 404: Not Found
-- muenchnerauer-abendlauf-2027: RaceResult HTTP Error 404: Not Found
-- simssee-halbmarathon-riedering-2027: RaceResult HTTP Error 429: Too Many Requests
+- 3kings3hills-trail-music-2027: RaceResult HTTP Error 429: Too Many Requests
+- muenchnerauer-abendlauf-2027: RaceResult HTTP Error 429: Too Many Requests
+- poerndorfer-sommernachtslauf-2027: RaceResult HTTP Error 404: Not Found
+- kelheimer-volksfestlauf-2027: RaceResult HTTP Error 404: Not Found
+- wurzburg-lauf-2027: RaceResult HTTP Error 404: Not Found
+- sri-chinmoy-peace-mile-6-stunden-lauf-2027: RaceResult HTTP Error 404: Not Found
+- friedberger-halbmarathon-2027: RaceResult HTTP Error 404: Not Found
+- landkreis-lauftag-2027: RaceResult HTTP Error 404: Not Found
+- brauereienlauf-frankische-toskana-2027: RaceResult HTTP Error 404: Not Found
+- dr-selmayr-gedachtnislauf-2027: RaceResult HTTP Error 404: Not Found
+- kapuziner-kessellauf-2027: RaceResult HTTP Error 404: Not Found
+- isar-lauf-bad-toelz-lenggries-2027: RaceResult HTTP Error 404: Not Found
+- oberaudorf-trail-festival-2027: RaceResult HTTP Error 404: Not Found
+- aschaffenburger-sparkassen-halbmarathon-2027: RaceResult HTTP Error 404: Not Found
+- buxachtal-lauf-memmingen-2027: RaceResult HTTP Error 404: Not Found
+- chiemgau-trail-run-2027: RaceResult HTTP Error 404: Not Found
+- simssee-halbmarathon-riedering-2027: RaceResult HTTP Error 404: Not Found
+- freisinger-strassenlauf-2027: RaceResult HTTP Error 404: Not Found
 
 ## Aktuell als ausgebucht vermerkt
 
@@ -55,5 +72,6 @@ Stand: 02.11.2026 15:22 · 278 kommende Läufe · 90 Anmeldeseiten gelesen · 80
 - 2027-04-18 · Augsburger swa-Straßenlauf
 - 2027-04-23 · Ultratrail Fränkische Schweiz
 - 2027-05-02 · Bamberg Weltkulturerbelauf
+- 2027-05-08 · Schliersee Lauf
 - 2027-05-09 · Regensburg Marathon (automatisch)
 
