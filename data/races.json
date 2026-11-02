@@ -31,7 +31,8 @@
    "kreis": "Stadt Augsburg",
    "pickup": "Startnummern im Start-/Zielbereich: Läufe 1–3 Augsburg-Bergheim beim Waldparkplatz Kathreinerstraße/Brennhölzerweg, Lauf 4 an der Augsburger Waldhütte (Wellenburg)",
    "parking": "Läufe 1–3: Kathreinerstraße in Bergheim oder umliegende Straßen (nicht der Parkplatz am Sportheim Bergheim); Lauf 4: Parkplatz Schlossgaststätte Wellenburg, ca. 15 Minuten Fußweg",
-   "aid": "Läufe 1–3: Tee, Wasser und Kuchenbuffet im Ziel; Lauf 4 zusätzlich Glühwein und Kinderpunsch"
+   "aid": "Läufe 1–3: Tee, Wasser und Kuchenbuffet im Ziel; Lauf 4 zusätzlich Glühwein und Kinderpunsch",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "heiner-mayr-staffelberglauf-2026",
@@ -75,7 +76,8 @@
    "late_reg": "Möglich bei der Startnummernausgabe bis 13:30 Uhr (Aufschlag nicht angegeben)",
    "info": "Meldeschluss Fr 06.11.2026 19:00 Uhr; Anmeldung nur online; Siegerehrung in 5er-Altersklassen mit Sachpreisen; keine Erstattung bei Nichtstart",
    "bezirk": "Oberfranken",
-   "kreis": "LK Lichtenfels"
+   "kreis": "LK Lichtenfels",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "hoglworther-seelauf-2026",
@@ -212,7 +214,8 @@
     "reg_open"
    ],
    "bezirk": "Schwaben",
-   "kreis": "LK Ostallgäu"
+   "kreis": "LK Ostallgäu",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "streutaltrail-2026",
@@ -293,7 +296,8 @@
    "late_reg": "Am Lauftag bis 15 min vor dem jeweiligen Start, +3 €",
    "course": "Teils hügelige Sandwege im Landschaftsschutzgebiet Aubinger Lohe",
    "bezirk": "Oberbayern",
-   "kreis": "Stadt München"
+   "kreis": "Stadt München",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "alzauenlauf-2026",
@@ -401,7 +405,8 @@
     "reg_open"
    ],
    "bezirk": "Mittelfranken",
-   "kreis": "LK Ansbach"
+   "kreis": "LK Ansbach",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "herzowerketrail-2026",
@@ -445,7 +450,8 @@
    "late_reg": "Möglich bis 1 h vor Start, 5 € Aufschlag (Speed/Trail; Bambini/Kids/Youth 3 €), bar",
    "info": "Speed-Trail 8 km und Trail 16 km 14:00; Kids 2 km und Youth 4 km 12:45; Bambini 0,5 km 13:15",
    "bezirk": "Mittelfranken",
-   "kreis": "LK Erlangen-Höchstadt"
+   "kreis": "LK Erlangen-Höchstadt",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "lauf-ich-lauf-mit-gegen-gewalt-2026",
@@ -566,7 +572,8 @@
    "reg_close": "2026-11-12",
    "start_place": "Fußballplatz TV 21 Büchenbach",
    "bezirk": "Mittelfranken",
-   "kreis": "LK Roth"
+   "kreis": "LK Roth",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "zeiler-waldmarathon-2026",
@@ -640,7 +647,8 @@
    "late_reg": "Vor Ort bis 60 min vor dem jeweiligen Start, Hobbycross +5 €",
    "info": "Hobbycross und Nordic Walking 10:45; Jugend ca. 1,6 km 10:20; Schüler ca. 800 m 10:00/10:10; Anmeldung nur online über die Vereinsseite",
    "bezirk": "Oberbayern",
-   "kreis": "LK Pfaffenhofen a.d.Ilm"
+   "kreis": "LK Pfaffenhofen a.d.Ilm",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "nurnberger-winterlaufserie-2026",
@@ -699,7 +707,8 @@
    "extras": "Umkleiden und Duschen in der Turnhalle des TSV 1860",
    "info": "Frauen/W30+/M65+/Hobby 4 km 13:10; U18/U20 4 km 12:40; Männer 8,8 km 13:40; Beginn 11:00 mit Kinderläufen; Anmeldung nur online",
    "bezirk": "Oberbayern",
-   "kreis": "LK Mühldorf a. Inn"
+   "kreis": "LK Mühldorf a. Inn",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "kordigast-berglauf-2026",
@@ -743,7 +752,8 @@
    "late_reg": "Möglich bis 11:30 Uhr, 3 € Aufschlag",
    "info": "Veranstalter: TV Weismain e.V.; Anmeldung über Race Result (my.raceresult.com/418148) · Ein gemeinsamer Start für alle um 12:00; Strecke 5.000 m; Voranmeldung über kordigast-berglauf.de oder per E-Mail; Wechselkleidung bis 15 Min. vor Start am Bauhof abgeben; Duschen/Umkleiden im Vereinsheim Waldstadion (SCW Obermain); Siegerehrung ca. 2 h nach Laufende; Geld- und Sachpreise, Pokale für Bergkönigin/Bergmeister",
    "bezirk": "Oberfranken",
-   "kreis": "LK Lichtenfels"
+   "kreis": "LK Lichtenfels",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "riedenburger-zwei-burgen-lauf-2026",
@@ -910,7 +920,8 @@
    "late_reg": "Nachmeldung vor Ort möglich",
    "info": "21. Auflage; Veranstalter SG Biathlon Stadtsteinach e. V.; Online-Anmeldung über raceresult (my.raceresult.com/399160)",
    "bezirk": "Oberfranken",
-   "kreis": "LK Kulmbach"
+   "kreis": "LK Kulmbach",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "kuhsee-marathon-2026",
@@ -1118,7 +1129,8 @@
    "late_reg": "Möglich, 3 € Gebühr",
    "info": "Veranstalter: Leichtathletik TSV Weißenbrunn; zusätzlich Nordic Walking und Kinderlauf",
    "bezirk": "Oberfranken",
-   "kreis": "LK Kronach"
+   "kreis": "LK Kronach",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "nikolauslauf-immenstadt-2026",
@@ -1336,7 +1348,8 @@
    "start_time": "11:50",
    "parking": "Bustransfer ab Schulzentrum Arnstorf, Eggenfeldener Str. 43",
    "bezirk": "Niederbayern",
-   "checked": "2026-11-01"
+   "checked": "2026-11-01",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "dinkelsbuhler-crosslauf-2026",
@@ -1363,7 +1376,8 @@
    "info": "Anmeldung nur online; Urkunde für alle. Startzeiten: 10 km 11:15, 3,5 km 12:30, Kinder- und Jugendläufe 13:05–14:15 (Anmeldeseite nennt 3,5 km statt 3,65 km für die Mittelstrecke)",
    "bezirk": "Mittelfranken",
    "kreis": "LK Ansbach",
-   "start_time": "11:15"
+   "start_time": "11:15",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "friedenslichtlauf-2026",
@@ -1652,8 +1666,11 @@
    "pickup": "Startnummernausgabe am Lauftag ab 8:30 Uhr am Veranstaltungsgelände",
    "parking": "Direkt am Veranstaltungsgelände (Beschilderung folgen); Wohnmobilstellplatz mit Strom/Wasser",
    "extras": "Duschen/WC im TSV-Vereinsheim (ohne Hunde); Essen/Getränke vom TSV Rothenbuch (Grill, Kuchen, Heißgetränke); Siegerehrung RUN ca. 13:00",
-   "gear": null,
-   "gear_note": null,
+   "gear": [
+    "Handy mit gespeicherter Notfallnummer",
+    "Bei Hundestarts: Leine max. 2 m (keine Flexileine), Geschirr oder Halsband je nach Disziplin"
+   ],
+   "gear_note": "Quelle: https://crossdog.de/events/events-infos/",
    "profile": null,
    "gpx": null,
    "limit": null,
@@ -1663,7 +1680,16 @@
    "late_reg": "Vor Ort möglich, solange Startplätze frei (lt. allg. CROSSDOG-Eventinfos)",
    "info": "Starts: CaniX RUN L 10:00, TrailRUN S/M/L 10:15, CaniX M 10:20, HIKE 10:30 und 11:20, CaniX S 10:50 (Änderungen möglich)",
    "bezirk": "Unterfranken",
-   "kreis": "LK Aschaffenburg"
+   "kreis": "LK Aschaffenburg",
+   "gear_levels": [
+    {
+     "km": "Alle Strecken",
+     "level": "pflicht",
+     "check": "nur Handy, allgemeine Event-Infos"
+    }
+   ],
+   "gear_stand": "Veranstalterseite, Event-Infos",
+   "gear_warn": "Empfohlen: Trailrunning-Schuhe, wetterangepasste Kleidung, bei Winterläufen Arme, Beine und Kopf bedeckt oder dabei, Navi-App oder -Uhr. Zu den einzelnen Strecken (6, 10, 20 km) nennt die Seite nichts Eigenes. Jeder Hund muss vor dem Start den DOG-Check bestehen."
   },
   {
    "id": "finale-furioso-silvesterlauf-goggelsbuch-2026",
@@ -1755,7 +1781,8 @@
    "late_reg": "Vor Ort nach Restplätzen, +10 € (nicht garantiert)",
    "info": null,
    "bezirk": "Schwaben",
-   "kreis": "LK Aichach-Friedberg"
+   "kreis": "LK Aichach-Friedberg",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "silvesterlauf-gersthofen-2026",
@@ -2398,7 +2425,8 @@
    "reg_close": "2027-01-15",
    "start_place": "Sportstätte Reitplatz, Arnstorf",
    "bezirk": "Niederbayern",
-   "kreis": "LK Rottal-Inn"
+   "kreis": "LK Rottal-Inn",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "dinkelsbuhler-stadtlauf-2027",
@@ -2469,7 +2497,8 @@
    "late_reg": "Online ab 19.01.2027 (+3 €); am Lauftag 09:00–10:30 vor Ort (+7 €)",
    "info": "Kurzstrecke ca. 4,5 km (3 Runden) 11:20, Langstrecke ca. 7,5 km (5 Runden) 12:00; Kinder/Jugend ab 11:00; Umkleiden/Duschen im Stadion; Anmeldung über spoferan.com",
    "bezirk": "Niederbayern",
-   "kreis": "LK Dingolfing-Landau"
+   "kreis": "LK Dingolfing-Landau",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "mountainman-winterloop-2027",
@@ -2654,7 +2683,8 @@
    "start_place": "Sportstätte oberhalb des Skaterparks, Sulzbach am Main",
    "info": "Startrecht ab U14 erforderlich",
    "bezirk": "Unterfranken",
-   "kreis": "LK Miltenberg"
+   "kreis": "LK Miltenberg",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "prellsteinrennen-2027",
@@ -2696,7 +2726,8 @@
    "late_reg": null,
    "info": "Historisches Rennen im Dreierteam, rund 200 Starter; Online-Anmeldung laut haid.app derzeit geschlossen (Stand 01.11.2026)",
    "bezirk": "Oberpfalz",
-   "kreis": "LK Amberg-Sulzbach"
+   "kreis": "LK Amberg-Sulzbach",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "obertrubacher-crosslauf-2027",
@@ -2714,7 +2745,8 @@
    "reg_close": "2027-02-18",
    "start_place": "Sportheim Obertrubach",
    "bezirk": "Oberfranken",
-   "kreis": "LK Forchheim"
+   "kreis": "LK Forchheim",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "bayerische-cross-meisterschaft-2027",
@@ -2732,7 +2764,8 @@
    "reg_close": "2027-02-16",
    "start_place": "Sportgelände/Mehrzweckhalle Zenting",
    "bezirk": "Niederbayern",
-   "kreis": "LK Freyung-Grafenau"
+   "kreis": "LK Freyung-Grafenau",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "tb-fruehjahrslauf-weiden-2027",
@@ -2845,7 +2878,8 @@
    "late_reg": "Nicht möglich",
    "info": "Startzeiten: Speed-Trail 09:50, City-Trail 10:00, Fitnesslauf 5 km 13:00, Sparkassenlauf 10 km 14:30; Veranstalter SG Siemens Erlangen Leichtathletik · Trail-Läufer können ab 10:57 Uhr nach der ersten von zwei Runden aus dem Rennen genommen werden.",
    "bezirk": "Mittelfranken",
-   "kreis": "Stadt Erlangen"
+   "kreis": "Stadt Erlangen",
+   "gear_open": "Hauptseite nennt keine Ausrüstung"
   },
   {
    "id": "bad-windsheimer-weinturmlauf-2027",
@@ -2910,7 +2944,8 @@
    "reg_close": "2027-03-10",
    "start_place": "Waldsportpark Ebersberg",
    "bezirk": "Oberbayern",
-   "kreis": "LK Ebersberg"
+   "kreis": "LK Ebersberg",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "fruhjahrslauf-kitzinger-zehner-2027",
@@ -3183,7 +3218,8 @@
     "start_time": "10:30"
    },
    "bezirk": "Oberbayern",
-   "kreis": "LK Weilheim-Schongau"
+   "kreis": "LK Weilheim-Schongau",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "iller-lauf-senden-2027",
@@ -3349,7 +3385,8 @@
     "pickup": "ab 10:00 im Sportheim"
    },
    "bezirk": "Niederbayern",
-   "checked": "2026-11-01"
+   "checked": "2026-11-01",
+   "gear_open": "Seite nicht erreichbar"
   },
   {
    "id": "jurasteig-nonstop-ultratrail-2027",
@@ -3473,7 +3510,8 @@
    "late_reg": "Online 22.03.–02.04.2027 mit 5 € Aufschlag; Nachmeldung vor Ort evtl. möglich",
    "info": null,
    "bezirk": "Schwaben",
-   "kreis": "LK Augsburg"
+   "kreis": "LK Augsburg",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "landshut-lauft-2027",
@@ -3924,7 +3962,8 @@
    "late_reg": null,
    "info": "Strenges Teilnehmerlimit, keine Nachrückerplätze",
    "bezirk": "Oberbayern",
-   "kreis": "LK Starnberg"
+   "kreis": "LK Starnberg",
+   "gear_open": "Seite nicht erreichbar (Zertifikatsfehler)"
   },
   {
    "id": "soul-trail-2027",
@@ -4188,7 +4227,8 @@
    "cutoff": "4 Stunden je Distanz",
    "info": "Massenstart Läufer/Walker 09:15, Canicross ab 09:30 im 30-s-Abstand; Umkleiden/Duschen in der Mehrzweckhalle; Medaille für alle Finisher; Kinder unter 12 nur mit zahlender Begleitperson",
    "bezirk": "Unterfranken",
-   "kreis": "LK Schweinfurt"
+   "kreis": "LK Schweinfurt",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "rosenheimer-citylauf-2027",
@@ -5271,7 +5311,8 @@
     "start_place": "Essenbügl an der Laberbrücke, Beratzhausen"
    },
    "bezirk": "Oberpfalz",
-   "checked": "2026-11-01"
+   "checked": "2026-11-01",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "mitterteicher-volkslauf-2027",
@@ -5411,7 +5452,8 @@
    "late_reg": null,
    "info": "Anmeldung 2027 über datasport",
    "bezirk": "Schwaben",
-   "kreis": "LK Oberallgäu"
+   "kreis": "LK Oberallgäu",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "marathon-wurzburg-2027",
@@ -5750,7 +5792,8 @@
     "pickup": "Sa 16–18 Uhr, So 09:00–12:30 (allg. Cup-Zeitplan)"
    },
    "bezirk": "Niederbayern",
-   "kreis": "LK Regen"
+   "kreis": "LK Regen",
+   "gear_open": "Hauptseite nennt keine Ausrüstung; Ausschreibung und FAQ nicht gelesen"
   },
   {
    "id": "breitenberg-bewegt-dich-2027",
@@ -5776,7 +5819,8 @@
     "start_place": "Nordisches Zentrum Jägerbild, Obernstein 12, Breitenberg"
    },
    "bezirk": "Niederbayern",
-   "checked": "2026-11-01"
+   "checked": "2026-11-01",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "neutraublinger-stadtlauf-2027",
@@ -6023,7 +6067,8 @@
     "start_place": "Sportplatz Essing"
    },
    "bezirk": "Niederbayern",
-   "checked": "2026-11-01"
+   "checked": "2026-11-01",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "schoenseer-johannislauf-2027",
@@ -6286,8 +6331,11 @@
    "pickup": null,
    "parking": null,
    "extras": null,
-   "gear": null,
-   "gear_note": null,
+   "gear": [
+    "Trailrunning-Schuhe mit Profilsohle · empfohlen",
+    "Kopfbedeckung · empfohlen"
+   ],
+   "gear_note": "Quelle: https://www.sv-falkenfels.de/büscherl-trail/ausschreibung/",
    "profile": null,
    "gpx": null,
    "limit": null,
@@ -6304,7 +6352,16 @@
     "aid": "Verpflegungsstellen auf der Strecke sowie Start/Ziel (Getränke, feste Nahrung)"
    },
    "bezirk": "Niederbayern",
-   "kreis": "LK Straubing-Bogen"
+   "kreis": "LK Straubing-Bogen",
+   "gear_levels": [
+    {
+     "km": "Alle Strecken",
+     "level": "empfohlen",
+     "check": "keine Mindestausrüstung genannt"
+    }
+   ],
+   "gear_stand": "Ausschreibung 2026 (Vorjahr)",
+   "gear_warn": "Pflicht ist nur die sichtbar getragene Startnummer. Stöcke sind zulässig; wer mit Stöcken startet, führt sie bis ins Ziel mit."
   },
   {
    "id": "sportscheck-run-munchen-2027",
@@ -6371,7 +6428,8 @@
     "start_time": "18:40"
    },
    "bezirk": "Oberpfalz",
-   "checked": "2026-11-01"
+   "checked": "2026-11-01",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "vilstaler-halbmarathon-reisbacher-volksfestlauf-2027",
@@ -6573,7 +6631,8 @@
     "aid": "Verpflegung bei km 3,5 und km 6"
    },
    "bezirk": "Oberpfalz",
-   "checked": "2026-11-01"
+   "checked": "2026-11-01",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "regensburger-altstadtlauf-2027",
@@ -6709,7 +6768,8 @@
    "late_reg": null,
    "info": "Familienlauf auf Forstwegen, auch Sprint und Kids Run",
    "bezirk": "Oberbayern",
-   "kreis": "LK Traunstein"
+   "kreis": "LK Traunstein",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "landauer-sommernachtslauf-2027",
@@ -6766,7 +6826,8 @@
     "start_place": "Ortsmitte Neureichenau (Dreisesselstraße)"
    },
    "bezirk": "Niederbayern",
-   "checked": "2026-11-01"
+   "checked": "2026-11-01",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "3kings3hills-trail-music-2027",
@@ -7252,7 +7313,8 @@
     "start_place": "Grandsberg, Schwarzach"
    },
    "bezirk": "Niederbayern",
-   "checked": "2026-11-01"
+   "checked": "2026-11-01",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "bonbrucker-volksfestlauf-2027",
@@ -7303,7 +7365,8 @@
     "pickup": "29.–30.08.2026 am Sportgelände Rötz"
    },
    "bezirk": "Oberpfalz",
-   "checked": "2026-11-01"
+   "checked": "2026-11-01",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "frankische-schweiz-marathon-2027",
@@ -7572,7 +7635,8 @@
     "start_place": "Hof Walter Jahn, Neuhof 1, Zeitlarn"
    },
    "bezirk": "Oberpfalz",
-   "checked": "2026-11-01"
+   "checked": "2026-11-01",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "arberland-ultra-trail-2027",
@@ -7804,7 +7868,8 @@
    "late_reg": null,
    "info": "Läufe von 400 m bis 14,3 km, Medaillen für Kinder",
    "bezirk": "Oberfranken",
-   "kreis": "LK Kulmbach"
+   "kreis": "LK Kulmbach",
+   "gear_open": "Infos werden per Skript geladen, nicht lesbar"
   },
   {
    "id": "ohetal-volkslauf-ringelai-2027",
@@ -7882,7 +7947,8 @@
     "start_place": "Sportpark Hirschau, Wolfgang-Droßbach-Str. 77"
    },
    "bezirk": "Oberpfalz",
-   "checked": "2026-11-01"
+   "checked": "2026-11-01",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "schuster-tegernseelauf-2027",
@@ -8094,7 +8160,8 @@
    "late_reg": null,
    "info": "Ammergauer Alpen, auch Kids Trail; Starts 2027: HM 09:00, 10 km und 6 km 09:30, Ziel Oberammergau",
    "bezirk": "Oberbayern",
-   "kreis": "LK Garmisch-Partenkirchen"
+   "kreis": "LK Garmisch-Partenkirchen",
+   "gear_open": "Seite nennt keine Ausrüstung"
   },
   {
    "id": "internationaler-hochfellnberglauf-2027",
@@ -8251,7 +8318,8 @@
    "late_reg": null,
    "info": "Ausschreibung ca. 8 Wochen vorher; 2026 waren die Startnummern ausverkauft",
    "bezirk": "Niederbayern",
-   "kreis": "LK Kelheim"
+   "kreis": "LK Kelheim",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "ruhstorfer-gelaendelauf-2027",
@@ -8279,7 +8347,8 @@
     "start_place": "Parkplatz Niederbayernhalle, Badstraße 2, Ruhstorf"
    },
    "bezirk": "Niederbayern",
-   "checked": "2026-11-01"
+   "checked": "2026-11-01",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "ile-gaeubodenlauf-2027",
@@ -8546,7 +8615,8 @@
     "pickup": "Nachmeldung vor Ort bis 1 Std. vor Start"
    },
    "bezirk": "Niederbayern",
-   "checked": "2026-11-01"
+   "checked": "2026-11-01",
+   "gear_open": "Seite nennt keine Ausrüstung (Stöcke erlaubt)"
   },
   {
    "id": "intern-jennerberglauf-2027",
@@ -8755,7 +8825,8 @@
     "limit": "Begrenzt wegen Parkplatzkapazität (keine Zahl genannt)"
    },
    "bezirk": "Oberpfalz",
-   "kreis": "LK Regensburg"
+   "kreis": "LK Regensburg",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "berchtesgaden-alpine-trail-2027",
@@ -8926,7 +8997,8 @@
     "start_place": "Passau-Oberhaus, Thingplatz neben dem Haus der Jugend"
    },
    "bezirk": "Niederbayern",
-   "checked": "2026-11-01"
+   "checked": "2026-11-01",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "chiemgau-trail-run-2027",
@@ -9040,7 +9112,8 @@
     "pickup": "Parkplatz beim Kiosk am Freudensee"
    },
    "bezirk": "Niederbayern",
-   "checked": "2026-11-01"
+   "checked": "2026-11-01",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "parsberger-hatzengruenlauf-2027",
@@ -9160,7 +9233,8 @@
     "limit"
    ],
    "bezirk": "Oberfranken",
-   "kreis": "LK Kulmbach"
+   "kreis": "LK Kulmbach",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "halloween-run-brombachsee-2027",
@@ -9191,8 +9265,11 @@
    "pickup": "San Shine Camp, Lauftag ab 15:30 Uhr (Stand 2026)",
    "parking": "Ggf. kostenpflichtig (Stand 2026)",
    "extras": "Kostümpreis, Umkleiden/Duschen im Camp (Stand 2026)",
-   "gear": null,
-   "gear_note": null,
+   "gear": [
+    "Stirnlampe · empfohlen",
+    "Startnummer sichtbar tragen"
+   ],
+   "gear_note": "Quelle: https://seenland-events.com/eventreader/halloweenrun-brombachsee",
    "profile": null,
    "gpx": null,
    "limit": null,
@@ -9206,7 +9283,16 @@
     "limit": "2026 ausgebucht (399 Meldungen, keine Zahl genannt)"
    },
    "bezirk": "Mittelfranken",
-   "kreis": "LK Weißenburg-Gunzenhausen"
+   "kreis": "LK Weißenburg-Gunzenhausen",
+   "gear_levels": [
+    {
+     "km": "10 km",
+     "level": "empfohlen",
+     "check": "Stirnlampe"
+    }
+   ],
+   "gear_stand": "Veranstalterseite 2026 (Vorjahr)",
+   "gear_warn": "Der Lauf geht in die Dunkelheit und ist nur teilweise beleuchtet. Eine Stirnlampe ist empfohlen, keine Pflicht."
   },
   {
    "id": "muhlhausener-spendenlauf-2027",
@@ -9252,7 +9338,8 @@
     "parking": "An der SVM Stockhalle (direkt an der Strecke, Abfahrt erst nach Veranstaltungsende)"
    },
    "bezirk": "Niederbayern",
-   "kreis": "LK Kelheim"
+   "kreis": "LK Kelheim",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "oberhachinger-halloween-herbstlauf-2027",
@@ -9298,7 +9385,8 @@
     "aid": "Zielverpflegung (keine Details)"
    },
    "bezirk": "Oberbayern",
-   "kreis": "LK München"
+   "kreis": "LK München",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "stadtwerke-lichterlauf-rothenburg-2027",
@@ -9537,7 +9625,8 @@
     "limit"
    ],
    "bezirk": "Oberfranken",
-   "kreis": "LK Bayreuth"
+   "kreis": "LK Bayreuth",
+   "gear_open": "Hauptseite nennt keine Ausrüstung; Ausschreibung 2026 nicht gelesen"
   },
   {
    "id": "omv-halbmarathon-altoetting-2027",
@@ -9875,7 +9964,8 @@
    "info": "Veranstalter: LG Donau-Ries. Termin 08.11.2026 laut hdsports vom Veranstalter bestätigt. Anmeldung über die Veranstalter-Website, Startgeld nicht angegeben",
    "na": [],
    "bezirk": "Schwaben",
-   "kreis": "LK Donau-Ries"
+   "kreis": "LK Donau-Ries",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "ipf-ries-halbmarathon-2027",
@@ -10328,7 +10418,8 @@
     "start_time": "12:00",
     "start_place": "Freizeitzentrum Halsbachgraben (Ortsteil Holzen), Burgkirchen an der Alz"
    },
-   "info": "Nachmeldung und Anmeldung kurz vor dem Start möglich laut Veranstalterseite (Stand 2026)"
+   "info": "Nachmeldung und Anmeldung kurz vor dem Start möglich laut Veranstalterseite (Stand 2026)",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "schweiger-forstlauf-anzing-2027",
@@ -10376,7 +10467,8 @@
    "start_place": "Sportheim Obermögersheim (Ziel am Sportheim)",
    "pickup": "Ausgabe von Startnummer und Chip ab 13:00 Uhr (Ausgabeort nicht genannt)",
    "extras": "Duschen im Sportheim; Gepäckaufbewahrung begrenzt",
-   "info": "Starts: Kinderlauf 14:00, 4 km 14:30, Koderrunde 14:45, Trailrun 15:20. Anmeldung über den Veranstalter"
+   "info": "Starts: Kinderlauf 14:00, 4 km 14:30, Koderrunde 14:45, Trailrun 15:20. Anmeldung über den Veranstalter",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "buxachtal-lauf-memmingen-2027",
@@ -10396,7 +10488,8 @@
    "note": "Termin 2027 nur geplant (20. Auflage), 2026 war am 3.10. (19. Auflage). Wassermann Waldlauf im Memminger Stadtwald; Quellen nennen 6,6 oder 7 km. Dazu Kinder-/Bambinilauf sowie Firmen-, Team- und Schülerwertungen. Veranstalter Turnverein Memmingen 1859 (Triathlon- und Leichtathletikabteilung); Erlös an den Mukoviszidose e.V.",
    "url": "https://triathlon.tv-memmingen.de/buxachtallauf/",
    "source": "https://running.life/de/termine/buxachtal-lauf",
-   "checked": "2026-11-02"
+   "checked": "2026-11-02",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "crazy-runners-frankenwald-trail-2027",
@@ -10483,7 +10576,8 @@
    "prev": {
     "limit": "400 Teilnehmer gesamt (Stand 2026)"
    },
-   "info": "2026: Online-Anmeldung bis 17.07. 18:00 Uhr; Mindestalter für Trail6 und Trail11 14 Jahre"
+   "info": "2026: Online-Anmeldung bis 17.07. 18:00 Uhr; Mindestalter für Trail6 und Trail11 14 Jahre",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "last-legs-ultra-wuerzburg-2027",
@@ -10539,7 +10633,8 @@
    "note": "Termin laut Kalender, Bestätigung und Strecken nicht angegeben. Veranstalter SV Hausen Rohrbach; Anmeldung über die Vereinsseite",
    "url": "https://www.sv-hausen-rohrbach.de/post/buchental-crosslauf",
    "source": "https://gotrail.run/de/termine/buchental-crosslauf",
-   "checked": "2026-11-02"
+   "checked": "2026-11-02",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "maintal-ultratrail-veitshoechheim-2027",
@@ -10602,7 +10697,8 @@
    "note": "6. Auflage laut Kalender, Bestätigung und Strecken nicht angegeben. Veranstalter SG Neunkirchen am Brand; Lauf mit integriertem Trail-Wettbewerb (Lindelberg-Trail)",
    "url": "https://www.sportprogramme.org/cakespg/events/menue/5048",
    "source": "https://gotrail.run/de/termine/neunkirchner-sommerlauf-mit-lindelberg-trail",
-   "checked": "2026-11-02"
+   "checked": "2026-11-02",
+   "gear_open": "nicht geprüft (kurzer Lauf)"
   },
   {
    "id": "taubertal-trail-steinsfeld-2027",
@@ -10621,7 +10717,8 @@
    "url": "https://www.taubertal-trail.de/",
    "source": "https://gotrail.run/de/termine/taubertaltrail",
    "checked": "2026-11-02",
-   "info": "Anmeldung über RaceResult (Veranstaltung 410267)"
+   "info": "Anmeldung über RaceResult (Veranstaltung 410267)",
+   "gear_open": "Hauptseite nennt keine Ausrüstung; Teilnahmebedingungen nicht gelesen"
   },
   {
    "id": "gremsdorfer-kerwalauf-2027",
@@ -10669,7 +10766,8 @@
    "checked": "2026-11-02",
    "start_time": "10:00",
    "start_place": "Rathausplatz, Bad Reichenhall",
-   "info": "Anmeldung 2026 über time2win.at; Startgeld je nach Strecke, Beträge für 2027 noch nicht veröffentlicht"
+   "info": "Anmeldung 2026 über time2win.at; Startgeld je nach Strecke, Beträge für 2027 noch nicht veröffentlicht",
+   "gear_open": "Seite nennt keine Ausrüstung; Veranstalterseite cityundtrail.de nicht gelesen"
   },
   {
    "id": "sri-chinmoy-peace-mile-6-stunden-lauf-2027",
