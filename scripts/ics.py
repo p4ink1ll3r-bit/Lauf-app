@@ -71,7 +71,7 @@ def build(r, heute):
     title = name if r.get("confirmed") else name + " (Termin nicht bestätigt)"
     loc = r.get("start_place") or r.get("place") or ""
     st = r.get("start_time") or ""
-    details = ", ".join(lab(k) for k in (r.get("distances") or [])) + (f" · Start {st} Uhr" if st else "") + f" · Infos: {url} (aus Pacehunt)"
+    details = ", ".join(lab(k) for k in (r.get("distances") or [])) + (f" · Start {st} Uhr" if st else "") + f" · Infos: {url} (aus Race Hunt)"
 
     def ganztag(a, b=None):
         return ["DTSTART;VALUE=DATE:" + ymd(a), "DTEND;VALUE=DATE:" + ymd((b or a) + timedelta(days=1))]
@@ -96,7 +96,7 @@ def build(r, heute):
     ev += event(r["id"] + "-lauf@pacehunt", stamp, title, details, loc, url, start,
                 alarm("-P7D", f"In einer Woche: {name} – Packliste und Wetter ansehen")
                 + alarm("-P1D", f"Morgen: {name}" + (f" – Start {st} Uhr" if st else "") + ". Startunterlagen, Anfahrt und Wetter in der App prüfen"))
-    zeilen = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Pacehunt//Lauf-App//DE", "CALSCALE:GREGORIAN", "METHOD:PUBLISH"] + ev + ["END:VCALENDAR"]
+    zeilen = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Race Hunt//Lauf-App//DE", "CALSCALE:GREGORIAN", "METHOD:PUBLISH"] + ev + ["END:VCALENDAR"]
     return "\r\n".join(fold(z) for z in zeilen) + "\r\n"
 
 

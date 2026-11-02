@@ -29,7 +29,7 @@ ROOT = Path(__file__).resolve().parent.parent
 RACES = ROOT / "data" / "races.json"
 STATUS = ROOT / "data" / "quellen-status.json"
 REPORT = ROOT / "docs" / "AENDERUNGEN.md"
-UA = "Pacehunt-Datenpflege/0.1 (+Laufkalender; Kontakt über die App)"
+UA = "RaceHunt-Datenpflege/0.1 (+Laufkalender; Kontakt über die App)"
 PAUSE = 1.5       # Sekunden Mindestabstand pro Webserver
 MAX_BYTES = 3_000_000
 

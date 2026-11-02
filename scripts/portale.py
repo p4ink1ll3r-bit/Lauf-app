@@ -24,7 +24,7 @@ from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parent.parent
 RACES = ROOT / "data" / "races.json"
-UA = {"User-Agent": "Pacehunt-Datenpflege/0.1"}
+UA = {"User-Agent": "RaceHunt-Datenpflege/0.1"}
 MONATE = {m: i + 1 for i, m in enumerate(["januar", "februar", "märz", "april", "mai", "juni", "juli", "august",
                                            "september", "oktober", "november", "dezember"])}
 

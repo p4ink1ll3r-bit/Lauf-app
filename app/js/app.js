@@ -1,6 +1,6 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
-const APP_VERSION="v34"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+const APP_VERSION="v35"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
 const DATA_DIR="data/";
 const REPORT_URL="https://gbaoxnsytnzcuxbkdrwc.supabase.co/rest/v1/reports";
 const REPORT_KEY="sb_publishable_iuxJbdN94igdsBQ5-dtm5g_OxWYWGH9";   // öffentlicher Schlüssel: darf nur Meldungen anlegen
@@ -162,7 +162,7 @@ function gcal(title,start,end,details,loc,time){let dates;
   else dates=ymd(dt(start))+"/"+ymd(plus(end||start,1));
   return"https://calendar.google.com/calendar/render?action=TEMPLATE&text="+encodeURIComponent(title)+"&dates="+dates+(time?"&ctz=Europe%2FBerlin":"")+"&details="+encodeURIComponent(details)+"&location="+encodeURIComponent(loc)}
 function ocal(title,start,end,details,loc){return"https://outlook.live.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&allday=true&subject="+encodeURIComponent(title)+"&startdt="+start+"&enddt="+iso(plus(end||start,1))+"&body="+encodeURIComponent(details)+"&location="+encodeURIComponent(loc)}
-function calDetails(r){return r.k.map(lab).join(", ")+(r.st?" · Start "+r.st+" Uhr":"")+" · Infos: "+r.u+" (aus Pacehunt)"}
+function calDetails(r){return r.k.map(lab).join(", ")+(r.st?" · Start "+r.st+" Uhr":"")+" · Infos: "+r.u+" (aus Race Hunt)"}
 // Apple Kalender (iPhone): Knopf verlinkt auf ics/<id>.ics, die Dateien erzeugt scripts/ics.py beim Veröffentlichen
 
 // Kopfbild aus den Daten: Trail = Bergsilhouette (Höhe nach Hm), Straße = Straße mit Start/Ziel
@@ -504,7 +504,7 @@ $("report").addEventListener("submit",async e=>{e.preventDefault();const f=e.tar
   const btn=f.querySelector("[type=submit]");btn.disabled=true;msg.textContent="Wird gesendet …";
   let ok=false;try{if(REPORT_URL){const res=await fetch(REPORT_URL,{method:"POST",headers:{"Content-Type":"application/json",apikey:REPORT_KEY,Prefer:"return=minimal"},body:JSON.stringify(rec)});ok=res.ok}}catch(err){}
   if(ok){f.innerHTML='<div class="empty"><strong>Danke für deine Meldung!</strong>Sie wird geprüft und eingearbeitet.</div><button class="back" type="button" data-rclose>Schließen</button>'}
-  else{const txt="Pacehunt-Meldung"+(r?" zu "+r.n+" ("+fmt(r.d)+")":" – Lauf fehlt")+": "+Object.values(o).join(" · ");
+  else{const txt="Race-Hunt-Meldung"+(r?" zu "+r.n+" ("+fmt(r.d)+")":" – Lauf fehlt")+": "+Object.values(o).join(" · ");
     msg.innerHTML='Die Meldung konnte nicht direkt gesendet werden. Kopier den Text und schick ihn ans Team:<textarea readonly rows="3" class="copy">'+esc(txt)+'</textarea><button type="button" class="back" data-copy>Text kopieren</button>';btn.disabled=false}});
 
 // Lauf-Suche
