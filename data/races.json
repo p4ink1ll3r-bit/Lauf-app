@@ -2291,13 +2291,13 @@
     920,
     1610
    ],
-   "note": null,
+   "note": "HDsports nennt für den Ultra 74 km und eine Teilnahmegebühr von 60 € (ohne Jahresangabe). Start 2026: 08:00 Uhr. Anmeldung über die Veranstalterseite.",
    "url": "https://tkut.runfellows.com/",
    "reg_open": null,
    "reg_close": null,
    "fee": null,
    "start_time": null,
-   "checked": "2026-11-01",
+   "checked": "2026-11-02",
    "source": "https://gotrail.run/de/termine/three-kings-ultra-trail",
    "start_place": "Reichenbach am Regen (Start = Ziel)",
    "aid": null,
@@ -2314,10 +2314,13 @@
    "cutoff": null,
    "included": null,
    "late_reg": null,
-   "info": null,
+   "info": "Veranstalter RunFellows, Telefon +49 9482 8021112. 2026 gab es 56 Finisher.",
    "bezirk": "Oberpfalz",
    "kreis": "LK Cham",
-   "gear_open": "Veranstalterseite tkut.runfellows.com am 02.11.2026 für niemanden erreichbar; für 2027 keine Liste gefunden. RunFellows direkt fragen (runfellows.com/kontakt)"
+   "gear_open": "Veranstalterseite tkut.runfellows.com am 02.11.2026 für niemanden erreichbar; hdsports.at nennt keine Ausrüstung. RunFellows direkt fragen (runfellows.com/kontakt)",
+   "prev": {
+    "start_time": "08:00"
+   }
   },
   {
    "id": "spindellauf-im-dez-2027",
