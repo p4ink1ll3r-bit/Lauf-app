@@ -488,7 +488,6 @@
    "profile": null,
    "gpx": null,
    "limit": "max. 350 Teilnehmende über alle Disziplinen",
-   "sold_out": "10 km und 5 km sind ausgebucht (Gesamtlimit 350, laut Anmeldeseite am 02.11.2026 keine freien Plätze mehr). Die Kinderläufe sind kostenlos, die Anmeldung dafür geht am Renntag vor Ort.",
    "cutoff": null,
    "included": null,
    "late_reg": null,
@@ -963,7 +962,8 @@
    "late_reg": "Wartelisten-Anmeldung über das Portal bis 29.11.2026 09:00 Uhr (laut Anmeldeportal)",
    "info": "Anmeldung über Race Result; es gibt eine Warteliste. Start 8:00 Uhr am Kiosk Pier 3, Selbstverpflegung (Biertisch für eigene Getränke), Zeitmessung selbst per GPS-Uhr. Startgeld nicht genannt; Erinnerungsmedaille für Finisher kostet voraussichtlich 10–15 € und wird nach dem Lauf abgerechnet",
    "bezirk": "Schwaben",
-   "kreis": "Stadt Augsburg"
+   "kreis": "Stadt Augsburg",
+   "sold_out_auto": true
   },
   {
    "id": "forchheimer-nikolauslauf-2026",
@@ -1530,7 +1530,7 @@
    "profile": null,
    "gpx": null,
    "limit": "Hobbylauf max. 400, Nachtlauf max. 300 Teilnehmende",
-   "sold_out": "Hobbylauf (5 km) und Nachtlauf (5 km) sind laut Anmeldeportal ausgebucht (Stand 02.11.2026). Bei den beiden Kinderläufen zeigt das Portal keine Begrenzung.",
+   "sold_out": "Ausgebucht laut Anmeldeportal: Autoglas Niedermayr Hobbylauf, Steigenberger Sport Nachtlauf. Die übrigen Strecken zeigen noch freie Plätze oder keine Begrenzung (nachts automatisch geprüft).",
    "cutoff": null,
    "included": "Chipzeitmessung, essbare Medaille für alle Finisher, Zielverpflegung",
    "late_reg": "Am 28.12.2026, sofern Startplätze frei, 25 €",
@@ -1539,7 +1539,8 @@
     "reg_close"
    ],
    "bezirk": "Oberbayern",
-   "kreis": "LK Rosenheim"
+   "kreis": "LK Rosenheim",
+   "sold_out_auto": true
   },
   {
    "id": "silvesterlauf-munchen-2026",
@@ -2362,7 +2363,8 @@
    "late_reg": "Nicht genannt; Ummeldung am Veranstaltungstag 18:00–19:00 für 5 €",
    "info": "13 Runden à 1,6 km, begrenzte Teilnehmerzahl",
    "bezirk": "Oberpfalz",
-   "kreis": "Stadt Regensburg"
+   "kreis": "Stadt Regensburg",
+   "anmeldung_url": "https://www.zeitgemaess.info/event.php?ACCESSCODE=202701091"
   },
   {
    "id": "staustufenlauf-2027",
@@ -3468,7 +3470,8 @@
     }
    ],
    "gear_stand": "Veranstalterseite 2027",
-   "gear_warn": "Wer die Pflichtausrüstung nicht vollständig dabei hat, wird von der Wertung ausgeschlossen. Nur empfohlen: zweite Lichtquelle, GPS-Gerät mit Strecke, wasserdichte Jacke, Stöcke."
+   "gear_warn": "Wer die Pflichtausrüstung nicht vollständig dabei hat, wird von der Wertung ausgeschlossen. Nur empfohlen: zweite Lichtquelle, GPS-Gerät mit Strecke, wasserdichte Jacke, Stöcke.",
+   "status_manuell": true
   },
   {
    "id": "altenmunster-halbmarathon-2027",
@@ -5379,13 +5382,15 @@
    "profile": null,
    "gpx": null,
    "limit": "Teilnehmerlimit (Zahl nicht veröffentlicht)",
-   "sold_out": "Marathon, Dreiviertelmarathon (32 km) und Halbmarathon sind ausgebucht, die Startplatzbörse ist aktiv. Beim Viertelmarathon und beim Nordic Walking nennt die Anmeldeseite keinen Status (Stand 02.11.2026). Laut Veranstalter sind bei erreichtem Teilnehmerlimit keine Nachmeldungen vor Ort möglich.",
+   "sold_out": "Ausgebucht laut Anmeldeportal: Marathon, Dreiviertelmarathon, Halbmarathon. Die übrigen Strecken zeigen noch freie Plätze oder keine Begrenzung (nachts automatisch geprüft).",
    "cutoff": null,
    "included": null,
    "late_reg": "Vor Ort am Veranstaltungswochenende möglich, nicht bei erreichtem Teilnehmerlimit",
    "info": "Nur Online-Anmeldung, Nachmeldung vor Ort. Die Preise sind nach Kontingent gestaffelt; ab wann welches Kontingent gilt, nennt die Seite nicht. Nordic Walking kurz/lang: 10 €/15 € (Kontingent 1), 13 €/17 € (Kontingent 2), 15 €/20 € (Kontingent 3), Nachmeldung 20 €/25 €.",
    "bezirk": "Oberpfalz",
-   "kreis": "Stadt Regensburg"
+   "kreis": "Stadt Regensburg",
+   "anmeldung_url": "https://www.datasport.de/anmeldeservice/regensburgmarathon2027/",
+   "sold_out_auto": true
   },
   {
    "id": "ebermannsdorfer-jedermannslauf-2027",
