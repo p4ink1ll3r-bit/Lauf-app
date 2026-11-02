@@ -2295,7 +2295,7 @@
    "url": "https://tkut.runfellows.com/",
    "reg_open": null,
    "reg_close": null,
-   "fee": null,
+   "fee": "60 € (laut HDsports, ohne Jahresangabe und ohne Angabe zu den Strecken)",
    "start_time": null,
    "checked": "2026-11-02",
    "source": "https://gotrail.run/de/termine/three-kings-ultra-trail",
@@ -8046,6 +8046,7 @@
    "distances": [
     "11",
     "26",
+    "40",
     "52",
     "73"
    ],
@@ -8392,6 +8393,7 @@
    "distances": [
     "12",
     "HM",
+    "42",
     "60",
     "100"
    ],
