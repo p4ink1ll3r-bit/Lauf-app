@@ -4187,7 +4187,7 @@
     "7,4"
    ],
    "note": "Altstadtlauf des DJK-Diözesanverbands Passau, Wertungslauf im Landkreis- und Sparkassen-Laufcup Passau; Zeitnahme per Chip (Spoferan). Termin 2027 laut Laufcup-Liste noch nicht fixiert.",
-   "url": "https://www.domlauf-passau.de",
+   "url": "https://djk.domlauf.bistum-passau.de/",
    "source": "https://www.hdsports.org/laufcups/landkreis-und-sparkassen-laufcup-passau",
    "prev": {
     "fee": "Hauptlauf gestaffelt: 10 € bis 28.2., 15 € bis 31.3., 18 € bis 17.4., Nachmeldung am Lauftag +5 € (bar)",
@@ -4196,7 +4196,7 @@
     "pickup": "Meldebüro Domplatz 3 (Nachmeldung am Lauftag bis 11:00)"
    },
    "bezirk": "Niederbayern",
-   "checked": "2026-11-01"
+   "checked": "2026-11-02"
   },
   {
    "id": "gapa-vertical-2027",

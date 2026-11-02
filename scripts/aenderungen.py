@@ -21,7 +21,7 @@ import urllib.error
 import urllib.request
 import urllib.robotparser
 from concurrent.futures import ThreadPoolExecutor
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import urlparse
 
@@ -65,6 +65,23 @@ def tokens_of(text):
         if s in low:
             t.add("S " + s)
     return sorted(t)
+
+
+MONATE = {m: i + 1 for i, m in enumerate(["januar", "februar", "märz", "april", "mai", "juni", "juli", "august",
+                                           "september", "oktober", "november", "dezember"])}
+
+
+def ist_tagesdatum(token, tage):
+    """True, wenn der Datums-Token nur das heutige (oder gestrige/morgige) Kalenderdatum ist.
+    Viele Seiten zeigen das aktuelle Datum an (Tagesliturgie, Nachrichten, Fußzeile) - das ist kein Hinweis auf eine Änderung."""
+    m = re.match(r"D (\d{1,2})\.(\d{1,2}|[a-zäö]+)\.?(\d{4})?$", token)
+    if not m:
+        return False
+    monat = int(m.group(2)) if m.group(2).isdigit() else MONATE.get(m.group(2))
+    if not monat:
+        return False
+    jahr = int(m.group(3)) if m.group(3) else None
+    return any(t.day == int(m.group(1)) and t.month == monat and (jahr is None or jahr == t.year) for t in tage)
 
 
 def wait_for_host(host):
@@ -139,6 +156,8 @@ def main(argv):
     with ThreadPoolExecutor(max_workers=6) as ex:
         ergebnisse = dict(zip(urls, ex.map(check, urls)))
 
+    heute = datetime.now().date()
+    tage = [heute + timedelta(days=d) for d in (-1, 0, 1)]     # Seiten mit Tagesdatum lösen keinen Alarm aus
     neu = {}
     zeilen = {"geändert": [], "neu": [], "Fehler": [], "unverändert": 0, "robots": []}
     for u in urls:
@@ -155,8 +174,8 @@ def main(argv):
                 gleich = a.get("hash") == e["hash"]
                 plus, minus = [], []
             else:
-                plus = sorted(set(e["tokens"]) - set(a.get("tokens") or []))
-                minus = sorted(set(a.get("tokens") or []) - set(e["tokens"]))
+                plus = [t for t in sorted(set(e["tokens"]) - set(a.get("tokens") or [])) if not ist_tagesdatum(t, tage)]
+                minus = [t for t in sorted(set(a.get("tokens") or []) - set(e["tokens"])) if not ist_tagesdatum(t, tage)]
                 gleich = not plus and not minus
             if gleich:
                 zeilen["unverändert"] += 1
