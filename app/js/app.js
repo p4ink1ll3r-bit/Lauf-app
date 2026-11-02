@@ -1,6 +1,6 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
-const APP_VERSION="v19"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+const APP_VERSION="v20"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
 const DATA_DIR="data/";
 const REPORT_URL="";
 const APP_URL=location.origin+location.pathname.replace(/index\.html$/,"");
@@ -44,7 +44,7 @@ const IC={
 const HEART=IC.heart;
 
 // Läufe-Datei in das interne Format übersetzen und Merkmale ableiten
-function prepare(list){const x0={};list.forEach(x=>x0[x.id]=x);R=list.map(x=>({id:x.id,t:x.type,n:x.name,o:x.place,la:x.lat,lo:x.lon,d:x.date,e:x.end,ok:x.confirmed,prev:x.prev_date,k:x.distances||[],hm:x.elevation,note:x.note,u:x.url,checked:x.checked,fee:x.fee,ro:x.reg_open,rc:x.reg_close,st:x.start_time,info:x.info,src:x.source,sp:x.start_place,pick:x.pickup,park:x.parking,aid:x.aid,course:x.course,extras:x.extras,gear:x.gear,gearNote:x.gear_note,gl:x.gear_levels,gs:x.gear_stand,gw:x.gear_warn,prof:x.profile,gpx:x.gpx,limit:x.limit,soldout:x.sold_out,cutoff:x.cutoff,incl:x.included,late:x.late_reg}));
+function prepare(list){const x0={};list.forEach(x=>x0[x.id]=x);R=list.map(x=>({id:x.id,t:x.type,n:x.name,o:x.place,la:x.lat,lo:x.lon,d:x.date,e:x.end,ok:x.confirmed,prev:x.prev_date,k:x.distances||[],hm:x.elevation,note:x.note,u:x.url,checked:x.checked,fee:x.fee,ro:x.reg_open,rc:x.reg_close,st:x.start_time,info:x.info,src:x.source,sp:x.start_place,pick:x.pickup,park:x.parking,aid:x.aid,course:x.course,extras:x.extras,gear:x.gear,gearNote:x.gear_note,gl:x.gear_levels,gs:x.gear_stand,gw:x.gear_warn,prof:x.profile,gpx:x.gpx,limit:x.limit,soldout:x.sold_out===true,soldPart:typeof x.sold_out==="string"?x.sold_out:"",cutoff:x.cutoff,incl:x.included,late:x.late_reg}));
 R.forEach(r=>{
   r.oldId=r.n.toLowerCase().replace(/[^a-z0-9äöüß]+/g,"-")+"-"+r.d.slice(0,4);
   const kms=r.k.map(k=>k==="HM"||/bis HM/.test(k)?21.1:k==="M"?42.2:k==="Backyard"?60:parseFloat(String(k).replace(",",".")));
@@ -113,8 +113,13 @@ function passFilters(r,skipDist){
   return true;}
 
 // Anmeldestatus: kurz für Karten und Kacheln
+// sold_out: true = alles ausgebucht; Text = nur einzelne Strecken ausgebucht (der Text sagt welche)
 function regInfo(r){
   if(r.soldout)return{c:"full",t:"Ausgebucht",s:"Ausgebucht"};
+  const b=regInfo0(r);
+  if(r.soldPart&&(!b||b.c!=="plain"))return{c:"hot",t:"Teils ausgebucht",s:"teils ausgebucht"};
+  return b}
+function regInfo0(r){
   if(r.rc&&daysTo(r.rc)<0)return{c:"plain",t:"Anmeldung zu",s:"geschlossen"};
   if(r.ro&&daysTo(r.ro)>0){const k=daysTo(r.ro);return{c:k<=14?"hot":"open",t:k<=14?"Anmeldung öffnet "+(k===1?"morgen":"in "+k+" T."):"Anmeldung ab "+fmtS(r.ro),s:"ab "+fmtS(r.ro)}}
   if(r.rc){const k=daysTo(r.rc);return{c:k<=14?"hot":"ok",t:k<=14?"Meldeschluss "+(k===0?"heute":k===1?"morgen":"in "+k+" T."):"Anmeldung bis "+fmtS(r.rc),s:"bis "+fmtS(r.rc)}}
@@ -215,6 +220,7 @@ function statusBanner(r){
   const rd=r.rc?daysTo(r.rc):null,od=r.ro?daysTo(r.ro):null,tag=k=>k<=0?"heute":k===1?"morgen":"in "+k+" Tagen";
   let c,ic,t,s;
   if(r.soldout){c="full";ic="stop";t="Ausgebucht";s="Alle Startplätze sind vergeben."}
+  else if(r.soldPart&&!(r.rc&&rd<0)){c="hot";ic="stop";t="Teilweise ausgebucht";s=esc(r.soldPart)}
   else if(r.rc&&rd<0){c="plain";ic="stop";t="Meldeschluss vorbei";s="Letzter Tag war "+longDate(r.rc)+". "+(r.late?"Nachmeldung: "+esc(r.late):"Ob eine Nachmeldung geht, steht beim Veranstalter.")}
   else if(od!==null&&od>0){c=od<=14?"hot":"open";ic="clock";t="Anmeldung öffnet "+tag(od);s="Start der Anmeldung: "+longDate(r.ro)}
   else if(r.rc){c=rd<=7?"hot":"ok";ic=rd<=7?"clock":"ok";t=rd<=7?"Meldeschluss "+tag(rd):"Anmeldung offen";s=(rd<=7?"Letzter Tag: ":"Bis ")+longDate(r.rc)+(rd>7?" · noch "+rd+" Tage":"")}

@@ -5379,7 +5379,7 @@
    "profile": null,
    "gpx": null,
    "limit": "Teilnehmerlimit (Zahl nicht veröffentlicht)",
-   "sold_out": null,
+   "sold_out": "Marathon, Dreiviertelmarathon (32 km) und Halbmarathon sind ausgebucht, die Startplatzbörse ist aktiv. Beim Viertelmarathon und beim Nordic Walking nennt die Anmeldeseite keinen Status (Stand 02.11.2026). Laut Veranstalter sind bei erreichtem Teilnehmerlimit keine Nachmeldungen vor Ort möglich.",
    "cutoff": null,
    "included": null,
    "late_reg": "Vor Ort am Veranstaltungswochenende möglich, nicht bei erreichtem Teilnehmerlimit",
