@@ -1,6 +1,6 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
-const APP_VERSION="v17"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+const APP_VERSION="v18"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
 const DATA_DIR="data/";
 const REPORT_URL="";
 const APP_URL=location.origin+location.pathname.replace(/index\.html$/,"");
@@ -361,7 +361,7 @@ document.querySelectorAll(".bsheet").forEach(sh=>{let y0=null,x0=0,dy=0,t0=0,dra
     const schnell=dy/Math.max(1,Date.now()-t0)>0.6;sh.style.transition="transform .18s ease";
     if(dy>110||schnell){sh.style.transform="translateY(100%)";setTimeout(closeSheets,170)}else sh.style.transform=""});
   sh.addEventListener("touchcancel",()=>{y0=null;drag=false;sh.style.transform=""})});
-function closeSheets(){document.querySelectorAll(".bsheet").forEach(s=>{s.style.animation="";s.style.transform="";s.style.transition=""});endWelcome();const ni=document.querySelector(".nav .in");if(ni)ni.dataset.i=["road","trail","fav"].indexOf(state.tab);["locsheet","sharesheet","setsheet","asksheet"].forEach(i=>$(i).hidden=true);$("backdrop").hidden=true;if($("detail").hidden&&$("report").hidden)document.body.classList.remove("locked");if(sheetFocus&&sheetFocus.focus)sheetFocus.focus()}
+function closeSheets(){document.querySelectorAll(".bsheet").forEach(s=>{s.style.animation="";s.style.transform="";s.style.transition=""});endWelcome();const ni=document.querySelector(".nav .in");if(ni)ni.dataset.i=["road","trail","fav"].indexOf(state.tab);["locsheet","sharesheet","setsheet","asksheet","legalsheet"].forEach(i=>$(i).hidden=true);$("backdrop").hidden=true;if($("detail").hidden&&$("report").hidden)document.body.classList.remove("locked");if(sheetFocus&&sheetFocus.focus)sheetFocus.focus()}
 $("backdrop").addEventListener("click",closeSheets);
 $("loc").addEventListener("click",()=>{$("startinfo").classList.remove("err");$("startinfo").textContent="";if(state.onboarded||homeShown)showHome();openSheet("locsheet")});
 $("loc-done").addEventListener("click",closeSheets);
@@ -373,6 +373,11 @@ function applyTheme(){const t=state.theme||"auto",el=document.documentElement;
 $("gear").addEventListener("click",()=>{document.querySelector(".nav .in").dataset.i=3;$("set-stand").textContent=$("stand").textContent+"Aktualisierung jeden Sonntag. App-Version "+APP_VERSION+".";openSheet("setsheet");const c=$("setsheet").querySelector('[aria-checked="true"]');if(c)c.focus()});
 $("setsheet").addEventListener("click",e=>{const b=e.target.closest("[data-theme-set]");if(b){state.theme=b.dataset.themeSet;save();applyTheme()}});
 $("set-done").addEventListener("click",closeSheets);
+// Platzhalter: Punkte, die noch nicht fertig sind, und die Rechtstexte (Inhalt folgt vor dem öffentlichen Start)
+$("setsheet").addEventListener("click",e=>{
+  const s=e.target.closest("[data-soon]");if(s){toast(s.dataset.soon+" kommt bald");return}
+  const l=e.target.closest("[data-legal]");if(l){$("lg-h").textContent=l.dataset.legal;$("lg-t").textContent="Dieser Text wird vor dem öffentlichen Start ergänzt.";$("setsheet").hidden=true;$("legalsheet").hidden=false;$("lg-done").focus()}});
+$("lg-done").addEventListener("click",()=>{$("legalsheet").hidden=true;$("setsheet").hidden=false});
 $("set-loc").addEventListener("click",()=>{$("setsheet").hidden=true;$("locsheet").hidden=false;$("start").focus()});
 
 // Angemeldet? Nach „Zur Anmeldung“ fragt die App beim Zurückkommen nach

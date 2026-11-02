@@ -113,19 +113,49 @@
     </div>
     <span class="src">Automatisch folgt der Einstellung deines Handys.</span>
   </div>
-  <div class="setgrp"><span class="lbl">Startpunkt &amp; Umkreis</span>
-    <button type="button" class="btn" id="set-loc">Ändern</button></div>
-  <div class="setgrp"><span class="lbl">So liest du die App</span>
+  <div class="setgrp"><span class="lbl">Suche</span>
+    <div class="srows">
+      <button type="button" class="srow" id="set-loc"><span>Startpunkt &amp; Umkreis</span><em>Ändern</em></button>
+      <button type="button" class="srow later" data-soon="Startseite"><span>Startseite</span><em>bald</em></button>
+      <button type="button" class="srow later" data-soon="Meine Distanzen"><span>Meine Distanzen</span><em>bald</em></button>
+    </div></div>
+  <div class="setgrp"><span class="lbl">Erinnerungen</span>
+    <div class="srows">
+      <button type="button" class="srow later" data-soon="Erinnerungen"><span>Meldeschluss &amp; Lauftag</span><em>bald</em></button>
+    </div></div>
+  <div class="setgrp"><span class="lbl">Meine Daten</span>
+    <div class="srows">
+      <button type="button" class="srow later" data-soon="Gemerkte Läufe sichern"><span>Gemerkte Läufe sichern</span><em>bald</em></button>
+      <button type="button" class="srow later" data-soon="Zurücksetzen"><span>Alles zurücksetzen</span><em>bald</em></button>
+    </div></div>
+  <div class="setgrp"><span class="lbl">Mitmachen</span>
+    <div class="srows">
+      <button type="button" class="srow later" data-soon="App bewerten"><span>App bewerten</span><em>bald</em></button>
+      <button type="button" class="srow later" data-soon="Weiterempfehlen"><span>App weiterempfehlen</span><em>bald</em></button>
+      <button type="button" class="srow later" data-soon="Feedback"><span>Feedback geben</span><em>bald</em></button>
+    </div></div>
+  <div class="setgrp"><span class="lbl">Rechtliches</span>
+    <div class="srows">
+      <button type="button" class="srow" data-legal="Datenschutz"><span>Datenschutz</span><em>&rsaquo;</em></button>
+      <button type="button" class="srow" data-legal="Impressum"><span>Impressum</span><em>&rsaquo;</em></button>
+    </div></div>
+  <details class="setgrp hintbox"><summary class="lbl">So liest du die App</summary>
     <ul class="hints">
       <li>Die Entfernung ist die Luftlinie zu deinem Startpunkt.</li>
       <li>Ein gestricheltes Datum heißt: Der Termin ist noch nicht bestätigt und nach dem Vorjahr geschätzt.</li>
       <li>Termine stammen aus öffentlichen Laufkalendern und von den Veranstalterseiten, ohne Gewähr.</li>
       <li>Gemerkte und angemeldete Läufe bleiben auf diesem Gerät gespeichert.</li>
       <li>Es sind bisher Läufe in Bayern erfasst.</li>
-    </ul></div>
+    </ul></details>
   <div class="setgrp"><span class="lbl">Über die Daten</span>
     <span class="src" id="set-stand"></span></div>
   <button class="cta" id="set-done" type="button">Fertig</button>
+</div></div>
+<div id="legalsheet" class="bsheet" role="dialog" aria-modal="true" aria-labelledby="lg-h" hidden><div class="in">
+  <div class="grip"></div>
+  <h2 id="lg-h"></h2>
+  <p class="src" id="lg-t"></p>
+  <button class="cta" id="lg-done" type="button">Zurück</button>
 </div></div>
 
 <div id="toast" class="toast" role="status" aria-live="polite"></div>
