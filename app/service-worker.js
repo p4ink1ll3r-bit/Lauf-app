@@ -1,13 +1,29 @@
 // Offline-Betrieb: App-Gerüst wird beim ersten Start gespeichert, Läufe-Daten kommen bevorzugt frisch aus dem Netz.
 // Bei jeder Änderung an der App VERSION hochzählen, damit alte Dateien ersetzt werden.
-const VERSION = "v18";
+const VERSION = "v19";
 const SHELL = `pacehunt-shell-${VERSION}`;
 const DATA = `pacehunt-data-${VERSION}`;
 const SHELL_FILES = [
   "./",
   "index.html",
+  "css/fonts.css",
   "css/app.css",
   "js/app.js",
+  "fonts/barlow-400-latin.woff2",
+  "fonts/barlow-400-latin-ext.woff2",
+  "fonts/barlow-500-latin.woff2",
+  "fonts/barlow-500-latin-ext.woff2",
+  "fonts/barlow-600-latin.woff2",
+  "fonts/barlow-600-latin-ext.woff2",
+  "fonts/barlow-700-latin.woff2",
+  "fonts/barlow-700-latin-ext.woff2",
+  "fonts/barlow-condensed-600-latin.woff2",
+  "fonts/barlow-condensed-600-latin-ext.woff2",
+  "fonts/barlow-condensed-700-latin.woff2",
+  "fonts/barlow-condensed-700-latin-ext.woff2",
+  "fonts/barlow-condensed-800-latin.woff2",
+  "fonts/barlow-condensed-800-latin-ext.woff2",
+  "fonts/permanent-marker-400-latin.woff2",
   "manifest.webmanifest",
   "icons/icon.svg",
   "icons/icon-192.png",
@@ -37,14 +53,6 @@ self.addEventListener("fetch", e => {
       fetch(req)
         .then(res => { if (res.ok) { const copy = res.clone(); caches.open(DATA).then(c => c.put(req, copy)); } return res; })
         .catch(() => caches.match(req))
-    );
-    return;
-  }
-
-  // Schriften von Google: einmal laden, dann aus dem Speicher
-  if (url.hostname === "fonts.googleapis.com" || url.hostname === "fonts.gstatic.com") {
-    e.respondWith(
-      caches.match(req).then(hit => hit || fetch(req).then(res => { const copy = res.clone(); caches.open(SHELL).then(c => c.put(req, copy)); return res; }))
     );
     return;
   }
