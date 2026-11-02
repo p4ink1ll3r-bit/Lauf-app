@@ -225,8 +225,8 @@
                        "bezirk":  "Oberbayern",
                        "prio":  25,
                        "status":  "in Arbeit",
-                       "races":  3,
-                       "checked":  "2026-11-01"
+                       "races":  4,
+                       "checked":  "2026-11-02"
                    },
                    {
                        "kreis":  "LK Dachau",
@@ -397,8 +397,8 @@
                        "bezirk":  "Oberbayern",
                        "prio":  44,
                        "status":  "in Arbeit",
-                       "races":  8,
-                       "checked":  "2026-11-01"
+                       "races":  9,
+                       "checked":  "2026-11-02"
                    },
                    {
                        "kreis":  "Stadt Rosenheim",
@@ -461,8 +461,8 @@
                        "bezirk":  "Schwaben",
                        "prio":  51,
                        "status":  "in Arbeit",
-                       "races":  1,
-                       "checked":  "2026-11-01"
+                       "races":  2,
+                       "checked":  "2026-11-02"
                    },
                    {
                        "kreis":  "LK Neu-Ulm",
@@ -479,8 +479,8 @@
                        "bezirk":  "Schwaben",
                        "prio":  53,
                        "status":  "in Arbeit",
-                       "races":  4,
-                       "checked":  "2026-11-01"
+                       "races":  5,
+                       "checked":  "2026-11-02"
                    },
                    {
                        "kreis":  "LK Ostallgäu",

@@ -10090,6 +10090,97 @@
     "start_time": "11:15"
    },
    "info": "2026: Hauptlauf 7,65 km (4 Runden) 11:15 Uhr, Hobbylauf und Jugend U14/U16 3,8 km 9:30 Uhr, Walking und Nordic Walking 5,7 km (3 Runden) 9:35 Uhr, Kinderläufe 1 km 10:35 Uhr, Bambinilauf 400 m 11:00 Uhr. Anmeldung über einen externen Dienstleister"
+  },
+  {
+   "id": "alpenstadt-city-trail-bad-reichenhall-2027",
+   "type": "trail",
+   "name": "Alpenstadt City&Trail",
+   "place": "Bad Reichenhall",
+   "kreis": "LK Berchtesgadener Land",
+   "bezirk": "Oberbayern",
+   "lat": 47.725,
+   "lon": 12.877,
+   "date": "2027-06-05",
+   "confirmed": true,
+   "distances": [
+    "10",
+    "19"
+   ],
+   "note": "Samstag, Start 10:00 Uhr am Rathausplatz (laut Veranstaltungskalender der Region). Hochstaufen-Trailrun 19 km und Alpenstadt-Citytrail 10 km (2026: ca. 9,7 km); Kalender nennen zusätzlich eine kurze Strecke von 5,5 bis 6 km (2025 Klosterhof-Citytrail 5,5 km), für 2027 nicht bestätigt. Kinderläufe. Veranstalter Bad Reichenhall Tourismus & Stadtmarketing mit dem TSV Bad Reichenhall",
+   "url": "https://www.berchtesgaden.de/veranstaltungen/city-and-trail-2027",
+   "source": "https://gotrail.run/de/termine/alpenstadt-city-trail",
+   "checked": "2026-11-02",
+   "start_time": "10:00",
+   "start_place": "Rathausplatz, Bad Reichenhall",
+   "info": "Anmeldung 2026 über time2win.at; Startgeld je nach Strecke, Beträge für 2027 noch nicht veröffentlicht"
+  },
+  {
+   "id": "sri-chinmoy-peace-mile-6-stunden-lauf-2027",
+   "type": "road",
+   "name": "Sri Chinmoy Peace-Mile 6-Stunden-Lauf",
+   "place": "München (Moosach)",
+   "kreis": "Stadt München",
+   "bezirk": "Oberbayern",
+   "lat": 48.18,
+   "lon": 11.5,
+   "date": "2027-09-11",
+   "confirmed": false,
+   "prev_date": "2026-09-12",
+   "distances": [
+    "6 h"
+   ],
+   "note": "Termin 2027 nicht veröffentlicht, geschätzt nach Vorjahr (2026: Samstag 12.09., 10:00 bis 16:00 Uhr). 6-Stunden-Lauf auf einer Runde von 1,58 km (Friedens-Meile), für Einzelstarter und Staffeln mit bis zu 4 Läufern. Veranstalter Sri Chinmoy Marathon Team",
+   "url": "https://gotrail.run/de/termine/sri-chinmoy-peace-mile-6-stunden-lauf",
+   "source": "https://gotrail.run/de/termine/sri-chinmoy-peace-mile-6-stunden-lauf",
+   "checked": "2026-11-02",
+   "start_place": "Parkanlage am Post-Sport-Verein, Am Kapuzinerhölzl 45-47, 80992 München",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "oberstdorfer-nebelhornberglauf-2027",
+   "type": "trail",
+   "name": "Oberstdorfer Nebelhornberglauf",
+   "place": "Oberstdorf",
+   "kreis": "LK Oberallgäu",
+   "bezirk": "Schwaben",
+   "lat": 47.41,
+   "lon": 10.28,
+   "date": "2027-07-04",
+   "confirmed": false,
+   "prev_date": "2026-07-05",
+   "distances": [
+    "9,7"
+   ],
+   "elevation": [
+    1420
+   ],
+   "note": "Termin 2027 nur Prognose aus den Vorjahren (2026: 05.07., 2025: 29.06.). Veranstalter TSV 1888 Oberstdorf. Berglauf von der Talstation der Nebelhornbahn zum Gipfel; die Kalender nennen 9,7 km (teils 10 km) und rund 1.420 Hm",
+   "url": "https://gotrail.run/de/termine/nebelhorn-berglauf",
+   "source": "https://gotrail.run/de/termine/nebelhorn-berglauf",
+   "checked": "2026-11-02",
+   "start_place": "Talstation der Nebelhornbahn, Oberstdorf (Ziel am Gipfel)",
+   "info": "Anmeldung laut Kalender über die Webseite des Veranstalters; Startgeld für 2027 nicht veröffentlicht"
+  },
+  {
+   "id": "lions-12-stunden-lauf-lindenberg-2027",
+   "type": "road",
+   "name": "Lions-12-Stunden-Lauf Lindenberg",
+   "place": "Lindenberg im Allgäu",
+   "kreis": "LK Lindau (Bodensee)",
+   "bezirk": "Schwaben",
+   "lat": 47.6,
+   "lon": 9.88,
+   "date": "2027-06-19",
+   "confirmed": false,
+   "distances": [
+    "12 h"
+   ],
+   "note": "4. Auflage laut Kalender am Samstag 19.06.2027, Bestätigung unklar. Wohltätigkeitslauf über 12 Stunden, Veranstalter Lions Club Oberstaufen-Westallgäu. Rundenlänge, Startzeit und Startgeld nicht angegeben, weitere Infos laut Seite folgen",
+   "url": "http://12stundenlauf-lindenberg.de/",
+   "source": "https://gotrail.run/de/termine/lions-12-stunden-lauf-lindenberg",
+   "checked": "2026-11-02"
   }
  ]
 }

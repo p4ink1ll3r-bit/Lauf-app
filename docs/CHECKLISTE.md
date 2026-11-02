@@ -38,7 +38,7 @@ Automatisch erzeugt aus data/coverage.json (Stand 2026-11-02). Nicht von Hand ä
 
 - [~] LK Altötting - 3 Läufe, geprüft: 2026-11-02
 - [~] LK Bad Tölz-Wolfratshausen - 2 Läufe, geprüft: 2026-11-02
-- [~] LK Berchtesgadener Land - 3 Läufe, geprüft: 2026-11-01
+- [~] LK Berchtesgadener Land - 4 Läufe, geprüft: 2026-11-02
 - [~] LK Dachau - 2 Läufe, geprüft: 2026-11-01
 - [~] LK Ebersberg - 2 Läufe, geprüft: 2026-11-02
 - [~] LK Eichstätt - 1 Läufe, geprüft: 2026-11-01
@@ -57,7 +57,7 @@ Automatisch erzeugt aus data/coverage.json (Stand 2026-11-02). Nicht von Hand ä
 - [~] LK Traunstein - 7 Läufe, geprüft: 2026-11-01
 - [~] LK Weilheim-Schongau - 1 Läufe, geprüft: 2026-11-01
 - [~] Stadt Ingolstadt - 1 Läufe, geprüft: 2026-11-01
-- [~] Stadt München - 8 Läufe, geprüft: 2026-11-01
+- [~] Stadt München - 9 Läufe, geprüft: 2026-11-02
 - [~] Stadt Rosenheim - 1 Läufe, geprüft: 2026-11-01
 
 ## Schwaben (2/14)
@@ -67,9 +67,9 @@ Automatisch erzeugt aus data/coverage.json (Stand 2026-11-02). Nicht von Hand ä
 - [~] LK Dillingen a.d.Donau - 2 Läufe, geprüft: 2026-11-01
 - [~] LK Donau-Ries - 2 Läufe, geprüft: 2026-11-01
 - [x] LK Günzburg - 0 Läufe, geprüft: 2026-11-02
-- [~] LK Lindau (Bodensee) - 1 Läufe, geprüft: 2026-11-01
+- [~] LK Lindau (Bodensee) - 2 Läufe, geprüft: 2026-11-02
 - [~] LK Neu-Ulm - 2 Läufe, geprüft: 2026-11-01
-- [~] LK Oberallgäu - 4 Läufe, geprüft: 2026-11-01
+- [~] LK Oberallgäu - 5 Läufe, geprüft: 2026-11-02
 - [~] LK Ostallgäu - 3 Läufe, geprüft: 2026-11-01
 - [~] LK Unterallgäu - 1 Läufe, geprüft: 2026-11-01
 - [~] Stadt Augsburg - 3 Läufe, geprüft: 2026-11-01
