@@ -102,8 +102,10 @@ def parse_raceresult(eid):
             closes.append(rr_day(reg["EnabledTo"]))
         for c in reg.get("Contests") or []:
             preise = [f.get("Fee") for f in c.get("EntryFees") or [] if f.get("Fee") is not None]
+            stufen = [{"von": rr_day(f.get("RegStart")), "bis": rr_day(f.get("RegEnd")), "fee": f.get("Fee"),
+                       "alter": (f.get("DateStart"), f.get("DateEnd"))} for f in c.get("EntryFees") or [] if f.get("Fee") is not None]
             contests.append({"name": c.get("Name"), "tag": rr_day(c.get("Start")), "start": (c.get("Start") or "")[11:16] or None,
-                             "km": None, "preise": preise})
+                             "km": None, "preise": preise, "stufen": stufen})
             slots.append(c.get("SlotsLeft", -1))
     return {"datum": rr_day(cfg.get("EventDate")), "reg_open": min(opens) if opens else None,
             "reg_close": max(closes) if closes else None, "strecken": contests,
@@ -143,6 +145,24 @@ def tage(a, b):
     return (date.fromisoformat(b) - date.fromisoformat(a)).days
 
 
+def ddmm(iso_tag):
+    return f"{iso_tag[8:10]}.{iso_tag[5:7]}."
+
+
+def preis_text(s):
+    """Startgeld einer Strecke als Text. Eine Stufe: einfacher Preis. Zwei Stufen, die zweite nur wenige Tage vor dem Lauf:
+    normaler Preis und Nachmeldung. Alles andere (Frühbucher, Altersgruppen, Rabatte) ist nicht eindeutig und bleibt leer."""
+    if len(s["preise"]) == 1:
+        return euro(s["preise"][0])
+    st = sorted(s.get("stufen") or [], key=lambda x: x["von"] or "")
+    if len(st) != 2 or any(x["fee"] < 0 for x in st) or len({x["alter"] for x in st}) > 1:
+        return None
+    a, b = st
+    if not (a["bis"] and b["von"] and b["bis"] and a["bis"] <= b["von"] and tage(b["von"], b["bis"]) <= 7):
+        return None
+    return f"{euro(a['fee'])} (bis {ddmm(a['bis'])}) · Nachmeldung {euro(b['fee'])}"
+
+
 def vorschlaege(race, info):
     """Leere Felder, die sich sicher füllen lassen. Sicherung: Portal-Datum muss zu unserem Lauf passen."""
     vs = {}
@@ -162,8 +182,10 @@ def vorschlaege(race, info):
         lang = [s for s in am_tag if s["start"] and s["km"] and s["km"] >= 5]  # Hauptstrecke: ab 5 km, frühester Start
         if lang:
             vs["start_time"] = min(s["start"] for s in lang)
-    if not race.get("fee") and am_tag and all(s["preise"] for s in am_tag) and all(len(s["preise"]) == 1 for s in am_tag):
-        vs["fee"] = " · ".join(f"{s['name']} {euro(s['preise'][0])}" for s in am_tag)
+    if not race.get("fee") and am_tag and all(s["preise"] for s in am_tag):
+        texte = [preis_text(s) for s in am_tag]
+        if all(texte):
+            vs["fee"] = " · ".join(f"{s['name']} {t}" for s, t in zip(am_tag, texte))
     return vs
 
 
