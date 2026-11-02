@@ -164,7 +164,7 @@
     "Rettungsdecke (empfohlen)",
     "Trailschuhe (empfohlen)"
    ],
-   "gear_note": "Keine offizielle Pflichtausrüstung – Empfehlungen für 23 und 46 km",
+   "gear_note": "Quelle: https://huegelland.tsv-katzwang-ultrasport.de/huegelland-trailrun/faq-frequently-asked-questions/ (die Ausschreibung nennt keine Ausrüstung)",
    "profile": null,
    "gpx": null,
    "limit": "max. 1.000 Teilnehmende (alle Läufe zusammen)",
@@ -180,9 +180,15 @@
      "km": "46 und 23 km",
      "level": "empfohlen",
      "check": "keine Pflicht"
+    },
+    {
+     "km": "12,6 und 6,5 km",
+     "level": "keine",
+     "check": "die FAQ nennt keine Ausrüstung"
     }
    ],
-   "gear_open": "Ausschreibung nicht erreicht; Stufen nur für 23 und 46 km aus früherer Prüfung"
+   "gear_stand": "FAQ 2026 (Lauf am 08.11.2026)",
+   "gear_warn": "Der Veranstalter bittet vor allem bei 23 und 46 km um Erste-Hilfe-Set und Rettungsdecke, nennt aber ausdrücklich keine offizielle Pflicht. Trailrunning-Schuhe sind aus Sicht des Veranstalters ein Muss; ein Empfehlungsupdate kommt beim letzten Race Briefing."
   },
   {
    "id": "ronsberger-crosslauf-2026",
@@ -531,17 +537,16 @@
    "parking": null,
    "extras": "Duschen im Sanitärgebäude des Jugendzeltplatzes; Drop-Bags max. 50x30x30 cm (Ultra 2, Half Way 1); Kaffee/Kuchen von Theo auf Spendenbasis; auch für Wanderer/Speed-Hiker; Hund erlaubt",
    "gear": [
-    "Trinkbehälter (Ultra/Half Way mind. 1,0 l)",
-    "Erste-Hilfe-Set",
-    "Rettungsdecke",
-    "Pfeife",
-    "Handy mit Notfallnummer",
-    "Regenjacke",
-    "Gefäß für Suppe (Ultra/Half Way)",
-    "GPS-Track oder gedruckte Karte (Ultra/Half Way)",
-    "Stirnlampe mit Ersatzakku/-lampe (Ultra)"
+    "Trinkbehälter für Getränke an den Verpflegungsstellen · alle Strecken (keine Pappbecher)",
+    "Notfallausrüstung: Erste-Hilfe-Set mit Pflaster, Wundauflage, Mullbinde, Rettungsdecke, Pfeife · alle Strecken",
+    "Handy mit eingespeicherter Notfallnummer · alle Strecken",
+    "Regenjacke · alle Strecken",
+    "Wasserbehälter mit mindestens 1,0 Liter · nur Half Way und Ultra",
+    "Gefäß für Verpflegung (Suppe) · nur Half Way und Ultra",
+    "Navigationsgerät mit GPS-Track oder gedruckte Streckenkarte · nur Half Way und Ultra",
+    "Stirnlampe mit Ersatzbatterien oder Ersatzakku, alternativ Ersatzlampe · nur Ultra"
    ],
-   "gear_note": null,
+   "gear_note": "Quelle: https://rwut.runfellows.com/start/ausschreibung/ und https://rwut.runfellows.com/start/reglement/",
    "profile": null,
    "gpx": null,
    "limit": "max. 50 Teilnehmende pro Strecke (mind. 10)",
@@ -552,7 +557,25 @@
    "info": "Voraussichtliche gemischte Startgruppen A 08:00, B 08:30, C 09:00, D 11:00, E 11:30 (Einteilung wird vor dem Start bekanntgegeben); Mensch-Tier-Teams 5 min vor Hauptfeld",
    "bezirk": "Oberpfalz",
    "kreis": "LK Cham",
-   "gear_open": "Stufen je Strecke fehlen; Seite nennt keine Liste, Quelle der Teilliste unklar"
+   "gear_levels": [
+    {
+     "km": "63 km (Ultra)",
+     "level": "pflicht",
+     "check": "Stichproben vor dem Start und an Versorgungspunkten"
+    },
+    {
+     "km": "34 km (Half Way)",
+     "level": "pflicht",
+     "check": "Stichproben vor dem Start und an Versorgungspunkten"
+    },
+    {
+     "km": "17 km (Shorty)",
+     "level": "pflicht",
+     "check": "Stichproben vor dem Start und an Versorgungspunkten"
+    }
+   ],
+   "gear_stand": "Ausschreibung 2026 (Lauf am 14.11.2026)",
+   "gear_warn": "Laut Reglement wird die Ausrüstung vor dem Start und an den Versorgungspunkten stichprobenartig geprüft. Wer sie nicht dabei hat, riskiert die Disqualifikation, mindestens aber eine Zeitstrafe. Stöcke sind erlaubt."
   },
   {
    "id": "waldlauf-buchenbach-2026",
@@ -2318,7 +2341,7 @@
    "info": "Veranstalter RunFellows, Telefon +49 9482 8021112. 2026 gab es 56 Finisher.",
    "bezirk": "Oberpfalz",
    "kreis": "LK Cham",
-   "gear_open": "Veranstalterseite tkut.runfellows.com am 02.11.2026 für niemanden erreichbar; hdsports.at nennt keine Ausrüstung. RunFellows direkt fragen (runfellows.com/kontakt)",
+   "gear_open": "Veranstalterseite tkut.runfellows.com am 02.11.2026 nicht erreichbar (Adresse nicht auflösbar); hdsports.at und Kalender nennen keine Ausrüstung. Gleicher Veranstalter wie der vorWald Ultra Trail (dort Pflichtausrüstung), für Three Kings aber nicht belegt",
    "prev": {
     "start_time": "08:00"
    }
@@ -2588,13 +2611,13 @@
     "26"
    ],
    "elevation": null,
-   "note": "Distanzangaben widersprüchlich (Veranstalter: ca. 16/18 km und 26/28/30 km) – Distanzen beim Veranstalter prüfen",
+   "note": "Der Veranstalter nennt die Strecken uneinheitlich: Startseite 18 und 28 km, Zeitplan 18 und 26 km, Ausschreibung 16 und 26 km (im Kopf der Ausschreibung 16 und 30 km). Welche Länge stimmt, ist nicht belegt; Rückfrage: hey@yeti-trail.de",
    "url": "https://yeti-trail.de/",
    "reg_open": null,
    "reg_close": null,
    "fee": "Erste 250 Meldungen: Langstrecke 36 € · Kurzstrecke 33 € · Hiking 28 €; danach 39 € · 36 € · 29 €",
    "start_time": "10:30",
-   "checked": "2026-11-01",
+   "checked": "2026-11-02",
    "source": "https://yeti-trail.de/aussschreibung/",
    "start_place": "BrombachSeeZeit Resort Pleinfeld, Sportpark 30, 91785 Pleinfeld (Start = Ziel)",
    "aid": "Zwei Verpflegungsstellen auf der Strecke, Zielverpflegung mit warmen Getränken und läuferüblicher Verpflegung; Catering im Resort",
@@ -3975,40 +3998,42 @@
    "id": "soul-trail-2027",
    "type": "trail",
    "name": "Soul Trail",
-   "place": "Deggendorf (Rusel)",
-   "lat": 48.87,
-   "lon": 13.05,
+   "place": "Sankt Englmar",
+   "lat": 49.003,
+   "lon": 12.827,
    "date": "2027-04-17",
    "end": null,
    "confirmed": true,
    "prev_date": null,
    "distances": [
-    "14",
+    "7",
+    "16",
     "27",
     "38",
     "55",
     "74"
    ],
    "elevation": [
-    350,
-    970,
-    1760,
-    2200,
-    3100
+    230,
+    540,
+    1040,
+    1270,
+    2000,
+    3300
    ],
-   "note": "Höhenmeter lt. Kalendern 74 km 2.900 / 55 km 2.000 Hm (Stand 2026) – beim Veranstalter prüfen",
-   "url": "https://my.raceresult.com/367246/",
+   "note": "Saisoneröffnung der Trailrunningszene, 2027 zum zweiten Mal. 2027 in Sankt Englmar (2026 war der Lauf in Rusel bei Deggendorf). Die Mini-Strecke (7 km) zählt nicht für ITRA-Punkte",
+   "url": "https://www.soul-trail.de/",
    "reg_open": null,
-   "reg_close": null,
-   "fee": "Endurance 74 km 89 €, Soul 55 km 75 €, Marathon 38 km 65 €, Speed 27 km 49 €",
-   "start_time": null,
-   "checked": "2026-11-01",
-   "source": "https://haid.app/en/events/soul-trail-mq95svet",
-   "start_place": null,
+   "reg_close": "2027-04-16",
+   "fee": "Endurance 74 km 105 € · Soul 55 km 85 € · Marathon 38 km 75 € · Speed 27 km 55 € · Short 16 km 39 € · Mini 7 km 25 €",
+   "start_time": "06:00",
+   "checked": "2026-11-02",
+   "source": "https://www.soul-trail.de/programm/",
+   "start_place": "Predigtstuhl Arena, Markbuchen 10, 94379 Sankt Englmar",
    "aid": null,
    "course": null,
-   "pickup": null,
-   "parking": "Parkplatz ca. 500 m von Start/Ziel (Stand 2026)",
+   "pickup": "Freitag 16.04.2027 18–20 Uhr oder Samstag 17.04.2027 ab 04:30 Uhr, Predigtstuhl Arena",
+   "parking": "Parkplätze direkt an der Predigtstuhl Arena (Start/Ziel), kostenpflichtig: vor Ort oder per Parkster",
    "extras": null,
    "gear": [
     "Laufrucksack",
@@ -4025,21 +4050,21 @@
     "SOUL Tracking-App",
     "Streckenkarte · bei schlechtem Wetter"
    ],
-   "gear_note": "Die Veranstalterseite nennt 7 und 16 km, wir führen noch 14 km. Quelle: https://www.soul-trail.de/regeln-und-manieren/",
+   "gear_note": "Quelle: https://www.soul-trail.de/regeln-und-manieren/ (Reglement 2027: Strecken 74, 55, 38, 27, 16 und 7 km)",
    "profile": null,
    "gpx": null,
    "limit": null,
    "sold_out": null,
    "cutoff": null,
    "included": null,
-   "late_reg": null,
-   "info": "Keine Hunde; Shuttle ab Bahnhof Deggendorf · Online-Anmeldung 2026 bis 24 h vor Start, sofern Limit nicht erreicht; Ausgabe 2026 war am 18.04.2026, 2027-Infos noch nicht veröffentlicht",
+   "late_reg": "Vor Ort zu höheren Preisen möglich, sofern das Teilnehmerlimit nicht erreicht ist (laut FAQ)",
+   "info": "Keine Hunde. Starts am 17.04.: Endurance 06:00, Soul 08:30, Marathon 10:30, Speed 11:30, Short 12:30, Mini 13:15; Siegerehrung 17:00, Zielschluss 19:30. Online-Anmeldung bis 24 Stunden vor Veranstaltungsbeginn. Flex-Option 20 € bei der Anmeldung (bis 10.04.2027: Distanzwechsel auf kürzere Strecke, Übertragung oder Verschiebung). Höhenmeter = nur Anstieg. Preisstufen für 2027 nennt die Seite nicht (Stand 02.11.2026). Verpflegung: Trinkbehälter mit mindestens 1 Liter mitführen, an den Verpflegungsstellen gibt es keine Becher",
    "prev": {
-    "start_time": "07:00",
+    "start_time": "06:00",
     "aid": "Endurance 5 Verpflegungsstellen, Marathon 3 (2026)"
    },
    "bezirk": "Niederbayern",
-   "kreis": "LK Deggendorf",
+   "kreis": "LK Straubing-Bogen",
    "gear_levels": [
     {
      "km": "74 km",
@@ -7693,7 +7718,7 @@
     "Becher oder Flasche",
     "Stirnlampe · ab 18 Uhr"
    ],
-   "gear_note": "Quelle: https://www.woidlaeufer.de/home/arberland-ultra-trail-elite-race",
+   "gear_note": "Quelle: die Seiten der einzelnen Strecken auf https://www.woidlaeufer.de/home/strecken (Arberland Ultra Trail, Classic Trail, Auerhahn Trail, Schachtenbach Trail, Abersee Trail) und https://www.woidlaeufer.de/home/wichtige-informationen",
    "profile": null,
    "gpx": null,
    "limit": null,
@@ -7713,30 +7738,31 @@
    "gear_levels": [
     {
      "km": "102 km",
-     "level": "pflicht"
+     "level": "pflicht",
+     "check": "Handy, Erste-Hilfe-Set mit Rettungsdecke, witterungsbedingte Kleidung, Becher oder Flasche; dazu Handschuhe und Mütze"
     },
     {
      "km": "66 km",
-     "level": "pflicht"
+     "level": "pflicht",
+     "check": "Handy, Erste-Hilfe-Set mit Rettungsdecke, witterungsbedingte Kleidung, Becher oder Flasche"
     },
     {
      "km": "47 km",
-     "level": "offen",
-     "check": "Seite nicht geprüft"
+     "level": "pflicht",
+     "check": "Handy, Erste-Hilfe-Set mit Rettungsdecke, witterungsbedingte Kleidung, Becher oder Flasche"
     },
     {
      "km": "36 km",
-     "level": "offen",
-     "check": "Seite nicht geprüft"
+     "level": "pflicht",
+     "check": "Handy, Erste-Hilfe-Set mit Rettungsdecke, witterungsbedingte Kleidung, Becher oder Flasche"
     },
     {
      "km": "20 km",
-     "level": "offen",
-     "check": "Seite nicht geprüft"
+     "level": "pflicht",
+     "check": "nur Handy mit Notfallnummer und Becher oder Flasche"
     }
    ],
-   "gear_stand": "Vorjahr 2026 · für 2027 noch nicht veröffentlicht",
-   "gear_open": "Seiten der Strecken 47, 36 und 20 km nicht gelesen"
+   "gear_stand": "Vorjahr 2026 · für 2027 noch nicht veröffentlicht"
   },
   {
    "id": "brauereienlauf-frankische-toskana-2027",
@@ -8855,7 +8881,7 @@
     "M"
    ],
    "elevation": null,
-   "note": null,
+   "note": "Die Seite des Veranstalters RunThrough Trails zeigt die Ausgabe vom 17.10.2026 (ausverkauft) und für 2027 nur „coming soon“; der Termin 2027 ist nicht bestätigt",
    "url": "https://www.runthroughtrails.com/berchtesgaden",
    "reg_open": null,
    "reg_close": null,
@@ -8869,8 +8895,23 @@
    "pickup": "Am Vorabend 16–19 Uhr (Stand 2026)",
    "parking": null,
    "extras": null,
-   "gear": null,
-   "gear_note": null,
+   "gear": [
+    "Handy, Akku mindestens 80 % · alle Strecken",
+    "Faltbecher oder Behälter · alle Strecken (der Lauf ist becherlos)",
+    "Laufrucksack, Weste oder Gürtel · ab 26 km (12 km empfohlen)",
+    "Wasserdichte Jacke mit verklebten Nähten · ab 26 km (12 km empfohlen)",
+    "Handschuhe oder Fäustlinge · ab 26 km (12 km empfohlen)",
+    "Trinkflasche oder Trinkblase, mindestens 500 ml · ab 26 km (12 km empfohlen)",
+    "Pfeife · nur Marathon (26 km empfohlen)",
+    "Stirnlampe mit Ersatzbatterien · nur Marathon",
+    "Rettungsdecke oder Überlebenssack, mindestens 1,4 × 2 m · nur Marathon (26 km empfohlen)",
+    "Notfallverpflegung · nur Marathon (12 und 26 km empfohlen)",
+    "Wasserdichte Hose mit verklebten Nähten · nur Marathon (26 km empfohlen)",
+    "Erste-Hilfe-Set · nur Marathon (26 km empfohlen)",
+    "Streckenkarte mit GPX auf Uhr, Handy oder GPS-Gerät · nur Marathon (12 und 26 km empfohlen)",
+    "Reisepass oder Ausweis · beim Marathon empfohlen"
+   ],
+   "gear_note": "Quelle: https://www.runthroughtrails.com/berchtesgaden (Abschnitt Mandatory Kit, Ausgabe 2026)",
    "profile": null,
    "gpx": null,
    "limit": null,
@@ -8887,7 +8928,25 @@
    },
    "bezirk": "Oberbayern",
    "kreis": "LK Berchtesgadener Land",
-   "gear_open": "RunThrough-Seite ohne lesbaren Text zur Ausrüstung"
+   "gear_levels": [
+    {
+     "km": "Marathon",
+     "level": "pflicht",
+     "check": "Stichproben bei der Startnummernausgabe; alle Teile der Liste sind Pflicht"
+    },
+    {
+     "km": "26 km",
+     "level": "pflicht",
+     "check": "Stichproben bei der Startnummernausgabe; nicht alles ist Pflicht, siehe Liste"
+    },
+    {
+     "km": "12 km",
+     "level": "pflicht",
+     "check": "nur Handy und Faltbecher sind Pflicht, der Rest ist empfohlen"
+    }
+   ],
+   "gear_stand": "Vorjahr 2026 (Lauf am 17.10.2026, ausverkauft) · für 2027 noch nicht veröffentlicht",
+   "gear_warn": "Die Ausrüstung wird bei der Startnummernausgabe stichprobenartig geprüft. Bei schlechtem Wetter kann zusätzliche Kälteausrüstung Pflicht werden (zweites Paar Handschuhe, Isolationsjacke, warme Mütze, Schlauchschal); das sagt der Veranstalter vorher und am Tag an."
   },
   {
    "id": "fichtelultra-2027",
@@ -9914,7 +9973,7 @@
    "na": [],
    "bezirk": "Oberbayern",
    "kreis": "LK Garmisch-Partenkirchen",
-   "gear_open": "keine Veranstalterseite in den Daten"
+   "gear_open": "Keine Veranstalterseite mit Ausrüstung gefunden (Kalender nennen xc-run.de als Kontakt, dort kein Treffer, Stand 02.11.2026)"
   },
   {
    "id": "mental-health-rocks-run-2027",
@@ -10656,14 +10715,15 @@
    "lat": 49.83,
    "lon": 9.87,
    "date": "2027-07-17",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "13",
-    "30"
+    "30",
+    "64"
    ],
-   "note": "12. Auflage laut Kalender, Bestätigung unklar. T 13 (13 km), T 30 (30 km) und T 30 Marsch (Wanderer); Teil der Bayerischen Trail-Meisterschaft",
+   "note": "Der Termin 17.07.2027 steht im Anmeldeportal (Anmeldung ab 01.11.2026); die Veranstalterseite mtut.de zeigt noch die Ausgabe 2026. Strecken laut mtut.de: Ultratrail 64 km +1700 Hm, T 30 30 km +720 Hm, T 13 13 km +230 Hm; T 30 und T 13 auch als Marsch/Walking. Teil der Bayerischen Trail-Meisterschaft (30 km und Ultratrail)",
    "url": "https://my.raceresult.com/410424/",
-   "source": "https://gotrail.run/de/termine/maintal-ultratrail",
+   "source": "https://my.raceresult.com/410424/",
    "checked": "2026-11-02",
    "reg_open": "2026-11-01",
    "reg_close": "2027-06-30",
@@ -10689,8 +10749,16 @@
     }
    ],
    "gear_stand": "Vorjahr 2026 · für 2027 noch nicht veröffentlicht",
-   "gear_warn": "Empfohlen: Trailrunning-Schuhe mit Profil, witterungsangepasste Laufbekleidung, Laufrucksack (bei 13 km 0,5 Liter Wasser). Die Teilnahmebedingungen nennen Disqualifikation bei Verstößen. Eine 64-km-Strecke führen wir noch nicht.",
-   "gear_note": "Quelle: https://www.mtut.de/informationen/pflichtausrüstung/"
+   "gear_warn": "Empfohlen: Trailrunning-Schuhe mit Profil, witterungsangepasste Laufbekleidung, Laufrucksack (bei 13 km 0,5 Liter Wasser). Die Teilnahmebedingungen nennen Disqualifikation bei Verstößen.",
+   "gear_note": "Quelle: https://www.mtut.de/informationen/pflichtausrüstung/",
+   "elevation": [
+    230,
+    720,
+    1700
+   ],
+   "fee": "Ultratrail 64 km 70 € (bis 28.02.2027) · T 30 30 km 50 € (bis 28.02.2027) · T 13 13 km 25 € (bis 31.05.2027) · T 30 Marsch 50 € (bis 28.02.2027)",
+   "start_time": "07:00",
+   "info": "Starts 17.07.2027 laut Portal: Ultratrail 07:00, T 30 Marsch 07:00, T 30 09:00, T 13 09:30. Preisstufen nach Anmeldedatum: Ultratrail 70 € bis 28.02., 75 € bis 31.05., 80 € bis 30.06., Nachmeldung 17./18.07. 90 €; T 30 und T 30 Marsch 50/55/60 €, Nachmeldung 70 €; T 13 25 € bis 31.05., 30 € im Juni, Nachmeldung 35 € (Stand 02.11.2026)"
   },
   {
    "id": "neunkirchner-sommerlauf-lindelberg-trail-2027",

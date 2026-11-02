@@ -1,6 +1,6 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
-const APP_VERSION="v20"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+const APP_VERSION="v21"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
 const DATA_DIR="data/";
 const REPORT_URL="";
 const APP_URL=location.origin+location.pathname.replace(/index\.html$/,"");
@@ -161,6 +161,28 @@ function gcal(title,start,end,details,loc,time){let dates;
   return"https://calendar.google.com/calendar/render?action=TEMPLATE&text="+encodeURIComponent(title)+"&dates="+dates+(time?"&ctz=Europe%2FBerlin":"")+"&details="+encodeURIComponent(details)+"&location="+encodeURIComponent(loc)}
 function ocal(title,start,end,details,loc){return"https://outlook.live.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&allday=true&subject="+encodeURIComponent(title)+"&startdt="+start+"&enddt="+iso(plus(end||start,1))+"&body="+encodeURIComponent(details)+"&location="+encodeURIComponent(loc)}
 function calDetails(r){return r.k.map(lab).join(", ")+(r.st?" · Start "+r.st+" Uhr":"")+" · Infos: "+r.u+" (aus Pacehunt)"}
+// Apple Kalender (iPhone): .ics-Datei mit Anmeldestart, Meldeschluss und Lauftag samt Erinnerungen
+function icsEsc(s){return String(s==null?"":s).replace(/\\/g,"\\\\").replace(/;/g,"\\;").replace(/,/g,"\\,").replace(/\r?\n/g,"\\n")}
+function icsFold(l){const o=[];while(l.length>60){o.push(l.slice(0,60));l=" "+l.slice(60)}o.push(l);return o.join("\r\n")}
+function icsAlarm(trig,text){return["BEGIN:VALARM","ACTION:DISPLAY","DESCRIPTION:"+icsEsc(text),"TRIGGER:"+trig,"END:VALARM"]}
+function icsEvent(uid,stamp,sum,desc,loc,url,start,alarms){
+  return["BEGIN:VEVENT","UID:"+uid,"DTSTAMP:"+stamp].concat(start,["SUMMARY:"+icsEsc(sum),"DESCRIPTION:"+icsEsc(desc)],loc?["LOCATION:"+icsEsc(loc)]:[],url?["URL:"+url]:[],["TRANSP:TRANSPARENT"],alarms,["END:VEVENT"])}
+function buildICS(r){
+  const stamp=new Date().toISOString().replace(/[-:]/g,"").replace(/\.\d+/,""),loc=r.sp||r.o,nm=r.ok?r.n:r.n+" (Termin nicht bestätigt)",ev=[];
+  const allDay=(a,b)=>["DTSTART;VALUE=DATE:"+ymd(dt(a)),"DTEND;VALUE=DATE:"+ymd(plus(b||a,1))];
+  if(r.ro&&daysTo(r.ro)>=0)ev.push(icsEvent(r.id+"-start@pacehunt",stamp,"Anmeldung startet: "+r.n,"Heute startet die Anmeldung für "+r.n+" am "+fmt(r.d)+". "+(r.u||""),"",r.u,allDay(r.ro),icsAlarm("PT8H","Heute startet die Anmeldung: "+r.n)));
+  if(r.rc&&daysTo(r.rc)>=0)ev.push(icsEvent(r.id+"-frist@pacehunt",stamp,"Meldeschluss: "+r.n,"Letzter Tag zur Anmeldung für "+r.n+" am "+fmt(r.d)+". "+(r.u||""),"",r.u,allDay(r.rc),
+    [].concat(icsAlarm("-P6DT15H","In 7 Tagen ist Meldeschluss: "+r.n),icsAlarm("-P2DT15H","In 3 Tagen ist Meldeschluss: "+r.n),icsAlarm("-PT15H","Morgen ist Meldeschluss: "+r.n))));
+  let start;
+  if(r.st&&/^\d\d:\d\d$/.test(r.st)){const h=Math.min(23,parseInt(r.st,10)+4);start=["DTSTART:"+ymd(dt(r.d))+"T"+r.st.replace(":","")+"00","DTEND:"+ymd(dt(r.d))+"T"+String(h).padStart(2,"0")+r.st.slice(3)+"00"]}
+  else start=allDay(r.d,r.e);
+  ev.push(icsEvent(r.id+"-lauf@pacehunt",stamp,nm,calDetails(r),loc,r.u,start,
+    [].concat(icsAlarm("-P7D","In einer Woche: "+r.n+" – Packliste und Wetter ansehen"),icsAlarm("-P1D","Morgen: "+r.n+(r.st?" – Start "+r.st+" Uhr":"")+". Startunterlagen, Anfahrt und Wetter in der App prüfen"))));
+  return["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//Pacehunt//Lauf-App//DE","CALSCALE:GREGORIAN","METHOD:PUBLISH"].concat(...ev,["END:VCALENDAR"]).map(icsFold).join("\r\n")+"\r\n"}
+function downloadICS(id){const r=R.find(x=>x.id===id);if(!r)return;const ics=buildICS(r);
+  if(IS_IOS){const url="data:text/calendar;charset=utf-8,"+encodeURIComponent(ics);if(!window.open(url))location.href=url;return}
+  const a=document.createElement("a");a.href=URL.createObjectURL(new Blob([ics],{type:"text/calendar;charset=utf-8"}));a.download=r.id+".ics";document.body.appendChild(a);a.click();
+  setTimeout(()=>{URL.revokeObjectURL(a.href);a.remove()},1500);toast("Kalenderdatei geladen, zum Hinzufügen öffnen")}
 
 // Kopfbild aus den Daten: Trail = Bergsilhouette (Höhe nach Hm), Straße = Straße mit Start/Ziel
 function heroSVG(r){
@@ -314,8 +336,8 @@ function openDetail(id){const r=R.find(x=>x.id===id);if(!r)return;if($("detail")
    '<section class="box" id="wx"><h3>'+IC.sun+'Wetter in '+esc(r.o)+'</h3><div id="wxbody" class="na">Vorhersage wird geladen …</div>'+
      '<div class="btns"><a class="btn" href="https://www.meteoblue.com/de/wetter/woche/'+r.la.toFixed(3)+'N'+r.lo.toFixed(3)+'E" target="_blank" rel="noopener">Wetter öffnen '+IC.ext+'</a></div></section>'+
    gearBox(r)+
-   '<section class="box"><h3>'+IC.cal+'In den Kalender</h3><div class="btns"><a class="btn" href="'+esc(gcal(r.n,r.d,r.e,det,loc,r.st))+'" target="_blank" rel="noopener">Google '+IC.ext+'</a><a class="btn" href="'+esc(ocal(r.n,r.d,r.e,det,loc))+'" target="_blank" rel="noopener">Outlook '+IC.ext+'</a>'+
-     (r.rc&&daysTo(r.rc)>=0?'<a class="btn" href="'+esc(gcal("Meldeschluss: "+r.n,r.rc,null,"Letzter Tag zur Anmeldung für "+r.n+" am "+fmt(r.d)+" · "+r.u,""))+'" target="_blank" rel="noopener">Meldeschluss (Google) '+IC.ext+'</a>':"")+'</div></section>'+
+   '<section class="box"><h3>'+IC.cal+'In den Kalender</h3><div class="btns"><button type="button" class="btn" data-ics="'+r.id+'">Apple Kalender (iPhone), mit Erinnerungen</button><a class="btn" href="'+esc(gcal(r.n,r.d,r.e,det,loc,r.st))+'" target="_blank" rel="noopener">Google '+IC.ext+'</a><a class="btn" href="'+esc(ocal(r.n,r.d,r.e,det,loc))+'" target="_blank" rel="noopener">Outlook '+IC.ext+'</a>'+
+     (r.rc&&daysTo(r.rc)>=0?'<a class="btn" href="'+esc(gcal("Meldeschluss: "+r.n,r.rc,null,"Letzter Tag zur Anmeldung für "+r.n+" am "+fmt(r.d)+" · "+r.u,""))+'" target="_blank" rel="noopener">Meldeschluss (Google) '+IC.ext+'</a>':"")+'</div><span class="src">Die Apple-Datei enthält Lauftag, Meldeschluss und Anmeldestart, soweit sie noch kommen, mit Erinnerungen: Lauftag eine Woche und einen Tag vorher, Meldeschluss 7, 3 und 1 Tag vorher.</span></section>'+
    ((r.info||r.note)?'<section class="box"><h3>'+IC.info+'Gut zu wissen</h3>'+(r.info?'<div>'+esc(r.info)+'</div>':"")+(r.note?'<div>'+esc(r.note)+'</div>':"")+'</section>':"")+
    '<span class="src">Infos: '+esc(host(r.u))+(r.src?' · Termin-Quelle: '+esc(host(r.src)):"")+(r.checked?' · geprüft am '+fmt(r.checked):"")+'. Angaben ohne Gewähr.</span>'+
    '<button type="button" class="linkbtn" data-report="'+r.id+'">Fehler in diesen Angaben melden</button>'+
@@ -333,6 +355,7 @@ function toggleFav(id){const i=state.favs.indexOf(id);if(i<0)state.favs.push(id)
 function syncHeart(b,id){const on=state.favs.includes(id);b.setAttribute("aria-pressed",on);b.setAttribute("aria-label",on?"Aus Meine Läufe entfernen":"Merken")}
 $("detail").addEventListener("click",e=>{if(e.target.closest("[data-close]")){closeDetail();return}
   const sh=e.target.closest("[data-share]");if(sh){shareRace(sh.dataset.share);return}
+  const ic=e.target.closest("[data-ics]");if(ic){downloadICS(ic.dataset.ics);return}
   const ca=e.target.closest("[data-copyaddr]");if(ca){const txt=ca.textContent;
     (navigator.clipboard?navigator.clipboard.writeText(ca.dataset.copyaddr):Promise.reject()).then(()=>{ca.textContent="Kopiert ✓"}).catch(()=>{ca.textContent="Nicht möglich, bitte markieren und kopieren"}).finally(()=>setTimeout(()=>{ca.textContent=txt},2000));return}
   const rp=e.target.closest("[data-report]");if(rp){openReport(rp.dataset.report,rp.dataset.kind);return}

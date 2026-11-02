@@ -8,7 +8,7 @@ Automatisch erzeugt aus data/coverage.json (Stand 2026-11-02). Nicht von Hand ä
 
 ## Niederbayern (12/12)
 
-- [x] LK Deggendorf - 3 Läufe, geprüft: 2026-11-02
+- [x] LK Deggendorf - 2 Läufe, geprüft: 2026-11-02
 - [x] LK Dingolfing-Landau - 7 Läufe, geprüft: 2026-11-02
 - [x] LK Freyung-Grafenau - 8 Läufe, geprüft: 2026-11-02
 - [x] LK Kelheim - 8 Läufe, geprüft: 2026-11-02
@@ -16,7 +16,7 @@ Automatisch erzeugt aus data/coverage.json (Stand 2026-11-02). Nicht von Hand ä
 - [x] LK Passau - 7 Läufe, geprüft: 2026-11-02
 - [x] LK Regen - 4 Läufe, geprüft: 2026-11-02
 - [x] LK Rottal-Inn - 5 Läufe, geprüft: 2026-11-02
-- [x] LK Straubing-Bogen - 6 Läufe, geprüft: 2026-11-02
+- [x] LK Straubing-Bogen - 7 Läufe, geprüft: 2026-11-02
 - [x] Stadt Landshut - 2 Läufe, geprüft: 2026-11-02
 - [x] Stadt Passau - 2 Läufe, geprüft: 2026-11-02
 - [x] Stadt Straubing - 2 Läufe, geprüft: 2026-11-02
