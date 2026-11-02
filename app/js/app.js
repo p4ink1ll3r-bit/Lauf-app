@@ -1,8 +1,9 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
-const APP_VERSION="v27"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+const APP_VERSION="v28"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
 const DATA_DIR="data/";
-const REPORT_URL="";
+const REPORT_URL="https://gbaoxnsytnzcuxbkdrwc.supabase.co/rest/v1/reports";
+const REPORT_KEY="sb_publishable_iuxJbdN94igdsBQ5-dtm5g_OxWYWGH9";   // öffentlicher Schlüssel: darf nur Meldungen anlegen
 const APP_URL=location.origin+location.pathname.replace(/index\.html$/,"");
 const MON=["Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"];
 const WD=["So","Mo","Di","Mi","Do","Fr","Sa"];
@@ -203,7 +204,7 @@ function gearBox(r){
    (r.gearNote?'<span class="src">'+esc(r.gearNote)+'</span>':""))}
 // Ausklappbarer Kasten: zu sieht man nur die Kurzfassung (Pflicht, empfohlen …), auf die Strecken und die Liste kommen beim Aufklappen
 function gearWrap(sum,body){return '<details class="box gearbox"><summary><h3>'+IC.pack+'Pflichtausrüstung</h3><span class="gsum '+sum[1]+'">'+sum[0]+'</span></summary><div class="gbody">'+body+'</div></details>'}
-function missLine(arr,id){return arr.length?'<p class="miss">Noch offen: '+arr.join(", ")+' – wird beim Sonntags-Update nachgetragen. <button type="button" class="linkbtn inl" data-report="'+id+'" data-kind="Info ergänzen">Weißt du es? Ergänzen</button></p>':""}
+function missLine(arr,id){return arr.length?'<p class="miss">Noch offen: '+arr.join(", ")+' – wird nachgetragen.<button type="button" class="linkbtn inl" data-report="'+id+'" data-kind="Info ergänzen">Weißt du es? Ergänzen</button></p>':""}
 function V(r,k,suf){const v=r[k];if(!v)return r.na.has(k)?'<span class="na">Keine Angabe des Veranstalters</span>':"";return esc(v)+(suf||"")+(r.prevF.has(k)?' <span class="vj">Vorjahr</span>':"")}
 // Anfahrt: Routen-Knöpfe, auf dem Handy steht die passende Karten-App zuerst
 const IS_IOS=/iPad|iPhone|iPod/.test(navigator.userAgent)||(navigator.platform==="MacIntel"&&navigator.maxTouchPoints>1);
@@ -453,8 +454,8 @@ $("report").addEventListener("submit",async e=>{e.preventDefault();const f=e.tar
   if(!id&&!o.name){msg.textContent="Bitte gib mindestens den Namen des Laufs an.";return}
   const r=id?R.find(x=>x.id===id):null,rec=Object.assign({type:id?"fehler":"fehlt",race:id,race_name:r?r.n:null,status:"neu",created:new Date().toISOString()},o);
   const btn=f.querySelector("[type=submit]");btn.disabled=true;msg.textContent="Wird gesendet …";
-  let ok=false;try{if(REPORT_URL){const res=await fetch(REPORT_URL,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(rec)});ok=res.ok}}catch(err){}
-  if(ok){f.innerHTML='<div class="empty"><strong>Danke für deine Meldung!</strong>Sie wird beim nächsten Sonntags-Update geprüft und eingearbeitet.</div><button class="back" type="button" data-rclose>Schließen</button>'}
+  let ok=false;try{if(REPORT_URL){const res=await fetch(REPORT_URL,{method:"POST",headers:{"Content-Type":"application/json",apikey:REPORT_KEY,Prefer:"return=minimal"},body:JSON.stringify(rec)});ok=res.ok}}catch(err){}
+  if(ok){f.innerHTML='<div class="empty"><strong>Danke für deine Meldung!</strong>Sie wird geprüft und eingearbeitet.</div><button class="back" type="button" data-rclose>Schließen</button>'}
   else{const txt="Pacehunt-Meldung"+(r?" zu "+r.n+" ("+fmt(r.d)+")":" – Lauf fehlt")+": "+Object.values(o).join(" · ");
     msg.innerHTML='Die Meldung konnte nicht direkt gesendet werden. Kopier den Text und schick ihn ans Team:<textarea readonly rows="3" class="copy">'+esc(txt)+'</textarea><button type="button" class="back" data-copy>Text kopieren</button>';btn.disabled=false}});
 
