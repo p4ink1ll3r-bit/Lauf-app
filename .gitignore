@@ -4,6 +4,7 @@
 .DS_Store
 Thumbs.db
 app/data/
+app/ics/
 
 # Privat: bleibt nur lokal
 CLAUDE.md

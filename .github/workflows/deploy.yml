@@ -4,7 +4,7 @@ name: App veröffentlichen (GitHub Pages)
 on:
   push:
     branches: [main]
-    paths: ["app/**", "data/races.json", "data/plz.json", ".github/workflows/deploy.yml"]
+    paths: ["app/**", "data/races.json", "data/plz.json", "scripts/ics.py", ".github/workflows/deploy.yml"]
   workflow_dispatch:
 
 permissions:
@@ -28,6 +28,11 @@ jobs:
         run: |
           mkdir -p app/data
           cp data/races.json data/plz.json app/data/
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Kalenderdateien (.ics) für den iPhone-Kalender erzeugen
+        run: python scripts/ics.py
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
