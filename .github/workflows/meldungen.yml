@@ -1,0 +1,35 @@
+# Sichert jede Nacht die Meldungen aus der App (Supabase) und hält das kostenlose Projekt wach
+# (Supabase pausiert freie Projekte nach einer Woche ohne Zugriff).
+# Die Sicherung geht als privates Artefakt hoch, nicht ins öffentliche Repo.
+# Einmalig nötig: in GitHub unter Settings > Secrets and variables > Actions das Secret SUPABASE_SECRET_KEY anlegen.
+name: Meldungen sichern
+
+on:
+  schedule:
+    - cron: "47 2 * * *"   # 02:47 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  sichern:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Meldungen lesen und Projekt wecken
+        env:
+          SUPABASE_PUBLISHABLE_KEY: sb_publishable_iuxJbdN94igdsBQ5-dtm5g_OxWYWGH9
+          SUPABASE_SECRET_KEY: ${{ secrets.SUPABASE_SECRET_KEY }}
+        run: python scripts/meldungen.py
+      - name: Sicherung als privates Artefakt ablegen
+        if: hashFiles('meldungen-sicherung/meldungen.json') != ''
+        uses: actions/upload-artifact@v4
+        with:
+          name: meldungen-sicherung
+          path: meldungen-sicherung/meldungen.json
+          retention-days: 90
