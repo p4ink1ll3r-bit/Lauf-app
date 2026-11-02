@@ -2126,7 +2126,23 @@
    "course": "Durch die Starzenbachschlucht, über Starnberg, Berg (Votivkapelle) nach Seeshaupt und zurück; bei Leoni wahlweise flacher Uferweg oder 3 km hügeliger Bonus",
    "info": "Anmeldung über Beauftragung/Kontakt beim Veranstalter; inkl. Streckenbeschreibung, GPX, Medaille, Online-Urkunde",
    "bezirk": "Oberbayern",
-   "kreis": "LK Starnberg"
+   "kreis": "LK Starnberg",
+   "gear": [
+    "Dem Wetter, den Temperaturen und dem Untergrund entsprechende Kleidung · empfohlen",
+    "Voll geladenes Handy · empfohlen",
+    "Erste-Hilfe-Set · empfohlen",
+    "Rettungsdecke · empfohlen"
+   ],
+   "gear_levels": [
+    {
+     "km": "Alle Strecken",
+     "level": "empfohlen",
+     "check": "keine Pflichtliste"
+    }
+   ],
+   "gear_stand": "FAQ des Veranstalters 2027",
+   "gear_warn": "Eine Stirnlampe ist laut Veranstalter keine Pflicht. Die FAQ sagt: Handy, Erste-Hilfe-Set und Rettungsdecke auf jeden Fall mitnehmen.",
+   "gear_note": "Quelle: FAQ zum Bavaria Dreikönigslauf, https://www.laufcoaches.com/events/dreik%C3%B6nigslauf"
   },
   {
    "id": "aichacher-dreikonigslauf-2027",
@@ -8265,8 +8281,23 @@
    "pickup": null,
    "parking": null,
    "extras": null,
-   "gear": null,
-   "gear_note": null,
+   "gear": [
+    "Trailrunning-Schuhe mit Profilsohle",
+    "Laufkleidung (Funktionsshirt und -hose)",
+    "Wasserdichte Jacke mit Kapuze, mind. 10.000 mm · ab 23 km",
+    "Trail-Weste oder Laufrucksack · ab 43 km",
+    "Handy voll geladen, mit Nummer des Race-Office und 112",
+    "Erste-Hilfe-Set (Kompresse, Wundauflagen, Handschuhe, Dreieckstuch, Pflaster, Blasenpflaster, Rettungsdecke, Pfeife)",
+    "Ausweis und Krankenversicherungskarte",
+    "GPX-Track auf Uhr oder Handy · ab 43 km",
+    "Trinkbehälter · 1,5 Liter bei 100 km, 1 Liter bei 43 und 60 km, 0,5 Liter bei 23 km",
+    "Eigene Verpflegung · ab 43 km, bei 100 km mind. 500 kcal",
+    "Stirnlampe mit Ersatzbatterien oder zweite Lampe · nur 100 km",
+    "Biwaksack · nur 100 km",
+    "Trockene Langarm-Schicht, getrennt verpackt · bei 100 km zusätzlich zur Schlechtwetter-Ausrüstung",
+    "Lange Hose oder Tights (Shorts mit Beinlingen zählen) · nur 100 km, sonst bei Schlechtwetter-Ansage"
+   ],
+   "gear_note": "Quelle: https://saltytrailrunning.com/en-de/pages/otf-100 und die Seiten der anderen Strecken",
    "profile": null,
    "gpx": null,
    "limit": null,
@@ -8282,7 +8313,36 @@
     "aid": "u. a. Erzherzog-Johann-Klause km 55 (XXL); Drop-Bags für lange Strecken"
    },
    "bezirk": "Oberbayern",
-   "kreis": "LK Rosenheim"
+   "kreis": "LK Rosenheim",
+   "gear_levels": [
+    {
+     "km": "100 km (XXL)",
+     "level": "pflicht",
+     "check": "Kontrolle vor dem Startbereich"
+    },
+    {
+     "km": "60 km (XL)",
+     "level": "pflicht",
+     "check": "Kontrolle vor dem Startbereich"
+    },
+    {
+     "km": "43 km (L)",
+     "level": "pflicht",
+     "check": "Kontrolle vor dem Startbereich"
+    },
+    {
+     "km": "23 km (M)",
+     "level": "pflicht",
+     "check": "Kontrolle vor dem Startbereich"
+    },
+    {
+     "km": "12 km (S)",
+     "level": "pflicht",
+     "check": "kürzere Liste, Kontrolle vor dem Start"
+    }
+   ],
+   "gear_stand": "Veranstalterseite, Streckenseiten 2027",
+   "gear_warn": "Die Schlechtwetter-Ausrüstung wird vom Veranstalter angesagt und ist dann Pflicht: Mütze oder Buff und Handschuhe, eine zusätzliche trockene Langarm-Schicht, lange Hose oder Beinlinge; bei 100 km auch eine Regenhose; bei 12 km die wasserdichte Jacke. Stöcke sind empfohlen. Die Veranstalterseite nennt Strecken mit 12, 23, 43, 60 und 100 km, wir führen 43 km noch nicht."
   },
   {
    "id": "labertal-lauf-2027",
@@ -10440,7 +10500,31 @@
    "source": "https://gotrail.run/de/termine/maintal-ultratrail",
    "checked": "2026-11-02",
    "reg_open": "2026-11-01",
-   "reg_close": "2027-06-30"
+   "reg_close": "2027-06-30",
+   "gear": [
+    "Wasserbehälter mit mind. 1 Liter · ab 30 km",
+    "Trinkbecher · ab 30 km",
+    "Notfallausrüstung: Erste-Hilfe-Set oder 2 Kompressen, 2 Verbandpäckchen, 1 Dreieckstuch, 5 Wundpflaster · ab 30 km",
+    "Handy mit Notfallnummer und Nummer des Organisationsbüros"
+   ],
+   "gear_levels": [
+    {
+     "km": "64 km (Ultra)",
+     "level": "pflicht"
+    },
+    {
+     "km": "30 km",
+     "level": "pflicht"
+    },
+    {
+     "km": "13 km",
+     "level": "pflicht",
+     "check": "nur Handy"
+    }
+   ],
+   "gear_stand": "Vorjahr 2026 · für 2027 noch nicht veröffentlicht",
+   "gear_warn": "Empfohlen: Trailrunning-Schuhe mit Profil, witterungsangepasste Laufbekleidung, Laufrucksack (bei 13 km 0,5 Liter Wasser). Die Teilnahmebedingungen nennen Disqualifikation bei Verstößen. Eine 64-km-Strecke führen wir noch nicht.",
+   "gear_note": "Quelle: https://www.mtut.de/informationen/pflichtausrüstung/"
   },
   {
    "id": "neunkirchner-sommerlauf-lindelberg-trail-2027",
