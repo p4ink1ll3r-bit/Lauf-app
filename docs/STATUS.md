@@ -1,6 +1,6 @@
 # Anmeldestatus der kommenden Läufe
 
-Stand: 02.11.2026 15:15 · 278 kommende Läufe · 70 Anmeldeseiten gelesen · 80 Veranstalterseiten nach einem Anmeldelink durchsucht · 0 Eintrag/Einträge in races.json geändert
+Stand: 02.11.2026 15:22 · 278 kommende Läufe · 90 Anmeldeseiten gelesen · 80 Veranstalterseiten nach einem Anmeldelink durchsucht · 0 Eintrag/Einträge in races.json geändert
 
 ## Heute geändert
 
@@ -42,6 +42,8 @@ Stand: 02.11.2026 15:15 · 278 kommende Läufe · 70 Anmeldeseiten gelesen · 80
 - friedberger-silvesterlauf-2026: RaceResult HTTP Error 404: Not Found
 - traunsteiner-halbmarathon-2027: RaceResult HTTP Error 404: Not Found
 - hoalfinger-sommerlauf-2027: RaceResult HTTP Error 404: Not Found
+- muenchnerauer-abendlauf-2027: RaceResult HTTP Error 404: Not Found
+- simssee-halbmarathon-riedering-2027: RaceResult HTTP Error 429: Too Many Requests
 
 ## Aktuell als ausgebucht vermerkt
 
