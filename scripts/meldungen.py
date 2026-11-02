@@ -66,6 +66,10 @@ def main():
         was = m.get("race_name") or m.get("name") or "?"
         zeilen.append(f"- {m.get('type')}: {was} ({m.get('kind') or 'Lauf fehlt'})")
     zusammenfassung("\n".join(zeilen))
+    ausgabe = os.environ.get("GITHUB_OUTPUT")
+    if ausgabe:
+        with open(ausgabe, "a", encoding="utf-8") as f:
+            f.write(f"neu={len(neu)}\n")
     return 0
 
 

@@ -11,6 +11,7 @@ on:
 
 permissions:
   contents: read
+  issues: write
 
 jobs:
   sichern:
@@ -22,10 +23,21 @@ jobs:
         with:
           python-version: "3.11"
       - name: Meldungen lesen und Projekt wecken
+        id: lesen
         env:
           SUPABASE_PUBLISHABLE_KEY: sb_publishable_iuxJbdN94igdsBQ5-dtm5g_OxWYWGH9
           SUPABASE_SECRET_KEY: ${{ secrets.SUPABASE_SECRET_KEY }}
         run: python scripts/meldungen.py
+      # Bei neuen Meldungen legt GitHub einen Eintrag an und schickt dir dazu eine E-Mail. Absichtlich ohne Inhalt: das Repo ist öffentlich.
+      - name: Bei neuen Meldungen einen Hinweis anlegen
+        if: steps.lesen.outputs.neu != '' && steps.lesen.outputs.neu != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ANZAHL: ${{ steps.lesen.outputs.neu }}
+        run: |
+          gh issue create --repo "${{ github.repository }}" \
+            --title "Race Hunt: ${ANZAHL} neue Meldung(en) in der App" \
+            --body "Schau in Supabase unter Table Editor, Tabelle reports. Hier steht absichtlich kein Inhalt, weil dieses Repo öffentlich ist. Eintrag danach einfach schließen."
       - name: Sicherung als privates Artefakt ablegen
         if: hashFiles('meldungen-sicherung/meldungen.json') != ''
         uses: actions/upload-artifact@v4
