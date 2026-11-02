@@ -1,6 +1,6 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
-const APP_VERSION="v30"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+const APP_VERSION="v31"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
 const DATA_DIR="data/";
 const REPORT_URL="https://gbaoxnsytnzcuxbkdrwc.supabase.co/rest/v1/reports";
 const REPORT_KEY="sb_publishable_iuxJbdN94igdsBQ5-dtm5g_OxWYWGH9";   // öffentlicher Schlüssel: darf nur Meldungen anlegen
@@ -204,6 +204,7 @@ function gearBox(r){
    (r.gearNote?'<span class="src">'+esc(r.gearNote)+'</span>':""))}
 // Ausklappbarer Kasten: zu sieht man nur die Kurzfassung (Pflicht, empfohlen …), auf die Strecken und die Liste kommen beim Aufklappen
 function gearWrap(sum,body){return '<details class="box gearbox"><summary><h3>'+IC.pack+'Pflichtausrüstung</h3><span class="gsum '+sum[1]+'">'+sum[0]+'</span></summary><div class="gbody">'+body+'</div></details>'}
+function flagBtn(id,kind,txt){return '<button type="button" class="flag" data-report="'+id+'" data-kind="'+kind+'">'+IC.flag+(txt||"Falsch?")+'</button>'}
 function missLine(arr,id){return arr.length?'<p class="miss">Noch offen: '+arr.join(", ")+' – wird nachgetragen.<button type="button" class="linkbtn inl" data-report="'+id+'" data-kind="Info ergänzen">Weißt du es? Ergänzen</button></p>':""}
 function V(r,k,suf){const v=r[k];if(!v)return r.na.has(k)?'<span class="na">Keine Angabe des Veranstalters</span>':"";return esc(v)+(suf||"")+(r.prevF.has(k)?' <span class="vj">Vorjahr</span>':"")}
 // Anfahrt: Routen-Knöpfe, auf dem Handy steht die passende Karten-App zuerst
@@ -307,8 +308,8 @@ function openDetail(id){const r=R.find(x=>x.id===id);if(!r)return;if($("detail")
    '<div class="stats">'+tiles+'</div>'+
    '<section class="box"><h3>'+IC.route+'Strecke</h3>'+(r.course?'<div>'+esc(r.course)+'</div>':"")+(r.cutoff?'<div><b>Zeitlimit:</b> '+esc(r.cutoff)+'</div>':"")+'<div class="legs">'+legs+'</div>'+profileSVG(r)+
      (r.gpx?'<div class="btns"><a class="btn" href="'+esc(r.gpx)+'" target="_blank" rel="noopener">GPX-Track '+IC.ext+'</a></div>':"")+'</section>'+
-   '<section class="box"><h3>'+IC.euro+'Anmeldung &amp; Kosten</h3>'+(plist?plist+(r.prevF.has("fee")?'<span class="vj">Vorjahr</span>':""):"")+kvRows(regRows)+missLine(regMiss,r.id)+'</section>'+
-   '<section class="box"><h3>'+IC.flag+'Am Lauftag</h3>'+dayHtml+missLine(dayMiss,r.id)+'</section>'+
+   '<section class="box"><h3>'+IC.euro+'Anmeldung &amp; Kosten'+flagBtn(r.id,"Kosten oder Fristen falsch")+'</h3>'+(plist?plist+(r.prevF.has("fee")?'<span class="vj">Vorjahr</span>':""):"")+kvRows(regRows)+missLine(regMiss,r.id)+'</section>'+
+   '<section class="box"><h3>'+IC.flag+'Am Lauftag'+flagBtn(r.id,"Lauftag-Infos falsch")+'</h3>'+dayHtml+missLine(dayMiss,r.id)+'</section>'+
    '<section class="box"><h3>'+IC.car+'Anfahrt</h3>'+
      '<div class="navaddr">'+NAV_IC.pin+'<div><b>'+esc(loc)+'</b>'+(r.dist==null?"":'<span>'+r.dist+' km Luftlinie ab '+esc(state.home.name.replace(/^\d{5}\s/,""))+'</span>')+'</div></div>'+
      '<div class="navlist">'+(IS_IOS?navBtn(amaps,"Apple Karten",NAV_IC.arrow,true)+navBtn(gmaps,"Google Maps",NAV_IC.pin,false):navBtn(gmaps,"Google Maps",NAV_IC.pin,IS_MOBILE)+navBtn(amaps,"Apple Karten",NAV_IC.arrow,false))+'</div>'+
@@ -320,7 +321,7 @@ function openDetail(id){const r=R.find(x=>x.id===id);if(!r)return;if($("detail")
      (r.rc&&daysTo(r.rc)>=0?'<a class="btn" href="'+esc(gcal("Meldeschluss: "+r.n,r.rc,null,"Letzter Tag zur Anmeldung für "+r.n+" am "+fmt(r.d)+" · "+r.u,""))+'" target="_blank" rel="noopener">Meldeschluss (Google) '+IC.ext+'</a>':"")+'</div><span class="src">Die Apple-Datei enthält Lauftag, Meldeschluss und Anmeldestart, soweit sie noch kommen, mit Erinnerungen: Lauftag eine Woche und einen Tag vorher, Meldeschluss 7, 3 und 1 Tag vorher.</span></section>'+
    ((r.info||r.note)?'<section class="box"><h3>'+IC.info+'Gut zu wissen</h3>'+(r.info?'<div>'+esc(r.info)+'</div>':"")+(r.note?'<div>'+esc(r.note)+'</div>':"")+'</section>':"")+
    '<span class="src">Infos: '+esc(host(r.u))+(r.src?' · Termin-Quelle: '+esc(host(r.src)):"")+(r.checked?' · geprüft am '+fmt(r.checked):"")+'. Angaben ohne Gewähr.</span>'+
-   '<button type="button" class="linkbtn" data-report="'+r.id+'">Fehler in diesen Angaben melden</button>'+
+   '<button type="button" class="reportbig" data-report="'+r.id+'">'+IC.flag+'Stimmt etwas nicht? Melden</button><span class="src rnote">Dauert eine halbe Minute und hilft allen Läufern.</span>'+
   '</div>';
   $("detail").hidden=false;$("detail").scrollTop=0;loadWeather(r,days);document.body.classList.add("locked");$("detail").querySelector("[data-close]").focus({preventScroll:true,focusVisible:false})}
 // Detailseite schließen: kurz zur Seite wegschieben (nur wenn Bewegung erlaubt), dann ausblenden
@@ -410,10 +411,12 @@ function askReg(){const p=state.pendingReg;if(!p||!R.length||!$("asksheet").hidd
   const r=R.find(x=>x.id===p.id);if(!r){state.pendingReg=null;save();return}
   $("asksheet").innerHTML='<div class="in"><div class="grip"></div><h2 id="ask-h">Hast du dich angemeldet?</h2><p class="src"><b>'+esc(r.n)+'</b> · '+longDate(r.d)+'</p>'+
    '<p class="src">Dann landet der Lauf unter „Meine Läufe → Angemeldet“, mit Countdown und Lauftag-Infos.</p>'+
-   '<div class="shareopts"><button class="cta" type="button" data-askyes="'+r.id+'">Ja, ich bin angemeldet</button><button class="btn" type="button" data-askno>Noch nicht</button></div></div>';
+   '<div class="shareopts"><button class="cta" type="button" data-askyes="'+r.id+'">Ja, ich bin angemeldet</button><button class="btn" type="button" data-askno>Noch nicht</button></div>'+
+   '<div class="askflag"><span>Haben Datum und Preis gestimmt?</span><button type="button" class="flag" data-askreport="'+r.id+'">'+IC.flag+'Nein, melden</button></div></div>';
   openSheet("asksheet")}
 $("asksheet").addEventListener("click",e=>{const y=e.target.closest("[data-askyes]");
   if(y){setReg(y.dataset.askyes);state.pendingReg=null;save();closeSheets();render();return}
+  const ar=e.target.closest("[data-askreport]");if(ar){closeSheets();openReport(ar.dataset.askreport,"Kosten oder Fristen falsch");return}
   if(e.target.closest("[data-askno]")){state.pendingReg=null;save();closeSheets()}});
 document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="visible")setTimeout(askReg,400)});
 window.addEventListener("focus",()=>setTimeout(askReg,400));
