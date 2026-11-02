@@ -47,8 +47,21 @@ jobs:
           fi
           LAUFDATEN=$(git diff --cached --name-only | grep -c '^data/races.json$' || true)
           git commit -m "Nächtliche Prüfung: Anmeldestatus und Quellen"
-          git pull --rebase origin main
-          git push origin main
+          # Hat jemand zwischendurch (von Hand) hochgeladen, gewinnt bei Überschneidungen der frisch geprüfte Nachtstand.
+          GESPEICHERT=0
+          for versuch in 1 2 3; do
+            if git pull --rebase -X theirs origin main && git push origin main; then
+              GESPEICHERT=1
+              break
+            fi
+            echo "Versuch $versuch fehlgeschlagen, neuer Anlauf."
+            git rebase --abort 2>/dev/null || true
+            sleep 5
+          done
+          if [ "$GESPEICHERT" != 1 ]; then
+            echo "Speichern ist nach 3 Versuchen fehlgeschlagen."
+            exit 1
+          fi
           if [ "$LAUFDATEN" -gt 0 ]; then
             echo "Laufdaten geändert, App wird neu veröffentlicht."
             gh workflow run deploy.yml --ref main
