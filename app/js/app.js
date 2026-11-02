@@ -1,6 +1,6 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
-const APP_VERSION="v32"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+const APP_VERSION="v33"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
 const DATA_DIR="data/";
 const REPORT_URL="https://gbaoxnsytnzcuxbkdrwc.supabase.co/rest/v1/reports";
 const REPORT_KEY="sb_publishable_iuxJbdN94igdsBQ5-dtm5g_OxWYWGH9";   // öffentlicher Schlüssel: darf nur Meldungen anlegen
@@ -61,7 +61,7 @@ R.forEach(r=>{
 });
 state.favs=state.favs.map(f=>{const m=R.find(r=>r.oldId===f);return m?m.id:f});}
 // „ab 24 €“ aus dem Startgeld-Text: kleinster Erwachsenen-Preis, ohne Kinderläufe, Aufschläge, Staffeln, Extras
-const KIDX=/schüler|bambini|kinder|kids|jugend|\bu\s?\d{1,2}\b|zwerg|flitz|wichtel|hund|dog|staffel|team|pfand|shirt|walking|wandern|hiking|nachmeld|serie|jg\.\s?20(?:09|1\d)/i;
+const KIDX=/schüler|bambini|kinder|kids|jugend|\bu\s?\d{1,2}\b|zwerg|flitz|wichtel|hund|dog|staffel|team|pfand|shirt|walking|walker|wandern|hiking|nachmeld|serie|jg\.\s?20(?:09|1\d)/i;
 function priceFrom(fee){if(!fee)return null;const raw=String(fee);
   if(/übrige.*nicht angegeben/i.test(raw))return null;
   const f=raw.replace(/\([^)]*\)/g," "),vals=[];
