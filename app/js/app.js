@@ -1,6 +1,6 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
-const APP_VERSION="v22"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+const APP_VERSION="v23"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
 const DATA_DIR="data/";
 const REPORT_URL="";
 const APP_URL=location.origin+location.pathname.replace(/index\.html$/,"");
@@ -72,7 +72,7 @@ function priceFrom(fee){if(!fee)return null;const raw=String(fee);
   const v=Math.min(...vals);return{v:Number.isInteger(v)?v:v.toFixed(2).replace(".",","),prev:/vorjahr/i.test(raw)}}
 function priceTxt(p){return p.free?"kostenlos":"ab "+p.v+" €"}
 
-let state={tab:"road",radius:100,home:null,dists:[],time:"all",hm:"all",stat:"all",moreF:false,favs:[],packed:{},reg:[],view:"list",cal:null,calDay:null};
+let state={tab:"road",radius:100,home:null,dists:[],time:"all",hm:"all",stat:"all",moreF:false,favs:[],packed:{},reg:[],view:"list",cal:null,calDay:null,remind:7};
 try{const s=JSON.parse(localStorage.getItem("strail2")||"{}");Object.assign(state,s)}catch(e){}
 if(state.dist&&state.dist!=="all"&&!state.dists.length)state.dists=[state.dist];delete state.dist;   // alte Einzelauswahl der Strecke übernehmen
 try{const o=JSON.parse(localStorage.getItem("strail")||"{}");if(Array.isArray(o.favs)&&!state.favs.length)state.favs=o.favs}catch(e){}
@@ -376,8 +376,10 @@ const HOST_THEME=document.documentElement.getAttribute("data-theme");
 function applyTheme(){const t=state.theme||"auto",el=document.documentElement;
   if(t==="auto"){if(HOST_THEME)el.setAttribute("data-theme",HOST_THEME);else el.removeAttribute("data-theme")}else el.setAttribute("data-theme",t);
   document.querySelectorAll("[data-theme-set]").forEach(b=>b.setAttribute("aria-checked",b.dataset.themeSet===t))}
-$("gear").addEventListener("click",()=>{document.querySelector(".nav .in").dataset.i=3;$("set-stand").textContent=$("stand").textContent+"Aktualisierung jeden Sonntag. App-Version "+APP_VERSION+".";openSheet("setsheet");const c=$("setsheet").querySelector('[aria-checked="true"]');if(c)c.focus()});
-$("setsheet").addEventListener("click",e=>{const b=e.target.closest("[data-theme-set]");if(b){state.theme=b.dataset.themeSet;save();applyTheme()}});
+$("gear").addEventListener("click",()=>{syncRemind();document.querySelector(".nav .in").dataset.i=3;$("set-stand").textContent=$("stand").textContent+"Aktualisierung jeden Sonntag. App-Version "+APP_VERSION+".";openSheet("setsheet");const c=$("setsheet").querySelector('[aria-checked="true"]');if(c)c.focus()});
+$("setsheet").addEventListener("click",e=>{const b=e.target.closest("[data-theme-set]");if(b){state.theme=b.dataset.themeSet;save();applyTheme()}
+  const rb=e.target.closest("[data-remind]");if(rb){state.remind=+rb.dataset.remind;save();syncRemind();render()}});
+$("remind").addEventListener("click",e=>{const o=e.target.closest("[data-open]");if(o)openDetail(o.dataset.open)});
 $("set-done").addEventListener("click",closeSheets);
 // Platzhalter: Punkte, die noch nicht fertig sind, und die Rechtstexte (Inhalt folgt vor dem öffentlichen Start)
 $("setsheet").addEventListener("click",e=>{
@@ -489,6 +491,19 @@ function soonBox(list){
   const soon=list.map(r=>r.ro&&daysTo(r.ro)>=0&&daysTo(r.ro)<=30?{r,k:daysTo(r.ro),t:"Anmeldung öffnet"}:r.rc&&daysTo(r.rc)>=0&&daysTo(r.rc)<=30?{r,k:daysTo(r.rc),t:"Meldeschluss"}:null).filter(Boolean).sort((a,b)=>a.k-b.k);
   return'<section class="soon" aria-label="Fristen"><span class="lbl">Fristen in den nächsten 30 Tagen</span>'+(soon.length?soon.map(x=>'<button type="button" class="soonrow" data-open="'+x.r.id+'"><span>'+x.t+': <b>'+esc(x.r.n)+'</b></span><span>'+(x.k===0?"heute":x.k===1?"morgen":"in "+x.k+" Tagen")+'</span></button>').join(""):'<span class="src">Bei deinen gemerkten Läufen steht gerade keine Frist an.</span>')+'</section>'}
 
+// Erinnerungen in der App: bei gemerkten Läufen naht Anmeldestart, Meldeschluss (state.remind Tage vorher) oder der Lauftag (7 Tage)
+function remindItems(){const days=+state.remind||0;if(!days)return[];const out=[];
+  R.forEach(r=>{if(!state.favs.includes(r.id))return;const reg=state.reg.includes(r.id);
+    if(!reg&&r.ro&&daysTo(r.ro)>=0&&daysTo(r.ro)<=days)out.push({r,k:daysTo(r.ro),t:"Anmeldung öffnet"});
+    if(!reg&&r.rc&&daysTo(r.rc)>=0&&daysTo(r.rc)<=days)out.push({r,k:daysTo(r.rc),t:"Meldeschluss"});
+    const kd=daysTo(r.d);if(r.ok&&kd>=0&&kd<=7)out.push({r,k:kd,t:reg?"Dein Lauf":"Lauftag"})});
+  return out.sort((a,b)=>a.k-b.k)}
+function whenTxt(k){return k===0?"heute":k===1?"morgen":"in "+k+" Tagen"}
+function syncRemind(){document.querySelectorAll("[data-remind]").forEach(b=>b.setAttribute("aria-checked",+b.dataset.remind===+state.remind))}
+// Meine Läufe: je Lauf ein Link auf die Kalenderdatei (Lauftag, Meldeschluss, Anmeldestart mit Erinnerungen)
+function icsBox(list){if(!list.length)return"";
+  return'<section class="soon" aria-label="Kalender"><span class="lbl">Erinnerungen im Kalender</span>'+list.map(r=>'<a class="soonrow" href="ics/'+encodeURIComponent(r.id)+'.ics"><span><b>'+esc(r.n)+'</b></span><span>Kalender</span></a>').join("")+
+    '<span class="src">Tippe auf „Kalender“, dann trägt dein iPhone Lauftag und Meldeschluss mit Erinnerungen ein.</span></section>'}
 function render(){
   if(!R.length)return;const anim=animNext;animNext=false;
   $("radv").textContent=state.radius;$("radius").value=state.radius;
@@ -505,6 +520,9 @@ function render(){
   if(regs.length){const r=regs[0],k=daysTo(r.d);nx.dataset.id=r.id;
     nx.innerHTML='<span class="lbl">Dein nächster Lauf</span><strong>'+esc(r.n)+'</strong><span class="big">'+(k<=0?"Heute":k+"<small>"+(k===1?"Tag":"Tage")+"</small>")+'</span><span class="sub">'+longDate(r.d)+' · '+esc(r.o)+(regs.length>1?' · +'+(regs.length-1)+' weitere':"")+'</span>';nx.hidden=false;if(anim&&k>1)countUp(nx.querySelector(".big"),k)}
   else{nx.hidden=true;nx.dataset.id=""}
+  const rm=$("remind"),ri2=state.tab==="fav"?[]:remindItems().slice(0,4);
+  if(ri2.length){rm.innerHTML='<span class="lbl">Bald dran</span>'+ri2.map(x=>'<button type="button" class="soonrow" data-open="'+x.r.id+'"><span>'+x.t+': <b>'+esc(x.r.n)+'</b></span><span>'+whenTxt(x.k)+'</span></button>').join("");rm.hidden=false}
+  else{rm.innerHTML="";rm.hidden=true}
   document.querySelectorAll(".vb").forEach(b=>b.setAttribute("aria-pressed",b.dataset.v===state.view));
   const inRadius=r=>!H||r.dist<=state.radius;
   const near=live.filter(r=>inRadius(r)&&passFilters(r));
@@ -537,7 +555,7 @@ function render(){
     $("out").innerHTML='<div class="empty">'+msg+'</div>';return}
   let html="",cur="";
   if(favView){const regL=list.filter(r=>state.reg.includes(r.id)),favL=list.filter(r=>!state.reg.includes(r.id));
-    html=soonBox(favL);
+    html=soonBox(favL)+icsBox(list);
     if(regL.length)html+='<h2 class="month">Angemeldet</h2>'+regL.map(r=>card(r,true)).join("");
     if(favL.length)html+='<h2 class="month">Gemerkt</h2>'+favL.map(r=>card(r,true)).join("");
     $("out").innerHTML=html;if(anim)riseIn($("out"));return}

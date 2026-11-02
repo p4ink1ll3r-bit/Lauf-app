@@ -31,6 +31,7 @@
   </div>
 
   <button id="next" class="next" type="button" hidden></button>
+  <section id="remind" class="soon remind" aria-label="Bald dran" hidden></section>
 
   <div class="head">
     <div><h2 id="tag">Straßenläufe</h2><p id="sub"></p></div>
@@ -118,10 +119,15 @@
       <button type="button" class="srow later" data-soon="Startseite"><span>Startseite</span><em>bald</em></button>
       <button type="button" class="srow later" data-soon="Meine Distanzen"><span>Meine Distanzen</span><em>bald</em></button>
     </div></div>
-  <div class="setgrp"><span class="lbl">Erinnerungen</span>
-    <div class="srows">
-      <button type="button" class="srow later" data-soon="Erinnerungen"><span>Meldeschluss &amp; Lauftag</span><em>bald</em></button>
-    </div></div>
+  <div class="setgrp"><span class="lbl" id="rm-l">Erinnerungen in der App</span>
+    <div class="seg seg4" role="radiogroup" aria-labelledby="rm-l">
+      <button type="button" role="radio" data-remind="0">Aus</button>
+      <button type="button" role="radio" data-remind="3">3 Tage</button>
+      <button type="button" role="radio" data-remind="7">7 Tage</button>
+      <button type="button" role="radio" data-remind="14">14 Tage</button>
+    </div>
+    <span class="src">Oben in der App steht „Bald dran“, wenn bei gemerkten Läufen der Anmeldestart oder der Meldeschluss in so vielen Tagen naht, und eine Woche vor dem Lauf. Mitteilungen aufs Handy erhältst du über den Kalender-Knopf auf der Laufseite oder unter „Meine Läufe“.</span>
+  </div>
   <div class="setgrp"><span class="lbl">Meine Daten</span>
     <div class="srows">
       <button type="button" class="srow later" data-soon="Gemerkte Läufe sichern"><span>Gemerkte Läufe sichern</span><em>bald</em></button>

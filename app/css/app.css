@@ -581,6 +581,9 @@ details.more .kv{margin-top:6px}
 .emptyfav .cta{width:auto;padding:11px 22px;margin-top:6px}
 
 /* Hinweise in den Einstellungen */
+.seg.seg4{grid-template-columns:repeat(4,1fr)}
+a.soonrow{text-decoration:none;color:inherit}
+.remind{margin:0 0 12px}
 .srows{display:flex;flex-direction:column;width:100%;background:var(--sunk);border-radius:14px;overflow:hidden}
 .srow{appearance:none;border:0;background:transparent;color:var(--ink);display:flex;justify-content:space-between;align-items:center;gap:10px;padding:13px 14px;font:inherit;font-weight:600;font-size:.95rem;text-align:left;cursor:pointer}
 .srow+.srow{border-top:1px solid var(--line-2)}
