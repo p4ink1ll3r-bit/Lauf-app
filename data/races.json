@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01",
+ "updated": "2026-11-02",
  "region": "Bayern",
  "races": [
   {
@@ -9768,6 +9768,101 @@
    "na": [],
    "bezirk": "Unterfranken",
    "kreis": "Stadt Aschaffenburg"
+  },
+  {
+   "id": "isar-lauf-bad-toelz-lenggries-2027",
+   "type": "road",
+   "name": "Isar-Lauf Bad Tölz – Lenggries",
+   "place": "Bad Tölz",
+   "kreis": "LK Bad Tölz-Wolfratshausen",
+   "bezirk": "Oberbayern",
+   "lat": 47.761,
+   "lon": 11.558,
+   "date": "2027-09-26",
+   "confirmed": false,
+   "prev_date": "2026-09-27",
+   "distances": [
+    "10",
+    "HM",
+    "30"
+   ],
+   "note": "Termin 2027 noch nicht veröffentlicht, geschätzt nach Vorjahr (2026: 18. Isar-Lauf am 27.09.). Veranstalter Ski-Club Lenggries. Zusätzlich 5 km für Sportler mit Behinderung und Kinderläufe (0,5 / 1,4 / 3 km). Streckenbelag nicht belegt",
+   "url": "https://skiclub-lenggries.de/isarlauf/",
+   "source": "https://running.life/de/termine/isarlauf-bad-tolz",
+   "checked": "2026-11-02",
+   "prev": {
+    "start_place": "30 km und 21 km: Start in Bad Tölz; 10 km: Start in Lenggries; Ziel für alle am westlichen Isarufer in Bad Tölz"
+   },
+   "info": "Anmeldung über RaceResult, dazu 5 % Anmeldegebühr (Stand 2026). Busshuttle von Bad Tölz zu den Startorten und Rücktransport der Kleiderbeutel (Stand 2026)"
+  },
+  {
+   "id": "altoettinger-siebzehnruebl-dultlauf-2027",
+   "type": "road",
+   "name": "Altöttinger Siebzehnrübl Dultlauf",
+   "place": "Altötting",
+   "kreis": "LK Altötting",
+   "bezirk": "Oberbayern",
+   "lat": 48.227,
+   "lon": 12.678,
+   "date": "2027-06-06",
+   "confirmed": false,
+   "prev_date": "2026-06-07",
+   "distances": [
+    "10"
+   ],
+   "note": "Termin immer am letzten Hofdult-Sonntag; 2027 noch nicht festgelegt, Prognose aus den Vorjahren. Veranstalter TV Altötting. Auch als Staffel; Start laut Kalender 9:30 Uhr (Jahr der Angabe nicht genannt)",
+   "url": "https://www.hdsports.org/laufen/altoettinger-siebzehnruebl-dultlauf",
+   "source": "https://www.hdsports.org/laufen/altoettinger-siebzehnruebl-dultlauf",
+   "checked": "2026-11-02",
+   "start_place": "Justus-von-Liebig-Straße, 84503 Altötting"
+  },
+  {
+   "id": "crosslauf-burgkirchen-gendorf-2027",
+   "type": "trail",
+   "name": "Crosslauf Burgkirchen/Gendorf",
+   "place": "Burgkirchen an der Alz",
+   "kreis": "LK Altötting",
+   "bezirk": "Oberbayern",
+   "lat": 48.177,
+   "lon": 12.825,
+   "date": "2027-10-23",
+   "confirmed": false,
+   "prev_date": "2026-10-24",
+   "distances": [
+    "5",
+    "7"
+   ],
+   "note": "Termin 2027 noch nicht veröffentlicht, geschätzt nach Vorjahr (2026: Samstag 24.10.). Veranstalter SV Gendorf Burgkirchen; mit Jugend- und Altersklassen",
+   "url": "https://www.crosslauf-is.de/pages/archiv/ausschreibungen/2026/CRL05.php",
+   "source": "https://haid.app/en/events/crosslauf-burgkirchengendorf-mq93i7wq",
+   "checked": "2026-11-02",
+   "prev": {
+    "fee": "Kinder/Jugend U16 3,50 € · Jugend 5 € · Hobbylauf 6 € · Erwachsene 9 €",
+    "start_time": "12:00",
+    "start_place": "Freizeitzentrum Halsbachgraben (Ortsteil Holzen), Burgkirchen an der Alz"
+   },
+   "info": "Nachmeldung und Anmeldung kurz vor dem Start möglich laut Veranstalterseite (Stand 2026)"
+  },
+  {
+   "id": "schweiger-forstlauf-anzing-2027",
+   "type": "road",
+   "name": "Schweiger Forstlauf",
+   "place": "Anzing",
+   "kreis": "LK Ebersberg",
+   "bezirk": "Oberbayern",
+   "lat": 48.17,
+   "lon": 11.867,
+   "date": "2027-10-03",
+   "confirmed": false,
+   "prev_date": "2026-10-03",
+   "distances": [
+    "5",
+    "10"
+   ],
+   "note": "Termin 2027 noch nicht veröffentlicht, geschätzt nach Vorjahren (3.10.2025 und 3.10.2026). Veranstalter LG Sempt. 10 km = Oberbayerische Straßenlaufmeisterschaft, 5 km vermessen, aber keine Meisterschaft. Ort laut den meisten Quellen Anzing (Sportplatz), eine Quelle nennt Vaterstetten",
+   "url": "https://gotrail.run/en/race/schweiger-forstlauf",
+   "source": "https://gotrail.run/en/race/schweiger-forstlauf",
+   "checked": "2026-11-02"
   }
  ]
 }

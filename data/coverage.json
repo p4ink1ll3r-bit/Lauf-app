@@ -207,8 +207,8 @@
                        "bezirk":  "Oberbayern",
                        "prio":  23,
                        "status":  "in Arbeit",
-                       "races":  1,
-                       "checked":  "2026-11-01"
+                       "races":  3,
+                       "checked":  "2026-11-02"
                    },
                    {
                        "kreis":  "LK Bad Tölz-Wolfratshausen",
@@ -216,8 +216,8 @@
                        "bezirk":  "Oberbayern",
                        "prio":  24,
                        "status":  "in Arbeit",
-                       "races":  1,
-                       "checked":  "2026-11-01"
+                       "races":  2,
+                       "checked":  "2026-11-02"
                    },
                    {
                        "kreis":  "LK Berchtesgadener Land",
@@ -243,8 +243,8 @@
                        "bezirk":  "Oberbayern",
                        "prio":  27,
                        "status":  "in Arbeit",
-                       "races":  1,
-                       "checked":  "2026-11-01"
+                       "races":  2,
+                       "checked":  "2026-11-02"
                    },
                    {
                        "kreis":  "LK Eichstätt",

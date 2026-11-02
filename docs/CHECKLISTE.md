@@ -36,11 +36,11 @@ Automatisch erzeugt aus data/coverage.json (Stand 2026-11-02). Nicht von Hand ä
 
 ## Oberbayern (0/23)
 
-- [~] LK Altötting - 1 Läufe, geprüft: 2026-11-01
-- [~] LK Bad Tölz-Wolfratshausen - 1 Läufe, geprüft: 2026-11-01
+- [~] LK Altötting - 3 Läufe, geprüft: 2026-11-02
+- [~] LK Bad Tölz-Wolfratshausen - 2 Läufe, geprüft: 2026-11-02
 - [~] LK Berchtesgadener Land - 3 Läufe, geprüft: 2026-11-01
 - [~] LK Dachau - 2 Läufe, geprüft: 2026-11-01
-- [~] LK Ebersberg - 1 Läufe, geprüft: 2026-11-01
+- [~] LK Ebersberg - 2 Läufe, geprüft: 2026-11-02
 - [~] LK Eichstätt - 1 Läufe, geprüft: 2026-11-01
 - [~] LK Erding - 0 Läufe, geprüft: 2026-11-02
 - [~] LK Freising - 2 Läufe, geprüft: 2026-11-01
