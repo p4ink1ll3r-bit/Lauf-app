@@ -611,10 +611,12 @@ a.soonrow{text-decoration:none;color:inherit}
 .logo .nm,.bar .logo .nm{--rc:var(--brand-run);position:relative;display:inline-block;padding:.02em 0 .5em}
 .logo .nm .s{position:relative;display:inline-block;font-style:italic;margin-right:.42em}
 /* dezente Geschwindigkeitsstreifen vor RACE (scharfe Linien, keine Unschärfe) */
-.nm .s::before,.wlogo b .s::before{content:"";position:absolute;left:-1.3em;top:0;bottom:0;width:1.2em;transform:skewX(-24deg);transform-origin:100% 50%;background:
- linear-gradient(var(--rc),var(--rc)) 100% 20%/1.13em .13em no-repeat,
- linear-gradient(color-mix(in srgb,var(--rc) 70%,transparent),color-mix(in srgb,var(--rc) 70%,transparent)) 100% 50%/.87em .13em no-repeat,
- linear-gradient(color-mix(in srgb,var(--rc) 45%,transparent),color-mix(in srgb,var(--rc) 45%,transparent)) 100% 80%/.61em .13em no-repeat}
+/* Vier spitze Keile HINTER dem R: oben bündig mit der Oberkante der Großbuchstaben (0,19 em), unten mit der Grundlinie (0,90 em).
+   Sie enden im senkrechten Strich des R (Kursiv-Schräge eingerechnet) und scheinen deshalb nicht durch Loch oder Öffnung. */
+.nm .s,.wlogo b .s{isolation:isolate}
+.nm .s::before,.wlogo b .s::before{content:"";position:absolute;left:-1.5em;top:.19em;width:1.755em;height:.71em;z-index:-1;background:var(--rc);
+ -webkit-mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 175.5 71' preserveAspectRatio='none'%3E%3Cpath d='M75 5L175.5 0V10ZM5 25.3L170.4 20.3V30.3ZM40 45.6L165.3 40.6V50.6ZM85 66L160.25 61V71Z'/%3E%3C/svg%3E") no-repeat 0 0/100% 100%;
+ mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 175.5 71' preserveAspectRatio='none'%3E%3Cpath d='M75 5L175.5 0V10ZM5 25.3L170.4 20.3V30.3ZM40 45.6L165.3 40.6V50.6ZM85 66L160.25 61V71Z'/%3E%3C/svg%3E") no-repeat 0 0/100% 100%}
 /* zwei Striche unter beiden Wörtern: erster in Bereichsfarbe bis ins Visier, zweiter weiß und kürzer */
 .nm::before,.nm::after,.wlogo b::before,.wlogo b::after{content:"";position:absolute;height:.11em;right:.04em;clip-path:polygon(0 100%,100% 0,100% 100%)}
 .nm::after,.wlogo b::after{left:-.3em;bottom:.18em;background:var(--rc);transition:background .5s ease}
