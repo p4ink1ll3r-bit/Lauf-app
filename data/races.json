@@ -2522,8 +2522,10 @@
    "pickup": "Vor Ort: Sa ab 08:30 (nur DOG Run), So ab 08:00 (08:00–09:00 nur Hiker)",
    "parking": "Befestigte, kostenfreie Parkplätze im direkten Umfeld des BrombachSeeZeit Resorts",
    "extras": "Umkleiden, Toiletten, Duschen ca. 150 m vom Start/Ziel; GPX-/Komoot-Track ca. eine Woche vorher; Hunde beim DOG Run (Haftpflicht und Impfschutz nötig)",
-   "gear": null,
-   "gear_note": null,
+   "gear": [
+    "Festes Schuhwerk (Trittsicherheit ist Voraussetzung)"
+   ],
+   "gear_note": "Die Ausschreibung 2027 nennt keine weitere Pflichtausrüstung. GPX-Track vorab herunterladen empfohlen. Quelle: https://yeti-trail.de/aussschreibung/",
    "profile": null,
    "gpx": null,
    "limit": null,
@@ -3888,8 +3890,22 @@
    "pickup": null,
    "parking": "Parkplatz ca. 500 m von Start/Ziel (Stand 2026)",
    "extras": null,
-   "gear": null,
-   "gear_note": null,
+   "gear": [
+    "Laufrucksack",
+    "Trailrunningschuhe mit Profilsohle",
+    "Wind-/Regenjacke",
+    "Stirnlampe",
+    "Trinkbehälter, mindestens 1 Liter gefüllt",
+    "Erste-Hilfe-Set mit Rettungsdecke",
+    "Krankenversicherungskarte",
+    "Handschuhe und Mütze (je nach Wetter)",
+    "Handy mit Notfallnummer",
+    "Navigationsuhr mit GPS-Track",
+    "Powerbank",
+    "SOUL Tracking-App",
+    "Streckenkarte (bei schlechtem Wetter)"
+   ],
+   "gear_note": "Pflicht für 74, 55, 38 und 27 km; für 16 und 7 km nur empfohlen. Stirnlampe nur 74 und 55 km, Powerbank nur 74 km. Kontrolle bei 74 und 55 km jeder, sonst Stichproben. Quelle: Reglement 2027, https://www.soul-trail.de/regeln-und-manieren/",
    "profile": null,
    "gpx": null,
    "limit": null,
@@ -4265,8 +4281,15 @@
    "pickup": "Freitag vor dem Lauf ab 17 Uhr, Stadthalle Ebermannstadt (Stand 2024)",
    "parking": "kostenlos (unbewacht) am Parkplatz Ebser Mare",
    "extras": null,
-   "gear": null,
-   "gear_note": null,
+   "gear": [
+    "Handy mit gespeicherter Nummer des Call-Centers",
+    "GPX-fähiges Gerät mit Streckendaten",
+    "Trailrunningschuhe",
+    "Flüssigkeit (mind. 1 Liter)",
+    "Stirnlampe",
+    "Ersatzakku für die Stirnlampe"
+   ],
+   "gear_note": "Je nach Strecke verschieden: 100 km alles; 66 km ohne Stirnlampe und Ersatzakku; 33 km nur 0,5 Liter Flüssigkeit, ohne Stirnlampe; 15 km nur Trailrunningschuhe. Witterungsfeste Kleidung ist nur empfohlen. Stichproben, fehlende Ausrüstung kann den Start kosten. Quelle: Ausschreibung 2027, https://www.ultratrail-fraenkische-schweiz.de/2026/09/18/ausschreibung-2027/",
    "profile": null,
    "gpx": null,
    "limit": "100 km 500, 66 km 550, 33 km 550, 15 km 500 (alle vier Hauptdistanzen ausverkauft)",
@@ -5995,7 +6018,13 @@
     "fee": "54 km 85 €, 23 km 48 €, 12 km 25 € (2025)"
    },
    "bezirk": "Oberpfalz",
-   "checked": "2026-11-01"
+   "checked": "2026-11-01",
+   "gear": [
+    "Trinkbehälter, mindestens 1 Liter (keine Becher an den Verpflegungen)",
+    "Erste-Hilfe-Set mit Pflaster, Wundauflage, Mullbinde, Rettungsdecke",
+    "Handy mit Notfallnummer"
+   ],
+   "gear_note": "Gilt für alle Strecken. Bei Kälte oder Regen dringend empfohlen: Wind-/Regenjacke, Mütze, Handschuhe, lange Hose. Bei schlechter Sicht Streckenkarte mitführen. Stichproben, Zeitstrafe oder Disqualifikation. Quelle: Ausschreibung 2027, https://utlw.de/de/rennen/ausschreibung"
   },
   {
    "id": "kirchberger-kirwalauf-2027",
@@ -6575,8 +6604,23 @@
    "pickup": "Festivalgelände: Fr 23.07. 10–22 Uhr, Sa ab 05:30",
    "parking": "Parkplätze direkt am Festivalgelände",
    "extras": null,
-   "gear": null,
-   "gear_note": null,
+   "gear": [
+    "Laufrucksack",
+    "Trailrunningschuhe mit Profilsohle",
+    "Wind-/Regenjacke",
+    "Stirnlampe",
+    "Trinkbehälter, mindestens 1 Liter gefüllt",
+    "Erste-Hilfe-Set mit Rettungsdecke",
+    "Krankenversicherungskarte",
+    "Handschuhe und Mütze (je nach Wetter)",
+    "Handy mit Notfallnummer",
+    "Navigationsuhr mit GPS-Track",
+    "Powerbank",
+    "3KINGS Tracking-App",
+    "Streckenkarte",
+    "Unterschriebener Haftungsausschluss"
+   ],
+   "gear_note": "Pflicht für 100 Miles, XL, Endurance, Marathon und Base; für Shorty und Traily nur empfohlen; zum Ultra (58 km) nennt das Reglement nichts. Stirnlampe nur 100 Miles, XL, Endurance; Powerbank nur 100 Miles und XL. Kontrolle bei 100 Miles, XL, Endurance jeder, sonst Stichproben. Quelle: Reglement 2027, https://www.3kings-3hills.com/regeln/",
    "profile": null,
    "gpx": null,
    "limit": null,
@@ -7309,8 +7353,15 @@
    "pickup": null,
    "parking": null,
    "extras": null,
-   "gear": null,
-   "gear_note": null,
+   "gear": [
+    "Handy mit Notfallnummer",
+    "Erste-Hilfe-Set mit Rettungsdecke",
+    "Witterungsbedingte Kleidung",
+    "Handschuhe und Mütze",
+    "Becher oder Flasche",
+    "Stirnlampe (ab 18 Uhr Pflicht)"
+   ],
+   "gear_note": "Stand 2026 (Vorjahr), für 2027 noch nicht veröffentlicht: Liste der 102-km- und 66-km-Strecke. Für die kürzeren Strecken (45, 35, 20 km) nicht geprüft. Quelle: https://www.woidlaeufer.de/home/arberland-ultra-trail-elite-race",
    "profile": null,
    "gpx": null,
    "limit": null,
@@ -7657,8 +7708,20 @@
    "pickup": "Bis 15.08.2027 Versand per Post; danach Infostand Fr 14–19 Uhr, Sa 05–10 Uhr",
    "parking": "Am Festsaal sehr begrenzt; Ortsparkplätze 5–10 Min. Fußweg, kostenlos am Reitplatz Blindauer Straße",
    "extras": null,
-   "gear": null,
-   "gear_note": null,
+   "gear": [
+    "Offline-GPX",
+    "Erste-Hilfe-Set mit Rettungsdecke, Pflaster, Wundauflage, Mullbinde",
+    "Eigener Becher oder Flask",
+    "Handy mit ausreichend Akku",
+    "Schuhe mit griffigem Profil",
+    "Ausweis und Krankenversicherungskarte",
+    "Regenjacke mind. 10.000 mm Wassersäule",
+    "Kleidung nach Wetterlage",
+    "Flüssigkeit (0,5 l bis 26 km, 1 l ab 40 km)",
+    "Pfeife (ab 26 km)",
+    "Stirnlampe (nur 73 km)"
+   ],
+   "gear_note": "Bei Kälte kann ein Cold-Weather-Kit verlangt werden: lange Hose, langes Oberteil, Regenjacke, Mütze. Ohne Pflichtausrüstung keine Wertung. Quelle: Veranstalterseite 2027, https://mountainman.de/trailrunning-events/alps/reit-im-winkl/",
    "profile": null,
    "gpx": null,
    "limit": "Hundestarts max. 150; sonst kein Gesamtlimit genannt",
@@ -7819,8 +7882,10 @@
    "pickup": "Sa 25.09. 14–17 Uhr Dr. Stammberger Halle; So ab 10 Uhr bis 15 Min. vor Start am Marktplatz",
    "parking": "EKU-Platz und Tiefgarage (sonntags kostenfrei), Großparkplatz Schwedensteg (kostenfrei)",
    "extras": null,
-   "gear": null,
-   "gear_note": null,
+   "gear": [
+    "Eigener Becher oder Trinkflasche (keine Einwegbecher)"
+   ],
+   "gear_note": "Die Ausschreibung nennt sonst keine Pflichtausrüstung; Trinkrucksack empfohlen. Quelle: https://www.kulmbach-trails.de/ausschreibung/",
    "profile": null,
    "gpx": null,
    "limit": "400 gesamt (Long 100, Short 125, Mini 100, Kids 75)",
@@ -8414,8 +8479,14 @@
    "pickup": null,
    "parking": null,
    "extras": null,
-   "gear": null,
-   "gear_note": null,
+   "gear": [
+    "Trinkgefäße für mindestens 1 Liter",
+    "Griffige Trailrunning-Schuhe mit Profil",
+    "Wetterfeste Laufjacke und herbstgerechte Funktionskleidung",
+    "Erste-Hilfe-Set mit Rettungsdecke, elastischer Binde, Pflastern, Wundkompressen",
+    "Smartphone voll geladen, mit Route zur Offline-Navigation"
+   ],
+   "gear_note": "Stand Rennbriefing 2026 (Vorjahr), gilt für alle Strecken. Stirnlampe (72 km) und Trailstöcke (72 und 50 km) nur empfohlen. Quelle: https://fichtelultra.de/news/briefing",
    "profile": null,
    "gpx": null,
    "limit": null,
@@ -9940,7 +10011,14 @@
    "checked": "2026-11-02",
    "start_place": "Sportplatz TSV Dürrenwaid, Geroldsgrün (Start und Ziel)",
    "included": "Starterpaket (Inhalt nicht genannt)",
-   "info": "Startgeld, Anmeldefrist und Startzeiten stehen laut Kalender in der Ausschreibung des Veranstalters"
+   "info": "Startgeld, Anmeldefrist und Startzeiten stehen laut Kalender in der Ausschreibung des Veranstalters",
+   "gear": [
+    "Laufrucksack mit mind. 1 Liter Flüssigkeit",
+    "Erste-Hilfe-Set mit Pflaster und Verbandsmaterial",
+    "Rettungsdecke",
+    "Handy mit Nummer des Veranstalters"
+   ],
+   "gear_note": "Nur für den Ultra Trail (52 km). Für Mini, Short und Long Trail nennt die Ausschreibung keine Pflichtausrüstung; Trinkbecher und bei Bedarf Regenjacke empfohlen. Quelle: Ausschreibung 2027, https://www.crazyrunners-frankenwaldtrail.de/ausschreibung"
   },
   {
    "id": "muppberg-trailrun-2027",
@@ -9991,7 +10069,12 @@
    "parking": "Kostenlos am Talavera",
    "included": "Elektronische Zeitnahme, Startnummer, Finisher-Medaille, Pokale für die Sieger",
    "extras": "Toiletten, Duschen und Sauna (LIFESTYLE Fitnessclub)",
-   "gear_note": "Keine Stöcke; Stirnlampe und reflektierende Kleidung bei Dunkelheit; keine Einwegbecher, eigene Trinkbehälter mitbringen; höchstens 3 Betreuer gleichzeitig am Camp"
+   "gear_note": "Mindestausrüstung laut Veranstalterseite; ob der Becher Pflicht oder nur eine Bitte ist, geht aus der Seite nicht eindeutig hervor. Stöcke sind nicht erlaubt. Quelle: https://lastlegsultra.de/",
+   "gear": [
+    "Stirnlampe (bei Dunkelheit)",
+    "Warnweste oder reflektierende Kleidung (bei Dunkelheit)",
+    "Mehrwegbecher oder Trinkflasche (keine Einwegbecher)"
+   ]
   },
   {
    "id": "buchental-crosslauf-steinfeld-2027",

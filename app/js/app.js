@@ -1,6 +1,6 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
-const APP_VERSION="v14"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+const APP_VERSION="v15"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
 const DATA_DIR="data/";
 const REPORT_URL="";
 const APP_URL=location.origin+location.pathname.replace(/index\.html$/,"");
@@ -50,6 +50,7 @@ R.forEach(r=>{
   const kms=r.k.map(k=>k==="HM"||/bis HM/.test(k)?21.1:k==="M"?42.2:k==="Backyard"?60:parseFloat(String(k).replace(",",".")));
   r.cls=new Set();kms.filter(x=>!isNaN(x)).forEach(x=>{if(x>=4&&x<=7)r.cls.add("5");else if(x>=8&&x<=12)r.cls.add("10");else if(x>=18&&x<=23)r.cls.add("hm");else if(x>=40&&x<=45)r.cls.add("m");else if(x>45)r.cls.add("ultra");else r.cls.add("o")});
   if(!r.cls.size)r.cls.add("o");
+  r.maxKm=Math.max(0,...kms.filter(x=>!isNaN(x)));
   const hms=(r.hm||[]).filter(x=>x);r.hmMax=hms.length?Math.max(...hms):null;
   r.profs=new Set(hms.map(h=>h<300?"flat":h<=1000?"hilly":"alpine"));
   // Vorjahreswerte füllen Lücken (markiert), „na“ = Veranstalter macht dazu keine Angabe
@@ -176,8 +177,8 @@ function profileSVG(r){const p=r.prof;if(!Array.isArray(p)||p.length<3)return"";
   return '<figure class="prof"><svg viewBox="0 0 '+W+' '+H+'" role="img" aria-label="Höhenprofil von '+lo+' bis '+hi+' Meter über '+maxK+' Kilometer"><path d="M'+pts[0][0]+' '+(H-20)+' L'+pts.map(x=>x.join(" ")).join(" L")+' L'+pts[pts.length-1][0]+' '+(H-20)+'Z" fill="var(--trail-soft)"/><path d="M'+pts.map(x=>x.join(" ")).join(" L")+'" fill="none" stroke="var(--trail)" stroke-width="2.5" stroke-linejoin="round"/>'+
    '<text x="30" y="14" font-size="12" fill="var(--muted)">'+hi+' m</text><text x="30" y="'+(H-4)+'" font-size="12" fill="var(--muted)">0 km</text><text x="'+(W-10)+'" y="'+(H-4)+'" font-size="12" text-anchor="end" fill="var(--muted)">'+maxK+' km</text></svg></figure>'}
 function gearBox(r){
-  if(!r.gear||!r.gear.length){if(r.t!=="trail"||!r.cls.has("ultra"))return"";
-    return '<section class="box"><h3>'+IC.pack+'Pflichtausrüstung</h3><p class="miss">Noch keine Liste erfasst. Bei Ultras gibt es fast immer eine Pflichtausrüstung – sie steht in der Ausschreibung.</p></section>'}
+  if(!r.gear||!r.gear.length){if(r.t!=="trail"||!(r.maxKm>25))return"";
+    return '<section class="box"><h3>'+IC.pack+'Pflichtausrüstung</h3><p class="miss">Noch nicht erfasst. Auf längeren Trailstrecken gibt es meist eine Pflichtausrüstung, sie steht in der Ausschreibung des Veranstalters.'+(r.u?' <a href="'+esc(r.u)+'" target="_blank" rel="noopener">Zur Veranstalterseite</a>':"")+'</p></section>'}
   const done=(state.packed&&state.packed[r.id])||[];
   return '<section class="box"><h3>'+IC.pack+'Pflichtausrüstung</h3><span class="src" id="packcount">'+done.length+' von '+r.gear.length+' eingepackt</span><ul class="pack">'+
    r.gear.map((g,i)=>'<li><label><input type="checkbox" data-pack="'+r.id+'" value="'+i+'"'+(done.includes(i)?" checked":"")+'><span>'+esc(g)+'</span></label></li>').join("")+'</ul>'+
