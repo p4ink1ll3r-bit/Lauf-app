@@ -1,6 +1,6 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
-const APP_VERSION="v13"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+const APP_VERSION="v14"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
 const DATA_DIR="data/";
 const REPORT_URL="";
 const APP_URL=location.origin+location.pathname.replace(/index\.html$/,"");
@@ -48,7 +48,8 @@ function prepare(list){const x0={};list.forEach(x=>x0[x.id]=x);R=list.map(x=>({i
 R.forEach(r=>{
   r.oldId=r.n.toLowerCase().replace(/[^a-z0-9äöüß]+/g,"-")+"-"+r.d.slice(0,4);
   const kms=r.k.map(k=>k==="HM"||/bis HM/.test(k)?21.1:k==="M"?42.2:k==="Backyard"?60:parseFloat(String(k).replace(",",".")));
-  r.cls=new Set();kms.filter(x=>!isNaN(x)).forEach(x=>{if(x>=4&&x<=7)r.cls.add("5");else if(x>=8&&x<=12)r.cls.add("10");else if(x>=18&&x<=23)r.cls.add("hm");else if(x>=40&&x<=45)r.cls.add("m");else if(x>45)r.cls.add("ultra")});
+  r.cls=new Set();kms.filter(x=>!isNaN(x)).forEach(x=>{if(x>=4&&x<=7)r.cls.add("5");else if(x>=8&&x<=12)r.cls.add("10");else if(x>=18&&x<=23)r.cls.add("hm");else if(x>=40&&x<=45)r.cls.add("m");else if(x>45)r.cls.add("ultra");else r.cls.add("o")});
+  if(!r.cls.size)r.cls.add("o");
   const hms=(r.hm||[]).filter(x=>x);r.hmMax=hms.length?Math.max(...hms):null;
   r.profs=new Set(hms.map(h=>h<300?"flat":h<=1000?"hilly":"alpine"));
   // Vorjahreswerte füllen Lücken (markiert), „na“ = Veranstalter macht dazu keine Angabe
@@ -70,25 +71,29 @@ function priceFrom(fee){if(!fee)return null;const raw=String(fee);
   const v=Math.min(...vals);return{v:Number.isInteger(v)?v:v.toFixed(2).replace(".",","),prev:/vorjahr/i.test(raw)}}
 function priceTxt(p){return p.free?"kostenlos":"ab "+p.v+" €"}
 
-let state={tab:"road",radius:100,home:{name:"94330 Aiterhofen",lat:48.845,lon:12.624},dist:"all",time:"all",hm:"all",stat:"all",moreF:false,favs:[],packed:{},reg:[],view:"list",cal:null,calDay:null};
+let state={tab:"road",radius:100,home:null,dists:[],time:"all",hm:"all",stat:"all",moreF:false,favs:[],packed:{},reg:[],view:"list",cal:null,calDay:null};
 try{const s=JSON.parse(localStorage.getItem("strail2")||"{}");Object.assign(state,s)}catch(e){}
+if(state.dist&&state.dist!=="all"&&!state.dists.length)state.dists=[state.dist];delete state.dist;   // alte Einzelauswahl der Strecke übernehmen
 try{const o=JSON.parse(localStorage.getItem("strail")||"{}");if(Array.isArray(o.favs)&&!state.favs.length)state.favs=o.favs}catch(e){}
 function save(){try{localStorage.setItem("strail2",JSON.stringify(state))}catch(e){}}
-const SEL=["dist","time","stat","hm"];
+const SEL=["time","stat","hm"];
+const DNAME={"5":"5 km","10":"10 km","hm":"Halbmarathon","m":"Marathon","ultra":"Ultra","o":"Andere Strecken"};
+const DORDER=["5","10","hm","m","ultra","o"];
 function buildFilters(){SEL.forEach(k=>$("f-"+k).addEventListener("change",e=>{state[k]=e.target.value;save();animNext=true;render()}))}
 function syncFilters(){
   SEL.forEach(k=>{const el=$("f-"+k);el.value=state[k];el.classList.toggle("on",state[k]!=="all")});
   $("w-hm").hidden=state.tab!=="trail";$("filters").hidden=state.tab==="fav"||!state.moreF;}
 // Schnellauswahl über der Liste: Sortierung, häufige Filter, „Mehr Filter“ klappt die Dropdowns auf
-const QUICK=[["time","weekend","Dieses Wochenende"],["time","month","30 Tage"],["dist","5","5 km"],["dist","10","10 km"],["dist","hm","Halbmarathon"],["dist","m","Marathon"],["dist","ultra","Ultra"]];
-function renderQuick(){const q=$("quick"),show=state.tab!=="fav"&&state.view!=="cal";q.hidden=!show;if(!show)return;
-  const adv=(state.stat!=="all"?1:0)+(state.tab==="trail"&&state.hm!=="all"?1:0),sl=q.scrollLeft;   // Scrollposition der Zeile behalten
-  q.innerHTML=QUICK.filter(c=>c[1]!=="ultra"||state.tab==="trail").map(c=>'<button type="button" class="qchip" data-qk="'+c[0]+'" data-qv="'+c[1]+'" aria-pressed="'+(state[c[0]]===c[1])+'">'+c[2]+'</button>').join("")+
-    '<button type="button" class="qchip more" data-more aria-pressed="'+!!state.moreF+'">Mehr Filter'+(adv?" ("+adv+")":"")+'</button>';
-  q.scrollLeft=sl}
+// Zeile über der Liste: welche Strecken gelten ("x von y Läufen"), „Mehr Filter“ klappt die Dropdowns auf
+function renderQuick(shown,total){const q=$("quick"),show=state.tab!=="fav"&&state.view!=="cal";q.hidden=!show;if(!show)return;
+  const adv=(state.time!=="all"?1:0)+(state.stat!=="all"?1:0)+(state.tab==="trail"&&state.hm!=="all"?1:0),ds=DORDER.filter(k=>state.dists.includes(k));
+  const info=ds.length?'<b>'+shown+'</b> von '+total+(total===1?" Lauf":" Läufen")+' · '+ds.map(k=>DNAME[k]).join(", ")+' <button type="button" class="qlink" data-alld>Alle Strecken zeigen</button>':
+    'Alle Strecken <button type="button" class="qlink" data-dsel>Strecke wählen</button>';
+  q.innerHTML='<span class="qinfo">'+info+'</span><button type="button" class="qchip more" data-more aria-pressed="'+!!state.moreF+'">Mehr Filter'+(adv?" ("+adv+")":"")+'</button>'}
 $("quick").addEventListener("click",e=>{
   if(e.target.closest("[data-more]")){state.moreF=!state.moreF;save();render();return}
-  const c=e.target.closest(".qchip[data-qk]");if(c){const k=c.dataset.qk;state[k]=state[k]===c.dataset.qv?"all":c.dataset.qv;save();animNext=true;render()}});
+  if(e.target.closest("[data-alld]")){state.dists=[];save();animNext=true;render();return}
+  if(e.target.closest("[data-dsel]")){$("loc").click()}});
 // Kurze Rückmeldung unten („Gemerkt“, „Startpunkt gesetzt“ …)
 let toastT=null;
 function toast(msg){const t=$("toast");if(!t)return;t.textContent=msg;t.classList.add("on");clearTimeout(toastT);toastT=setTimeout(()=>t.classList.remove("on"),2400)}
@@ -97,8 +102,8 @@ function weekendRange(){const sat=new Date(TODAY),wd=sat.getDay();if(wd!==0&&wd!
 // Karten-Zusatzzeile: kurze Hinweise ja, Daten-Anmerkungen („Ausschreibung nennt …“) gehören nur auf die Detailseite
 const NOTE_HIDE=/Ausschreibung nennt|beim Veranstalter prüfen|widerspr|nicht abrufbar|Quelle/i;
 function cardNote(r){return r.note&&!NOTE_HIDE.test(r.note)?'<div class="meta note">'+esc(r.note)+'</div>':""}
-function passFilters(r){
-  if(state.dist!=="all"&&!r.cls.has(state.dist))return false;
+function passFilters(r,skipDist){
+  if(!skipDist&&state.dists.length&&!state.dists.some(k=>r.cls.has(k)))return false;
   if(state.time==="weekend"){const[a,b]=weekendRange();if(!(dt(r.d)<=b&&dt(r.e||r.d)>=a))return false}
   else if(state.time!=="all"){const lim=new Date(TODAY);if(state.time==="month")lim.setDate(lim.getDate()+30);else if(state.time==="q")lim.setMonth(lim.getMonth()+3);else lim.setFullYear(lim.getFullYear()+1);if(dt(r.d)>lim)return false}
   if(r.t==="trail"&&state.hm!=="all"&&!r.profs.has(state.hm))return false;
@@ -133,7 +138,7 @@ function card(r,favView){
   else dateBox='<div class="leaf '+r.t+(r.ok?"":" est")+'"><span class="m">'+mon+(d.getFullYear()!==TODAY.getFullYear()?" "+String(d.getFullYear()).slice(2):"")+'</span><span class="d'+(end?" range":"")+'">'+day+'</span><span class="w">'+wd+'</span></div>';
   return '<article class="card'+(r.t==="trail"?" trail":"")+'" data-card="'+r.id+'">'+dateBox+
     '<div class="info"><h3><button class="open" type="button" data-open="'+r.id+'">'+esc(r.n)+'</button></h3>'+
-    '<div class="meta"><span>'+esc(r.o)+'</span><span><b>'+r.dist+' km</b> entfernt</span></div>'+
+    '<div class="meta"><span>'+esc(r.o)+'</span>'+(r.dist==null?"":'<span><b>'+r.dist+' km</b> entfernt</span>')+'</div>'+
     '<div class="chips">'+chips+'</div>'+cardNote(r)+
     ((pills||right)?'<div class="row"><span class="pills">'+pills+'</span>'+right+'</div>':"")+'</div>'+
     '<button class="heart" type="button" data-id="'+r.id+'" aria-pressed="'+fav+'" aria-label="'+(fav?"Aus Meine Läufe entfernen":"Merken")+'">'+HEART+'</button></article>';}
@@ -271,7 +276,7 @@ function openDetail(id){const r=R.find(x=>x.id===id);if(!r)return;if($("detail")
      '<button class="rb heart" type="button" data-id="'+r.id+'" aria-pressed="'+fav+'" aria-label="'+(fav?"Aus Meine Läufe entfernen":"Merken")+'">'+HEART+'</button></div></div>'+
      '<div class="top">'+leafHTML(r)+'<div class="tt"><span class="kick">'+(r.t==="trail"?"Trail":"Straße")+' · '+esc(r.o)+'</span><h2 id="d-title">'+esc(r.n)+'</h2><span class="when">'+when+'</span></div></div>'+
      '<div class="pills">'+(r.ok?'<span class="pill ok">Termin bestätigt</span>':'<span class="pill open">Termin offen'+(r.prev?' · Vorjahr '+fmt(r.prev):'')+'</span>')+
-     (reg?'<span class="pill reg">Angemeldet ✓</span>':"")+'<span class="hchip">'+(days<=0?"Heute":"noch <b>"+days+"</b> Tage")+'</span><span class="hchip"><b>'+r.dist+'</b> km entfernt</span></div></div>'+
+     (reg?'<span class="pill reg">Angemeldet ✓</span>':"")+'<span class="hchip">'+(days<=0?"Heute":"noch <b>"+days+"</b> Tage")+'</span>'+(r.dist==null?"":'<span class="hchip"><b>'+r.dist+'</b> km entfernt</span>')+'</div></div>'+
    '<div class="regbar'+(r.u?"":" solo")+'" role="group" aria-label="Anmeldung">'+statusBanner(r)+
      (r.u?'<a class="cta" href="'+esc(r.u)+'" target="_blank" rel="noopener" data-goreg="'+r.id+'">Zur Anmeldung '+IC.ext.replace('<svg','<svg width="16" height="16"')+'</a>':"")+
      '<button type="button" class="regbtn" data-reg="'+r.id+'" aria-pressed="'+reg+'">'+(reg?"✓ Angemeldet":"Ich bin angemeldet")+'</button>'+
@@ -282,7 +287,7 @@ function openDetail(id){const r=R.find(x=>x.id===id);if(!r)return;if($("detail")
    '<section class="box"><h3>'+IC.euro+'Anmeldung &amp; Kosten</h3>'+(plist?plist+(r.prevF.has("fee")?'<span class="vj">Vorjahr</span>':""):"")+kvRows(regRows)+missLine(regMiss,r.id)+'</section>'+
    '<section class="box"><h3>'+IC.flag+'Am Lauftag</h3>'+dayHtml+missLine(dayMiss,r.id)+'</section>'+
    '<section class="box"><h3>'+IC.car+'Anfahrt</h3>'+
-     '<div class="navaddr">'+NAV_IC.pin+'<div><b>'+esc(loc)+'</b><span>'+r.dist+' km Luftlinie ab '+esc(state.home.name.replace(/^\d{5}\s/,""))+'</span></div></div>'+
+     '<div class="navaddr">'+NAV_IC.pin+'<div><b>'+esc(loc)+'</b>'+(r.dist==null?"":'<span>'+r.dist+' km Luftlinie ab '+esc(state.home.name.replace(/^\d{5}\s/,""))+'</span>')+'</div></div>'+
      '<div class="navlist">'+(IS_IOS?navBtn(amaps,"Apple Karten",NAV_IC.arrow,true)+navBtn(gmaps,"Google Maps",NAV_IC.pin,false):navBtn(gmaps,"Google Maps",NAV_IC.pin,IS_MOBILE)+navBtn(amaps,"Apple Karten",NAV_IC.arrow,false))+'</div>'+
      '<button type="button" class="linkbtn" data-copyaddr="'+esc(loc)+'">Adresse kopieren</button></section>'+
    '<section class="box" id="wx"><h3>'+IC.sun+'Wetter in '+esc(r.o)+'</h3><div id="wxbody" class="na">Vorhersage wird geladen …</div>'+
@@ -462,11 +467,12 @@ function render(){
   if(!R.length)return;const anim=animNext;animNext=false;
   $("radv").textContent=state.radius;$("radius").value=state.radius;
   document.querySelectorAll("#rchips button").forEach(b=>b.setAttribute("aria-pressed",+b.dataset.k===state.radius));
+  document.querySelectorAll("#dchips button").forEach(b=>b.setAttribute("aria-pressed",state.dists.includes(b.dataset.k)));
   const H=state.home;
-  const ort=H.name.replace(/^\d{5}\s/,"");$("loc-t").textContent=ort;$("loc-r").textContent="· "+state.radius+" km";$("loc").classList.toggle("long",ort.length>16);
+  const ort=H?H.name.replace(/^\d{5}\s/,""):"Startpunkt wählen";$("loc-t").textContent=ort;$("loc-r").textContent=H?"· "+state.radius+" km":"";$("loc").classList.toggle("long",ort.length>16);
   if(!$("startinfo").classList.contains("err"))$("startinfo").textContent="";
   if((state.onboarded||homeShown)&&document.activeElement!==$("start"))showHome();
-  R.forEach(r=>r.dist=Math.round(km(H.lat,H.lon,r.la,r.lo)));
+  R.forEach(r=>r.dist=H?Math.round(km(H.lat,H.lon,r.la,r.lo)):null);   // ohne Startpunkt: keine Entfernung, kein Umkreis
   const live=R.filter(r=>dt(r.e||r.d)>=TODAY);
   state.favs=state.favs.filter(id=>R.some(r=>r.id===id));state.reg=(state.reg||[]).filter(id=>state.favs.includes(id));
   const regs=live.filter(r=>state.reg.includes(r.id)).sort((a,b)=>a.d.localeCompare(b.d)),nx=$("next");
@@ -474,30 +480,33 @@ function render(){
     nx.innerHTML='<span class="lbl">Dein nächster Lauf</span><strong>'+esc(r.n)+'</strong><span class="big">'+(k<=0?"Heute":k+"<small>"+(k===1?"Tag":"Tage")+"</small>")+'</span><span class="sub">'+longDate(r.d)+' · '+esc(r.o)+(regs.length>1?' · +'+(regs.length-1)+' weitere':"")+'</span>';nx.hidden=false;if(anim&&k>1)countUp(nx.querySelector(".big"),k)}
   else{nx.hidden=true;nx.dataset.id=""}
   document.querySelectorAll(".vb").forEach(b=>b.setAttribute("aria-pressed",b.dataset.v===state.view));
-  const near=live.filter(r=>r.dist<=state.radius&&passFilters(r));
+  const inRadius=r=>!H||r.dist<=state.radius;
+  const near=live.filter(r=>inRadius(r)&&passFilters(r));
   $("n-road").textContent=near.filter(r=>r.t==="road").length;
   $("n-trail").textContent=near.filter(r=>r.t==="trail").length;
   $("n-fav").textContent=state.favs.length;
   document.querySelectorAll(".tab[role=tab]").forEach(b=>b.setAttribute("aria-selected",b.dataset.k===state.tab));
   document.querySelector(".nav .in").dataset.i=["road","trail","fav"].indexOf(state.tab);
-  syncFilters();renderQuick();
+  syncFilters();
   document.body.className="mode-"+state.tab+($("detail").hidden&&$("report").hidden&&$("backdrop").hidden?"":" locked");
-  const active=["dist","time","stat"].filter(k=>state[k]!=="all").length+(state.tab==="trail"&&state.hm!=="all"?1:0);
+  const active=["time","stat"].filter(k=>state[k]!=="all").length+(state.tab==="trail"&&state.hm!=="all"?1:0);
   $("reset").hidden=!active;
   let list,favView=state.tab==="fav";
   if(favView)list=live.filter(r=>state.favs.includes(r.id));
   else list=near.filter(r=>r.t===state.tab);
-  list.sort((a,b)=>a.d.localeCompare(b.d)||a.dist-b.dist);
+  list.sort((a,b)=>a.d.localeCompare(b.d)||(a.dist||0)-(b.dist||0));
+  renderQuick(list.length,live.filter(r=>r.t===state.tab&&inRadius(r)&&passFilters(r,true)).length);
   $("tag").textContent=state.tab==="road"?"Straßenläufe":state.tab==="trail"?"Trails & Bergläufe":"Meine Läufe";
   const hc=t=>'<span class="hchip">'+t+'</span>';
   $("sub").innerHTML=favView?hc("<b>"+state.reg.length+"</b> angemeldet")+hc("<b>"+(state.favs.length-state.reg.length)+"</b> gemerkt"):
-    hc("<b>"+list.length+"</b> "+(list.length===1?"Lauf":"Läufe"))+hc("im Umkreis "+state.radius+" km")+(active?hc("gefiltert"):"");
+    hc("<b>"+list.length+"</b> "+(list.length===1?"Lauf":"Läufe"))+hc(H?"im Umkreis "+state.radius+" km":"ganz Bayern")+(active||state.dists.length?hc("gefiltert"):"");
   if(state.view==="cal"){$("out").innerHTML=calHTML(list,favView);if(anim)riseIn($("out"));return}
   if(!list.length){
-    const nearest=Math.min(...live.map(r=>r.dist));let msg;
+    const nearest=H?Math.min(...live.map(r=>r.dist)):0;let msg;
     if(favView){$("out").innerHTML='<div class="empty emptyfav">'+HEART+'<strong>Noch nichts gemerkt</strong><p>Tippe bei einem Lauf auf das Herz, dann steht er hier mit Fristen und Countdown.</p><button type="button" class="cta" data-goto="road">Läufe ansehen</button></div>';return}
     else if(nearest>200)msg='<strong>Hier sind noch keine Läufe erfasst</strong>Der nächste bekannte Lauf ist '+nearest+' km von '+esc(H.name)+' entfernt. Bisher sind Läufe in Bayern erfasst.';
-    else if(active)msg='<strong>Keine Treffer mit diesen Filtern</strong>Lockere die Filter oder vergrößere den Umkreis.';
+    else if(active||state.dists.length)msg='<strong>Keine Treffer mit diesen Filtern</strong>Lockere die Filter, wähle weitere Strecken oder vergrößere den Umkreis.';
+    else if(!H)msg='<strong>Keine Läufe gefunden</strong>Schau später noch einmal vorbei.';
     else msg='<strong>Keine Läufe im Umkreis von '+state.radius+' km</strong>Tipp oben auf deinen Standort und vergrößere den Umkreis.';
     $("out").innerHTML='<div class="empty">'+msg+'</div>';return}
   let html="",cur="";
@@ -523,6 +532,9 @@ $("out").addEventListener("click",e=>{
 $("radius").addEventListener("input",e=>{state.radius=+e.target.value;save();render()});
 $("rchips").addEventListener("click",e=>{const b=e.target.closest("button");if(!b)return;state.radius=+b.dataset.k;save();render()});
 $("reset").addEventListener("click",()=>{SEL.forEach(k=>state[k]="all");save();render()});
+$("dchips").addEventListener("click",e=>{const b=e.target.closest("button");if(!b)return;const k=b.dataset.k,i=state.dists.indexOf(k);
+  if(i<0)state.dists.push(k);else state.dists.splice(i,1);save();animNext=true;render()});
+$("wsearch").addEventListener("click",()=>{closeSheets();setTimeout(()=>$("q").focus(),80)});
 document.querySelectorAll(".tab[role=tab]").forEach(b=>b.addEventListener("click",()=>{if(state.tab===b.dataset.k)return;state.tab=b.dataset.k;save();animNext=true;render();window.scrollTo({top:0,behavior:RM?"auto":"smooth"})}));
 
 // Startpunkt: PLZ/Ort-Suche (offline)
@@ -538,7 +550,7 @@ function showSugg(){const ul=$("sugg");
   ul.hidden=false;$("start").setAttribute("aria-expanded","true")}
 // Der gewählte Startpunkt steht im Eingabefeld selbst (mit Haken), nicht klein darunter
 let homeShown=false;
-function showHome(){const s=$("start");s.value=state.home.name;s.parentElement.classList.add("gesetzt");homeShown=true}
+function showHome(){if(!state.home)return;const s=$("start");s.value=state.home.name;s.parentElement.classList.add("gesetzt");homeShown=true}
 function choose(e){animNext=true;state.home={name:e.z+" "+e.p,lat:e.la,lon:e.lo};hits=[];sel=-1;showSugg();$("startinfo").classList.remove("err");$("startinfo").textContent="";save();showHome();render();$("start").blur();toast("Startpunkt: "+e.p)}
 $("start").addEventListener("input",e=>{e.target.parentElement.classList.remove("gesetzt");hits=find(e.target.value);sel=hits.length?0:-1;showSugg()});
 $("start").addEventListener("focus",e=>{if(e.target.parentElement.classList.contains("gesetzt"))setTimeout(()=>e.target.select(),0)});

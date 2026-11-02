@@ -446,7 +446,12 @@ input[type=range]{width:100%;accent-color:var(--accent)}
 .rchips button{flex:1;appearance:none;border:1px solid var(--line-2);background:var(--surface);color:var(--ink);border-radius:99px;padding:9px 0;font:700 .95rem var(--body);cursor:pointer;min-height:40px}
 .rchips button[aria-pressed=true]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
 .rscale{display:flex;justify-content:space-between;font-size:.75rem;color:var(--muted);margin-top:-6px}
-.wlogo,.wsub{display:none}
+.wlogo,.wsub,.wsearch{display:none}
+.dlbl{font-weight:700;font-size:.9rem;margin:14px 0 8px}
+.dchips{flex-wrap:wrap}
+.dchips button{flex:1 1 30%;padding:9px 6px;font-size:.88rem}
+.dnote{margin:8px 0 2px;font-size:.78rem;color:var(--muted)}
+#locsheet.welcome .wsearch{display:block;width:100%;margin-top:10px;appearance:none;border:0;background:none;padding:10px;font:700 .9rem var(--body);color:var(--muted);text-decoration:underline;text-underline-offset:3px;cursor:pointer}
 
 /* Erster Start: dasselbe Fenster, als ganzer Bildschirm mit Logo und Begrüßung */
 #locsheet.welcome:not([hidden]){top:0;max-height:none;border-radius:0;display:flex;align-items:center;justify-content:center;padding-top:calc(env(safe-area-inset-top,0px) + 24px)}
@@ -526,8 +531,11 @@ details.more .kv{margin-top:6px}
 .navbtn .go{color:var(--muted);flex:none}
 .navbtn .go svg{width:18px;height:18px}
 /* Sortieren und Schnellfilter */
-.quick{display:flex;gap:8px;overflow-x:auto;scrollbar-width:none;margin-inline:-2px;padding:2px;align-items:center}
-.quick::-webkit-scrollbar{display:none}
+.quick{display:flex;flex-wrap:wrap;gap:6px 10px;margin-inline:-2px;padding:2px;align-items:center;justify-content:space-between}
+.qinfo{flex:1 1 200px;font-size:.84rem;color:var(--muted);line-height:1.4}
+.qinfo b{color:var(--ink)}
+.qlink{appearance:none;border:0;background:none;padding:2px 0;font:700 .84rem var(--body);color:var(--accent-text,var(--ink));text-decoration:underline;text-underline-offset:2px;cursor:pointer;white-space:nowrap}
+.qlink:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 .quick[hidden]{display:none}
 .qchip{flex:none;appearance:none;font:600 .86rem var(--body);color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:99px;padding:7px 13px;cursor:pointer;white-space:nowrap;box-shadow:var(--shadow)}
 .qchip[aria-pressed=true]{background:var(--ink);color:var(--bg);border-color:var(--ink)}

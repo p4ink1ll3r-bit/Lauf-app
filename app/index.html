@@ -44,8 +44,6 @@
   <div class="quick" id="quick" role="group" aria-label="Sortieren und Schnellfilter" hidden></div>
 
   <div class="chips-row" id="filters" aria-label="Weitere Filter" hidden>
-    <label class="fsel"><span class="sr">Distanz</span><select id="f-dist">
-      <option value="all">Distanz</option><option value="5">5 km</option><option value="10">10 km</option><option value="hm">Halbmarathon</option><option value="m">Marathon</option><option value="ultra">Ultra</option></select></label>
     <label class="fsel"><span class="sr">Zeitraum</span><select id="f-time">
       <option value="all">Zeitraum</option><option value="weekend">Dieses Wochenende</option><option value="month">Nächste 30 Tage</option><option value="q">Nächste 3 Monate</option><option value="year">Nächste 12 Monate</option></select></label>
     <label class="fsel" id="w-hm"><span class="sr">Profil</span><select id="f-hm">
@@ -94,7 +92,13 @@
   </div>
   <input id="radius" type="range" min="10" max="200" step="5" value="100" aria-label="Umkreis in Kilometern, genau einstellen">
   <div class="rscale"><span>10 km</span><span>200 km</span></div>
+  <div class="dlbl" id="ds-l">Was möchtest du laufen?</div>
+  <div class="rchips dchips" id="dchips" role="group" aria-labelledby="ds-l">
+    <button type="button" data-k="5" aria-pressed="false">5 km</button><button type="button" data-k="10" aria-pressed="false">10 km</button><button type="button" data-k="hm" aria-pressed="false">Halbmarathon</button><button type="button" data-k="m" aria-pressed="false">Marathon</button><button type="button" data-k="ultra" aria-pressed="false">Ultra</button><button type="button" data-k="o" aria-pressed="false">Andere</button>
+  </div>
+  <p class="dnote">Nichts gewählt zeigt alle Strecken. Du kannst das jederzeit ändern.</p>
   <button class="cta" id="loc-done" type="button">Fertig</button>
+  <button class="wsearch" id="wsearch" type="button">Du kennst schon einen Lauf? Direkt suchen</button>
 </div></div>
 <div id="sharesheet" class="bsheet" role="dialog" aria-modal="true" aria-labelledby="sh-h" hidden></div>
 <div id="asksheet" class="bsheet" role="dialog" aria-modal="true" aria-labelledby="ask-h" hidden></div>
