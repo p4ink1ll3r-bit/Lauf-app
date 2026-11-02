@@ -603,19 +603,22 @@ a.soonrow{text-decoration:none;color:inherit}
 
 /* Kopfleiste: Logo links, Suche und Glocke rechts, Startpunkt als schmale Zeile */
 .bar .in{display:grid;grid-template-columns:1fr auto auto;align-items:center;gap:10px 8px;padding-bottom:12px}
-.bar .logo,.bar .ibtn{grid-row:1}
+.bar .logo{grid-row:1;grid-column:1/-1}
+.bar .ibtn{grid-row:2}
 .bar #sbtn{grid-column:2}.bar #bell{grid-column:3}
-.bar .in .loc{grid-row:2}
+.bar .in .loc{grid-row:2;grid-column:1;min-width:0}
 .head{padding:11px 12px 10px}
 .head h2{font-size:1.5rem}
 .head p{margin:6px 0 0;gap:5px;flex-wrap:wrap}
 .head>div:first-child{min-width:0;flex:1 1 auto}
 .head p .chip{font-size:.7rem;padding:1px 7px}
-.bar .logo{grid-column:1;width:auto;align-items:flex-start;text-align:left;font-size:1.8rem;gap:5px}
-.bar .logo .claim{justify-content:flex-start;white-space:nowrap}
-.bar .in .loc{grid-column:1/-1;padding:7px 12px 7px 10px;gap:9px}
+.bar .logo{width:100%;align-items:center;text-align:center;font-size:1.9rem;gap:5px}
+.bar .logo .claim{justify-content:center;white-space:nowrap}
+.bar .in .loc{padding:7px 12px 7px 10px;gap:9px}
 .bar .loc .pin{width:20px;height:20px}
 .bar .loc .k{display:none}
+.bar .loc .chg{font-size:0;gap:0}.bar .loc .chg .ico{width:22px;height:22px}
+.bar .loc .v{flex-wrap:nowrap}
 .bar .loc .v{font-size:1rem}
 .ibtn{appearance:none;position:relative;border:0;width:42px;height:42px;border-radius:14px;background:var(--brand-chip);color:var(--brand-fg);display:grid;place-items:center;cursor:pointer}
 .ibtn .ico{width:22px;height:22px}
