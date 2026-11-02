@@ -1,6 +1,6 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
-const APP_VERSION="v25"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+const APP_VERSION="v26"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
 const DATA_DIR="data/";
 const REPORT_URL="";
 const APP_URL=location.origin+location.pathname.replace(/index\.html$/,"");
@@ -380,7 +380,9 @@ $("gear").addEventListener("click",()=>{syncRemind();document.querySelector(".na
 $("setsheet").addEventListener("click",e=>{const b=e.target.closest("[data-theme-set]");if(b){state.theme=b.dataset.themeSet;save();applyTheme()}
   const rb=e.target.closest("[data-remind]");if(rb){state.remind=+rb.dataset.remind;save();syncRemind();render()}});
 $("remind").addEventListener("click",e=>{const o=e.target.closest("[data-open]");if(o)openDetail(o.dataset.open)});
-$("bell").addEventListener("click",()=>{$("bl-t").innerHTML=remindItems().map(x=>'<button type="button" class="soonrow" data-open="'+x.r.id+'"><span>'+x.t+': <b>'+esc(x.r.n)+'</b></span><span class="'+urg(x.k)+'">'+whenTxt(x.k)+'</span></button>').join("");openSheet("bellsheet")});
+$("bell").addEventListener("click",()=>{const its=remindItems();state.seen={};its.forEach(x=>{state.seen[x.r.id+"|"+x.t]=urg(x.k)});save();
+  $("bell-n").hidden=true;$("bell").classList.remove("wig");
+  $("bl-t").innerHTML=its.map(x=>'<button type="button" class="soonrow" data-open="'+x.r.id+'"><span>'+x.t+': <b>'+esc(x.r.n)+'</b></span><span class="'+urg(x.k)+'">'+whenTxt(x.k)+'</span></button>').join("");openSheet("bellsheet")});
 $("bl-t").addEventListener("click",e=>{const o=e.target.closest("[data-open]");if(o){closeSheets();openDetail(o.dataset.open)}});
 $("bl-done").addEventListener("click",closeSheets);
 $("sbtn").addEventListener("click",()=>{$("field").hidden=false;$("q").focus()});
@@ -505,6 +507,9 @@ function remindItems(){const days=+state.remind||0;if(!days)return[];const out=[
   return out.sort((a,b)=>a.k-b.k)}
 function whenTxt(k){return k===0?"heute":k===1?"morgen":"in "+k+" Tagen"}
 function urg(k){return k<=1?"u3":k<=3?"u2":"u1"}
+// Glocke: eine Frist gilt als gesehen, bis sie in die nächste Stufe (gelb, orange, rot) rutscht
+let wigDone=false,wigOn=false;
+function seenKey(x){return(state.seen||{})[x.r.id+"|"+x.t]}
 function syncRemind(){document.querySelectorAll("[data-remind]").forEach(b=>b.setAttribute("aria-checked",+b.dataset.remind===+state.remind))}
 // Meine Läufe: je Lauf ein Link auf die Kalenderdatei (Lauftag, Meldeschluss, Anmeldestart mit Erinnerungen)
 function icsBox(list){if(!list.length)return"";
@@ -529,7 +534,9 @@ function render(){
   const rAll=remindItems(),rm=$("remind"),ri2=state.tab==="fav"?[]:rAll.filter(x=>x.k<=3).slice(0,6),bl=$("bell");
   if(ri2.length){rm.innerHTML=ri2.map(x=>'<button type="button" class="sc '+urg(x.k)+'" data-open="'+x.r.id+'"><b>'+whenTxt(x.k)+'</b><span>'+x.t+' · '+esc(x.r.n)+'</span></button>').join("");rm.hidden=false}
   else{rm.innerHTML="";rm.hidden=true}
-  bl.hidden=!rAll.length;bl.className="ibtn bell "+(rAll.length?urg(rAll[0].k):"");$("bell-n").textContent=rAll.length;
+  const fresh=rAll.filter(x=>seenKey(x)!==urg(x.k)).length;
+  if(fresh&&!wigDone){wigDone=true;wigOn=true;setTimeout(()=>{wigOn=false;bl.classList.remove("wig")},1600)}
+  bl.hidden=!rAll.length;bl.className="ibtn bell "+(rAll.length?urg(rAll[0].k):"")+(fresh&&wigOn?" wig":"");$("bell-n").textContent=fresh;$("bell-n").hidden=!fresh;
   document.querySelectorAll(".vb").forEach(b=>b.setAttribute("aria-pressed",b.dataset.v===state.view));
   const inRadius=r=>!H||r.dist<=state.radius;
   const near=live.filter(r=>inRadius(r)&&passFilters(r));

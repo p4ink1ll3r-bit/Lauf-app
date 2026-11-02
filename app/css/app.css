@@ -632,6 +632,9 @@ a.soonrow{text-decoration:none;color:inherit}
 .sc.u3{border-color:var(--red);background:color-mix(in srgb,var(--red) 12%,var(--surface))}.sc.u3 b{color:var(--red)}
 .sc.u2{border-color:var(--hot);background:var(--hot-soft)}.sc.u2 b{color:var(--hot)}
 .sc.u1{border-color:var(--warn);background:var(--warn-soft)}.sc.u1 b{color:var(--warn)}
+.ibtn .bd[hidden]{display:none}
+@media (prefers-reduced-motion:no-preference){.bell.wig .ico{transform-origin:50% 15%;animation:wig .5s ease-in-out 3}}
+@keyframes wig{0%,100%{transform:rotate(0)}25%{transform:rotate(16deg)}75%{transform:rotate(-16deg)}}
 #bl-t{margin:6px 0 14px}
 #bl-t .soonrow{width:100%}
 
