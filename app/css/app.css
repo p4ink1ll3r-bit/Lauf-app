@@ -608,12 +608,15 @@ a.soonrow{text-decoration:none;color:inherit}
 .hints{margin:0;padding-left:18px;display:flex;flex-direction:column;gap:6px;font-size:.85rem;color:var(--muted)}
 
 /* Wortmarke Race Hunt: RACE verwischt (Schatten nach links), HUNT scharf, darunter Strichweg zum Pin */
-.logo .nm{position:relative;display:inline-block;font-style:italic;padding-bottom:.5em}
-.logo .nm .s{margin-right:.22em;text-shadow:-.14em 0 0 color-mix(in srgb,var(--brand-run) 50%,transparent),-.28em 0 0 color-mix(in srgb,var(--brand-run) 26%,transparent),-.42em 0 0 color-mix(in srgb,var(--brand-run) 13%,transparent)}
-.logo .nm::after{content:"";position:absolute;left:0;right:.7em;bottom:.02em;height:.1em;border-radius:2px;background:repeating-linear-gradient(90deg,var(--brand-run) 0 .55em,transparent .55em .9em);transition:background .5s ease}
-.logo .nm::before{content:"";position:absolute;right:0;bottom:-.1em;width:.34em;height:.34em;border-radius:50%;background:radial-gradient(circle,var(--brand-bg) 0 28%,var(--brand-run) 32%)}
-#locsheet.welcome .wlogo b{font-style:italic}
-#locsheet.welcome .wlogo b .s{margin-right:.2em;text-shadow:-.12em 0 0 color-mix(in srgb,var(--accent) 50%,transparent),-.24em 0 0 color-mix(in srgb,var(--accent) 26%,transparent),-.36em 0 0 color-mix(in srgb,var(--accent) 13%,transparent)}
+.logo .nm{display:inline-block;padding:.02em 0}
+.logo .nm .s{display:inline-block;font-style:italic;margin-right:.42em;text-shadow:-.14em 0 0 color-mix(in srgb,var(--brand-run) 50%,transparent),-.28em 0 0 color-mix(in srgb,var(--brand-run) 26%,transparent),-.42em 0 0 color-mix(in srgb,var(--brand-run) 13%,transparent)}
+/* HUNT im Sucher: vier Eckwinkel */
+.nm .h,.wlogo b .h{display:inline-block;padding:.1em .3em;background:
+ linear-gradient(currentColor,currentColor) 0 0/.3em .07em,linear-gradient(currentColor,currentColor) 0 0/.07em .3em,
+ linear-gradient(currentColor,currentColor) 100% 0/.3em .07em,linear-gradient(currentColor,currentColor) 100% 0/.07em .3em,
+ linear-gradient(currentColor,currentColor) 0 100%/.3em .07em,linear-gradient(currentColor,currentColor) 0 100%/.07em .3em,
+ linear-gradient(currentColor,currentColor) 100% 100%/.3em .07em,linear-gradient(currentColor,currentColor) 100% 100%/.07em .3em;background-repeat:no-repeat}
+#locsheet.welcome .wlogo b .s{display:inline-block;font-style:italic;margin-right:.4em;text-shadow:-.12em 0 0 color-mix(in srgb,var(--accent) 50%,transparent),-.24em 0 0 color-mix(in srgb,var(--accent) 26%,transparent),-.36em 0 0 color-mix(in srgb,var(--accent) 13%,transparent)}
 /* Kopfleiste: Logo links, Suche und Glocke rechts, Startpunkt als schmale Zeile */
 .bar .in{display:grid;grid-template-columns:1fr auto auto;align-items:center;gap:10px 8px;padding-bottom:12px}
 .bar .logo{grid-row:1;grid-column:1/-1}
