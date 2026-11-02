@@ -609,8 +609,8 @@ a.soonrow{text-decoration:none;color:inherit}
 
 /* Wortmarke Race Hunt: Grafik aus den echten Buchstabenformen der Schrift (RACE schräg mit Keilen, HUNT im Sucher, zwei Striche).
    Farben: RACE, Keile und erster Strich = --rc, HUNT, Sucher und zweiter Strich = currentColor. */
-.rhm{display:block;width:min(74vw,272px);height:auto;--rc:var(--brand-run);color:#fff;overflow:visible}
-#locsheet.welcome .wlogo .rhm{--rc:var(--accent);color:var(--ink);width:min(72vw,270px)}
+.rhm{display:block;width:min(88vw,332px);max-width:100%;height:auto;--rc:var(--brand-run);color:#fff;overflow:visible}
+#locsheet.welcome .wlogo .rhm{--rc:var(--accent);color:var(--ink);width:min(88vw,332px)}
 /* Kopfleiste: Logo links, Suche und Glocke rechts, Startpunkt als schmale Zeile */
 .bar .in{display:grid;grid-template-columns:1fr auto auto;align-items:center;gap:10px 8px;padding-bottom:12px}
 .bar .logo{grid-row:1;grid-column:1/-1}
