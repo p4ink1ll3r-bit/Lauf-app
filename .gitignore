@@ -8,6 +8,7 @@ app/data/
 # Privat: bleibt nur lokal
 CLAUDE.md
 docs/UEBERGABE.md
+docs/DATENSCHUTZ_ENTWURF.md
 
 # Lokal: eigene Arbeitsanleitungen
 .claude/skills/
