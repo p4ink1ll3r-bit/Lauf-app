@@ -1,18 +1,15 @@
 # Änderungen auf Veranstalterseiten
 
-Stand: 02.11.2026 00:38 · 248 Seiten geprüft · 3 geändert · 205 unverändert · 1 neu im Bestand · 32 nicht abrufbar · 7 per robots.txt gesperrt
+Stand: 02.11.2026 03:00 · 248 Seiten geprüft · 2 geändert · 207 unverändert · 0 neu im Bestand · 32 nicht abrufbar · 7 per robots.txt gesperrt
 
 ## Geändert
 
-- **hobby-crosslauf-jetzendorf-2026** – https://tsv-jetzendorf.com/leichtathletik/  (nennt jetzt das Jahr des Laufs)
-  - neu: 2.november2026
-  - weg: 1.november2026
-- **silvesterlauf-munchen-2026** – https://www.mrrc-muenchen.de/de/silvesterlauf/
-  - neu: –
-  - weg: startplätze
-- **freisinger-strassenlauf-2027** – https://www.tsv-jahn-freising.de/abteilungen/triathlon/strassenlauf/  (nennt jetzt das Jahr des Laufs)
-  - neu: 24.10.2027, 25.oktober
-  - weg: 23.august, 24.oktober2026, 25.oktober2026, €10, 2026, anmeldeschluss, meldeschluss, nachmeldung, 11:05, 11:20, 11:20uhr, 11:30uhr, 12:05uhr, 13:05uhr, 13:20uhr
+- **djk-domlauf-passau-2027** – https://www.domlauf-passau.de
+  - neu: 02.november2026
+  - weg: 01.november2026
+- **dreiburgenland-marathon-2027** – https://www.hotel-schuerger.de  (nennt jetzt das Jahr des Laufs)
+  - neu: 02.11.2026
+  - weg: 01.11.2026
 
 ## Nicht abrufbar
 
@@ -65,7 +62,6 @@ Stand: 02.11.2026 00:38 · 248 Seiten geprüft · 3 geändert · 205 unveränder
 - dreiburgenland-marathon-2027 – https://www.hotel-schuerger.de
 - walhallalauf-2027 – https://www.walhallalauf.de/
 - intern-jennerberglauf-2027 – https://www.skberchtesgaden.de/
-- freisinger-strassenlauf-2027 – https://www.tsv-jahn-freising.de/abteilungen/triathlon/strassenlauf/
 - maisels-funrun-bayreuth-2027 – https://www.maisels-funrun.de
 - aschaffenburger-sparkassen-halbmarathon-2027 – https://hm-ab.de
 
