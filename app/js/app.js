@@ -1,6 +1,6 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
-const APP_VERSION="v40"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+const APP_VERSION="v41"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
 const DATA_DIR="data/";
 const REPORT_URL="https://gbaoxnsytnzcuxbkdrwc.supabase.co/rest/v1/reports";
 const REPORT_KEY="sb_publishable_iuxJbdN94igdsBQ5-dtm5g_OxWYWGH9";   // öffentlicher Schlüssel: darf nur Meldungen anlegen
@@ -470,6 +470,16 @@ async function shareRace(id){const r=R.find(x=>x.id===id);if(!r)return;const lin
    '<button class="btn" type="button" data-copyshare>'+IC.copy+'Text kopieren</button></div>'+
    '<textarea readonly rows="4" class="copy" id="sharetxt">'+esc(full)+'</textarea><button class="back" type="button" data-shclose>Schließen</button></div>';
   openSheet("sharesheet")}
+// App weiterempfehlen (Einstellungen): gleiche Wege wie beim Lauf teilen
+async function shareApp(){const txt="Race Hunt: alle Straßen- und Trailläufe in Bayern mit Terminen, Startgeld und Meldeschluss. Kostenlos, ohne Anmeldung.";
+  if(navigator.share){try{await navigator.share({title:"Race Hunt",text:txt,url:APP_URL});return}catch(e){if(e&&e.name==="AbortError")return}}
+  const full=txt+"\n"+APP_URL;$("setsheet").hidden=true;
+  $("sharesheet").innerHTML='<div class="in"><div class="grip"></div><h2 id="sh-h">App weiterempfehlen</h2><p class="src">Schick die App an Freunde und Lauftreff.</p><div class="shareopts">'+
+   '<a class="btn" href="https://wa.me/?text='+encodeURIComponent(full)+'" target="_blank" rel="noopener">'+IC.whatsapp+'Per WhatsApp schicken</a>'+
+   '<button class="btn" type="button" data-copyshare>'+IC.copy+'Text kopieren</button></div>'+
+   '<textarea readonly rows="4" class="copy" id="sharetxt">'+esc(full)+'</textarea><button class="back" type="button" data-shclose>Schließen</button></div>';
+  openSheet("sharesheet")}
+$("set-share").addEventListener("click",shareApp);
 $("sharesheet").addEventListener("click",async e=>{if(e.target.closest("[data-shclose]")){closeSheets();return}
   const c=e.target.closest("[data-copyshare]");if(c){const t=$("sharetxt");try{await navigator.clipboard.writeText(t.value);c.innerHTML=IC.copy+"Kopiert ✓"}catch(err){t.focus();t.select();c.innerHTML=IC.copy+"Text markiert – jetzt kopieren"}}});
 document.addEventListener("keydown",e=>{if(e.key!=="Escape")return;if(!$("backdrop").hidden)closeSheets();else if(!$("report").hidden)closeReport();else closeDetail()});
