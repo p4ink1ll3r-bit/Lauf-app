@@ -172,7 +172,14 @@
    "late_reg": null,
    "info": "46 km 08:00, 23 km 10:00, 13 km 11:30, 6 km 11:45",
    "bezirk": "Mittelfranken",
-   "kreis": "LK Roth"
+   "kreis": "LK Roth",
+   "gear_levels": [
+    {
+     "km": "46 und 23 km",
+     "level": "empfohlen",
+     "check": "keine Pflicht"
+    }
+   ]
   },
   {
    "id": "ronsberger-crosslauf-2026",
@@ -1031,18 +1038,18 @@
    "parking": "Sa: sehr wenige Parkplätze, Parken am PEZ nicht erlaubt – ÖPNV oder kostenloser Shuttle ab Parkplätzen Happurger Bagger-/Stausee (Parken dort kostenpflichtig). So: ca. 300 kostenlose Plätze am PEZ, Happurger Str. 15 (ca. 850 m). S1 bis Pommelsbrunn, ca. 1,8 km Fußweg",
    "extras": "Double Challenge (Sa+So); Hunde auf S/M (max. 120) und Wichtel-Trail, nicht auf L/XL; Wanderer auf S/M/L; Expo; Sportograf-Fotos; Flexi-Storno-Optionen; Mindestalter 18",
    "gear": [
-    "Pfeife (M/L/XL)",
-    "Trinkmenge 1 l (L/XL) bzw. 0,5 l (M/S)",
-    "GPX offline",
+    "Offline-GPX",
     "Erste-Hilfe-Set mit Rettungsdecke, Pflaster, Wundauflage, Mullbinde",
-    "Eigener Becher",
-    "Geladenes Handy",
+    "Eigener Becher oder Flasche",
+    "Handy mit ausreichend Akku",
     "Griffige Schuhe",
     "Ausweis und Krankenkassenkarte",
     "Regenjacke mind. 10.000 mm Wassersäule",
-    "Wetterangepasste Kleidung"
+    "Kleidung nach Wetterlage",
+    "Flüssigkeit · 0,5 Liter bei 12 und 17 km, 1 Liter bei 32 und 43 km",
+    "Pfeife · ab 17 km"
    ],
-   "gear_note": null,
+   "gear_note": "Quelle: https://mountainman.de/trailrunning-events/hills/nikolaustrail-pommelsbrunn/",
    "profile": null,
    "gpx": null,
    "limit": "Startplätze mit Hund max. 120 (S/M); Gesamtlimit nicht angegeben",
@@ -1052,7 +1059,16 @@
    "late_reg": "Möglich, 20 € Aufschlag",
    "info": "Sa 05.12.: XL 43 km 08:00, L 32 km 09:30 (Abschnitt Startzeiten nennt 09:00), Family Wichtel-Trail 5 km 11:00; So 06.12.: M 17 km 09:00 (Hunde 12:00), S 12 km 10:00 (Hunde 13:00)",
    "bezirk": "Mittelfranken",
-   "kreis": "LK Nürnberger Land"
+   "kreis": "LK Nürnberger Land",
+   "gear_levels": [
+    {
+     "km": "Alle Strecken (12 bis 43 km)",
+     "level": "pflicht",
+     "check": "Stichproben jederzeit möglich"
+    }
+   ],
+   "gear_stand": "Veranstalterseite 2026",
+   "gear_warn": "Ohne Pflichtausrüstung gibt es keine Wertung, Ausschluss vom Start ist möglich."
   },
   {
    "id": "nikolaus-waldlauf-weissenbrunn-2026",
@@ -2471,13 +2487,13 @@
    "extras": null,
    "gear": [
     "Erste-Hilfe-Set mit Rettungsdecke",
-    "Eigener Becher oder Flasche",
-    "Stirnlampe (3H, 6H, 12H)",
+    "Eigener Becher oder Flask",
     "Handy",
     "Ausweis",
-    "Versichertenkarte"
+    "Versichertenkarte",
+    "Stirnlampe · nur 3H, 6H, 12H"
    ],
-   "gear_note": "Mindestalter 18.",
+   "gear_note": "Quelle: https://mountainman.de/trailrunning-events/alps/winterloop-reit-im-winkl/",
    "profile": null,
    "gpx": null,
    "limit": null,
@@ -2490,7 +2506,16 @@
     "limit"
    ],
    "bezirk": "Oberbayern",
-   "kreis": "LK Traunstein"
+   "kreis": "LK Traunstein",
+   "gear_levels": [
+    {
+     "km": "Alle Strecken",
+     "level": "pflicht",
+     "check": "allgemeine Liste, nicht nach Strecke getrennt"
+    }
+   ],
+   "gear_stand": "Veranstalterseite 2027",
+   "gear_warn": "Grödel sind nur empfohlen. Mindestalter 18."
   },
   {
    "id": "yeti-trail-2027",
@@ -2523,9 +2548,9 @@
    "parking": "Befestigte, kostenfreie Parkplätze im direkten Umfeld des BrombachSeeZeit Resorts",
    "extras": "Umkleiden, Toiletten, Duschen ca. 150 m vom Start/Ziel; GPX-/Komoot-Track ca. eine Woche vorher; Hunde beim DOG Run (Haftpflicht und Impfschutz nötig)",
    "gear": [
-    "Festes Schuhwerk (Trittsicherheit ist Voraussetzung)"
+    "Festes Schuhwerk · Trittsicherheit ist Voraussetzung"
    ],
-   "gear_note": "Die Ausschreibung 2027 nennt keine weitere Pflichtausrüstung. GPX-Track vorab herunterladen empfohlen. Quelle: https://yeti-trail.de/aussschreibung/",
+   "gear_note": "Quelle: https://yeti-trail.de/aussschreibung/",
    "profile": null,
    "gpx": null,
    "limit": null,
@@ -2535,7 +2560,16 @@
    "late_reg": null,
    "info": "Sa 23.01. DOG Run (Starts 11:00/11:30), So 24.01. Trail Run (Lang 10:30, Kurz 11:00) und Hiking (09:15); 5 Std. Zeitlimit (Zeitplan vorläufig)",
    "bezirk": "Mittelfranken",
-   "kreis": "LK Weißenburg-Gunzenhausen"
+   "kreis": "LK Weißenburg-Gunzenhausen",
+   "gear_levels": [
+    {
+     "km": "Alle Strecken",
+     "level": "pflicht",
+     "check": "nur festes Schuhwerk"
+    }
+   ],
+   "gear_stand": "Ausschreibung 2027",
+   "gear_warn": "Die Ausschreibung nennt keine weitere Pflichtausrüstung. GPX- oder Komoot-Track vorab herunterladen wird empfohlen. Die Veranstalterseite nennt Strecken von 18 und 28 km, wir führen 16 und 26 km."
   },
   {
    "id": "johannesbad-thermen-marathon-2027",
@@ -3894,18 +3928,18 @@
     "Laufrucksack",
     "Trailrunningschuhe mit Profilsohle",
     "Wind-/Regenjacke",
-    "Stirnlampe",
+    "Stirnlampe · nur 74 und 55 km",
     "Trinkbehälter, mindestens 1 Liter gefüllt",
     "Erste-Hilfe-Set mit Rettungsdecke",
     "Krankenversicherungskarte",
-    "Handschuhe und Mütze (je nach Wetter)",
+    "Handschuhe und Mütze · je nach Wetter",
     "Handy mit Notfallnummer",
     "Navigationsuhr mit GPS-Track",
-    "Powerbank",
+    "Powerbank · nur 74 km",
     "SOUL Tracking-App",
-    "Streckenkarte (bei schlechtem Wetter)"
+    "Streckenkarte · bei schlechtem Wetter"
    ],
-   "gear_note": "Pflicht für 74, 55, 38 und 27 km; für 16 und 7 km nur empfohlen. Stirnlampe nur 74 und 55 km, Powerbank nur 74 km. Kontrolle bei 74 und 55 km jeder, sonst Stichproben. Quelle: Reglement 2027, https://www.soul-trail.de/regeln-und-manieren/",
+   "gear_note": "Die Veranstalterseite nennt 7 und 16 km, wir führen noch 14 km. Quelle: https://www.soul-trail.de/regeln-und-manieren/",
    "profile": null,
    "gpx": null,
    "limit": null,
@@ -3919,7 +3953,35 @@
     "aid": "Endurance 5 Verpflegungsstellen, Marathon 3 (2026)"
    },
    "bezirk": "Niederbayern",
-   "kreis": "LK Deggendorf"
+   "kreis": "LK Deggendorf",
+   "gear_levels": [
+    {
+     "km": "74 km",
+     "level": "pflicht",
+     "check": "jeder wird kontrolliert"
+    },
+    {
+     "km": "55 km",
+     "level": "pflicht",
+     "check": "jeder wird kontrolliert"
+    },
+    {
+     "km": "38 km",
+     "level": "pflicht",
+     "check": "Stichproben"
+    },
+    {
+     "km": "27 km",
+     "level": "pflicht",
+     "check": "Stichproben"
+    },
+    {
+     "km": "16 und 7 km",
+     "level": "empfohlen",
+     "check": "keine Pflicht"
+    }
+   ],
+   "gear_stand": "Reglement 2027"
   },
   {
    "id": "augsburger-swa-strassenlauf-2027",
@@ -4282,14 +4344,14 @@
    "parking": "kostenlos (unbewacht) am Parkplatz Ebser Mare",
    "extras": null,
    "gear": [
-    "Handy mit gespeicherter Nummer des Call-Centers",
-    "GPX-fähiges Gerät mit Streckendaten",
+    "Handy mit gespeicherter Nummer des Call-Centers · ab 33 km",
+    "GPX-fähiges Gerät mit Streckendaten · ab 33 km",
     "Trailrunningschuhe",
-    "Flüssigkeit (mind. 1 Liter)",
-    "Stirnlampe",
-    "Ersatzakku für die Stirnlampe"
+    "Flüssigkeit · 1 Liter (33 km: 0,5 Liter)",
+    "Stirnlampe · nur 100 km",
+    "Ersatzakku für die Stirnlampe · nur 100 km"
    ],
-   "gear_note": "Je nach Strecke verschieden: 100 km alles; 66 km ohne Stirnlampe und Ersatzakku; 33 km nur 0,5 Liter Flüssigkeit, ohne Stirnlampe; 15 km nur Trailrunningschuhe. Witterungsfeste Kleidung ist nur empfohlen. Stichproben, fehlende Ausrüstung kann den Start kosten. Quelle: Ausschreibung 2027, https://www.ultratrail-fraenkische-schweiz.de/2026/09/18/ausschreibung-2027/",
+   "gear_note": "Quelle: https://www.ultratrail-fraenkische-schweiz.de/2026/09/18/ausschreibung-2027/",
    "profile": null,
    "gpx": null,
    "limit": "100 km 500, 66 km 550, 33 km 550, 15 km 500 (alle vier Hauptdistanzen ausverkauft)",
@@ -4299,7 +4361,31 @@
    "late_reg": null,
    "info": "Laut Veranstalter (30.10.2026) auf allen vier Hauptdistanzen (100/66/33/15 km) ausverkauft; Youthtrail/Kidsrun ohne Angabe",
    "bezirk": "Oberfranken",
-   "kreis": "LK Forchheim"
+   "kreis": "LK Forchheim",
+   "gear_levels": [
+    {
+     "km": "100 km",
+     "level": "pflicht",
+     "check": "sporadische Kontrollen"
+    },
+    {
+     "km": "66 km",
+     "level": "pflicht",
+     "check": "sporadische Kontrollen"
+    },
+    {
+     "km": "33 km",
+     "level": "pflicht",
+     "check": "sporadische Kontrollen"
+    },
+    {
+     "km": "15 km",
+     "level": "pflicht",
+     "check": "nur Trailrunningschuhe"
+    }
+   ],
+   "gear_stand": "Ausschreibung 2027",
+   "gear_warn": "Fehlende Pflichtausrüstung kann zum Entzug der Startberechtigung oder zur Aberkennung des Ergebnisses führen. Witterungsfeste Kleidung ist nur empfohlen."
   },
   {
    "id": "frankischer-fischkerwalauf-2027",
@@ -4469,7 +4555,7 @@
    "parking": "Parkplatz Skistadion (Karl-und-Martin-Neuner-Platz 1), kostenpflichtig 5 €/24 h, begrenzt; kostenlos Parkplatz am Eisstadion (ca. 25 min Fußweg); Wohnmobile Parkplatz Wankbahn",
    "extras": "Duschen/Umkleiden im Olympia-Skistadion; auch Wander-Wertungen ohne Zeitnahme und Kinderlauf",
    "gear": null,
-   "gear_note": null,
+   "gear_note": "Quelle: https://www.gapatrail.de/ausschreibung/",
    "profile": null,
    "gpx": null,
    "limit": "Anmeldung bis Kapazitätsgrenze",
@@ -4479,7 +4565,16 @@
    "late_reg": "Nur vor Ort bei freier Kapazität, bis 1 Std. vor dem jeweiligen Start",
    "info": "Veranstalter Offroad Association International e.V.; Mindestjahrgang: 26 km 2009, 20 km 2011, 10 km 2015; Preisstufen nach Anmeldezeitpunkt · Zeitplan 24.04.2027: Wandern lang/mittel 8:30 (ohne Zeitnahme), Kinderlauf 10:00, Langstrecke 11:00, Mittelstrecke 11:45, Kurzstrecke 12:00 (jeweils +5 min mit Hund), Wandern kurz 12:15, Zielschluss 17:00. Höhenmeter (Stand 2026): 10 km ca. 350, 20 km ca. 850, 26 km ca. 1.050. Anmeldebeginn nicht genannt (Anmeldung läuft). Start-/Zielort nicht ausdrücklich genannt (vermutlich Olympia-Skistadion)",
    "bezirk": "Oberbayern",
-   "kreis": "LK Garmisch-Partenkirchen"
+   "kreis": "LK Garmisch-Partenkirchen",
+   "gear_levels": [
+    {
+     "km": "Alle Strecken",
+     "level": "keine",
+     "check": "Ausschreibung 2027 nennt keine"
+    }
+   ],
+   "gear_stand": "Ausschreibung 2027",
+   "gear_warn": "Die Ausschreibung nennt keine Pflichtausrüstung. Die Teilnehmerinfos und die FAQ habe ich nicht lesen können."
   },
   {
    "id": "rottaler-volksmarathon-2027",
@@ -5023,16 +5118,17 @@
    "extras": null,
    "gear": [
     "Offline-GPX",
-    "Erste-Hilfe-Set",
-    "Regenjacke 10.000 mm",
-    "ausreichend Flüssigkeit",
-    "Pfeife",
-    "geladenes Handy",
-    "griffige Schuhe",
-    "Ausweis",
-    "Becher"
+    "Erste-Hilfe-Set mit Rettungsdecke, Pflaster, Wundauflage, Mullbinde",
+    "Regenjacke mind. 10.000 mm Wassersäule",
+    "Eigener Becher oder Flask",
+    "Handy mit ausreichend Akku",
+    "Schuhe mit griffigem Profil",
+    "Ausweis und Krankenversicherungskarte",
+    "Kleidung nach Wetterlage",
+    "Flüssigkeit · 0,5 Liter bis 22 km, 1 Liter ab 33 km",
+    "Pfeife · ab 22 km"
    ],
-   "gear_note": "Pflichtausrüstung; Pfeife nur auf bestimmten Strecken",
+   "gear_note": "Quelle: https://mountainman.de/trailrunning-events/alps/nesselwang/",
    "profile": null,
    "gpx": null,
    "limit": "max. 1.500 Teilnehmende (davon max. 150 mit Hund)",
@@ -5042,7 +5138,16 @@
    "late_reg": null,
    "info": "Starts: XXL 06:00, XL 08:00, L 08:30, M 09:00, S 10:00",
    "bezirk": "Schwaben",
-   "kreis": "LK Ostallgäu"
+   "kreis": "LK Ostallgäu",
+   "gear_levels": [
+    {
+     "km": "Alle Strecken (10 bis 70 km)",
+     "level": "pflicht",
+     "check": "Kontrolle Fr 13 bis 19 Uhr am Start/Ziel"
+    }
+   ],
+   "gear_stand": "Veranstalterseite 2027",
+   "gear_warn": "Ohne Pflichtausrüstung gibt es keine Wertung, Ausschluss vom Start ist möglich. Bei Kälte kann ein Cold-Weather-Kit verlangt werden: lange Hose, langes Oberteil, Mütze."
   },
   {
    "id": "schliersee-lauf-2027",
@@ -5683,21 +5788,21 @@
    "parking": "Eventparkplatz am Eisstadion, ca. 750 m zu Start/Ziel. Shuttle-Busse zu den Startorten, Ticket kommt mit der Startnummer (Stand 2025)",
    "extras": null,
    "gear": [
-    "Trailschuhe mit griffiger Sohle",
-    "Wasserdichte Jacke mit Kapuze (≥ 10.000 mm)",
-    "Ersatz-Langarmshirt",
-    "Lange Hose oder Beinlinge",
-    "Handschuhe und Mütze",
-    "Helm (auf einem Teilstück)",
-    "Laufweste",
-    "2 Stirnlampen + Ersatzakkus",
-    "Trinkbehälter 1 Liter",
-    "Erste-Hilfe-Set mit Rettungsdecke und Pfeife",
-    "Handy mit gespeicherter Notrufnummer",
-    "Streckenkarte (Papier oder Uhr)",
-    "Becher"
+    "Geschlossene Trailschuhe mit alpinem Profil",
+    "Laufrucksack oder Laufgürtel",
+    "Wasserdichte Jacke mit verklebten Nähten, mind. 10.000 mm",
+    "Warme Zusatzkleidung: Langarmshirt und lange Hose oder Beinlinge · 44 und 29 km nur Hose oder Beinlinge, 16 km keine",
+    "Handschuhe und Mütze oder Buff · nicht bei 16 km",
+    "Trinkbecher",
+    "Verschließbare Trinkbehälter · 1,5 Liter ab 69 km, 1 Liter bei 44, 29 und 16 km",
+    "Erste-Hilfe-Set mit Kompresse, Verbandpäckchen, Handschuhen, Pfeife, Rettungsdecke",
+    "GPS-Uhr mit Strecke oder Karte in Navi-App",
+    "Handy mit gespeicherter Alpine-Medics-Nummer",
+    "Stirnlampe mit Ersatzbatterien · ab 69 km, bei 167 km zwei Lampen",
+    "Helm · nur 167 km, auf einem etwa 2 km langen Abschnitt",
+    "Verpflegung mit Startnummer beschriften"
    ],
-   "gear_note": "Liste 2025 für die 100-km-Strecke – kürzere Strecken brauchen weniger. Kontrolle vor dem Start, fehlende Ausrüstung führt zur Disqualifikation. Für 2027 beim Veranstalter prüfen.",
+   "gear_note": "Quelle: https://zugspitz.utmb.world/runners/mandatory-gear",
    "profile": null,
    "gpx": null,
    "limit": null,
@@ -5707,7 +5812,46 @@
    "late_reg": null,
    "info": "Anmeldung 2027 erstmals per Lotterie (05.–12.10.2026), allgemeiner Verkauf ab 27.10.2026. Stand 01.11.2026: Garmisch-Partenkirchen Trail und Grainau Trail ausgebucht; Ultratrail, Ehrwald, Leutasch und Mittenwald Trail nur noch Special Entries. Zeitplan 2027 laut Veranstalter noch vorläufig (Stand 2026): ZUT100 Do 20:00, GaPa Trail Fr 10:00, Ultratrail Fr 22:00, Ehrwald Fr 23:00, Mittenwald Sa 07:00, Leutasch Sa 09:00, Grainau Sa 18:00",
    "bezirk": "Oberbayern",
-   "kreis": "LK Garmisch-Partenkirchen"
+   "kreis": "LK Garmisch-Partenkirchen",
+   "gear_levels": [
+    {
+     "km": "167 km",
+     "level": "pflicht",
+     "check": "systematische und zufällige Kontrollen"
+    },
+    {
+     "km": "107 km",
+     "level": "pflicht",
+     "check": "systematische und zufällige Kontrollen"
+    },
+    {
+     "km": "86 km",
+     "level": "pflicht",
+     "check": "systematische und zufällige Kontrollen"
+    },
+    {
+     "km": "69 km",
+     "level": "pflicht",
+     "check": "systematische und zufällige Kontrollen"
+    },
+    {
+     "km": "44 km",
+     "level": "pflicht",
+     "check": "ohne Stirnlampe"
+    },
+    {
+     "km": "29 km",
+     "level": "pflicht",
+     "check": "ohne Stirnlampe"
+    },
+    {
+     "km": "16 km",
+     "level": "pflicht",
+     "check": "stark verkürzte Liste"
+    }
+   ],
+   "gear_stand": "Veranstalterseite, Mandatory Gear (für 2027)",
+   "gear_warn": "Bei fehlender Pflichtausrüstung drohen Strafen bis zur Disqualifikation. Bei Wetterumschwung kann die Organisation das Tragen der Zusatzkleidung vorschreiben. Stöcke sind empfohlen."
   },
   {
    "id": "metropolmarathon-furth-2027",
@@ -6024,7 +6168,16 @@
     "Erste-Hilfe-Set mit Pflaster, Wundauflage, Mullbinde, Rettungsdecke",
     "Handy mit Notfallnummer"
    ],
-   "gear_note": "Gilt für alle Strecken. Bei Kälte oder Regen dringend empfohlen: Wind-/Regenjacke, Mütze, Handschuhe, lange Hose. Bei schlechter Sicht Streckenkarte mitführen. Stichproben, Zeitstrafe oder Disqualifikation. Quelle: Ausschreibung 2027, https://utlw.de/de/rennen/ausschreibung"
+   "gear_note": "Quelle: https://utlw.de/de/rennen/ausschreibung",
+   "gear_levels": [
+    {
+     "km": "Alle Strecken",
+     "level": "pflicht",
+     "check": "Stichproben"
+    }
+   ],
+   "gear_stand": "Ausschreibung 2027",
+   "gear_warn": "Fehlende Ausrüstung wird mit Zeitstrafe oder Disqualifikation geahndet. Bei Kälte oder Regen dringend empfohlen: Wind-/Regenjacke, Mütze, Handschuhe, lange Hose. Bei schlechter Sicht oder Wetter Streckenkarte mitführen."
   },
   {
    "id": "kirchberger-kirwalauf-2027",
@@ -6608,19 +6761,19 @@
     "Laufrucksack",
     "Trailrunningschuhe mit Profilsohle",
     "Wind-/Regenjacke",
-    "Stirnlampe",
+    "Stirnlampe · nur 100 Miles, XL, Endurance",
     "Trinkbehälter, mindestens 1 Liter gefüllt",
     "Erste-Hilfe-Set mit Rettungsdecke",
     "Krankenversicherungskarte",
-    "Handschuhe und Mütze (je nach Wetter)",
+    "Handschuhe und Mütze · je nach Wetter",
     "Handy mit Notfallnummer",
     "Navigationsuhr mit GPS-Track",
-    "Powerbank",
+    "Powerbank · nur 100 Miles und XL",
     "3KINGS Tracking-App",
     "Streckenkarte",
     "Unterschriebener Haftungsausschluss"
    ],
-   "gear_note": "Pflicht für 100 Miles, XL, Endurance, Marathon und Base; für Shorty und Traily nur empfohlen; zum Ultra (58 km) nennt das Reglement nichts. Stirnlampe nur 100 Miles, XL, Endurance; Powerbank nur 100 Miles und XL. Kontrolle bei 100 Miles, XL, Endurance jeder, sonst Stichproben. Quelle: Reglement 2027, https://www.3kings-3hills.com/regeln/",
+   "gear_note": "Quelle: https://www.3kings-3hills.com/regeln/",
    "profile": null,
    "gpx": null,
    "limit": null,
@@ -6630,7 +6783,51 @@
    "late_reg": "Vor Ort möglich (teurer), nicht für 168 km und 117 km",
    "info": "Tracking-App bei mehreren Distanzen Pflicht; 1 l Trinkbehälter. Starts 2027: 100 Miles Fr 14:00, XL Fr 22:00, Ultra Sa 07:30, Marathon 09:30, Base 11:30, Shorty 12:30, Traily 15:30",
    "bezirk": "Niederbayern",
-   "kreis": "LK Freyung-Grafenau"
+   "kreis": "LK Freyung-Grafenau",
+   "gear_levels": [
+    {
+     "km": "100 Miles",
+     "level": "pflicht",
+     "check": "jeder wird kontrolliert"
+    },
+    {
+     "km": "Ultra Trail XL",
+     "level": "pflicht",
+     "check": "jeder wird kontrolliert"
+    },
+    {
+     "km": "Endurance",
+     "level": "pflicht",
+     "check": "jeder wird kontrolliert"
+    },
+    {
+     "km": "Marathon",
+     "level": "pflicht",
+     "check": "Stichproben"
+    },
+    {
+     "km": "Base",
+     "level": "pflicht",
+     "check": "Stichproben"
+    },
+    {
+     "km": "Ultra (58 km)",
+     "level": "offen",
+     "check": "im Reglement nicht genannt"
+    },
+    {
+     "km": "Shorty",
+     "level": "empfohlen",
+     "check": "keine Pflicht"
+    },
+    {
+     "km": "Traily",
+     "level": "empfohlen",
+     "check": "keine Pflicht"
+    }
+   ],
+   "gear_stand": "Reglement 2027",
+   "gear_warn": "Unvollständige Ausrüstung kann zu Zeitstrafe (5 bis 120 Minuten) oder Disqualifikation führen."
   },
   {
    "id": "muenchnerauer-abendlauf-2027",
@@ -7359,9 +7556,9 @@
     "Witterungsbedingte Kleidung",
     "Handschuhe und Mütze",
     "Becher oder Flasche",
-    "Stirnlampe (ab 18 Uhr Pflicht)"
+    "Stirnlampe · ab 18 Uhr"
    ],
-   "gear_note": "Stand 2026 (Vorjahr), für 2027 noch nicht veröffentlicht: Liste der 102-km- und 66-km-Strecke. Für die kürzeren Strecken (45, 35, 20 km) nicht geprüft. Quelle: https://www.woidlaeufer.de/home/arberland-ultra-trail-elite-race",
+   "gear_note": "Quelle: https://www.woidlaeufer.de/home/arberland-ultra-trail-elite-race",
    "profile": null,
    "gpx": null,
    "limit": null,
@@ -7377,7 +7574,33 @@
     "parking": "Shuttle alle 15 Min. vom Parkplatz Thurnhofhang zum Stadion"
    },
    "bezirk": "Niederbayern",
-   "kreis": "LK Regen"
+   "kreis": "LK Regen",
+   "gear_levels": [
+    {
+     "km": "102 km",
+     "level": "pflicht"
+    },
+    {
+     "km": "66 km",
+     "level": "pflicht"
+    },
+    {
+     "km": "47 km",
+     "level": "offen",
+     "check": "Seite nicht geprüft"
+    },
+    {
+     "km": "36 km",
+     "level": "offen",
+     "check": "Seite nicht geprüft"
+    },
+    {
+     "km": "20 km",
+     "level": "offen",
+     "check": "Seite nicht geprüft"
+    }
+   ],
+   "gear_stand": "Vorjahr 2026 · für 2027 noch nicht veröffentlicht"
   },
   {
    "id": "brauereienlauf-frankische-toskana-2027",
@@ -7717,11 +7940,11 @@
     "Ausweis und Krankenversicherungskarte",
     "Regenjacke mind. 10.000 mm Wassersäule",
     "Kleidung nach Wetterlage",
-    "Flüssigkeit (0,5 l bis 26 km, 1 l ab 40 km)",
-    "Pfeife (ab 26 km)",
-    "Stirnlampe (nur 73 km)"
+    "Flüssigkeit · 0,5 Liter bis 26 km, 1 Liter ab 40 km",
+    "Pfeife · ab 26 km",
+    "Stirnlampe · nur 73 km"
    ],
-   "gear_note": "Bei Kälte kann ein Cold-Weather-Kit verlangt werden: lange Hose, langes Oberteil, Regenjacke, Mütze. Ohne Pflichtausrüstung keine Wertung. Quelle: Veranstalterseite 2027, https://mountainman.de/trailrunning-events/alps/reit-im-winkl/",
+   "gear_note": "Quelle: https://mountainman.de/trailrunning-events/alps/reit-im-winkl/ · Es gibt zusätzlich eine 40-km-Strecke (L).",
    "profile": null,
    "gpx": null,
    "limit": "Hundestarts max. 150; sonst kein Gesamtlimit genannt",
@@ -7731,7 +7954,16 @@
    "late_reg": null,
    "info": "Trail und Hiking, GPX-Daten für alle Strecken",
    "bezirk": "Oberbayern",
-   "kreis": "LK Traunstein"
+   "kreis": "LK Traunstein",
+   "gear_levels": [
+    {
+     "km": "Alle Strecken (11 bis 73 km)",
+     "level": "pflicht",
+     "check": "Rucksackkontrollen möglich"
+    }
+   ],
+   "gear_stand": "Veranstalterseite 2027",
+   "gear_warn": "Ohne Pflichtausrüstung gibt es keine Wertung, Ausschluss vom Start ist möglich. Bei Kälte kann ein Cold-Weather-Kit verlangt werden: lange Hose, langes Oberteil, Regenjacke, Mütze."
   },
   {
    "id": "fischhoflauf-tirschenreuth-2027",
@@ -7885,7 +8117,7 @@
    "gear": [
     "Eigener Becher oder Trinkflasche (keine Einwegbecher)"
    ],
-   "gear_note": "Die Ausschreibung nennt sonst keine Pflichtausrüstung; Trinkrucksack empfohlen. Quelle: https://www.kulmbach-trails.de/ausschreibung/",
+   "gear_note": "Quelle: https://www.kulmbach-trails.de/ausschreibung/",
    "profile": null,
    "gpx": null,
    "limit": "400 gesamt (Long 100, Short 125, Mini 100, Kids 75)",
@@ -7895,7 +8127,16 @@
    "late_reg": null,
    "info": "Startplätze limitiert; auch Kids Race. Starts 2027: Long 11:30, Kids 12:00, Short 12:30, Mini 13:00; Anmeldung ab Dezember 2026",
    "bezirk": "Oberfranken",
-   "kreis": "LK Kulmbach"
+   "kreis": "LK Kulmbach",
+   "gear_levels": [
+    {
+     "km": "Alle Strecken",
+     "level": "pflicht",
+     "check": "nur Becher oder Trinkflasche"
+    }
+   ],
+   "gear_stand": "Ausschreibung",
+   "gear_warn": "Die Ausschreibung nennt sonst keine Pflichtausrüstung. Ein Trinkrucksack wird empfohlen."
   },
   {
    "id": "waldmeisterlauf-2027",
@@ -8486,7 +8727,7 @@
     "Erste-Hilfe-Set mit Rettungsdecke, elastischer Binde, Pflastern, Wundkompressen",
     "Smartphone voll geladen, mit Route zur Offline-Navigation"
    ],
-   "gear_note": "Stand Rennbriefing 2026 (Vorjahr), gilt für alle Strecken. Stirnlampe (72 km) und Trailstöcke (72 und 50 km) nur empfohlen. Quelle: https://fichtelultra.de/news/briefing",
+   "gear_note": "Quelle: https://fichtelultra.de/news/briefing",
    "profile": null,
    "gpx": null,
    "limit": null,
@@ -8504,7 +8745,16 @@
     "aid": "VP Waldsteinhaus, Fichtelsee (Drop-Bags), Wurmloh u. a.; Snacks, Obst, Kuchen, Wasser, Cola; cupless"
    },
    "bezirk": "Oberfranken",
-   "kreis": "LK Bayreuth"
+   "kreis": "LK Bayreuth",
+   "gear_levels": [
+    {
+     "km": "Alle Strecken",
+     "level": "pflicht",
+     "check": "laut Rennbriefing 2026"
+    }
+   ],
+   "gear_stand": "Vorjahr 2026 · für 2027 noch nicht veröffentlicht",
+   "gear_warn": "Stirnlampe (72 km) und Trailstöcke (72 und 50 km) sind nur empfohlen."
   },
   {
    "id": "pfettrachtaler-lauf-2027",
@@ -8596,16 +8846,21 @@
    "parking": null,
    "extras": "Expo, Vorträge, Food Trucks, DJ und Podcast am Freitag ab 15 Uhr; Siegerehrung Sa 16:00; After-Run-Bier (Stand 2026)",
    "gear": [
-    "Regenbekleidung",
-    "Geladenes Handy",
-    "Profilierte Trailschuhe",
-    "Funktionskleidung",
-    "Trinkbehälter mind. 1 l",
-    "Ausweis und Krankenversicherungsnummer",
-    "Erste-Hilfe-Set",
-    "2 Riegel/Gels"
+    "Trailrunningschuhe mit griffiger Sohle",
+    "Funktionelle Laufbekleidung",
+    "Handy mit vollem Akku",
+    "Laufrucksack · ab 42 km",
+    "Stirnlampe · ab 42 km",
+    "Regenjacke · ab 42 km",
+    "Trinkbehälter, mindestens 1 Liter · ab 42 km",
+    "Erste-Hilfe-Set (Kompresse, Verbandpäckchen, Handschuhe, Dreieckstuch, Pflaster, Pfeife, Blasenpflaster, Rettungsdecke) · ab 42 km",
+    "Personalausweis und Krankenversicherungsnummer · ab 42 km",
+    "2 Riegel oder Gels · 42 km",
+    "Biwaksack · nur 61 km",
+    "Energiereserve mind. 500 kcal · nur 61 km",
+    "GPX-Track auf der Uhr · nur 61 km"
    ],
-   "gear_note": "Pflichtausrüstung (Stand 2026)",
+   "gear_note": "Quelle: https://chiemgau-trail-run.de/ctr-l-distanz/ und die Seiten der anderen Distanzen",
    "profile": null,
    "gpx": null,
    "limit": null,
@@ -8618,7 +8873,31 @@
     "parking": "Ausgewiesener Parkplatz in Marquartstein (Beschilderung; auch für Hochplatten Berglauf)"
    },
    "bezirk": "Oberbayern",
-   "kreis": "LK Traunstein"
+   "kreis": "LK Traunstein",
+   "gear_levels": [
+    {
+     "km": "61 km (XL)",
+     "level": "pflicht",
+     "check": "Kontrolle bei Startnummernausgabe"
+    },
+    {
+     "km": "42 km (L)",
+     "level": "pflicht",
+     "check": "Ausrüstungskontrolle vor Ort"
+    },
+    {
+     "km": "21 km (M)",
+     "level": "pflicht",
+     "check": "nur Schuhe, Kleidung, Handy, Rest empfohlen"
+    },
+    {
+     "km": "10 km (S)",
+     "level": "pflicht",
+     "check": "nur Schuhe, Kleidung, Handy, Rest empfohlen"
+    }
+   ],
+   "gear_stand": "Vorjahr 2026 · für 2027 noch nicht veröffentlicht",
+   "gear_warn": "Das Schlechtwetter-Kit galt 2026 als verpflichtend. Die Seite sagt aber nicht, was dazugehört. Stöcke sind empfohlen."
   },
   {
    "id": "freudenseelauf-hauzenberg-2027",
@@ -9597,7 +9876,23 @@
    "info": "Veranstalter: AR Events. Online-Anmeldung über datasport; Zahlung per PayPal, Gutschein, Kreditkarte oder SEPA. Zum Zeitpunkt der Quelle 248 Anmeldungen aus 11 Nationen. Startort und Startzeit nicht angegeben",
    "na": [],
    "bezirk": "Schwaben",
-   "kreis": "LK Oberallgäu"
+   "kreis": "LK Oberallgäu",
+   "gear": null,
+   "gear_levels": [
+    {
+     "km": "55 km (Sky)",
+     "level": "keine",
+     "check": "laut Veranstalterseite"
+    },
+    {
+     "km": "27 km",
+     "level": "keine",
+     "check": "laut Veranstalterseite"
+    }
+   ],
+   "gear_stand": "Veranstalterseite, noch im Aufbau",
+   "gear_warn": "Alpine Erfahrung und Trittsicherheit sind laut Seite unerlässlich. Stöcke sind erlaubt.",
+   "gear_note": "Quelle: https://allgaeu-trail.de/"
   },
   {
    "id": "citylauf-ansbach-2026",
@@ -10018,7 +10313,30 @@
     "Rettungsdecke",
     "Handy mit Nummer des Veranstalters"
    ],
-   "gear_note": "Nur für den Ultra Trail (52 km). Für Mini, Short und Long Trail nennt die Ausschreibung keine Pflichtausrüstung; Trinkbecher und bei Bedarf Regenjacke empfohlen. Quelle: Ausschreibung 2027, https://www.crazyrunners-frankenwaldtrail.de/ausschreibung"
+   "gear_note": "Quelle: https://www.crazyrunners-frankenwaldtrail.de/ausschreibung",
+   "gear_levels": [
+    {
+     "km": "52 km (Ultra)",
+     "level": "pflicht"
+    },
+    {
+     "km": "30 km",
+     "level": "keine",
+     "check": "laut Ausschreibung 2027"
+    },
+    {
+     "km": "15 km",
+     "level": "keine",
+     "check": "laut Ausschreibung 2027"
+    },
+    {
+     "km": "8 km",
+     "level": "keine",
+     "check": "laut Ausschreibung 2027"
+    }
+   ],
+   "gear_stand": "Ausschreibung 2027",
+   "gear_warn": "Auf allen Strecken Trinkbecher empfohlen. Regenjacke empfohlen, beim Ultra Trail ausdrücklich erwähnt."
   },
   {
    "id": "muppberg-trailrun-2027",
@@ -10069,12 +10387,21 @@
    "parking": "Kostenlos am Talavera",
    "included": "Elektronische Zeitnahme, Startnummer, Finisher-Medaille, Pokale für die Sieger",
    "extras": "Toiletten, Duschen und Sauna (LIFESTYLE Fitnessclub)",
-   "gear_note": "Mindestausrüstung laut Veranstalterseite; ob der Becher Pflicht oder nur eine Bitte ist, geht aus der Seite nicht eindeutig hervor. Stöcke sind nicht erlaubt. Quelle: https://lastlegsultra.de/",
+   "gear_note": "Quelle: https://lastlegsultra.de/",
    "gear": [
-    "Stirnlampe (bei Dunkelheit)",
-    "Warnweste oder reflektierende Kleidung (bei Dunkelheit)",
+    "Stirnlampe · bei Dunkelheit",
+    "Warnweste oder reflektierende Kleidung · bei Dunkelheit",
     "Mehrwegbecher oder Trinkflasche (keine Einwegbecher)"
-   ]
+   ],
+   "gear_levels": [
+    {
+     "km": "Backyard",
+     "level": "pflicht",
+     "check": "Mindestausrüstung laut Veranstalterseite"
+    }
+   ],
+   "gear_stand": "Veranstalterseite 2027",
+   "gear_warn": "Ob der Becher Pflicht oder nur eine Bitte ist, geht aus der Seite nicht eindeutig hervor. Stöcke sind nicht erlaubt."
   },
   {
    "id": "buchental-crosslauf-steinfeld-2027",

@@ -1,6 +1,6 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
-const APP_VERSION="v15"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+const APP_VERSION="v16"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
 const DATA_DIR="data/";
 const REPORT_URL="";
 const APP_URL=location.origin+location.pathname.replace(/index\.html$/,"");
@@ -44,7 +44,7 @@ const IC={
 const HEART=IC.heart;
 
 // Läufe-Datei in das interne Format übersetzen und Merkmale ableiten
-function prepare(list){const x0={};list.forEach(x=>x0[x.id]=x);R=list.map(x=>({id:x.id,t:x.type,n:x.name,o:x.place,la:x.lat,lo:x.lon,d:x.date,e:x.end,ok:x.confirmed,prev:x.prev_date,k:x.distances||[],hm:x.elevation,note:x.note,u:x.url,checked:x.checked,fee:x.fee,ro:x.reg_open,rc:x.reg_close,st:x.start_time,info:x.info,src:x.source,sp:x.start_place,pick:x.pickup,park:x.parking,aid:x.aid,course:x.course,extras:x.extras,gear:x.gear,gearNote:x.gear_note,prof:x.profile,gpx:x.gpx,limit:x.limit,soldout:x.sold_out,cutoff:x.cutoff,incl:x.included,late:x.late_reg}));
+function prepare(list){const x0={};list.forEach(x=>x0[x.id]=x);R=list.map(x=>({id:x.id,t:x.type,n:x.name,o:x.place,la:x.lat,lo:x.lon,d:x.date,e:x.end,ok:x.confirmed,prev:x.prev_date,k:x.distances||[],hm:x.elevation,note:x.note,u:x.url,checked:x.checked,fee:x.fee,ro:x.reg_open,rc:x.reg_close,st:x.start_time,info:x.info,src:x.source,sp:x.start_place,pick:x.pickup,park:x.parking,aid:x.aid,course:x.course,extras:x.extras,gear:x.gear,gearNote:x.gear_note,gl:x.gear_levels,gs:x.gear_stand,gw:x.gear_warn,prof:x.profile,gpx:x.gpx,limit:x.limit,soldout:x.sold_out,cutoff:x.cutoff,incl:x.included,late:x.late_reg}));
 R.forEach(r=>{
   r.oldId=r.n.toLowerCase().replace(/[^a-z0-9äöüß]+/g,"-")+"-"+r.d.slice(0,4);
   const kms=r.k.map(k=>k==="HM"||/bis HM/.test(k)?21.1:k==="M"?42.2:k==="Backyard"?60:parseFloat(String(k).replace(",",".")));
@@ -176,8 +176,19 @@ function profileSVG(r){const p=r.prof;if(!Array.isArray(p)||p.length<3)return"";
   const pts=p.map(q=>[(q[0]/maxK*(W-40)+30).toFixed(1),(H-20-(q[1]-lo)/sp*(H-40)).toFixed(1)]);
   return '<figure class="prof"><svg viewBox="0 0 '+W+' '+H+'" role="img" aria-label="Höhenprofil von '+lo+' bis '+hi+' Meter über '+maxK+' Kilometer"><path d="M'+pts[0][0]+' '+(H-20)+' L'+pts.map(x=>x.join(" ")).join(" L")+' L'+pts[pts.length-1][0]+' '+(H-20)+'Z" fill="var(--trail-soft)"/><path d="M'+pts.map(x=>x.join(" ")).join(" L")+'" fill="none" stroke="var(--trail)" stroke-width="2.5" stroke-linejoin="round"/>'+
    '<text x="30" y="14" font-size="12" fill="var(--muted)">'+hi+' m</text><text x="30" y="'+(H-4)+'" font-size="12" fill="var(--muted)">0 km</text><text x="'+(W-10)+'" y="'+(H-4)+'" font-size="12" text-anchor="end" fill="var(--muted)">'+maxK+' km</text></svg></figure>'}
+// Pflichtausrüstung: oben je Strecke Pflicht / empfohlen / keine Pflicht, dann die Liste zum Abhaken
+const GLV={pflicht:["Pflicht","pf"],empfohlen:["Empfohlen","em"],keine:["Keine Pflicht","kn"],offen:["Unklar","kn"]};
 function gearBox(r){
-  if(!r.gear||!r.gear.length){if(r.t!=="trail"||!(r.maxKm>25))return"";
+  const hasG=r.gear&&r.gear.length,hasL=r.gl&&r.gl.length;
+  if(hasL){const done=(state.packed&&state.packed[r.id])||[];
+    return '<section class="box"><h3>'+IC.pack+'Pflichtausrüstung</h3>'+
+     (r.gs?'<span class="gstand'+(/Vorjahr/.test(r.gs)?" old":"")+'">'+esc(r.gs)+'</span>':"")+
+     '<div class="glv">'+r.gl.map(x=>{const l=GLV[x.level]||GLV.offen;return '<div class="gr"><span class="gk">'+esc(/^\d+([,.]\d+)?$/.test(x.km)?x.km+" km":x.km)+'</span><span class="gp '+l[1]+'">'+l[0]+'</span><span class="gc">'+esc(x.check||"")+'</span></div>'}).join("")+'</div>'+
+     (r.gw?'<p class="gwarn">'+esc(r.gw)+'</p>':"")+
+     (hasG?'<span class="src" id="packcount">'+done.length+' von '+r.gear.length+' eingepackt</span><ul class="pack">'+
+       r.gear.map((g,i)=>'<li><label><input type="checkbox" data-pack="'+r.id+'" value="'+i+'"'+(done.includes(i)?" checked":"")+'><span>'+esc(g)+'</span></label></li>').join("")+'</ul>':"")+
+     (r.gearNote?'<span class="src">'+esc(r.gearNote)+'</span>':"")+'</section>'}
+  if(!hasG){if(r.t!=="trail"||!(r.maxKm>25))return"";
     return '<section class="box"><h3>'+IC.pack+'Pflichtausrüstung</h3><p class="miss">Noch nicht erfasst. Auf längeren Trailstrecken gibt es meist eine Pflichtausrüstung, sie steht in der Ausschreibung des Veranstalters.'+(r.u?' <a href="'+esc(r.u)+'" target="_blank" rel="noopener">Zur Veranstalterseite</a>':"")+'</p></section>'}
   const done=(state.packed&&state.packed[r.id])||[];
   return '<section class="box"><h3>'+IC.pack+'Pflichtausrüstung</h3><span class="src" id="packcount">'+done.length+' von '+r.gear.length+' eingepackt</span><ul class="pack">'+
