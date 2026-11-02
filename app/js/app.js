@@ -1,6 +1,6 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
-const APP_VERSION="v33"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+const APP_VERSION="v34"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
 const DATA_DIR="data/";
 const REPORT_URL="https://gbaoxnsytnzcuxbkdrwc.supabase.co/rest/v1/reports";
 const REPORT_KEY="sb_publishable_iuxJbdN94igdsBQ5-dtm5g_OxWYWGH9";   // öffentlicher Schlüssel: darf nur Meldungen anlegen
@@ -435,6 +435,7 @@ function openFeedback(){const el=$("report");reportFocus=document.activeElement;
   el.innerHTML='<div class="in"><button class="back" type="button" data-rclose>← Zurück</button><h2 id="rp-title" class="rph">Feedback geben</h2>'+
    '<p class="src">Was gefällt dir, was fehlt, was nervt? Schreib einfach los.</p>'+
    '<form id="rform" class="rform" novalidate><label><span class="lbl">Dein Feedback</span><textarea name="text" rows="6" placeholder="z. B. Mir fehlt der Filter für Läufe mit Hund"></textarea></label>'+
+   '<p class="src rnote2">Bitte keine persönlichen Daten eintragen (Name, Telefon, E-Mail). Wir brauchen sie nicht.</p>'+
    '<button class="cta" type="submit">Feedback absenden</button><div id="rmsg" class="src" aria-live="polite"></div></form></div>';
   el.dataset.race="";el.dataset.mode="feedback";el.hidden=false;el.scrollTop=0;document.body.classList.add("locked");el.querySelector("[data-rclose]").focus()}
 $("set-feedback").addEventListener("click",openFeedback);
@@ -487,6 +488,7 @@ function openReport(id,kind){const r=id?R.find(x=>x.id===id):null,el=$("report")
      '<label><span class="lbl">Datum, falls bekannt</span><input name="date" type="date"></label>'+
      '<label><span class="lbl">Link zum Veranstalter</span><input name="link" type="url" placeholder="https://"></label>')+
    '<label><span class="lbl">'+(r?"Was ist richtig?":"Weitere Hinweise")+'</span><textarea name="text" rows="4" placeholder="'+(r?"z. B. 2027 ist der Lauf am 12. Juni, Startgeld 35 €":"z. B. Distanzen, Höhenmeter")+'"></textarea></label>'+
+   '<p class="src rnote2">Bitte keine persönlichen Daten eintragen (Name, Telefon, E-Mail). Wir brauchen sie nicht.</p>'+
    '<button class="cta" type="submit">Meldung absenden</button><div id="rmsg" class="src" aria-live="polite"></div></form></div>';
   el.dataset.race=id||"";el.dataset.mode="";el.hidden=false;el.scrollTop=0;document.body.classList.add("locked");el.querySelector("[data-rclose]").focus()}
 function closeReport(){$("report").hidden=true;if($("detail").hidden)document.body.classList.remove("locked");if(reportFocus&&reportFocus.focus)reportFocus.focus()}
