@@ -1,6 +1,6 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
-const APP_VERSION="v24"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+const APP_VERSION="v25"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
 const DATA_DIR="data/";
 const REPORT_URL="";
 const APP_URL=location.origin+location.pathname.replace(/index\.html$/,"");
@@ -367,7 +367,7 @@ document.querySelectorAll(".bsheet").forEach(sh=>{let y0=null,x0=0,dy=0,t0=0,dra
     const schnell=dy/Math.max(1,Date.now()-t0)>0.6;sh.style.transition="transform .18s ease";
     if(dy>110||schnell){sh.style.transform="translateY(100%)";setTimeout(closeSheets,170)}else sh.style.transform=""});
   sh.addEventListener("touchcancel",()=>{y0=null;drag=false;sh.style.transform=""})});
-function closeSheets(){document.querySelectorAll(".bsheet").forEach(s=>{s.style.animation="";s.style.transform="";s.style.transition=""});endWelcome();const ni=document.querySelector(".nav .in");if(ni)ni.dataset.i=["road","trail","fav"].indexOf(state.tab);["locsheet","sharesheet","setsheet","asksheet","legalsheet"].forEach(i=>$(i).hidden=true);$("backdrop").hidden=true;if($("detail").hidden&&$("report").hidden)document.body.classList.remove("locked");if(sheetFocus&&sheetFocus.focus)sheetFocus.focus()}
+function closeSheets(){document.querySelectorAll(".bsheet").forEach(s=>{s.style.animation="";s.style.transform="";s.style.transition=""});endWelcome();const ni=document.querySelector(".nav .in");if(ni)ni.dataset.i=["road","trail","fav"].indexOf(state.tab);["locsheet","sharesheet","setsheet","asksheet","legalsheet","bellsheet"].forEach(i=>$(i).hidden=true);$("backdrop").hidden=true;if($("detail").hidden&&$("report").hidden)document.body.classList.remove("locked");if(sheetFocus&&sheetFocus.focus)sheetFocus.focus()}
 $("backdrop").addEventListener("click",closeSheets);
 $("loc").addEventListener("click",()=>{$("startinfo").classList.remove("err");$("startinfo").textContent="";if(state.onboarded||homeShown)showHome();openSheet("locsheet")});
 $("loc-done").addEventListener("click",closeSheets);
@@ -380,6 +380,11 @@ $("gear").addEventListener("click",()=>{syncRemind();document.querySelector(".na
 $("setsheet").addEventListener("click",e=>{const b=e.target.closest("[data-theme-set]");if(b){state.theme=b.dataset.themeSet;save();applyTheme()}
   const rb=e.target.closest("[data-remind]");if(rb){state.remind=+rb.dataset.remind;save();syncRemind();render()}});
 $("remind").addEventListener("click",e=>{const o=e.target.closest("[data-open]");if(o)openDetail(o.dataset.open)});
+$("bell").addEventListener("click",()=>{$("bl-t").innerHTML=remindItems().map(x=>'<button type="button" class="soonrow" data-open="'+x.r.id+'"><span>'+x.t+': <b>'+esc(x.r.n)+'</b></span><span class="'+urg(x.k)+'">'+whenTxt(x.k)+'</span></button>').join("");openSheet("bellsheet")});
+$("bl-t").addEventListener("click",e=>{const o=e.target.closest("[data-open]");if(o){closeSheets();openDetail(o.dataset.open)}});
+$("bl-done").addEventListener("click",closeSheets);
+$("sbtn").addEventListener("click",()=>{$("field").hidden=false;$("q").focus()});
+$("q").addEventListener("blur",()=>setTimeout(()=>{if(!$("q").value.trim())$("field").hidden=true},250));
 $("set-done").addEventListener("click",closeSheets);
 // Platzhalter: Punkte, die noch nicht fertig sind, und die Rechtstexte (Inhalt folgt vor dem öffentlichen Start)
 $("setsheet").addEventListener("click",e=>{
@@ -521,9 +526,10 @@ function render(){
   if(regs.length){const r=regs[0],k=daysTo(r.d);nx.dataset.id=r.id;
     nx.innerHTML='<span class="lbl">Dein nächster Lauf</span><strong>'+esc(r.n)+'</strong><span class="big">'+(k<=0?"Heute":k+"<small>"+(k===1?"Tag":"Tage")+"</small>")+'</span><span class="sub">'+longDate(r.d)+' · '+esc(r.o)+(regs.length>1?' · +'+(regs.length-1)+' weitere':"")+'</span>';nx.hidden=false;if(anim&&k>1)countUp(nx.querySelector(".big"),k)}
   else{nx.hidden=true;nx.dataset.id=""}
-  const rm=$("remind"),ri2=state.tab==="fav"?[]:remindItems().slice(0,4);
-  if(ri2.length){rm.innerHTML='<span class="lbl">Bald dran</span>'+ri2.map(x=>'<button type="button" class="soonrow" data-open="'+x.r.id+'"><span>'+x.t+': <b>'+esc(x.r.n)+'</b></span><span class="'+urg(x.k)+'">'+whenTxt(x.k)+'</span></button>').join("");rm.hidden=false}
+  const rAll=remindItems(),rm=$("remind"),ri2=state.tab==="fav"?[]:rAll.filter(x=>x.k<=3).slice(0,6),bl=$("bell");
+  if(ri2.length){rm.innerHTML=ri2.map(x=>'<button type="button" class="sc '+urg(x.k)+'" data-open="'+x.r.id+'"><b>'+whenTxt(x.k)+'</b><span>'+x.t+' · '+esc(x.r.n)+'</span></button>').join("");rm.hidden=false}
   else{rm.innerHTML="";rm.hidden=true}
+  bl.hidden=!rAll.length;bl.className="ibtn bell "+(rAll.length?urg(rAll[0].k):"");$("bell-n").textContent=rAll.length;
   document.querySelectorAll(".vb").forEach(b=>b.setAttribute("aria-pressed",b.dataset.v===state.view));
   const inRadius=r=>!H||r.dist<=state.radius;
   const near=live.filter(r=>inRadius(r)&&passFilters(r));
@@ -579,7 +585,7 @@ $("rchips").addEventListener("click",e=>{const b=e.target.closest("button");if(!
 $("reset").addEventListener("click",()=>{SEL.forEach(k=>state[k]="all");save();render()});
 $("dchips").addEventListener("click",e=>{const b=e.target.closest("button");if(!b)return;const k=b.dataset.k,i=state.dists.indexOf(k);
   if(i<0)state.dists.push(k);else state.dists.splice(i,1);save();animNext=true;render()});
-$("wsearch").addEventListener("click",()=>{closeSheets();setTimeout(()=>$("q").focus(),80)});
+$("wsearch").addEventListener("click",()=>{closeSheets();$("field").hidden=false;setTimeout(()=>$("q").focus(),80)});
 document.querySelectorAll(".tab[role=tab]").forEach(b=>b.addEventListener("click",()=>{if(state.tab===b.dataset.k)return;state.tab=b.dataset.k;save();animNext=true;render();window.scrollTo({top:0,behavior:RM?"auto":"smooth"})}));
 
 // Startpunkt: PLZ/Ort-Suche (offline)

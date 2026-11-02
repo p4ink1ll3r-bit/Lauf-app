@@ -15,6 +15,8 @@
 <body>
 <header class="bar"><div class="in">
   <h1 class="logo"><span class="nm"><span class="s">PACE</span>HUNT</span><span class="claim">find your next race</span></h1>
+  <button id="sbtn" class="ibtn" type="button" aria-label="Lauf suchen"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M16 16l4.5 4.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></button>
+  <button id="bell" class="ibtn bell" type="button" aria-haspopup="dialog" aria-label="Fristen" hidden><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 16v-5a6 6 0 0 1 12 0v5l1.5 2h-15zM10 20.5a2 2 0 0 0 4 0" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/></svg><span class="bd" id="bell-n"></span></button>
   <button id="loc" class="loc" type="button" aria-haspopup="dialog" aria-label="Startpunkt und Umkreis ändern">
     <svg class="ico pin" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-6.5-6-6.5-11a6.5 6.5 0 0 1 13 0c0 5-6.5 11-6.5 11z" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="12" cy="10" r="2.3" fill="currentColor"/></svg>
     <span class="lt"><span class="k">Dein Startpunkt</span><span class="v"><span id="loc-t">Startpunkt</span><span class="r" id="loc-r"></span></span></span>
@@ -23,7 +25,7 @@
 </div></header>
 
 <div class="app">
-  <div class="field">
+  <div class="field" id="field" hidden>
     <label class="search"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M16 16l4.5 4.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
       <span class="sr">Lauf suchen</span>
       <input id="q" type="search" autocomplete="off" placeholder="Lauf suchen, z. B. Arber" aria-controls="qsugg" aria-expanded="false"></label>
@@ -31,7 +33,7 @@
   </div>
 
   <button id="next" class="next" type="button" hidden></button>
-  <section id="remind" class="soon remind" aria-label="Bald dran" hidden></section>
+  <section id="remind" class="strip" aria-label="Bald dran" hidden></section>
 
   <div class="head">
     <div><h2 id="tag">Straßenläufe</h2><p id="sub"></p></div>
@@ -155,6 +157,12 @@
   <div class="setgrp"><span class="lbl">Über die Daten</span>
     <span class="src" id="set-stand"></span></div>
   <button class="cta" id="set-done" type="button">Fertig</button>
+</div></div>
+<div id="bellsheet" class="bsheet" role="dialog" aria-modal="true" aria-labelledby="bl-h" hidden><div class="in">
+  <div class="grip"></div>
+  <h2 id="bl-h">Bald dran</h2>
+  <div class="soon" id="bl-t"></div>
+  <button class="cta" id="bl-done" type="button">Schließen</button>
 </div></div>
 <div id="legalsheet" class="bsheet" role="dialog" aria-modal="true" aria-labelledby="lg-h" hidden><div class="in">
   <div class="grip"></div>
