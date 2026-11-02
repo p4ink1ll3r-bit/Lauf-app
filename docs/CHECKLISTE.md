@@ -2,7 +2,7 @@
 
 Automatisch erzeugt aus data/coverage.json (Stand 2026-11-02). Nicht von Hand ändern, sondern coverage.json pflegen und das Skript neu ausführen.
 
-**Fortschritt:** 6 von 96 vollständig, 90 in Arbeit, 0 offen.
+**Fortschritt:** 4 von 96 vollständig, 92 in Arbeit, 0 offen.
 
 - [x] vollständig  - [~] in Arbeit  - [ ] offen
 
@@ -75,11 +75,11 @@ Automatisch erzeugt aus data/coverage.json (Stand 2026-11-02). Nicht von Hand ä
 - [~] Stadt Augsburg - 3 Läufe, geprüft: 2026-11-01
 - [x] Stadt Kaufbeuren - 0 Läufe, geprüft: 2026-11-02
 - [~] Stadt Kempten (Allgäu) - 1 Läufe, geprüft: 2026-11-01
-- [~] Stadt Memmingen - 1 Läufe, geprüft: 2026-11-01
+- [~] Stadt Memmingen - 2 Läufe, geprüft: 2026-11-02
 
 ## Mittelfranken (1/12)
 
-- [~] LK Ansbach - 6 Läufe, geprüft: 2026-11-01
+- [~] LK Ansbach - 7 Läufe, geprüft: 2026-11-02
 - [~] LK Erlangen-Höchstadt - 2 Läufe, geprüft: 2026-11-01
 - [x] LK Fürth - 0 Läufe, geprüft: 2026-11-02
 - [~] LK Neustadt a.d.Aisch-Bad Windsheim - 1 Läufe, geprüft: 2026-11-01
@@ -92,13 +92,13 @@ Automatisch erzeugt aus data/coverage.json (Stand 2026-11-02). Nicht von Hand ä
 - [~] Stadt Nürnberg - 3 Läufe, geprüft: 2026-11-01
 - [~] Stadt Schwabach - 1 Läufe, geprüft: 2026-11-01
 
-## Oberfranken (3/13)
+## Oberfranken (1/13)
 
 - [~] LK Bamberg - 3 Läufe, geprüft: 2026-11-01
 - [~] LK Bayreuth - 2 Läufe, geprüft: 2026-11-01
-- [x] LK Coburg - 0 Läufe, geprüft: 2026-11-02
-- [~] LK Forchheim - 4 Läufe, geprüft: 2026-11-01
-- [x] LK Hof - 0 Läufe, geprüft: 2026-11-02
+- [~] LK Coburg - 1 Läufe, geprüft: 2026-11-02
+- [~] LK Forchheim - 5 Läufe, geprüft: 2026-11-02
+- [~] LK Hof - 1 Läufe, geprüft: 2026-11-02
 - [~] LK Kronach - 1 Läufe, geprüft: 2026-11-01
 - [~] LK Kulmbach - 4 Läufe, geprüft: 2026-11-01
 - [~] LK Lichtenfels - 4 Läufe, geprüft: 2026-11-01
@@ -114,11 +114,11 @@ Automatisch erzeugt aus data/coverage.json (Stand 2026-11-02). Nicht von Hand ä
 - [~] LK Bad Kissingen - 2 Läufe, geprüft: 2026-11-01
 - [~] LK Haßberge - 1 Läufe, geprüft: 2026-11-01
 - [~] LK Kitzingen - 1 Läufe, geprüft: 2026-11-01
-- [~] LK Main-Spessart - 1 Läufe, geprüft: 2026-11-01
+- [~] LK Main-Spessart - 2 Läufe, geprüft: 2026-11-02
 - [~] LK Miltenberg - 3 Läufe, geprüft: 2026-11-01
 - [~] LK Rhön-Grabfeld - 1 Läufe, geprüft: 2026-11-01
 - [~] LK Schweinfurt - 1 Läufe, geprüft: 2026-11-01
-- [~] LK Würzburg - 3 Läufe, geprüft: 2026-11-01
+- [~] LK Würzburg - 4 Läufe, geprüft: 2026-11-02
 - [~] Stadt Aschaffenburg - 1 Läufe, geprüft: 2026-11-01
 - [~] Stadt Schweinfurt - 1 Läufe, geprüft: 2026-11-01
-- [~] Stadt Würzburg - 4 Läufe, geprüft: 2026-11-01
+- [~] Stadt Würzburg - 5 Läufe, geprüft: 2026-11-02

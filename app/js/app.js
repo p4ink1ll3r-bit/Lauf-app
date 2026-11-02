@@ -1,6 +1,6 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
-const APP_VERSION="v12"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+const APP_VERSION="v13"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
 const DATA_DIR="data/";
 const REPORT_URL="";
 const APP_URL=location.origin+location.pathname.replace(/index\.html$/,"");
@@ -199,7 +199,7 @@ function statusBanner(r){
   else if(od!==null&&od>0){c=od<=14?"hot":"open";ic="clock";t="Anmeldung öffnet "+tag(od);s="Start der Anmeldung: "+longDate(r.ro)}
   else if(r.rc){c=rd<=7?"hot":"ok";ic=rd<=7?"clock":"ok";t=rd<=7?"Meldeschluss "+tag(rd):"Anmeldung offen";s=(rd<=7?"Letzter Tag: ":"Bis ")+longDate(r.rc)+(rd>7?" · noch "+rd+" Tage":"")}
   else if(r.ro){c="ok";ic="ok";t="Anmeldung offen";s="Einen Meldeschluss nennt der Veranstalter bisher nicht."}
-  else if(!r.ok){c="open";ic="clock";t="Termin noch nicht bestätigt";s="Das Datum ist nach dem Vorjahr geschätzt. Anmeldung und Preise stehen noch nicht fest."}
+  else if(!r.ok){c="open";ic="clock";t="Termin noch nicht bestätigt";s=(r.prev?"Das Datum ist nach dem Vorjahr geschätzt.":"Das Datum stammt aus einem Laufkalender, der Veranstalter hat es noch nicht bestätigt.")+" Anmeldung und Preise stehen noch nicht fest."}
   else return"";
   return'<div class="status s-'+c+'" role="status">'+ST_IC[ic]+'<div><b>'+t+'</b><span>'+s+'</span></div></div>'}
 // Startgeld: steht der Text klar als „Strecke … Betrag €“, wird er zur Liste; sonst bleibt er Text
@@ -270,7 +270,7 @@ function openDetail(id){const r=R.find(x=>x.id===id);if(!r)return;if($("detail")
      '<button class="rb" type="button" data-share="'+r.id+'" aria-label="Lauf teilen">'+IC.share+'</button>'+
      '<button class="rb heart" type="button" data-id="'+r.id+'" aria-pressed="'+fav+'" aria-label="'+(fav?"Aus Meine Läufe entfernen":"Merken")+'">'+HEART+'</button></div></div>'+
      '<div class="top">'+leafHTML(r)+'<div class="tt"><span class="kick">'+(r.t==="trail"?"Trail":"Straße")+' · '+esc(r.o)+'</span><h2 id="d-title">'+esc(r.n)+'</h2><span class="when">'+when+'</span></div></div>'+
-     '<div class="pills">'+(r.ok?'<span class="pill ok">Termin bestätigt</span>':'<span class="pill open">Termin offen · Vorjahr '+fmt(r.prev)+'</span>')+
+     '<div class="pills">'+(r.ok?'<span class="pill ok">Termin bestätigt</span>':'<span class="pill open">Termin offen'+(r.prev?' · Vorjahr '+fmt(r.prev):'')+'</span>')+
      (reg?'<span class="pill reg">Angemeldet ✓</span>':"")+'<span class="hchip">'+(days<=0?"Heute":"noch <b>"+days+"</b> Tage")+'</span><span class="hchip"><b>'+r.dist+'</b> km entfernt</span></div></div>'+
    '<div class="regbar'+(r.u?"":" solo")+'" role="group" aria-label="Anmeldung">'+statusBanner(r)+
      (r.u?'<a class="cta" href="'+esc(r.u)+'" target="_blank" rel="noopener" data-goreg="'+r.id+'">Zur Anmeldung '+IC.ext.replace('<svg','<svg width="16" height="16"')+'</a>':"")+

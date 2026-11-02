@@ -534,8 +534,8 @@
                        "bezirk":  "Schwaben",
                        "prio":  59,
                        "status":  "in Arbeit",
-                       "races":  1,
-                       "checked":  "2026-11-01"
+                       "races":  2,
+                       "checked":  "2026-11-02"
                    },
                    {
                        "kreis":  "LK Ansbach",
@@ -543,8 +543,8 @@
                        "bezirk":  "Mittelfranken",
                        "prio":  60,
                        "status":  "in Arbeit",
-                       "races":  6,
-                       "checked":  "2026-11-01"
+                       "races":  7,
+                       "checked":  "2026-11-02"
                    },
                    {
                        "kreis":  "LK Erlangen-Höchstadt",
@@ -669,10 +669,10 @@
                        "typ":  "Landkreis",
                        "bezirk":  "Oberfranken",
                        "prio":  74,
-                       "status":  "vollständig",
-                       "races":  0,
+                       "status":  "in Arbeit",
+                       "races":  1,
                        "checked":  "2026-11-02",
-                       "hinweis":  "Keine Läufe im Landkreis gefunden (Vestelauf und Neujahrs-Teamlauf liegen in der Stadt Coburg). Geprüft 2026-11-02 (haid.app, gotrail.run, hdsports, Websuche)."
+                       "hinweis":  "Erste Recherche übersah Trailläufe; nach Prüfung der Trail-Kalender ein Lauf gefunden, weitere Prüfung nötig. Stand 2026-11-02."
                    },
                    {
                        "kreis":  "LK Forchheim",
@@ -680,18 +680,18 @@
                        "bezirk":  "Oberfranken",
                        "prio":  75,
                        "status":  "in Arbeit",
-                       "races":  4,
-                       "checked":  "2026-11-01"
+                       "races":  5,
+                       "checked":  "2026-11-02"
                    },
                    {
                        "kreis":  "LK Hof",
                        "typ":  "Landkreis",
                        "bezirk":  "Oberfranken",
                        "prio":  76,
-                       "status":  "vollständig",
-                       "races":  0,
+                       "status":  "in Arbeit",
+                       "races":  1,
                        "checked":  "2026-11-02",
-                       "hinweis":  "Keine Läufe im Landkreis gefunden. Geprüft 2026-11-02 (haid.app, gotrail.run, hdsports, Websuche)."
+                       "hinweis":  "Erste Recherche übersah Trailläufe; nach Prüfung der Trail-Kalender ein Lauf gefunden, weitere Prüfung nötig. Stand 2026-11-02."
                    },
                    {
                        "kreis":  "LK Kronach",
@@ -808,8 +808,8 @@
                        "bezirk":  "Unterfranken",
                        "prio":  89,
                        "status":  "in Arbeit",
-                       "races":  1,
-                       "checked":  "2026-11-01"
+                       "races":  2,
+                       "checked":  "2026-11-02"
                    },
                    {
                        "kreis":  "LK Miltenberg",
@@ -844,8 +844,8 @@
                        "bezirk":  "Unterfranken",
                        "prio":  93,
                        "status":  "in Arbeit",
-                       "races":  3,
-                       "checked":  "2026-11-01"
+                       "races":  4,
+                       "checked":  "2026-11-02"
                    },
                    {
                        "kreis":  "Stadt Aschaffenburg",
@@ -871,8 +871,8 @@
                        "bezirk":  "Unterfranken",
                        "prio":  96,
                        "status":  "in Arbeit",
-                       "races":  4,
-                       "checked":  "2026-11-01"
+                       "races":  5,
+                       "checked":  "2026-11-02"
                    }
                ]
 }
