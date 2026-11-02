@@ -1,6 +1,6 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
-const APP_VERSION="v28"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+const APP_VERSION="v29"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
 const DATA_DIR="data/";
 const REPORT_URL="https://gbaoxnsytnzcuxbkdrwc.supabase.co/rest/v1/reports";
 const REPORT_KEY="sb_publishable_iuxJbdN94igdsBQ5-dtm5g_OxWYWGH9";   // öffentlicher Schlüssel: darf nur Meldungen anlegen
@@ -368,10 +368,14 @@ document.querySelectorAll(".bsheet").forEach(sh=>{let y0=null,x0=0,dy=0,t0=0,dra
     const schnell=dy/Math.max(1,Date.now()-t0)>0.6;sh.style.transition="transform .18s ease";
     if(dy>110||schnell){sh.style.transform="translateY(100%)";setTimeout(closeSheets,170)}else sh.style.transform=""});
   sh.addEventListener("touchcancel",()=>{y0=null;drag=false;sh.style.transform=""})});
-function closeSheets(){document.querySelectorAll(".bsheet").forEach(s=>{s.style.animation="";s.style.transform="";s.style.transition=""});endWelcome();const ni=document.querySelector(".nav .in");if(ni)ni.dataset.i=["road","trail","fav"].indexOf(state.tab);["locsheet","sharesheet","setsheet","asksheet","legalsheet","bellsheet"].forEach(i=>$(i).hidden=true);$("backdrop").hidden=true;if($("detail").hidden&&$("report").hidden)document.body.classList.remove("locked");if(sheetFocus&&sheetFocus.focus)sheetFocus.focus()}
-$("backdrop").addEventListener("click",closeSheets);
+function closeSheets(){if(!$("locsheet").hidden)commitStart();document.querySelectorAll(".bsheet").forEach(s=>{s.style.animation="";s.style.transform="";s.style.transition=""});endWelcome();const ni=document.querySelector(".nav .in");if(ni)ni.dataset.i=["road","trail","fav"].indexOf(state.tab);["locsheet","sharesheet","setsheet","asksheet","legalsheet","bellsheet"].forEach(i=>$(i).hidden=true);$("backdrop").hidden=true;if($("detail").hidden&&$("report").hidden)document.body.classList.remove("locked");if(sheetFocus&&sheetFocus.focus)sheetFocus.focus()}
+$("backdrop").addEventListener("click",()=>{if(!$("locsheet").hidden&&!commitStart())return;closeSheets()});
 $("loc").addEventListener("click",()=>{$("startinfo").classList.remove("err");$("startinfo").textContent="";if(state.onboarded||homeShown)showHome();openSheet("locsheet")});
-$("loc-done").addEventListener("click",closeSheets);
+// Getippte, aber nicht aus der Liste gewählte PLZ/Ort gilt beim Schließen: der erste Vorschlag wird genommen
+function commitStart(){const f=$("start"),v=f.value.trim();if(!v||f.parentElement.classList.contains("gesetzt"))return true;
+  const h=hits.length?hits:find(v);if(h[0]){choose(h[0]);return true}
+  $("startinfo").classList.add("err");$("startinfo").textContent="Kein Ort gefunden. Versuch es mit einer Postleitzahl.";return false}
+$("loc-done").addEventListener("click",()=>{if(commitStart())closeSheets()});
 // Einstellungen: Darstellung Automatisch / Hell / Dunkel (auf dem Gerät gespeichert)
 const HOST_THEME=document.documentElement.getAttribute("data-theme");
 function applyTheme(){const t=state.theme||"auto",el=document.documentElement;
