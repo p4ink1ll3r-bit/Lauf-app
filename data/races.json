@@ -11894,34 +11894,6 @@
    "note": "Finale des EUREGIO-zwei-Länder-Laufcups und Edith-Püschner-Gedächtnislauf; offen für alle, keine Vereinsmitgliedschaft nötig. Damen 2,77 km (1 Runde), Herren 5,1 km (2 Runden), 14:50 Uhr; davor Kinder- und Schülerläufe ab 14:00 Uhr. Siegerehrung ab 16:15 Uhr im Haus der Kultur, Ainring"
   },
   {
-   "id": "silvesterlauf-burggrumbach-2026",
-   "type": "road",
-   "name": "Silvesterlauf Burggrumbach",
-   "place": "Unterpleichfeld",
-   "lat": 49.868,
-   "lon": 10.045,
-   "date": "2026-12-31",
-   "end": null,
-   "confirmed": true,
-   "prev_date": null,
-   "distances": [
-    "6,4",
-    "10,5"
-   ],
-   "url": "https://www.vfr-1949.de/abteilungen/leichtathletik/",
-   "source": "https://www.vfr-1949.de/abteilungen/leichtathletik/",
-   "kreis": "LK Würzburg",
-   "start_place": "VfR Sportgelände, Seemühlstraße 17, 97294 Burggrumbach",
-   "start_time": "10:00",
-   "info": "Veranstalter: VfR Burggrumbach, Leichtathletik. Voranmeldung wird gebeten. Reiner Fun-Lauf, keine Zeitnahme und keine Ergebnisliste",
-   "bezirk": "Unterfranken",
-   "checked": "2026-11-03",
-   "fee": "Organisationsgebühr 2 € je Teilnehmer",
-   "showers": "Duschen im VfR-Sportheim",
-   "aid": "Nach dem Lauf Tee, Glühwein, Leberkäs-Brötchen und Kuchen am Sportheim",
-   "note": "Silvester-Fun-Lauf ohne Zeitnahme: Erwachsene, Jugend oder Hobby 10,5 km oder 6,4 km, Schüler/Jugend 4 km, dazu Kinderstrecken (0,3–2,1 km); Walker und Wanderer 6,4 oder 4 km; alle Strecken starten ab 10:00 Uhr; Kinder bekommen nach dem Zieleinlauf eine kleine Belohnung"
-  },
-  {
    "id": "silvesterlauf-neuburg-donau-2026",
    "type": "road",
    "name": "Silvesterlauf Neuburg/Donau",
