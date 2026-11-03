@@ -1,27 +1,36 @@
 # Änderungen auf Veranstalterseiten
 
-Stand: 02.11.2026 15:17 · 266 Seiten geprüft · 6 geändert · 202 unverändert · 17 neu im Bestand · 33 nicht abrufbar · 8 per robots.txt gesperrt
+Stand: 03.11.2026 03:01 · 266 Seiten geprüft · 9 geändert · 215 unverändert · 1 neu im Bestand · 33 nicht abrufbar · 8 per robots.txt gesperrt
 
 ## Geändert
 
-- **ultratrail-frankische-schweiz-2027** – https://www.ultratrail-fraenkische-schweiz.de/  (nennt jetzt das Jahr des Laufs)
+- **djk-domlauf-passau-2027** – https://djk.domlauf.bistum-passau.de/
   - neu: –
-  - weg: 22.oktober2026
+  - weg: 01.11.2026, 1.november
+- **hiro-run-2027** – https://www.hiro-run.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 13.april2025, 13.dezember2024, 14.dezember2025, 15.12., 15.12.2024, 15.12.2025, 15.januar2025, 18.04.2026, 19.april2026, 2.oktober2025, 6.august2026, 2025
+  - weg: 31.oktober2026
+- **bad-koetztinger-stadtlauf-2027** – https://www.hdsports.org/laufen/bad-koetztinger-stadtlauf
+  - neu: 17.10.2027, 23.04.2028, 28.05.2027, 2028
+  - weg: –
 - **rogatemarktlauf-ergoldsbach-2027** – http://www.tsv-ergoldsbach.de
-  - neu: abgesagt
+  - neu: –
+  - weg: 25.10., 25.oktober2026
+- **hirschenstein-berglauf-2027** – https://www.hdsports.org/laufen/hirschenstein-berglauf
+  - neu: 17.10.2027, 23.04.2028, 28.05.2027, 2028
   - weg: –
-- **beratzhausener-ehrenfelslauf-2027** – https://tsv-beratzhausen.de/ehrenfelslauf-2025/  (nennt jetzt das Jahr des Laufs)
-  - neu: 06.03., 20.02., 30.01.2027, 2027
-  - weg: 07.03., 21.02., 31.01.2026
-- **mitterteicher-volkslauf-2027, ploessberger-weiherlauf-2027, pleysteiner-stadtlauf-2027, flossenbuerger-burglauf-2027** – https://www.ovlcup.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: 23.04.2027
+- **freudenseelauf-hauzenberg-2027** – https://www.tv-hauzenberg.de
+  - neu: 24.10.
+  - weg: 24.oktober
+- **stadtlauf-schrobenhausen-2027** – https://www.hdsports.org/laufen/stadtlauf-schrobenhausen
+  - neu: 17.10.2027, 23.04.2028, 28.05.2027, 2028
   - weg: –
-- **schoenseer-johannislauf-2027** – http://ovlcup.de  (nennt jetzt das Jahr des Laufs)
-  - neu: 23.04.2027
+- **altoettinger-siebzehnruebl-dultlauf-2027** – https://www.hdsports.org/laufen/altoettinger-siebzehnruebl-dultlauf
+  - neu: 17.10.2027, 23.04.2028, 28.05.2027, 2028
   - weg: –
-- **waldershofer-stadtlauf-2027** – https://www.waldershof.de/event/waldershofer-stadtlauf-2025/
-  - neu: 9.november2026, 15:00
-  - weg: –
+- **last-legs-ultra-wuerzburg-2027** – https://lastlegsultra.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: –
+  - weg: 01.01., 01.02., 01.04., 01.05.2026, 01.09., 01.09.2026, 26.04.2026, 27.04., 30.04.2027, 31.01.2026, 31.03.2027, 31.12.2026, €01.01, €01.04, €01.09
 
 ## Nicht abrufbar
 
@@ -82,7 +91,6 @@ Stand: 02.11.2026 15:17 · 266 Seiten geprüft · 6 geändert · 202 unveränder
 - buxachtal-lauf-memmingen-2027 – https://triathlon.tv-memmingen.de/buxachtallauf/
 - crazy-runners-frankenwald-trail-2027 – https://www.crazyrunners-frankenwaldtrail.de/
 - last-legs-ultra-wuerzburg-2027 – https://lastlegsultra.de/
-- maintal-ultratrail-veitshoechheim-2027 – https://my.raceresult.com/410424/
 - taubertal-trail-steinsfeld-2027 – https://www.taubertal-trail.de/
 - lions-12-stunden-lauf-lindenberg-2027 – http://12stundenlauf-lindenberg.de/
 

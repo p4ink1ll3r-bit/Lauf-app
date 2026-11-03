@@ -1,6 +1,6 @@
 # Anmeldestatus der kommenden Läufe
 
-Stand: 02.11.2026 15:21 · 278 kommende Läufe · 75 Anmeldeseiten gelesen · 14 Veranstalterseiten nach einem Anmeldelink durchsucht · 0 Eintrag/Einträge in races.json geändert
+Stand: 03.11.2026 03:05 · 278 kommende Läufe · 75 Anmeldeseiten gelesen · 7 Veranstalterseiten nach einem Anmeldelink durchsucht · 0 Eintrag/Einträge in races.json geändert
 
 ## Heute geändert
 
@@ -8,7 +8,6 @@ Stand: 02.11.2026 15:21 · 278 kommende Läufe · 75 Anmeldeseiten gelesen · 14
 
 ## Bitte von Hand prüfen
 
-- **Soul Trail** (2027-04-17): Anmeldeseite gehört zu einem anderen Datum (2026-04-18)
 - **Eggenfeldener Stadtlauf** (2027-07-10): Anmeldeseite gehört zu einem anderen Datum (2026-07-11)
 - **Höglwörther Seelauf** (2026-11-08): bei uns steht "ausgebucht", aber keine Quellseite nennt es mehr – bitte prüfen, ob wieder Plätze frei sind (https://www.seelauf-teisendorf.de/)
 
