@@ -10069,20 +10069,24 @@
     "10"
    ],
    "elevation": null,
-   "note": "Crosslauf über 10 km und 3 km; Nordic Walking",
-   "url": "http://www.lg-donau-ries.de/",
+   "note": "Zweiter Lauf der Jedermann-Laufserie der LG Donau-Ries; Hauptlauf ca. 10 km (10:00 Uhr), Kurzstrecke ca. 3,4 km und Walking ca. 7 km (10:10/10:11 Uhr); flach, einsteigergeeignet, ohne Vereinszugehörigkeit; Einzelanmeldung ohne die ganze Serie möglich; Altersklassensieger bekommen ein kleines Geschenk, alle Kinder eine Belohnung im Ziel; bis zu 500 Teilnehmende",
+   "url": "https://rain.de/lauf-am-lech_id65798",
    "reg_open": null,
-   "reg_close": null,
-   "fee": null,
+   "reg_close": "2026-11-05",
+   "fee": "10 km Hauptlauf 12 €, 3,3 km Kurzstrecke 6 €, Walking 7,2 km 6 €",
    "start_time": "10:00",
-   "checked": "2026-11-01",
-   "source": "https://www.hdsports.org/laufen/lauf-zum-lech",
+   "checked": "2026-11-03",
+   "source": "https://spoferan.com/events/rainer-lauf-am-lech/participation-classes",
    "start_place": "Georg-Weber-Stadion, Donauwörther Straße 43, 86641 Rain",
-   "info": "Veranstalter: LG Donau-Ries. Termin 08.11.2026 laut hdsports vom Veranstalter bestätigt. Anmeldung über die Veranstalter-Website, Startgeld nicht angegeben",
+   "info": "Veranstalter: TSV 1896 Rain mit LG Donau-Ries. Online-Anmeldung bis 05.11.2026 über SPOFERAN",
    "na": [],
    "bezirk": "Schwaben",
    "kreis": "LK Donau-Ries",
-   "gear_open": "nicht geprüft (kurzer Lauf)"
+   "gear_open": "nicht geprüft (kurzer Lauf)",
+   "anmeldung_url": "https://spoferan.com/events/rainer-lauf-am-lech",
+   "pickup": "Dreifachturnhalle (Fasanenweg 2, 86641 Rain), Foyer",
+   "late_reg": "Anmeldung vor Ort gegen Barzahlung in der Dreifachhalle bis ca. 09:40 Uhr möglich",
+   "limit": "Bis zu 500 Teilnehmende (Angabe der Stadt Rain, kein Limit genannt)"
   },
   {
    "id": "ipf-ries-halbmarathon-2027",
@@ -11830,21 +11834,32 @@
    "lat": 50.006,
    "lon": 9.175,
    "date": "2026-11-08",
-   "end": null,
+   "end": "2027-01-17",
    "confirmed": true,
    "prev_date": null,
    "distances": [
     "10"
    ],
-   "url": "https://www.hdsports.org/laufen/goldbacher-winter-crosslauf-serie",
-   "source": "https://www.hdsports.org/laufen/goldbacher-winter-crosslauf-serie",
+   "url": "https://www.tv-goldbach.de/wintercross/content/mainstart.php",
+   "source": "https://www.tv-goldbach.de/wintercross/content/newsansicht.php?parent=news&id=10",
    "kreis": "LK Aschaffenburg",
-   "start_place": "Edelweisskapelle, 63773 Goldbach (Adresse laut hdsports)",
+   "start_place": "Edelweißkapelle, 63773 Goldbach",
    "start_time": "09:30",
-   "info": "Termin laut hdsports vom Veranstalter bestätigt; Startgeld, Anmeldung und Zeiten noch nicht auf der Veranstalterseite geprüft; Startzeit und Startgeld stammen aus der letzten Ausgabe (hdsports)",
+   "info": "Veranstalter: TV 1897 Goldbach. Die App zeigt den ersten Lauf (08.11.2026); jeder Sonntag ist einzeln startbar. Zusatzwertungen: Team, Familie, Mixed, Long Distance (80 km)",
    "gear_open": "nicht geprüft",
    "bezirk": "Unterfranken",
-   "checked": "2026-11-03"
+   "checked": "2026-11-03",
+   "elevation": [
+    250
+   ],
+   "fee": "Einzelstart 14 € (Schüler/Jugendliche 12 €) pro Lauf; Serie aller 9 Läufe 55 € (Schüler/Jugendliche 45 €), mit Langarm-Shirt 65 € (55 €) bei Meldung bis 20.10.2026",
+   "reg_close": "2026-11-07",
+   "late_reg": "Keine Anmeldung oder Nachmeldung an den Laufsonntagen; Einzelstart nur per E-Mail bis Samstag 12:00 Uhr vor dem Lauf, Serie über das Online-Tool",
+   "pickup": "Serien-Startnummern an Service-Days im Vereinsheim (12.–24.10.2026) oder am Laufsonntag bis 09:00 Uhr am Start/Ziel; Einzel-Startnummern bis 09:00 Uhr (Walking bis 08:30 Uhr)",
+   "parking": "Begrenzt an der Edelweißkapelle; empfohlen: Parkplatz am Goldbacher Waldschwimmbad (kurzer Fußweg) sowie TV-Sportpark Westseite; nur ortseinwärts am Straßenrand parken, absolutes Halteverbot Richtung Kapelle",
+   "aid": "Zielgetränk „Cross on Edelweiss Tee“ im Mehrwegbecher; Imbiss, Kuchen und Kaffee im TV-Vereinsheim (après cross)",
+   "showers": "Umkleide und Duschen in der TV-Sporthalle, Mühlstraße 18",
+   "note": "43. Serie mit 9 Läufen (08.11., 15.11., 22.11., 29.11., 06.12., 13.12.2026, 03.01., 10.01., 17.01.2027), jeweils 10 km; ca. 250 Hm, Waldwege, Pfade und kleine Trailpassagen; Wanderer ab 07:30, Walking 08:40, Hauptlauf 09:30, Zielschluss 11:00; Hunde nicht erlaubt; Wertung aus den besten 5 Zeiten"
   },
   {
    "id": "ainringer-crosslauf-2026",
@@ -11858,16 +11873,25 @@
    "confirmed": true,
    "prev_date": null,
    "distances": [
-    "5"
+    "2,8",
+    "5,1"
    ],
-   "url": "https://www.hdsports.org/laufen/ainringer-crosslauf",
-   "source": "https://www.hdsports.org/laufen/ainringer-crosslauf",
+   "url": "https://sc-ainring.de/infos-und-aktuelles/",
+   "source": "https://sc-ainring.de/wp-content/uploads/2026/09/2026-Ausschreibung-Crosslauf.pdf",
    "kreis": "LK Berchtesgadener Land",
-   "start_time": "14:30",
-   "info": "Termin laut hdsports vom Veranstalter bestätigt; Startgeld, Anmeldung und Zeiten noch nicht auf der Veranstalterseite geprüft; Startzeit und Startgeld stammen aus der letzten Ausgabe (hdsports)",
+   "start_time": "14:50",
+   "info": "Veranstalter: Ski-Club Ainring e.V. Online-Anmeldung über sc-ainring.de bis Freitag 20.11.2026, 18:00 Uhr",
    "gear_open": "nicht geprüft",
    "bezirk": "Oberbayern",
-   "checked": "2026-11-03"
+   "checked": "2026-11-03",
+   "fee": "Jugend und Erwachsene 12 €, Kinder und Schüler 6 €",
+   "reg_close": "2026-11-20",
+   "late_reg": "Keine Nachmeldung am Wettkampftag möglich",
+   "start_place": "Eschlberg in Ainring (nahe dem Ainringer Erlebnisbad)",
+   "pickup": "Startnummernausgabe ab 13:00 Uhr beim Start am Eschlberg",
+   "parking": "Parkplatz Ainringer Erlebnisbad",
+   "showers": "Umkleide, Duschen und Toiletten in der Sporthalle Mitterfelden",
+   "note": "Finale des EUREGIO-zwei-Länder-Laufcups und Edith-Püschner-Gedächtnislauf; offen für alle, keine Vereinsmitgliedschaft nötig. Damen 2,77 km (1 Runde), Herren 5,1 km (2 Runden), 14:50 Uhr; davor Kinder- und Schülerläufe ab 14:00 Uhr. Siegerehrung ab 16:15 Uhr im Haus der Kultur, Ainring"
   },
   {
    "id": "silvesterlauf-burggrumbach-2026",
@@ -11881,18 +11905,21 @@
    "confirmed": true,
    "prev_date": null,
    "distances": [
-    "4",
     "6,4",
     "10,5"
    ],
-   "url": "https://www.hdsports.org/laufen/silvesterlauf-burggrumbach",
-   "source": "https://www.hdsports.org/laufen/silvesterlauf-burggrumbach",
+   "url": "https://www.vfr-1949.de/abteilungen/leichtathletik/",
+   "source": "https://www.vfr-1949.de/abteilungen/leichtathletik/",
    "kreis": "LK Würzburg",
-   "start_place": "Seemühlstraße 17, 97294 Unterpleichfeld (Adresse laut hdsports)",
+   "start_place": "VfR Sportgelände, Seemühlstraße 17, 97294 Burggrumbach",
    "start_time": "10:00",
-   "info": "Termin laut hdsports vom Veranstalter bestätigt; Startgeld, Anmeldung und Zeiten noch nicht auf der Veranstalterseite geprüft; Startzeit und Startgeld stammen aus der letzten Ausgabe (hdsports)",
+   "info": "Veranstalter: VfR Burggrumbach, Leichtathletik. Voranmeldung wird gebeten. Reiner Fun-Lauf, keine Zeitnahme und keine Ergebnisliste",
    "bezirk": "Unterfranken",
-   "checked": "2026-11-03"
+   "checked": "2026-11-03",
+   "fee": "Organisationsgebühr 2 € je Teilnehmer",
+   "showers": "Duschen im VfR-Sportheim",
+   "aid": "Nach dem Lauf Tee, Glühwein, Leberkäs-Brötchen und Kuchen am Sportheim",
+   "note": "Silvester-Fun-Lauf ohne Zeitnahme: Erwachsene, Jugend oder Hobby 10,5 km oder 6,4 km, Schüler/Jugend 4 km, dazu Kinderstrecken (0,3–2,1 km); Walker und Wanderer 6,4 oder 4 km; alle Strecken starten ab 10:00 Uhr; Kinder bekommen nach dem Zieleinlauf eine kleine Belohnung"
   },
   {
    "id": "silvesterlauf-neuburg-donau-2026",
@@ -11908,14 +11935,22 @@
    "distances": [
     "6"
    ],
-   "url": "https://www.hdsports.org/laufen/silvesterlauf-neuburg-donau",
-   "source": "https://www.hdsports.org/laufen/silvesterlauf-neuburg-donau",
+   "url": "https://www.tsv1862-neuburg.de/abteilungen/leichtathletik/ausschreibungen/",
+   "source": "https://www.tsv1862-neuburg.de/2025/10/28/49-neuburger-silvesterlauf-31-12-2025-ausschreibung/",
    "kreis": "LK Neuburg-Schrobenhausen",
    "start_place": "Flachslandenstr. 25, 86633 Neuburg an der Donau (Adresse laut hdsports)",
-   "start_time": "11:00",
-   "info": "Termin laut hdsports vom Veranstalter bestätigt; Startgeld, Anmeldung und Zeiten noch nicht auf der Veranstalterseite geprüft; Startzeit und Startgeld stammen aus der letzten Ausgabe (hdsports)",
+   "info": "Veranstalter: TSV 1862 Neuburg, Leichtathletik. Die Ausschreibung für 2026 ist noch nicht veröffentlicht; Startgeld, Zeiten und Parken stammen aus der Ausschreibung 2025 (Vorjahr). Anmeldung 2025 über RaceResult bis 29.12., Nachmeldung bis 60 Minuten vor dem Start",
    "bezirk": "Oberbayern",
-   "checked": "2026-11-03"
+   "checked": "2026-11-03",
+   "anmeldung_url": "https://my.raceresult.com/368733/",
+   "prev": {
+    "fee": "Erwachsene 12 €, Jugend und Schüler 4 €, Bambini frei; Nachmeldung +5 € (Erwachsene) bzw. +3 € (Jugend/Schüler)",
+    "start_time": "11:00",
+    "start_place": "TSV Sportanlage im Englischen Garten, Flachslandenstr. 25, 86633 Neuburg an der Donau",
+    "parking": "Volksfestplatz (300 m entfernt) und Parkhalle (kostenpflichtig, 1 km entfernt)"
+   },
+   "showers": "Umkleide- und Duschmöglichkeiten vorhanden (Ausschreibung 2025)",
+   "note": "50. Neuburger Silvesterlauf des TSV 1862 Neuburg; Hauptlauf 6,0 km auf befestigten Waldwegen und im Stadtbereich; 2025: Jugend und Erwachsene 11:00 Uhr, Schüler 2,7 km 10:30 Uhr, Bambini und U10 0,6 km ab 10:00 Uhr; Siegerehrung mit Urkunden und Pokalen"
   },
   {
    "id": "maintal-crosslauf-2027",
@@ -11956,19 +11991,23 @@
    "confirmed": true,
    "prev_date": "2026-03-15",
    "distances": [
-    "8,5"
+    "8,8"
    ],
-   "url": "https://www.hdsports.org/laufen/neuberglauf-kasing-koesching",
-   "source": "https://www.hdsports.org/laufen/neuberglauf-kasing-koesching",
+   "url": "https://www.sv-kasing.de/leichtathletik/",
+   "source": "https://www.sv-kasing.de/wp-content/uploads/2026/02/2026-Einladung-Neuberglauf-inkl-Bergwertung.pdf",
    "kreis": "LK Eichstätt",
-   "start_place": "Am Neuberg, 95092 Kösching (Adresse laut hdsports)",
+   "start_place": "Sportheim Kasing, Am Neuberg 20, 85092 Kasing (Gemeinde Kösching)",
    "prev": {
-    "start_time": "11:00"
+    "fee": "Erwachsene 14 €, Jugend und Schüler 5 €, Bambini frei; Nachmeldung +3 € bzw. +1 €",
+    "start_time": "11:00",
+    "pickup": "Startnummern ab 08:30 Uhr am Start (Sportheim Kasing)"
    },
-   "info": "Termin laut hdsports vom Veranstalter bestätigt; Startgeld, Anmeldung und Zeiten noch nicht auf der Veranstalterseite geprüft; Startzeit und Startgeld stammen aus der letzten Ausgabe (hdsports)",
+   "info": "Veranstalter: SV Kasing, Leichtathletik. Einladung für 2027 noch nicht veröffentlicht; Werte aus der Einladung 2026 (Vorjahr): Anmeldung über RaceResult bis Freitag vor dem Lauf, Nachmeldung bis 30 Minuten vor dem Start",
    "gear_open": "nicht geprüft",
    "bezirk": "Oberbayern",
-   "checked": "2026-11-03"
+   "checked": "2026-11-03",
+   "showers": "Umkleide und Duschen im Vereinsheim (laut Einladung 2026)",
+   "note": "20. Neuberglauf 2026 (Vorjahr): Hauptlauf 8,8 km mit gesonderter Bergwertung, profilierter Rundkurs auf befestigten Wegen, ca. 4,3 km Asphalt; Start und Ziel am Sportheim; Siegerehrung direkt nach dem Lauf"
   },
   {
    "id": "crosslauf-neumarkt-st-veit-2027",
@@ -12438,9 +12477,10 @@
    "prev": {
     "start_time": "15:30"
    },
-   "info": "Termin laut hdsports vom Veranstalter bestätigt; Startgeld, Anmeldung und Zeiten noch nicht auf der Veranstalterseite geprüft; Startzeit und Startgeld stammen aus der letzten Ausgabe (hdsports)",
+   "info": "Termin 08.05.2027 laut hdsports bestätigt (Runner's World nennt noch keinen nächsten Termin). Startzeit und Startgeld sind aus der letzten Ausgabe (hdsports). Die Vereinsseite ldg-rottendorf.de hat derzeit ein ungültiges Sicherheitszertifikat und wurde nicht gelesen",
    "bezirk": "Unterfranken",
-   "checked": "2026-11-03"
+   "checked": "2026-11-03",
+   "note": "Veranstalter ist der Lauf der Generationen Rottendorf (ldg-rottendorf.de); 2026 war die 16. Auflage am 09.05. mit 305 Läuferinnen und Läufern im Ziel; 5 km und 10 km auf Waldwegen rund um das Sportgelände Am Grasholz; dazu Bambini- und Schülerläufe"
   },
   {
    "id": "stoisser-alm-berglauf-2027",
@@ -12647,7 +12687,7 @@
    "distances": [
     "3,9"
    ],
-   "url": "https://www.hdsports.org/laufen/hoegllauf",
+   "url": "https://sc-ainring.de/hoegl-lauf/",
    "source": "https://www.hdsports.org/laufen/hoegllauf",
    "kreis": "LK Berchtesgadener Land",
    "start_place": "Ulrichshöglerstraße, 83404 Ainring (Adresse laut hdsports)",
@@ -12655,10 +12695,14 @@
     "start_time": "18:30",
     "fee": "€ 15 Größe des Events 0 - 100"
    },
-   "info": "Termin laut hdsports vom Veranstalter bestätigt; Startgeld, Anmeldung und Zeiten noch nicht auf der Veranstalterseite geprüft; Startzeit und Startgeld stammen aus der letzten Ausgabe (hdsports)",
+   "info": "Termin 18.06.2027 laut hdsports vom Veranstalter bestätigt; die Ausschreibung des SC Ainring für 2027 ist noch nicht online. Startzeit und Startgeld sind aus der letzten Ausgabe (hdsports)",
    "gear_open": "nicht geprüft",
    "bezirk": "Oberbayern",
-   "checked": "2026-11-03"
+   "checked": "2026-11-03",
+   "note": "Veranstalter SC Ainring; 2026 war die 47. Auflage am 19.06.; Start unterhalb der Kirche in Ainring, Ziel oberhalb der Neubichler Alm, ca. 3,8 km und 285 Höhenmeter; Schüler-Gipfel-Sprint; Siegerehrung auf der Ski-Club-Hütte",
+   "elevation": [
+    285
+   ]
   },
   {
    "id": "altstadtfestlauf-lauf-an-der-pegnitz-2027",
@@ -12728,16 +12772,17 @@
     "10",
     "HM"
    ],
-   "url": "https://www.hdsports.org/laufen/dorfener-stadtlauf",
+   "url": "https://www.foerderkreis-dorfen.de/aktionen/stadtlauf-dorfen",
    "source": "https://www.hdsports.org/laufen/dorfener-stadtlauf",
    "kreis": "LK Erding",
    "prev": {
     "start_time": "08:15",
     "fee": "€ 12"
    },
-   "info": "Termin laut hdsports vom Veranstalter bestätigt; Startgeld, Anmeldung und Zeiten noch nicht auf der Veranstalterseite geprüft; Startzeit und Startgeld stammen aus der letzten Ausgabe (hdsports)",
+   "info": "Termin 04.07.2027 laut hdsports vom Veranstalter bestätigt; die Seite des Förderkreises zeigt noch den Stadtlauf 2026. Startzeit und Startgeld sind aus der letzten Ausgabe (hdsports)",
    "bezirk": "Oberbayern",
-   "checked": "2026-11-03"
+   "checked": "2026-11-03",
+   "note": "Veranstalter Förderkreis Dorfen e.V. und Stadt Dorfen (mit TSV Dorfen, Skiclub Wasentegernbach und Skiclub Dorfen); 5 km, 10 km und Halbmarathon durchs Isental, Zieleinlauf am Stadtplatz, dazu Kinderläufe; 2026 war die 23. Auflage am 05.07."
   },
   {
    "id": "wolfratshauser-stadtlauf-2027",
@@ -12754,16 +12799,17 @@
     "5",
     "10"
    ],
-   "url": "https://www.hdsports.org/laufen/wolfratshauser-stadtlauf",
+   "url": "https://tsvwolfratshausen.de/wolfratshauser-stadtlauf/",
    "source": "https://www.hdsports.org/laufen/wolfratshauser-stadtlauf",
    "kreis": "LK Bad Tölz-Wolfratshausen",
    "start_place": "Marienplatz, 82515 Wolfratshausen (Adresse laut hdsports)",
    "prev": {
     "start_time": "09:00"
    },
-   "info": "Termin laut hdsports vom Veranstalter bestätigt; Startgeld, Anmeldung und Zeiten noch nicht auf der Veranstalterseite geprüft; Startzeit und Startgeld stammen aus der letzten Ausgabe (hdsports)",
+   "info": "Termin 04.07.2027 laut hdsports bestätigt; der TSV schreibt „Weitere Informationen für 2027 folgen“. Anmeldung online, per E-Mail oder bei Sport Reiser. Startzeit aus der letzten Ausgabe (hdsports)",
    "bezirk": "Oberbayern",
-   "checked": "2026-11-03"
+   "checked": "2026-11-03",
+   "note": "26. Wolfratshauser Stadtlauf des TSV Wolfratshausen; flacher, amtlich vermessener Rundkurs durch die Altstadt: Hauptlauf 10 km (4 Runden), Hobbylauf 5 km (2 Runden), Schülerläufe 2,5 km, dazu Staffel und Mannschaftswertung; Teil der Raiffeisen Oberland Challenge (Speed); 2026 war am 05.07."
   },
   {
    "id": "plankenfelser-waldlauf-2027",
@@ -13105,12 +13151,13 @@
     "10,5",
     "HM"
    ],
-   "url": "https://www.hdsports.org/laufen/run-of-hope",
+   "url": "https://www.ggkev.de/runofhope/",
    "source": "https://www.hdsports.org/laufen/run-of-hope",
    "kreis": "LK Kronach",
-   "info": "Termin laut hdsports vom Veranstalter bestätigt; Startgeld, Anmeldung und Zeiten noch nicht auf der Veranstalterseite geprüft",
+   "info": "Termin 11.09.2027 laut hdsports bestätigt (racepeak nennt ihn „unbestätigt“); der Verein kündigt den Run of Hope 2027 an, Ausschreibung und Anmeldung folgen. Startgeld und Startzeit noch nicht veröffentlicht",
    "bezirk": "Oberfranken",
-   "checked": "2026-11-03"
+   "checked": "2026-11-03",
+   "note": "Benefizlauf des Vereins Gemeinsam gegen Krebs e.V. in Kronach; 2026 am 12.09.; Läufe über 4 km, 10,5 km und Halbmarathon, dazu Nordic Walking und Hobbylauf"
   },
   {
    "id": "hellerberglauf-buxheim-2027",
@@ -13284,19 +13331,30 @@
    "prev_date": "2026-09-27",
    "distances": [
     "7",
-    "14",
+    "10,5",
     "HM"
    ],
-   "url": "https://www.hdsports.org/laufen/moehrendorfer-karpfenweiherlauf",
-   "source": "https://www.hdsports.org/laufen/moehrendorfer-karpfenweiherlauf",
+   "url": "https://www.karpfenweiherlauf.de",
+   "source": "https://tria-fit.de/wp-content/uploads/2026/01/Ausschreibung_Weiherlauf_2026.pdf",
    "kreis": "LK Erlangen-Höchstadt",
    "start_place": "Speckweg 22, 91096 Möhrendorf (Adresse laut hdsports)",
    "prev": {
-    "start_time": "09:50"
+    "fee": "Halbmarathon 14 € bei Anmeldung ab 01.02., 17 € ab 01.07., 22 € ab 01.09.; 10,5 km 12/15/20 €; 7 km und Nordic Walking 8/11/17 €; Schüler und Jugend 0–5 €",
+    "start_time": "09:45",
+    "start_place": "ASV-Heim Möhrendorf, Speckweg 22; Ziel auf dem Wanderparkplatz gegenüber",
+    "pickup": "Rathaus Möhrendorf, Hauptstr. 16: Samstag 12:00–16:00 Uhr, Sonntag 07:30–09:00 Uhr",
+    "parking": "Parkplatz am Sportheim des ASV Möhrendorf",
+    "aid": "Drei Versorgungsstellen (Wasser und Mineraldrinks, beim Halbmarathon in Runde 2 zusätzlich Bananen und Gel); im Ziel Gebäck und Getränk gegen Rückgabe der Startnummer"
    },
-   "info": "Termin laut hdsports vom Veranstalter bestätigt; Startgeld, Anmeldung und Zeiten noch nicht auf der Veranstalterseite geprüft; Startzeit und Startgeld stammen aus der letzten Ausgabe (hdsports)",
+   "info": "Veranstalter: ASV Möhrendorf, Triathlon. Die Ausschreibung für 2027 ist noch nicht veröffentlicht; Werte aus der Ausschreibung 2026 (Vorjahr): Meldeschluss war Mittwoch vor dem Lauf 23:59 Uhr oder bei Erreichen der Höchstgrenze, gestaffelte Gebühren (ab 01.02. / 01.07. / 01.09.), Anmeldung nur online",
    "bezirk": "Mittelfranken",
-   "checked": "2026-11-03"
+   "checked": "2026-11-03",
+   "anmeldung_url": "https://www.karpfenweiherlauf.de",
+   "limit": "300 Athleten insgesamt (2025 schlossen zwei Klassen vorzeitig)",
+   "showers": "Kabinen im ASV-Heim Möhrendorf (Ausschreibung 2026)",
+   "cutoff": "Halbmarathon: erste Runde (10,5 km) in 75 Minuten, Wald wird um 12:50 Uhr freigegeben (Ausschreibung 2026)",
+   "late_reg": "Nachmeldungen nicht möglich",
+   "note": "Landschaftslauf (kein Straßenlauf) durch Wald, Wiesen und an Karpfenweihern vorbei: 7 km, 10,5 km und Halbmarathon (2 Runden à 10,5 km) sowie Nordic Walking 7 km; Samstag Schüler- und Jugendläufe, Sonntag Erwachsenenläufe; elektronische Zeitmessung; Medaille für alle im Ziel; Bestzeiten sind wegen des Geländes kaum möglich; ca. 50 Hm auf 10,5 km, ca. 100 Hm auf dem Halbmarathon"
   },
   {
    "id": "buchdorfer-jedermannslauf-2027",
