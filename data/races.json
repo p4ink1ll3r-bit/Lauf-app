@@ -11821,6 +11821,1578 @@
    "end": null,
    "prev_date": null,
    "checked": "2026-11-03"
+  },
+  {
+   "id": "goldbacher-winter-crosslaufserie-2026",
+   "type": "trail",
+   "name": "Goldbacher Winter Crosslaufserie",
+   "place": "Goldbach",
+   "lat": 50.006,
+   "lon": 9.175,
+   "date": "2026-11-08",
+   "end": null,
+   "confirmed": true,
+   "prev_date": null,
+   "distances": [
+    "10"
+   ],
+   "url": "https://www.hdsports.org/laufen/goldbacher-winter-crosslauf-serie",
+   "source": "https://www.hdsports.org/laufen/goldbacher-winter-crosslauf-serie",
+   "kreis": "LK Aschaffenburg",
+   "start_place": "Edelweisskapelle, 63773 Goldbach (Adresse laut hdsports)",
+   "start_time": "09:30",
+   "info": "Termin laut hdsports vom Veranstalter bestätigt; Startgeld, Anmeldung und Zeiten noch nicht auf der Veranstalterseite geprüft; Startzeit und Startgeld stammen aus der letzten Ausgabe (hdsports)",
+   "gear_open": "nicht geprüft",
+   "bezirk": "Unterfranken",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "ainringer-crosslauf-2026",
+   "type": "trail",
+   "name": "Ainringer Crosslauf",
+   "place": "Ainring",
+   "lat": 47.816,
+   "lon": 12.943,
+   "date": "2026-11-21",
+   "end": null,
+   "confirmed": true,
+   "prev_date": null,
+   "distances": [
+    "5"
+   ],
+   "url": "https://www.hdsports.org/laufen/ainringer-crosslauf",
+   "source": "https://www.hdsports.org/laufen/ainringer-crosslauf",
+   "kreis": "LK Berchtesgadener Land",
+   "start_time": "14:30",
+   "info": "Termin laut hdsports vom Veranstalter bestätigt; Startgeld, Anmeldung und Zeiten noch nicht auf der Veranstalterseite geprüft; Startzeit und Startgeld stammen aus der letzten Ausgabe (hdsports)",
+   "gear_open": "nicht geprüft",
+   "bezirk": "Oberbayern",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "silvesterlauf-burggrumbach-2026",
+   "type": "road",
+   "name": "Silvesterlauf Burggrumbach",
+   "place": "Unterpleichfeld",
+   "lat": 49.868,
+   "lon": 10.045,
+   "date": "2026-12-31",
+   "end": null,
+   "confirmed": true,
+   "prev_date": null,
+   "distances": [
+    "4",
+    "6,4",
+    "10,5"
+   ],
+   "url": "https://www.hdsports.org/laufen/silvesterlauf-burggrumbach",
+   "source": "https://www.hdsports.org/laufen/silvesterlauf-burggrumbach",
+   "kreis": "LK Würzburg",
+   "start_place": "Seemühlstraße 17, 97294 Unterpleichfeld (Adresse laut hdsports)",
+   "start_time": "10:00",
+   "info": "Termin laut hdsports vom Veranstalter bestätigt; Startgeld, Anmeldung und Zeiten noch nicht auf der Veranstalterseite geprüft; Startzeit und Startgeld stammen aus der letzten Ausgabe (hdsports)",
+   "bezirk": "Unterfranken",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "silvesterlauf-neuburg-donau-2026",
+   "type": "road",
+   "name": "Silvesterlauf Neuburg/Donau",
+   "place": "Neuburg an der Donau",
+   "lat": 48.746,
+   "lon": 11.188,
+   "date": "2026-12-31",
+   "end": null,
+   "confirmed": true,
+   "prev_date": null,
+   "distances": [
+    "6"
+   ],
+   "url": "https://www.hdsports.org/laufen/silvesterlauf-neuburg-donau",
+   "source": "https://www.hdsports.org/laufen/silvesterlauf-neuburg-donau",
+   "kreis": "LK Neuburg-Schrobenhausen",
+   "start_place": "Flachslandenstr. 25, 86633 Neuburg an der Donau (Adresse laut hdsports)",
+   "start_time": "11:00",
+   "info": "Termin laut hdsports vom Veranstalter bestätigt; Startgeld, Anmeldung und Zeiten noch nicht auf der Veranstalterseite geprüft; Startzeit und Startgeld stammen aus der letzten Ausgabe (hdsports)",
+   "bezirk": "Oberbayern",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "maintal-crosslauf-2027",
+   "type": "trail",
+   "name": "Maintal-Crosslauf",
+   "place": "Kemmern",
+   "lat": 49.953,
+   "lon": 10.874,
+   "date": "2027-02-07",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-02-08",
+   "distances": [
+    "3,7",
+    "8,4"
+   ],
+   "url": "https://www.hdsports.org/laufen/maintal-crosslauf",
+   "source": "https://www.hdsports.org/laufen/maintal-crosslauf",
+   "kreis": "LK Bamberg",
+   "start_place": "Sportplatz, 96164 Kemmern (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "10:00"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "gear_open": "nicht geprüft",
+   "bezirk": "Oberfranken",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "neuberglauf-kasing-koesching-2027",
+   "type": "trail",
+   "name": "Neuberglauf Kasing (Kösching)",
+   "place": "Kösching",
+   "lat": 48.842,
+   "lon": 11.519,
+   "date": "2027-03-14",
+   "end": null,
+   "confirmed": true,
+   "prev_date": "2026-03-15",
+   "distances": [
+    "8,5"
+   ],
+   "url": "https://www.hdsports.org/laufen/neuberglauf-kasing-koesching",
+   "source": "https://www.hdsports.org/laufen/neuberglauf-kasing-koesching",
+   "kreis": "LK Eichstätt",
+   "start_place": "Am Neuberg, 95092 Kösching (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "11:00"
+   },
+   "info": "Termin laut hdsports vom Veranstalter bestätigt; Startgeld, Anmeldung und Zeiten noch nicht auf der Veranstalterseite geprüft; Startzeit und Startgeld stammen aus der letzten Ausgabe (hdsports)",
+   "gear_open": "nicht geprüft",
+   "bezirk": "Oberbayern",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "crosslauf-neumarkt-st-veit-2027",
+   "type": "trail",
+   "name": "Crosslauf Neumarkt-St. Veit",
+   "place": "Neumarkt-Sankt Veit",
+   "lat": 48.361,
+   "lon": 12.508,
+   "date": "2027-03-20",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-03-21",
+   "distances": [
+    "3,8",
+    "8,9"
+   ],
+   "url": "https://www.hdsports.org/laufen/crosslauf-neumarkt-st-veit",
+   "source": "https://www.hdsports.org/laufen/crosslauf-neumarkt-st-veit",
+   "kreis": "LK Mühldorf a. Inn",
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "gear_open": "nicht geprüft",
+   "bezirk": "Oberbayern",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "treuchtlinger-fruehjahrslauf-2027",
+   "type": "road",
+   "name": "Treuchtlinger Frühjahrslauf",
+   "place": "Treuchtlingen",
+   "lat": 48.952,
+   "lon": 10.866,
+   "date": "2027-03-20",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-03-21",
+   "distances": [
+    "10"
+   ],
+   "url": "https://www.hdsports.org/laufen/treuchtlinger-fruehjahrslauf",
+   "source": "https://www.hdsports.org/laufen/treuchtlinger-fruehjahrslauf",
+   "kreis": "LK Weißenburg-Gunzenhausen",
+   "start_place": "Am Brühl, 91757 Treuchtlingen (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "15:00",
+    "fee": "Hauptlauf 9 Euro / Hobbylauf 6"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "bezirk": "Mittelfranken",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "aok-strassenlauf-augsburg-2027",
+   "type": "road",
+   "name": "AOK-Strassenlauf Augsburg",
+   "place": "Augsburg",
+   "lat": 48.369,
+   "lon": 10.898,
+   "date": "2027-03-21",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-03-22",
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.hdsports.org/laufen/strassenlauf-augsburg",
+   "source": "https://www.hdsports.org/laufen/strassenlauf-augsburg",
+   "kreis": "Stadt Augsburg",
+   "start_place": "Ilsungstraße 15 c, 86161 Augsburg (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "10:00",
+    "fee": "10 km € 12 - 23 5 km € 8 - 18 Nachmeldungen bis 15 Minuten vor dem Start möglich Anmeldung ✔ Online-Voranmeldung ✔ Persönlich am Wettkampftag vor"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "bezirk": "Schwaben",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "weilersbacher-fruehjahrslauf-2027",
+   "type": "road",
+   "name": "Weilersbacher Frühjahrslauf",
+   "place": "Weilersbach",
+   "lat": 49.747,
+   "lon": 11.128,
+   "date": "2027-04-11",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-04-12",
+   "distances": [
+    "6",
+    "10"
+   ],
+   "url": "https://www.hdsports.org/laufen/weilersbacher-fruehjahrslauf",
+   "source": "https://www.hdsports.org/laufen/weilersbacher-fruehjahrslauf",
+   "kreis": "LK Forchheim",
+   "start_place": "Sportplatz, 91365 Weilersbach (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "16:00"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "bezirk": "Oberfranken",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "crosslauf-marktl-2027",
+   "type": "trail",
+   "name": "Crosslauf Marktl",
+   "place": "Marktl",
+   "lat": 48.254,
+   "lon": 12.842,
+   "date": "2027-04-17",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-04-18",
+   "distances": [
+    "3,7",
+    "8,5"
+   ],
+   "url": "https://www.hdsports.org/laufen/crosslauf-marktl",
+   "source": "https://www.hdsports.org/laufen/crosslauf-marktl",
+   "kreis": "LK Altötting",
+   "start_place": "Marktler Badesee, 84533 Marktl (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "14:45",
+    "fee": "Schüler 3,00 € Jugend 4,00 € Aktive 7,00 € Hobbylauf 5,00 €"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "gear_open": "nicht geprüft",
+   "bezirk": "Oberbayern",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "leiblachlauf-2027",
+   "type": "road",
+   "name": "Leiblachlauf",
+   "place": "Hergensweiler",
+   "lat": 47.617,
+   "lon": 9.779,
+   "date": "2027-04-17",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-04-18",
+   "distances": [
+    "7,5",
+    "11,4"
+   ],
+   "url": "https://www.hdsports.org/laufen/leiblachlauf",
+   "source": "https://www.hdsports.org/laufen/leiblachlauf",
+   "kreis": "LK Lindau (Bodensee)",
+   "prev": {
+    "start_time": "15:00"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "bezirk": "Schwaben",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "steinachtal-lauf-stadtsteinach-2027",
+   "type": "road",
+   "name": "Steinachtal-Lauf Stadtsteinach",
+   "place": "Stadtsteinach",
+   "lat": 50.18,
+   "lon": 11.515,
+   "date": "2027-04-17",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-04-18",
+   "distances": [
+    "6",
+    "16"
+   ],
+   "url": "https://www.hdsports.org/laufen/steinachtal-lauf",
+   "source": "https://www.hdsports.org/laufen/steinachtal-lauf",
+   "kreis": "LK Kulmbach",
+   "start_place": "Badstraße 4, 95346 Stadtsteinach (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "14:00"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "bezirk": "Oberfranken",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "burgbernheimer-berglauf-2027",
+   "type": "trail",
+   "name": "Burgbernheimer Berglauf",
+   "place": "Burgbernheim",
+   "lat": 49.461,
+   "lon": 10.313,
+   "date": "2027-04-18",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-04-19",
+   "distances": [
+    "5,2",
+    "13,6"
+   ],
+   "url": "https://www.hdsports.org/laufen/burgbernheimer-berglauf",
+   "source": "https://www.hdsports.org/laufen/burgbernheimer-berglauf",
+   "kreis": "LK Neustadt a.d.Aisch-Bad Windsheim",
+   "start_place": "Schulstraße 2, 91593 Burgbernheim (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "09:45"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "gear_open": "nicht geprüft",
+   "bezirk": "Mittelfranken",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "kolmberglauf-oberstreu-2027",
+   "type": "trail",
+   "name": "Kolmberglauf Oberstreu",
+   "place": "Oberstreu",
+   "lat": 50.398,
+   "lon": 10.275,
+   "date": "2027-04-24",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-04-25",
+   "distances": [
+    "4,8",
+    "9,7"
+   ],
+   "url": "https://www.hdsports.org/laufen/kolmberglauf-oberstreu",
+   "source": "https://www.hdsports.org/laufen/kolmberglauf-oberstreu",
+   "kreis": "LK Rhön-Grabfeld",
+   "prev": {
+    "start_time": "14:00"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "gear_open": "nicht geprüft",
+   "bezirk": "Unterfranken",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "neuhauser-strassenlauf-2027",
+   "type": "road",
+   "name": "Neuhauser Strassenlauf",
+   "place": "Adelsdorf",
+   "lat": 49.706,
+   "lon": 10.897,
+   "date": "2027-04-24",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-04-25",
+   "distances": [
+    "6",
+    "10"
+   ],
+   "url": "https://www.hdsports.org/laufen/neuhauser-strassenlauf",
+   "source": "https://www.hdsports.org/laufen/neuhauser-strassenlauf",
+   "kreis": "LK Erlangen-Höchstadt",
+   "start_place": "Neuhauser Hauptstraße 32, 91325 Adelsdorf (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "14:00"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "bezirk": "Mittelfranken",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "moosburger-drei-rosenlauf-2027",
+   "type": "road",
+   "name": "Moosburger Drei-Rosenlauf",
+   "place": "Moosburg",
+   "lat": 48.467,
+   "lon": 11.933,
+   "date": "2027-04-25",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-04-26",
+   "distances": [
+    "5",
+    "9"
+   ],
+   "url": "https://www.hdsports.org/laufen/moosburger-stadtlauf",
+   "source": "https://www.hdsports.org/laufen/moosburger-stadtlauf",
+   "kreis": "LK Freising",
+   "start_place": "Am Stadion 3, 85368 Moosburg (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "11:00"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "bezirk": "Oberbayern",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "dachauer-fruehjahrslauf-2027",
+   "type": "road",
+   "name": "Dachauer Frühjahrslauf",
+   "place": "Dachau",
+   "lat": 48.26,
+   "lon": 11.435,
+   "date": "2027-05-01",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-05-01",
+   "distances": [
+    "4",
+    "10"
+   ],
+   "url": "https://www.hdsports.org/laufen/dachauer-fruehjahrslauf",
+   "source": "https://www.hdsports.org/laufen/dachauer-fruehjahrslauf",
+   "kreis": "LK Dachau",
+   "start_place": "Gröbenrieder Str. 21, 85221 Dachau (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "10:00",
+    "fee": "10 km ab Euro 14 4 km"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "bezirk": "Oberbayern",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "mailauf-marktredwitz-2027",
+   "type": "road",
+   "name": "Mailauf Marktredwitz",
+   "place": "Marktredwitz",
+   "lat": 50.001,
+   "lon": 12.086,
+   "date": "2027-05-01",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-05-01",
+   "distances": [
+    "4,8",
+    "10,5",
+    "HM"
+   ],
+   "url": "https://www.hdsports.org/laufen/mailauf-marktredwitz",
+   "source": "https://www.hdsports.org/laufen/mailauf-marktredwitz",
+   "kreis": "LK Wunsiedel i. Fichtelgebirge",
+   "start_place": "Lorenzreuth, 95615 Marktredwitz (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "10:00"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "bezirk": "Oberfranken",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "neuburger-fruehjahrswaldlauf-2027",
+   "type": "trail",
+   "name": "Neuburger Frühjahrswaldlauf",
+   "place": "Neuburg an der Donau",
+   "lat": 48.746,
+   "lon": 11.188,
+   "date": "2027-05-01",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-05-02",
+   "distances": [
+    "7,8"
+   ],
+   "url": "https://www.hdsports.org/laufen/neuburger-fruehjahrswaldlauf",
+   "source": "https://www.hdsports.org/laufen/neuburger-fruehjahrswaldlauf",
+   "kreis": "LK Neuburg-Schrobenhausen",
+   "start_place": "Flachslanden Str. 25, 86633 Neuburg an der Donau (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "15:00"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "gear_open": "nicht geprüft",
+   "bezirk": "Oberbayern",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "lindwurmlauf-scheinfeld-2027",
+   "type": "road",
+   "name": "Lindwurmlauf Scheinfeld",
+   "place": "Scheinfeld",
+   "lat": 49.665,
+   "lon": 10.463,
+   "date": "2027-05-02",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-05-03",
+   "distances": [
+    "4",
+    "10"
+   ],
+   "url": "https://www.hdsports.org/laufen/lindwurmlauf",
+   "source": "https://www.hdsports.org/laufen/lindwurmlauf",
+   "kreis": "LK Neustadt a.d.Aisch-Bad Windsheim",
+   "start_place": "Würzburger Str. 17, 91443 Scheinfeld (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "11:15",
+    "fee": "HL 9,00 € Fun 5,00 € Jugend 3,00 € Schüler 2,00 €"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "bezirk": "Mittelfranken",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "wuelflinger-waessernachlauf-2027",
+   "type": "road",
+   "name": "Wülflinger Wässernachlauf",
+   "place": "Haßfurt",
+   "lat": 50.043,
+   "lon": 10.509,
+   "date": "2027-05-06",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-05-14",
+   "distances": [
+    "9,5"
+   ],
+   "url": "https://www.hdsports.org/laufen/wuelflinger-waessernachlauf",
+   "source": "https://www.hdsports.org/laufen/wuelflinger-waessernachlauf",
+   "kreis": "LK Haßberge",
+   "start_place": "Wässernachstraße 75, 97437 Haßfurt (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "11:00",
+    "fee": "Hauptlauf/(Nordic)-Walking 15,- € Schülerlauf 3,- € Wett-Lauf 2,- € Bambinis total frei Nachmeldung bis 9.30 Uhr (Zuschlag 1,-- €;)"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "bezirk": "Unterfranken",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "friedenfelser-crosslauf-waldlauf-2027",
+   "type": "trail",
+   "name": "Friedenfelser Crosslauf / Waldlauf",
+   "place": "Friedenfels",
+   "lat": 49.89,
+   "lon": 12.097,
+   "date": "2027-05-07",
+   "end": null,
+   "confirmed": false,
+   "prev_date": null,
+   "distances": [
+    "4,7",
+    "8,9"
+   ],
+   "url": "https://www.hdsports.org/laufen/friedenfelser-waldlauf",
+   "source": "https://www.hdsports.org/laufen/friedenfelser-waldlauf",
+   "kreis": "LK Tirschenreuth",
+   "start_place": "Waldstrasse 34, 95688 Friedenfels (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "18:15"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "gear_open": "nicht geprüft",
+   "bezirk": "Oberpfalz",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "lauf-der-generationen-rottendorf-2027",
+   "type": "road",
+   "name": "Lauf der Generationen Rottendorf",
+   "place": "Rottendorf",
+   "lat": 49.799,
+   "lon": 10.032,
+   "date": "2027-05-08",
+   "end": null,
+   "confirmed": true,
+   "prev_date": "2026-05-09",
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.hdsports.org/laufen/lauf-der-generationen-rottendorf",
+   "source": "https://www.hdsports.org/laufen/lauf-der-generationen-rottendorf",
+   "kreis": "LK Würzburg",
+   "start_place": "Sportgelände Am Grasholz, 97228 Rottendorf (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "15:30"
+   },
+   "info": "Termin laut hdsports vom Veranstalter bestätigt; Startgeld, Anmeldung und Zeiten noch nicht auf der Veranstalterseite geprüft; Startzeit und Startgeld stammen aus der letzten Ausgabe (hdsports)",
+   "bezirk": "Unterfranken",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "stoisser-alm-berglauf-2027",
+   "type": "trail",
+   "name": "Stoisser Alm Berglauf",
+   "place": "Anger",
+   "lat": 47.796,
+   "lon": 12.833,
+   "date": "2027-05-08",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-05-09",
+   "distances": [
+    "7"
+   ],
+   "url": "https://www.hdsports.org/laufen/stoisseralm",
+   "source": "https://www.hdsports.org/laufen/stoisseralm",
+   "kreis": "LK Berchtesgadener Land",
+   "prev": {
+    "start_time": "14:00"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "gear_open": "nicht geprüft",
+   "bezirk": "Oberbayern",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "erbarun-2027",
+   "type": "road",
+   "name": "Erbarun",
+   "place": "Bamberg",
+   "lat": 49.892,
+   "lon": 10.887,
+   "date": "2027-05-09",
+   "end": null,
+   "confirmed": false,
+   "prev_date": null,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.hdsports.org/laufen/kramprun",
+   "source": "https://www.hdsports.org/laufen/kramprun",
+   "kreis": "Stadt Bamberg",
+   "start_place": "Gaustadter Hauptstraße 81, 96049 Bamberg (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "14:15"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "bezirk": "Oberfranken",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "wesslinger-seelauf-2027",
+   "type": "road",
+   "name": "Weßlinger Seelauf",
+   "place": "Weßling",
+   "lat": 48.074,
+   "lon": 11.252,
+   "date": "2027-05-09",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-05-10",
+   "distances": [
+    "3,5",
+    "10"
+   ],
+   "url": "https://www.hdsports.org/laufen/sz-volkslauf-rund-um-den-wesslinger-see",
+   "source": "https://www.hdsports.org/laufen/sz-volkslauf-rund-um-den-wesslinger-see",
+   "kreis": "LK Starnberg",
+   "start_place": "Meilinger Weg 24, 82234 Weßling (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "11:15"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "bezirk": "Oberbayern",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "10-aindlinger-marktlauf-2027",
+   "type": "road",
+   "name": "Aindlinger Marktlauf",
+   "place": "Aindling",
+   "lat": 48.512,
+   "lon": 10.953,
+   "date": "2027-05-16",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-05-17",
+   "distances": [
+    "5",
+    "10",
+    "HM"
+   ],
+   "url": "https://www.hdsports.org/laufen/aindlinger-marktlauf",
+   "source": "https://www.hdsports.org/laufen/aindlinger-marktlauf",
+   "kreis": "LK Aichach-Friedberg",
+   "start_place": "Marktplatz, 86447 Aindling (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "11:10"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "bezirk": "Schwaben",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "osterseenlauf-iffeldorf-2027",
+   "type": "road",
+   "name": "Osterseenlauf Iffeldorf",
+   "place": "Iffeldorf",
+   "lat": 47.773,
+   "lon": 11.32,
+   "date": "2027-05-16",
+   "end": null,
+   "confirmed": false,
+   "prev_date": null,
+   "distances": [
+    "3,7",
+    "7,5",
+    "11,1"
+   ],
+   "url": "https://www.hdsports.org/laufen/osterseenlauf",
+   "source": "https://www.hdsports.org/laufen/osterseenlauf",
+   "kreis": "LK Weilheim-Schongau",
+   "start_place": "Maffeistraße 9, 82393 Iffeldorf (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "13:00"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "bezirk": "Oberbayern",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "ebermergener-dorflauf-2027",
+   "type": "road",
+   "name": "Ebermergener Dorflauf",
+   "place": "Harburg",
+   "lat": 48.787,
+   "lon": 10.689,
+   "date": "2027-05-21",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-05-22",
+   "distances": [
+    "5,03"
+   ],
+   "url": "https://www.hdsports.org/laufen/ebermergener-dorflauf",
+   "source": "https://www.hdsports.org/laufen/ebermergener-dorflauf",
+   "kreis": "LK Donau-Ries",
+   "start_place": "An der Linde, 86655 Harburg (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "19:15",
+    "fee": "€ 6"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "bezirk": "Schwaben",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "salomon-zugspitz-ultratrail-by-utmb-zut-2027",
+   "type": "trail",
+   "name": "Salomon Zugspitz Ultratrail by UTMB (ZUT)",
+   "place": "Grainau",
+   "lat": 47.452,
+   "lon": 11.01,
+   "date": "2027-06-17",
+   "end": null,
+   "confirmed": true,
+   "prev_date": "2026-06-18",
+   "distances": [
+    "16",
+    "29",
+    "44",
+    "69",
+    "86",
+    "107",
+    "166"
+   ],
+   "url": "https://www.hdsports.org/laufen/salomon-zugspitz-ultratrail",
+   "source": "https://www.hdsports.org/laufen/salomon-zugspitz-ultratrail",
+   "kreis": "LK Garmisch-Partenkirchen",
+   "prev": {
+    "start_time": "20:00"
+   },
+   "info": "Termin laut hdsports vom Veranstalter bestätigt; Startgeld, Anmeldung und Zeiten noch nicht auf der Veranstalterseite geprüft; Startzeit und Startgeld stammen aus der letzten Ausgabe (hdsports)",
+   "gear_open": "nicht geprüft",
+   "bezirk": "Oberbayern",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "hoegl-berglauf-ainring-2027",
+   "type": "trail",
+   "name": "Högl-Berglauf Ainring",
+   "place": "Ainring",
+   "lat": 47.816,
+   "lon": 12.943,
+   "date": "2027-06-18",
+   "end": null,
+   "confirmed": true,
+   "prev_date": "2026-06-19",
+   "distances": [
+    "3,9"
+   ],
+   "url": "https://www.hdsports.org/laufen/hoegllauf",
+   "source": "https://www.hdsports.org/laufen/hoegllauf",
+   "kreis": "LK Berchtesgadener Land",
+   "start_place": "Ulrichshöglerstraße, 83404 Ainring (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "18:30",
+    "fee": "€ 15 Größe des Events 0 - 100"
+   },
+   "info": "Termin laut hdsports vom Veranstalter bestätigt; Startgeld, Anmeldung und Zeiten noch nicht auf der Veranstalterseite geprüft; Startzeit und Startgeld stammen aus der letzten Ausgabe (hdsports)",
+   "gear_open": "nicht geprüft",
+   "bezirk": "Oberbayern",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "altstadtfestlauf-lauf-an-der-pegnitz-2027",
+   "type": "road",
+   "name": "Altstadtfestlauf Lauf an der Pegnitz",
+   "place": "Lauf an der Pegnitz",
+   "lat": 49.52,
+   "lon": 11.283,
+   "date": "2027-06-25",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-09-27",
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.hdsports.org/laufen/altstadtfestlauf-lauf-an-der-pegnitz",
+   "source": "https://www.hdsports.org/laufen/altstadtfestlauf-lauf-an-der-pegnitz",
+   "kreis": "LK Nürnberger Land",
+   "start_place": "Friedensplatz 1, 91207 Lauf an der Pegnitz (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "11:00"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "bezirk": "Mittelfranken",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "sonnwendlauf-um-den-gruentensee-2027",
+   "type": "road",
+   "name": "Sonnwendlauf um den Grüntensee",
+   "place": "Oy-Mittelberg",
+   "lat": 47.642,
+   "lon": 10.444,
+   "date": "2027-06-25",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-06-26",
+   "distances": [
+    "10,55",
+    "HM"
+   ],
+   "url": "https://www.hdsports.org/laufen/sonnwendlauf-um-den-gruentensee",
+   "source": "https://www.hdsports.org/laufen/sonnwendlauf-um-den-gruentensee",
+   "kreis": "LK Oberallgäu",
+   "start_place": "Sportplatz in Haslach, 87466 Oy-Mittelberg (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "18:00"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "bezirk": "Schwaben",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "dorfener-stadtlauf-2027",
+   "type": "road",
+   "name": "Dorfener Stadtlauf",
+   "place": "Dorfen",
+   "lat": 48.273,
+   "lon": 12.151,
+   "date": "2027-07-04",
+   "end": null,
+   "confirmed": true,
+   "prev_date": "2026-07-05",
+   "distances": [
+    "5",
+    "10",
+    "HM"
+   ],
+   "url": "https://www.hdsports.org/laufen/dorfener-stadtlauf",
+   "source": "https://www.hdsports.org/laufen/dorfener-stadtlauf",
+   "kreis": "LK Erding",
+   "prev": {
+    "start_time": "08:15",
+    "fee": "€ 12"
+   },
+   "info": "Termin laut hdsports vom Veranstalter bestätigt; Startgeld, Anmeldung und Zeiten noch nicht auf der Veranstalterseite geprüft; Startzeit und Startgeld stammen aus der letzten Ausgabe (hdsports)",
+   "bezirk": "Oberbayern",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "wolfratshauser-stadtlauf-2027",
+   "type": "road",
+   "name": "Wolfratshauser Stadtlauf",
+   "place": "Wolfratshausen",
+   "lat": 47.91,
+   "lon": 11.427,
+   "date": "2027-07-04",
+   "end": null,
+   "confirmed": true,
+   "prev_date": "2026-07-05",
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.hdsports.org/laufen/wolfratshauser-stadtlauf",
+   "source": "https://www.hdsports.org/laufen/wolfratshauser-stadtlauf",
+   "kreis": "LK Bad Tölz-Wolfratshausen",
+   "start_place": "Marienplatz, 82515 Wolfratshausen (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "09:00"
+   },
+   "info": "Termin laut hdsports vom Veranstalter bestätigt; Startgeld, Anmeldung und Zeiten noch nicht auf der Veranstalterseite geprüft; Startzeit und Startgeld stammen aus der letzten Ausgabe (hdsports)",
+   "bezirk": "Oberbayern",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "plankenfelser-waldlauf-2027",
+   "type": "trail",
+   "name": "Plankenfelser Waldlauf",
+   "place": "Plankenfels",
+   "lat": 49.894,
+   "lon": 11.345,
+   "date": "2027-07-11",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-07-12",
+   "distances": [
+    "3,5",
+    "10,7",
+    "21,4"
+   ],
+   "url": "https://www.hdsports.org/laufen/plankenfelser-waldlauf",
+   "source": "https://www.hdsports.org/laufen/plankenfelser-waldlauf",
+   "kreis": "LK Bayreuth",
+   "start_place": "Lindenweg 1, 95515 Plankenfels (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "10:30",
+    "fee": "Euro 7 - 25 Anmeldung ✔ Online-Voranmeldung ✔ Persönlich am Wettkampftag vor"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "gear_open": "nicht geprüft",
+   "bezirk": "Oberfranken",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "schwanberglauf-iphofen-castell-2027",
+   "type": "trail",
+   "name": "Schwanberglauf Iphofen-Castell",
+   "place": "Iphofen",
+   "lat": 49.678,
+   "lon": 10.333,
+   "date": "2027-07-16",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-07-17",
+   "distances": [
+    "10,4"
+   ],
+   "url": "https://www.hdsports.org/laufen/schwanberglauf",
+   "source": "https://www.hdsports.org/laufen/schwanberglauf",
+   "kreis": "LK Kitzingen",
+   "start_place": "Rödelseer Tor, 97346 Iphofen (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "18:30",
+    "fee": "Voranmeldung: 14 € Nachmeldung: 17€ Anmeldung ✔ Online-Voranmeldung ✔ Persönlich am Wettkampftag vor"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "gear_open": "nicht geprüft",
+   "bezirk": "Unterfranken",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "stadtlauf-bad-neustadt-2027",
+   "type": "road",
+   "name": "Stadtlauf Bad Neustadt",
+   "place": "Bad Neustadt an der Saale",
+   "lat": 50.323,
+   "lon": 10.216,
+   "date": "2027-07-16",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-07-17",
+   "distances": [
+    "3,5",
+    "6",
+    "9,44"
+   ],
+   "url": "https://www.hdsports.org/laufen/stadtlauf-bad-neustadt",
+   "source": "https://www.hdsports.org/laufen/stadtlauf-bad-neustadt",
+   "kreis": "LK Rhön-Grabfeld",
+   "start_place": "Marktplatz, 97616 Bad Neustadt an der Saale (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "19:30",
+    "fee": "Bambini-Run ---, Schüler-Run 2,-€, Sportler-Run 2,-€, Wellness-Run 2,-€, Hauptlauf 6,-€ Anmeldung ✔ Online-Voranmeldung ✔ Persönlich am Wettkampftag vor"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "bezirk": "Unterfranken",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "sommernachtslauf-muenchen-2027",
+   "type": "road",
+   "name": "Sommernachtslauf München",
+   "place": "Oberschleißheim",
+   "lat": 48.255,
+   "lon": 11.555,
+   "date": "2027-07-21",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-07-22",
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.hdsports.org/laufen/schueler-und-sommernachtslauf",
+   "source": "https://www.hdsports.org/laufen/schueler-und-sommernachtslauf",
+   "kreis": "LK München",
+   "start_place": "Dachauer Str. 35, 85764 Oberschleißheim (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "19:30"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "bezirk": "Oberbayern",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "altmuehl-jura-halbmarathon-im-naturpark-altmuehltal-2027",
+   "type": "trail",
+   "name": "Altmühl-Jura Halbmarathon im Naturpark Altmühltal",
+   "place": "Greding",
+   "lat": 49.067,
+   "lon": 11.34,
+   "date": "2027-07-25",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-07-26",
+   "distances": [
+    "5",
+    "10",
+    "HM"
+   ],
+   "url": "https://www.hdsports.org/laufen/altmuehl-jura-halbmarathon-im-naturpark-altmuehltal",
+   "source": "https://www.hdsports.org/laufen/altmuehl-jura-halbmarathon-im-naturpark-altmuehltal",
+   "kreis": "LK Roth",
+   "start_place": "Marktplatz Greding, 91171 Greding (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "10:00"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "gear_open": "nicht geprüft",
+   "bezirk": "Mittelfranken",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "jura-trail-schesslitz-2027",
+   "type": "trail",
+   "name": "Jura Trail Scheßlitz",
+   "place": "Scheßlitz",
+   "lat": 49.982,
+   "lon": 11.045,
+   "date": "2027-07-25",
+   "end": null,
+   "confirmed": false,
+   "prev_date": null,
+   "distances": [
+    "16"
+   ],
+   "url": "https://www.hdsports.org/laufen/jura-trail-schesslitz",
+   "source": "https://www.hdsports.org/laufen/jura-trail-schesslitz",
+   "kreis": "LK Bamberg",
+   "start_place": "Peulendorfer Straße, 96110 Scheßlitz (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "09:00",
+    "fee": "€ 15"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "gear_open": "nicht geprüft",
+   "bezirk": "Oberfranken",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "oscheffer-tsg-lauf-mainaschaff-2027",
+   "type": "road",
+   "name": "Oscheffer TSG-Lauf Mainaschaff",
+   "place": "Mainaschaff",
+   "lat": 49.982,
+   "lon": 9.086,
+   "date": "2027-07-25",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-07-26",
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.hdsports.org/laufen/oscheffer-tsg-lauf-mainaschaff",
+   "source": "https://www.hdsports.org/laufen/oscheffer-tsg-lauf-mainaschaff",
+   "kreis": "LK Aschaffenburg",
+   "start_place": "Jahnstr., 63814 Mainaschaff (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "09:00"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "bezirk": "Unterfranken",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "schwindegger-schlosslauf-2027",
+   "type": "road",
+   "name": "Schwindegger Schlosslauf",
+   "place": "Schwindegg",
+   "lat": 48.272,
+   "lon": 12.261,
+   "date": "2027-07-31",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-08-01",
+   "distances": [
+    "5,25",
+    "11,9"
+   ],
+   "url": "https://www.hdsports.org/laufen/schwindegger-schlosslauf",
+   "source": "https://www.hdsports.org/laufen/schwindegger-schlosslauf",
+   "kreis": "LK Mühldorf a. Inn",
+   "start_place": "Dorfener Strasse 13, 84419 Schwindegg (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "17:00",
+    "fee": "5 € Kinder / 7 € Jugend / 12 € Erwachsene - zzgl. 5 € Nachmeldegebühr für"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "bezirk": "Oberbayern",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "kapellenlauf-vorra-2027",
+   "type": "road",
+   "name": "Kapellenlauf Vorra",
+   "place": "Frensdorf",
+   "lat": 49.809,
+   "lon": 10.87,
+   "date": "2027-08-01",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-08-02",
+   "distances": [
+    "5,5",
+    "10,55",
+    "HM"
+   ],
+   "url": "https://www.hdsports.org/laufen/kapellenlauf",
+   "source": "https://www.hdsports.org/laufen/kapellenlauf",
+   "kreis": "LK Bamberg",
+   "start_place": "Abtsdorfer Str., 96158 Frensdorf (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "09:00",
+    "fee": "21,1 km Halbmarathon, 20 € 10,55 km Viertelmarathon, 15 € 5,5 km"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "bezirk": "Oberfranken",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "stauseelauf-bad-woerishofen-2027",
+   "type": "road",
+   "name": "Stauseelauf Bad Wörishofen",
+   "place": "Wiedergeltingen",
+   "lat": 48.039,
+   "lon": 10.672,
+   "date": "2027-08-06",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-08-07",
+   "distances": [
+    "5,3",
+    "10,6"
+   ],
+   "url": "https://www.hdsports.org/laufen/stauseelauf-wiedergeltingen",
+   "source": "https://www.hdsports.org/laufen/stauseelauf-wiedergeltingen",
+   "kreis": "LK Unterallgäu",
+   "start_place": "Am Stausee 2, 86879 Wiedergeltingen (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "18:00"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "bezirk": "Schwaben",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "woessner-halbmarathon-2027",
+   "type": "road",
+   "name": "Wössner Halbmarathon",
+   "place": "Unterwössen",
+   "lat": 47.736,
+   "lon": 12.459,
+   "date": "2027-08-15",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-08-16",
+   "distances": [
+    "HM"
+   ],
+   "url": "https://www.hdsports.org/laufen/woessner-halbmarathon",
+   "source": "https://www.hdsports.org/laufen/woessner-halbmarathon",
+   "kreis": "LK Traunstein",
+   "start_place": "Zollweg 17, 83246 Unterwössen (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "10:00"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "bezirk": "Oberbayern",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "hochgrat-berglauf-2027",
+   "type": "trail",
+   "name": "Hochgrat Berglauf",
+   "place": "Oberstaufen",
+   "lat": 47.525,
+   "lon": 10.062,
+   "date": "2027-09-05",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-09-06",
+   "distances": [
+    "6,04"
+   ],
+   "url": "https://www.hdsports.org/laufen/hochgrat-berglauf",
+   "source": "https://www.hdsports.org/laufen/hochgrat-berglauf",
+   "kreis": "LK Oberallgäu",
+   "start_place": "Lanzenbach 5, 87534 Oberstaufen (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "10:30",
+    "fee": "19,00 €"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "gear_open": "nicht geprüft",
+   "bezirk": "Schwaben",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "run-of-hope-kronach-2027",
+   "type": "road",
+   "name": "Run of Hope Kronach",
+   "place": "Kronach",
+   "lat": 50.248,
+   "lon": 11.313,
+   "date": "2027-09-11",
+   "end": null,
+   "confirmed": true,
+   "prev_date": "2026-09-12",
+   "distances": [
+    "4",
+    "10,5",
+    "HM"
+   ],
+   "url": "https://www.hdsports.org/laufen/run-of-hope",
+   "source": "https://www.hdsports.org/laufen/run-of-hope",
+   "kreis": "LK Kronach",
+   "info": "Termin laut hdsports vom Veranstalter bestätigt; Startgeld, Anmeldung und Zeiten noch nicht auf der Veranstalterseite geprüft",
+   "bezirk": "Oberfranken",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "hellerberglauf-buxheim-2027",
+   "type": "trail",
+   "name": "Hellerberglauf Buxheim",
+   "place": "Buxheim",
+   "lat": 48.821,
+   "lon": 11.276,
+   "date": "2027-09-18",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-09-19",
+   "distances": [
+    "7,75"
+   ],
+   "url": "https://www.hdsports.org/laufen/hellerberglauf-buxheim",
+   "source": "https://www.hdsports.org/laufen/hellerberglauf-buxheim",
+   "kreis": "LK Eichstätt",
+   "start_place": "Tauberfeld, 85114 Buxheim (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "16:30"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "gear_open": "nicht geprüft",
+   "bezirk": "Oberbayern",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "herbstlauf-hollstadt-2027",
+   "type": "road",
+   "name": "Herbstlauf Hollstadt",
+   "place": "Hollstadt",
+   "lat": 50.352,
+   "lon": 10.289,
+   "date": "2027-09-18",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-09-19",
+   "distances": [
+    "5,6",
+    "10",
+    "HM"
+   ],
+   "url": "https://www.hdsports.org/laufen/hollschter-herbstlauf",
+   "source": "https://www.hdsports.org/laufen/hollschter-herbstlauf",
+   "kreis": "LK Rhön-Grabfeld",
+   "start_place": "Sportplatz, 97618 Hollstadt (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "14:10"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "bezirk": "Unterfranken",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "hoernle-berglauf-2027",
+   "type": "trail",
+   "name": "Hörnle Berglauf",
+   "place": "Bad Kohlgrub",
+   "lat": 47.666,
+   "lon": 11.052,
+   "date": "2027-09-18",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-09-19",
+   "distances": [
+    "7"
+   ],
+   "url": "https://www.hdsports.org/laufen/hoernle-berglauf",
+   "source": "https://www.hdsports.org/laufen/hoernle-berglauf",
+   "kreis": "LK Garmisch-Partenkirchen",
+   "start_place": "Dorfkirche, 82433 Bad Kohlgrub (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "15:30"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "gear_open": "nicht geprüft",
+   "bezirk": "Oberbayern",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "kuckuckslauf-kemmern-2027",
+   "type": "road",
+   "name": "Kuckuckslauf Kemmern",
+   "place": "Kemmern",
+   "lat": 49.953,
+   "lon": 10.874,
+   "date": "2027-09-19",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-09-20",
+   "distances": [
+    "4",
+    "10"
+   ],
+   "url": "https://www.hdsports.org/laufen/kuckuckslauf-kemmern",
+   "source": "https://www.hdsports.org/laufen/kuckuckslauf-kemmern",
+   "kreis": "LK Bamberg",
+   "start_place": "SC Kemmern, 96164 Kemmern (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "11:30"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "bezirk": "Oberfranken",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "benefizlauf-aidhausen-2027",
+   "type": "road",
+   "name": "Benefizlauf Aidhausen",
+   "place": "Aidhausen",
+   "lat": 50.161,
+   "lon": 10.464,
+   "date": "2027-09-25",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-09-26",
+   "distances": [
+    "5,9",
+    "10",
+    "HM"
+   ],
+   "url": "https://www.hdsports.org/laufen/5-ottmar-schneider-benefizlauf",
+   "source": "https://www.hdsports.org/laufen/5-ottmar-schneider-benefizlauf",
+   "kreis": "LK Haßberge",
+   "start_place": "Schweinfurter Straße 15, 97491 Aidhausen (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "12:00",
+    "fee": "Halbmarathon 15€"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "bezirk": "Unterfranken",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "stadtlauf-merkendorf-2027",
+   "type": "road",
+   "name": "Stadtlauf Merkendorf",
+   "place": "Merkendorf",
+   "lat": 49.204,
+   "lon": 10.702,
+   "date": "2027-09-25",
+   "end": null,
+   "confirmed": true,
+   "prev_date": "2026-09-26",
+   "distances": [
+    "5,8",
+    "11,6"
+   ],
+   "url": "https://www.hdsports.org/laufen/2-staedtelauf-merkendorf-wolframs-eschenbach",
+   "source": "https://www.hdsports.org/laufen/2-staedtelauf-merkendorf-wolframs-eschenbach",
+   "kreis": "LK Ansbach",
+   "start_place": "Marktplatz 1, 91732 Merkendorf (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "14:00"
+   },
+   "info": "Termin laut hdsports vom Veranstalter bestätigt; Startgeld, Anmeldung und Zeiten noch nicht auf der Veranstalterseite geprüft; Startzeit und Startgeld stammen aus der letzten Ausgabe (hdsports)",
+   "bezirk": "Mittelfranken",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "moehrendorfer-karpfenweiherlauf-2027",
+   "type": "road",
+   "name": "Möhrendorfer Karpfenweiherlauf",
+   "place": "Möhrendorf",
+   "lat": 49.643,
+   "lon": 10.993,
+   "date": "2027-09-26",
+   "end": null,
+   "confirmed": true,
+   "prev_date": "2026-09-27",
+   "distances": [
+    "7",
+    "14",
+    "HM"
+   ],
+   "url": "https://www.hdsports.org/laufen/moehrendorfer-karpfenweiherlauf",
+   "source": "https://www.hdsports.org/laufen/moehrendorfer-karpfenweiherlauf",
+   "kreis": "LK Erlangen-Höchstadt",
+   "start_place": "Speckweg 22, 91096 Möhrendorf (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "09:50"
+   },
+   "info": "Termin laut hdsports vom Veranstalter bestätigt; Startgeld, Anmeldung und Zeiten noch nicht auf der Veranstalterseite geprüft; Startzeit und Startgeld stammen aus der letzten Ausgabe (hdsports)",
+   "bezirk": "Mittelfranken",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "buchdorfer-jedermannslauf-2027",
+   "type": "road",
+   "name": "Buchdorfer Jedermannslauf",
+   "place": "Buchdorf",
+   "lat": 48.785,
+   "lon": 10.837,
+   "date": "2027-10-03",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-10-03",
+   "distances": [
+    "10"
+   ],
+   "url": "https://www.hdsports.org/laufen/jedermannslauf-lauf-am-lech",
+   "source": "https://www.hdsports.org/laufen/jedermannslauf-lauf-am-lech",
+   "kreis": "LK Donau-Ries",
+   "prev": {
+    "start_time": "10:00"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "bezirk": "Schwaben",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "wein-berg-lauf-ramsthal-2027",
+   "type": "road",
+   "name": "Wein-Berg-Lauf Ramsthal",
+   "place": "Ramsthal",
+   "lat": 50.14,
+   "lon": 10.069,
+   "date": "2027-10-09",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-10-10",
+   "distances": [
+    "6,4",
+    "10,4"
+   ],
+   "url": "https://www.hdsports.org/laufen/wein-berg-lauf-ramsthal",
+   "source": "https://www.hdsports.org/laufen/wein-berg-lauf-ramsthal",
+   "kreis": "LK Bad Kissingen",
+   "prev": {
+    "start_time": "14:30",
+    "fee": "Hauptlauf : 6.- €"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "bezirk": "Unterfranken",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "altmuehltrail-2027",
+   "type": "trail",
+   "name": "Altmühltrail",
+   "place": "Dollnstein",
+   "lat": 48.869,
+   "lon": 11.091,
+   "date": "2027-10-16",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-10-17",
+   "distances": [
+    "9",
+    "26"
+   ],
+   "url": "https://www.hdsports.org/laufen/altmuehltrail",
+   "source": "https://www.hdsports.org/laufen/altmuehltrail",
+   "kreis": "LK Eichstätt",
+   "start_place": "Burgsteinweg 16, 91795 Dollnstein (Adresse laut hdsports)",
+   "prev": {
+    "start_time": "11:30"
+   },
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "gear_open": "nicht geprüft",
+   "bezirk": "Oberbayern",
+   "checked": "2026-11-03"
+  },
+  {
+   "id": "maurener-lauf-um-den-eisbrunn-2027",
+   "type": "road",
+   "name": "Maurener „Lauf um den Eisbrunn“",
+   "place": "Harburg",
+   "lat": 48.787,
+   "lon": 10.689,
+   "date": "2027-10-24",
+   "end": null,
+   "confirmed": false,
+   "prev_date": "2026-10-25",
+   "distances": [
+    "10"
+   ],
+   "url": "https://www.hdsports.org/laufen/maurener-lauf-um-den-eisbrunn",
+   "source": "https://www.hdsports.org/laufen/maurener-lauf-um-den-eisbrunn",
+   "kreis": "LK Donau-Ries",
+   "start_place": "Reinbergstr. 1, 86655 Harburg (Adresse laut hdsports)",
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "bezirk": "Schwaben",
+   "checked": "2026-11-03"
   }
  ]
 }
