@@ -11763,6 +11763,64 @@
    "bezirk": "Unterfranken",
    "end": null,
    "checked": "2026-11-03"
+  },
+  {
+   "type": "road",
+   "name": "Kreichauf-Bau-Run Thalmässing",
+   "place": "Thalmässing (Eysölden)",
+   "kreis": "LK Roth",
+   "date": "2027-04-10",
+   "distances": [
+    "5",
+    "10"
+   ],
+   "note": "6. Kreichauf-Bau-Run des TV 06 Thalmässing: Hauptlauf (LäuferCup) 10 km, Hobbylauf und Jugend U16 5 km, Staffellauf 3 × 3,33 km, Schülerläufe 3,33 / 1,66 / 1 km, Bambinilauf 330 m, dazu Einrad-Läufe (Bambinis 1 km, Unlimited 8,5 km)",
+   "url": "https://www.zeitgemaess.info/event.php?ACCESSCODE=202704102",
+   "source": "Veranstalter-Ausschreibung (Seitenauszug des Gründers, 03.11.2026)",
+   "reg_close": "2027-04-08",
+   "fee": "Hauptlauf 10 km 12 € · 5-km-Lauf 8 € · Staffel 15 € · Schüler/Jugend 5 € · Einrad Unlimited 12 € · Bambini und Einrad-Bambinis frei",
+   "start_time": "14:50",
+   "start_place": "Sportgelände des TSV Eysölden, 91177 Thalmässing/Eysölden",
+   "pickup": "Ab 12:00 Uhr im Startbereich",
+   "late_reg": "Nachmeldung bis 45 Minuten vor dem jeweiligen Start im Zelt, Gebühr 3 €",
+   "course": "Asphalt und Flurbereinigungsweg",
+   "showers": "Duschen in der Sportanlage des TSV Eysölden",
+   "included": "Urkunde für alle Teilnehmer, Transponder-Zeitmessung in der Startnummer; Sachpreise für die ersten 3 Plätze, Sonderpreis für die Schnellsten im Hauptlauf aus der Marktgemeinde Thalmässing",
+   "info": "Starts: Einrad Bambinis 12:30, Einrad Unlimited 12:50, Hobbylauf 5 km und Jugend U16 14:00, Hauptlauf 10 km und Staffel 14:50, Schüler U14 und U12 16:10, Schüler U10 16:30, Bambinilauf 16:50; Online-Anmeldung bis 08.04.2027 (Link folgt, Zeitgemäß); Veranstaltung bei jeder Witterung; Ansprechpartner Marcus Obermeyer; Altersklassenwertung m/w",
+   "id": "kreichauf-bau-run-thalmaessing-2027",
+   "lat": 48.912,
+   "lon": 12.155,
+   "bezirk": "Mittelfranken",
+   "end": null,
+   "confirmed": true,
+   "prev_date": null,
+   "checked": "2026-11-03"
+  },
+  {
+   "type": "road",
+   "name": "Schwandorfer Charity Stadtlauf",
+   "place": "Schwandorf",
+   "kreis": "LK Schwandorf",
+   "date": "2027-07-03",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "note": "21. Schwandorfer Charity Stadtlauf, Veranstalter Ski-Club Schwandorf; Benteler Haupt- und Firmenlauf 5 km, Globus Nordic Walking mit Zeitmessung 5 km, Nabaltec Run & Bike 10 km, Kinderläufe und On.Point-Gaudi-Special (Stutz'n-Staffel-Rallye)",
+   "url": "https://www.sportprogramme.org/cakespg/events/menue/5049",
+   "source": "Veranstalter-Zeitplan (Seitenauszug des Gründers, 03.11.2026)",
+   "prev": {
+    "start_time": "10:00"
+   },
+   "info": "Termin 03.07.2027 aus Kalender; Zeitplan laut Veranstalterseite (Jahr nicht angegeben): Haupt- und Firmenlauf 5 km 10:00 (Jahrgang 2014 und älter), Nordic Walking 5 km 10:05, Run & Bike 10 km 11:30, Zwergerllauf 200 m 13:00, Schülerlauf 1.500 m 13:15, Bambinilauf 600 m 13:35, Gaudi-Special 14:00; Nachmeldung und Startnummernausgabe ab 09:00 Uhr; Startgeld und Meldeschluss nicht angegeben",
+   "id": "schwandorfer-charity-stadtlauf-2027",
+   "lat": 49.324,
+   "lon": 12.099,
+   "bezirk": "Oberpfalz",
+   "end": null,
+   "prev_date": null,
+   "checked": "2026-11-03"
   }
  ]
 }
