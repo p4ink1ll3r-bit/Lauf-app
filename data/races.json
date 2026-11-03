@@ -11215,12 +11215,12 @@
    "kreis": "LK Weilheim-Schongau",
    "date": "2027-05-01",
    "distances": [
-    "Hauptlauf"
+    "10"
    ],
    "note": "Einzelläufe, Staffeln und Kinderläufe; 2026 rund 650 Finisher",
    "url": "https://www.tsv-weilheim.com/sportarten/leichtathletik/aulauf",
    "source": "https://www.tsv-weilheim.com/sportarten/leichtathletik/aulauf",
-   "info": "Termin 01.05.2027 laut Veranstalter (TSV 1847 Weilheim); Distanz des Hauptlaufs, Startgeld und Anmeldung noch nicht geprüft",
+   "info": "Termin 01.05.2027 laut Veranstalter (TSV 1847 Weilheim); Vorjahr (01.05.2026): 10-km-Lauf 10:00 Uhr, Schülerläufe 800 m ab 10:10 Uhr, Anmeldung über RaceResult bis eine Woche vorher; Ausschreibung 2027 noch nicht veröffentlicht",
    "id": "weilheimer-aulauf-2027",
    "lat": 47.84,
    "lon": 11.14,
@@ -11228,7 +11228,11 @@
    "end": null,
    "confirmed": true,
    "prev_date": null,
-   "checked": "2026-11-03"
+   "checked": "2026-11-03",
+   "prev": {
+    "fee": "10 km 20 € (25 € später), Schülerläufe 800 m 8 € (10 €)",
+    "start_time": "10:00"
+   }
   },
   {
    "type": "road",
@@ -11236,26 +11240,30 @@
    "place": "München",
    "kreis": "Stadt München",
    "date": "2027-05-08",
-   "confirmed": false,
+   "confirmed": true,
    "prev_date": "2026-05-09",
    "distances": [
-    "Hauptlauf"
+    "5",
+    "10"
    ],
    "note": "Benefizlauf im Englischen Garten (pro Starter 1 € an das Münchner-Kindl-Heim) mit Strecken für Kinder und Erwachsene, Zeitnahme, Urkunde für alle; Start am Seestadl",
    "url": "https://muenchner-kindl-lauf.de/",
    "source": "https://muenchner-kindl-lauf.de/ausschreibung/",
    "prev": {
+    "fee": "5 km und 10 km 28,50 € (bis 31.12.2025 22,50 €, ab 01.03.2026 29,50 €), Kinderläufe ab 12,50 €",
     "pickup": "Seestadl, Kleinhesselohe 5, 80802 München: am Veranstaltungstag ab 08:00 Uhr"
    },
-   "late_reg": "Vorjahr: Nachmeldung bis 1 Stunde vor dem jeweiligen Start, nur gegen Barzahlung (kein Aufpreis genannt)",
+   "late_reg": "Nach dem 06.05.2027 nur noch mit Nachmeldegebühr vor Ort am Seestadl, Nachmeldung bis 1 Stunde vor dem jeweiligen Start, nur gegen Barzahlung",
    "aid": "Obst, Milchprodukte und isotonische Getränke",
-   "info": "Ausschreibung 2027 noch nicht veröffentlicht; Termin 08.05.2027 aus Kalender (Runner's World/running.life), Vorjahr 09.05.2026 (Meldeschluss damals 07.05. 12:00 Uhr, Teilnehmerlimit); Distanzen und Startgeld noch nicht geprüft",
+   "info": "Benefizlauf im Englischen Garten (1 € pro Starter an das Münchner-Kindl-Heim); Meldeschluss 06.05.2027 laut Veranstalter; Starts im Vorjahr: Bobby-Car-Rennen 09:00, Kinderläufe 09:30 bis 10:30, 5 km und 10 km 11:30 Uhr, 5 km Nordic Walking; Startgebühren inklusive T-Shirt, Preise gestaffelt nach Anmeldedatum (Werte aus 2026)",
    "id": "muenchner-kindl-lauf-2027",
    "lat": 48.135,
    "lon": 11.571,
    "bezirk": "Oberbayern",
    "end": null,
-   "checked": "2026-11-03"
+   "checked": "2026-11-03",
+   "reg_close": "2027-05-06",
+   "start_time": "11:30"
   },
   {
    "type": "road",
@@ -11375,7 +11383,7 @@
    "note": "18. Römerlauf am bayerischen Untermain: Alcon-Lauf 5 km, Sparkassen-Lauf 10 km, Sodenthaler Schülerlauf 2,5 km, Mini-Lauf 0,7 km",
    "url": "https://www.roemerlauf.de/",
    "source": "https://www.roemerlauf.de/",
-   "info": "Termin laut Veranstalter; Startgeld, Startzeit und Meldeschluss noch nicht geprüft; Kontakt kontakt@roemerlauf.de",
+   "info": "Termin 20.06.2027 laut Veranstalter (18. Römerlauf); Vorjahr (17.05.2026): Schülerlauf 09:15, 10 km 10:00, 5 km 11:50 Uhr, Anmeldung über RaceResult; Ausschreibung 2027 noch nicht veröffentlicht; Kontakt kontakt@roemerlauf.de",
    "id": "roemerlauf-obernburg-2027",
    "lat": 49.836,
    "lon": 9.131,
@@ -11383,7 +11391,12 @@
    "end": null,
    "confirmed": true,
    "prev_date": null,
-   "checked": "2026-11-03"
+   "checked": "2026-11-03",
+   "prev": {
+    "fee": "10 km 16,90 € (19 € später), 5 km 16,90 € (19 €), Schülerlauf 2,5 km 11,90 € (14 €)",
+    "start_time": "10:00"
+   },
+   "late_reg": "Vorjahr: Nachmeldung Sa 15:00 Uhr im Rathaus Obernburg (Sitzungssaal) und So ab 07:30 Uhr im Wettkampfbüro Start-Ziel (Burenstr./Römerstr.) bis 1 Stunde vor dem Start"
   },
   {
    "type": "road",
@@ -11418,13 +11431,14 @@
    "kreis": "LK Schweinfurt",
    "date": "2027-07-02",
    "distances": [
-    "Hauptlauf"
+    "6",
+    "12"
    ],
    "note": "19. Geiersberglauf im Rahmen des 100-jährigen Jubiläums des TSV Waigolshausen; Hauptlauf und Kinderlauf; 2026 starteten 251 Läuferinnen und Läufer",
    "url": "https://www.tsv-waigolshausen.de/seite/504344/laufsport--geiersberglauf.html",
    "source": "https://www.tsv-waigolshausen.de/seite/504344/laufsport--geiersberglauf.html",
    "anmeldung_url": "https://my.raceresult.com/385394/registration",
-   "info": "Termin Freitag 02.07.2027 laut Veranstalter (2026 wegen Hitze eine Woche später); Distanz, Startgeld und Startzeit noch nicht geprüft (Wissenswertes und Strecke als PDF auf der Veranstalterseite)",
+   "info": "19. Geiersberglauf am Freitag 02.07.2027 im Rahmen des 100-jährigen Jubiläums des TSV Waigolshausen; Strecken: 6-km-Lauf, 12-km-Lauf, Walking, Kids-Run, Teen-Run; Vorjahr (03.07.2026): Kids-Run 18:00, Teen-Run 18:15, Hauptläufe 18:30 Uhr, 251 Teilnehmende; Anmeldung über RaceResult; Ausschreibung 2027 noch nicht veröffentlicht",
    "id": "geiersberglauf-waigolshausen-2027",
    "lat": 49.964,
    "lon": 10.12,
@@ -11432,7 +11446,14 @@
    "end": null,
    "confirmed": true,
    "prev_date": null,
-   "checked": "2026-11-03"
+   "checked": "2026-11-03",
+   "start_place": "Sportgelände des TSV Waigolshausen",
+   "showers": "Duschen und Umkleiden im Sportheim des TSV Waigolshausen und im Freizeitzentrum",
+   "course": "Schnelle, leicht profilierte Strecke mit Wechsel zwischen Schotter und Asphalt; Kids-Run und Teen-Run auf dem Sportgelände",
+   "prev": {
+    "fee": "6 km 8 € (11 € später), 12 km 9 € (12 €), Walking 6 km 8 €, Kids-Run und Teen-Run 2 €",
+    "start_time": "18:30"
+   }
   },
   {
    "type": "road",
@@ -11493,18 +11514,24 @@
    "confirmed": false,
    "prev_date": "2026-07-12",
    "distances": [
+    "5",
     "10"
    ],
    "note": "11. Grünwalder Burglauf an der Burg Grünwald (Strecken von 500 m bis 10 km); Überschüsse gehen an Klinik Clowns e.V.",
    "url": "https://www.tsv-gruenwald.de/verein/burglauf/",
    "source": "https://www.tsv-gruenwald.de/verein/burglauf/",
-   "info": "Termin Sonntag 11.07.2027 geplant, Anmeldung voraussichtlich ab Januar 2027; Startgeld und Startzeit noch nicht veröffentlicht",
+   "info": "11. Grünwalder Burglauf, Termin Sonntag 11.07.2027 geplant, Anmeldung voraussichtlich ab Januar 2027. Vorjahr (12.07.2026, 08:30–14:00 Uhr): 5-km-Rundkurs (10 km = 2 Runden), Kinderläufe 400 m und 1,3 km, Teilnehmerlimit 800, Online-Anmeldung bis eine Woche vorher, keine Nachmeldung, Laufshirt bei früher Anmeldung; Überschüsse an Klinik Clowns e.V.",
    "id": "gruenwalder-burglauf-2027",
    "lat": 48.039,
    "lon": 11.523,
    "bezirk": "Oberbayern",
    "end": null,
-   "checked": "2026-11-03"
+   "checked": "2026-11-03",
+   "prev": {
+    "limit": "800 Personen",
+    "start_place": "Burg Grünwald (Archäologische Staatssammlung), Zeillerstr. 3",
+    "pickup": "Sa 11.07.2026 16:00–18:00 Uhr bei der Freiwilligen Feuerwehr Grünwald, Hubert-Hopf-Str. 2"
+   }
   },
   {
    "type": "road",
@@ -11617,9 +11644,10 @@
    "kreis": "LK Erding",
    "date": "2027-09-19",
    "distances": [
-    "Hauptlauf"
+    "5",
+    "10"
    ],
-   "note": "24. Stadtlauf Erding, Veranstalter Trisport Erding e.V.",
+   "note": "24. Stadtlauf Erding, Veranstalter Trisport Erding e.V.; Strecken 2026: Kinderlauf 0,8 km, Schülerläufe 1,3 und 2,5 km, Stadtwerke-Lauf 5 km (2 Runden) und 10 km (4 Runden); Start und Ziel Schrannenplatz",
    "url": "https://trisport-erding.de/stadtlauf/info-stadtlauf/",
    "source": "https://trisport-erding.de/stadtlauf/info-stadtlauf/",
    "info": "Termin Sonntag 19.09.2027 laut Veranstalter; Anmeldung derzeit geschlossen, Informationen folgen; Strecken, Startgeld und Startzeit noch nicht veröffentlicht",
@@ -11662,12 +11690,13 @@
    "kreis": "LK Altötting",
    "date": "2027-10-10",
    "distances": [
-    "Hauptlauf"
+    "3,2",
+    "8,8"
    ],
    "note": "26. Salzach-Brückenlauf in Burghausen und Hochburg-Ach (Österreich) mit Kids-Cup, Altersklassen und Benefizlauf; Anmeldung über abavent",
    "url": "https://www.salzach-brueckenlauf.de/",
    "source": "https://www.salzach-brueckenlauf.de/",
-   "info": "Termin 10.10.2027 laut Veranstalter; Distanzen, Startgeld und Startzeit noch nicht geprüft",
+   "info": "26. Salzach-Brückenlauf am 10.10.2027 laut Veranstalter. Vorjahr (11.10.2026): Walking 5,5 km 09:10, Volkslauf 3,2 km 10:15, Hauptlauf 8,8 km 11:15 Uhr; Anmeldeschluss 4 Tage vorher 23:59 Uhr, Nachmeldung am Lauftag ab 8 Uhr bis 1 Stunde vor dem Start gegen 5 € Aufpreis; Finisher-Shirt für die ersten 650 Anmeldungen mit 20 € Startgeld; Anmeldung über abavent/datasport",
    "id": "salzach-brueckenlauf-2027",
    "lat": 48.169,
    "lon": 12.831,
@@ -11675,7 +11704,11 @@
    "end": null,
    "confirmed": true,
    "prev_date": null,
-   "checked": "2026-11-03"
+   "checked": "2026-11-03",
+   "prev": {
+    "fee": "Hauptlauf 8,8 km 20 €, Volkslauf 3,2 km 20 €, Kinder und Jugend 7 €",
+    "start_time": "11:15"
+   }
   },
   {
    "type": "road",
