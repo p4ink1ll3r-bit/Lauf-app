@@ -12607,7 +12607,7 @@
    "lat": 47.452,
    "lon": 11.01,
    "date": "2027-06-17",
-   "end": null,
+   "end": "2027-06-20",
    "confirmed": true,
    "prev_date": "2026-06-18",
    "distances": [
@@ -12616,19 +12616,22 @@
     "44",
     "69",
     "86",
-    "107",
-    "166"
+    "107"
    ],
-   "url": "https://www.hdsports.org/laufen/salomon-zugspitz-ultratrail",
-   "source": "https://www.hdsports.org/laufen/salomon-zugspitz-ultratrail",
+   "url": "https://zugspitz.utmb.world/",
+   "source": "https://zugspitz.utmb.world/races/ultratrail",
    "kreis": "LK Garmisch-Partenkirchen",
    "prev": {
     "start_time": "20:00"
    },
-   "info": "Termin laut hdsports vom Veranstalter bestätigt; Startgeld, Anmeldung und Zeiten noch nicht auf der Veranstalterseite geprüft; Startzeit und Startgeld stammen aus der letzten Ausgabe (hdsports)",
+   "info": "ZUT100 Ultratrail: 107 km mit 5.280 m Aufstieg, Start Freitag 18.06.2027 22:00 Uhr in Garmisch-Partenkirchen (Check-in 21:15), Siegerehrung Samstag 19.06.; Anmeldung über zugspitz.utmb.world, für den ZUT100 ist eine Qualifikation nötig; weitere Strecken z. B. Grainau Trail und Ehrwald Trail; 2026 war der Lauf ausverkauft (Startgebühren 2026 laut Suchergebnissen 60 € bis 320 €, nicht geprüft); Startgebühren 2027 und Teilnehmerlimit noch nicht geprüft",
    "gear_open": "nicht geprüft",
    "bezirk": "Oberbayern",
-   "checked": "2026-11-03"
+   "checked": "2026-11-03",
+   "start_place": "Garmisch-Partenkirchen (Richard-Strauss-Platz), Grainau und Ehrwald (Tirol)",
+   "start_time": "22:00",
+   "cutoff": "ZUT100: maximal 27 Stunden",
+   "note": "UTMB-World-Series-Event vom 17. bis 20.06.2027 in Garmisch-Partenkirchen, Grainau und Ehrwald (Tirol); mehrere Strecken von 16 bis über 100 km"
   },
   {
    "id": "hoegl-berglauf-ainring-2027",
