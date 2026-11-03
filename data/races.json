@@ -10241,37 +10241,6 @@
    "gear_note": "Quelle: https://allgaeu-trail.de/"
   },
   {
-   "id": "citylauf-ansbach-2026",
-   "type": "road",
-   "name": "Citylauf Ansbach",
-   "place": "Ansbach",
-   "lat": 49.3,
-   "lon": 10.5719,
-   "date": "2026-11-21",
-   "end": null,
-   "confirmed": false,
-   "prev_date": null,
-   "distances": [
-    "7",
-    "10",
-    "HM"
-   ],
-   "elevation": null,
-   "note": "Halbmarathon und 10-km-Straßenlauf",
-   "url": "https://citylauf-ansbach.de/",
-   "reg_open": null,
-   "reg_close": null,
-   "fee": null,
-   "start_time": "15:00",
-   "checked": "2026-11-02",
-   "source": "https://www.marathons.com/de/events/citylauf-ansbach_AdCpy",
-   "start_place": "Martin-Luther-Platz, Altstadt Ansbach (laut Suchtreffer, Quellseite nennt keinen Startort)",
-   "info": "Veranstalter: WLB Sports Ansbach. Samstag 21.11.2026 laut mehreren Kalendern (marathons.com, trainerday); die Veranstalterseite citylauf-ansbach.de zeigt noch den Stand 2023 und nennt keinen Termin. hdsports nennt zusätzlich eine 7-km-Strecke und Start 15:00 Uhr (Einzelquelle). Startgeld und Anmeldeschluss in keiner Quelle angegeben, bitte beim Veranstalter prüfen",
-   "na": [],
-   "bezirk": "Mittelfranken",
-   "kreis": "Stadt Ansbach"
-  },
-  {
    "id": "neuendettelsauer-kirchweihlauf-2027",
    "type": "road",
    "name": "Neuendettelsauer Kirchweihlauf",
