@@ -1,6 +1,6 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
-const APP_VERSION="v57"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+const APP_VERSION="v58"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
 const DATA_DIR="data/";
 const REPORT_URL="https://gbaoxnsytnzcuxbkdrwc.supabase.co/rest/v1/reports";
 const REPORT_KEY="sb_publishable_iuxJbdN94igdsBQ5-dtm5g_OxWYWGH9";   // öffentlicher Schlüssel: darf nur Meldungen anlegen
@@ -398,7 +398,7 @@ $("set-done").addEventListener("click",closeSheets);
 // Platzhalter: Punkte, die noch nicht fertig sind, und die Rechtstexte (Inhalt folgt vor dem öffentlichen Start)
 $("setsheet").addEventListener("click",e=>{
   const s=e.target.closest("[data-soon]");if(s){toast(s.dataset.soon+" kommt bald");return}
-  const l=e.target.closest("[data-legal]");if(l){$("lg-h").textContent=l.dataset.legal;$("lg-t").textContent="Dieser Text wird vor dem öffentlichen Start ergänzt.";$("setsheet").hidden=true;$("legalsheet").hidden=false;$("lg-done").focus()}});
+  const l=e.target.closest("[data-legal]");if(l){$("lg-h").textContent=l.dataset.legal;$("lg-t").innerHTML=LEGAL[l.dataset.legal]||"";$("setsheet").hidden=true;$("legalsheet").hidden=false;$("legalsheet").scrollTop=0;$("lg-done").focus()}});
 $("lg-done").addEventListener("click",()=>{$("legalsheet").hidden=true;$("setsheet").hidden=false});
 $("set-loc").addEventListener("click",()=>{$("setsheet").hidden=true;$("locsheet").hidden=false;$("start").focus()});
 // Meine Distanzen: die Streckenwahl liegt im Startpunkt-Fenster und bleibt auf dem Gerät gespeichert

@@ -1,6 +1,6 @@
 // Offline-Betrieb: App-Gerüst wird beim ersten Start gespeichert, Läufe-Daten kommen bevorzugt frisch aus dem Netz.
 // Bei jeder Änderung an der App VERSION hochzählen, damit alte Dateien ersetzt werden.
-const VERSION = "v57";
+const VERSION = "v58";
 const SHELL = `pacehunt-shell-${VERSION}`;
 const DATA = `pacehunt-data-${VERSION}`;
 const SHELL_FILES = [
@@ -9,6 +9,7 @@ const SHELL_FILES = [
   "css/fonts.css",
   "css/app.css",
   "js/app.js",
+  "js/legal.js",
   "fonts/barlow-400-latin.woff2",
   "fonts/barlow-400-latin-ext.woff2",
   "fonts/barlow-500-latin.woff2",

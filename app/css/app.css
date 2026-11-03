@@ -420,6 +420,13 @@ button.cta:disabled{opacity:.6}
 .bsheet .in{max-width:640px;margin:0 auto;display:flex;flex-direction:column;gap:12px}
 .grip{width:40px;height:4px;border-radius:2px;background:var(--line-2);margin:0 auto 4px}
 .bsheet h2{margin:0;font-family:var(--display);font-size:1.5rem}
+.legal{font-size:.88rem;line-height:1.5;color:var(--text)}
+.legal h3{margin:16px 0 4px;font-family:var(--display);font-size:1.05rem}
+.legal p{margin:6px 0}
+.legal ul{margin:6px 0;padding-left:18px}
+.legal li{margin:4px 0}
+.legal a{color:var(--accent);overflow-wrap:anywhere}
+#legalsheet .cta{position:sticky;bottom:0}
 .searchrow{display:flex;gap:8px}
 #start{flex:1;min-width:0;font:500 1rem var(--body);padding:11px 12px;border:1px solid var(--line-2);border-radius:12px;background:var(--bg);color:var(--ink)}
 #start::placeholder{color:var(--faint)}
