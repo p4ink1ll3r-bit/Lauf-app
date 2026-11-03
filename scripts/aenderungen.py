@@ -29,7 +29,7 @@ ROOT = Path(__file__).resolve().parent.parent
 RACES = ROOT / "data" / "races.json"
 STATUS = ROOT / "data" / "quellen-status.json"
 REPORT = ROOT / "docs" / "AENDERUNGEN.md"
-UA = "RaceHunt-Datenpflege/0.1 (+Laufkalender; Kontakt über die App)"
+UA = "RaceHuntBot/1.0 (+https://p4ink1ll3r-bit.github.io/Lauf-app/)"   # ehrliche Kennung mit Link; die alte (mit Umlaut und Freitext) wurde von manchen Servern abgelehnt
 PAUSE = 1.5       # Sekunden Mindestabstand pro Webserver
 MAX_BYTES = 3_000_000
 
