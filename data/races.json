@@ -11051,6 +11051,29 @@
    "gear_open": "nicht geprüft",
    "bezirk": "Oberbayern",
    "kreis": "LK Berchtesgadener Land"
+  },
+  {
+   "id": "wendelstein-bahn-crosslauf-2027",
+   "type": "trail",
+   "name": "Wendelstein Bahn- & Crosslauf",
+   "place": "Brannenburg",
+   "lat": 47.737,
+   "lon": 12.107,
+   "date": "2027-03-14",
+   "end": null,
+   "confirmed": true,
+   "prev_date": null,
+   "distances": [
+    "5,8"
+   ],
+   "note": "4. Wendelstein Bahn- & Crosslauf, Teil des Alpencups (Crosslaufserie Brannenburg / Brixlegg / Breitenbach); Veranstalter TSV Brannenburg, Abteilung Leichtathletik (Leitung Mario Blersch)",
+   "url": "https://www.alpencup.cc/index.php?get=1&jahr=2027&v_id=12",
+   "checked": "2026-11-03",
+   "source": "https://www.alpencup.cc/index.php?get=1&jahr=2027&v_id=12",
+   "info": "Streckenlängen laut Alpencup: Hauptläufe der Erwachsenen und Altersklassen 5,8 km (Starts 13:30 und 14:30 Uhr je nach Klasse, Staffel 15:15 Uhr), U18 3,7 km, U16/U14 2,6 km, U12 1,5 km, jüngere Klassen 200 m bis 800 m (ab 9:30 Uhr). Startgeld, Anmeldeschluss und Startunterlagen noch nicht veröffentlicht",
+   "gear_open": "nicht geprüft",
+   "bezirk": "Oberbayern",
+   "kreis": "LK Rosenheim"
   }
  ]
 }
