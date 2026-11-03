@@ -1,6 +1,6 @@
 ﻿{
     "land":  "Bayern",
-    "updated":  "2026-11-02",
+    "updated":  "2026-11-03",
     "hinweis":  "Abdeckungs-Checkliste: status offen | in Arbeit | vollständig. prio = Reihenfolge der Bearbeitung.",
     "kreise":  [
                    {
@@ -249,8 +249,8 @@
                        "bezirk":  "Oberbayern",
                        "prio":  25,
                        "status":  "vollständig",
-                       "races":  4,
-                       "checked":  "2026-11-02",
+                       "races":  5,
+                       "checked":  "2026-11-03",
                        "hinweis":  "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
                    },
                    {
@@ -839,9 +839,9 @@
                        "bezirk":  "Oberfranken",
                        "prio":  84,
                        "status":  "vollständig",
-                       "races":  0,
-                       "checked":  "2026-11-02",
-                       "hinweis":  "Nur Teams in Bewegung Firmenlauf (6 km, 12.05.2027), Firmenläufe sind laut Regel ausgenommen.. Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
+                       "races":  1,
+                       "checked":  "2026-11-03",
+                       "hinweis":  "Hofer Backyard Ultra (Flughafen Hof-Plauen) am 03.11.2026 nachgetragen; Firmenlauf Teams in Bewegung ausgenommen. Alle bekannten Kalender durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
                    },
                    {
                        "kreis":  "LK Aschaffenburg",

@@ -1,10 +1,10 @@
-# Woechentliche Pruefung auf dem eigenen PC (Windows-Aufgabenplanung, sonntags).
+﻿# Woechentliche Pruefung auf dem eigenen PC (Windows-Aufgabenplanung, sonntags).
 # Holt den neuesten Stand, liest die Seiten, die GitHub nicht lesen darf, und speichert das Ergebnis.
 $ErrorActionPreference = "Stop"
 $git = "C:\Program Files\Git\cmd\git.exe"
 Set-Location (Split-Path $PSScriptRoot -Parent)
 
-& $git pull --ff-only origin main
+& $git pull --rebase --autostash origin main
 python scripts\pc_pruefung.py
 
 & $git add data/quellen-status.json docs/AENDERUNGEN_PC.md
@@ -15,3 +15,4 @@ if ($LASTEXITCODE -ne 0) {
     & $git commit -F $msg
     & $git push origin main
 }
+

@@ -1,6 +1,6 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
-const APP_VERSION="v56"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+const APP_VERSION="v57"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
 const DATA_DIR="data/";
 const REPORT_URL="https://gbaoxnsytnzcuxbkdrwc.supabase.co/rest/v1/reports";
 const REPORT_KEY="sb_publishable_iuxJbdN94igdsBQ5-dtm5g_OxWYWGH9";   // öffentlicher Schlüssel: darf nur Meldungen anlegen
@@ -45,7 +45,7 @@ const IC={
 const HEART=IC.heart;
 
 // Läufe-Datei in das interne Format übersetzen und Merkmale ableiten
-function prepare(list){const x0={};list.forEach(x=>x0[x.id]=x);R=list.map(x=>({id:x.id,t:x.type,n:x.name,o:x.place,la:x.lat,lo:x.lon,d:x.date,e:x.end,ok:x.confirmed,prev:x.prev_date,k:x.distances||[],hm:x.elevation,note:x.note,u:x.url,checked:x.checked,fee:x.fee,ro:x.reg_open,rc:x.reg_close,st:x.start_time,info:x.info,src:x.source,sp:x.start_place,pick:x.pickup,park:x.parking,aid:x.aid,course:x.course,extras:x.extras,gear:x.gear,gearNote:x.gear_note,gl:x.gear_levels,gs:x.gear_stand,gw:x.gear_warn,prof:x.profile,gpx:x.gpx,limit:x.limit,soldout:x.sold_out===true,soldPart:typeof x.sold_out==="string"?x.sold_out:"",cutoff:x.cutoff,incl:x.included,late:x.late_reg}));
+function prepare(list){const x0={};list.forEach(x=>x0[x.id]=x);R=list.map(x=>({id:x.id,t:x.type,n:x.name,o:x.place,la:x.lat,lo:x.lon,d:x.date,e:x.end,ok:x.confirmed,prev:x.prev_date,k:x.distances||[],hm:x.elevation,note:x.note,u:x.url,checked:x.checked,fee:x.fee,ro:x.reg_open,rc:x.reg_close,st:x.start_time,info:x.info,src:x.source,sp:x.start_place,pick:x.pickup,park:x.parking,aid:x.aid,course:x.course,extras:x.extras,showers:x.showers,gear:x.gear,gearNote:x.gear_note,gl:x.gear_levels,gs:x.gear_stand,gw:x.gear_warn,prof:x.profile,gpx:x.gpx,limit:x.limit,soldout:x.sold_out===true,soldPart:typeof x.sold_out==="string"?x.sold_out:"",cutoff:x.cutoff,incl:x.included,late:x.late_reg}));
 R.forEach(r=>{
   r.oldId=r.n.toLowerCase().replace(/[^a-z0-9äöüß]+/g,"-")+"-"+r.d.slice(0,4);
   const kms=r.k.map(k=>k==="HM"||/bis HM/.test(k)?21.1:k==="M"?42.2:k==="Backyard"?60:parseFloat(String(k).replace(",",".")));
@@ -290,7 +290,7 @@ function openDetail(id){const r=R.find(x=>x.id===id);if(!r)return;if($("detail")
     ["Teilnehmer&shy;limit",V(r,"limit")+(r.soldout?' <span class="pill full">ausgebucht</span>':"")],["Im Startgeld",r.incl?esc(r.incl):""],["Nachmeldung",r.late?esc(r.late):""]];
   const regMiss=[];if(!r.fee&&!r.na.has("fee"))regMiss.push("Startgeld");if(!r.rc&&!r.na.has("rc"))regMiss.push("Meldeschluss");if(!r.ro&&!r.rc&&!r.na.has("ro"))regMiss.push("Anmeldestart");if(!r.limit&&!r.na.has("limit"))regMiss.push("Teilnehmerlimit");
   // Am Lauftag
-  const dayMain=[["Startzeit",r.st?'<span class="bigv">'+esc(r.st)+' Uhr</span>'+(r.prevF.has("st")?' <span class="vj">Vorjahr</span>':""):V(r,"st"," Uhr")],["Start&shy;unterlagen",V(r,"pick")],["Anreise &amp; Parken",V(r,"park")]];
+  const dayMain=[["Startzeit",r.st?'<span class="bigv">'+esc(r.st)+' Uhr</span>'+(r.prevF.has("st")?' <span class="vj">Vorjahr</span>':""):V(r,"st"," Uhr")],["Start&shy;unterlagen",V(r,"pick")],["Anreise &amp; Parken",V(r,"park")],["Umkleide &amp; Duschen",r.showers?esc(r.showers):""]];
   const dayMore=[["Start/Ziel",V(r,"sp")],["Verpflegung",V(r,"aid")],["Vor Ort",r.extras?esc(r.extras):""]];
   const dayHtml=kvRows(dayMain)+(dayMore.some(x=>x[1])?'<details class="more"'+(dayMain.some(x=>x[1])?"":" open")+'><summary>Mehr zum Lauftag</summary>'+kvRows(dayMore)+'</details>':"");
   const dayMiss=[];[["st","Startzeit"],["pick","Startunterlagen"],["park","Parken"],["aid","Verpflegung"]].forEach(([k,l])=>{if(!r[k]&&!r.na.has(k))dayMiss.push(l)});

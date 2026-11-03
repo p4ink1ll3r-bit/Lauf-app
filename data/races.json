@@ -24,7 +24,6 @@
    "start_place": "Nähe Waldparkplatz Kathreinerstr./Brennhölzerweg, Augsburg-Bergheim (Lauf 4: Augsburger Waldhütte, Wellenburg)",
    "course": "Hügelige Waldrunden im Augsburger Stadtwald („erfordert gute Kondition“)",
    "late_reg": "Begrenzt, 90 bis 15 min vor Start, +5 € (Kinder +3 €)",
-   "extras": "Keine Umkleiden/Duschen",
    "info": "Lauf 1: Kinder U12/Jugend U14/U16 ca. 2,8 km 13:00, Hauptlauf ca. 9 km 13:45. Online-Anmeldeschluss jeweils Donnerstag 22:00 vor dem Lauf; Anmeldung erst nach Überweisung gültig",
    "gpx": "https://tgva.de/wp-content/uploads/gpx/WiLa%20L1_suedring.gpx",
    "bezirk": "Schwaben",
@@ -32,7 +31,8 @@
    "pickup": "Startnummern im Start-/Zielbereich: Läufe 1–3 Augsburg-Bergheim beim Waldparkplatz Kathreinerstraße/Brennhölzerweg, Lauf 4 an der Augsburger Waldhütte (Wellenburg)",
    "parking": "Läufe 1–3: Kathreinerstraße in Bergheim oder umliegende Straßen (nicht der Parkplatz am Sportheim Bergheim); Lauf 4: Parkplatz Schlossgaststätte Wellenburg, ca. 15 Minuten Fußweg",
    "aid": "Läufe 1–3: Tee, Wasser und Kuchenbuffet im Ziel; Lauf 4 zusätzlich Glühwein und Kinderpunsch",
-   "gear_open": "nicht geprüft (kurzer Lauf)"
+   "gear_open": "nicht geprüft (kurzer Lauf)",
+   "showers": "Keine Umkleiden/Duschen"
   },
   {
    "id": "heiner-mayr-staffelberglauf-2026",
@@ -64,7 +64,7 @@
    "course": "3960 m, 260 Hm; Ziel Staffelberg-Plateau an der Adelgundis-Kapelle",
    "pickup": "Lauftag 12:00–13:45 Uhr in/vor der Peter-J.-Moll-Halle",
    "parking": "Peter-J.-Moll-Halle, Georg-Herpich-Platz, Adam-Riese-Halle, Nebenstraßen; nicht in der Hirtengasse (Startbereich) parken",
-   "extras": "Bus bringt Wechselkleidung bis 13:45 Uhr ins Ziel; Duschen in der Peter-J.-Moll-Halle; Funktionsshirt bei Online-Anmeldung kaufbar",
+   "extras": "Bus bringt Wechselkleidung bis 13:45 Uhr ins Ziel; Funktionsshirt bei Online-Anmeldung kaufbar",
    "gear": null,
    "gear_note": null,
    "profile": null,
@@ -77,7 +77,8 @@
    "info": "Meldeschluss Fr 06.11.2026 19:00 Uhr; Anmeldung nur online; Siegerehrung in 5er-Altersklassen mit Sachpreisen; keine Erstattung bei Nichtstart",
    "bezirk": "Oberfranken",
    "kreis": "LK Lichtenfels",
-   "gear_open": "nicht geprüft (kurzer Lauf)"
+   "gear_open": "nicht geprüft (kurzer Lauf)",
+   "showers": "Duschen in der Peter-J.-Moll-Halle"
   },
   {
    "id": "hoglworther-seelauf-2026",
@@ -158,7 +159,7 @@
    "course": "6,5 km/140 Hm, 12,6 km/300 Hm, 23 km/650 Hm, 46 km/1.300 Hm rund um Spalt",
    "pickup": "HopfenBierGut Spalt: Sa 07.11. 17:00–20:00 und So 07:00–11:00; mind. 60 min vor Start abholen (FAQ: bis 30 min vor Start). Startnummernband selbst mitbringen",
    "parking": "Kein Shuttle erwähnt; Parken/Anreise lt. FAQ auf der Website des HopfenBierGut",
-   "extras": "Pre-Race-Abend Sa 07.11.2026; Hunde nach Absprache; keine Radbegleitung; Duschen ca. 1,5 km entfernt beim SV Großweingarten; Ummeldung 15 €; Startplatzbörse",
+   "extras": "Pre-Race-Abend Sa 07.11.2026; Hunde nach Absprache; keine Radbegleitung; Ummeldung 15 €; Startplatzbörse",
    "gear": [
     "Erste-Hilfe-Set (empfohlen)",
     "Rettungsdecke (empfohlen)",
@@ -188,7 +189,8 @@
     }
    ],
    "gear_stand": "FAQ 2026 (Lauf am 08.11.2026)",
-   "gear_warn": "Der Veranstalter bittet vor allem bei 23 und 46 km um Erste-Hilfe-Set und Rettungsdecke, nennt aber ausdrücklich keine offizielle Pflicht. Trailrunning-Schuhe sind aus Sicht des Veranstalters ein Muss; ein Empfehlungsupdate kommt beim letzten Race Briefing."
+   "gear_warn": "Der Veranstalter bittet vor allem bei 23 und 46 km um Erste-Hilfe-Set und Rettungsdecke, nennt aber ausdrücklich keine offizielle Pflicht. Trailrunning-Schuhe sind aus Sicht des Veranstalters ein Muss; ein Empfehlungsupdate kommt beim letzten Race Briefing.",
+   "showers": "Duschen ca. 1,5 km entfernt beim SV Großweingarten"
   },
   {
    "id": "ronsberger-crosslauf-2026",
@@ -303,7 +305,8 @@
    "course": "Teils hügelige Sandwege im Landschaftsschutzgebiet Aubinger Lohe",
    "bezirk": "Oberbayern",
    "kreis": "Stadt München",
-   "gear_open": "nicht geprüft (kurzer Lauf)"
+   "gear_open": "nicht geprüft (kurzer Lauf)",
+   "showers": "Umkleidezelt am Start (keine Schließfächer), Duschen im ESV-Vereinsheim Papinstr. 22"
   },
   {
    "id": "alzauenlauf-2026",
@@ -333,7 +336,7 @@
    "course": null,
    "pickup": "Eingang Alois-Böck-Turnhalle, Lauftag 10:30–13:00 Uhr",
    "parking": null,
-   "extras": "Umkleiden und Duschen in der Alois-Böck-Turnhalle; Mannschaftswertung (5 Läufer eines Vereins)",
+   "extras": "Mannschaftswertung (5 Läufer eines Vereins)",
    "gear": null,
    "gear_note": null,
    "profile": null,
@@ -345,7 +348,8 @@
    "late_reg": "Möglich bis 1 h vor dem Start, 5 € Aufschlag",
    "info": "Starts: 800 m 12:00, 2,6 km 13:00, 10 km 14:00; Anmeldung nur online bis Do 12.11.; Lauf findet bei jedem Wetter statt",
    "bezirk": "Oberbayern",
-   "kreis": "LK Traunstein"
+   "kreis": "LK Traunstein",
+   "showers": "Umkleiden und Duschen in der Alois-Böck-Turnhalle"
   },
   {
    "id": "fackellauf-gerbrunn-2026",
@@ -412,7 +416,8 @@
    ],
    "bezirk": "Mittelfranken",
    "kreis": "LK Ansbach",
-   "gear_open": "nicht geprüft (kurzer Lauf)"
+   "gear_open": "nicht geprüft (kurzer Lauf)",
+   "showers": "Umkleiden/Duschen in der Hochmeister-Sporthalle"
   },
   {
    "id": "herzowerketrail-2026",
@@ -444,7 +449,7 @@
    "course": "Überwiegend befestigte Waldwege und Singletrails im Dohnwald; 8 km eine Runde, 16 km zwei Runden; Stöcke erlaubt",
    "pickup": "Ab 11:30 im Wettkampfbüro im TSH-Gebäude",
    "parking": null,
-   "extras": "Duschen und Umkleiden im Start-/Zielbereich; Handy empfohlen; Siegerehrung Speed 15:15, Trail 16:15; Urkunden online",
+   "extras": "Handy empfohlen; Siegerehrung Speed 15:15, Trail 16:15; Urkunden online",
    "gear": null,
    "gear_note": null,
    "profile": null,
@@ -457,7 +462,8 @@
    "info": "Speed-Trail 8 km und Trail 16 km 14:00; Kids 2 km und Youth 4 km 12:45; Bambini 0,5 km 13:15",
    "bezirk": "Mittelfranken",
    "kreis": "LK Erlangen-Höchstadt",
-   "gear_open": "nicht geprüft (kurzer Lauf)"
+   "gear_open": "nicht geprüft (kurzer Lauf)",
+   "showers": "Duschen und Umkleiden im Start-/Zielbereich"
   },
   {
    "id": "lauf-ich-lauf-mit-gegen-gewalt-2026",
@@ -536,7 +542,7 @@
    "course": "Ultra 63,3 km/1360 Hm, Half Way 33,8 km/720 Hm, Shorty 16,8 km/350 Hm; Start/Ziel Reichenbach",
    "pickup": "Am Start (Riverside Ranch) ab 07:00 bis jeweils 30 min vor dem Start",
    "parking": null,
-   "extras": "Duschen im Sanitärgebäude des Jugendzeltplatzes; Drop-Bags max. 50x30x30 cm (Ultra 2, Half Way 1); Kaffee/Kuchen von Theo auf Spendenbasis; auch für Wanderer/Speed-Hiker; Hund erlaubt",
+   "extras": "Drop-Bags max. 50x30x30 cm (Ultra 2, Half Way 1); Kaffee/Kuchen von Theo auf Spendenbasis; auch für Wanderer/Speed-Hiker; Hund erlaubt",
    "gear": [
     "Trinkbehälter für Getränke an den Verpflegungsstellen · alle Strecken (keine Pappbecher)",
     "Notfallausrüstung: Erste-Hilfe-Set mit Pflaster, Wundauflage, Mullbinde, Rettungsdecke, Pfeife · alle Strecken",
@@ -576,7 +582,8 @@
     }
    ],
    "gear_stand": "Ausschreibung 2026 (Lauf am 14.11.2026)",
-   "gear_warn": "Laut Reglement wird die Ausrüstung vor dem Start und an den Versorgungspunkten stichprobenartig geprüft. Wer sie nicht dabei hat, riskiert die Disqualifikation, mindestens aber eine Zeitstrafe. Stöcke sind erlaubt."
+   "gear_warn": "Laut Reglement wird die Ausrüstung vor dem Start und an den Versorgungspunkten stichprobenartig geprüft. Wer sie nicht dabei hat, riskiert die Disqualifikation, mindestens aber eine Zeitstrafe. Stöcke sind erlaubt.",
+   "showers": "Duschen im Sanitärgebäude des Jugendzeltplatzes"
   },
   {
    "id": "waldlauf-buchenbach-2026",
@@ -701,7 +708,8 @@
    "late_reg": "Nur persönlich bei der Startnummernausgabe oder vor Ort bis 45 min vor Start, +5 €",
    "info": "Start Lauf 3 (07.02.2027) 08:30; Meldeschluss Einzellauf jeweils Freitag vor dem Lauf (13.11./15.01./05.02.); 2 € je Teilnehmer an Engelein e.V.; Umkleiden und Siegerehrung im Gutmann am Dutzendteich; keine Rückerstattung",
    "bezirk": "Mittelfranken",
-   "kreis": "Stadt Nürnberg"
+   "kreis": "Stadt Nürnberg",
+   "showers": "Umkleiden im Gutmann am Dutzendteich"
   },
   {
    "id": "crosslauf-muhldorf-2026",
@@ -727,11 +735,11 @@
    "parking": "Volksfestplatz",
    "course": "Rundkurse auf befestigten Wegen mit Waldboden, Kies und Asphalt",
    "late_reg": "Bis 1 h vor Start am Wettkampfort, +3 €",
-   "extras": "Umkleiden und Duschen in der Turnhalle des TSV 1860",
    "info": "Frauen/W30+/M65+/Hobby 4 km 13:10; U18/U20 4 km 12:40; Männer 8,8 km 13:40; Beginn 11:00 mit Kinderläufen; Anmeldung nur online",
    "bezirk": "Oberbayern",
    "kreis": "LK Mühldorf a. Inn",
-   "gear_open": "nicht geprüft (kurzer Lauf)"
+   "gear_open": "nicht geprüft (kurzer Lauf)",
+   "showers": "Umkleiden und Duschen in der Turnhalle des TSV 1860"
   },
   {
    "id": "kordigast-berglauf-2026",
@@ -773,10 +781,11 @@
    "cutoff": null,
    "included": "Berglauf-Lebkuchen, warme Getränke im Zielbereich, Kleidertransport zum Ziel, Zeitnahme, Ergebnisliste mit Urkundendruck",
    "late_reg": "Möglich bis 11:30 Uhr, 3 € Aufschlag",
-   "info": "Veranstalter: TV Weismain e.V.; Anmeldung über Race Result (my.raceresult.com/418148) · Ein gemeinsamer Start für alle um 12:00; Strecke 5.000 m; Voranmeldung über kordigast-berglauf.de oder per E-Mail; Wechselkleidung bis 15 Min. vor Start am Bauhof abgeben; Duschen/Umkleiden im Vereinsheim Waldstadion (SCW Obermain); Siegerehrung ca. 2 h nach Laufende; Geld- und Sachpreise, Pokale für Bergkönigin/Bergmeister",
+   "info": "Veranstalter: TV Weismain e.V.; Anmeldung über Race Result (my.raceresult.com/418148) · Ein gemeinsamer Start für alle um 12:00; Strecke 5.000 m; Voranmeldung über kordigast-berglauf.de oder per E-Mail; Wechselkleidung bis 15 Min. vor Start am Bauhof abgeben; Siegerehrung ca. 2 h nach Laufende; Geld- und Sachpreise, Pokale für Bergkönigin/Bergmeister",
    "bezirk": "Oberfranken",
    "kreis": "LK Lichtenfels",
-   "gear_open": "nicht geprüft (kurzer Lauf)"
+   "gear_open": "nicht geprüft (kurzer Lauf)",
+   "showers": "Duschen/Umkleiden im Vereinsheim Waldstadion (SCW Obermain)"
   },
   {
    "id": "riedenburger-zwei-burgen-lauf-2026",
@@ -807,7 +816,7 @@
    "course": "Am Kanal entlang durchs Altmühltal über Einthal, Wende bei Nusshausen, an Rosenburg und Prunn vorbei; HM mit Zusatzschleife nach Gundlfing; ca. 40 Hm",
    "pickup": "Im Stadion ab 08:00 bis jeweils 15 min vor Start",
    "parking": "Lehrerparkplatz vor dem Stadion, Parkplatz an den Glascontainern St.-Anna-Platz/Jurasteig; Busse an der Johann-Simon-Mayr-Realschule",
-   "extras": "Duschen nahe Stadion; Siegerehrung ca. 12:00 in der Schulturnhalle; Etappe 6 des Landkreiscups Kelheim; Zeitlimit Hauptlauf 2 h; Walking ohne Zeitnahme",
+   "extras": "Siegerehrung ca. 12:00 in der Schulturnhalle; Etappe 6 des Landkreiscups Kelheim; Zeitlimit Hauptlauf 2 h; Walking ohne Zeitnahme",
    "gear": null,
    "gear_note": null,
    "profile": null,
@@ -823,7 +832,8 @@
     "reg_open"
    ],
    "bezirk": "Niederbayern",
-   "kreis": "LK Kelheim"
+   "kreis": "LK Kelheim",
+   "showers": "Duschen nahe Stadion"
   },
   {
    "id": "memmelsdorfer-schlosslauf-2026",
@@ -896,10 +906,11 @@
    "pickup": "Lauftag ab 12:00 in der Mehrzweckhalle an der Grundschule",
    "parking": "Kostenlos am Volksfestplatz (Navi: Karolinenplatz 7, 83109 Großkarolinenfeld)",
    "late_reg": "Nur am Lauftag bei der Startnummernausgabe bis ca. 30 min vor Start",
-   "info": "Kinderlauf 14:00; Siegerehrung ca. 17:00 mit Tombola; Umkleiden/Duschen in der Mehrzweckhalle; Anmeldung über my.raceresult (Lastschrift)",
+   "info": "Kinderlauf 14:00; Siegerehrung ca. 17:00 mit Tombola; Anmeldung über my.raceresult (Lastschrift)",
    "bezirk": "Oberbayern",
    "kreis": "LK Rosenheim",
-   "aid": "Getränke im Zielbereich für alle Teilnehmenden; nach dem Lauf Speisen und Getränke im Foyer der Max-Joseph-Halle (Mehrzweckhalle)"
+   "aid": "Getränke im Zielbereich für alle Teilnehmenden; nach dem Lauf Speisen und Getränke im Foyer der Max-Joseph-Halle (Mehrzweckhalle)",
+   "showers": "Umkleiden/Duschen in der Mehrzweckhalle"
   },
   {
    "id": "hainberglauf-2026",
@@ -931,7 +942,7 @@
    "course": "Trail ca. 4,8 km, rund 250 Hm; kurz, intensiv, Trittsicherheit und festes Schuhwerk nötig; bei jedem Wetter",
    "pickup": "Steinachtalhalle Stadtsteinach",
    "parking": null,
-   "extras": "Duschen und Umkleiden in der Halle; Wechselkleidung kann je nach Kapazität (ohne Gewähr) ins Ziel gebracht werden; Siegerehrung Top 3 Frauen/Männer, keine AK-Wertung",
+   "extras": "Wechselkleidung kann je nach Kapazität (ohne Gewähr) ins Ziel gebracht werden; Siegerehrung Top 3 Frauen/Männer, keine AK-Wertung",
    "gear": null,
    "gear_note": null,
    "profile": null,
@@ -944,7 +955,8 @@
    "info": "21. Auflage; Veranstalter SG Biathlon Stadtsteinach e. V.; Online-Anmeldung über raceresult (my.raceresult.com/399160)",
    "bezirk": "Oberfranken",
    "kreis": "LK Kulmbach",
-   "gear_open": "nicht geprüft (kurzer Lauf)"
+   "gear_open": "nicht geprüft (kurzer Lauf)",
+   "showers": "Duschen und Umkleiden in der Halle"
   },
   {
    "id": "kuhsee-marathon-2026",
@@ -1018,7 +1030,6 @@
    "course": "Start mit einer Stadionrunde, dann Runden auf Parkwegen um das Regnitz-Altwasser; Hauptlauf 4 Runden, Hobbylauf 5,3 km",
    "pickup": "Vor Ort im Start-/Zielbereich ab 10:00; Sicherheitsnadeln selbst mitbringen",
    "parking": "Auf der Sportinsel nur wenige Parkplätze, Zu-/Abfahrt während der Hauptläufe eingeschränkt; Parken bei Möbelhaus Fischer und Norma nicht erlaubt. Empfohlen: Parkplätze im Seegrund (Richtung FC Burk), an den Gymnasiumhallen und am Fußgängersteg Richtung Stadtmitte",
-   "extras": "Duschen/Umkleiden auf der Sportinsel ca. 50 m von Start/Ziel",
    "gear": null,
    "gear_note": null,
    "profile": null,
@@ -1035,7 +1046,8 @@
     "reg_open"
    ],
    "bezirk": "Oberfranken",
-   "kreis": "LK Forchheim"
+   "kreis": "LK Forchheim",
+   "showers": "Duschen/Umkleiden auf der Sportinsel ca. 50 m von Start/Ziel"
   },
   {
    "id": "mountainman-nikolaus-trail-2026",
@@ -1107,7 +1119,8 @@
     }
    ],
    "gear_stand": "Veranstalterseite 2026",
-   "gear_warn": "Ohne Pflichtausrüstung gibt es keine Wertung, Ausschluss vom Start ist möglich."
+   "gear_warn": "Ohne Pflichtausrüstung gibt es keine Wertung, Ausschluss vom Start ist möglich.",
+   "showers": "Umkleiden"
   },
   {
    "id": "nikolaus-waldlauf-weissenbrunn-2026",
@@ -1185,7 +1198,6 @@
    "course": null,
    "pickup": "Ab 10:30 Uhr",
    "parking": "Parkplätze direkt am Stadion und in Immenstadt",
-   "extras": "Duschen, Umkleiden und Toiletten",
    "gear": null,
    "gear_note": null,
    "profile": null,
@@ -1197,7 +1209,8 @@
    "late_reg": null,
    "info": "Bambini 12:00, Schülerläufe 12:15, 5 und 10 km 13:00 (ggf. getrennte Starts je nach Meldezahl)",
    "bezirk": "Schwaben",
-   "kreis": "LK Oberallgäu"
+   "kreis": "LK Oberallgäu",
+   "showers": "Duschen, Umkleiden und Toiletten"
   },
   {
    "id": "winterlaufserie-munchen-2026",
@@ -1228,7 +1241,6 @@
    "course": "5-km-Rundkurs im Olympiapark, Start/Ziel Coubertinplatz",
    "pickup": "05.12. ab 12:30, Olympiaschwimmhalle, rechter oberer Seiteneingang",
    "parking": "ÖPNV: U-Bahn Olympiazentrum (ca. 8 min Fußweg), Bus 144 bis Olympiasee (ca. 5 min), Tram 20/21 Olympiapark West (ca. 15 min); Auto: Parkharfe Olympiapark, 8 €",
-   "extras": "Duschen und Umkleiden in der beheizten Olympiaschwimmhalle, Wertsachen können eingeschlossen werden",
    "gear": null,
    "gear_note": null,
    "profile": null,
@@ -1240,7 +1252,8 @@
    "late_reg": null,
    "info": "05.12.: Kinderlauf 500 m 14:35, Schülerlauf 1,6 km 14:40, Hauptlauf 5/10 km 15:00. Anmeldung über sas-online",
    "bezirk": "Oberbayern",
-   "kreis": "Stadt München"
+   "kreis": "Stadt München",
+   "showers": "Duschen und Umkleiden in der beheizten Olympiaschwimmhalle, Wertsachen können eingeschlossen werden"
   },
   {
    "id": "nikolauslauf-landsberg-2026",
@@ -1424,7 +1437,8 @@
    "aid": "Niedernberg (Verpflegung), Großwallstadt Fährhaus, Obernburg Festplatz, Wörth Tannenturm, Ziel Trennfurt TV-Turnhalle",
    "info": "Bustransfer 13:00 ab TV-Turnhalle Trennfurt zum Start; Gepäcktransport an jeder Station (FF Trennfurt); Ziel ca. 17:30 an der TV-Turnhalle Trennfurt mit Duschen/Umkleiden; Zeiten ohne Gewähr; Online-Anmeldung",
    "bezirk": "Unterfranken",
-   "kreis": "LK Aschaffenburg"
+   "kreis": "LK Aschaffenburg",
+   "showers": "Duschen/Umkleiden an der TV-Turnhalle Trennfurt (Ziel)"
   },
   {
    "id": "ismaninger-winterlaufserie-2026",
@@ -1456,7 +1470,6 @@
    "course": "Vermessene Strecke entlang der Isar und des Isar-Radwegs, Start und Ziel am Sportstadion Ismaning",
    "pickup": "Ab 08:15 Uhr in der Stockschützenhalle direkt am Veranstaltungsgelände",
    "parking": "Kostenloser Shuttlebus ab S-Bahn Ismaning; Parkplätze vor Ort; erster Shuttle 08:02 für S-Bahn aus München (Stand 2025)",
-   "extras": "Umkleidekabinen vorhanden, aber klein (Stand 2025)",
    "gear": null,
    "gear_note": null,
    "profile": null,
@@ -1468,7 +1481,8 @@
    "late_reg": "Möglich, vor Ort gegen Bargeld; Aufschlag nicht angegeben (Stand 2025)",
    "info": "13.12.2026: 13 km 10:00, 1 km Speedlauf 10:15, 1 km Schülerlauf 10:23; weitere Termine 17.01.2027 (17 km) und 21.02.2027 (HM), jeweils 10:00. Startblöcke 10:00 (schneller Block) bzw. ca. 10:05 (Stand 2025)",
    "bezirk": "Oberbayern",
-   "kreis": "LK München"
+   "kreis": "LK München",
+   "showers": "Umkleidekabinen vorhanden, aber klein (Stand 2025)"
   },
   {
    "id": "x-mas-lauf-festival-brombachsee-2026",
@@ -1595,7 +1609,7 @@
    "course": "Rundkurse durch den Olympiapark auf asphaltierten Wegen; 10 km DLV-vermessen, bestenlistenfähig; Pacemaker 5/10 km",
    "pickup": "Kleine Olympiahalle: 30.12. 18–20 Uhr und am Lauftag ab 9:30 Uhr bis zum jeweiligen Start; QR-Code der Anmeldebestätigung",
    "parking": "ÖPNV (U-Bahn Olympiazentrum) oder Rad empfohlen; Parken laut olympiapark.de, kostenpflichtig (externer Betreiber)",
-   "extras": "Duschen/Umkleiden (begrenzt) und betreute Kleiderabgabe in der Kleinen Olympiahalle; Laufmesse 9:30–15:00; Livestream",
+   "extras": "Laufmesse 9:30–15:00; Livestream",
    "gear": null,
    "gear_note": null,
    "profile": null,
@@ -1607,7 +1621,8 @@
    "late_reg": "Nicht möglich",
    "info": "Kinderlauf ca. 11:00, Schülerlauf 11:10, 5 km 11:30, 10 km 12:30; Startplatzumschreibung bis 20.12. 12 Uhr (10 €)",
    "bezirk": "Oberbayern",
-   "kreis": "Stadt München"
+   "kreis": "Stadt München",
+   "showers": "Duschen/Umkleiden (begrenzt) und betreute Kleiderabgabe in der Kleinen Olympiahalle"
   },
   {
    "id": "silvesterlauf-kempten-2026",
@@ -1638,7 +1653,7 @@
    "course": "Start/Ziel Illerstadion; 10 km = 2 × 5 km; Strecke auf Komoot",
    "pickup": "Tribüne Illerstadion: Mi 30.12. 15:00–16:30, Do 31.12. 10:30–13:30 Uhr; Meldebestätigung oder Ausweis mitbringen",
    "parking": "Parkplätze Rottachstraße (Feuerwehrhof) und Pfeilergraben empfohlen; Illerdamm ab 2 Std. vor Start nicht anfahrbar; Anreise zu Fuß/Rad empfohlen",
-   "extras": "Umkleiden und Toiletten im Illerstadion; keine Hunde, Kopfhörer, Laufkinderwagen oder Stöcke",
+   "extras": "keine Hunde, Kopfhörer, Laufkinderwagen oder Stöcke",
    "gear": null,
    "gear_note": null,
    "profile": null,
@@ -1653,7 +1668,8 @@
     "reg_open"
    ],
    "bezirk": "Schwaben",
-   "kreis": "Stadt Kempten (Allgäu)"
+   "kreis": "Stadt Kempten (Allgäu)",
+   "showers": "Umkleiden und Toiletten im Illerstadion"
   },
   {
    "id": "crossdogs-silvestertrail-2026",
@@ -1689,7 +1705,7 @@
    "course": "Winterliche Waldwege und Trails im Spessart, mit oder ohne Hund (CaniX); S/Hike ca. 6 km/150 Hm, M ca. 10 km/210 Hm, L ca. 20 km/470 Hm; Strecken auf Komoot",
    "pickup": "Startnummernausgabe am Lauftag ab 8:30 Uhr am Veranstaltungsgelände",
    "parking": "Direkt am Veranstaltungsgelände (Beschilderung folgen); Wohnmobilstellplatz mit Strom/Wasser",
-   "extras": "Duschen/WC im TSV-Vereinsheim (ohne Hunde); Essen/Getränke vom TSV Rothenbuch (Grill, Kuchen, Heißgetränke); Siegerehrung RUN ca. 13:00",
+   "extras": "Essen/Getränke vom TSV Rothenbuch (Grill, Kuchen, Heißgetränke); Siegerehrung RUN ca. 13:00",
    "gear": [
     "Handy mit gespeicherter Notfallnummer",
     "Bei Hundestarts: Leine max. 2 m (keine Flexileine), Geschirr oder Halsband je nach Disziplin"
@@ -1713,7 +1729,8 @@
     }
    ],
    "gear_stand": "Veranstalterseite, Event-Infos",
-   "gear_warn": "Empfohlen: Trailrunning-Schuhe, wetterangepasste Kleidung, bei Winterläufen Arme, Beine und Kopf bedeckt oder dabei, Navi-App oder -Uhr. Zu den einzelnen Strecken (6, 10, 20 km) nennt die Seite nichts Eigenes. Jeder Hund muss vor dem Start den DOG-Check bestehen."
+   "gear_warn": "Empfohlen: Trailrunning-Schuhe, wetterangepasste Kleidung, bei Winterläufen Arme, Beine und Kopf bedeckt oder dabei, Navi-App oder -Uhr. Zu den einzelnen Strecken (6, 10, 20 km) nennt die Seite nichts Eigenes. Jeder Hund muss vor dem Start den DOG-Check bestehen.",
+   "showers": "Duschen/WC im TSV-Vereinsheim (ohne Hunde)"
   },
   {
    "id": "finale-furioso-silvesterlauf-goggelsbuch-2026",
@@ -1806,7 +1823,8 @@
    "info": null,
    "bezirk": "Schwaben",
    "kreis": "LK Aichach-Friedberg",
-   "gear_open": "nicht geprüft (kurzer Lauf)"
+   "gear_open": "nicht geprüft (kurzer Lauf)",
+   "showers": "Duschen/Umkleiden"
   },
   {
    "id": "silvesterlauf-gersthofen-2026",
@@ -1882,7 +1900,7 @@
    "course": "Asphalt, Punkt-zu-Punkt; welliges Profil mit anspruchsvollem Anstieg zum Ziel; 9,4 km mit Schleife nach Schnufenhofen",
    "pickup": "31.12. ab 8:30 Uhr, Schulturnhalle Seubersdorf",
    "parking": null,
-   "extras": "Umkleiden/Duschen in der Schulturnhalle; Mannschafts- und Vereinswertung; BLSV-Läufer-Cup; Siegerehrung ca. 13:00 im Sportheim",
+   "extras": "Mannschafts- und Vereinswertung; BLSV-Läufer-Cup; Siegerehrung ca. 13:00 im Sportheim",
    "gear": null,
    "gear_note": null,
    "profile": null,
@@ -1899,7 +1917,8 @@
     "parking"
    ],
    "bezirk": "Oberpfalz",
-   "kreis": "LK Neumarkt i.d.OPf."
+   "kreis": "LK Neumarkt i.d.OPf.",
+   "showers": "Umkleiden/Duschen in der Schulturnhalle"
   },
   {
    "id": "silvesterlauf-bogen-2026",
@@ -2107,7 +2126,7 @@
    "course": "Rundkurs: 10 km = 4,5 Runden (amtlich vermessen), 5,5 km = 2,5 Runden",
    "pickup": "31.12. 11–13 Uhr, Peter-J.-Moll-Halle (Georg-Herpich-Platz)",
    "parking": "An der Peter-J.-Moll-Halle, ca. 300 m zum Start; Bahnhof ca. 500 m",
-   "extras": "Duschen/Umkleiden in der Peter-J.-Moll-Halle; Siegerehrung ca. 16:00",
+   "extras": "Siegerehrung ca. 16:00",
    "gear": null,
    "gear_note": null,
    "profile": null,
@@ -2119,7 +2138,8 @@
    "late_reg": "31.12. 11–12 Uhr bei der Startnummernausgabe, wenn möglich, 3 € Aufschlag",
    "info": "Hobbylauf 5,5 km 13:00, Sparkassen-Hauptlauf 10 km 14:00",
    "bezirk": "Oberfranken",
-   "kreis": "LK Lichtenfels"
+   "kreis": "LK Lichtenfels",
+   "showers": "Duschen/Umkleiden in der Peter-J.-Moll-Halle"
   },
   {
    "id": "amberger-silvesterlauf-2026",
@@ -2222,9 +2242,10 @@
    "pickup": "Lauftag ab 09:00 in der Edith-Stein-Schule (vor dem Stadion)",
    "course": "Ca. 8,2-km-Runde, teils hügelig, auf Ortsstraßen und Feldwegen",
    "late_reg": "Am Lauftag ab 09:00 bis 30 min vor Start, +3 €",
-   "info": "Kinderläufe 10:00 (400 m) und 10:10 (1200 m); Online-Meldeschluss 02.01.2027 22:00, gültig erst nach Zahlung; Online-Anmeldung laut Veranstalter demnächst; Umkleiden/Duschen in der Edith-Stein-Schule",
+   "info": "Kinderläufe 10:00 (400 m) und 10:10 (1200 m); Online-Meldeschluss 02.01.2027 22:00, gültig erst nach Zahlung; Online-Anmeldung laut Veranstalter demnächst",
    "bezirk": "Schwaben",
-   "kreis": "LK Aichach-Friedberg"
+   "kreis": "LK Aichach-Friedberg",
+   "showers": "Umkleiden/Duschen in der Edith-Stein-Schule"
   },
   {
    "id": "dreikonigslauf-lauingen-2027",
@@ -2374,7 +2395,7 @@
    "course": null,
    "pickup": "Am Veranstaltungstag 18:00–19:30 vor Peek & Cloppenburg (Anmeldebestätigung bzw. Ausweis mitbringen); Startnummer mit integriertem Transponder",
    "parking": null,
-   "extras": "Umkleiden und Duschen in „Die Insel“ (3. OG, über Saturn); kostenlose Massagen 22:00–24:00; Musik an der Strecke, Party mit Live-Band nach der Siegerehrung; 4 € je Läufer gehen an Harl.e.kin-Nachsorge; Pflicht-Briefing 20:00",
+   "extras": "kostenlose Massagen 22:00–24:00; Musik an der Strecke, Party mit Live-Band nach der Siegerehrung; 4 € je Läufer gehen an Harl.e.kin-Nachsorge; Pflicht-Briefing 20:00",
    "gear": null,
    "gear_note": null,
    "profile": null,
@@ -2387,7 +2408,8 @@
    "info": "13 Runden à 1,6 km durch das Donau-Einkaufszentrum und die Parkhausspindel (knapp 21 km), begrenzte Teilnehmerzahl; Staffeln laufen 2 Stunden, Reihenfolge und Rundenzahl frei wählbar; Zeitmessung per Transponder, gewertet wird die Nettozeit; Siegerehrung 23:15 Uhr (an anderer Stelle der Seite steht 22:30); Laufschuhe mit Spikes nicht erlaubt; Wechsel zwischen drinnen (heiß) und draußen/Spindel (kühl)",
    "bezirk": "Oberpfalz",
    "kreis": "Stadt Regensburg",
-   "anmeldung_url": "https://www.zeitgemaess.info/event.php?ACCESSCODE=202701091"
+   "anmeldung_url": "https://www.zeitgemaess.info/event.php?ACCESSCODE=202701091",
+   "showers": "Umkleiden und Duschen in „Die Insel“ (3. OG, über Saturn)"
   },
   {
    "id": "staustufenlauf-2027",
@@ -2428,14 +2450,15 @@
    "cutoff": null,
    "included": null,
    "late_reg": "Bis 1 Std. vor dem jeweiligen Start, 3 € Aufschlag (gilt auch für Online-Meldungen nach Meldeschluss)",
-   "info": "35. Staustufenlauf des TSV Karlstadt. Starts: Bambini 13:00, Schüler 13:15, 15 km 13:45, 7,5 km 13:55; Duschen 13:30–16:30 in der Realschulturnhalle (Krönleinsweg 27)",
+   "info": "35. Staustufenlauf des TSV Karlstadt. Starts: Bambini 13:00, Schüler 13:15, 15 km 13:45, 7,5 km 13:55",
    "na": [
     "aid",
     "limit",
     "reg_open"
    ],
    "bezirk": "Unterfranken",
-   "kreis": "LK Main-Spessart"
+   "kreis": "LK Main-Spessart",
+   "showers": "Duschen 13:30–16:30 in der Realschulturnhalle (Krönleinsweg 27)"
   },
   {
    "id": "crosslauf-der-arnstorfer-lg-2027",
@@ -2485,7 +2508,6 @@
    "course": "Amtlich vermessen, bestenlistenfähig; 5-km-Runde (10 km = 2 Runden), weitgehend ohne Kopfsteinpflaster",
    "pickup": "In der TSV-Turnhalle",
    "parking": "Ausgeschildert",
-   "extras": "Umkleiden und Duschen in der Turnhalle",
    "gear": null,
    "gear_note": null,
    "profile": null,
@@ -2497,7 +2519,8 @@
    "late_reg": "Vor Ort bis 45 Min. vor Start gegen Aufpreis",
    "info": "24. Auflage; Veranstalter TSV 1860 Dinkelsbühl, Abt. Leichtathletik. Startzeiten: 10 km und 5 km 10:00, Kinder 9:15–9:40. Preise 12 € / 7 € bis 04.01.2027, danach 17 € / 12 € bis 15.01.2027",
    "bezirk": "Mittelfranken",
-   "kreis": "LK Ansbach"
+   "kreis": "LK Ansbach",
+   "showers": "Umkleiden und Duschen in der Turnhalle"
   },
   {
    "id": "dingolfinger-stadion-crosslauf-2027",
@@ -2523,10 +2546,11 @@
    "pickup": "Lauftag ab 08:30 im Isar-Wald-Stadion/Mehrzweckgebäude",
    "course": "Rundkurs auf Sand- und Graswegen, Spikes erlaubt; kurze Runde ca. 900 m, große Runde ca. 1,5 km",
    "late_reg": "Online ab 19.01.2027 (+3 €); am Lauftag 09:00–10:30 vor Ort (+7 €)",
-   "info": "Kurzstrecke ca. 4,5 km (3 Runden) 11:20, Langstrecke ca. 7,5 km (5 Runden) 12:00; Kinder/Jugend ab 11:00; Umkleiden/Duschen im Stadion; Anmeldung über spoferan.com",
+   "info": "Kurzstrecke ca. 4,5 km (3 Runden) 11:20, Langstrecke ca. 7,5 km (5 Runden) 12:00; Kinder/Jugend ab 11:00; Anmeldung über spoferan.com",
    "bezirk": "Niederbayern",
    "kreis": "LK Dingolfing-Landau",
-   "gear_open": "nicht geprüft (kurzer Lauf)"
+   "gear_open": "nicht geprüft (kurzer Lauf)",
+   "showers": "Umkleiden/Duschen im Stadion"
   },
   {
    "id": "mountainman-winterloop-2027",
@@ -2593,7 +2617,8 @@
     }
    ],
    "gear_stand": "Veranstalterseite 2027",
-   "gear_warn": "Grödel sind nur empfohlen. Mindestalter 18."
+   "gear_warn": "Grödel sind nur empfohlen. Mindestalter 18.",
+   "showers": "Duschen"
   },
   {
    "id": "yeti-trail-2027",
@@ -2624,7 +2649,7 @@
    "course": null,
    "pickup": "Vor Ort: Sa ab 08:30 (nur DOG Run), So ab 08:00 (08:00–09:00 nur Hiker)",
    "parking": "Befestigte, kostenfreie Parkplätze im direkten Umfeld des BrombachSeeZeit Resorts",
-   "extras": "Umkleiden, Toiletten, Duschen ca. 150 m vom Start/Ziel; GPX-/Komoot-Track ca. eine Woche vorher; Hunde beim DOG Run (Haftpflicht und Impfschutz nötig)",
+   "extras": "GPX-/Komoot-Track ca. eine Woche vorher; Hunde beim DOG Run (Haftpflicht und Impfschutz nötig)",
    "gear": [
     "Festes Schuhwerk · Trittsicherheit ist Voraussetzung"
    ],
@@ -2647,7 +2672,8 @@
     }
    ],
    "gear_stand": "Ausschreibung 2027",
-   "gear_warn": "Die Ausschreibung nennt keine weitere Pflichtausrüstung. GPX- oder Komoot-Track vorab herunterladen wird empfohlen. Die Veranstalterseite nennt Strecken von 18 und 28 km, wir führen 16 und 26 km."
+   "gear_warn": "Die Ausschreibung nennt keine weitere Pflichtausrüstung. GPX- oder Komoot-Track vorab herunterladen wird empfohlen. Die Veranstalterseite nennt Strecken von 18 und 28 km, wir führen 16 und 26 km.",
+   "showers": "Umkleiden, Toiletten, Duschen ca. 150 m vom Start/Ziel"
   },
   {
    "id": "johannesbad-thermen-marathon-2027",
@@ -2671,27 +2697,28 @@
    "reg_open": null,
    "reg_close": "2027-01-27",
    "fee": "10 km 47 € · Halbmarathon/Marathon 57 € (für Männer, Frauen und Jugendliche gleich)",
-   "start_time": null,
+   "start_time": "09:45",
    "checked": "2026-11-03",
    "source": "https://running.life/de/termine/johannesbad-thermen-marathon",
-   "start_place": "Johannesbad Therme, Johannesstraße 2, 94072 Bad Füssing",
-   "aid": null,
-   "course": "Flache Rundkurse: 10-km-Runde um Egglfing und 11,1-km-Runde um Bad Füssing. Halbmarathon = beide Runden, Marathon = 2 × Halbmarathon",
-   "pickup": "Meldestelle im Johannesbad (Atrium); Anmeldebestätigung von Zeitgemäß vorlegen",
+   "start_place": "Vor der Johannesbad Therme, Johannesstr. 2, 94072 Bad Füssing (Start und Ziel für alle Läufe)",
+   "aid": "10 km: eine Station bei ca. km 5; Halbmarathon/Marathon: alle 5 km (Tee, Wasser, isotonische Getränke, Obst, Müsliriegel, Gel)",
+   "course": "Flache Rundkurse (ca. 300–330 m ü. NN): 10 km südlicher Rundkurs 1×, Halbmarathon = kompletter Rundkurs 1×, Marathon = 2× (Egglfing/Bad Füssing)",
+   "pickup": "Atrium der Johannesbad Therme, Johannesstr. 2: Sa 30.01.2027 13:00–18:00 Uhr, So 31.01. 07:00 Uhr bis Laufbeginn; Meldebestätigung mitbringen",
    "parking": null,
-   "extras": "Startnummer bzw. Gutscheine = Thermeneintritt am Wochenende; Nudelparty (Gutschein inklusive)",
+   "extras": "Startnummer bzw. Gutscheine = Thermeneintritt am Wochenende; Nudelparty (Gutschein inklusive); Siegerehrung der ersten 3 jedes Laufs kurz nach dem Zieleinlauf auf der Bühne im Freien, Altersklassen ab 13:00 Uhr im Thermen-Restaurant; Sachpreis für die Sieger über Marathon und Halbmarathon, PC-Tablet bei Verbesserung der Streckenbestzeit",
    "gear": null,
    "gear_note": null,
    "profile": null,
    "gpx": null,
    "limit": null,
    "sold_out": null,
-   "cutoff": null,
+   "cutoff": "Zielschluss 15:00 Uhr",
    "included": "Gutschein für die Nudelparty (inkl. 1 Getränk), Eintrittsgutscheine für die Johannesbad Therme (je einmal Samstag und Sonntag), Finisher-Medaille",
    "late_reg": "Nachmeldung im Johannesbad Atrium: Sa 30.01.2027 13:00–18:00 Uhr, So 31.01. ab 07:00 Uhr (an anderer Stelle 07:30) bis kurz vor Laufbeginn; Zahlung bar oder per EC-Karte; keine erhöhten Nachmeldegebühren",
-   "info": "32. Thermen-Marathon; Anmeldung ausschließlich online über Zeitgemäß (seit Mitte September 2026 offen), Meldeschluss offiziell 27.01.2027 18:00 Uhr; Übernachtungskosten nicht mit dem Organisationsbeitrag überweisen, sondern vor Ort zahlen; bei Nichtstart keine Rückzahlung; Wechsel zwischen Marathon, Halbmarathon und 10 km während des Laufs nicht möglich (nur per Ummeldung vorher); Nordic-Walking-Stöcke und Begleitung mit Rädern/Skates nicht erlaubt; 2027 wegen Modernisierung evtl. Einschränkungen im Thermenbereich",
+   "info": "32. Thermen-Marathon; Anmeldung ausschließlich online über Zeitgemäß (seit Mitte September 2026 offen), Meldeschluss offiziell 27.01.2027 18:00 Uhr; Übernachtungskosten nicht mit dem Organisationsbeitrag überweisen, sondern vor Ort zahlen; bei Nichtstart keine Rückzahlung; Wechsel zwischen Marathon, Halbmarathon und 10 km während des Laufs nicht möglich (nur per Ummeldung vorher); Nordic-Walking-Stöcke und Begleitung mit Rädern/Skates nicht erlaubt; Starts: 10 km 09:45, Marathon und Halbmarathon 10:00, Schülerlauf 10:30; Zeitmessung mit Einweg-Chip auf der Startnummer, die man behalten darf, Startnummer flach vorn auf Bauchhöhe an allen vier Ecken befestigen",
    "bezirk": "Niederbayern",
-   "kreis": "LK Passau"
+   "kreis": "LK Passau",
+   "showers": "Umkleide und Duschen in der Johannesbad Therme, Thermalbäder zur Erholung mit dem Gutschein gratis (2027 wegen Modernisierung evtl. Beckensperrungen)"
   },
   {
    "id": "lut-crosslauf-2027",
@@ -2861,7 +2888,8 @@
    "late_reg": null,
    "info": "Je ca. 5 km bzw. ca. 10 km; zusätzlich 5 km Walking/Wandern und 1,3 km Schülerlauf",
    "bezirk": "Mittelfranken",
-   "kreis": "LK Ansbach"
+   "kreis": "LK Ansbach",
+   "showers": "Duschen"
   },
   {
    "id": "erlanger-winterwaldlauf-2027",
@@ -2907,7 +2935,8 @@
    "info": "Startzeiten: Speed-Trail 09:50, City-Trail 10:00, Fitnesslauf 5 km 13:00, Sparkassenlauf 10 km 14:30; Veranstalter SG Siemens Erlangen Leichtathletik · Trail-Läufer können ab 10:57 Uhr nach der ersten von zwei Runden aus dem Rennen genommen werden.",
    "bezirk": "Mittelfranken",
    "kreis": "Stadt Erlangen",
-   "gear_open": "Hauptseite nennt keine Ausrüstung"
+   "gear_open": "Hauptseite nennt keine Ausrüstung",
+   "showers": "Duschen im Siemens-Sportgelände"
   },
   {
    "id": "bad-windsheimer-weinturmlauf-2027",
@@ -2954,7 +2983,8 @@
     "start_time": "10:15"
    },
    "bezirk": "Mittelfranken",
-   "kreis": "LK Neustadt a.d.Aisch-Bad Windsheim"
+   "kreis": "LK Neustadt a.d.Aisch-Bad Windsheim",
+   "showers": "Duschen (Kiliani Klinik) (Stand 2026)"
   },
   {
    "id": "ebersberger-seelauf-2027",
@@ -3004,7 +3034,7 @@
    "course": "Flach, schnell, asphaltiert; 5 km Wendepunktstrecke, 10 km = 2 Runden à 5 km mit Stadionrunde",
    "pickup": "Am Lauftag ab 9:00 Uhr im Meldebereich",
    "parking": "Ausreichend offizielle Parkplätze im Umfeld des Sickergrundstadions",
-   "extras": "Umkleiden, Duschen, Toiletten an Stadion/Sickergrundhalle; Parkplätze am Stadion; keine Walker, Kinderwagen oder Hunde",
+   "extras": "Parkplätze am Stadion; keine Walker, Kinderwagen oder Hunde",
    "gear": null,
    "gear_note": null,
    "profile": null,
@@ -3016,7 +3046,8 @@
    "late_reg": "Am Lauftag bis 30 Min. vor Start möglich (nicht für Unterfränkische 10-km-Meisterschaft)",
    "info": "Veranstalter TG Kitzingen 1848, Laufteam; zusätzlich 1 km und 2,5 km · Startzeiten: 5 km (½ Zehner) 11:00, 10 km 12:00, 1 km 10:00, 2,5 km 10:30. Nachmeldegebühr +3 € (5/10 km). Online-Anmeldung laut Seite „ab sofort möglich“ (Racesolution).",
    "bezirk": "Unterfranken",
-   "kreis": "LK Kitzingen"
+   "kreis": "LK Kitzingen",
+   "showers": "Umkleiden, Duschen, Toiletten an Stadion/Sickergrundhalle"
   },
   {
    "id": "halbmarathon-strasslach-dingharting-2027",
@@ -3059,7 +3090,8 @@
    "late_reg": "Möglich, nur bar: 10 km 30 €, HM 40 € (bis 1 Std. vor Start)",
    "info": "10 km und HM starten beide 10:00; Zwergerl 9:15, Schüler 9:30; Zielschluss HM 12:30.",
    "bezirk": "Oberbayern",
-   "kreis": "LK München"
+   "kreis": "LK München",
+   "showers": "Kleideraufbewahrung; Duschen/Umkleiden"
   },
   {
    "id": "engelberglauf-2027",
@@ -3540,7 +3572,8 @@
    "info": null,
    "bezirk": "Schwaben",
    "kreis": "LK Augsburg",
-   "gear_open": "nicht geprüft (kurzer Lauf)"
+   "gear_open": "nicht geprüft (kurzer Lauf)",
+   "showers": "Duschen"
   },
   {
    "id": "landshut-lauft-2027",
@@ -3622,7 +3655,7 @@
    "course": "Durch den Silberwald an der Iller und am Illerkanal",
    "pickup": "Startnummernausgabe im „Garten“, Illerholzweg 9",
    "parking": "Vereinsparkplatz Schwalbenweg 1, ganztägig zugänglich, aber begrenzt – Anreise per Rad empfohlen",
-   "extras": "Toiletten, Umkleiden, Duschen, Garderobe; Parkplätze begrenzt",
+   "extras": "Parkplätze begrenzt",
    "gear": null,
    "gear_note": null,
    "profile": null,
@@ -3634,7 +3667,8 @@
    "late_reg": "Nachmeldung/Ummeldung im „Garten“, Illerholzweg 9",
    "info": "Zusätzlich Kinderläufe 0,5/1/1,8 km",
    "bezirk": "Schwaben",
-   "kreis": "LK Neu-Ulm"
+   "kreis": "LK Neu-Ulm",
+   "showers": "Toiletten, Umkleiden, Duschen, Garderobe"
   },
   {
    "id": "forstenrieder-volkslauf-2027",
@@ -4229,7 +4263,8 @@
    "late_reg": null,
    "info": "Startzeiten 18.04.2027: Kinderlauf 9:15, Schülerlauf 9:20, 10 km und 5 km 9:40, Halbmarathon 10:20",
    "bezirk": "Oberbayern",
-   "kreis": "Stadt München"
+   "kreis": "Stadt München",
+   "showers": "Umkleiden/Duschen Olympiaschwimmhalle"
   },
   {
    "id": "roe-cross-fruhlingslauf-2027",
@@ -4256,10 +4291,11 @@
    "start_time": "09:15",
    "late_reg": "Keine Nachmeldung",
    "cutoff": "4 Stunden je Distanz",
-   "info": "Massenstart Läufer/Walker 09:15, Canicross ab 09:30 im 30-s-Abstand; Umkleiden/Duschen in der Mehrzweckhalle; Medaille für alle Finisher; Kinder unter 12 nur mit zahlender Begleitperson",
+   "info": "Massenstart Läufer/Walker 09:15, Canicross ab 09:30 im 30-s-Abstand; Medaille für alle Finisher; Kinder unter 12 nur mit zahlender Begleitperson",
    "bezirk": "Unterfranken",
    "kreis": "LK Schweinfurt",
-   "gear_open": "nicht geprüft (kurzer Lauf)"
+   "gear_open": "nicht geprüft (kurzer Lauf)",
+   "showers": "Umkleiden/Duschen in der Mehrzweckhalle"
   },
   {
    "id": "rosenheimer-citylauf-2027",
@@ -4290,7 +4326,6 @@
    "course": "3 Runden durch die Innenstadt; 10 km amtlich vermessen und bestenlistentauglich; Hobbylauf 1 Runde (3,3 km)",
    "pickup": "Sa 17.04. Intersport Siebzehnrübl Rosenheim 12–17 Uhr; So 18.04. Luitpoldhalle 8:15–9:30 Uhr",
    "parking": "Loretowiese, Herbststraße 2, 83022 Rosenheim",
-   "extras": "Duschen/Umkleiden in der Luitpoldhalle, Stemplingerstraße 3",
    "gear": null,
    "gear_note": null,
    "profile": null,
@@ -4302,7 +4337,8 @@
    "late_reg": "Ab 15.04. Nachmeldung: 10 km 33 € (+10 €), 3,3 km 25 € (+5 €); am Lauftag 8:15–9:30 Uhr in der Luitpoldhalle",
    "info": "Veranstalter PTSV Rosenheim; Stadtmeisterschaft · Zeitplan: Kinderlauf 9:30, Hobbylauf 3,3 km 9:50, 10 km (inkl. Bayerische Meisterschaft) 10:10, Zielschluss 11:50; die ersten 100 Gemeldeten über 10 km erhalten ein Craft-Shirt. Ausschreibung nennt Meldeschluss noch '14. April 2026' (vermutlich nicht aktualisiert) – reg_close daher offen; Anmeldung über my.raceresult.com/429439",
    "bezirk": "Oberbayern",
-   "kreis": "Stadt Rosenheim"
+   "kreis": "Stadt Rosenheim",
+   "showers": "Duschen/Umkleiden in der Luitpoldhalle, Stemplingerstraße 3"
   },
   {
    "id": "wendelsteiner-panoramalauf-2027",
@@ -4677,7 +4713,7 @@
    "course": "Überwiegend Wanderwege und Pfade in profiliertem Gelände, GPS-vermessen",
    "pickup": "Fr 23.04.2027 16–19 Uhr; Sa 24.04.2027 7–11:30 Uhr",
    "parking": "Parkplatz Skistadion (Karl-und-Martin-Neuner-Platz 1), kostenpflichtig 5 €/24 h, begrenzt; kostenlos Parkplatz am Eisstadion (ca. 25 min Fußweg); Wohnmobile Parkplatz Wankbahn",
-   "extras": "Duschen/Umkleiden im Olympia-Skistadion; auch Wander-Wertungen ohne Zeitnahme und Kinderlauf",
+   "extras": "auch Wander-Wertungen ohne Zeitnahme und Kinderlauf",
    "gear": null,
    "gear_note": "Quelle: https://www.gapatrail.de/ausschreibung/",
    "profile": null,
@@ -4698,7 +4734,8 @@
     }
    ],
    "gear_stand": "Ausschreibung 2027",
-   "gear_warn": "Die Ausschreibung nennt keine Pflichtausrüstung. Die Teilnehmerinfos und die FAQ habe ich nicht lesen können."
+   "gear_warn": "Die Ausschreibung nennt keine Pflichtausrüstung. Die Teilnehmerinfos und die FAQ habe ich nicht lesen können.",
+   "showers": "Duschen/Umkleiden im Olympia-Skistadion"
   },
   {
    "id": "rottaler-volksmarathon-2027",
@@ -4915,9 +4952,10 @@
    "parking": "Am Stadion",
    "aid": "Getränke und Obst im Ziel",
    "late_reg": "Am Lauftag bis 09:30 in der Kreissporthalle, +2 €",
-   "info": "Personalisierte Startnummer bei Meldung bis 11.04.2027, danach bis 18.04. neutrale Startnummer; Schülerläufe 10:00, Bambini 12:00; Umkleiden/Duschen in der Kreissporthalle",
+   "info": "Personalisierte Startnummer bei Meldung bis 11.04.2027, danach bis 18.04. neutrale Startnummer; Schülerläufe 10:00, Bambini 12:00",
    "bezirk": "Schwaben",
-   "kreis": "LK Dillingen a.d.Donau"
+   "kreis": "LK Dillingen a.d.Donau",
+   "showers": "Umkleiden/Duschen in der Kreissporthalle"
   },
   {
    "id": "walhallalauf-2027",
@@ -6024,7 +6062,8 @@
    "late_reg": null,
    "info": "Rund 11.500 Teilnehmende, mehrere Wettbewerbe",
    "bezirk": "Mittelfranken",
-   "kreis": "Stadt Fürth"
+   "kreis": "Stadt Fürth",
+   "showers": "Umkleiden und Duschen"
   },
   {
    "id": "baerenlauf-grafenau-2027",
@@ -6975,7 +7014,8 @@
     }
    ],
    "gear_stand": "Reglement 2027",
-   "gear_warn": "Unvollständige Ausrüstung kann zu Zeitstrafe (5 bis 120 Minuten) oder Disqualifikation führen."
+   "gear_warn": "Unvollständige Ausrüstung kann zu Zeitstrafe (5 bis 120 Minuten) oder Disqualifikation führen.",
+   "showers": "Kostenlose Duschen und Kneippbecken nahe Ziel"
   },
   {
    "id": "muenchnerauer-abendlauf-2027",
@@ -9256,7 +9296,8 @@
     "start_place": "Frauentorgraben / Stadtpark Nürnberg"
    },
    "bezirk": "Mittelfranken",
-   "kreis": "Stadt Nürnberg"
+   "kreis": "Stadt Nürnberg",
+   "showers": "Umkleidezelte"
   },
   {
    "id": "frankenwaldlauf-2027",
@@ -9364,7 +9405,8 @@
     }
    ],
    "gear_stand": "Veranstalterseite 2026 (Vorjahr)",
-   "gear_warn": "Der Lauf geht in die Dunkelheit und ist nur teilweise beleuchtet. Eine Stirnlampe ist empfohlen, keine Pflicht."
+   "gear_warn": "Der Lauf geht in die Dunkelheit und ist nur teilweise beleuchtet. Eine Stirnlampe ist empfohlen, keine Pflicht.",
+   "showers": "Umkleiden/Duschen im Camp (Stand 2026)"
   },
   {
    "id": "muhlhausener-spendenlauf-2027",
@@ -9679,7 +9721,7 @@
    "course": null,
    "pickup": null,
    "parking": "Zentral an der Burg Waischenfeld (Stand 2026)",
-   "extras": "Expo, Siegerehrung in der Sport- und Bürgerhalle; Umkleiden, Duschen, Taschenaufbewahrung (Stand 2026)",
+   "extras": "Expo, Siegerehrung in der Sport- und Bürgerhalle",
    "gear": null,
    "gear_note": null,
    "profile": null,
@@ -9700,7 +9742,8 @@
    ],
    "bezirk": "Oberfranken",
    "kreis": "LK Bayreuth",
-   "gear_open": "Hauptseite nennt keine Ausrüstung; Ausschreibung 2026 nicht gelesen"
+   "gear_open": "Hauptseite nennt keine Ausrüstung; Ausschreibung 2026 nicht gelesen",
+   "showers": "Umkleiden, Duschen, Taschenaufbewahrung (Stand 2026)"
   },
   {
    "id": "omv-halbmarathon-altoetting-2027",
@@ -10256,44 +10299,53 @@
    ],
    "elevation": null,
    "note": "10 km amtlich vermessen auf 2-km-Rundkurs; Staffelläufe und Bambinilauf",
-   "url": "https://altstadtlauf.com/",
+   "url": "http://altstadtlauf.com/",
    "reg_open": null,
    "reg_close": null,
    "fee": null,
    "start_time": null,
-   "checked": "2026-11-01",
-   "source": "https://www.runnersworld.de/laufkalender/weissenburgeraltstadtlauf/",
+   "checked": "2026-11-03",
+   "source": "http://altstadtlauf.com/das-event/infos/ausschreibung/",
    "start_place": "Luitpoldstraße am gotischen Rathaus, 91781 Weißenburg",
-   "info": "Anmeldung per E-Mail an anmeldung@altstadtlauf.com. Nächster Termin laut Runner's World noch nicht bekannt; Datum geschätzt aus 17.05.2026",
+   "info": "Vorjahr (17.05.2026): Starts 10:00 Hauptlauf 10 km, Hobbylauf 4 km und Walking 4 km, 12:00 und 12:30 Schülerläufe 2 km, 13:30 Bambinilauf 500 m, 14:30 alle Staffeln (3 Etappen à 4 km, Schüler 3 × 2 km, 20 € pro Staffel); Anmeldeschluss 2026: Do 14.05. 24:00 Uhr, Nachmeldung bis 60 Min. vor dem Start mit Aufpreis (Einzel 3 €, Staffel 6 €); Veranstalter TSV 1860 Weißenburg, Stadt Weißenburg und Förderverein Leichtathletik. Nächster Termin laut Runner's World noch nicht bekannt; Datum geschätzt aus 17.05.2026",
    "na": [],
    "bezirk": "Mittelfranken",
-   "kreis": "LK Weißenburg-Gunzenhausen"
+   "kreis": "LK Weißenburg-Gunzenhausen",
+   "prev": {
+    "fee": "Hauptlauf 10 km 12 €, Hobbylauf 4 km 12 €, Walking 4 km 8 €, Schülerlauf 2 km 10 €, Bambinilauf 500 m 5 €, Staffel 20 € (Funktionsshirt gegen 5 € Aufpreis)",
+    "start_time": "10:00",
+    "start_place": "Am Gotischen Rathaus, Weißenburg (2-km-Rundkurs durch die Altstadt)",
+    "pickup": "Ab 08:00 Uhr an der Startnummernausgabe, dort bekommt jeder Teilnehmer ein Starterset (Schüler und Bambini ein T-Shirt)"
+   },
+   "showers": "Vorjahr (2026): Duschen und Umkleiden in der Turnhalle „Bortenmachergasse“",
+   "course": "Vorjahr: 2-km-Rundkurs in der Altstadt, eben, asphaltiert und gepflastert; 10 km = 5 Runden",
+   "extras": "Vorjahr: Zeitmessung per Einwegtransponder; DLV-genehmigter Hauptlauf; Stadtmeisterwertung ab 10 km, Wertungen für Kindergärten/Schulen und Fußballvereine"
   },
   {
    "id": "altmuehlfrankenlauf-2027",
    "type": "road",
    "name": "Altmühlfrankenlauf",
-   "place": "Weimersheim",
+   "place": "Oberhochstatt (Weißenburg in Bayern)",
    "lat": 49.0147,
    "lon": 10.9744,
-   "date": "2027-06-19",
+   "date": "2027-06-05",
    "end": null,
-   "confirmed": false,
+   "confirmed": true,
    "prev_date": "2026-06-20",
    "distances": [
     "43,4"
    ],
    "elevation": null,
    "note": "Staffellauf über 43,4 km in 12 Etappen",
-   "url": "https://www.altmuehlfranken-lauf.de",
+   "url": "http://www.altmuehlfranken-lauf.de",
    "reg_open": null,
    "reg_close": null,
    "fee": null,
    "start_time": "09:30",
-   "checked": "2026-11-01",
+   "checked": "2026-11-03",
    "source": "https://www.hdsports.org/laufen/altmuehlfrankenlauf",
    "start_place": "Festplatz, 91781 Weimersheim",
-   "info": "Staffel (Teilnahme als Team). Startzeit 09:30 gilt für 2026. Termin 2027 laut hdsports nur Prognose; Anmeldung über die Veranstalter-Website, Startgeld nicht angegeben. Hinter dem Lauf stehen der Landkreis Weißenburg-Gunzenhausen und die Zukunftsinitiative altmühlfranken",
+   "info": "42. Altmühlfrankenlauf am 05.06.2027 rund um Oberhochstatt (Weißenburger Jura, Landkreis-Staffellauf mit Teams); Folgetermine laut Veranstalter: 01.07.2028 Sausenhofen, 12.05.2029 Meinheim. Startzeit 09:30 gilt für 2026. Anmeldung über die Veranstalter-Website, Startgeld nicht angegeben. Hinter dem Lauf stehen der Landkreis Weißenburg-Gunzenhausen und die Zukunftsinitiative altmühlfranken",
    "na": [],
    "bezirk": "Mittelfranken",
    "kreis": "LK Weißenburg-Gunzenhausen"
@@ -10545,9 +10597,10 @@
    "start_time": "14:30",
    "start_place": "Sportheim Obermögersheim (Ziel am Sportheim)",
    "pickup": "Ausgabe von Startnummer und Chip ab 13:00 Uhr (Ausgabeort nicht genannt)",
-   "extras": "Duschen im Sportheim; Gepäckaufbewahrung begrenzt",
+   "extras": "Gepäckaufbewahrung begrenzt",
    "info": "Starts: Kinderlauf 14:00, 4 km 14:30, Koderrunde 14:45, Trailrun 15:20. Anmeldung über den Veranstalter",
-   "gear_open": "nicht geprüft (kurzer Lauf)"
+   "gear_open": "nicht geprüft (kurzer Lauf)",
+   "showers": "Duschen im Sportheim"
   },
   {
    "id": "buxachtal-lauf-memmingen-2027",
@@ -10680,7 +10733,6 @@
    "start_place": "Mainwiesen unterhalb des Talavera Würzburg, am Main",
    "parking": "Kostenlos am Talavera",
    "included": "Elektronische Zeitnahme, Startnummer, Finisher-Medaille, Pokale für die Sieger",
-   "extras": "Toiletten, Duschen und Sauna (LIFESTYLE Fitnessclub)",
    "gear_note": "Quelle: https://lastlegsultra.de/",
    "gear": [
     "Stirnlampe · bei Dunkelheit",
@@ -10695,7 +10747,8 @@
     }
    ],
    "gear_stand": "Veranstalterseite 2027",
-   "gear_warn": "Ob der Becher Pflicht oder nur eine Bitte ist, geht aus der Seite nicht eindeutig hervor. Stöcke sind nicht erlaubt."
+   "gear_warn": "Ob der Becher Pflicht oder nur eine Bitte ist, geht aus der Seite nicht eindeutig hervor. Stöcke sind nicht erlaubt.",
+   "showers": "Toiletten, Duschen und Sauna (LIFESTYLE Fitnessclub)"
   },
   {
    "id": "buchental-crosslauf-steinfeld-2027",
@@ -10925,6 +10978,79 @@
    "url": "http://12stundenlauf-lindenberg.de/",
    "source": "https://gotrail.run/de/termine/lions-12-stunden-lauf-lindenberg",
    "checked": "2026-11-02"
+  },
+  {
+   "id": "hofer-backyard-ultra-2027",
+   "type": "trail",
+   "name": "Hofer Backyard Ultra",
+   "place": "Hof (Flughafen Hof-Plauen)",
+   "lat": 50.289,
+   "lon": 11.856,
+   "date": "2027-06-26",
+   "end": "2027-06-27",
+   "confirmed": true,
+   "prev_date": null,
+   "distances": [
+    "Backyard"
+   ],
+   "elevation": [
+    80
+   ],
+   "note": "7. Ausgabe; Backyard Ultra: jede volle Stunde startet eine Runde von 6,706 km, das Rennen endet erst, wenn nur noch ein Läufer übrig ist (open end)",
+   "url": "https://www.hofer-backyard-ultra.de/ausschreibung-2027/",
+   "reg_open": "2026-10-03",
+   "reg_close": "2027-06-25",
+   "fee": "69 € pro Person (keine Staffelung nach Anmeldedatum)",
+   "start_time": "09:00",
+   "checked": "2026-11-03",
+   "source": "https://www.hofer-backyard-ultra.de/ausschreibung-2027/",
+   "anmeldung_url": "https://hofer-backyard-ultra.de/buchung/",
+   "start_place": "Flughafen Hof/Plauen, Pirk 20, 95032 Hof",
+   "aid": "Ein Verpflegungspunkt im Start-/Ziel-Bereich; keine Einwegbecher, eigener Mehrwegbecher oder Trinkflasche nötig",
+   "course": "Runde 6,706 km, ca. 80 Höhenmeter, Wald- und Forstwege, teilweise Asphalt; GPX auf komoot",
+   "parking": "200 kostenlose Parkplätze am Flughafen, höchstens 100 m zum Start-/Zielbereich; Anfahrt über A9 Ausfahrt Hof-West oder A93 Ausfahrt Hof-Süd, dann Beschilderung zum Flughafen",
+   "limit": "max. 111 Teilnehmende",
+   "included": "Startnummer, elektronische Zeitnahme und Auswertung (Laufzeit, Pausenzeit, Distanz, schnellste/langsamste Runde), Teilnehmermedaille, Online-Urkunde, Verpflegungspunkt",
+   "cutoff": "Beginn Sa 26.06.2027 09:00 Uhr; offizieller Rahmen bis So 27.06. 18:00 Uhr, endet aber erst, wenn alle bis auf einen aufgegeben haben (nach 24 h 160,8 km, nach 36 h 241,2 km)",
+   "info": "Anmeldung über RaceResult seit 03.10.2026; Stand 03.11.2026 laut Portal noch nicht ausgebucht; Sonnenuntergang 21:27 Uhr (etwa Runde 13), danach eigene geeignete Stirnlampe nötig; Check-in-Infos folgen laut Veranstalter",
+   "gear_open": "nicht geprüft",
+   "bezirk": "Oberfranken",
+   "kreis": "Stadt Hof"
+  },
+  {
+   "id": "mountainman-watz-berchtesgaden-2027",
+   "type": "trail",
+   "name": "MOUNTAINMAN Berchtesgaden Watzmann Stage Run",
+   "place": "Berchtesgaden",
+   "lat": 47.631,
+   "lon": 13.003,
+   "date": "2027-06-02",
+   "end": "2027-06-06",
+   "confirmed": true,
+   "prev_date": null,
+   "distances": [
+    "25",
+    "57",
+    "111"
+   ],
+   "elevation": [
+    1300,
+    2500,
+    5300
+   ],
+   "note": "Trailfestival über 5 Tage mit Basecamp Berchtesgaden: WATZ Ultimate (4 Etappen, Do–So, 111 km), WATZ Double (Sa+So, 57 km) und WATZ Final (So, 25 km); Opening am Mittwoch 02.06.",
+   "url": "https://mountainman.de/trailrunning-events/alps/berchtesgaden/",
+   "reg_close": "2027-06-01",
+   "fee": "WATZ Final 25 km: 80 € (bis 31.12.2026), 90 € (bis 31.03.2027), 100 € (bis 01.06.2027) · WATZ Double 57 km: 220 / 250 / 280 € (ohne Stage Night), 270 / 300 / 330 € (mit 2 Stage Nights) · WATZ Ultimate 111 km: 450 / 490 / 530 € (ohne Stage Night), 550 / 590 / 630 € (mit 4 Stage Nights)",
+   "checked": "2026-11-03",
+   "source": "https://mountainman.de/trailrunning-events/alps/berchtesgaden/",
+   "start_place": "Basecamp Berchtesgaden; Eröffnung mit Race-Briefing und Startnummernausgabe am Mittwochabend",
+   "late_reg": "Ultimate und Double: keine Nachmeldung; Final: Nachmeldung ab 05.06.2027 gegen 20 € Aufpreis",
+   "included": "Pro Etappe eine eigene Medaille (die vier Medaillen ergeben zusammen ein Gesamtbild); Stage Nights je nach Buchung",
+   "info": "Etappen: Do 29 km (+1.300 hm) Berchtesgaden–Marktschellenberg, Fr 25 km (+1.500 hm) Marktschellenberg–Bischofswiesen, Sa 32 km (+1.200 hm) Bischofswiesen–Ramsau, So 25 km (+1.300 hm) Ramsau–Berchtesgaden; Anmeldung seit Herbst 2026 geöffnet; Startzeiten, Teilnehmerlimit und Pflichtausrüstung noch nicht geprüft",
+   "gear_open": "nicht geprüft",
+   "bezirk": "Oberbayern",
+   "kreis": "LK Berchtesgadener Land"
   }
  ]
 }
