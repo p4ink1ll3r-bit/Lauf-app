@@ -21171,27 +21171,6 @@
    "showers": "Umkleiden, Duschen und kostenlose Gepäckaufbewahrung in der Turnhalle"
   },
   {
-   "id": "kalbsvilla-run-ortenberg-2027",
-   "type": "road",
-   "name": "Kalbsvilla Run Ortenberg",
-   "place": "Ortenberg",
-   "bezirk": "Freiburg",
-   "kreis": "Ortenaukreis",
-   "lat": 48.452,
-   "lon": 7.972,
-   "date": "2027-10-10",
-   "confirmed": false,
-   "prev_date": "2026-10-04",
-   "distances": [
-    "5",
-    "10",
-    "HM"
-   ],
-   "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 04.10.). Strecken laut hdsports."
-  },
-  {
    "id": "murr-backyard-2027",
    "type": "trail",
    "name": "Murr BackYard",
@@ -21230,7 +21209,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 04.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 04.10.). Strecken laut hdsports. Veranstalter LG Steinlach-Zollern. Kein Wettkampf, keine Zeitmessung, geführte Gruppen, Strecken nicht ausgeschildert. 2026 am 04.10.: Halbmarathon auf dem Dreifürstensteig (Start 9:30 Uhr), 11 km Streuobstroute (10:30 Uhr), Walking 7 und 10 km, Kinderlauf",
+   "url": "https://www.lg-steinlach-zollern.de/veranstaltungen/apfellauf/",
+   "prev": {
+    "fee": "Teilnahme kostenlos, Spenden für die Jugendkasse erbeten (Ausgabe 2026)"
+   },
+   "start_place": "Bahnhofstraße, Mössingen"
   },
   {
    "id": "herbstlauf-niederwangen-2027",
@@ -21242,7 +21226,7 @@
    "lat": 47.69,
    "lon": 9.832,
    "date": "2027-10-03",
-   "confirmed": false,
+   "confirmed": true,
    "prev_date": "2026-10-04",
    "distances": [
     "5",
@@ -21250,7 +21234,8 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 04.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 04.10.). Strecken laut hdsports. Veranstalter SG Niederwangen. 49. Herbstlauf war am 04.10.2026 mit 492 Läufern (Finale des VBAO-Voralpencups): Viertelmarathon 10,55 km und 5 km, Bambini- und Schülerläufe. Laut Verein ist die Jubiläumsausgabe für den 03.10.2027 geplant",
+   "url": "https://www.sg-niederwangen.de/events/standard-titel/herbstlauf/"
   },
   {
    "id": "tvm-gehrenberglauf-2027",
@@ -21269,7 +21254,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 04.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 04.10.). Strecken laut hdsports. Veranstalter Turnverein Markdorf. 2026 am 04.10.: Hauptlauf 8,9 km als Berglauf/Cross auf Wald-, Wiesen- und Feldwegen, Jugendlauf 2 km, Kinderlauf 1 km, Walking. Anmeldung über ein Online-Portal",
+   "url": "https://tv-markdorf.de/aktuell/",
+   "start_place": "Turnerhütte Wilhelmshöhe, Markdorf"
   },
   {
    "id": "biberacher-herbstwaldlauf-burrenwald-2027",
@@ -21289,7 +21276,8 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 07.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 07.10.). Strecken laut hdsports. Veranstalter TG Biberach, Leichtathletik, mit der BSG Boehringer Ingelheim. 48. Herbstwaldlauf war am Mittwoch 07.10.2026: 5 km und 10 km Waldlauf. Keine eigene Veranstalterseite gefunden",
+   "start_place": "Burrenwald, Biberach an der Riß"
   },
   {
    "id": "wertheimer-messelauf-2027",
@@ -21329,7 +21317,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 10.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 10.10.). Strecken laut hdsports. Veranstalter Skiclub Loßburg. 30. Waldlauf war am 10.10.2026 (2025: neue 10-km-Strecke mit weniger Höhenmetern, Jedermannlauf 3,2 km)",
+   "url": "https://www.skiclub-lossburg.de/",
+   "start_place": "Turn- und Festhalle Loßburg"
   },
   {
    "id": "muswiesenlauf-musdorf-2027",
@@ -21349,7 +21339,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 10.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 10.10.). Strecken laut hdsports. Veranstalter TV Rot am See, am Muswiesen-Samstag. 41. Muswiesenlauf war am 10.10.2026, ältester Volkslauf der Region: 10 km und 5 km, Schülerläufe 500 m, 1.000 m und 2.500 m, Jugendlauf 5 km",
+   "url": "https://www.muswiesenlauf.de/",
+   "start_place": "Musdorf, Rot am See"
   },
   {
    "id": "vulpius-gesundheitslauf-2027",
@@ -21369,7 +21361,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 10.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 10.10.). Strecken laut hdsports. Benefizlauf der Vulpius Klinik, Erlös geht jedes Jahr an ein anderes Projekt. 18. Auflage war am Samstag 11.10.2025 um 10:00 Uhr: 6 km und 12 km Joggen, 6 km Walken. Anmeldung über Racepedia",
+   "url": "https://vulpiusklinik.de/klinik/freunde-foerderer/vulpius-gesundheitslauf/",
+   "prev": {
+    "start_time": "10:00"
+   },
+   "start_place": "Vulpius Klinik, Vulpiusstraße 29, 74906 Bad Rappenau"
   },
   {
    "id": "kuppinger-mondfaengerlauf-2027",
@@ -21389,7 +21386,8 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 10.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 10.10.). Strecken laut hdsports. Veranstalter Lauftreff TSV Kuppingen. 2026 am Samstag 10.10.: 10 km (leicht welliger Rundkurs auf Asphalt durch den beleuchteten Ortskern), Jedermann- und Juniorlauf 6,7 km, Schüler- und Bambinilauf. Keine eigene Veranstalterseite gefunden",
+   "start_place": "Karl-Bissinger-Gemeindehalle, Raiffeisenstraße 40, Herrenberg-Kuppingen"
   },
   {
    "id": "herbstlauf-schutterwald-2027",
@@ -21408,7 +21406,14 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 10.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 10.10.). Strecken laut hdsports. Veranstalter Leichtathletik- und Freizeitsportverein Schutterwald. 25. Herbstlauf war am Samstag 10.10.2026 (5. Wertungslauf der Ortenaumeisterschaft): 10 km und Nordic Walking 6,5 km um 15:00 Uhr, Grundschulmeisterschaften 14:00 Uhr",
+   "url": "https://www.lfv-schutterwald.de/herbstlauf.html",
+   "prev": {
+    "fee": "Herbstlauf 12 €, Jugend und Nordic Walking 7 € (Ausgabe 2026)",
+    "start_time": "15:00"
+   },
+   "start_place": "Waldstadion Schutterwald",
+   "late_reg": "Nachmeldung bis 30 Minuten vor dem Start (2026)"
   },
   {
    "id": "haertsfelder-panoramalauf-2027",
@@ -21429,27 +21434,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 11.10.). Strecken laut hdsports."
-  },
-  {
-   "id": "stoeckles-cup-trochtelfingen-2027",
-   "type": "road",
-   "name": "Stöckles Cup Trochtelfingen",
-   "place": "Trochtelfingen",
-   "bezirk": "Tübingen",
-   "kreis": "LK Reutlingen",
-   "lat": 48.308,
-   "lon": 9.245,
-   "date": "2027-10-10",
-   "confirmed": false,
-   "prev_date": "2026-10-11",
-   "distances": [
-    "8",
-    "15"
-   ],
-   "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 11.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 11.10.). Strecken laut hdsports. Teil des Ostalb-Laufcups. 7. Auflage war am 11.10.2026: Halbmarathon (Start 10:00 Uhr), 10 km (10:30 Uhr), 6,5 km (10:45 Uhr), Walker in eigenen Startblöcken, Schülerläufe am Nachmittag",
+   "url": "https://www.sdz-medien.de/events/haertsfelder-panoramalauf/",
+   "start_place": "Stadtgarten Neresheim",
+   "prev": {
+    "start_time": "10:30"
+   }
   },
   {
    "id": "suedwestzipfel-lauf-grenzach-wyhlen-2027",
@@ -21491,7 +21481,14 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 11.10.). Strecken laut hdsports."
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 11.10.). Strecken laut hdsports. Veranstalter TSG Giengen mit der Stadt. 13. Stadtlauf war am 11.10.2026: Hauptläufe 5 km, 10 km und Nordic Walking um 13:00 Uhr, Bambinilauf 11:30 Uhr, Schülerlauf 12:00 Uhr, 2025 mit 778 Läufern",
+   "url": "https://www.tsg-giengen.de/de/Stadtlauf/Ausschreibung/",
+   "prev": {
+    "fee": "5 km 10 €, 10 km 12 €, Bambini und Schüler frei (Ausgabe 2025)",
+    "start_time": "13:00"
+   },
+   "start_place": "Schranne, Giengen an der Brenz",
+   "showers": "Umkleiden in der Schranne, Duschen im TSG-Stadion"
   },
   {
    "id": "walter-nordstadt-lauf-pforzheim-2027",
@@ -21510,7 +21507,8 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 11.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 11.10.). Strecken laut hdsports. Veranstalter Autozentrum Walter. 8. Nordstadt-Lauf war am 11.10.2026: Walter-Meile 9 km (fünf Runden), FunRun 3,6 km, Schülerläufe 530 m und 1.060 m, Bambinilauf 220 m, über 300 Läufer insgesamt. Keine eigene Veranstalterseite gefunden",
+   "start_place": "Autozentrum Walter, Wartberg, Pforzheim"
   },
   {
    "id": "franklin-meilenlauf-mannheim-2027",
@@ -21530,7 +21528,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 11.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 11.10.). Strecken laut hdsports. Veranstalter M3 GmbH & Co. KG, Hauptsponsor MWSP. 10. Auflage war am Sonntag 11.10.2026: Halbmarathon, 6-Meilen-Lauf (10 km) und FRANKLIN FIVE (5 km), flache Strecke durch die ehemaligen US-Areale. Die Veranstalterseite nennt den Termin 2027 noch nicht",
+   "url": "https://www.franklin-meilenlauf.de/",
+   "start_place": "FRANKLIN Field, Mannheim",
+   "prev": {
+    "start_time": "11:00"
+   }
   },
   {
    "id": "berglauf-geislingen-an-der-steige-2027",
@@ -21552,7 +21555,13 @@
    "elevation": [
     400
    ],
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 11.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 11.10.). Strecken laut hdsports. Veranstalter Schneelaufverein Geislingen (SVG). 43. Berglauf war am 11.10.2026: ca. 8 km mit ca. 400 m Höhenunterschied, Massenstart 10:00 Uhr, dazu Nordic Walking. Veranstalterseite nur per http erreichbar",
+   "url": "http://www.schneelaufverein-geislingen.de/",
+   "prev": {
+    "fee": "10 € (Ausgabe 2024)",
+    "start_time": "10:00"
+   },
+   "start_place": "TG-Stadion Geislingen (Eybacher Tal), Ziel an der Skihütte"
   },
   {
    "id": "vellberger-volkslauf-2027",
@@ -21618,7 +21627,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 17.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 17.10.). Strecken laut hdsports. Veranstalter TSV Laupheim, Leichtathletik. 23. Schloss-Cross war am 18.10.2025 mit über 650 Läufern: Hauptlauf ca. 8–9 km mit steilem Anstieg 'Schlossberg 2.0' durch den Schlosspark, sieben Läufe für verschiedene Altersgruppen",
+   "url": "https://www.schloss-cross.de/",
+   "start_place": "Schlosshof Laupheim"
   },
   {
    "id": "nattheimer-maultaschenlauf-2027",
@@ -21638,26 +21649,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 17.10.). Strecken laut hdsports."
-  },
-  {
-   "id": "konstanzer-altstadtlauf-kuscheltierlauf-2027",
-   "type": "road",
-   "name": "Konstanzer Altstadtlauf (Kuscheltierlauf)",
-   "place": "Konstanz",
-   "bezirk": "Freiburg",
-   "kreis": "LK Konstanz",
-   "lat": 47.674,
-   "lon": 9.165,
-   "date": "2027-10-16",
-   "confirmed": false,
-   "prev_date": "2026-10-17",
-   "distances": [
-    "8,1"
-   ],
-   "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 17.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 17.10.). Strecken laut hdsports. Veranstalter Skiabteilung der TSG Nattheim, Teil des HZ-Landkreis-Laufcups. 2026 am 17.10.: 5 km und 10 km, jeder Finisher bekommt Maultaschensuppe. 2024 mit Teilnehmerrekord (325 Starter)",
+   "url": "https://tsg-nattheim.de/anmeldung_mtl/",
+   "start_place": "Fleinheimer Straße 2, 89564 Nattheim"
   },
   {
    "id": "biberacher-geniesserlauf-2027",
@@ -21676,7 +21670,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 18.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 18.10.). Strecken laut hdsports. Online-Anmeldeschluss 2026 war der 12.10. Sammelanmeldung für Firmen über ein Firmenkonto im Anmeldeportal",
+   "url": "https://biberacher-geniesserlauf.de",
+   "late_reg": "Nachmeldung vor Ort möglich, sofern Plätze frei sind (2026)"
   },
   {
    "id": "ensinger-laufcup-2027",
@@ -21743,7 +21739,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 18.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 18.10.). Strecken laut hdsports. Veranstalter SV Oberrimsingen, jeweils am vorletzten Sonntag im Oktober. 5. Auflage war am 18.10.2026 mit über 500 Läufern (Rekord): Hauptlauf 11,5 km durch die Reben des Tunibergs, Jedermann und Nordic Walking 5,5 km, Kinder- und Jugendläufe",
+   "url": "https://www.sv-oberrimsingen.de/",
+   "prev": {
+    "start_time": "11:00"
+   },
+   "start_place": "Grundschule Oberrimsingen, Schneckenweg 10, Breisach"
   },
   {
    "id": "salacher-loewenlauf-2027",
@@ -21783,7 +21784,13 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 17.10.). Strecken laut hdsports."
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 17.10.). Strecken laut hdsports. 40. Oberwaldlauf war am Samstag 17.10.2026: 10 km um 14:30 Uhr, 5 km um 14:45 Uhr, offiziell vermessen und bestenlistenfähig",
+   "url": "https://www.tus-rueppurr.de/laufsport/oberwaldlauf",
+   "prev": {
+    "start_time": "14:30"
+   },
+   "start_place": "Vereinsgelände TUS Rüppurr, Steinmannstraße 1, Karlsruhe",
+   "limit": "900 Starter (2026, ausgebucht, keine Warteliste, keine Nachmeldung)"
   },
   {
    "id": "feudenheimer-herbstlauf-2027",
@@ -21802,7 +21809,14 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 17.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 17.10.). Strecken laut hdsports. Veranstalter DJK Feudenheim, engelhorn sports Laufcup. 35. Herbstlauf war am Samstag 17.10.2026: 10 km in drei Runden (Zeitlimit 90 Minuten), Jedermannlauf 3,5 km, Schul- und Inklusionslauf 1,2 km, Bambinilauf ca. 400 m. Keine Getränkestelle an der Strecke",
+   "url": "https://www.djk-feudenheim.de/Herbstlauf",
+   "prev": {
+    "fee": "10 km 13 € bei Anmeldung bis 11.10., danach 15 €, 17 € Nachmeldung am Lauftag (Ausgabe 2026)"
+   },
+   "start_place": "In der Anlage 11, 68259 Mannheim",
+   "late_reg": "Nachmeldung am Lauftag ab 11:00 Uhr bis eine Stunde vor dem jeweiligen Start",
+   "showers": "Warmer Tee, Umkleiden, Duschen und Erste Hilfe im Ziel"
   },
   {
    "id": "gosheimer-lemberglauf-2027",
@@ -22536,7 +22550,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 03.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 03.10.). Strecken laut hdsports. 12-Stunden-Backyard mit 6,7-km-Runde stündlich durch das Schmellbachtal (weiche Waldwege, kleine Hügel), ab Runde 10 Stirnlampe Pflicht, Limit 100 Starter. 2025 am 03.10. von 9 bis 21 Uhr",
+   "url": "https://backyardultra.de/veranstaltung/schmellbackyard-2025/",
+   "prev": {
+    "fee": "kostenlos (laut Ausgabe 2024/2026)"
+   },
+   "start_place": "Waldgasthof Schmellbachtal, Im Schmellbachtal 1, 70771 Leinfelden-Echterdingen"
   },
   {
    "id": "internationaler-kaiserstuhllauf-2027",
