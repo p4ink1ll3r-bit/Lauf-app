@@ -941,7 +941,7 @@
    "bezirk": "Stuttgart",
    "kreis": "Stadt Stuttgart",
    "date": "2027-01-06",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5,4",
     "10"
@@ -983,7 +983,7 @@
    "bezirk": "Stuttgart",
    "kreis": "LK Göppingen",
    "date": "2027-01-06",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5,6",
     "10,4"
@@ -1097,7 +1097,7 @@
    "bezirk": "Karlsruhe",
    "kreis": "Rhein-Neckar-Kreis",
    "date": "2027-03-06",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "6",
     "10"
@@ -1174,7 +1174,7 @@
    "bezirk": "Stuttgart",
    "kreis": "Ostalbkreis",
    "date": "2027-03-13",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10",
@@ -1264,7 +1264,7 @@
    "bezirk": "Stuttgart",
    "kreis": "Ostalbkreis",
    "date": "2027-03-20",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "6,5",
     "11",
@@ -1511,7 +1511,7 @@
    "bezirk": "Karlsruhe",
    "kreis": "LK Calw",
    "date": "2027-04-17",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "40",
@@ -1780,7 +1780,7 @@
    "bezirk": "Karlsruhe",
    "kreis": "Stadt Karlsruhe",
    "date": "2027-05-02",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "9"
    ],
@@ -2085,7 +2085,7 @@
    "bezirk": "Freiburg",
    "kreis": "LK Konstanz",
    "date": "2027-06-27",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10",
@@ -2737,7 +2737,7 @@
    "kreis": "Stadt Stuttgart",
    "bezirk": "Stuttgart",
    "date": "2027-06-06",
-   "confirmed": false,
+   "confirmed": true,
    "prev_date": "2026-05-17",
    "distances": [
     "5",
