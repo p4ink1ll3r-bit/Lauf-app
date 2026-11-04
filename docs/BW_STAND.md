@@ -1,30 +1,28 @@
-# Baden-Württemberg: Stand 04.11.2026, dritte Suchrunde (Lücken-Check über Umkreis-Kalender) (lokal, noch nicht in der App)
+# Baden-Württemberg: Stand 04.11.2026, vierte Suchrunde (hdsports-Gesamtliste komplett durchgesehen; lokal, noch nicht in der App)
 
-Datei: data/races-bw.json (131 Läufe), Checkliste data/coverage-bw.json (44 Kreise). In races.json und in der App ist BW noch NICHT.
+Datei: data/races-bw.json (396 Läufe), Checkliste data/coverage-bw.json (44 Kreise, alle mit mindestens einem Lauf). In races.json und in der App ist BW noch NICHT.
 
 ## Zahlen
-- Läufe: 131 (Straße 77, Trail 54); nach Bezirk: {'Tübingen': 22, 'Karlsruhe': 37, 'Freiburg': 28, 'Stuttgart': 44}
-- Termin bestätigt: 62, geschätzt oder nur aus Kalendern: 69
-- Mit Startgeld 46, Startzeit 12, Meldeschluss 22, Veranstalter-Link 96, Anmelde-Link 32, Startort 75, Duschen 36, Parken 10
+- Läufe: 396 (Straße 283, Trail 113); nach Bezirk: {'Tübingen': 65, 'Karlsruhe': 105, 'Freiburg': 84, 'Stuttgart': 142}
+- Termin bestätigt: 118, Prognose/aus Kalendern: 278
+- Mit Startgeld 47, Startzeit 15, Meldeschluss 22, Veranstalter-Link 99, Anmelde-Link 33, Startort 78, Duschen 36
 
-## Geklärte Terminwidersprüche (zweite Runde)
-- Mein Freiburg Marathon: 04.04.2027 laut Veranstalterseite (Marathon, Halbmarathon und 10 km laut Auslastungsanzeige zu 100 % belegt).
-- Calwer Hermann-Hesse-Lauf: 20.03.2027 laut Veranstalterseite.
+## Wie die letzte Runde lief
+Die hdsports-Gesamtliste (Laufkalender Deutschland, 193 Seiten, 3.853 Veranstaltungen, mit Termin 2026 und 2027) wurde Seite für Seite auf Orte in Baden-Württemberg durchsucht. Das ergab 262 Läufe, die vorher fehlten. Die meisten sind Läufe, die 2026 stattfanden und für 2027 noch keinen veröffentlichten Termin haben (laut hdsports Prognose aus dem Vorjahr, in der App gestrichelt). Zuordnung zum Land erfolgte über den Ortsnamen, unsichere Orte wurden einzeln geprüft (Bayern, Rheinland-Pfalz, NRW, Thüringen, Saarland, Hessen und Niedersachsen aussortiert).
 
-## Noch offener Terminwiderspruch
-- Heini-Langlotz-Lauf Brühl: 14.03.2027 (haid.app, running.life) oder 21.03.2027 (hdsports Prognose). Die Veranstalterseite lässt sich nicht automatisch lesen (http, Weiterleitungsschleife), bitte von Hand ansehen: http://heini-langlotz-lauf.de/home.html
+## Noch offene Terminwidersprüche
+- Heini-Langlotz-Lauf Brühl: 14.03.2027 (haid.app, running.life) oder 21.03.2027 (hdsports Prognose). Veranstalterseite nur per http, nicht lesbar.
+- Dünenlauf Sandhausen: 12.06.2027 (hdsports, vom Veranstalter bestätigt) oder 05.06.2027 (running.life/gotrail).
+- HaWei50: 26.02.2027 (hdsports, fix) oder 27.02.2027 (running.life).
 
-## Kreise ohne Treffer (Kalender zeigen keinen passenden Lauf, nicht als bewiesen lesen)
-Neckar-Odenwald-Kreis, Alb-Donau-Kreis, LK Waldshut (nur Waldlauf-Bezirksmeisterschaft; Schluchseelauf und Estelberglauf ohne Strecken). Sigmaringen, Enzkreis und Pforzheim haben jetzt je mindestens einen Lauf.
+## Unsichere Orte, nicht aufgenommen (Ort liess sich nicht klären)
+Rabaukentrail (Schwarzenbach?), Lauf um den Steinrausch (Neuhäusel?), Volkslauf Michelfeld Rund um den Lemberg (Michelfeld?), Harthäuser Waldlauf (Harthausen?), Königsfelder Sport-Weiß-Lauf Obereschach, VR-Bank-Lauf Wollbach, Lauterbacher Strolchenlauf, Sülzbacher Volkslauf, Kirmeslauf Grünbach, Halbmarathon Reichenau, Forster Rosen-Pokal-/Rosengartenlauf, Feldbergfestlauf, Luftschifflauf, Goldbacher Crosslaufserie, Mühlhausener Spendenlauf, Närrische Nacht Steinheim, Dreikönigs-Benefizlauf Unterwurmbach. Der Krähbuckellauf Wiesenbach (Rhein-Neckar-Kreis) ist aufgenommen, der Ort wurde nicht eigens belegt.
 
-## Bewusst nicht aufgenommen (keine Hindernis-, Firmen-, Team-, Wanderveranstaltungen, keine reinen Kurzstrecken)
-S'KayRun Erlenbach, Rats-Run, ALB-GOLD FunRun, Albstadt Challenge, Marbacher Meile, Rucksacklauf Schonach (Ski), Weinstadtcross und Sparkassen Cross Pforzheim (Meisterschaftscross, Strecken nicht belegt), Wings for Life, Firmenläufe, Muddy Angel Run/Muddy Älbler, Ulmer Frauenlauf (Zeitlauf), Neckarcross Ultra Race (Hirschhorn liegt in Hessen), Silberwaldlauf und Firmenlauf Ulm/Neu-Ulm (Bayern).
-
-## Noch offen: Läufe, bei denen Strecke oder Termin nicht zu finden waren
-Schonacher Schanzenlauf (24.04.2027, Schonach, Strecken fehlen, Anmeldung raceresult 432722), Dünenlauf Sandhausen (05.06.2027, Strecken nicht belegt), Schluchseelauf (01.–02.05.2027, LG Hohenfels, Strecken fehlen), Estelberglauf Albbruck (18.04.2027), Kaiserstuhllauf Ihringen (14.03.2027, Volkslauf-Länge fehlt), Denkendorfer Schlehenlauf (26.06.2027), Sparkassen Cross Pforzheim (14.11.2026, 20 € Startgeld, Limit 1.500, Strecken fehlen), Bodensee-Halbmarathon Kressbronn (2026: 19.09.), Stadtlauf Bad Urach, Welzheimer Limesläufe, Stadtlauf Bad Mergentheim, Silberwald fehlt, Pfingstlauf Elpersheim, Lange Laufnacht Karlsruhe, Schwäbische-Zeitung-Halbmarathon Sigmaringen (2026 Erstauflage, Fortsetzung unklar).
+## Bewusst nicht aufgenommen
+Hindernis-, Firmen-, Team-, Staffel-, Wander- und Marschveranstaltungen, Treppenläufe, Spendenläufe auf Bahnrunden (STELP), Kinder- und Kurzstrecken unter 5 km, Meisterschaftscrosse, Wings for Life, Muddy Angel Run, Mammutmarsch/Megamarsch, HYROX, Ulmer Frauenlauf (Zeitlauf).
 
 ## Hinweise
-- Veranstalterseiten nur per http: Heini-Langlotz-Lauf, Fischbacher Halbmarathon, Stuttgart-Lauf, Bad Buchauer Stadtlauf (wie bei den 7 Bayern-Seiten erst einmal drinlassen).
-- Startgelder aus hdsports/running.life ohne Jahresangabe stehen unter prev (Vorjahr) oder als 'laut hdsports'.
+- Veranstalterseiten nur per http: Heini-Langlotz-Lauf, Fischbacher Halbmarathon, Stuttgart-Lauf, Bad Buchauer Stadtlauf.
+- Bei den hdsports-Läufen steht als Quelle die hdsports-Gesamtliste; Veranstalter-Link und Startgeld fehlen dort meist. Ein zweiter Durchgang über Veranstalterseiten (running.life/hdsports-Detailseiten) würde Link, Startgeld und Startzeit nachziehen.
 - Bayern-Texte in der App ('ganz Bayern', Teilen-Text, 'Bisher Läufe in Bayern erfasst') vor dem Livegang auf 'Bayern und Baden-Württemberg' ändern.
-- Test: App mit Bayern und BW lädt fehlerfrei (498 Läufe), Stichproben von BW-Detailseiten ohne NaN/undefined.
+- Test: App mit Bayern und BW lädt fehlerfrei (763 Läufe), Stichproben von BW-Detailseiten ohne NaN/undefined.
