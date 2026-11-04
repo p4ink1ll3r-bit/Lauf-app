@@ -16250,13 +16250,14 @@
    ],
    "start_time": "20:00",
    "source": "https://www.hdsports.org/laufen/crailsheimer-halbmarathon",
-   "start_place": "Freibad Maulachtal, Heilbronner Straße, 74564 Crailsheim",
-   "info": "Abendlauf (Start 2026 um 20:00 Uhr). Termin 26.06.2027 laut hdsports vom Veranstalter bestätigt. Veranstalter Förderverein Leichtathletik Crailsheim und TSV Crailsheim. Halbmarathon, Viertelmarathon 10,6 km, Achtelmarathon 5,8 km, 3er-Staffel (3 × 7 km), Schüler- und Bambiniläufe. Laut running.life führte die Ausgabe 2026 (7. Auflage) durch den Burgberg-Wald, Start/Ziel Raum Satteldorf (Hirtenwiesenhalle). Dazu Viertelmarathon mit Nordic Walking und Staffel.",
+   "start_place": "Freibad Crailsheim",
+   "info": "Abendlauf (Start 2026 um 20:00 Uhr). Termin 26.06.2027 laut hdsports vom Veranstalter bestätigt. Veranstalter Förderverein Leichtathletik Crailsheim und TSV Crailsheim. Halbmarathon, Viertelmarathon 10,6 km, Achtelmarathon 5,8 km, 3er-Staffel (3 × 7 km), Schüler- und Bambiniläufe. Laut running.life führte die Ausgabe 2026 (7. Auflage) durch den Burgberg-Wald, Start/Ziel Raum Satteldorf (Hirtenwiesenhalle). Dazu Viertelmarathon mit Nordic Walking und Staffel. Veranstalter Förderverein Leichtathletik Crailsheim. 7. Auflage war am 27.06.2026: Halbmarathon (ca. 180 Hm, vermessen, ab 18 Jahren), 10,6 km und Staffel-Halbmarathon, Finisher-Medaille",
    "checked": "2026-11-04",
    "bezirk": "Stuttgart",
    "lat": 49.134,
    "lon": 10.072,
-   "showers": "Duschen und Umkleiden in der Hirtenwiesenhalle"
+   "showers": "Duschen und Umkleiden in der Hirtenwiesenhalle",
+   "url": "https://syntegon-burgberglauf.de/"
   },
   {
    "id": "bad-buchauer-stadtlauf-federsee-halbmarathon-2027",
@@ -16310,11 +16311,12 @@
    "prev": {
     "fee": "5 km und 10 km 10 € (Nachmeldung 13 €), Schüler- und Jugendlauf 4 €, Bambini 2,50 € (Ausgabe 2026)"
    },
-   "info": "TSV Neuenstein. Termin 2027 laut hdsports Prognose (26.06.2027), 2026: 27.06. 10 km = 4 Runden à 2,5 km, hügelig. Dazu Freizeitlauf 5 km sowie Kinder- und Jugendläufe.",
+   "info": "TSV Neuenstein. Termin 2027 laut hdsports Prognose (26.06.2027), 2026: 27.06. 10 km = 4 Runden à 2,5 km, hügelig. Dazu Freizeitlauf 5 km sowie Kinder- und Jugendläufe. Veranstalter TSV Neuenstein, Teil des Hohenloher Lauf-Cups. 23. Auflage war am 27.06.2026: Hauptlauf 10 km (4 × 2,5 km durch das Städtle), Freizeitlauf 5 km, Staffel 4 × 2,5 km, Bambini- und Kinderlauf. Anmeldung über racesolution.de",
    "checked": "2026-11-04",
    "bezirk": "Stuttgart",
    "lat": 49.205,
-   "lon": 9.585
+   "lon": 9.585,
+   "url": "https://tsvneuenstein.de/"
   },
   {
    "id": "kuenzelsauer-stadtlauf-2027",
@@ -16409,7 +16411,11 @@
    ],
    "source": "https://gotrail.run/de/termine/neuenburger-schloss-park-run",
    "checked": "2026-11-04",
-   "info": "Backyard-/Rundenlauf auf 270-m-Schotterrunde im Schlosspark mit 2-, 6- und 12-Stunden-Wertung, Transponder-Zeitmessung, Verpflegung. Termin laut gotrail.run, Strecken und Startgeld nicht beim Veranstalter geprüft."
+   "info": "Backyard-/Rundenlauf auf 270-m-Schotterrunde im Schlosspark mit 2-, 6- und 12-Stunden-Wertung, Transponder-Zeitmessung, Verpflegung. Termin laut gotrail.run, Strecken und Startgeld nicht beim Veranstalter geprüft. Zeitlauf auf einer 270-m-Runde im Schlosspark Neuenbürg, 1. Auflage am 27.06.2026 (12 h, 6 h, Läufe für Jüngere und Ältere). Veranstalter Frank Götze und Tanja Höschele",
+   "url": "https://www.neuenbuerg.de/freizeit-erlebnis/veranstaltungskalender/2199/schlosspark-run",
+   "prev": {
+    "fee": "12 Stunden 79 €, 6 Stunden 49 €, Läufe für Jüngere und Ältere 10 € (Ausgabe 2026)"
+   }
   },
   {
    "id": "remstal-lauf-2027",
@@ -18590,7 +18596,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 20.06.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 20.06.). Strecken laut hdsports. Veranstalter TSV Hirschau, Teil des VR-Cups und des Familiensportwochenendes. 32. Zeutschel-Spitzberglauf war am Samstag 20.06.2026: Hauptlauf 13,1 km, Hobbylauf und Nordic Walking um 17:30 Uhr, Kinder- und Jugendlauf 17:00 Uhr. Anmeldung über die Vereinsseite",
+   "url": "https://www.tsv-hirschau.de/spitzberglauf/",
+   "prev": {
+    "start_time": "17:30"
+   },
+   "start_place": "Sportgelände, Schulstraße, Hirschau (Tübingen)"
   },
   {
    "id": "die-kleine-laufnacht-ulm-blaustein-outdoor-festival-2027",
@@ -18610,7 +18621,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 20.06.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 20.06.). Strecken laut hdsports. Teil des Blautal Outdoor Festivals. Seit 2024 als 10-km- und 50-km-Lauf (fünf 10-km-Runden), einzeln oder als Staffel. 2026 laut Veranstalterseite am 27.06., Start 16:00 Uhr",
+   "url": "https://einsteinmarathon.de/bof/die-kleine-laufnacht/",
+   "start_place": "Vor dem Bad Blau, Blaustein",
+   "prev": {
+    "start_time": "16:00"
+   }
   },
   {
    "id": "lauf-in-die-sonne-leutenbach-2027",
@@ -18788,10 +18804,14 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 27.06.). Strecken laut hdsports. Veranstalter TSB Ravensburg. Abendlauf (Start 2026 um 19:30 Uhr), Kinderläufe ab 16 Uhr.",
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 27.06.). Strecken laut hdsports. Veranstalter TSB Ravensburg. Abendlauf (Start 2026 um 19:30 Uhr), Kinderläufe ab 16 Uhr. 35. Ravensburger Stadtlauf war am 27.06.2026: 10 km als 5 Runden à 2 km durch die Altstadt. 2026 wurde wegen Hitze auf den Hauptlauf verkürzt und der Start auf 20:15 Uhr verlegt. Veranstalter Stadt, Sportverband und Wirtschaftsforum mit LG Welfen / TSB Ravensburg",
    "prev": {
     "start_time": "19:30"
-   }
+   },
+   "url": "https://www.ravensburg.de/rv/veranstaltungen/?id=27945",
+   "anmeldung_url": "https://www.anmeldungs-service.de/ravensburgerstadtlauf2026/",
+   "start_place": "Marienplatz, Ravensburg",
+   "limit": "1.000 Starter (10 km, 2026)"
   },
   {
    "id": "mitternachtslauf-bad-krozingen-biengen-2027",
@@ -18810,7 +18830,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 27.06.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 27.06.). Strecken laut hdsports. Veranstalter Sportverein Biengen. 37. Lauf war am 27.06.2026, 4. Wertungslauf des Markgräfler Cups. Hauptlauf ca. 9 km (2026 wegen Bauarbeiten neue Strecke), Start 2025 um 22:30 Uhr, Läufe der Jüngsten ab 19:00 Uhr. Keine eigene Veranstalterseite gefunden",
+   "prev": {
+    "start_time": "22:30"
+   },
+   "start_place": "Merowingerhalle, Biengen (Bad Krozingen)",
+   "showers": "Umkleiden und Duschen in der Merowingerhalle"
   },
   {
    "id": "citylauf-leonberg-2027",
@@ -18851,7 +18876,8 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 27.06.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 27.06.). Strecken laut hdsports. Veranstalter TSV Assamstadt, Ansmann-Cup. 22. Auflage war am 27.06.2026 (wegen Hitze auf den Vormittag verlegt): Hauptlauf 10 km, Hobbylauf 5 km, Schülerlauf 1,65 km, Bambinilauf 270 m, Walking und 5 × 1,65-km-Staffel",
+   "url": "https://www.tsv-assamstadt.de/?page_id=11595"
   },
   {
    "id": "zwiefalter-berglauf-2027",
@@ -18944,7 +18970,8 @@
     null,
     250
    ],
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 28.06.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 28.06.). Strecken laut hdsports. Veranstalter SV Würtingen. 2026 (20. Auflage) lief eine virtuelle Phase vom 19. bis 27.06. (4, 8 oder 15 km frei wählbar) und der Renntag am 28.06. mit 15-km-Rennen (Altersklassenwertung), 4 und 8 km Hobbylauf und Kinderläufen. Sponsoren zahlen je gelaufenen Kilometer, der Erlös geht an ein Kinderhaus-Projekt",
+   "url": "https://sv-wuertingen.de/steps-for-life/"
   },
   {
    "id": "wielemer-viertele-mittelstenweiler-2027",
@@ -18964,7 +18991,8 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 03.07.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 03.07.). Strecken laut hdsports. Veranstalter Dorfgemeinschaft Mittelstenweiler, Abschluss des Linzgau-Lauf-Cups. 10 km (zwei Runden à 5 km, ansteigender Beginn, dann schattiger Wald), 5 km und 5 km Nordic Walking, Start am Dorfgemeinschaftshaus, meist Freitag- oder Samstagabend im Juli. Veranstalterseite nur per http erreichbar",
+   "url": "http://www.salem-mittelstenweiler.de/"
   },
   {
    "id": "kinzigcross-gengenbach-2027",
@@ -19100,7 +19128,10 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 05.07.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 05.07.). Strecken laut hdsports. Veranstalter Sportfreunde Illerrieden ('Riada rennt'), 5 km und 10 km, ab 14 Jahren, Teilnehmerbegrenzung 300. 3. Auflage war am 06.07.2025",
+   "url": "https://www.spendenlauf-illerrieden.de/",
+   "fee": "Startgelder werden vollständig gespendet",
+   "start_place": "Stadion Illerrieden"
   },
   {
    "id": "wilhelmsfelder-kerwelauf-2027",
@@ -19142,7 +19173,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 05.07.). Strecken laut hdsports."
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 05.07.). Strecken laut hdsports. Veranstalter TSG Esslingen und Eßlinger Zeitung, eingebettet in das Schwörfest. 26. Lauf war am Sonntag 05.07.2026 mit rund 4.000 Teilnehmern: Hauptlauf 10 km (4 Runden à 2,5 km mit Kopfsteinpflaster) um 10:00 Uhr, dazu Kinder- und Schülerläufe",
+   "url": "https://www.esslinger-zeitung.de/sport/ez-lauf/infos-und-anmeldung",
+   "prev": {
+    "start_time": "10:00"
+   },
+   "start_place": "Altstadt Esslingen"
   },
   {
    "id": "eselsburger-tal-lauf-2027",
@@ -19208,7 +19244,8 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 10.07.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 10.07.). Strecken laut hdsports. Veranstalter Sportfreunde Sießen im Wald. Strecken 5 km und 16 km (nach Veranstalter die härtesten in Oberschwaben), dazu Kinder- und Schülerlauf ohne Anmeldung. 2025 am 11.07. um 17:45 Uhr, Veranstaltungskalender nennt Freitag 09.07.2027",
+   "url": "https://www.schwendi.de/termin/Sportfreunde-Siessen-Teufelslauf-event-appointment1650"
   },
   {
    "id": "burbacher-windecklauf-2027",
@@ -19286,10 +19323,10 @@
    "type": "road",
    "name": "Tanzenhaider Weiherlauf Oberreichenbach",
    "place": "Oberreichenbach",
-   "bezirk": "Karlsruhe",
-   "kreis": "LK Calw",
-   "lat": 48.733,
-   "lon": 8.667,
+   "bezirk": "Mittelfranken",
+   "kreis": "LK Erlangen-Höchstadt",
+   "lat": 49.59,
+   "lon": 10.769,
    "date": "2027-07-10",
    "confirmed": false,
    "prev_date": "2026-07-11",
@@ -19298,7 +19335,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 11.07.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 11.07.). Strecken laut hdsports. Der Ort liegt in Mittelfranken (Landkreis Erlangen-Höchstadt), nicht in Baden-Württemberg. Veranstalter SC Oberreichenbach. 21. Auflage war am 11.07.2026: 10 km Hauptlauf um 18:30 Uhr durch den Langholz-Wald, Nordic Walking, Bambini-, Schüler- und Jugendläufe, dazu 3 × 400 m Team-Staffel am Abend",
+   "url": "https://www.sc-oberreichenbach.de/weiherlauf/",
+   "prev": {
+    "start_time": "18:30"
+   },
+   "start_place": "SCO-Sportgelände, Oberreichenbach"
   },
   {
    "id": "seefest-crosslauf-fichtenau-2027",
@@ -19318,7 +19360,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 11.07.). Strecken laut hdsports."
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 11.07.). Strecken laut hdsports. Teil des Fests am See (2026: 10.–12.07.). 2026 lief der Crosslauf erstmals am Samstagvormittag: 10 km Crosslauf (hügelig) und 5,2 km Jedermannlauf. Veranstalter Lauftreff Fichtenau",
+   "url": "https://www.fichtenau.de/freizeit-erlebnis/fichtenauer-momente/fest-am-see",
+   "start_place": "Storchenweiher, Fichtenau-Lautenbach"
   },
   {
    "id": "reischmann-bahnstadtlauf-heidelberg-2027",
@@ -19338,27 +19382,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 11.07.). Strecken laut hdsports."
-  },
-  {
-   "id": "nct-laufend-gegen-krebs-2027",
-   "type": "road",
-   "name": "NCT-LAUFend gegen Krebs",
-   "place": "Heidelberg",
-   "bezirk": "Karlsruhe",
-   "kreis": "Stadt Heidelberg",
-   "lat": 49.406,
-   "lon": 8.687,
-   "date": "2027-07-10",
-   "confirmed": false,
-   "prev_date": "2026-07-11",
-   "distances": [
-    "11",
-    "HM"
-   ],
-   "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 11.07.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 11.07.). Strecken laut hdsports. Veranstalter Heidelberger TV 1846, parallel zum Sommerfest der Bahnstadt. 9. Auflage war am 11.07.2026: 10 km und 5 km (starten gleichzeitig), Jugendlauf 2,2 km, Kinderlauf 1,1 km, flache 2,5-km-Runde. 5 km und 10 km waren 2026 ausgebucht (2025 mit 846 Teilnehmern)",
+   "url": "https://heidelberger-tv.de/bahnstadtlauf/",
+   "start_place": "Gadamerplatz, Bahnstadt Heidelberg"
   },
   {
    "id": "nusslocher-wiesenlauf-2027",
@@ -19495,7 +19521,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 12.07.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 12.07.). Strecken laut hdsports. Veranstalter TV Nöttingen mit Sportfest. 2026 am 12.07.: 10 km um 9:30 Uhr, 5 km und Nordic Walking, 6. Lauf der Sparkasse-Pforzheim-Calw-Volkslaufserie. Online-Voranmeldung 2026 von 15.04. bis 09.07.",
+   "url": "https://www.tv-noettingen.de/veranstaltungen/sportfest-und-ranntallauf",
+   "prev": {
+    "start_time": "09:30"
+   },
+   "start_place": "Vereinsgelände TV Nöttingen, Frauenwaldstraße 2, 75196 Remchingen"
   },
   {
    "id": "stadtlauf-schrozberg-2027",
@@ -22263,7 +22294,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 03.07.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 03.07.). Strecken laut hdsports. Veranstalter TSV Reute, im Rahmen des Brunnenfests der Vereine. 17. Brunnenfestlauf war am Freitag 03.07.2026 ab 18:00 Uhr: vermessene, bestenlistenfähige 10-km-Strecke auf Ortsstraßen, Walking, 100 € für einen Streckenrekord",
+   "url": "https://www.tsv-reute.de",
+   "prev": {
+    "start_time": "18:00"
+   },
+   "start_place": "Dorfplatz Reute, Bad Waldsee"
   },
   {
    "id": "laufwelt-extrem-cross-rastatt-wintersdorf-2027",
