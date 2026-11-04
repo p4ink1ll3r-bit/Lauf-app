@@ -132,7 +132,7 @@ def parse_sas(eid):
 
 # ---------------------------------------------------------------- Zuordnung und Vorschläge
 def portal_of(race):
-    for key in ("url", "source"):
+    for key in ("anmeldung_url", "url", "source"):
         s = race.get(key) or ""
         for name, rx, fn in (("RaceResult", RR_RE, parse_raceresult), ("SAS", SAS_RE, parse_sas)):
             m = rx.search(s)

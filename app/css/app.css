@@ -6,17 +6,20 @@ img{max-width:100%}
 [hidden]:not([hidden=until-found i]){display:none!important}
 /* Layout: App-Leiste (Logo + Standort-Chip) · Suche · Nächster Lauf · Abschnittstitel mit Ansicht · Filter-Chips · Karten mit Startnummer-Datum · Navigationsleiste unten (Straße / Trail / Meine Läufe). Detail als Vollbild mit Kennzahl-Kacheln und Aktionsleiste. */
 :root{
-  --bg:#F3F4EE; --surface:#FFFFFF; --sunk:#E7EAE0; --line:#DDE1D4; --line-2:#C9CFBC;
-  --ink:#16261E; --muted:#5F6B5A; --faint:#8A9486;
-  --road:#3E5C76; --road-soft:#E5ECF2; --road-ink:#24394B;
-  --trail:#D9822B; --trail-soft:#F9EBDC; --trail-ink:#6E3A0B; --trail-num:#A55A14;
+  /* Hell: Meine Läufe = warmes Papier mit dunkelbrauner Leiste und Orange (wie im Dunkeln Schwarz mit Orange) */
+  --bg:#F6F0EA; --surface:#FFFFFF; --sunk:#EBE3DA; --line:#E0D6CA; --line-2:#CFC2B3;
+  --ink:#241B16; --muted:#6D5E52; --faint:#968879;
+  /* Straße hell = warmes Hellgrau, Graphit-Leiste, Orange (wie im Dunkeln Graphit mit Orange) */
+  --road:#D2641E; --road-soft:#F9E5D8; --road-ink:#8A3E0C;
+  /* Trail hell = zartes Salbeigrün, Waldgrün-Leiste, Gold (wie im Dunkeln Waldgrün mit Gold) */
+  --trail:#8F6E1E; --trail-soft:#E3ECDF; --trail-ink:#1F3A2E; --trail-num:#8F6A12;
   --accent:#E8742A; --accent-ink:#FFFFFF;
   --fav:#8C7A6A; --fav-on:#D2491A;
   --ok:#2F7A4A; --ok-soft:#DFF0E3; --warn:#8A6206; --warn-soft:#F6EDD3; --hot:#C2410C; --hot-soft:#FBE3D6;
-  --brand-bg:#1F3A2E; --brand-run:#F28A2E; --brand-fg:#FFFFFF; --brand-dim:#B9CBBF; --brand-chip:rgba(255,255,255,.12);
-  --u-bg:#E8EDF2; --u-surface:#FBFCFE; --u-sunk:#DCE3EA; --u-line:#D2DAE2; --u-ink:#18212B; --u-muted:#5B6672; --u-mark:#F2C230;
-  --next2:#2C4D3D;
-  --t-bg:#F4EFE6; --t-surface:#FFFCF6; --t-sunk:#ECE5D4; --t-line:#E5DDCD; --t-ink:#2B2A22; --t-muted:#7A7363; --t-bar:#46382A;
+  --brand-bg:#2B211C; --brand-run:#F28A2E; --brand-fg:#FFFFFF; --brand-dim:#C9B8A8; --brand-chip:rgba(255,255,255,.12);
+  --u-bg:#EEECE9; --u-surface:#FFFFFF; --u-sunk:#E2DFDA; --u-line:#D6D2CB; --u-ink:#1B1A1E; --u-muted:#6A6870; --u-mark:#E07B3C;
+  --next2:#4A3426;
+  --t-bg:#E7EEE4; --t-surface:#F7FAF4; --t-sunk:#D8E2D3; --t-line:#C8D5C2; --t-ink:#17211B; --t-muted:#566358; --t-bar:#1F3A2E;
   --shadow:0 1px 2px rgba(20,30,25,.06),0 4px 14px rgba(20,30,25,.05);
   --display:"Barlow Condensed","Arial Narrow",Arial,sans-serif;
   --body:"Barlow",system-ui,-apple-system,"Segoe UI",sans-serif;
@@ -49,14 +52,14 @@ img{max-width:100%}
   --t-bg:#0D0F10; --t-surface:#17191B; --t-sunk:#0A0B0C; --t-line:#2B2622; --t-ink:#F2F4F1; --t-muted:#A39C93; --t-bar:#0D0F10;
   --shadow:0 1px 2px rgba(0,0,0,.4); color-scheme:dark}
 /* Straße und Trail haben in Hell und Dunkel je eigene Flächen, Leiste und Akzent – beim Wechsel fließen die Farben ineinander */
-:root{--u-bar:#1D2731;--t-run:#F28A2E;--u-run:#F2C230;--t-accent:#D9822B;--u-accent:#E8742A}
+:root{--u-bar:#2A292E;--t-run:#D9923F;--u-run:#E07B3C;--t-accent:#B3701A;--u-accent:#D2641E}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
   --u-bg:#1B1A1E;--u-surface:#2A292E;--u-sunk:#141317;--u-line:#3B393E;--u-bar:#141317;--u-run:#E07B3C;--u-accent:#E07B3C;
   --t-bg:#18211D;--t-surface:#26322C;--t-sunk:#101713;--t-line:#3A483F;--t-muted:#A9B8AE;--t-bar:#121915;--t-run:#D9923F;--t-accent:#D9923F}}
 :root[data-theme="dark"]{
   --u-bg:#1B1A1E;--u-surface:#2A292E;--u-sunk:#141317;--u-line:#3B393E;--u-bar:#141317;--u-run:#E07B3C;--u-accent:#E07B3C;
   --t-bg:#18211D;--t-surface:#26322C;--t-sunk:#101713;--t-line:#3A483F;--t-muted:#A9B8AE;--t-bar:#121915;--t-run:#D9923F;--t-accent:#D9923F}
-body.mode-trail{--bg:var(--t-bg);--surface:var(--t-surface);--sunk:var(--t-sunk);--line:var(--t-line);--ink:var(--t-ink);--muted:var(--t-muted);--brand-bg:var(--t-bar);--brand-run:var(--t-run);--accent:var(--t-accent);--next2:#5A4A30}
+body.mode-trail{--bg:var(--t-bg);--surface:var(--t-surface);--sunk:var(--t-sunk);--line:var(--t-line);--ink:var(--t-ink);--muted:var(--t-muted);--brand-bg:var(--t-bar);--brand-run:var(--t-run);--accent:var(--t-accent);--next2:#3A5A47}
 body.mode-road{--bg:var(--u-bg);--surface:var(--u-surface);--sunk:var(--u-sunk);--line:var(--u-line);--ink:var(--u-ink);--muted:var(--u-muted);--brand-bg:var(--u-bar);--brand-run:var(--u-run);--accent:var(--u-accent)}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]) body.mode-trail{--next2:#2E3A33;--brand-chip:rgba(201,211,204,.16)}}
 :root[data-theme="dark"] body.mode-trail{--next2:#2E3A33;--brand-chip:rgba(201,211,204,.16)}
@@ -176,8 +179,7 @@ body.mode-road .month::after{height:3px;background:repeating-linear-gradient(90d
 body.mode-trail .month::after{height:3px;background:radial-gradient(circle,var(--trail) 1.5px,transparent 2px) 0 50%/12px 3px repeat-x}
 .card{position:relative;background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:12px 12px 12px 12px;display:grid;grid-template-columns:58px 1fr;gap:12px;align-items:start;cursor:pointer;box-shadow:var(--shadow);transition:transform .12s}
 .card:active{transform:scale(.99)}
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .card{border-left:3px solid var(--c-edge,var(--road))}}
-:root[data-theme="dark"] .card{border-left:3px solid var(--c-edge,var(--road))}
+.card{border-left:3px solid var(--c-edge,var(--road))}
 .card.trail{--c-edge:var(--trail)}
 /* Karten-Hintergrund: leichte Farbtönung + Motiv (Straße = Laufbahn, Trail = Höhenlinien) */
 .card{background:linear-gradient(105deg,var(--surface) 45%,color-mix(in srgb,var(--c-edge,var(--road)) 9%,var(--surface)));overflow:hidden}

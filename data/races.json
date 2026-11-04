@@ -13434,7 +13434,9 @@
    "checked": "2026-11-04",
    "lat": 48.154,
    "lon": 9.476,
-   "url": "https://www.tsv-riedlingen.com/"
+   "url": "https://www.tsv-riedlingen.com/",
+   "fee": "Kinder- und Jugendläufe 5 €, Mittelstrecke 4,5 km 10 €, Langstrecke 8,2 km 12 € (Nachmeldung +5 €)",
+   "late_reg": "Nachmeldung vor Ort möglich, 5 € Aufschlag"
   },
   {
    "id": "monnem-cross-2026",
@@ -13694,7 +13696,9 @@
    ],
    "url": "https://www.anmeldungs-service.de/hohenzollernberglauf2026/",
    "anmeldung_url": "https://www.anmeldungs-service.de/hohenzollernberglauf2026/",
-   "info": "Bergauflauf, ca. 8,1 km mit 365 Hm."
+   "info": "Bergauflauf, ca. 8,1 km mit 365 Hm. Teilnehmerlimit erreicht (Stand 04.11.2026 keine freien Startplätze laut Anmeldeseite)",
+   "fee": "Berglauf 8,1 km (365 Hm) 20 € inkl. Finisher-Shirt, davon 1 € Spende (Anmeldeschluss 04.11.2026); Vereinsmitglieder des Ski-Club Hechingen kostenlos",
+   "start_time": "10:00"
   },
   {
    "id": "bibersfelder-herbstlauf-2026",
@@ -13741,8 +13745,13 @@
    "start_place": "Breitenauer See, Obersulm",
    "parking": "Kostenlos am See",
    "aid": "Wasser bei km 5, im Ziel Wasser, Tee, alkoholfreies Bier, Hefezopf",
-   "late_reg": "Ermäßigte Gebühr nur bei Anmeldung bis 25.10.2026, danach teurer",
-   "info": "10 km = zwei Runden der 5-km-Schleife, dazu Walking. Zeitmessung per Transponder in der Startnummer. Findet bei jeder Witterung statt."
+   "late_reg": "Online-Nachmeldung bis 45 Minuten vor dem jeweiligen Start, ab 26.10. mit 5 € Aufschlag",
+   "info": "10 km = zwei Runden der 5-km-Schleife, dazu Walking. Zeitmessung per Transponder in der Startnummer. Findet bei jeder Witterung statt. 45. Obersulmer Volkslauf am Sonntag 08.11.2026. Starts: Bambini 09:40, Schüler 09:50 und 10:10, 5 km 10:35, 10 km 10:45 Uhr. 2025 mit Teilnehmerrekord (1.232 am Start)",
+   "reg_open": "2026-05-12",
+   "start_time": "10:45",
+   "reg_close": "2026-11-08",
+   "fee": "5 km 10 €, 10 km 12 €, Walking 5 km 10 € / 10 km 12 €, Schülerläufe 5 €, Bambini 3 € (Voranmeldung bis 25.10., ab 26.10. +5 € Nachmeldegebühr, Kinder ohne Aufschlag)",
+   "showers": "Umkleiden und Duschen am Start/Ziel (laut Veranstalterseite)"
   },
   {
    "id": "steinheimer-geologenlauf-2026",
@@ -13881,7 +13890,8 @@
    "start_place": "Strombergkeller, Cleebronner Straße 70, Bönnigheim",
    "late_reg": "Nachmeldung online und vor Ort, 17 €",
    "showers": "Umkleiden und Gepäckaufbewahrung vorhanden",
-   "info": "5 km und 10 km amtlich vermessen (Bestenlisten), 5 Startblöcke nach angegebener Zeit. Keine Hunde, Kinderwagen, Stöcke, Kopfhörer."
+   "info": "5 km und 10 km amtlich vermessen (Bestenlisten), 5 Startblöcke nach angegebener Zeit. Keine Hunde, Kinderwagen, Stöcke, Kopfhörer.",
+   "reg_open": "2026-10-06"
   },
   {
    "id": "mittelbaden-nikolauslauf-2026",
@@ -14262,7 +14272,8 @@
    "lat": 48.683,
    "lon": 10.15,
    "anmeldung_url": "https://my.raceresult.com/419461",
-   "info": "12. Auflage, SV Mergelstetten. Anmeldung laut Seite 'bald' geöffnet."
+   "info": "12. Auflage, SV Mergelstetten. Anmeldung laut Seite 'bald' geöffnet.",
+   "reg_open": "2026-11-01"
   },
   {
    "id": "backnanger-silvesterlauf-2026",
@@ -14334,7 +14345,8 @@
    "url": "https://stuttgarter-silvesterlauf.de",
    "anmeldung_url": "https://my.raceresult.com/430931",
    "start_place": "Lindenbachhalle, Stuttgart-Weilimdorf",
-   "pickup": "Lindenbachhalle"
+   "pickup": "Lindenbachhalle",
+   "reg_open": "2026-10-23"
   },
   {
    "id": "brogginger-spendenlauf-2027",
@@ -14358,7 +14370,8 @@
    "anmeldung_url": "https://my.raceresult.com/396206",
    "info": "Marathon, Halbmarathon, 10 km, 5 km und Bambinilauf. Anmeldung über RaceResult. Termin 03.01.2027 vom Veranstalter bestätigt. Startzeiten: Marathon 10:00, Halbmarathon 11:00, 10 km 12:00, 5 km 13:00, Bambini 14:00 Uhr.",
    "fee": "ab 15 €",
-   "url": "https://www.pascal-schucker.de/Spendenaktionen/Spendenlauf-Broggingen"
+   "url": "https://www.pascal-schucker.de/Spendenaktionen/Spendenlauf-Broggingen",
+   "reg_open": "2026-09-14"
   },
   {
    "id": "optima-dreikoenigslauf-schwaebisch-hall-2027",
@@ -14379,7 +14392,8 @@
    "url": "https://3koenigslauf.de/",
    "anmeldung_url": "https://my.raceresult.com/426738/registration",
    "reg_open": "2026-10-01",
-   "info": "41. OPTIMA Dreikönigslauf am 06.01.2027, Anmeldung seit 01.10.2026. 2026 war der Lauf ausgebucht (über 3.200 Läufer). 10 km in zwei Runden durch die Altstadt, Veranstalter TSG Schwäbisch Hall"
+   "info": "41. OPTIMA Dreikönigslauf am 06.01.2027, Anmeldung seit 01.10.2026. 2026 war der Lauf ausgebucht (über 3.200 Läufer). 10 km in zwei Runden durch die Altstadt, Veranstalter TSG Schwäbisch Hall",
+   "reg_close": "2026-12-20"
   },
   {
    "id": "degerlocher-3-koenigslauf-2027",
@@ -14467,7 +14481,8 @@
    "lat": 48.496,
    "lon": 9.203,
    "fee": "14 € pro Lauf (5 oder 10 km), Kinder 7 €; Serienanmeldung teurer, Nachmeldung +2 bis 4 €",
-   "anmeldung_url": "https://my.raceresult.com/431181/"
+   "anmeldung_url": "https://my.raceresult.com/431181/",
+   "reg_open": "2026-10-24"
   },
   {
    "id": "teninger-allmendlauf-2027",
@@ -14496,7 +14511,8 @@
     "start_time": "11:15"
    },
    "url": "https://allmendlauf.de",
-   "anmeldung_url": "https://my.raceresult.com/427356/"
+   "anmeldung_url": "https://my.raceresult.com/427356/",
+   "reg_open": "2026-10-01"
   },
   {
    "id": "crosslaufserie-oberschwaben-birkenhard-2027",
@@ -14562,7 +14578,9 @@
    "anmeldung_url": "https://my.raceresult.com/386516",
    "start_place": "Schulhof der Strahlenberger Grundschule, Schriesheim",
    "showers": "Umkleiden, Duschen, WC in der Schulturnhalle",
-   "info": "31. Auflage, TV 1883 Schriesheim. Rundkurs durch die Altstadt, 10 km vermessen, Netto-Zeitmessung. Best Water Run (6 km): Sponsor BWT spendet pro Teilnehmer für Trinkwasserbrunnen in Afrika."
+   "info": "31. Auflage, TV 1883 Schriesheim. Rundkurs durch die Altstadt, 10 km vermessen, Netto-Zeitmessung. Best Water Run (6 km): Sponsor BWT spendet pro Teilnehmer für Trinkwasserbrunnen in Afrika.",
+   "reg_open": "2026-04-01",
+   "reg_close": "2027-03-03"
   },
   {
    "id": "weinsberger-weibertreulauf-2027",
@@ -14617,7 +14635,9 @@
    "prev": {
     "fee": "Hauptlauf 10,5 km 12 €, Mittelstrecke 5 km 7 €, Walking 5 km 7 €, Kinderlauf 2 €, Bambini frei, Team Sprint 10 € je Teilnehmer, Nachmeldung +3 €",
     "start_time": "10:00"
-   }
+   },
+   "reg_open": "2026-10-01",
+   "fee": "Hauptlauf  - 10,5 km 12 € · Mittelstrecke - 5 km 7 € · (Nordic) Walking - 5 km 7 € · Kinderlauf  - 1,2 km 2 € · Bambinilauf  - 0,6 km 0 €"
   },
   {
    "id": "gmuender-stadtlauf-2027",
@@ -14668,7 +14688,9 @@
    "start_place": "Europastadion Rheinfelden-Warmbach",
    "showers": "Umkleiden und Duschen im Europastadion, Eichbergstraße 59",
    "late_reg": "Keine Anmeldung vor Ort",
-   "info": "Veranstalter LC Marathon Rheinfelden. Halbmarathon, 10 km und 5 km, flach, amtlich vermessen. Anmeldung laut Seite ab etwa Mitte Oktober. Prämierung nur bei Anwesenheit. Startzeiten laut hdsports: Halbmarathon 11:00 Uhr, 10 km 12:00 Uhr. Termin 14.03.2027 vom Veranstalter bestätigt."
+   "info": "Veranstalter LC Marathon Rheinfelden. Halbmarathon, 10 km und 5 km, flach, amtlich vermessen. Anmeldung laut Seite ab etwa Mitte Oktober. Prämierung nur bei Anwesenheit. Startzeiten laut hdsports: Halbmarathon 11:00 Uhr, 10 km 12:00 Uhr. Termin 14.03.2027 vom Veranstalter bestätigt.",
+   "reg_open": "2026-10-16",
+   "fee": "Halbmarathon 21,0975 km 30 € · 10 km-Lauf 20 € · 5 km-Lauf 15 €"
   },
   {
    "id": "heini-langlotz-lauf-2027",
@@ -14754,7 +14776,9 @@
    "lon": 9.203,
    "fee": "5 km 15 €, 10 km 18 €, Walking 5 €, Schüler 5 €, Bambini 3 €",
    "anmeldung_url": "https://my.raceresult.com/429922",
-   "info": "Veranstalter Gemeinde Pleidelsheim. Anmeldung ab 30.11.2026. 5 km Kreissparkassen-Lauf, 10 km Süwag Energie-Lauf, 5 km Walking, Schüler- und Bambinilauf."
+   "info": "Veranstalter Gemeinde Pleidelsheim. Anmeldung ab 30.11.2026. 5 km Kreissparkassen-Lauf, 10 km Süwag Energie-Lauf, 5 km Walking, Schüler- und Bambinilauf.",
+   "reg_open": "2026-12-01",
+   "reg_close": "2027-03-14"
   },
   {
    "id": "fruehlingsultra-freudenstadt-gruental-2027",
@@ -14805,7 +14829,9 @@
    "aid": "Im Ziel Wasser, Tee, Bananen frei",
    "info": "Veranstalter TuS Rüppurr. Rundkurse im Karlsruher Oberwald auf Asphalt und gut befestigten Waldwegen, DLV-vermessen (GER-2022-0005). Kinderläufe kostenlos. Termin 21.03.2027 laut hdsports vom Veranstalter bestätigt. Teil des RegioCup Karlsruhe.",
    "start_time": "09:30",
-   "start_place": "Steinmannstraße 1, 76199 Karlsruhe"
+   "start_place": "Steinmannstraße 1, 76199 Karlsruhe",
+   "reg_close": "2027-03-17",
+   "fee": "15-km-Lauf 13 € (bis 17.03.) · Nachmeldung 15 € · 5-km-Lauf 7 € (bis 17.03.) · Nachmeldung 9 € · 5-km-Walking 7 € (bis 17.03.) · Nachmeldung 9 €"
   },
   {
    "id": "stutenseer-stadtlauf-2027",
