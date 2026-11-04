@@ -1,0 +1,447 @@
+{
+ "land": "Baden-Württemberg",
+ "updated": "2026-11-04",
+ "hinweis": "Checkliste BW (Regierungsbezirk = bezirk). Noch nichts in races.json eingetragen. Erste Sichtung 04.11.2026: haid.app 152 Events, gotrail.run 87 Trail/Cross.",
+ "kreise": [
+  {
+   "kreis": "Stadt Stuttgart",
+   "typ": "Stadtkreis",
+   "bezirk": "Stuttgart",
+   "prio": 1,
+   "status": "in Arbeit",
+   "races": 2,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "LK Böblingen",
+   "typ": "Landkreis",
+   "bezirk": "Stuttgart",
+   "prio": 2,
+   "status": "in Arbeit",
+   "races": 3,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "LK Esslingen",
+   "typ": "Landkreis",
+   "bezirk": "Stuttgart",
+   "prio": 3,
+   "status": "in Arbeit",
+   "races": 2,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "LK Göppingen",
+   "typ": "Landkreis",
+   "bezirk": "Stuttgart",
+   "prio": 4,
+   "status": "in Arbeit",
+   "races": 2,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "LK Ludwigsburg",
+   "typ": "Landkreis",
+   "bezirk": "Stuttgart",
+   "prio": 5,
+   "status": "in Arbeit",
+   "races": 6,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "Rems-Murr-Kreis",
+   "typ": "Landkreis",
+   "bezirk": "Stuttgart",
+   "prio": 6,
+   "status": "in Arbeit",
+   "races": 3,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "Stadt Heilbronn",
+   "typ": "Stadtkreis",
+   "bezirk": "Stuttgart",
+   "prio": 7,
+   "status": "in Arbeit",
+   "races": 1,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "LK Heilbronn",
+   "typ": "Landkreis",
+   "bezirk": "Stuttgart",
+   "prio": 8,
+   "status": "in Arbeit",
+   "races": 7,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "Hohenlohekreis",
+   "typ": "Landkreis",
+   "bezirk": "Stuttgart",
+   "prio": 9,
+   "status": "in Arbeit",
+   "races": 1,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "LK Schwäbisch Hall",
+   "typ": "Landkreis",
+   "bezirk": "Stuttgart",
+   "prio": 10,
+   "status": "in Arbeit",
+   "races": 4,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "Main-Tauber-Kreis",
+   "typ": "Landkreis",
+   "bezirk": "Stuttgart",
+   "prio": 11,
+   "status": "in Arbeit",
+   "races": 1,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "LK Heidenheim",
+   "typ": "Landkreis",
+   "bezirk": "Stuttgart",
+   "prio": 12,
+   "status": "in Arbeit",
+   "races": 3,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "Ostalbkreis",
+   "typ": "Landkreis",
+   "bezirk": "Stuttgart",
+   "prio": 13,
+   "status": "in Arbeit",
+   "races": 5,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "Stadt Baden-Baden",
+   "typ": "Stadtkreis",
+   "bezirk": "Karlsruhe",
+   "prio": 14,
+   "status": "in Arbeit",
+   "races": 0,
+   "checked": "2026-11-04",
+   "hinweis": "04.11.2026: in den Kalendern kein passender Lauf gefunden (nicht als bewiesen zu lesen)."
+  },
+  {
+   "kreis": "Stadt Karlsruhe",
+   "typ": "Stadtkreis",
+   "bezirk": "Karlsruhe",
+   "prio": 15,
+   "status": "in Arbeit",
+   "races": 2,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "LK Karlsruhe",
+   "typ": "Landkreis",
+   "bezirk": "Karlsruhe",
+   "prio": 16,
+   "status": "in Arbeit",
+   "races": 3,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "LK Rastatt",
+   "typ": "Landkreis",
+   "bezirk": "Karlsruhe",
+   "prio": 17,
+   "status": "in Arbeit",
+   "races": 2,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "Stadt Heidelberg",
+   "typ": "Stadtkreis",
+   "bezirk": "Karlsruhe",
+   "prio": 18,
+   "status": "in Arbeit",
+   "races": 1,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "Stadt Mannheim",
+   "typ": "Stadtkreis",
+   "bezirk": "Karlsruhe",
+   "prio": 19,
+   "status": "in Arbeit",
+   "races": 3,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "Neckar-Odenwald-Kreis",
+   "typ": "Landkreis",
+   "bezirk": "Karlsruhe",
+   "prio": 20,
+   "status": "in Arbeit",
+   "races": 0,
+   "checked": "2026-11-04",
+   "hinweis": "04.11.2026: in den Kalendern kein passender Lauf gefunden (nicht als bewiesen zu lesen)."
+  },
+  {
+   "kreis": "Rhein-Neckar-Kreis",
+   "typ": "Landkreis",
+   "bezirk": "Karlsruhe",
+   "prio": 21,
+   "status": "in Arbeit",
+   "races": 7,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "Stadt Pforzheim",
+   "typ": "Stadtkreis",
+   "bezirk": "Karlsruhe",
+   "prio": 22,
+   "status": "in Arbeit",
+   "races": 0,
+   "checked": "2026-11-04",
+   "hinweis": "04.11.2026: in den Kalendern kein passender Lauf gefunden (nicht als bewiesen zu lesen)."
+  },
+  {
+   "kreis": "LK Calw",
+   "typ": "Landkreis",
+   "bezirk": "Karlsruhe",
+   "prio": 23,
+   "status": "in Arbeit",
+   "races": 3,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "Enzkreis",
+   "typ": "Landkreis",
+   "bezirk": "Karlsruhe",
+   "prio": 24,
+   "status": "in Arbeit",
+   "races": 0,
+   "checked": "2026-11-04",
+   "hinweis": "04.11.2026: in den Kalendern kein passender Lauf gefunden (nicht als bewiesen zu lesen)."
+  },
+  {
+   "kreis": "LK Freudenstadt",
+   "typ": "Landkreis",
+   "bezirk": "Karlsruhe",
+   "prio": 25,
+   "status": "in Arbeit",
+   "races": 8,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "Stadt Freiburg",
+   "typ": "Stadtkreis",
+   "bezirk": "Freiburg",
+   "prio": 26,
+   "status": "in Arbeit",
+   "races": 2,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "LK Breisgau-Hochschwarzwald",
+   "typ": "Landkreis",
+   "bezirk": "Freiburg",
+   "prio": 27,
+   "status": "in Arbeit",
+   "races": 6,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "LK Emmendingen",
+   "typ": "Landkreis",
+   "bezirk": "Freiburg",
+   "prio": 28,
+   "status": "in Arbeit",
+   "races": 5,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "Ortenaukreis",
+   "typ": "Landkreis",
+   "bezirk": "Freiburg",
+   "prio": 29,
+   "status": "in Arbeit",
+   "races": 2,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "LK Rottweil",
+   "typ": "Landkreis",
+   "bezirk": "Freiburg",
+   "prio": 30,
+   "status": "in Arbeit",
+   "races": 3,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "Schwarzwald-Baar-Kreis",
+   "typ": "Landkreis",
+   "bezirk": "Freiburg",
+   "prio": 31,
+   "status": "in Arbeit",
+   "races": 1,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "LK Tuttlingen",
+   "typ": "Landkreis",
+   "bezirk": "Freiburg",
+   "prio": 32,
+   "status": "in Arbeit",
+   "races": 1,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "LK Konstanz",
+   "typ": "Landkreis",
+   "bezirk": "Freiburg",
+   "prio": 33,
+   "status": "in Arbeit",
+   "races": 3,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "LK Lörrach",
+   "typ": "Landkreis",
+   "bezirk": "Freiburg",
+   "prio": 34,
+   "status": "in Arbeit",
+   "races": 3,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "LK Waldshut",
+   "typ": "Landkreis",
+   "bezirk": "Freiburg",
+   "prio": 35,
+   "status": "in Arbeit",
+   "races": 0,
+   "checked": "2026-11-04",
+   "hinweis": "04.11.2026: in den Kalendern kein passender Lauf gefunden (nicht als bewiesen zu lesen)."
+  },
+  {
+   "kreis": "LK Reutlingen",
+   "typ": "Landkreis",
+   "bezirk": "Tübingen",
+   "prio": 36,
+   "status": "in Arbeit",
+   "races": 3,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "LK Tübingen",
+   "typ": "Landkreis",
+   "bezirk": "Tübingen",
+   "prio": 37,
+   "status": "in Arbeit",
+   "races": 2,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "Zollernalbkreis",
+   "typ": "Landkreis",
+   "bezirk": "Tübingen",
+   "prio": 38,
+   "status": "in Arbeit",
+   "races": 5,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "Stadt Ulm",
+   "typ": "Stadtkreis",
+   "bezirk": "Tübingen",
+   "prio": 39,
+   "status": "in Arbeit",
+   "races": 1,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "Alb-Donau-Kreis",
+   "typ": "Landkreis",
+   "bezirk": "Tübingen",
+   "prio": 40,
+   "status": "in Arbeit",
+   "races": 0,
+   "checked": "2026-11-04",
+   "hinweis": "04.11.2026: in den Kalendern kein passender Lauf gefunden (nicht als bewiesen zu lesen)."
+  },
+  {
+   "kreis": "LK Biberach",
+   "typ": "Landkreis",
+   "bezirk": "Tübingen",
+   "prio": 41,
+   "status": "in Arbeit",
+   "races": 3,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "Bodenseekreis",
+   "typ": "Landkreis",
+   "bezirk": "Tübingen",
+   "prio": 42,
+   "status": "in Arbeit",
+   "races": 3,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "LK Ravensburg",
+   "typ": "Landkreis",
+   "bezirk": "Tübingen",
+   "prio": 43,
+   "status": "in Arbeit",
+   "races": 4,
+   "checked": "2026-11-04",
+   "hinweis": "Erstsichtung 04.11.2026 aus haid.app, gotrail.run und Suche; Veranstalterseiten nur zum Teil gelesen, noch nicht vollständig."
+  },
+  {
+   "kreis": "LK Sigmaringen",
+   "typ": "Landkreis",
+   "bezirk": "Tübingen",
+   "prio": 44,
+   "status": "in Arbeit",
+   "races": 0,
+   "checked": "2026-11-04",
+   "hinweis": "04.11.2026: in den Kalendern kein passender Lauf gefunden (nicht als bewiesen zu lesen)."
+  }
+ ]
+}

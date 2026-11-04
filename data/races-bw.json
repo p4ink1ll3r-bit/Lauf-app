@@ -1,0 +1,2196 @@
+{
+ "updated": "2026-11-04",
+ "races": [
+  {
+   "id": "riedlinger-misselauf-2026",
+   "type": "trail",
+   "name": "Riedlinger Misselauf",
+   "place": "Riedlingen",
+   "bezirk": "Tübingen",
+   "kreis": "LK Biberach",
+   "date": "2026-11-08",
+   "confirmed": true,
+   "distances": [
+    "4,5",
+    "8,2"
+   ],
+   "source": "https://gotrail.run/de/termine/misselauf",
+   "reg_close": "2026-11-05",
+   "start_place": "Mißmahl'sche Anlagen, Hindenburgstraße 6",
+   "parking": "Stadthalle, Hindenburgstraße 9",
+   "info": "9. Auflage, zugleich Kreiswaldlaufmeisterschaften. Strecke etwa 50 % Asphalt, 40 % Schotter, 10 % Trail. Spikes verboten. Nachmeldung vor Ort eventuell möglich.",
+   "checked": "2026-11-04",
+   "lat": 48.154,
+   "lon": 9.476
+  },
+  {
+   "id": "monnem-cross-2026",
+   "type": "trail",
+   "name": "Monnem Cross",
+   "place": "Mannheim",
+   "bezirk": "Karlsruhe",
+   "kreis": "Stadt Mannheim",
+   "date": "2026-11-14",
+   "confirmed": true,
+   "distances": [
+    "6",
+    "10"
+   ],
+   "url": "https://monnemcross.mtg-mannheim-triathlon.de",
+   "source": "https://gotrail.run/de/termine/monnem-cross",
+   "anmeldung_url": "https://runtix.com/sts/10021/3196",
+   "fee": "6 km 10 €, 10 km 12 €, Jugendläufe 4 €. Nachmeldung am Lauftag 5 € Aufschlag, solange Plätze frei",
+   "reg_close": "2026-11-11",
+   "start_place": "Michael-Hoffmann-Stadion, Im Pfeifferswörth 13, 68167 Mannheim",
+   "info": "Cross auf etwa 2-km-Runde mit Wällen, niedrigen Hürden und Reifen. Hauptläufe ab 16 Jahren.",
+   "checked": "2026-11-04",
+   "lat": 49.496,
+   "lon": 8.481
+  },
+  {
+   "id": "riegeler-crosslauf-2026",
+   "type": "trail",
+   "name": "Riegeler Crosslauf Rund um den Michaelsberg",
+   "place": "Riegel am Kaiserstuhl",
+   "bezirk": "Freiburg",
+   "kreis": "LK Emmendingen",
+   "date": "2026-11-15",
+   "confirmed": true,
+   "distances": [
+    "8,1"
+   ],
+   "url": "https://tvriegel.com",
+   "source": "https://gotrail.run/de/termine/riegeler-crosslauf-rund-um-den-michaelsberg",
+   "start_place": "Hinter dem Rathaus, Hauptstraße 31",
+   "pickup": "Römerhalle, Forchheimer Straße 11 (ca. 600 m vom Start)",
+   "info": "50. Auflage. Hauptlauf 8,1 km (3 Runden à 2,9 km auf Asphalt und Feldwegen), dazu kürzere Läufe. Anmeldung über ladv.de.",
+   "checked": "2026-11-04",
+   "lat": 48.15,
+   "lon": 7.75
+  },
+  {
+   "id": "crosslauf-denzlingen-2026",
+   "type": "trail",
+   "name": "Crosslauf Denzlingen",
+   "place": "Denzlingen",
+   "bezirk": "Freiburg",
+   "kreis": "LK Emmendingen",
+   "date": "2026-11-21",
+   "confirmed": true,
+   "distances": [
+    "8,15"
+   ],
+   "url": "https://www.tvd-la.de/2026/09/20/crosslauf-2026/",
+   "source": "https://www.tvd-la.de/2026/09/20/crosslauf-2026/",
+   "anmeldung_url": "https://ladv.de/ausschreibung/detail/49380/Crosslauf-Denzlingen-Denzlingen.htm",
+   "fee": "Hauptläufe 8 € (Meldung über den Verein)",
+   "reg_close": "2026-11-19",
+   "start_place": "Tauziehverein Denzlingen, Mauracher Hof, Berliner Straße",
+   "parking": "Sporthalle/Schulzentrum, Stuttgarter Straße 17 (ca. 15 Min. Fußweg)",
+   "showers": "Sporthalle Stuttgarter Straße (ca. 15 Min. Fußweg)",
+   "info": "Reiner Wiesen-Cross. Männer-Hauptlauf 8,15 km, Frauen 4,4 km. Spikes mit langen Nägeln empfohlen.",
+   "checked": "2026-11-04",
+   "lat": 48.067,
+   "lon": 7.883
+  },
+  {
+   "id": "suessener-stadtlauf-2026",
+   "type": "road",
+   "name": "Süßener Stadtlauf (WMF BKK Herbstlauf)",
+   "place": "Süßen",
+   "bezirk": "Stuttgart",
+   "kreis": "LK Göppingen",
+   "date": "2026-11-22",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "11"
+   ],
+   "elevation": [
+    60,
+    210
+   ],
+   "url": "https://www.suessener-stadtlauf.de/ausschreibung-wmf-bkk-herbstlauf-2026",
+   "source": "https://gotrail.run/de/termine/sussener-stadtlauf",
+   "anmeldung_url": "https://my.raceresult.com/375590/",
+   "late_reg": "Nachmeldung am Veranstaltungstag, 3 € Aufschlag",
+   "start_place": "Sport- und Kulturhalle Süßen, Sommerauweg 11",
+   "showers": "Umkleiden und Duschen in der Sporthalle",
+   "info": "Strecken nicht amtlich vermessen (Asphalt, Schotter, Waldwege). Chip in der Startnummer Pflicht. Dazu 5 km Walking und Jugendlauf 1,8 km.",
+   "checked": "2026-11-04",
+   "lat": 48.679,
+   "lon": 9.755
+  },
+  {
+   "id": "adventslauf-weiden-2026",
+   "type": "road",
+   "name": "Adventslauf Weiden",
+   "place": "Dornhan-Weiden",
+   "bezirk": "Freiburg",
+   "kreis": "LK Rottweil",
+   "date": "2026-11-29",
+   "confirmed": true,
+   "distances": [
+    "5,9",
+    "10,7"
+   ],
+   "fee": "5,9 km 7 €, 10,7 km 11 € (Löwenlauf)",
+   "url": "https://sportverein-weiden.de",
+   "source": "https://gotrail.run/de/termine/adventslauf-weiden",
+   "info": "33. Auflage, SV Weiden. Dazu Nordic Walking 5,9 km und Schülerläufe. Anmeldung über RaceResult.",
+   "checked": "2026-11-04",
+   "lat": 48.357,
+   "lon": 8.536
+  },
+  {
+   "id": "nikolauslauf-schnaitheim-2026",
+   "type": "trail",
+   "name": "Nikolauslauf der TSG Schnaitheim",
+   "place": "Heidenheim-Schnaitheim",
+   "bezirk": "Stuttgart",
+   "kreis": "LK Heidenheim",
+   "date": "2026-12-05",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "https://my.raceresult.com/386008/",
+   "reg_close": "2026-12-02",
+   "late_reg": "Nachmeldung online bis 04.12. 12:00 Uhr oder vor Ort bis 60 Min. vor dem Start, 3 € Aufschlag",
+   "pickup": "Vereinsheim/Sportgaststätte, Moldenberg 3",
+   "parking": "Parkplätze am Vereinsheim",
+   "showers": "Umkleiden und Duschen am Vereinsheim",
+   "aid": "keine Verpflegungsstelle auf der Strecke",
+   "info": "Strecke überwiegend Schotter mit Waldanteil, etwa 300 m Asphalt. 10 km und 5 km Fitnesslauf, dazu 5 km Walking, keine Erstattung bei Nichtantritt.",
+   "checked": "2026-11-04",
+   "lat": 48.683,
+   "lon": 10.15
+  },
+  {
+   "id": "crosslaufserie-oberschwaben-blitzenreute-2026",
+   "type": "trail",
+   "name": "Crosslaufserie Oberschwaben – 1. Lauf Blitzenreute",
+   "place": "Wolpertswende-Blitzenreute",
+   "bezirk": "Tübingen",
+   "kreis": "LK Ravensburg",
+   "date": "2026-12-06",
+   "confirmed": true,
+   "distances": [
+    "7,5"
+   ],
+   "url": "https://crosslaufserie-oberschwaben.de",
+   "source": "https://gotrail.run/de/termine/crosslaufserie-oberschwaben-blitzenreute",
+   "start_place": "Biegenburg-Halle, Blitzenreute",
+   "info": "Veranstalter SV Blitzenreute. Hauptlauf 7,5 km, Jedermann-Cross 3,6 km. Nachmeldung in der Halle.",
+   "checked": "2026-11-04",
+   "lat": 47.895,
+   "lon": 9.612
+  },
+  {
+   "id": "hegau-bodensee-cross-meersburg-2026",
+   "type": "trail",
+   "name": "Hegau-Bodensee Crosslaufserie – Meersburg",
+   "place": "Meersburg",
+   "bezirk": "Tübingen",
+   "kreis": "Bodenseekreis",
+   "date": "2026-11-08",
+   "confirmed": false,
+   "distances": [
+    "6,5"
+   ],
+   "url": "https://hegau-bodensee-cross.de",
+   "source": "https://gotrail.run/de/termine/hegau-bodensee-crosslaufserie-meersburg",
+   "start_place": "Rebgut Haltnau, Uferpromenade 107",
+   "info": "Veranstalter TuS Meersburg. Hauptlauf 3 Runden, ca. 6,5 km. Termin laut Seite nur 'nächster geplanter Termin', Änderung oder Absage möglich. Keine Duschen und Umkleiden in diesem Jahr.",
+   "checked": "2026-11-04",
+   "lat": 47.694,
+   "lon": 9.271
+  },
+  {
+   "id": "rohrwanglauf-2026",
+   "type": "road",
+   "name": "Rohrwanglauf",
+   "place": "Aalen",
+   "bezirk": "Stuttgart",
+   "kreis": "Ostalbkreis",
+   "date": "2026-11-07",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "https://haid.app/en/events/rohrwanglauf-mv0dqhun",
+   "checked": "2026-11-04",
+   "lat": 48.839,
+   "lon": 10.092
+  },
+  {
+   "id": "waldhaegenich-lauf-2026",
+   "type": "road",
+   "name": "Waldhägenich-Lauf",
+   "place": "Bühl",
+   "bezirk": "Karlsruhe",
+   "kreis": "LK Rastatt",
+   "date": "2026-11-07",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "https://haid.app/en/events/waldhagenich-lauf-mvoo815l",
+   "checked": "2026-11-04",
+   "lat": 48.697,
+   "lon": 8.135
+  },
+  {
+   "id": "internationaler-hohenzollernberglauf-2026",
+   "type": "trail",
+   "name": "Internationaler Hohenzollernberglauf",
+   "place": "Hechingen",
+   "bezirk": "Tübingen",
+   "kreis": "Zollernalbkreis",
+   "date": "2026-11-08",
+   "confirmed": true,
+   "distances": [
+    "8"
+   ],
+   "source": "https://haid.app/en/events/int-hohenzollernberglauf-mq93kfnt",
+   "checked": "2026-11-04",
+   "lat": 48.352,
+   "lon": 8.963
+  },
+  {
+   "id": "bibersfelder-herbstlauf-2026",
+   "type": "road",
+   "name": "Bibersfelder Herbstlauf",
+   "place": "Schwäbisch Hall",
+   "bezirk": "Stuttgart",
+   "kreis": "LK Schwäbisch Hall",
+   "date": "2026-11-08",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "https://haid.app/en/events/bibersfelder-herbstlauf-mq93kjbk",
+   "checked": "2026-11-04",
+   "lat": 49.111,
+   "lon": 9.739
+  },
+  {
+   "id": "obersulmer-volkslauf-2026",
+   "type": "road",
+   "name": "Obersulmer Volkslauf",
+   "place": "Obersulm",
+   "bezirk": "Stuttgart",
+   "kreis": "LK Heilbronn",
+   "date": "2026-11-08",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "https://haid.app/en/events/obersulmer-volkslauf-mq93kp3g",
+   "checked": "2026-11-04",
+   "lat": 49.136,
+   "lon": 9.377
+  },
+  {
+   "id": "steinheimer-geologenlauf-2026",
+   "type": "road",
+   "name": "Steinheimer Geologenlauf",
+   "place": "Steinheim am Albuch",
+   "bezirk": "Stuttgart",
+   "kreis": "LK Heidenheim",
+   "date": "2026-11-08",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "7",
+    "10"
+   ],
+   "source": "https://haid.app/en/events/steinheimer-geologenlauf-muknvnmt",
+   "checked": "2026-11-04",
+   "lat": 48.691,
+   "lon": 10.064
+  },
+  {
+   "id": "stirnlampenlauf-tuttlingen-2026",
+   "type": "trail",
+   "name": "Stirnlampenlauf Tuttlingen",
+   "place": "Tuttlingen",
+   "bezirk": "Freiburg",
+   "kreis": "LK Tuttlingen",
+   "date": "2026-11-13",
+   "confirmed": true,
+   "distances": [
+    "8"
+   ],
+   "source": "https://haid.app/en/events/stirnlampenlauf-tuttlingen-mv7iy5ol",
+   "checked": "2026-11-04",
+   "lat": 47.985,
+   "lon": 8.818
+  },
+  {
+   "id": "6-oder-12h-run-freudenstadt-gruental-14-15-november-2026",
+   "type": "trail",
+   "name": "6 oder 12h Run Freudenstadt-Grüntal (14./15. November)",
+   "place": "Freudenstadt",
+   "bezirk": "Karlsruhe",
+   "kreis": "LK Freudenstadt",
+   "date": "2026-11-14",
+   "confirmed": true,
+   "distances": [
+    "12 h"
+   ],
+   "source": "https://neckarlauf.com/6hoder12h-run.html",
+   "checked": "2026-11-04",
+   "end": "2026-11-15",
+   "url": "https://neckarlauf.com/6hoder12h-run.html",
+   "fee": "6 h oder 12 h: 45 € für einen Lauftag, 80 € für beide Tage",
+   "start_place": "Haldenstraße 10, 72250 Freudenstadt-Grüntal",
+   "late_reg": "Nachmeldung am Renntag möglich",
+   "info": "Wendepunktstrecke 2.236 m mit ca. 20 m Anstieg, nur volle Runden zählen. Verpflegung, Frühstücksbuffet und Urkunde inklusive. Teile der Strecke unbeleuchtet, Stirnlampe empfohlen. Weitere Läufe der Serie bis 06.02.2027.",
+   "lat": 48.467,
+   "lon": 8.414
+  },
+  {
+   "id": "ring-running-series-hockenheimring-halbmarathon-und-marathon-2026",
+   "type": "road",
+   "name": "Ring Running Series Hockenheimring (Halbmarathon und Marathon)",
+   "place": "Hockenheim",
+   "bezirk": "Karlsruhe",
+   "kreis": "Rhein-Neckar-Kreis",
+   "date": "2026-11-21",
+   "confirmed": true,
+   "distances": [
+    "HM",
+    "M"
+   ],
+   "source": "https://haid.app/en/events/ring-running-series-hockenheim-mq93lli2",
+   "checked": "2026-11-04",
+   "info": "Auf dem Hockenheimring. Anmeldung laut Kalendern über ringrunningseries.com; Startgeld in Kalendern 64 bis 79 € (nicht beim Veranstalter geprüft).",
+   "lat": 49.323,
+   "lon": 8.552
+  },
+  {
+   "id": "stadtwerke-night-run-sindelfingen-2026",
+   "type": "road",
+   "name": "Stadtwerke Night Run Sindelfingen",
+   "place": "Sindelfingen",
+   "bezirk": "Stuttgart",
+   "kreis": "LK Böblingen",
+   "date": "2026-11-21",
+   "confirmed": true,
+   "distances": [
+    "6",
+    "10"
+   ],
+   "source": "https://haid.app/en/events/stadtwerke-night-run-mq93lmob",
+   "checked": "2026-11-04",
+   "lat": 48.713,
+   "lon": 8.999
+  },
+  {
+   "id": "boennigheimer-stromberglauf-2026",
+   "type": "road",
+   "name": "Bönnigheimer Stromberglauf",
+   "place": "Bönnigheim",
+   "bezirk": "Stuttgart",
+   "kreis": "LK Ludwigsburg",
+   "date": "2026-11-21",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "https://haid.app/en/events/bonnigheimer-stromberglauf-mq93ln7t",
+   "checked": "2026-11-04",
+   "lat": 49.04,
+   "lon": 9.094
+  },
+  {
+   "id": "mittelbaden-nikolauslauf-2026",
+   "type": "road",
+   "name": "Mittelbaden Nikolauslauf",
+   "place": "Lahr",
+   "bezirk": "Freiburg",
+   "kreis": "Ortenaukreis",
+   "date": "2026-11-28",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "6",
+    "10"
+   ],
+   "source": "https://haid.app/en/events/mittelbaden-nikolauslauf-msid18pt",
+   "checked": "2026-11-04",
+   "lat": 48.339,
+   "lon": 7.872
+  },
+  {
+   "id": "bernhard-marathon-2026",
+   "type": "road",
+   "name": "Bernhard Marathon",
+   "place": "Hemsbach",
+   "bezirk": "Karlsruhe",
+   "kreis": "Rhein-Neckar-Kreis",
+   "date": "2026-11-28",
+   "confirmed": true,
+   "distances": [
+    "M"
+   ],
+   "source": "https://haid.app/en/events/bernhard-marathon-mt82ypy8",
+   "checked": "2026-11-04",
+   "info": "Marathon laut haid.app (43 km). Weitere Angaben nicht geprüft.",
+   "lat": 49.591,
+   "lon": 8.648
+  },
+  {
+   "id": "laufwelt-nikolauslauf-der-rsg-ried-rastatt-2026",
+   "type": "road",
+   "name": "Laufwelt Nikolauslauf der RSG Ried Rastatt",
+   "place": "Rastatt",
+   "bezirk": "Karlsruhe",
+   "kreis": "LK Rastatt",
+   "date": "2026-12-06",
+   "confirmed": true,
+   "distances": [
+    "10",
+    "HM"
+   ],
+   "source": "https://haid.app/en/events/laufwelt-nikolauslauf-der-rsg-ried-rastatt-mq93n2wr",
+   "checked": "2026-11-04",
+   "lat": 48.858,
+   "lon": 8.21
+  },
+  {
+   "id": "nikolauslauf-ilsfeld-2026",
+   "type": "road",
+   "name": "Nikolauslauf Ilsfeld",
+   "place": "Ilsfeld",
+   "bezirk": "Stuttgart",
+   "kreis": "LK Heilbronn",
+   "date": "2026-12-06",
+   "confirmed": true,
+   "distances": [
+    "5"
+   ],
+   "source": "https://haid.app/en/events/nikolauslauf-ilsfeld-mq93nmj8",
+   "checked": "2026-11-04",
+   "lat": 49.056,
+   "lon": 9.246
+  },
+  {
+   "id": "itdesign-nikolauslauf-tuebingen-2026",
+   "type": "trail",
+   "name": "itdesign-Nikolauslauf Tübingen",
+   "place": "Tübingen",
+   "bezirk": "Tübingen",
+   "kreis": "LK Tübingen",
+   "date": "2026-12-06",
+   "confirmed": true,
+   "distances": [
+    "10",
+    "HM"
+   ],
+   "source": "https://haid.app/en/events/itdesign-nikolauslauf-tubingen-mrsn2j44",
+   "checked": "2026-11-04",
+   "url": "https://nikolauslauf-tuebingen.de",
+   "lat": 48.527,
+   "lon": 9.05
+  },
+  {
+   "id": "spiegelberger-raeuberweglauf-2026",
+   "type": "trail",
+   "name": "Spiegelberger Räuberweglauf",
+   "place": "Spiegelberg",
+   "bezirk": "Stuttgart",
+   "kreis": "Rems-Murr-Kreis",
+   "date": "2026-12-13",
+   "confirmed": true,
+   "distances": [
+    "26",
+    "57"
+   ],
+   "source": "https://gotrail.run/de/termine/spiegelberger-rauberweglauf",
+   "checked": "2026-11-04",
+   "url": "https://ultras.prospectum.com/events/2026_06_raeuberweglauf/",
+   "fee": "kostenlos, Spendenkasse vor Ort",
+   "sold_out": "Ausverkauft laut Veranstalterseite (Warteliste bis 10.12.)",
+   "elevation": [
+    800,
+    1600
+   ],
+   "start_place": "Gasthof Zum Goldenen Ritter, Schulstraße 5, 71579 Spiegelberg-Vorderbüchelberg",
+   "info": "UTMB-Kategorien 20K und 50K.",
+   "lat": 49.041,
+   "lon": 9.444
+  },
+  {
+   "id": "crosslaufserie-oberschwaben-4-lauf-reute-bad-waldsee-2026",
+   "type": "trail",
+   "name": "Crosslaufserie Oberschwaben – 4. Lauf Reute/Bad Waldsee",
+   "place": "Bad Waldsee",
+   "bezirk": "Tübingen",
+   "kreis": "LK Ravensburg",
+   "date": "2026-12-20",
+   "confirmed": true,
+   "distances": [
+    "8"
+   ],
+   "source": "https://gotrail.run/de/termine/crosslaufserie-oberschwaben-reutebad-waldsee",
+   "checked": "2026-11-04",
+   "url": "https://crosslaufserie-oberschwaben.de",
+   "start_place": "Durlesbachhalle Reute, Jahnstraße 5",
+   "info": "Hauptlauf 8,0 km, Jedermann-Cross 4,0 km.",
+   "lat": 47.92,
+   "lon": 9.755
+  },
+  {
+   "id": "hegau-bodensee-crosslaufserie-radolfzell-markelfingen-2026",
+   "type": "trail",
+   "name": "Hegau-Bodensee Crosslaufserie – Radolfzell-Markelfingen",
+   "place": "Radolfzell am Bodensee",
+   "bezirk": "Freiburg",
+   "kreis": "LK Konstanz",
+   "date": "2026-12-13",
+   "confirmed": false,
+   "distances": [
+    "7"
+   ],
+   "source": "https://gotrail.run/de/termine/hegau-bodensee-crosslaufserie-radolfzell",
+   "checked": "2026-11-04",
+   "url": "https://hegau-bodensee-cross.de",
+   "parking": "Parkplatz Waldfriedhof Markelfingen (begrenzt)",
+   "pickup": "Markolfhalle, Pirminweg 5, Radolfzell-Markelfingen",
+   "info": "Hauptlauf ca. 7 km. Termin laut Seite geplant, kann geändert werden.",
+   "lat": 47.742,
+   "lon": 8.971
+  },
+  {
+   "id": "britzinger-silvesterlauf-2026",
+   "type": "road",
+   "name": "Britzinger Silvesterlauf",
+   "place": "Müllheim",
+   "bezirk": "Freiburg",
+   "kreis": "LK Breisgau-Hochschwarzwald",
+   "date": "2026-12-13",
+   "confirmed": true,
+   "distances": [
+    "10"
+   ],
+   "source": "https://haid.app/en/events/britzinger-silvesterlauf-mq94h1ca",
+   "checked": "2026-11-04",
+   "lat": 47.808,
+   "lon": 7.63
+  },
+  {
+   "id": "gruental-winterultra-2026",
+   "type": "trail",
+   "name": "Grüntal-Winterultra",
+   "place": "Freudenstadt",
+   "bezirk": "Karlsruhe",
+   "kreis": "LK Freudenstadt",
+   "date": "2026-12-28",
+   "confirmed": true,
+   "distances": [
+    "50"
+   ],
+   "source": "https://gotrail.run/de/termine/gruntal-winterultra-freudenstadt-gruntal",
+   "checked": "2026-11-04",
+   "url": "https://neckarlauf.com",
+   "fee": "45 €, vor dem Start überweisen oder bar zahlen",
+   "start_place": "Haldenstraße 10, 72250 Freudenstadt-Grüntal",
+   "late_reg": "Nachmeldung am Starttag kurz vor dem Start möglich",
+   "info": "4 Runden à 12,5 km auf Feld- und Waldwegen, leicht hügelig, nur Gesamtwertung, kein Zeitlimit. Verpflegung inklusive. Anmeldung per E-Mail.",
+   "lat": 48.467,
+   "lon": 8.414
+  },
+  {
+   "id": "hohenloher-silvesterlauf-2026",
+   "type": "road",
+   "name": "Hohenloher Silvesterlauf",
+   "place": "Wallhausen",
+   "bezirk": "Stuttgart",
+   "kreis": "LK Schwäbisch Hall",
+   "date": "2026-12-31",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "https://haid.app/en/events/hohenloher-silvesterlauf-2026-mq94h5dc",
+   "checked": "2026-11-04",
+   "lat": 49.26,
+   "lon": 10.01
+  },
+  {
+   "id": "bietigheimer-silvesterlauf-2026",
+   "type": "road",
+   "name": "Bietigheimer Silvesterlauf",
+   "place": "Bietigheim-Bissingen",
+   "bezirk": "Stuttgart",
+   "kreis": "LK Ludwigsburg",
+   "date": "2026-12-31",
+   "confirmed": true,
+   "distances": [
+    "11"
+   ],
+   "source": "https://haid.app/en/events/bietigheimer-silvesterlauf-mq94hiv8",
+   "checked": "2026-11-04",
+   "lat": 48.944,
+   "lon": 9.117
+  },
+  {
+   "id": "silvesterlauf-tettnang-2026",
+   "type": "road",
+   "name": "Silvesterlauf Tettnang",
+   "place": "Tettnang",
+   "bezirk": "Tübingen",
+   "kreis": "Bodenseekreis",
+   "date": "2026-12-31",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "https://haid.app/en/events/silvesterlauf-tettnang-mq94iav1",
+   "checked": "2026-11-04",
+   "lat": 47.669,
+   "lon": 9.591
+  },
+  {
+   "id": "silvesterlauf-fluorn-winzeln-2026",
+   "type": "road",
+   "name": "Silvesterlauf Fluorn-Winzeln",
+   "place": "Fluorn-Winzeln",
+   "bezirk": "Freiburg",
+   "kreis": "LK Rottweil",
+   "date": "2026-12-31",
+   "confirmed": true,
+   "distances": [
+    "6"
+   ],
+   "source": "https://haid.app/en/events/silvesterlauf-fluorn-winzeln-mq94ibqz",
+   "checked": "2026-11-04",
+   "lat": 48.292,
+   "lon": 8.492
+  },
+  {
+   "id": "silvesterlauf-auf-die-burg-teck-2026",
+   "type": "trail",
+   "name": "Silvesterlauf auf die Burg Teck",
+   "place": "Kirchheim unter Teck",
+   "bezirk": "Stuttgart",
+   "kreis": "LK Esslingen",
+   "date": "2026-12-31",
+   "confirmed": true,
+   "distances": [
+    "18"
+   ],
+   "source": "https://gotrail.run/de/termine/silvesterlauf-auf-die-burg-teck",
+   "checked": "2026-11-04",
+   "url": "https://vfl-kirchheim.de/lauftreff",
+   "fee": "kostenlos, Spenden willkommen",
+   "elevation": [
+    459
+   ],
+   "info": "Kein Wettkampf, gemeinsames Ankommen (17,84 km). Veranstalter Lauftreff Kirchheim. Keine Anmeldung nötig. Kleiderablage am Rathaus.",
+   "lat": 48.647,
+   "lon": 9.454
+  },
+  {
+   "id": "silvesterlauf-heddesheim-2026",
+   "type": "road",
+   "name": "Silvesterlauf Heddesheim",
+   "place": "Heddesheim",
+   "bezirk": "Karlsruhe",
+   "kreis": "Rhein-Neckar-Kreis",
+   "date": "2026-12-31",
+   "confirmed": true,
+   "distances": [
+    "8"
+   ],
+   "source": "https://haid.app/en/events/silvesterlauf-heddesheim-mttimae2",
+   "checked": "2026-11-04",
+   "lat": 49.506,
+   "lon": 8.604
+  },
+  {
+   "id": "mergelstetter-silvesterlauf-2026",
+   "type": "road",
+   "name": "Mergelstetter Silvesterlauf",
+   "place": "Heidenheim an der Brenz",
+   "bezirk": "Stuttgart",
+   "kreis": "LK Heidenheim",
+   "date": "2026-12-31",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "https://haid.app/en/events/mergelstetter-silvesterlauf-mttimea2",
+   "checked": "2026-11-04",
+   "lat": 48.683,
+   "lon": 10.15
+  },
+  {
+   "id": "backnanger-silvesterlauf-2026",
+   "type": "road",
+   "name": "Backnanger Silvesterlauf",
+   "place": "Backnang",
+   "bezirk": "Stuttgart",
+   "kreis": "Rems-Murr-Kreis",
+   "date": "2026-12-31",
+   "confirmed": true,
+   "distances": [
+    "5"
+   ],
+   "source": "https://haid.app/en/events/backnanger-silvesterlauf-muey5cn4",
+   "checked": "2026-11-04",
+   "info": "Auf haid.app 5 km und kürzere Läufe, weitere Strecken nicht geklärt.",
+   "lat": 48.947,
+   "lon": 9.437
+  },
+  {
+   "id": "forchheimer-silvesterlauf-2026",
+   "type": "road",
+   "name": "Forchheimer Silvesterlauf",
+   "place": "Rheinstetten",
+   "bezirk": "Karlsruhe",
+   "kreis": "LK Karlsruhe",
+   "date": "2026-12-31",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "https://haid.app/en/events/forchheimer-silvesterlauf-mv7ixrn5",
+   "checked": "2026-11-04",
+   "lat": 48.968,
+   "lon": 8.307
+  },
+  {
+   "id": "stuttgarter-silvesterlauf-weilimdorf-2026",
+   "type": "road",
+   "name": "Stuttgarter Silvesterlauf (Weilimdorf)",
+   "place": "Stuttgart",
+   "bezirk": "Stuttgart",
+   "kreis": "Stadt Stuttgart",
+   "date": "2026-12-31",
+   "confirmed": true,
+   "distances": [
+    "6",
+    "11"
+   ],
+   "source": "https://haid.app/en/events/stuttgarter-silvesterlauf-mviygvi2",
+   "checked": "2026-11-04",
+   "info": "Veranstalter TSV/SG Weilimdorf, Hauptlauf ca. 11 km. Laut Presse sind Organisation und Fortführung für 2026 unsicher.",
+   "lat": 48.769,
+   "lon": 9.186
+  },
+  {
+   "id": "brogginger-spendenlauf-2027",
+   "type": "road",
+   "name": "Brogginger Spendenlauf",
+   "place": "Herbolzheim",
+   "bezirk": "Freiburg",
+   "kreis": "LK Emmendingen",
+   "date": "2027-01-03",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10",
+    "HM"
+   ],
+   "source": "https://haid.app/en/events/brogginger-spendenlauf-mq955bmm",
+   "checked": "2026-11-04",
+   "lat": 48.219,
+   "lon": 7.777
+  },
+  {
+   "id": "optima-dreikoenigslauf-schwaebisch-hall-2027",
+   "type": "road",
+   "name": "OPTIMA Dreikönigslauf Schwäbisch Hall",
+   "place": "Schwäbisch Hall",
+   "bezirk": "Stuttgart",
+   "kreis": "LK Schwäbisch Hall",
+   "date": "2027-01-06",
+   "confirmed": false,
+   "distances": [
+    "5"
+   ],
+   "source": "https://haid.app/en/events/optima-dreikonigslauf-in-schwabisch-hall-mq94j2e2",
+   "checked": "2026-11-04",
+   "lat": 49.111,
+   "lon": 9.739
+  },
+  {
+   "id": "degerlocher-3-koenigslauf-2027",
+   "type": "road",
+   "name": "Degerlocher 3-Königslauf",
+   "place": "Stuttgart",
+   "bezirk": "Stuttgart",
+   "kreis": "Stadt Stuttgart",
+   "date": "2027-01-06",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "https://haid.app/en/events/degerlocher-3-konigslauf-mq94j6cf",
+   "checked": "2026-11-04",
+   "lat": 48.769,
+   "lon": 9.186
+  },
+  {
+   "id": "herbolzheimer-dreikoenigslauf-2027",
+   "type": "road",
+   "name": "Herbolzheimer Dreikönigslauf",
+   "place": "Neudenau",
+   "bezirk": "Stuttgart",
+   "kreis": "LK Heilbronn",
+   "date": "2027-01-06",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "https://haid.app/en/events/herbolzheimer-dreikonigslauf-mt2d6hgk",
+   "checked": "2026-11-04",
+   "lat": 49.292,
+   "lon": 9.27
+  },
+  {
+   "id": "heininger-drei-koenigs-lauf-2027",
+   "type": "road",
+   "name": "Heininger Drei-Königs-Lauf",
+   "place": "Heiningen",
+   "bezirk": "Stuttgart",
+   "kreis": "LK Göppingen",
+   "date": "2027-01-06",
+   "confirmed": false,
+   "distances": [
+    "6"
+   ],
+   "source": "https://haid.app/en/events/heininger-drei-konigs-lauf-mt6nigaw",
+   "checked": "2026-11-04",
+   "lat": 48.688,
+   "lon": 9.703
+  },
+  {
+   "id": "alb-gold-winterlaufcup-2027",
+   "type": "road",
+   "name": "Alb-Gold Winterlaufcup",
+   "place": "Reutlingen",
+   "bezirk": "Tübingen",
+   "kreis": "LK Reutlingen",
+   "date": "2027-01-16",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "https://haid.app/en/events/alb-gold-winterlaufcup-2027-mvltebm5",
+   "checked": "2026-11-04",
+   "end": "2027-03-06",
+   "info": "Laufserie bis 06.03.2027.",
+   "lat": 48.496,
+   "lon": 9.203
+  },
+  {
+   "id": "teninger-allmendlauf-2027",
+   "type": "road",
+   "name": "Teninger Allmendlauf",
+   "place": "Teningen",
+   "bezirk": "Freiburg",
+   "kreis": "LK Emmendingen",
+   "date": "2027-01-17",
+   "confirmed": false,
+   "distances": [
+    "10"
+   ],
+   "source": "https://haid.app/en/events/teninger-allmendlauf-mq9547me",
+   "checked": "2026-11-04",
+   "lat": 48.13,
+   "lon": 7.812
+  },
+  {
+   "id": "crosslaufserie-oberschwaben-birkenhard-2027",
+   "type": "trail",
+   "name": "Crosslaufserie Oberschwaben – Birkenhard",
+   "place": "Warthausen",
+   "bezirk": "Tübingen",
+   "kreis": "LK Biberach",
+   "date": "2027-01-24",
+   "confirmed": false,
+   "distances": [
+    "7"
+   ],
+   "source": "https://haid.app/en/events/crosslaufserie-oberschwaben-birkenhard-muknvyec",
+   "checked": "2026-11-04",
+   "url": "https://crosslaufserie-oberschwaben.de",
+   "lat": 48.129,
+   "lon": 9.797
+  },
+  {
+   "id": "ultralauf-hawei50-2027",
+   "type": "road",
+   "name": "Ultralauf HaWei50",
+   "place": "Ubstadt-Weiher",
+   "bezirk": "Karlsruhe",
+   "kreis": "LK Karlsruhe",
+   "date": "2027-02-26",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10",
+    "50"
+   ],
+   "source": "https://haid.app/en/events/ultralauf-hawei50-mt82yroc",
+   "checked": "2026-11-04",
+   "lat": 49.163,
+   "lon": 8.632
+  },
+  {
+   "id": "mathaisemarktlauf-2027",
+   "type": "road",
+   "name": "Mathaisemarktlauf",
+   "place": "Schriesheim",
+   "bezirk": "Karlsruhe",
+   "kreis": "Rhein-Neckar-Kreis",
+   "date": "2027-03-06",
+   "confirmed": false,
+   "distances": [
+    "6",
+    "10"
+   ],
+   "source": "https://haid.app/en/events/mathaisemarktlauf-mq957pcm",
+   "checked": "2026-11-04",
+   "lat": 49.474,
+   "lon": 8.664
+  },
+  {
+   "id": "weinsberger-weibertreulauf-2027",
+   "type": "road",
+   "name": "Weinsberger Weibertreulauf",
+   "place": "Weinsberg",
+   "bezirk": "Stuttgart",
+   "kreis": "LK Heilbronn",
+   "date": "2027-03-07",
+   "confirmed": false,
+   "distances": [
+    "5"
+   ],
+   "source": "https://haid.app/en/events/weinsberger-weibertreulauf-mqx7e2iy",
+   "checked": "2026-11-04",
+   "lat": 49.151,
+   "lon": 9.288
+  },
+  {
+   "id": "tor-zur-welt-lauf-irslingen-2027",
+   "type": "road",
+   "name": "Tor zur Welt Lauf Irslingen",
+   "place": "Dietingen",
+   "bezirk": "Freiburg",
+   "kreis": "LK Rottweil",
+   "date": "2027-03-07",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "11"
+   ],
+   "source": "https://haid.app/en/events/tor-zur-welt-lauf-irslingen-muoy8gs3",
+   "checked": "2026-11-04",
+   "lat": 48.205,
+   "lon": 8.649
+  },
+  {
+   "id": "gmuender-stadtlauf-2027",
+   "type": "road",
+   "name": "Gmünder Stadtlauf",
+   "place": "Schwäbisch Gmünd",
+   "bezirk": "Stuttgart",
+   "kreis": "Ostalbkreis",
+   "date": "2027-03-13",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10",
+    "HM"
+   ],
+   "source": "https://haid.app/en/events/gmunder-stadtlauf-mvx8v56x",
+   "checked": "2026-11-04",
+   "prev_date": "2026-03-14",
+   "lat": 48.8,
+   "lon": 9.799
+  },
+  {
+   "id": "rheinfelder-lauftag-2027",
+   "type": "road",
+   "name": "Rheinfelder Lauftag",
+   "place": "Rheinfelden (Baden)",
+   "bezirk": "Freiburg",
+   "kreis": "LK Lörrach",
+   "date": "2027-03-14",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10",
+    "HM"
+   ],
+   "source": "https://haid.app/en/events/rheinfelder-lauftag-mu4y3ztb",
+   "checked": "2026-11-04",
+   "prev_date": "2026-03-15",
+   "lat": 47.572,
+   "lon": 7.784
+  },
+  {
+   "id": "heini-langlotz-lauf-2027",
+   "type": "road",
+   "name": "Heini-Langlotz-Lauf",
+   "place": "Brühl",
+   "bezirk": "Karlsruhe",
+   "kreis": "Rhein-Neckar-Kreis",
+   "date": "2027-03-14",
+   "confirmed": false,
+   "distances": [
+    "10"
+   ],
+   "source": "https://haid.app/en/events/heini-langlotz-lauf-2027-muht0qiz",
+   "checked": "2026-11-04",
+   "lat": 49.399,
+   "lon": 8.531
+  },
+  {
+   "id": "sulzburger-fruehlingslauf-2027",
+   "type": "road",
+   "name": "Sulzburger Frühlingslauf",
+   "place": "Sulzburg",
+   "bezirk": "Freiburg",
+   "kreis": "LK Breisgau-Hochschwarzwald",
+   "date": "2027-03-20",
+   "confirmed": false,
+   "distances": [
+    "5"
+   ],
+   "source": "https://haid.app/en/events/sulzburger-fruhlingslauf-mq95rrpv",
+   "checked": "2026-11-04",
+   "lat": 47.841,
+   "lon": 7.708
+  },
+  {
+   "id": "essinger-panoramalaeufe-2027",
+   "type": "road",
+   "name": "Essinger Panoramaläufe",
+   "place": "Essingen",
+   "bezirk": "Stuttgart",
+   "kreis": "Ostalbkreis",
+   "date": "2027-03-20",
+   "confirmed": false,
+   "distances": [
+    "7"
+   ],
+   "source": "https://haid.app/en/events/essinger-panoramalaufe-mq95rygd",
+   "checked": "2026-11-04",
+   "lat": 48.8,
+   "lon": 10.01
+  },
+  {
+   "id": "pleidelsheimer-suewag-lauf-2027",
+   "type": "road",
+   "name": "Pleidelsheimer Süwag-Lauf",
+   "place": "Pleidelsheim",
+   "bezirk": "Stuttgart",
+   "kreis": "LK Ludwigsburg",
+   "date": "2027-03-20",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "https://haid.app/en/events/pleidelsheimer-suwag-lauf-muoy8kp4",
+   "checked": "2026-11-04",
+   "lat": 48.959,
+   "lon": 9.203
+  },
+  {
+   "id": "fruehlingsultra-freudenstadt-gruental-2027",
+   "type": "trail",
+   "name": "Frühlingsultra Freudenstadt-Grüntal",
+   "place": "Freudenstadt",
+   "bezirk": "Karlsruhe",
+   "kreis": "LK Freudenstadt",
+   "date": "2027-03-21",
+   "confirmed": false,
+   "distances": [
+    "50"
+   ],
+   "source": "https://gotrail.run/de/termine/fruhlingsultra-freudenstadt-gruntal",
+   "checked": "2026-11-04",
+   "lat": 48.467,
+   "lon": 8.414
+  },
+  {
+   "id": "rissnertlauf-2027",
+   "type": "road",
+   "name": "Rißnertlauf",
+   "place": "Karlsruhe",
+   "bezirk": "Karlsruhe",
+   "kreis": "Stadt Karlsruhe",
+   "date": "2027-03-21",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "15"
+   ],
+   "source": "https://haid.app/en/events/rissnertlauf-mvkdx44r",
+   "checked": "2026-11-04",
+   "lat": 49.006,
+   "lon": 8.397
+  },
+  {
+   "id": "stutenseer-stadtlauf-2027",
+   "type": "road",
+   "name": "Stutenseer Stadtlauf",
+   "place": "Stutensee",
+   "bezirk": "Karlsruhe",
+   "kreis": "LK Karlsruhe",
+   "date": "2027-03-21",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "https://haid.app/en/events/stutenseer-stadtlauf-mvkdxhpj",
+   "checked": "2026-11-04",
+   "lat": 49.097,
+   "lon": 8.49
+  },
+  {
+   "id": "lofutrail-2027",
+   "type": "trail",
+   "name": "LOFUtrail",
+   "place": "Balingen",
+   "bezirk": "Tübingen",
+   "kreis": "Zollernalbkreis",
+   "date": "2027-04-03",
+   "confirmed": false,
+   "distances": [
+    "6",
+    "12",
+    "26"
+   ],
+   "source": "https://haid.app/en/events/lofutrail-2027-mq95seqn",
+   "checked": "2026-11-04",
+   "lat": 48.275,
+   "lon": 8.855
+  },
+  {
+   "id": "solitudelauf-2027",
+   "type": "road",
+   "name": "Solitudelauf",
+   "place": "Gerlingen",
+   "bezirk": "Stuttgart",
+   "kreis": "LK Ludwigsburg",
+   "date": "2027-04-04",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10",
+    "HM"
+   ],
+   "source": "https://haid.app/en/events/solitudelauf-mq95sf3j",
+   "checked": "2026-11-04",
+   "prev_date": "2026-04-12",
+   "url": "https://www.solitudelauf.de",
+   "lat": 48.8,
+   "lon": 9.063
+  },
+  {
+   "id": "mein-freiburg-marathon-2027",
+   "type": "road",
+   "name": "Mein Freiburg Marathon",
+   "place": "Freiburg im Breisgau",
+   "bezirk": "Freiburg",
+   "kreis": "Stadt Freiburg",
+   "date": "2027-04-04",
+   "confirmed": false,
+   "distances": [
+    "10",
+    "HM",
+    "M"
+   ],
+   "source": "https://haid.app/en/events/freiburg-marathon-mq95sfio",
+   "checked": "2026-11-04",
+   "url": "https://www.mein-freiburgmarathon.de",
+   "info": "Startgeld 2026 laut Veranstalter-Gebührenübersicht: Marathon 75–95 €, Halbmarathon 55–75 €, 10 km 25–35 € (Vorjahr, 2027 noch nicht veröffentlicht).",
+   "lat": 47.999,
+   "lon": 7.839
+  },
+  {
+   "id": "vr-halbmarathon-geislingen-2027",
+   "type": "road",
+   "name": "VR-Halbmarathon Geislingen",
+   "place": "Geislingen",
+   "bezirk": "Tübingen",
+   "kreis": "Zollernalbkreis",
+   "date": "2027-04-11",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10",
+    "HM"
+   ],
+   "source": "https://haid.app/en/events/vr-halbmarathon-mvltdv34",
+   "checked": "2026-11-04",
+   "prev_date": "2026-04-19",
+   "lat": 48.288,
+   "lon": 8.812
+  },
+  {
+   "id": "unterlandlauf-2027",
+   "type": "road",
+   "name": "Unterlandlauf",
+   "place": "Schwaigern",
+   "bezirk": "Stuttgart",
+   "kreis": "LK Heilbronn",
+   "date": "2027-04-11",
+   "confirmed": false,
+   "distances": [
+    "5"
+   ],
+   "source": "https://haid.app/en/events/unterlandlauf-mqemoe28",
+   "checked": "2026-11-04",
+   "lat": 49.145,
+   "lon": 9.055
+  },
+  {
+   "id": "missio-cross-challenge-2027",
+   "type": "trail",
+   "name": "Missio-Cross-Challenge",
+   "place": "Bad Liebenzell",
+   "bezirk": "Karlsruhe",
+   "kreis": "LK Calw",
+   "date": "2027-04-17",
+   "confirmed": false,
+   "distances": [
+    "80"
+   ],
+   "source": "https://haid.app/en/events/missio-cross-challenge-mq95sw9o",
+   "checked": "2026-11-04",
+   "lat": 48.774,
+   "lon": 8.73
+  },
+  {
+   "id": "freiburg-trailrun-2027",
+   "type": "trail",
+   "name": "Freiburg Trailrun",
+   "place": "Freiburg im Breisgau",
+   "bezirk": "Freiburg",
+   "kreis": "Stadt Freiburg",
+   "date": "2027-04-17",
+   "confirmed": false,
+   "distances": [
+    "18",
+    "34",
+    "60"
+   ],
+   "source": "https://haid.app/en/events/freiburg-trailrun-mv8ydxio",
+   "checked": "2026-11-04",
+   "lat": 47.999,
+   "lon": 7.839
+  },
+  {
+   "id": "wiesenseelauf-hemsbach-2027",
+   "type": "road",
+   "name": "Wiesenseelauf Hemsbach",
+   "place": "Hemsbach",
+   "bezirk": "Karlsruhe",
+   "kreis": "Rhein-Neckar-Kreis",
+   "date": "2027-04-17",
+   "confirmed": false,
+   "distances": [
+    "10"
+   ],
+   "source": "https://haid.app/en/events/wiesenseelauf-hemsbach-mv8ye4tm",
+   "checked": "2026-11-04",
+   "lat": 49.591,
+   "lon": 8.648
+  },
+  {
+   "id": "liwa-laufevent-2027",
+   "type": "road",
+   "name": "Liwa Laufevent",
+   "place": "Lichtenwald",
+   "bezirk": "Stuttgart",
+   "kreis": "LK Esslingen",
+   "date": "2027-04-18",
+   "confirmed": false,
+   "distances": [
+    "10",
+    "HM",
+    "M"
+   ],
+   "source": "https://haid.app/en/events/liwa-laufevent-mq95t0ab",
+   "checked": "2026-11-04",
+   "lat": 48.75,
+   "lon": 9.483
+  },
+  {
+   "id": "traeublelauf-des-tsv-weingarten-2027",
+   "type": "road",
+   "name": "Träublelauf des TSV Weingarten",
+   "place": "Weingarten",
+   "bezirk": "Tübingen",
+   "kreis": "LK Ravensburg",
+   "date": "2027-04-18",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "https://haid.app/en/events/traublelauf-des-tsv-weingarten-mq95t305",
+   "checked": "2026-11-04",
+   "lat": 47.81,
+   "lon": 9.64
+  },
+  {
+   "id": "soprema-neckar-run-mannheim-2027",
+   "type": "road",
+   "name": "SOPREMA Neckar Run Mannheim",
+   "place": "Mannheim",
+   "bezirk": "Karlsruhe",
+   "kreis": "Stadt Mannheim",
+   "date": "2027-04-18",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "https://haid.app/en/events/soprema-neckar-run-mannheim-mvkdxg6x",
+   "checked": "2026-11-04",
+   "lat": 49.496,
+   "lon": 8.481
+  },
+  {
+   "id": "albside-up-the-hill-2027",
+   "type": "trail",
+   "name": "Albside – Up The Hill",
+   "place": "Albstadt",
+   "bezirk": "Tübingen",
+   "kreis": "Zollernalbkreis",
+   "date": "2027-04-23",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "11"
+   ],
+   "source": "https://haid.app/en/events/albside-up-the-hill-mq95t5dz",
+   "checked": "2026-11-04",
+   "end": "2027-04-24",
+   "info": "Laut gotrail.run Strecken bis 50 km mit UTMB- und ITRA-Punkten (nicht einzeln geprüft).",
+   "lat": 48.227,
+   "lon": 9.02
+  },
+  {
+   "id": "fischbacher-halbmarathon-2027",
+   "type": "road",
+   "name": "Fischbacher Halbmarathon",
+   "place": "Friedrichshafen",
+   "bezirk": "Tübingen",
+   "kreis": "Bodenseekreis",
+   "date": "2027-04-24",
+   "confirmed": false,
+   "distances": [
+    "10",
+    "HM"
+   ],
+   "source": "https://haid.app/en/events/fischbacher-halbmarathon-mq95t6em",
+   "checked": "2026-11-04",
+   "lat": 47.662,
+   "lon": 9.463
+  },
+  {
+   "id": "genusslauf-muellheim-2027",
+   "type": "road",
+   "name": "Genusslauf Müllheim",
+   "place": "Müllheim",
+   "bezirk": "Freiburg",
+   "kreis": "LK Breisgau-Hochschwarzwald",
+   "date": "2027-04-24",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "11",
+    "HM"
+   ],
+   "source": "https://haid.app/en/events/genusslauf-mvrj3q9y",
+   "checked": "2026-11-04",
+   "lat": 47.808,
+   "lon": 7.63
+  },
+  {
+   "id": "ditzinger-lebenslauf-2027",
+   "type": "road",
+   "name": "Ditzinger Lebenslauf",
+   "place": "Ditzingen",
+   "bezirk": "Stuttgart",
+   "kreis": "LK Ludwigsburg",
+   "date": "2027-04-25",
+   "confirmed": false,
+   "distances": [
+    "5"
+   ],
+   "source": "https://haid.app/en/events/ditzinger-lebenslauf-mq95tbec",
+   "checked": "2026-11-04",
+   "lat": 48.827,
+   "lon": 9.067
+  },
+  {
+   "id": "trollinger-marathon-heilbronn-2027",
+   "type": "road",
+   "name": "Trollinger Marathon Heilbronn",
+   "place": "Heilbronn",
+   "bezirk": "Stuttgart",
+   "kreis": "Stadt Heilbronn",
+   "date": "2027-04-25",
+   "confirmed": false,
+   "distances": [
+    "10",
+    "HM",
+    "M"
+   ],
+   "source": "https://haid.app/en/events/trollinger-marathon-mq95tgul",
+   "checked": "2026-11-04",
+   "url": "https://www.trollinger-marathon.de",
+   "info": "Anmeldung laut running.life ab November 2026. Startgeld 2027 noch nicht veröffentlicht. Termin bei Marathonguide abweichend (09.05.), sonst 25.04.2027.",
+   "lat": 49.142,
+   "lon": 9.205
+  },
+  {
+   "id": "badische-meile-2027",
+   "type": "road",
+   "name": "Badische Meile",
+   "place": "Karlsruhe",
+   "bezirk": "Karlsruhe",
+   "kreis": "Stadt Karlsruhe",
+   "date": "2027-05-01",
+   "confirmed": false,
+   "distances": [
+    "9"
+   ],
+   "source": "https://haid.app/en/events/badische-meile-msid2086",
+   "checked": "2026-11-04",
+   "end": "2027-05-02",
+   "info": "36. Auflage, ca. 8,9 km. Startgeld laut Kalender etwa 25 € (Vorjahr).",
+   "lat": 49.006,
+   "lon": 8.397
+  },
+  {
+   "id": "gruentalultra-2027",
+   "type": "trail",
+   "name": "Grüntalultra",
+   "place": "Freudenstadt",
+   "bezirk": "Karlsruhe",
+   "kreis": "LK Freudenstadt",
+   "date": "2027-05-06",
+   "confirmed": false,
+   "distances": [
+    "50"
+   ],
+   "source": "https://gotrail.run/de/termine/gruntalultra-freudenstadt-gruntal",
+   "checked": "2026-11-04",
+   "lat": 48.467,
+   "lon": 8.414
+  },
+  {
+   "id": "lichtenstein-trail-2027",
+   "type": "trail",
+   "name": "Lichtenstein Trail",
+   "place": "Lichtenstein",
+   "bezirk": "Tübingen",
+   "kreis": "LK Reutlingen",
+   "date": "2027-05-08",
+   "confirmed": false,
+   "distances": [
+    "11",
+    "22"
+   ],
+   "source": "https://haid.app/en/events/lichtenstein-trail-mqix0cuf",
+   "checked": "2026-11-04",
+   "lat": 48.44,
+   "lon": 9.253
+  },
+  {
+   "id": "bad-waldseer-lauffieber-2027",
+   "type": "road",
+   "name": "Bad Waldseer Lauffieber",
+   "place": "Bad Waldsee",
+   "bezirk": "Tübingen",
+   "kreis": "LK Ravensburg",
+   "date": "2027-05-08",
+   "confirmed": false,
+   "distances": [
+    "10",
+    "HM"
+   ],
+   "source": "https://haid.app/en/events/bad-waldseer-lauffieber-muey7ebs",
+   "checked": "2026-11-04",
+   "lat": 47.92,
+   "lon": 9.755
+  },
+  {
+   "id": "backyard-swub-2027",
+   "type": "trail",
+   "name": "Backyard SWUB",
+   "place": "Freudenstadt",
+   "bezirk": "Karlsruhe",
+   "kreis": "LK Freudenstadt",
+   "date": "2027-05-08",
+   "confirmed": false,
+   "distances": [
+    "Backyard"
+   ],
+   "source": "https://gotrail.run/de/termine/backyard-swub",
+   "checked": "2026-11-04",
+   "lat": 48.467,
+   "lon": 8.414
+  },
+  {
+   "id": "gaeufelderlauf-2027",
+   "type": "road",
+   "name": "GäuFelderLauf",
+   "place": "Gäufelden",
+   "bezirk": "Stuttgart",
+   "kreis": "LK Böblingen",
+   "date": "2027-05-08",
+   "confirmed": false,
+   "distances": [
+    "8",
+    "14"
+   ],
+   "source": "https://haid.app/en/events/gaufelderlauf-mvkdy4dh",
+   "checked": "2026-11-04",
+   "lat": 48.55,
+   "lon": 8.817
+  },
+  {
+   "id": "kandern-trail-masters-2027",
+   "type": "trail",
+   "name": "Kandern Trail Masters",
+   "place": "Kandern",
+   "bezirk": "Freiburg",
+   "kreis": "LK Lörrach",
+   "date": "2027-05-09",
+   "confirmed": false,
+   "distances": [
+    "12",
+    "35",
+    "65"
+   ],
+   "source": "https://haid.app/en/events/kandern-trail-masters-2027-mvd8rhir",
+   "checked": "2026-11-04",
+   "info": "Laut gotrail.run auch UTMB 20K und 50K.",
+   "lat": 47.714,
+   "lon": 7.662
+  },
+  {
+   "id": "hohenloher-geniesserlauf-2027",
+   "type": "road",
+   "name": "Hohenloher Genießerlauf",
+   "place": "Crailsheim",
+   "bezirk": "Stuttgart",
+   "kreis": "LK Schwäbisch Hall",
+   "date": "2027-06-12",
+   "confirmed": false,
+   "distances": [
+    "12"
+   ],
+   "source": "https://haid.app/en/events/hohenloher-geniesserlauf-mq95v2i8",
+   "checked": "2026-11-04",
+   "lat": 49.134,
+   "lon": 10.072
+  },
+  {
+   "id": "holzgerlinger-waldtrail-2027",
+   "type": "trail",
+   "name": "Holzgerlinger Waldtrail",
+   "place": "Holzgerlingen",
+   "bezirk": "Stuttgart",
+   "kreis": "LK Böblingen",
+   "date": "2027-06-05",
+   "confirmed": false,
+   "distances": [
+    "10"
+   ],
+   "source": "https://gotrail.run/de/termine/holzgerlinger-waldtrail",
+   "checked": "2026-11-04",
+   "lat": 48.64,
+   "lon": 9.011
+  },
+  {
+   "id": "eichberglauf-glottertal-2027",
+   "type": "trail",
+   "name": "Eichberglauf Glottertal",
+   "place": "Glottertal",
+   "bezirk": "Freiburg",
+   "kreis": "LK Breisgau-Hochschwarzwald",
+   "date": "2027-06-06",
+   "confirmed": false,
+   "distances": [
+    "10"
+   ],
+   "source": "https://gotrail.run/de/termine/eichberglauf-glottertal",
+   "checked": "2026-11-04",
+   "lat": 48.051,
+   "lon": 7.963
+  },
+  {
+   "id": "24h-spendenlauf-backyard-for-charity-2027",
+   "type": "trail",
+   "name": "24h Spendenlauf – Backyard for Charity",
+   "place": "Seekirch",
+   "bezirk": "Tübingen",
+   "kreis": "LK Biberach",
+   "date": "2027-06-19",
+   "confirmed": false,
+   "distances": [
+    "Backyard"
+   ],
+   "source": "https://gotrail.run/de/termine/24h-spendenlauf-backyard-for-charity",
+   "checked": "2026-11-04",
+   "end": "2027-06-20",
+   "lat": 48.1,
+   "lon": 9.65
+  },
+  {
+   "id": "sixdaysrun-freudenstadt-2027",
+   "type": "trail",
+   "name": "Sixdaysrun Freudenstadt",
+   "place": "Freudenstadt",
+   "bezirk": "Karlsruhe",
+   "kreis": "LK Freudenstadt",
+   "date": "2027-06-20",
+   "confirmed": false,
+   "distances": [
+    "6 Tage"
+   ],
+   "source": "https://gotrail.run/de/termine/sixdaysrun-freudenstadt",
+   "checked": "2026-11-04",
+   "end": "2027-06-26",
+   "info": "Mehrtägiger Rundenlauf (Bahn), Kalenderangabe 2 km Runde.",
+   "lat": 48.467,
+   "lon": 8.414
+  },
+  {
+   "id": "alb-gold-funrun-2027",
+   "type": "road",
+   "name": "ALB-GOLD FunRun",
+   "place": "Trochtelfingen",
+   "bezirk": "Tübingen",
+   "kreis": "LK Reutlingen",
+   "date": "2027-06-24",
+   "confirmed": false,
+   "distances": [
+    "8"
+   ],
+   "source": "https://gotrail.run/de/termine/alb-gold-funrun",
+   "checked": "2026-11-04",
+   "lat": 48.308,
+   "lon": 9.245
+  },
+  {
+   "id": "s-kayrun-2027",
+   "type": "trail",
+   "name": "S'KayRun",
+   "place": "Erlenbach",
+   "bezirk": "Stuttgart",
+   "kreis": "LK Heilbronn",
+   "date": "2027-06-26",
+   "confirmed": false,
+   "distances": [
+    "7",
+    "12"
+   ],
+   "source": "https://gotrail.run/de/termine/skayrun",
+   "checked": "2026-11-04",
+   "lat": 49.18,
+   "lon": 9.25
+  },
+  {
+   "id": "x-trail-run-breitnau-2027",
+   "type": "trail",
+   "name": "X-Trail-Run Breitnau",
+   "place": "Breitnau",
+   "bezirk": "Freiburg",
+   "kreis": "LK Breisgau-Hochschwarzwald",
+   "date": "2027-06-26",
+   "confirmed": false,
+   "distances": [
+    "10",
+    "HM"
+   ],
+   "source": "https://gotrail.run/de/termine/x-trail-run-breitnau",
+   "checked": "2026-11-04",
+   "lat": 47.933,
+   "lon": 8.083
+  },
+  {
+   "id": "schienerberglauf-2027",
+   "type": "trail",
+   "name": "Schienerberglauf",
+   "place": "Öhningen",
+   "bezirk": "Freiburg",
+   "kreis": "LK Konstanz",
+   "date": "2027-06-27",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10",
+    "HM"
+   ],
+   "source": "https://haid.app/en/events/schienerberglauf-msziazf3",
+   "checked": "2026-11-04",
+   "lat": 47.662,
+   "lon": 8.887
+  },
+  {
+   "id": "heuchelberg-trail-2027",
+   "type": "trail",
+   "name": "Heuchelberg Trail",
+   "place": "Leingarten",
+   "bezirk": "Stuttgart",
+   "kreis": "LK Heilbronn",
+   "date": "2027-07-03",
+   "confirmed": false,
+   "distances": [
+    "12",
+    "24",
+    "50"
+   ],
+   "source": "https://gotrail.run/de/termine/heuchelberg-trail",
+   "checked": "2026-11-04",
+   "lat": 49.146,
+   "lon": 9.117
+  },
+  {
+   "id": "most-insane-psyland-backyard-ultra-2027",
+   "type": "trail",
+   "name": "Most Insane Psyland Backyard Ultra",
+   "place": "Tengen",
+   "bezirk": "Freiburg",
+   "kreis": "LK Konstanz",
+   "date": "2027-07-10",
+   "confirmed": false,
+   "distances": [
+    "Backyard"
+   ],
+   "source": "https://haid.app/en/events/most-insane-psyland-backyard-ultra-mttincga",
+   "checked": "2026-11-04",
+   "end": "2027-07-12",
+   "lat": 47.821,
+   "lon": 8.661
+  },
+  {
+   "id": "kuelsheimer-trailrun-2027",
+   "type": "trail",
+   "name": "Külsheimer TrailRun",
+   "place": "Külsheim",
+   "bezirk": "Stuttgart",
+   "kreis": "Main-Tauber-Kreis",
+   "date": "2027-07-16",
+   "confirmed": false,
+   "distances": [
+    "10"
+   ],
+   "source": "https://gotrail.run/de/termine/kulsheimer-trailrun",
+   "checked": "2026-11-04",
+   "lat": 49.669,
+   "lon": 9.524
+  },
+  {
+   "id": "24h-lauf-dettenhausen-2027",
+   "type": "trail",
+   "name": "24h Lauf Dettenhausen",
+   "place": "Dettenhausen",
+   "bezirk": "Tübingen",
+   "kreis": "LK Tübingen",
+   "date": "2027-07-17",
+   "confirmed": false,
+   "distances": [
+    "Backyard"
+   ],
+   "source": "https://gotrail.run/de/termine/24h-lauf-dettenhausen",
+   "checked": "2026-11-04",
+   "end": "2027-07-18",
+   "fee": "kostenlos",
+   "lat": 48.608,
+   "lon": 9.1
+  },
+  {
+   "id": "marbacher-meile-2027",
+   "type": "trail",
+   "name": "Marbacher Meile",
+   "place": "Marbach am Neckar",
+   "bezirk": "Stuttgart",
+   "kreis": "LK Ludwigsburg",
+   "date": "2027-07-24",
+   "confirmed": false,
+   "distances": [
+    "Backyard"
+   ],
+   "source": "https://haid.app/en/events/marbacher-meile-mvue1gof",
+   "checked": "2026-11-04",
+   "lat": 48.97,
+   "lon": 9.329
+  },
+  {
+   "id": "weinheim-trails-2027",
+   "type": "trail",
+   "name": "Weinheim Trails",
+   "place": "Weinheim",
+   "bezirk": "Karlsruhe",
+   "kreis": "Rhein-Neckar-Kreis",
+   "date": "2027-07-25",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "15",
+    "35"
+   ],
+   "source": "https://gotrail.run/de/termine/weinheim-trails",
+   "checked": "2026-11-04",
+   "lat": 49.549,
+   "lon": 8.667
+  },
+  {
+   "id": "nordschwarzwald-trophy-2027",
+   "type": "trail",
+   "name": "Nordschwarzwald Trophy",
+   "place": "Schömberg",
+   "bezirk": "Karlsruhe",
+   "kreis": "LK Calw",
+   "date": "2027-07-30",
+   "confirmed": false,
+   "distances": [
+    "24"
+   ],
+   "source": "https://gotrail.run/de/termine/nordschwarzwald-trophy",
+   "checked": "2026-11-04",
+   "end": "2027-08-01",
+   "info": "Mehrere Strecken von 800 m bis 24 km laut gotrail.run.",
+   "lat": 48.78,
+   "lon": 8.64
+  },
+  {
+   "id": "sommer24hlauf-freudenstadt-2027",
+   "type": "trail",
+   "name": "Sommer24hLauf Freudenstadt",
+   "place": "Freudenstadt",
+   "bezirk": "Karlsruhe",
+   "kreis": "LK Freudenstadt",
+   "date": "2027-08-27",
+   "confirmed": false,
+   "distances": [
+    "24 h",
+    "48 h"
+   ],
+   "source": "https://gotrail.run/de/termine/sommer24hlauf",
+   "checked": "2026-11-04",
+   "end": "2027-08-29",
+   "lat": 48.467,
+   "lon": 8.414
+  },
+  {
+   "id": "albstadt-challenge-2027",
+   "type": "trail",
+   "name": "Albstadt Challenge",
+   "place": "Albstadt",
+   "bezirk": "Tübingen",
+   "kreis": "Zollernalbkreis",
+   "date": "2027-08-28",
+   "confirmed": false,
+   "distances": [
+    "60"
+   ],
+   "source": "https://gotrail.run/de/termine/albstadt-challenge",
+   "checked": "2026-11-04",
+   "info": "60 km mit über 1.500 Höhenmetern laut gotrail.run.",
+   "lat": 48.227,
+   "lon": 9.02
+  },
+  {
+   "id": "braunenberg-lauf-2027",
+   "type": "trail",
+   "name": "BraunenBerg-Lauf",
+   "place": "Aalen",
+   "bezirk": "Stuttgart",
+   "kreis": "Ostalbkreis",
+   "date": "2027-09-18",
+   "confirmed": false,
+   "distances": [
+    "8",
+    "15",
+    "32"
+   ],
+   "source": "https://gotrail.run/de/termine/braunenberg-lauf",
+   "checked": "2026-11-04",
+   "lat": 48.839,
+   "lon": 10.092
+  },
+  {
+   "id": "black-forest-ultra-trail-run-2027",
+   "type": "trail",
+   "name": "Black Forest ULTRA Trail Run",
+   "place": "Kirchzarten",
+   "bezirk": "Freiburg",
+   "kreis": "LK Breisgau-Hochschwarzwald",
+   "date": "2027-09-18",
+   "confirmed": false,
+   "distances": [
+    "10",
+    "105"
+   ],
+   "source": "https://gotrail.run/de/termine/black-forest-ultra-trail-run",
+   "checked": "2026-11-04",
+   "info": "Strecken von 10 bis 105 km laut gotrail.run.",
+   "lat": 47.967,
+   "lon": 7.95
+  },
+  {
+   "id": "waielaender-waldlauf-2027",
+   "type": "trail",
+   "name": "Waieländer Waldlauf",
+   "place": "Inzlingen",
+   "bezirk": "Freiburg",
+   "kreis": "LK Lörrach",
+   "date": "2027-09-25",
+   "confirmed": false,
+   "distances": [
+    "10"
+   ],
+   "source": "https://gotrail.run/de/termine/waielander-waldlauf",
+   "checked": "2026-11-04",
+   "info": "Strecken von 0,4 bis 10,4 km.",
+   "lat": 47.589,
+   "lon": 7.691
+  },
+  {
+   "id": "12-oder-24-h-lauf-dornstetten-2027",
+   "type": "trail",
+   "name": "12 oder 24 h Lauf Dornstetten",
+   "place": "Dornstetten",
+   "bezirk": "Karlsruhe",
+   "kreis": "LK Freudenstadt",
+   "date": "2027-10-03",
+   "confirmed": false,
+   "distances": [
+    "12 h",
+    "24 h"
+   ],
+   "source": "https://gotrail.run/de/termine/12-oder-24-h-lauf/2027-10-03",
+   "checked": "2026-11-04",
+   "info": "Rundenlauf mit 3,6 km Runde.",
+   "lat": 48.472,
+   "lon": 8.498
+  },
+  {
+   "id": "e2h10k-ultratrail-calw-100-2027",
+   "type": "trail",
+   "name": "E2H10K Ultratrail Calw 100",
+   "place": "Calw",
+   "bezirk": "Karlsruhe",
+   "kreis": "LK Calw",
+   "date": "2027-10-03",
+   "confirmed": false,
+   "distances": [
+    "50",
+    "100"
+   ],
+   "source": "https://gotrail.run/de/termine/e2h10k-ultratrail-calw-100",
+   "checked": "2026-11-04",
+   "lat": 48.714,
+   "lon": 8.74
+  },
+  {
+   "id": "trailrun21-zell-am-harmersbach-2027",
+   "type": "trail",
+   "name": "Trailrun21 Zell am Harmersbach",
+   "place": "Zell am Harmersbach",
+   "bezirk": "Freiburg",
+   "kreis": "Ortenaukreis",
+   "date": "2027-10-03",
+   "confirmed": false,
+   "distances": [
+    "10",
+    "20"
+   ],
+   "source": "https://gotrail.run/de/termine/trailrun21-zell-am-harmersbach",
+   "checked": "2026-11-04",
+   "lat": 48.346,
+   "lon": 8.067
+  },
+  {
+   "id": "schwarzwald-marathon-braeunlingen-2027",
+   "type": "road",
+   "name": "Schwarzwald-Marathon Bräunlingen",
+   "place": "Bräunlingen",
+   "bezirk": "Freiburg",
+   "kreis": "Schwarzwald-Baar-Kreis",
+   "date": "2027-10-09",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10",
+    "HM",
+    "M"
+   ],
+   "source": "https://gotrail.run/de/termine/schwarzwald-marathon-braunlingen",
+   "checked": "2026-11-04",
+   "end": "2027-10-10",
+   "prev_date": "2026-10-10",
+   "url": "https://www.schwarzwaldmarathon.de",
+   "lat": 47.93,
+   "lon": 8.448
+  },
+  {
+   "id": "running-festival-mannheim-2027",
+   "type": "road",
+   "name": "Running Festival Mannheim",
+   "place": "Mannheim",
+   "bezirk": "Karlsruhe",
+   "kreis": "Stadt Mannheim",
+   "date": "2027-10-16",
+   "confirmed": false,
+   "distances": [
+    "10"
+   ],
+   "source": "https://haid.app/en/events/running-festival-mannheim-msid282w",
+   "checked": "2026-11-04",
+   "lat": 49.496,
+   "lon": 8.481
+  },
+  {
+   "id": "crosslauf-endingen-2027",
+   "type": "trail",
+   "name": "Crosslauf Endingen",
+   "place": "Endingen am Kaiserstuhl",
+   "bezirk": "Freiburg",
+   "kreis": "LK Emmendingen",
+   "date": "2027-10-23",
+   "confirmed": false,
+   "distances": [
+    "8"
+   ],
+   "source": "https://gotrail.run/de/termine/crosslauf-endingen",
+   "checked": "2026-11-04",
+   "lat": 48.133,
+   "lon": 7.7
+  },
+  {
+   "id": "sparkassen-alb-marathon-2027",
+   "type": "road",
+   "name": "Sparkassen Alb Marathon",
+   "place": "Schwäbisch Gmünd",
+   "bezirk": "Stuttgart",
+   "kreis": "Ostalbkreis",
+   "date": "2027-10-23",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10",
+    "50",
+    "60"
+   ],
+   "source": "https://gotrail.run/de/termine/sparkassen-alb-marathon",
+   "checked": "2026-11-04",
+   "lat": 48.8,
+   "lon": 9.799
+  },
+  {
+   "id": "kerner-nachtlauf-2027",
+   "type": "road",
+   "name": "Kerner Nachtlauf",
+   "place": "Kernen im Remstal",
+   "bezirk": "Stuttgart",
+   "kreis": "Rems-Murr-Kreis",
+   "date": "2027-11-13",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "https://haid.app/en/events/kerner-nachtlauf-mq93kz9q",
+   "checked": "2026-11-04",
+   "lat": 48.807,
+   "lon": 9.322
+  },
+  {
+   "id": "atos-halbmarathon-heidelberg-2027",
+   "type": "road",
+   "name": "ATOS Halbmarathon Heidelberg",
+   "place": "Heidelberg",
+   "kreis": "Stadt Heidelberg",
+   "date": "2027-04-25",
+   "confirmed": false,
+   "prev_date": "2026-04-26",
+   "distances": [
+    "HM"
+   ],
+   "url": "https://atoshalbmarathon.tsg78-hd.de",
+   "source": "https://www.heidelberg.de/HD/Presse/22_04_2026+heidelberger+halbmarathon+am+26_+april.html",
+   "info": "Termin 2027 noch nicht veröffentlicht, hier der gleiche Sonntag wie 2026 geschätzt (2026: 26.04., Start 9:15 Uhr, TSG 78 Heidelberg).",
+   "lat": 49.398,
+   "lon": 8.672,
+   "bezirk": "Karlsruhe",
+   "checked": "2026-11-04"
+  },
+  {
+   "id": "einstein-marathon-ulm-2027",
+   "type": "road",
+   "name": "Einstein Marathon Ulm",
+   "place": "Ulm",
+   "kreis": "Stadt Ulm",
+   "date": "2027-09-26",
+   "confirmed": false,
+   "prev_date": "2026-09-27",
+   "distances": [
+    "5",
+    "10",
+    "HM",
+    "M"
+   ],
+   "source": "https://running.life/de/termine/einstein-marathon",
+   "info": "Termin 2027 noch nicht veröffentlicht (laut hdsports vom Veranstalter bestätigt, Datum nicht gelesen), geschätzt: gleiches Wochenende wie 2026. Veranstalter SUN Sportmanagement.",
+   "lat": 48.399,
+   "lon": 9.992,
+   "bezirk": "Tübingen",
+   "checked": "2026-11-04"
+  },
+  {
+   "id": "ebm-papst-marathon-hohenlohekreis-2027",
+   "type": "road",
+   "name": "ebm-papst Marathon Hohenlohekreis",
+   "place": "Niedernhall",
+   "kreis": "Hohenlohekreis",
+   "date": "2027-09-12",
+   "confirmed": false,
+   "prev_date": "2026-09-13",
+   "distances": [
+    "5",
+    "10",
+    "HM",
+    "M"
+   ],
+   "source": "https://trainerday.com/events/de/ebm-papst-marathon-hohenlohekreis-2026",
+   "info": "Termin 2027 nicht gefunden, geschätzt: gleiches Wochenende wie 2026 (13.09.2026 in Niedernhall).",
+   "lat": 49.31,
+   "lon": 9.64,
+   "bezirk": "Stuttgart",
+   "checked": "2026-11-04"
+  }
+ ]
+}

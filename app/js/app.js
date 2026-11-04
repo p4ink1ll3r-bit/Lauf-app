@@ -1,6 +1,6 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
-const APP_VERSION="v64"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+const APP_VERSION="v65"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
 const DATA_DIR="data/";
 const REPORT_URL="https://gbaoxnsytnzcuxbkdrwc.supabase.co/rest/v1/reports";
 const REPORT_KEY="sb_publishable_iuxJbdN94igdsBQ5-dtm5g_OxWYWGH9";   // öffentlicher Schlüssel: darf nur Meldungen anlegen
@@ -162,7 +162,7 @@ function gcal(title,start,end,details,loc,time){let dates;
   else dates=ymd(dt(start))+"/"+ymd(plus(end||start,1));
   return"https://calendar.google.com/calendar/render?action=TEMPLATE&text="+encodeURIComponent(title)+"&dates="+dates+(time?"&ctz=Europe%2FBerlin":"")+"&details="+encodeURIComponent(details)+"&location="+encodeURIComponent(loc)}
 function ocal(title,start,end,details,loc){return"https://outlook.live.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&allday=true&subject="+encodeURIComponent(title)+"&startdt="+start+"&enddt="+iso(plus(end||start,1))+"&body="+encodeURIComponent(details)+"&location="+encodeURIComponent(loc)}
-function calDetails(r){return r.k.map(lab).join(", ")+(r.st?" · Start "+r.st+" Uhr":"")+" · Infos: "+r.u+" (aus Race Hunt)"}
+function calDetails(r){return r.k.map(lab).join(", ")+(r.st?" · Start "+r.st+" Uhr":"")+(r.u?" · Infos: "+r.u:"")+" (aus Race Hunt)"}
 // Apple Kalender (iPhone): Knopf verlinkt auf ics/<id>.ics, die Dateien erzeugt scripts/ics.py beim Veröffentlichen
 
 // Kopfbild aus den Daten: Trail = Bergsilhouette (Höhe nach Hm), Straße = Straße mit Start/Ziel
@@ -319,9 +319,9 @@ function openDetail(id){const r=R.find(x=>x.id===id);if(!r)return;if($("detail")
      '<div class="btns"><a class="btn" href="https://www.meteoblue.com/de/wetter/woche/'+r.la.toFixed(3)+'N'+r.lo.toFixed(3)+'E" target="_blank" rel="noopener">Wetter öffnen '+IC.ext+'</a></div></section>'+
    gearBox(r)+
    '<section class="box"><h3>'+IC.cal+'In den Kalender</h3><div class="btns"><a class="btn" href="ics/'+encodeURIComponent(r.id)+'.ics">Apple Kalender (iPhone), mit Erinnerungen</a><a class="btn" href="'+esc(gcal(r.n,r.d,r.e,det,loc,r.st))+'" target="_blank" rel="noopener">Google '+IC.ext+'</a><a class="btn" href="'+esc(ocal(r.n,r.d,r.e,det,loc))+'" target="_blank" rel="noopener">Outlook '+IC.ext+'</a>'+
-     (r.rc&&daysTo(r.rc)>=0?'<a class="btn" href="'+esc(gcal("Meldeschluss: "+r.n,r.rc,null,"Letzter Tag zur Anmeldung für "+r.n+" am "+fmt(r.d)+" · "+r.u,""))+'" target="_blank" rel="noopener">Meldeschluss (Google) '+IC.ext+'</a>':"")+'</div><span class="src">Die Apple-Datei enthält Lauftag, Meldeschluss und Anmeldestart, soweit sie noch kommen, mit Erinnerungen: Lauftag eine Woche und einen Tag vorher, Meldeschluss 7, 3 und 1 Tag vorher.</span></section>'+
+     (r.rc&&daysTo(r.rc)>=0?'<a class="btn" href="'+esc(gcal("Meldeschluss: "+r.n,r.rc,null,"Letzter Tag zur Anmeldung für "+r.n+" am "+fmt(r.d)+(r.u?" · "+r.u:""),""))+'" target="_blank" rel="noopener">Meldeschluss (Google) '+IC.ext+'</a>':"")+'</div><span class="src">Die Apple-Datei enthält Lauftag, Meldeschluss und Anmeldestart, soweit sie noch kommen, mit Erinnerungen: Lauftag eine Woche und einen Tag vorher, Meldeschluss 7, 3 und 1 Tag vorher.</span></section>'+
    ((r.info||r.note)?'<section class="box"><h3>'+IC.info+'Gut zu wissen</h3>'+(r.info?'<div>'+esc(r.info)+'</div>':"")+(r.note?'<div>'+esc(r.note)+'</div>':"")+'</section>':"")+
-   '<span class="src">Infos: '+esc(host(r.u))+(r.src?' · Termin-Quelle: '+esc(host(r.src)):"")+(r.checked?' · geprüft am '+fmt(r.checked):"")+'. Angaben ohne Gewähr.</span>'+
+   '<span class="src">'+(r.u?'Infos: '+esc(host(r.u)):"")+(r.src?(r.u?' · ':'')+'Termin-Quelle: '+esc(host(r.src)):"")+(r.checked?' · geprüft am '+fmt(r.checked):"")+'. Angaben ohne Gewähr.</span>'+
    '<button type="button" class="reportbig" data-report="'+r.id+'">'+IC.flag+'Stimmt etwas nicht? Melden</button><span class="src rnote">Dauert eine halbe Minute und hilft allen Läufern.</span>'+
   '</div>';
   $("detail").hidden=false;$("detail").scrollTop=0;loadWeather(r,days);document.body.classList.add("locked");$("detail").querySelector("[data-close]").focus({preventScroll:true,focusVisible:false})}
@@ -461,7 +461,7 @@ document.addEventListener("visibilitychange",()=>{if(document.visibilityState===
 window.addEventListener("focus",()=>setTimeout(askReg,400));
 
 // Teilen: System-Teilen (in der echten App), sonst WhatsApp oder Text kopieren
-function shareText(r){return r.n+" – "+longDate(r.d)+" in "+r.o+" ("+r.k.map(lab).join(", ")+"). Infos: "+r.u}
+function shareText(r){return r.n+" – "+longDate(r.d)+" in "+r.o+" ("+r.k.map(lab).join(", ")+")."+(r.u?" Infos: "+r.u:"")}
 async function shareRace(id){const r=R.find(x=>x.id===id);if(!r)return;const link=APP_URL+"#"+r.id,txt=shareText(r);
   if(navigator.share){try{await navigator.share({title:r.n,text:txt,url:link});return}catch(e){if(e&&e.name==="AbortError")return}}
   const full=txt+"\nIn der App: "+link;

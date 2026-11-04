@@ -71,7 +71,7 @@ def build(r, heute):
     title = name if r.get("confirmed") else name + " (Termin nicht bestätigt)"
     loc = r.get("start_place") or r.get("place") or ""
     st = r.get("start_time") or ""
-    details = ", ".join(lab(k) for k in (r.get("distances") or [])) + (f" · Start {st} Uhr" if st else "") + f" · Infos: {url} (aus Race Hunt)"
+    details = ", ".join(lab(k) for k in (r.get("distances") or [])) + (f" · Start {st} Uhr" if st else "") + (f" · Infos: {url}" if url else "") + " (aus Race Hunt)"
 
     def ganztag(a, b=None):
         return ["DTSTART;VALUE=DATE:" + ymd(a), "DTEND;VALUE=DATE:" + ymd((b or a) + timedelta(days=1))]
