@@ -1029,7 +1029,7 @@
    ],
    "elevation": null,
    "note": "10 km Hauptlauf, 5 km Hobbylauf; außerdem Jugend-, Kinder- und Bambiniläufe",
-   "url": "http://www.wkm-iad.de/nikolauslauf.html",
+   "url": "https://www.wkm-iad.de/nikolauslauf.html",
    "reg_open": null,
    "reg_close": "2026-12-03",
    "fee": "10 km 14 € · Hobbylauf 5,3 km 8 € · Jugend U20/U18 8 € · Bambini/Kinder/U16 6 € (online)",
@@ -1992,7 +1992,7 @@
    ],
    "elevation": null,
    "note": "Rund um den Wöhrder See",
-   "url": "http://api.maxx-timing.de/showevents/183",
+   "url": "https://api.maxx-timing.de/showevents/183",
    "reg_open": "2026-10-01",
    "reg_close": "2026-12-20",
    "fee": "Bis 20.12.: 5 km 18 €, 10 km 25 €, Bambini/Schüler 5 €; Nachmeldung 30./31.12.: 25 €/30 €/8 €",
@@ -3450,7 +3450,7 @@
     "10"
    ],
    "note": "Traditionell am Ostermontag (2024, 2025, 2026), daher auf Ostermontag 2027 fortgeschrieben; hdsports nennt unbestätigt 30.03.2027. Teil des FRG Sparkassen-Landkreis-Laufcups. Veranstalter DJK Laufwölfe Fürsteneck.",
-   "url": "https://www.laufwoelfe.de",
+   "url": null,
    "source": "https://spoferan.com/events/wolfsfaehrtetrail",
    "prev": {
     "fee": "Hauptlauf 10 km 15 €; Nachmeldung +3 €",
@@ -4621,13 +4621,13 @@
    ],
    "elevation": null,
    "note": null,
-   "url": "https://www.hiro-run.de/",
+   "url": null,
    "reg_open": null,
    "reg_close": null,
    "fee": null,
    "start_time": null,
    "checked": "2026-11-01",
-   "source": "https://www.hiro-run.de/ausschreibung/",
+   "source": null,
    "start_place": null,
    "aid": null,
    "course": null,
@@ -4643,7 +4643,7 @@
    "cutoff": null,
    "included": null,
    "late_reg": null,
-   "info": "Mittelfränkische Halbmarathon-Meisterschaft",
+   "info": "Mittelfränkische Halbmarathon-Meisterschaft. Die Webseite des Veranstalters ist zurzeit nicht verlinkt, weil sie unsicher wirkt (fremde Werbeinhalte).",
    "prev": {
     "fee": "HM 22/25/28 € (Preisstufen bis 15.01./15.02./10.04.), Nachmeldung 33 €; 8 km 11/13/15 €, Nachmeldung 18 €; jeweils +2 € Chip",
     "start_time": "15:00",
@@ -5246,7 +5246,7 @@
     "5,15"
    ],
    "note": "Rundkurslauf des TSV Ergoldsbach zum Rogatemarkt. Findet am Sonntag Rogate statt (2025: 25.05., 2026: 10.05.), deshalb 2027 voraussichtlich am 02.05. und nicht am 09.05., wie runme/hdsports schätzen.",
-   "url": "http://www.tsv-ergoldsbach.de",
+   "url": "https://www.tsv-ergoldsbach.de",
    "source": "https://www.hdsports.org/laufen/rogatemarktlauf",
    "prev": {
     "start_time": "11:30"
@@ -5646,7 +5646,7 @@
    ],
    "elevation": null,
    "note": null,
-   "url": "http://laufen-triathlon.de/maincityrun/",
+   "url": "https://laufen-triathlon.de/maincityrun/",
    "reg_open": "2026-12-01",
    "reg_close": null,
    "fee": "Vorjahr: 10 km ab 20 € · HM ab 25 €",
@@ -6171,7 +6171,7 @@
     "9,2"
    ],
    "note": "Wertungslauf des Oberpfälzer Volkslauf-Cups; hügelige Strecke. Termin laut OVL-Cup-Terminliste (runme-Prognose abweichend 19.06.).",
-   "url": "http://ovlcup.de",
+   "url": "https://ovlcup.de",
    "source": "https://www.ovlcup.de/termine-2027.html",
    "prev": {
     "start_time": "15:45"
@@ -6709,7 +6709,7 @@
     600
    ],
    "note": "Skiclub Furth im Wald; Ziel 6 km Schloss Voithenberg, 10 km Glaskreuz. Wertungslauf im Laufcup Landkreis Cham.",
-   "url": "http://www.skiclub-furth.de/",
+   "url": "https://www.skiclub-furth.de/",
    "source": "https://www.hdsports.org/laufen/gibacht-berglauf-furth-im-wald",
    "prev": {
     "start_time": "10:00",
@@ -9778,7 +9778,7 @@
    ],
    "elevation": null,
    "note": "Flacher Rundkurs durch die Innenstadt; zusätzlich 6,3 km (Lauf, Inlineskating, Walking) und 1,3 km",
-   "url": "http://www.halbmarathon.de/",
+   "url": "https://www.halbmarathon.de/",
    "reg_open": null,
    "reg_close": null,
    "fee": "Halbmarathon 33–45 € (Fristen nicht angegeben)",
@@ -10150,7 +10150,7 @@
    ],
    "elevation": null,
    "note": "Halbmarathon in zwei Runden, 10 km, 6 km und Kinderlauf (970 m)",
-   "url": "http://www.halbmarathon-ottobeuren.de",
+   "url": "https://www.halbmarathon-ottobeuren.de",
    "reg_open": null,
    "reg_close": null,
    "fee": null,
@@ -10963,7 +10963,7 @@
     "12 h"
    ],
    "note": "4. Auflage laut Kalender am Samstag 19.06.2027, Bestätigung unklar. Wohltätigkeitslauf über 12 Stunden, Veranstalter Lions Club Oberstaufen-Westallgäu. Rundenlänge, Startzeit und Startgeld nicht angegeben, weitere Infos laut Seite folgen",
-   "url": "http://12stundenlauf-lindenberg.de/",
+   "url": "https://12stundenlauf-lindenberg.de/",
    "source": "https://gotrail.run/de/termine/lions-12-stunden-lauf-lindenberg",
    "checked": "2026-11-02"
   },
