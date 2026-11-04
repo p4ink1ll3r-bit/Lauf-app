@@ -1,4 +1,4 @@
-# Startet bei jeder Aenderung an app/ oder den Laufdaten und von Hand ueber "Run workflow".
+# Startet bei jeder Aenderung an app/ oder den Laufdaten und von Hand ueber "Run workflow". 
 name: App veröffentlichen (GitHub Pages)
 
 on:
