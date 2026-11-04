@@ -124,7 +124,11 @@ def finde_portal(url, tag):
 def neuer_wert(z):
     if z["zustand"] == "voll":
         return True
-    namen = ", ".join(z.get("strecken_voll") or [])
+    voll = z.get("strecken_voll") or []
+    if voll and all(re.search(r"\d{1,2}:\d{2}", n) for n in voll):
+        # das Portal benennt die Wettbewerbe nur mit Datum und Uhrzeit: keine Zeiten als Streckennamen ausgeben
+        return f"Teilweise ausgebucht laut Anmeldeportal: {len(voll)} Wettbewerbe sind voll (im Portal nur mit der Startzeit benannt). Die übrigen Strecken zeigen noch freie Plätze oder keine Begrenzung (nachts automatisch geprüft)."
+    namen = ", ".join(voll)
     return "Ausgebucht laut Anmeldeportal: " + namen + ". Die übrigen Strecken zeigen noch freie Plätze oder keine Begrenzung (nachts automatisch geprüft)."
 
 
