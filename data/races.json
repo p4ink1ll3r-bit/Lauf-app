@@ -27482,6 +27482,292 @@
    "start_place": "Sportplatz Engenhahn, Niedernhausen",
    "info": "Veranstalter TSV Engenhahn 1977; 40. Lauf am Sonntag 20.09.2026 (2026: 21,1 km, 10 km, 6,5 km, 3 km, 1,2 km und 375 m). Termin 2027 laut hdsports Prognose, nicht bestätigt; dritter Wertungslauf der Taunus-Lauf Challenge.",
    "checked": "2026-11-04"
+  },
+  {
+   "id": "schlossberglauf-altwildungen-2027",
+   "type": "road",
+   "name": "Schlossberglauf Altwildungen",
+   "place": "Bad Wildungen",
+   "bezirk": "Kassel",
+   "kreis": "LK Waldeck-Frankenberg",
+   "lat": 51.12,
+   "lon": 9.125,
+   "date": "2027-05-30",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://schlossberglauf.de",
+   "anmeldung_url": "https://schlossberglauf.de/anmeldung.html",
+   "source": "https://schlossberglauf.de",
+   "start_time": "10:30",
+   "fee": "15 € (mit Startnummer und Starterpaket inkl. 10-€-Gutschein)",
+   "reg_close": "2027-05-28",
+   "start_place": "Schlossstraße 21, 34537 Bad Wildungen (Schloss Friedrichstein)",
+   "pickup": "Am Lauftag von 9:00 bis 10:00 Uhr",
+   "late_reg": "Keine Nachmeldung und keine Änderungen vor Ort",
+   "info": "Veranstalter VfL Bad Wildungen e.V.; 10 km (ca. 170 Hm), 5 km (ca. 90 Hm) und 5 km Walking/Nordic Walking durch Dorf, Felder und Wald rund um das Schloss.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "panoramalauf-rothenberg-2027",
+   "type": "road",
+   "name": "Panoramalauf Rothenberg",
+   "place": "Oberzent-Rothenberg",
+   "bezirk": "Darmstadt",
+   "kreis": "Odenwaldkreis",
+   "lat": 49.499,
+   "lon": 8.919,
+   "date": "2027-07-04",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10",
+    "HM"
+   ],
+   "url": "https://www.panoramalauf-rothenberg.de",
+   "anmeldung_url": "https://www.panoramalauf-rothenberg.de/anmeldung.html",
+   "source": "https://www.panoramalauf-rothenberg.de/ausschreibung.html",
+   "start_time": "09:00",
+   "fee": "Halbmarathon 15 €, 10 km 10 €, 5 km 6 € bei Anmeldung bis 31.03.2027; danach stufenweise teurer (ab 01.06. Halbmarathon 20 €, 10 km 15 €, 5 km 10 €)",
+   "reg_close": "2027-07-01",
+   "start_place": "Sporthalle Rothenberg, Landwehrstraße 48, 64760 Oberzent",
+   "pickup": "Samstag 17:00 bis 18:00 Uhr und Sonntag ab 07:00 Uhr bis 30 Minuten vor dem Start in der Sporthalle",
+   "late_reg": "Nachmeldung bis 30 Minuten vor dem Start gegen 2 € Zuschlag",
+   "info": "Veranstalter SG Rothenberg 1946; Startzeiten laut Ausschreibung: Halbmarathon (22 km) 09:00, 10 km und 5 km 09:15, Jugendlauf 1 km 11:45, 400 m 12:00 Uhr; zählt zum Odenwald-Cup 2027.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "brauerschwender-basaltlauf-2027",
+   "type": "road",
+   "name": "Brauerschwender Basaltlauf",
+   "place": "Schwalmtal-Brauerschwend",
+   "bezirk": "Gießen",
+   "kreis": "Vogelsbergkreis",
+   "lat": 50.683,
+   "lon": 9.3,
+   "date": "2027-09-26",
+   "confirmed": false,
+   "prev_date": "2026-09-27",
+   "distances": [
+    "6,6",
+    "12"
+   ],
+   "url": "https://tv-brauerschwend.de/brauerschwender-basaltlauf/",
+   "source": "https://tv-brauerschwend.de/brauerschwender-basaltlauf/",
+   "start_place": "Sportplatz TV 1919 Brauerschwend, Am Bachgarten 1, 36318 Schwalmtal-Brauerschwend",
+   "prev": {
+    "start_time": "10:00",
+    "fee": "Hauptlauf, Jedermann-Lauf und Walking je 6 €, Schülerlauf 2 €, Bambini 1 € (Ausgabe 2026)"
+   },
+   "late_reg": "Ausgabe 2026: Anmeldung vor Ort bis 09:30 Uhr",
+   "info": "Veranstalter TV 1919 Brauerschwend; 5. Auflage am 27.09.2026 (ursprünglich 27.06. geplant, wegen Hitze verschoben); 12 km Hauptlauf, 6,6 km Jedermann-Lauf und Walking. Termin 2027 noch nicht veröffentlicht.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "ewr-stadtlauf-buerstadt-2027",
+   "type": "road",
+   "name": "EWR-Stadtlauf Bürstadt",
+   "place": "Bürstadt",
+   "bezirk": "Darmstadt",
+   "kreis": "LK Bergstraße",
+   "lat": 49.643,
+   "lon": 8.459,
+   "date": "2027-10-03",
+   "confirmed": false,
+   "prev_date": "2026-10-04",
+   "distances": [
+    "2,5",
+    "5",
+    "10"
+   ],
+   "anmeldung_url": "https://my.raceresult.com/412509",
+   "source": "https://running.life/de/termine/ewr-stadtlauf-burstadt",
+   "start_place": "Marktplatz/Wilhelminenstraße, Bürstadt",
+   "info": "Im Rahmen der Bürstädter Kerwe, mit Bambini-Lauf, Staffel 4 × 2,5 km für Vereine und Firmen; Strecke durch die Innenstadt. 2026 am Sonntag 04.10. (Startunterlagen Wilhelminenstraße 1 und 2). Termin 2027 noch nicht veröffentlicht.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "treburer-crosslauf-2027",
+   "type": "trail",
+   "name": "Treburer Crosslauf",
+   "place": "Trebur",
+   "bezirk": "Darmstadt",
+   "kreis": "LK Groß-Gerau",
+   "lat": 49.926,
+   "lon": 8.407,
+   "date": "2027-10-31",
+   "confirmed": false,
+   "prev_date": "2026-11-01",
+   "distances": [
+    "5,6",
+    "7"
+   ],
+   "url": "https://www.treburer-crosslauf.de",
+   "source": "https://www.runnersworld.de/laufkalender/treburer-crosslauf/",
+   "start_place": "TSV-Sportstadion, Theobaldstraße, 65468 Trebur",
+   "info": "Cross-Rundkurs über Deichabschnitte und Wiesen mit Anstiegen am Hochwasserdeich und einigen Asphaltstücken; seit über 30 Jahren; letzte Ausgaben 26.10.2025 und 01.11.2026. Termin 2027 noch nicht veröffentlicht, Strecken laut Terminkalender.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "kippfest-lauf-hetzbach-2027",
+   "type": "road",
+   "name": "Kippfest-Lauf Hetzbach",
+   "place": "Oberzent-Hetzbach",
+   "bezirk": "Darmstadt",
+   "kreis": "Odenwaldkreis",
+   "lat": 49.569,
+   "lon": 8.974,
+   "date": "2027-08-15",
+   "confirmed": false,
+   "prev_date": "2026-08-16",
+   "distances": [
+    "5",
+    "10",
+    "HM"
+   ],
+   "url": "https://tv-hetzbach.de/waldlauf",
+   "source": "https://tv-hetzbach.de/waldlauf",
+   "start_place": "Auf der Kipp, Oberzent-Hetzbach",
+   "info": "Veranstalter TV Hetzbach, Teil des Sommernachtsfests auf der Kipp; Waldwege rund um die Kipp, dazu Wald-, Spaß- und Schülerläufe; 2026 am Sonntag 16.08. Termin 2027 noch nicht veröffentlicht.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "beerfelder-stadtlauf-2027",
+   "type": "road",
+   "name": "Beerfelder Stadtlauf zum Brunnenfest",
+   "place": "Oberzent-Beerfelden",
+   "bezirk": "Darmstadt",
+   "kreis": "Odenwaldkreis",
+   "lat": 49.569,
+   "lon": 8.974,
+   "date": "2027-05-06",
+   "confirmed": false,
+   "prev_date": "2026-05-14",
+   "distances": [
+    "8"
+   ],
+   "url": "https://www.skiclub-beerfelden.de",
+   "source": "https://odenwald.hlv.de/fileadmin/kreise/odenwald/Ausschreibungen/2024/Ausschreibung_Stadtlauf_2024.pdf",
+   "start_place": "Brunnen, Beerfelden",
+   "prev": {
+    "start_time": "10:00",
+    "fee": "Hauptlauf 8 € (Ausgabe 2024)"
+   },
+   "pickup": "Startnummernausgabe am Brunnen in Beerfelden (Ausgabe 2024)",
+   "late_reg": "Nachmeldung bis eine Stunde vor dem Start gegen 2 € Zuschlag (Ausgabe 2024)",
+   "info": "Veranstalter Ski-Club 1955 Beerfelden, immer an Christi Himmelfahrt (2024 und 2026 belegt), daher 06.05.2027 als Termin angenommen, nicht bestätigt; Hauptlauf 8 km (5 Runden) 2024, dazu Brunnenstaffel 4 × 1600 m und Jugendläufe; zählt zum Odenwald-Cup.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "beerfelder-waldlauf-2027",
+   "type": "road",
+   "name": "Beerfelder Waldlauf",
+   "place": "Oberzent-Beerfelden",
+   "bezirk": "Darmstadt",
+   "kreis": "Odenwaldkreis",
+   "lat": 49.569,
+   "lon": 8.974,
+   "date": "2027-09-25",
+   "confirmed": false,
+   "prev_date": "2026-09-26",
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.skiclub-beerfelden.de",
+   "source": "https://odenwald.hlv.de/fileadmin/kreise/odenwald/Ausschreibungen/2025/Ausschreibung_-_Beerfelder_Waldlauf_2025.pdf",
+   "start_place": "Sportgelände „Stried“ mit Clubheim des SC Beerfelden, Seeweg, Oberzent-Beerfelden",
+   "prev": {
+    "start_time": "15:30",
+    "fee": "Frauen/Männer 10 km 8 €, 5 km 5 € (Ausgabe 2025)"
+   },
+   "pickup": "Ausgabe 2025: Samstag ab 13:00 Uhr vor dem Clubheim",
+   "late_reg": "Ausgabe 2025: Nachmeldung bis 1 Stunde vor dem Start gegen 3 € Zuschlag",
+   "info": "Veranstalter Ski-Club 1955 Beerfelden; asphaltierte Straßen und Waldwege mit Höhenunterschieden; Kreismeisterschaft Odenwald und Odenwald-Cup; 2025 am Samstag 27.09., 2026 am 26.09. Termin 2027 noch nicht veröffentlicht.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "michelsmarktlauf-reichelsheim-2027",
+   "type": "road",
+   "name": "Michelsmarktlauf Reichelsheim",
+   "place": "Reichelsheim",
+   "bezirk": "Darmstadt",
+   "kreis": "Odenwaldkreis",
+   "lat": 49.712,
+   "lon": 8.839,
+   "date": "2027-08-21",
+   "confirmed": false,
+   "prev_date": "2026-08-22",
+   "distances": [
+    "9,6"
+   ],
+   "url": "http://www.ksv-reichelsheim.de",
+   "source": "https://trainerday.com/events/de/30-michelsmarktlauf",
+   "info": "Veranstalter KSV Reichelsheim; Hauptlauf 9,6 km laut Terminkalender (nicht vom Veranstalter geprüft), dazu Jugendläufe und Staffel 4 × 2,4 km; 2026 am Samstag 22.08. Termin 2027 noch nicht veröffentlicht.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "gellershaeuser-abendlauf-2027",
+   "type": "road",
+   "name": "Gellershäuser Abendlauf",
+   "place": "Edertal-Gellershausen",
+   "bezirk": "Kassel",
+   "kreis": "LK Waldeck-Frankenberg",
+   "lat": 51.159,
+   "lon": 9.092,
+   "date": "2027-06-12",
+   "confirmed": false,
+   "prev_date": "2026-06-13",
+   "distances": [
+    "4,5",
+    "10"
+   ],
+   "source": "https://kassel.hlv.de/fileadmin/kreise/waldeck-frankenberg/Termine/2026_Terminuebersicht_Mit_Anhang.pdf",
+   "info": "Zählt zum Laufcup Waldeck-Frankenberg; 2026 am Samstag 13.06.; Strecken laut Terminkalender (Angaben je Seite unterschiedlich, auch Halbmarathon genannt), nicht vom Veranstalter geprüft. Termin 2027 noch nicht veröffentlicht.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "edersee-abendlauf-hemfurth-2027",
+   "type": "road",
+   "name": "Edersee-Abendlauf Hemfurth",
+   "place": "Edertal-Hemfurth",
+   "bezirk": "Kassel",
+   "kreis": "LK Waldeck-Frankenberg",
+   "lat": 51.159,
+   "lon": 9.092,
+   "date": "2027-07-31",
+   "confirmed": false,
+   "prev_date": "2026-08-01",
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "https://kassel.hlv.de/fileadmin/kreise/waldeck-frankenberg/Termine/2026_Terminuebersicht_Mit_Anhang.pdf",
+   "info": "Veranstalter TSV 08 Hemfurth-Edersee; 38. Auflage am Samstag 01.08.2026; 10 km (ca. 106 Hm), 5 km und Kinderläufe, zugleich Feuerwehrlauf Waldeck-Frankenberg; zählt zum Laufcup. Termin 2027 noch nicht veröffentlicht.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "bottendorfer-volkslauf-2027",
+   "type": "road",
+   "name": "Bottendorfer Sparkassen-Volkslauf",
+   "place": "Burgwald-Bottendorf",
+   "bezirk": "Kassel",
+   "kreis": "LK Waldeck-Frankenberg",
+   "lat": 51,
+   "lon": 8.75,
+   "date": "2027-08-21",
+   "confirmed": false,
+   "prev_date": "2026-08-22",
+   "distances": [
+    "5",
+    "10,7"
+   ],
+   "source": "https://kassel.hlv.de/fileadmin/kreise/waldeck-frankenberg/Termine/2026_Terminuebersicht_Mit_Anhang.pdf",
+   "start_place": "Sportgelände TSV 09 Bottendorf, Behälterweg, Burgwald",
+   "info": "Veranstalter TSV 09 Bottendorf; 14. Auflage am Samstag 22.08.2026; 5 km und 10,7 km (Angabe je Seite 10,7 oder 11 km), dazu Kinderläufe; zählt zum Laufcup Waldeck-Frankenberg. Termin 2027 noch nicht veröffentlicht.",
+   "checked": "2026-11-05"
   }
  ]
 }
