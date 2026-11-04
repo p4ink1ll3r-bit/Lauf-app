@@ -16100,11 +16100,13 @@
     "M"
    ],
    "source": "https://trainerday.com/events/de/ebm-papst-marathon-hohenlohekreis-2026",
-   "info": "Termin 2027 nicht gefunden, geschätzt: gleiches Wochenende wie 2026 (13.09.2026 in Niedernhall).",
+   "info": "Termin 2027 nicht gefunden, geschätzt: gleiches Wochenende wie 2026 (13.09.2026 in Niedernhall). Veranstalter ebm-papst und TSV Niedernhall. 29. Auflage war am 12./13.09.2026: Marathon 42 km (ca. 410 Hm, komplett asphaltiert), Halbmarathon, 10 km, 5 km, dazu Inliner, Handbiker und Walker, über 3.000 Starter im Vorjahr",
    "lat": 49.31,
    "lon": 9.64,
    "bezirk": "Stuttgart",
-   "checked": "2026-11-04"
+   "checked": "2026-11-04",
+   "url": "https://www.ebmpapst-marathon.de",
+   "start_place": "Festwiese, Hauptstraße 1, 74676 Niedernhall"
   },
   {
    "id": "bad-liebenzeller-paracelsuslauf-2027",
@@ -20028,7 +20030,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 01.08.). Strecken laut hdsports."
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 01.08.). Strecken laut hdsports. Veranstalter WSV Mehrstetten, Crosslauf im Rahmen der Sportwoche. Früher Strecken über etwa 10,3 km und 6,8 km, dazu Schüler- und Bambinilauf. Vereinsseite verweist auf den 9. Mehrstetter Crosslauf 2026",
+   "url": "https://www.wsv-mehrstetten.de/",
+   "start_place": "Sportgelände Mehrstetten"
   },
   {
    "id": "wendlinger-zeitungslauf-2027",
@@ -20047,7 +20051,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 07.08.). Strecken laut hdsports."
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 07.08.). Strecken laut hdsports. Veranstalter TSV Wendlingen 1920 mit der Wendlinger Zeitung. 21. Auflage war am Freitag 07.08.2026: Schülerlauf 2,5 km um 18:30 Uhr, Hauptlauf 10 km (4 × 2,5 km, flach, vermessen) um 19:00 Uhr",
+   "url": "https://www.tsv-wendlingen.de/abteilungen/leichtathletik/wendlinger-zeitungslauf/",
+   "prev": {
+    "start_time": "19:00"
+   },
+   "start_place": "Gartenschule, Bismarckstraße 11, Wendlingen"
   },
   {
    "id": "muenzwaldlauf-und-volkslauf-lichtenau-ulm-2027",
@@ -20067,7 +20076,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 09.08.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 09.08.). Strecken laut hdsports. Veranstalter SV Ulm im Rahmen des sportFESTs. 36. Auflage war am Sonntag 09.08.2026: Volkslauf 10 km und 5 km, Walking 6,6 km, Kinderläufe 250 und 500 m, durch Felder, Wiesen und Laubwald, mit Verpflegung",
+   "url": "https://sv-ulm.de/volkslauf",
+   "prev": {
+    "fee": "Volkslauf 10 €, Walking 7 €, Kinderläufe frei (Ausgabe 2025)"
+   },
+   "late_reg": "Anmeldung nur vor Ort am Sonntagmorgen ab 7:30 Uhr (2025)"
   },
   {
    "id": "hambruecker-lusshardtlauf-2027",
@@ -20088,7 +20102,8 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 16.08.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 16.08.). Strecken laut hdsports. Veranstalter Lußhardtläufer Hambrücken. 19. Auflage 2026 am 16.08.: 5 km, 10 km und Halbmarathon auf flacher, überwiegend asphaltierter Strecke, Anmeldung über br-timing, Voranmeldung bis zum Vortag 20 Uhr. Keine eigene Veranstalterseite gefunden",
+   "late_reg": "Nachmeldung gegen 2 € Aufschlag (2026)"
   },
   {
    "id": "umpfertallauf-2027",
@@ -20108,7 +20123,11 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 29.08.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 29.08.). Strecken laut hdsports. Veranstalter Triathlon-Abteilung des TSV Unterschüpf im Rahmen der Schüpfer Weintage. 12. Umpfertallauf war am Samstag 30.08.2025 um 18:00 Uhr, Siegerehrung 20:30 Uhr. Früher 10 km (auch Staffel), 5 km und 5 km Nordic Walking",
+   "prev": {
+    "start_time": "18:00"
+   },
+   "start_place": "Marktplatz Unterschüpf, Boxberg"
   },
   {
    "id": "rheinauer-volkslauf-mannheimer-strassenlauf-2027",
@@ -20127,7 +20146,14 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 30.08.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 30.08.). Strecken laut hdsports. Veranstalter TV Rheinau 1893. 2026 am 30.08.: 10 km um 9:30 Uhr, Anmeldung und Zeitnahme über br-timing, Teil der engelhorn sports Brooks Laufcup-Serie. 2025 mit 460 Teilnehmern",
+   "url": "https://www.tv-rheinau-mannheim.de/news",
+   "prev": {
+    "fee": "14 € inkl. 0,50 € Verbandsabgabe, Nachmeldung +2 € (Ausgabe 2026)",
+    "start_time": "09:30"
+   },
+   "start_place": "Vereinsheim TV Rheinau 1893, Mannheim-Rheinau",
+   "late_reg": "Nachmeldung bis 30 Minuten vor dem Start (2026)"
   },
   {
    "id": "weikersheimer-kaerwelauf-2027",
@@ -20147,7 +20173,13 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 04.09.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 04.09.). Strecken laut hdsports. Wohltätiger Lauf im Rahmen der Kärwe, seit 2026 organisiert von Eventkomplett. 2026 am Freitag 04.09.: Starts von 15:30 Uhr (Kinder) bis 17:15 Uhr (10 km), dazu Firmen-Teamlauf, 5 km und Nordic Walking, Strecke durch die Altstadt und am Schloss vorbei",
+   "url": "https://www.xn--weikersheimer-krwelauf-f5b.de/",
+   "prev": {
+    "start_time": "17:15"
+   },
+   "start_place": "Marktplatz Weikersheim",
+   "late_reg": "Nachmeldung vor Ort bis eine Stunde vor dem jeweiligen Start (2026)"
   },
   {
    "id": "backyard-ultra-24h-wertheim-2027",
@@ -20166,7 +20198,8 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 05.09.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 05.09.). Strecken laut hdsports. Veranstalter FC Dörlesberg (Wertheim-Dörlesberg), 2026 im Rahmen der 80-Jahr-Feier am 05./06.09. als 24-Stunden-Backyard (6,706-km-Runde stündlich)",
+   "url": "https://doerlesberg.de/"
   },
   {
    "id": "kraehbuckellauf-wiesenbach-2027",
@@ -20209,7 +20242,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 12.09.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 12.09.). Strecken laut hdsports. Veranstalter Ahmadiyya Muslim Jamaat. 2026 (8. Auflage) am Samstag 12.09., 10 bis 14 Uhr: 10 km, 5 km, 5 km Walking, 800-m-Kinderlauf. Erlös zu 80 % an den Förderverein für krebskranke Kinder Freiburg, 20 % an Humanity First",
+   "url": "https://charity-walk.de/veranstaltungsorte/freiburg/",
+   "prev": {
+    "fee": "Erwachsene 15 € plus 5 € Pfand für den Transponder, Kinder bis 12 Jahre frei (Ausgabe 2026)"
+   },
+   "start_place": "Seepark, Freiburg"
   },
   {
    "id": "lauf-mit-isingen-2027",
@@ -20229,7 +20267,13 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 12.09.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 12.09.). Strecken laut hdsports. Veranstalter Sportfreunde Isingen 2011. 11. Isinger Crosslauf war am 12.09.2026: Crosslauf-Strong 8,1 km (ca. 200 Hm) und Crosslauf-Light 4,8 km (ca. 100 Hm) um 15:00 Uhr, Kinderläufe 13:30 Uhr, Team Battle",
+   "url": "https://www.lauf-mit.com/",
+   "prev": {
+    "fee": "12 € bei Voranmeldung, 14 € am Lauftag, Kinder frei (Ausgabe 2026)",
+    "start_time": "15:00"
+   },
+   "start_place": "Eschwaldhalle, Isingen"
   },
   {
    "id": "dagersheimer-waldlauf-2027",
@@ -20249,7 +20293,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 12.09.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 12.09.). Strecken laut hdsports. Veranstalter TSV Dagersheim, Schönbuch-Cup. 39. Auflage war am 12.09.2026: 10 km (zwei Runden à 5 km durch den Dagersheimer Wald), 5 km Jedermann und Junior, Kinderläufe, Bambinilauf",
+   "url": "https://tsv-dagersheim.de/leichtathletik",
+   "start_place": "Waldstadion Dagersheim, Böblingen"
   },
   {
    "id": "hahnenfalzhuetten-berglauf-bad-herrenalb-2027",
@@ -20268,7 +20314,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 13.09.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 13.09.). Strecken laut hdsports. Veranstalter Skizunft Bad Herrenalb, verbunden mit dem Hahnenfalzhüttenfest. 13. Berglauf war im September 2026: ca. 6 km mit 519 Hm, dazu Panoramalauf 4 km, Waldrallye für Familien, Shuttle zwischen Skiheim und Hütte",
+   "url": "https://www.skizunft-badherrenalb.de/",
+   "start_place": "Sägwasenplatz, Bad Herrenalb (357 m), Ziel Hahnenfalzhütte (876 m)"
   },
   {
    "id": "hechinger-panoramalauf-2027",
@@ -20288,7 +20336,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 13.09.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 13.09.). Strecken laut hdsports. Veranstalter TV Hechingen 1884. 14. Panoramalauf war am 13.09.2026: 10 km erstmals vermessen und bestenlistenfähig (ca. 130 Hm) um 10:00 Uhr, Sparkassenlauf ca. 6 km um 9:50 Uhr, Kinderläufe. Anmeldung über Racepedia",
+   "url": "https://www.tv-hechingen.de/",
+   "prev": {
+    "start_time": "10:00"
+   },
+   "start_place": "Weiherstadion, Badstraße, Hechingen"
   },
   {
    "id": "wehratallauf-2027",
@@ -20330,7 +20383,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 18.09.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 18.09.). Strecken laut hdsports. Grenzüberschreitender Frauenlauf Kehl–Straßburg gegen Brustkrebs (Kehler FV 07 und Association des Courses de Strasbourg). 2026 am 18.09.: 5 km über Mimram-Fußgängerbrücke und Garten der zwei Ufer, Start 18:30 Uhr, Walking für alle offen",
+   "url": "https://madamerun.eu/lepreuve/",
+   "prev": {
+    "start_time": "18:30"
+   },
+   "start_place": "Rheinstadion Kehl, Stadionstraße 1"
   },
   {
    "id": "aspacher-volkslauf-2027",
@@ -20350,7 +20408,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 19.09.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 19.09.). Strecken laut hdsports. Veranstalter Murrtal-Runners Aspach. 29. Auflage war am 19.09.2026: Hauptlauf 10 km, 5 km, Schülerlauf 1,5 km, Bambini 200 und 400 m. Anmeldung über Runtix",
+   "url": "https://murrtal-runners.de/volkslauf/",
+   "prev": {
+    "fee": "5 km 7 €, Hauptlauf 10 km 10 € (Ausgabe 2025)"
+   },
+   "start_place": "Mühlfeldhalle Großaspach"
   },
   {
    "id": "messelauf-etsv-04-lauda-2027",
@@ -20371,7 +20434,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 19.09.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 19.09.). Strecken laut hdsports. Veranstalter ETSV 1904 Lauda mit der Stadt, jeweils am ersten Samstag der Königshöfer Messe. 34. Messelauf war am 19.09.2026: Bambinilauf 500 m bis 10 km (Start 14:15 Uhr), Programm 13:30 bis 16:30 Uhr",
+   "url": "https://www.etsv-lauda.de/veranstaltung/34-messelauf-2026/",
+   "prev": {
+    "start_time": "14:15"
+   },
+   "start_place": "Tauber-Franken-Halle, Lauda-Königshofen"
   },
   {
    "id": "baedleslauf-stuttgart-zuffenhausen-2027",
@@ -20391,7 +20459,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 19.09.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 19.09.). Strecken laut hdsports. Veranstalter SSV Zuffenhausen. 22. Bädleslauf war am Samstag 19.09.2026 von 13 bis 18 Uhr: 10 km Hauptlauf, 5,3 km, 5,3 km Nordic Walking, Schülerlauf 1,5 km und Bambinilauf. Anmeldung per E-Mail oder online",
+   "url": "https://www.ssv-zuffenhausen.de/veranstaltungen/",
+   "start_place": "Bädle des SSV Zuffenhausen, Hirschsprungallee 12, Stuttgart"
   },
   {
    "id": "schurwaldlauf-rommelshausen-2027",
@@ -22372,7 +22442,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 02.08.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 02.08.). Strecken laut hdsports. Veranstalter TV Wintersdorf 1919 und Laufwelt. 17. Auflage war am 02.08.2026 mit rund 450 Läufern: fünf Runden à ca. 2 km (ca. 10 km) über Sandberge, Kieshügel, Strohballen, Bach und Schlammloch",
+   "url": "https://laufwelt.de/laufwelt-extrem-cross-2026/",
+   "prev": {
+    "fee": "25 €, mit Finisher-Shirt 35 € (Ausgabe 2026, Anmeldeschluss 28.07.)"
+   },
+   "start_place": "Sämann-See, Rastatt-Wintersdorf"
   },
   {
    "id": "schmellbackyard-leinfelden-echterdingen-2027",
