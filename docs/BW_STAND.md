@@ -26,3 +26,10 @@ Hindernis-, Firmen-, Team-, Staffel-, Wander- und Marschveranstaltungen, Treppen
 - Bei den hdsports-Läufen steht als Quelle die hdsports-Gesamtliste; Veranstalter-Link und Startgeld fehlen dort meist. Ein zweiter Durchgang über Veranstalterseiten (running.life/hdsports-Detailseiten) würde Link, Startgeld und Startzeit nachziehen.
 - Bayern-Texte in der App ('ganz Bayern', Teilen-Text, 'Bisher Läufe in Bayern erfasst') vor dem Livegang auf 'Bayern und Baden-Württemberg' ändern.
 - Test: App mit Bayern und BW lädt fehlerfrei (763 Läufe), Stichproben von BW-Detailseiten ohne NaN/undefined.
+
+
+## Nachtrag: Links und Startgeld nachgezogen (04.11.2026, fünfte Runde)
+Über running.life und hdsports habe ich für rund 150 Läufe Veranstalter-Link, Anmelde-Link, Startgeld (meist als Vorjahr), Startzeit und Startort nachgetragen und bei sieben Läufen den Termin nach der Veranstalterseite korrigiert (z. B. Stadtlauf Bad Mergentheim 10.04., Schwetzinger Spargellauf 11.04., Hardtwaldlauf 06.06., Lauf in die Sonne 27.06., Kraichgau-Lauf 26.09., Freiburg Marathon 04.04., Calwer Hesse-Lauf 20.03.).
+- Stand: 396 Läufe, Veranstalter- oder Anmelde-Link bei 183, Startgeld (aktuell oder Vorjahr) bei 79, Startort bei 116.
+- **Ohne Link: 213 Läufe, ohne Startgeld: 317 Läufe.** Das sind überwiegend kleine Vereinsläufe, deren Seiten für 2027 noch nichts veröffentlicht haben oder bei denen running.life/hdsports keinen Link kennt. Dort bleibt als Quelle die hdsports-Gesamtliste.
+- Veranstalterseiten nur per http (in der App erst einmal drin lassen): Heini-Langlotz-Lauf, Fischbacher Halbmarathon, Stuttgart-Lauf, Bad Buchauer Stadtlauf, Mössinger Stadtlauf, Oberndorfer Lauftag, Uhldinger Pfahlbau-Halbmarathon, Hohenneuffen-Berglauf, Metzinger Ermstal-Marathon.
