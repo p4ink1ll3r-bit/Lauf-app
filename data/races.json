@@ -23485,12 +23485,18 @@
    "source": "https://www.runme.de/deutschland/int-giessener-silvester-volkslauf-rund-um-den-schiffenberg/",
    "checked": "2026-11-04",
    "url": "https://www.silvesterlauf-giessen.de/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Halbmarathon 10:00, 10 km 10:45, 5 km 11:10, Schülerlauf 09:45 Uhr; 2 € Startnummernpfand; Anmeldung über RaceResult",
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Halbmarathon 10:00, 10 km 10:45, 5 km 11:10, Schülerlauf 09:45 Uhr; 2 € Startnummernpfand; Anmeldung über RaceResult. Laut Veranstalter (Stand 05.11.2026): alle 2.000 Startplätze vergeben, Anmeldung geschlossen; bei Abmeldungen wird sie wieder geöffnet (Hinweis auf der Homepage und Instagram). Keine Warteliste, keine Startplatzübertragung. Siegerehrung nur für Streckensieger ca. 12:00 Uhr. 70 % Waldwege beim Halbmarathon, 80 % beim 10 km",
    "start_time": "10:45",
    "start_place": "Sporthalle Ost, Karl-Reuter-Weg 3, Gießen",
-   "pickup": "Am 30.12. von 15 bis 17 Uhr in der Sporthalle Ost",
+   "pickup": "Dienstag 29.12.2026 von 15 bis 18 Uhr beim Sportshop Schäfer (Gießener Straße 116, Gießen-Wieseck), Mittwoch 30.12.2026 von 15 bis 17 Uhr vor der Sporthalle Ost, am Lauftag ab 8:30 Uhr im Foyer der Sporthalle Ost",
    "reg_close": "2026-12-28",
-   "limit": "2.000 Startplätze (bis zu 2.300 möglich)"
+   "limit": "2.000 Startplätze im freien Verkauf (Teilnehmerlimit insgesamt 2.300 mit Partnerplätzen)",
+   "sold_out": true,
+   "reg_open": "2026-09-01",
+   "cutoff": "13:00 Uhr (Zielschluss)",
+   "late_reg": "Keine Nachmeldung am Veranstaltungstag; Ummeldung auf andere Distanz bis zum Lauftag kostenlos",
+   "parking": "Rund um die Sporthalle Ost; Parkflächen am Philosophikum I (Otto-Behaghel-Straße, Uni-Bibliothek, Mensa)",
+   "showers": "Umkleiden, Duschen und Toiletten in der Sporthalle Ost"
   },
   {
    "id": "dreikoenigslauf-vfl-altenstadt-2027",
@@ -24764,7 +24770,7 @@
    "source": "https://www.runme.de/deutschland/gwv-challenge-lauf-fulda/",
    "checked": "2026-11-04",
    "url": "https://www.rhoenenergie-challenge.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Laut Veranstalter: 20. Jubiläum am 09.05.2026, dazu eine mehrwöchige Challenge mit virtueller Variante; Termin 2027 noch nicht veröffentlicht"
   },
   {
    "id": "volkslauf-willingen-2027",
@@ -26768,7 +26774,11 @@
    "source": "https://www.runme.de/deutschland/vorderrhoener/",
    "checked": "2026-11-04",
    "url": "https://www.vfl-eiterfeld.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Laut Veranstalter: VorderRhöner 6.0 am Samstag 12.09.2026, Start zwischen 8:00 und 8:30 Uhr, „In 10 Stunden durch die VorderRhön“ mit beschilderter Strecke, Verpflegung, Medaille, kostenlosen Parkplätzen; Tickets online. Termin 2027 noch nicht veröffentlicht",
+   "start_place": "Sportgelände „Am Hain“, Eiterfeld",
+   "prev": {
+    "start_time": "08:00"
+   }
   },
   {
    "id": "erzhaeuser-heegbachlauf-erzhausen-2027",
@@ -26857,7 +26867,7 @@
    "source": "https://www.runme.de/deutschland/quellen-halbmarathon-bad-vilbel/",
    "checked": "2026-11-04",
    "url": "http://www.mpz-sport-bad-vilbel.de",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Laut Verein: 13. Quellenlauf am 14.09.2025 nach langjähriger Pause mit Teilnehmerrekord; zur Ausgabe 2026 und zu 2027 steht auf der Seite nichts"
   },
   {
    "id": "tsg-altenhain-1900-e-v-wuzzelauf-altenhain-2027",
