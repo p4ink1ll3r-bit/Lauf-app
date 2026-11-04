@@ -1,6 +1,6 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
-const APP_VERSION="v66"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+const APP_VERSION="v68"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
 const DATA_DIR="data/";
 const REPORT_URL="https://gbaoxnsytnzcuxbkdrwc.supabase.co/rest/v1/reports";
 const REPORT_KEY="sb_publishable_iuxJbdN94igdsBQ5-dtm5g_OxWYWGH9";   // öffentlicher Schlüssel: darf nur Meldungen anlegen
@@ -616,7 +616,7 @@ function render(){
   $("tag").textContent=state.tab==="road"?"Straßenläufe":state.tab==="trail"?"Trails & Bergläufe":"Meine Läufe";
   const hc=t=>'<span class="hchip">'+t+'</span>';
   $("sub").innerHTML=favView?hc("<b>"+state.reg.length+"</b> angemeldet")+hc("<b>"+(state.favs.length-state.reg.length)+"</b> gemerkt"):
-    hc("<b>"+list.length+"</b> "+(list.length===1?"Lauf":"Läufe"))+hc(H?"im Umkreis "+state.radius+" km":"Bayern & Baden-Württemberg")+(active||state.dists.length?hc("gefiltert"):"");
+    hc("<b>"+list.length+"</b> "+(list.length===1?"Lauf":"Läufe"))+hc(H?"im Umkreis "+state.radius+" km":"Bayern & BW")+(active||state.dists.length?hc("gefiltert"):"");
   if(state.view==="cal"){$("out").innerHTML=calHTML(list,favView);if(anim)riseIn($("out"));return}
   if(!list.length){
     const nearest=H?Math.min(...live.map(r=>r.dist)):0;let msg;
@@ -653,6 +653,21 @@ $("dchips").addEventListener("click",e=>{const b=e.target.closest("button");if(!
   if(i<0)state.dists.push(k);else state.dists.splice(i,1);save();animNext=true;render()});
 $("wsearch").addEventListener("click",()=>{closeSheets();$("field").hidden=false;setTimeout(()=>$("q").focus(),80)});
 document.querySelectorAll(".tab[role=tab]").forEach(b=>b.addEventListener("click",()=>{if(state.tab===b.dataset.k)return;state.tab=b.dataset.k;save();animNext=true;render();window.scrollTo({top:0,behavior:RM?"auto":"smooth"})}));
+
+// Wischen zwischen den Reitern: nach links = nächster (Straße → Trail → Meine Läufe → Einstellungen), nach rechts = zurück.
+// Gilt nicht am Bildschirmrand (iPhone-Zurück-Geste), nicht auf seitlich scrollbaren Flächen, nicht bei offener Detailseite/Einstellung.
+(function(){let x0=0,y0=0,t0=0,ok=false;const TABS=["road","trail","fav"];
+  function hscroll(el){for(;el&&el!==document.body;el=el.parentElement){const s=getComputedStyle(el);if((s.overflowX==="auto"||s.overflowX==="scroll")&&el.scrollWidth>el.clientWidth+2)return true}return false}
+  document.addEventListener("touchstart",e=>{ok=false;if(e.touches.length!==1||document.body.classList.contains("locked"))return;
+    const t=e.touches[0];if(t.clientX<28||t.clientX>innerWidth-28)return;
+    if(e.target.closest("input,textarea,select,.nav,#field"))return;if(hscroll(e.target))return;
+    x0=t.clientX;y0=t.clientY;t0=Date.now();ok=true},{passive:true});
+  document.addEventListener("touchend",e=>{if(!ok)return;ok=false;const t=e.changedTouches[0],dx=t.clientX-x0,dy=t.clientY-y0;
+    if(Date.now()-t0>700||Math.abs(dx)<70||Math.abs(dx)<Math.abs(dy)*1.8)return;
+    const i=TABS.indexOf(state.tab);
+    if(dx<0){if(i<TABS.length-1)document.querySelector('.tab[data-k="'+TABS[i+1]+'"]').click();else $("gear").click()}
+    else if(i>0)document.querySelector('.tab[data-k="'+TABS[i-1]+'"]').click()},{passive:true});
+})();
 
 // Startpunkt: PLZ/Ort-Suche (offline)
 function find(q){q=q.trim();if(!q)return[];
