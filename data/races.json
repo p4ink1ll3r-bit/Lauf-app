@@ -19546,7 +19546,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 18.07.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 18.07.). Strecken laut hdsports. Veranstalter TSV Schrozberg 1864, HAKRO spendet 5 € je Teilnehmer an die St.-Raphael-Jugendhilfe. 22. Auflage 2026 mit Voranmeldung bis 15.07. Hauptlauf 10 km, Hobby und Walking 6 km, Staffel 5 × 2 km, Jugendläufe 400 m, 800 m und 2 km",
+   "url": "https://www.tsv-schrozberg.de/hakro-stadtlauf/",
+   "late_reg": "Nachmeldung bis eine Stunde vor dem Start gegen 3 € Aufschlag"
   },
   {
    "id": "ultralauf-night52-kraichgau-citycup-2027",
@@ -19566,7 +19568,13 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 18.07.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 18.07.). Strecken laut hdsports. Veranstalter TV 1846 Bretten. 2026 am 18.07.: night52 (52 km, ca. 800 Hm, Start 17:45 Uhr, Stirnlampe empfohlen) zusammen mit dem Sparkasse Kraichgau CityCup (5 km, 10 km, 4er-Staffel, Kinder- und Schülerläufe)",
+   "url": "https://www.bretten.de/tourismus-kultur-freizeit/veranstaltungen/31564",
+   "prev": {
+    "fee": "night52 55 € plus 10 € Nachmeldung (Ausgabe 2025)",
+    "start_time": "17:45"
+   },
+   "start_place": "Sportgelände TV Bretten"
   },
   {
    "id": "herbolzheimer-gaenslauf-2027",
@@ -19586,7 +19594,13 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 18.07.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 18.07.). Strecken laut hdsports. Veranstalter TSV Herbolzheim, Teil des Dreiflüssecups. 18. Auflage war am Samstag 18.07.2026: Hauptlauf 10 km (hügelig, Waldabschnitt) um 18:30 Uhr, Jagstlauf 5 km um 18:50 Uhr, Schülerlauf 1,4 km um 17:45 Uhr, Kinderlauf 400 m um 17:00 Uhr",
+   "url": "https://www.gaenslauf.de/",
+   "prev": {
+    "start_time": "18:30"
+   },
+   "late_reg": "Keine Nachmeldung am Veranstaltungstag (2026)",
+   "pickup": "In der Sporthalle Herbolzheim"
   },
   {
    "id": "biosphaerenlauf-muensingen-auingen-2027",
@@ -19606,7 +19620,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 19.07.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 19.07.). Strecken laut hdsports. Veranstalter SV Auingen 1951. 2025 (13. Auflage am 20.07.): Biosphärenlauf 15 km, Tress Spätzleslauf 6,6 km, Jedermannlauf 3,3 km, Nordic Walking, Nachwuchsläufe, Transponderzeitnahme. Keine eigene Veranstalterseite gefunden",
+   "prev": {
+    "fee": "Biosphärenlauf 15 €, Tress Spätzleslauf 12 €, Jedermannlauf 6 € (Ausgabe 2025)",
+    "start_time": "09:30"
+   },
+   "start_place": "Sportplatz, Egelsteinstraße 25, Münsingen-Auingen"
   },
   {
    "id": "allgaeu-volkslauf-leutkirch-2027",
@@ -19626,7 +19645,8 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 19.07.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 19.07.). Strecken laut hdsports. Veranstalter TSG Skiläuferzunft Leutkirch, am Kinderfest-Sonntag. 54. Allgäu-Volkslauf war am 19.07.2026 mit über 700 Läufern: 10 km und 5 km auf der Wilhelmshöhe durch den Stadtwald, Nordic Walking, Bambini 500 m, Schülerläufe 700 m und 1.400 m",
+   "url": "https://www.tsg-leutkirch.de/skilaeuferzunft/"
   },
   {
    "id": "aalener-stadtlauf-2027",
@@ -19669,7 +19689,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 19.07.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 19.07.). Strecken laut hdsports. Veranstalter TSV Heumaden. 15. Auflage war am 19.07.2026: Halbmarathon 9:00 Uhr, 10 km 9:30 Uhr, 6 km 10:00 Uhr, flacher Rundkurs durch Heumaden, Riedenberg und Kemnat. Anmeldung über RaceResult",
+   "url": "https://www.tsv-heumaden.de/",
+   "prev": {
+    "start_time": "09:30"
+   },
+   "start_place": "Sportanlage Untere Hasenwedel, Stuttgart-Heumaden"
   },
   {
    "id": "jakob-scheuring-gedaechtnislauf-ottenau-2027",
@@ -19689,7 +19714,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 19.07.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 19.07.). Strecken laut hdsports. Veranstalter Sportvereinigung Ottenau im Rahmen des Sportfests. 5 km (ca. 40 Hm) und 10 km (ca. 140 Hm), Schülerlauf 1.500 m, Bambinilauf",
+   "url": "https://www.spvgg-ottenau.de/leichtathletik/",
+   "start_place": "Murgstadion, Gaggenau-Ottenau"
   },
   {
    "id": "wild-run-oberkollbach-2027",
@@ -19730,7 +19757,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 23.07.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 23.07.). Strecken laut hdsports. Veranstalter TSV Mannheim von 1846. 2026 am 23.07. mit rund 1.900 Teilnehmerinnen: 6 km am Neckar und durch den Luisenpark, Walking (Start 18:35 Uhr), Teamwertung, 1 € je Kilometer an die Stiftung Bülent Ceylan für Kinder. Ab 12 Jahren mit volljähriger Begleitung",
+   "url": "https://www.mannheimer-frauenlauf.de/",
+   "prev": {
+    "fee": "24 € bei Frühbuchung bis 30.04., danach 26 € (Ausgabe 2026)"
+   },
+   "start_place": "TSV-Sportzentrum, Hans-Reschke-Ufer, Mannheim"
   },
   {
    "id": "altstadtlauf-bad-saeckingen-trompeterlauf-2027",
@@ -19749,7 +19781,8 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 23.07.). Strecken laut hdsports."
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 23.07.). Strecken laut hdsports. Veranstalter TV Bad Säckingen. 2026 (20. Trompeterlauf am 23.07.) mit ca. 1.500 Teilnehmern: Grand-Prix 6,19 km (sechs flache Runden plus 190 m), Fitnesslauf 4,19 km, Staffel 4 × 1.000 m, Kinder- und Bambinilauf. Keine eigene Veranstalterseite geprüft",
+   "start_place": "Steinbrückstraße, Bad Säckingen"
   },
   {
    "id": "klettgaulauf-weisweil-2027",
@@ -19796,7 +19829,11 @@
     null,
     195
    ],
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 24.07.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 24.07.). Strecken laut hdsports. Veranstalter SV Renquishausen, Silberdistel-Albcup. 37. Waldlaufmeisterschaft war am 24.07.2026 mit ca. 280 Teilnehmern: 10 km und 5,7 km Jedermannlauf, nach dem ersten Kilometer auf Asphalt über Schotter und Waldpfade, dazu Bambini- und Schülerläufe. Kalender nennt Freitag 23.07.2027, 18:00 Uhr (vorläufig)",
+   "url": "https://sv-renquishausen.de/veranstaltungen/waldlauf/",
+   "prev": {
+    "start_time": "18:00"
+   }
   },
   {
    "id": "spendenlauf-tsv-hoepfingen-2027",
@@ -19816,7 +19853,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 25.07.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 25.07.). Strecken laut hdsports. Veranstalter TSV Höpfingen im Rahmen des Sportfests. 2026 am 25.07. mit 336 Läufern: Schülerlauf 1 km, 5 km und 10 km, Spendenerlös 2026 9.999 €",
+   "url": "https://www.tsv-hoepfingen.de/",
+   "fee": "Startgeld 10 €, wird zu 100 % gespendet (Schülerlauf frei, laut Ausgabe 2026)"
   },
   {
    "id": "rechberghaeuser-sommernachtslauf-2027",
@@ -19835,7 +19874,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 25.07.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 25.07.). Strecken laut hdsports. Veranstalter Sparda-Team Rechberghausen mit der Gemeinde. 14. Auflage war am Samstag 25.07.2026 auf der Bahntrasse: 10 km Richtung Birenbach und Faurndau, Bambini- und Schülerläufe",
+   "url": "https://sommernachtslauf.net/",
+   "start_place": "Grüne Mitte, Rechberghausen"
   },
   {
    "id": "reichenbacher-citylauf-2027",
@@ -19876,7 +19917,9 @@
    "elevation": [
     750
    ],
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 25.07.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 25.07.). Strecken laut hdsports. Veranstalter PTSV Jahn Freiburg. 39. Lauf war am 25.07.2026 (3. Lauf des Schwarzwald-Berglauf-Pokals): ca. 10,4 km mit rund 750 Hm, dazu Kinderlauf. 2025 rund 350 Läufer",
+   "url": "https://www.ptsv-jahn-freiburg.de/leichtathletik/wettkaempfe-events",
+   "start_place": "Goldberghalle, Oberried (450 m), Ziel auf 1.150 m oberhalb der Erlenbacher Hütte"
   },
   {
    "id": "gailinger-staffelwaldlauf-2027",
@@ -19895,7 +19938,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 25.07.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 25.07.). Strecken laut hdsports. 19. Gailinger Staffelwaldlauf war am 25.07.2026 und ausverkauft: nur 10 km (85 % Waldwege, 112 Hm), trotz des Namens kein Staffellauf",
+   "url": "https://staffelwaldlauf.de/",
+   "start_place": "Gailingen am Hochrhein, Ziel am Rheinuferpark"
   },
   {
    "id": "kusterdinger-hornissenlauf-2027",
@@ -19915,7 +19960,8 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 26.07.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 26.07.). Strecken laut hdsports. Veranstalter TSV Kusterdingen, Teil des VR-Cups. 35. Hornissenlauf war am 26.07.2026 mit 319 Finishern: 10 km überwiegend durch den Wald zwischen Neckartal und Härtenhöhe, dazu Kinder-, Schüler-, Jedermann- und Nordic-Walking-Läufe",
+   "url": "https://www.tsv-kusterdingen-la.de/"
   },
   {
    "id": "mercaden-boeblingen-stadtlauf-2027",
@@ -19935,7 +19981,13 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 26.07.). Strecken laut hdsports."
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 26.07.). Strecken laut hdsports. Veranstalter RSG Böblingen mit Event Service Stahl, 4. Wertungslauf des Schönbuch-Cups. 38. Auflage war am 26.07.2026 mit über 1.000 Teilnehmern: Sparkassen-Lauf (ca. 10 km) und Lotto-Lauf (ca. 5 km), Junior-, Bambini- und Schülerläufe",
+   "url": "https://www.eventservice-stahl.de/veranstaltungen/mercaden-b%C3%B6blingen-stadtlauf/infos/",
+   "prev": {
+    "fee": "Sparkassen-Lauf und Lotto-Lauf 18 € bei Voranmeldung bis 15.07., 21 € Nachmeldung; Bambini und Schüler bei Voranmeldung frei (Ausgabe 2026)",
+    "start_time": "09:30"
+   },
+   "start_place": "Alba-Brücke / Wandelhalle, Böblingen"
   },
   {
    "id": "volkslauf-rund-um-pfohren-2027",
@@ -19954,7 +20006,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 29.07.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 29.07.). Strecken laut hdsports. Veranstalter Lauftreff Pfohren, Teil des Intersport-Denzer-Cups. 24. Auflage war am Mittwoch 29.07.2026 mit über 200 Teilnehmern: 10 km Hauptlauf, Walking und Nordic Walking, Kinderläufe 400 m, 800 m und 1.600 m",
+   "url": "https://www.lauftreff-pfohren.de/",
+   "start_place": "Turn- und Festhalle Pfohren, Donaueschingen"
   },
   {
    "id": "mehrstetter-crosslauf-rund-um-kahlenbuehl-2027",
@@ -22275,7 +22329,7 @@
    "prev": {
     "fee": "10 km 10 €, 5,6 km 7 € (Ausgabe 2026)"
    },
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 12.07.). Strecken laut hdsports. Veranstalter VfB Bösingen, Teil der Silberdistel-Albcup-Serie."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 12.07.). Strecken laut hdsports. Veranstalter VfB Bösingen, Teil der Silberdistel-Albcup-Serie. Veranstalter VfB Bösingen, Teil des Silberdistel-Albcups. 2026 am Sonntag 12.07.: 10 km mit über 100 Hm und Sandabschnitt, 5,6 km und Kinderlauf (ca. 1 km), über 300 Teilnehmer insgesamt. Keine eigene Veranstalterseite gefunden"
   },
   {
    "id": "brunnenfestlauf-bad-waldsee-reute-2027",
