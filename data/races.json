@@ -16174,8 +16174,12 @@
    "start_place": "Bahnackerstraße 76532 Baden-Baden (Firmengelände Heel) und Goetheplatz",
    "lat": 48.763,
    "lon": 8.24,
-   "info": "Veranstalter Heel GmbH / SCL-Heel Baden-Baden. Freitagabendlauf, 10 km (Start 19:00 Uhr), dazu 4 km Lauf und Walking, Nordic Walking und Kinderläufe. Termin 2027 laut hdsports 'nicht fixiert', Prognose aus dem letzten Termin (2026: 19.06., bestätigt).",
-   "checked": "2026-11-04"
+   "info": "Veranstalter Heel GmbH / SCL-Heel Baden-Baden. Freitagabendlauf, 10 km (Start 19:00 Uhr), dazu 4 km Lauf und Walking, Nordic Walking und Kinderläufe. Termin 2027 laut hdsports 'nicht fixiert', Prognose aus dem letzten Termin (2026: 19.06., bestätigt). Veranstalter Heel und SCL Heel Baden-Baden. 2026 am 19.06.: 10 km ab 19:00 Uhr durch die Innenstadt (Zeitlimit 90 Minuten), 4 km, 4 km Walking und Bambinilauf. Anmeldung nur online, Quellen nennen den Start abweichend 18:00 Uhr",
+   "checked": "2026-11-04",
+   "url": "https://lauf.heel.de/10-km-lauf",
+   "prev": {
+    "start_time": "19:00"
+   }
   },
   {
    "id": "baden-marathon-karlsruhe-2027",
@@ -17822,7 +17826,14 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 09.05.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 09.05.). Strecken laut hdsports. Veranstalter TSF Welzheim. 2026 am 09.05.: Bambinilauf 0,7 km bis Halbmarathon 21,1 km (Welzheimer Wald-Lauf), Volkslauf 10 km, Einsteiger- und Firmenlauf 5 km. Voranmeldung 2026 bis 01.05., 20 Uhr",
+   "url": "https://www.tsfwelzheim.de/abteilungen/welzheimer-limeslauf/",
+   "start_place": "Justinus-Kerner-Halle im Schulzentrum, Welzheim",
+   "late_reg": "Nachmeldung am Veranstaltungstag für alle Läufe möglich",
+   "prev": {
+    "fee": "Einsteiger- und Firmenlauf 5 km / Nordic Walking 18 € bei früher Anmeldung (Ausgabe 2026)",
+    "start_time": "17:30"
+   }
   },
   {
    "id": "uhldinger-pfahlbau-halbmarathon-2027",
@@ -17863,10 +17874,14 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 10.05.). Strecken laut hdsports.",
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 10.05.). Strecken laut hdsports. Veranstalter Leichtathletik-Förderkreis der TSG 1862 Weinheim. 2026 (34. Auflage am 10.05.): 10 km als sieben Runden durch die Altstadt, Staffel mit vier Läufern möglich, 3. Lauf des Bergstraßen-Cups",
    "prev": {
-    "start_time": "12:45"
-   }
+    "start_time": "12:45",
+    "fee": "Hauptlauf 12 €, offener Lauf 8 €, Kinder und Schüler 4 € (Ausgabe 2026, Nachmeldung +3 €)"
+   },
+   "url": "https://tsgla.de/index.php/altstadtlauf-startseite.html",
+   "start_place": "Dürreplatz vor der Weinheim Galerie",
+   "late_reg": "Nachmeldung vor Ort bis 60 Minuten vor dem jeweiligen Start, 3 € Aufschlag (2026)"
   },
   {
    "id": "stadtlauf-osterburken-2027",
@@ -17973,7 +17988,7 @@
    "kreis": "Rhein-Neckar-Kreis",
    "lat": 49.324,
    "lon": 8.696,
-   "date": "2027-06-13",
+   "date": "2027-05-29",
    "confirmed": true,
    "prev_date": "2026-05-16",
    "distances": [
@@ -17982,7 +17997,13 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 16.05.). Strecken laut hdsports."
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 16.05.). Strecken laut hdsports. Laut Veranstalterseite voraussichtlich Samstag 29.05.2027, 10 bis 12 Uhr (3. ZAP Laufevent GO). 10 km ab 12 Jahren, 5 km ab 10 Jahren, überwiegend flach. Anmeldung online bis zum Vortag",
+   "url": "https://www.zap-nussloch.de/gesundheit-fitness/go-zap-laufevent/",
+   "prev": {
+    "fee": "10 km 12 €, 5 km 8 €, Kinder-Hindernislauf 500 m frei (Ausgabe 2026)",
+    "start_time": "10:00"
+   },
+   "start_place": "ZAP, Walldorfer Straße 100, Nußloch"
   },
   {
    "id": "wuermersheimer-speckkaelblelauf-2027",
@@ -18097,7 +18118,10 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 22.05.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 22.05.). Strecken laut hdsports. Veranstalter Running Team Ortenau (Willstätt-Sand). 2026 am Freitag 22.05. mit den Baden-Württembergischen Straßenlaufmeisterschaften über 10 km (Start 19:30 Uhr), 10 km und 5 km. Keine eigene Veranstalterseite gefunden",
+   "prev": {
+    "start_time": "19:30"
+   }
   },
   {
    "id": "elpersheimer-pfingstlauf-um-den-energiezentrum-cup-2027",
@@ -18119,7 +18143,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 24.05.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 24.05.). Strecken laut hdsports. Veranstalter SV Elpersheim 1948. 2026 (22. Auflage am 24.05., Pfingstsonntag) mit 448 Startern: Bambini 500 m bis Halbmarathon, 1,5 km, 3 km, 5 km und 10 km. Start der Laufgemeinschaft Tauberfranken",
+   "url": "https://sv-elpersheim.de/pfingstlauf/",
+   "start_place": "Sportplatz SV Elpersheim, Weikersheim-Elpersheim"
   },
   {
    "id": "freundschaftslauf-course-de-l-amiti-hartheim-2027",
@@ -18139,7 +18165,10 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 05.06.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 05.06.). Strecken laut hdsports. Grenzüberschreitender Lauf zwischen Hartheim und Fessenheim (Frankreich), Veranstalter SV Hartheim-Bremgarten und OMSCAL Fessenheim. 2026 am 05.06.: 10,2 km, Sprint 6,3 km, Nordic Walking 8,8 km, ab 16 Jahren. Laufrichtung wechselt jedes Jahr",
+   "prev": {
+    "fee": "15 € (Ausgabe 2026, Anmeldeschluss 03.06.)"
+   }
   },
   {
    "id": "halbmarathon-sigmaringen-schwaebische-zeitung-2027",
@@ -18159,8 +18188,15 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 07.06.). Strecken laut hdsports. Veranstalter LG Winterlingen. 2026: 654 Anmeldungen aus 16 Nationen, Anmeldeschluss zwei Tage vorher. Dazu 3 × 7 km Staffel, 7-km-Lauf und Kinderläufe.",
-   "limit": "500 Starter (Halbmarathon)"
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 07.06.). Strecken laut hdsports. Veranstalter LG Winterlingen. 2026: 654 Anmeldungen aus 16 Nationen, Anmeldeschluss zwei Tage vorher. Dazu 3 × 7 km Staffel, 7-km-Lauf und Kinderläufe. Veranstalter LG Winterlingen mit SIG-Run, Medienpartner Schwäbische Zeitung. 1. Auflage am 07.06.2026: Halbmarathon (3 Runden à ca. 7 km), 3 × 7 km Staffel, 7 km und Kinderläufe",
+   "limit": "500 Starter (Halbmarathon)",
+   "anmeldung_url": "https://www.anmeldungs-service.de/halbmarathonsigmaringen2026/",
+   "prev": {
+    "fee": "Halbmarathon 25 € (Frühbucher bis Ende März), danach 30 €, zuletzt 40 € (Ausgabe 2026)",
+    "start_time": "09:00"
+   },
+   "start_place": "Marktplatz Sigmaringen",
+   "late_reg": "Nachmeldung vor Ort war 2026 nicht möglich"
   },
   {
    "id": "after-work-run-wangen-im-allgaeu-juni-2027",
@@ -18180,7 +18216,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 09.06.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 09.06.). Strecken laut hdsports.",
+   "url": "https://www.sg-niederwangen.de/events/after-work-run/",
+   "fee": "kostenlos, keine Voranmeldung nötig (laut Veranstalter)"
   },
   {
    "id": "ettlinger-altstadtlauf-2027",
@@ -18284,7 +18322,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 13.06.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 13.06.). Strecken laut hdsports. Veranstalter TV Kieselbronn. 2026 am 13.06.: Halbmarathon, 10 km, Kieselbronner Meile (17:00 Uhr), Schülerlauf, Bambinilauf und Walking. Halbmarathon zählt zum Volkslaufcup der Sparkasse und ist Kreismeisterschaft, Strecke offiziell vermessen",
+   "url": "https://www.tv-kieselbronn.de/sport/gaisseschennerlauf/",
+   "start_place": "Heinloch, Kieselbronn"
   },
   {
    "id": "kirchenkirnberger-wald-und-wiesenlauf-2027",
@@ -18304,7 +18344,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 14.06.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 14.06.). Strecken laut hdsports. Veranstalter Spvgg Kirchenkirnberg. 3. Auflage war am 14.06.2026 mit 213 Finishern: Waldrunde 5,4 km, Strecken von 0,45 bis 10,8 km",
+   "url": "https://www.spvgg-kirchenkirnberg.de/3-kirchenkirnberger-wald-und-wiesenlauf",
+   "start_place": "Sportgelände Spielhof, Kirchenkirnberg (Murrhardt)"
   },
   {
    "id": "tve-sommerlauf-edingen-neckarhausen-2027",
@@ -18346,7 +18388,11 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 14.06.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 14.06.). Strecken laut hdsports. Veranstalter Feuerwehr Löffelstelzen. 19. Auflage war am 14.06.2026: Bambini bis 11 km, Nordic Walking, Staffel. Veranstalterseite nur per http erreichbar",
+   "url": "http://www.ffw-loeffelstelzen.de/",
+   "prev": {
+    "fee": "Erwachsene 12 €, Kinder bis 16 Jahre 6 € (Ausgabe 2024)"
+   }
   },
   {
    "id": "verenalauf-2027",
@@ -18417,25 +18463,6 @@
    "start_time": "09:00"
   },
   {
-   "id": "loerracher-stadtlauf-2027",
-   "type": "road",
-   "name": "Lörracher Stadtlauf",
-   "place": "Lörrach",
-   "bezirk": "Freiburg",
-   "kreis": "LK Lörrach",
-   "lat": 47.633,
-   "lon": 7.692,
-   "date": "2027-06-17",
-   "confirmed": false,
-   "prev_date": "2026-06-18",
-   "distances": [
-    "5,5"
-   ],
-   "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 18.06.). Strecken laut hdsports."
-  },
-  {
    "id": "seelbach-schwarzwald-sonnwendlauf-2027",
    "type": "road",
    "name": "Seelbach Schwarzwald Sonnwendlauf",
@@ -18453,7 +18480,8 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 19.06.). Strecken laut hdsports."
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 19.06.). Strecken laut hdsports. Veranstalter TV Seelbach. 20. Auflage war am 19.06.2026: 10 km als zwei flache Runden à 5 km, dazu 3-km-Charity-Lauf. 2025 mit 1.085 Läufern",
+   "url": "https://www.sonnwendlauf-seelbach.de/"
   },
   {
    "id": "ochsenhausener-fuerstenwaldlauf-2027",
@@ -18473,10 +18501,11 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 19.06.). Strecken laut hdsports.",
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 19.06.). Strecken laut hdsports. Veranstalter SV Ochsenhausen. 45. Auflage war am 19.06.2026 mit rund 700 Teilnehmern: 10,55 km überwiegend auf Waldwegen, 5 km, Jugend- und Kinderläufe auf der Bahn",
    "prev": {
     "start_time": "19:00"
-   }
+   },
+   "url": "https://www.svochsenhausen.de/leichtathletik/fuerstenwaldlauf/"
   },
   {
    "id": "sandhofer-strassenlauf-2027",
@@ -22163,7 +22192,12 @@
    "checked": "2026-11-04",
    "start_time": "18:00",
    "start_place": "Rathaus Steinach, Kirchstraße 4",
-   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 12.06.). Strecken laut hdsports. Veranstalter SV Steinach."
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 12.06.). Strecken laut hdsports. Veranstalter SV Steinach. Veranstalter SV Steinach, Laufabteilung. 10. Auflage war am 12.06.2026: 5 km und 10 km (2 × 5 km) um 20:00 Uhr, flache Strecke, Team-Staffel, vorher Bambini- und Schülerläufe",
+   "url": "https://www.svsteinach.de/lauf/",
+   "prev": {
+    "fee": "5 km 8 €, 10 km 10 €, Team 15 €, Kinderläufe frei (Ausgabe 2026)",
+    "start_time": "20:00"
+   }
   },
   {
    "id": "nordheimlauf-2027",
