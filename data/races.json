@@ -21764,7 +21764,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 18.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 18.10.). Strecken laut hdsports. Veranstalter TSG Salach. 6. Löwenlauf war am 18.10.2026: 10 km Löwenlauf, 6 km Fitnesslauf, 6 km Nordic Walking, Jugend-Löwenlauf 2 km und Bambinilauf 500 m. Anmeldung über Racepedia",
+   "url": "https://www.tsg-salach.de/veranstaltungen/471-loewenlauf.html",
+   "prev": {
+    "fee": "Hauptläufe 14 € bei Voranmeldung, 17 € Nachmeldung (laut Kalender, Ausgabe 2026)"
+   },
+   "start_place": "Stauferlandhalle, Salach"
   },
   {
    "id": "oberwaldlauf-rueppurr-2027",
@@ -21862,7 +21867,14 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 18.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 18.10.). Strecken laut hdsports. Veranstalter Leichtathletikverein Ettenheim. 42. Stadtlauf war am 18.10.2026 mit rund 500 Läufern: Hauptlauf 10 km (fünf Runden à 2 km durch die Innenstadt) um 13:30 Uhr, Bambinilauf 13:00 Uhr, Fitness- und Teamlauf 14:45 Uhr, Schülerlauf 15:15 Uhr. Online-Meldeschluss 2026 war der 15.10.",
+   "url": "https://stadtlauf.lv-ettenheim.de/ausschreibung/",
+   "prev": {
+    "fee": "Hauptlauf 15 € (Ausgabe 2026)",
+    "start_time": "13:30"
+   },
+   "start_place": "Marienplatz, Ettenheim",
+   "late_reg": "Nachmeldung bis 60 Minuten vor dem jeweiligen Start in der Stadthalle gegen Gebühr"
   },
   {
    "id": "bottwartal-marathon-2027",
@@ -21898,7 +21910,7 @@
    "lat": 48.624,
    "lon": 8.966,
    "date": "2027-10-17",
-   "confirmed": false,
+   "confirmed": true,
    "prev_date": "2026-10-18",
    "distances": [
     "10",
@@ -21906,7 +21918,13 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 18.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 18.10.). Strecken laut hdsports. 52. Naturpark Schönbuchlauf am 17.10.2027 laut Veranstalterseite (TSV Hildrizhausen). 2026: 25 km (Start 10:00 Uhr, ca. 230 Hm, überwiegend Schotter), 50 km Ultra (Start 7:45 Uhr), 10 km und 5 km, dazu Kinder- und Juniorläufe",
+   "url": "https://schoenbuchlauf.de/",
+   "start_place": "Schönbuchhalle, Herrenberger Straße 60, Hildrizhausen",
+   "prev": {
+    "fee": "25 km 25 € bis 31.07., 30 € bis 11.10., 35 € ab 12.10. (Ausgabe 2026)",
+    "start_time": "10:00"
+   }
   },
   {
    "id": "filderstadt-halbmarathon-2027",
@@ -21940,8 +21958,8 @@
    "kreis": "LK Heilbronn",
    "lat": 49.096,
    "lon": 9.38,
-   "date": "2027-10-23",
-   "confirmed": false,
+   "date": "2027-10-30",
+   "confirmed": true,
    "prev_date": "2026-10-24",
    "distances": [
     "6"
@@ -21951,7 +21969,11 @@
    "elevation": [
     350
    ],
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 24.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 24.10.). Strecken laut hdsports. Veranstalter TSV Löwenstein mit der Stadt. Die 2. Auflage ist laut Berichten für den 30.10.2027 angekündigt. Die 1. Auflage am 24.10.2026: ca. 6 km mit ca. 350 Hm, ab 16 Jahren, Limit 200 Starter, rund 180 am Start. Keine eigene Veranstalterseite geprüft",
+   "prev": {
+    "fee": "15 € bis 30.09., danach 18 € (Ausgabe 2026)"
+   },
+   "start_place": "Sportgelände TSV Löwenstein in Seemühle, Ziel an der Aussichtsplatte"
   },
   {
    "id": "kirbe-lauf-nellingen-2027",
@@ -21996,7 +22018,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 25.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 25.10.). Strecken laut hdsports. Veranstalter Lauftreff Starzach. 2026 am 25.10.: Hauptlauf 10,7 km auf neuem Rundkurs überwiegend durch Wald auf Schotterwegen, Hobbylauf 5,2 km, Kinder- und Jugendläufe, Bambinilauf, Walking. Voranmeldung 2026 bis 22.10.",
+   "url": "https://ltstarzach.de/starzachlauf",
+   "prev": {
+    "fee": "Hauptlauf 12 € (Ausgabe 2026)"
+   },
+   "start_place": "Mehrzweckhalle Starzach-Wachendorf"
   },
   {
    "id": "friedrichstaler-waldlauf-2027",
@@ -22016,7 +22043,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 25.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 25.10.). Strecken laut hdsports. Veranstalter TV Friedrichstal 1899, Schlusslauf des Stutensee-Cups. 2026 am 25.10.: 10 km durch den Hardtwald, 5 km und Schülerlauf. Anmeldung ab September über Racepedia",
+   "url": "https://www.tv-friedrichstal.com/",
+   "start_place": "Hermann-Löns-Straße 2, Stutensee-Friedrichstal"
   },
   {
    "id": "pfinztallauf-pfinztal-berghausen-2027",
@@ -22035,7 +22064,13 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 25.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 25.10.). Strecken laut hdsports. Veranstalter TSV Berghausen. 47. Pfinztallauf war am Sonntag 25.10.2026: 10 km um 10:00 Uhr, 5 km und 2,7 km um 9:30 Uhr, 5 km Walking, Kinder- und Schülerläufe ab 11:00 Uhr. Strecke entlang der Pfinz bis Kleinsteinbach",
+   "url": "https://www.tsv-berghausen.de/index.php/tsv-events/pfinztallauf/laufstrecke",
+   "prev": {
+    "fee": "10 km 10 €, 5 km und 2,7 km 7 €, Nachmeldung +2 € (Ausgabe 2026)",
+    "start_time": "10:00"
+   },
+   "start_place": "TSV-Halle, Am Stadion 6, Pfinztal-Berghausen, Ziel im Hopfenberg-Stadion"
   },
   {
    "id": "bietlauf-muehlhausen-2027",
@@ -22055,7 +22090,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 25.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 25.10.). Strecken laut hdsports. Veranstalter LV Biet, Erlös für einen wohltätigen Zweck. 25. Bietlauf war am 19.10.2025 mit über 130 Läufern: Hauptlauf ca. 9–11 km an der Würm entlang, Freizeitlauf 5 km, Schülerlauf",
+   "url": "https://www.lvbiet.de/veranstaltungen/bietlauf/",
+   "start_place": "Würmtalhalle, Tiefenbronn-Mühlhausen"
   },
   {
    "id": "gaffenberglauf-2027",
@@ -22103,7 +22140,13 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 01.11.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 01.11.). Strecken laut hdsports. Veranstalter TSV Frickenhausen, Triathlon, letzter Lauf des Tälescups. 36. Käppele-Lauf war am 01.11.2025: ca. 7,3–8,7 km auf den Käppele (ca. 245–293 Hm), Start 10:00 Uhr, Nachmeldung bis 9:45 Uhr. Angaben teils aus älteren Quellen",
+   "url": "https://events.larasch.de/en/kaeppele-lauf-nuertingen",
+   "prev": {
+    "fee": "8 €, Jugend 5 € (laut älterem Bericht)",
+    "start_time": "10:00"
+   },
+   "start_place": "Sportplatz Reudern, Hülenbergstraße, Nürtingen-Reudern"
   },
   {
    "id": "hockenheimring-lauf-2027",
@@ -22115,7 +22158,7 @@
    "lat": 49.323,
    "lon": 8.552,
    "date": "2027-11-01",
-   "confirmed": false,
+   "confirmed": true,
    "prev_date": "2026-11-01",
    "distances": [
     "5",
@@ -22123,7 +22166,11 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 01.11.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 01.11.). Strecken laut hdsports. 30. Hockenheimringlauf am 01.11.2027 laut Veranstalterseite (ASG Tria Hockenheim), Anmeldung bei RaceResult geöffnet. 5 km Start 9:00 Uhr, Schülerlauf 10:10 Uhr, 10 km (zwei amtlich vermessene Runden) als Hauptlauf, flacher Asphalt",
+   "url": "https://hockenheimringlauf.de/",
+   "start_time": "09:00",
+   "fee": "Bambinilauf 350 m 3 €, Schülerlauf 1,1 km 5 €, 5 km 10 €, 10 km 15 €",
+   "start_place": "Hockenheimring Grand-Prix-Kurs"
   },
   {
    "id": "karlsbader-volkslauf-langensteinbach-2027",
@@ -22143,7 +22190,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 08.11.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 08.11.). Strecken laut hdsports. Veranstalter SV 1899 Langensteinbach. 2026 am 08.11. (2025 war die 37. Auflage mit rund 700 Teilnehmern): 5 km und 10 km, Walking-Wertung über 5 km, Schülerläufe",
+   "url": "https://svl-leichtathletik.de/",
+   "start_place": "Stadion im SONOTRONIC Sportpark, Jahnstraße 65, Karlsbad"
   },
   {
    "id": "sparkassen-cross-pforzheim-2027",
@@ -22192,7 +22241,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 15.11.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 15.11.). Strecken laut hdsports. Veranstalter TSV Geislingen. 39. Volkslauf war am 15.11.2026 (Meldeschluss 11.11.): Hauptlauf 10,5 km, Schülerläufe und Integrationslauf, Start 2025 um 10:30 Uhr",
+   "url": "https://leichtathletik.tsv-geislingen.de/",
+   "prev": {
+    "start_time": "10:30"
+   },
+   "start_place": "Schlossparkhalle, Geislingen (Zollernalbkreis)"
   },
   {
    "id": "nussdorflauf-eberdingen-2027",
@@ -22212,7 +22266,13 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 21.11.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 21.11.). Strecken laut hdsports. Veranstalter Lauftreff TSV Nussdorf. 18. Nussdorflauf war am Samstag 21.11.2026: Panoramalauf 10 km, Einsteigerlauf 6,6 km, TEENRun 3,3 km, Schüler- und Bambinilauf (Anmeldung über Schulen), Starts 11:15 bis 15:00 Uhr",
+   "url": "https://www.nussdorf-lauf.de/",
+   "prev": {
+    "start_time": "11:15"
+   },
+   "start_place": "Gemeindehalle, Eberdingen-Nussdorf",
+   "late_reg": "Nachmeldung am Lauftag bis 45 Minuten vor dem Start gegen 3 € Aufschlag (2026)"
   },
   {
    "id": "freiberger-adventslauf-2027",
@@ -22300,7 +22360,13 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 19.12.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 19.12.). Strecken laut hdsports. Veranstalter TV Dornstetten. Int. Adventslauf war am 19.12.2026 (Meldeschluss 16.12.): Hauptlauf 6,6 km (sechs Runden durch die Altstadt auf Kopfsteinpflaster) um 16:10 Uhr, Teamcup mit Dreierteams, Einsteiger-Staffel, Kinderläufe ab 14:00 Uhr",
+   "url": "https://turnverein-dornstetten.de/adventslauf-2.html",
+   "prev": {
+    "fee": "Erwachsene 14 €, Schüler 5 € (Ausgabe 2026)",
+    "start_time": "16:10"
+   },
+   "start_place": "Marktplatz / Rathaus Dornstetten"
   },
   {
    "id": "silvesterlauf-schwaibach-2027",
@@ -22320,7 +22386,13 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 31.12.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 31.12.). Strecken laut hdsports. Veranstalter SSV Schwaibach 1963. 2026 am 31.12. um 14:00 Uhr, 26. Auflage war 2025: 2 km, 5 km und 10 km sowie ein unzeitgemessener 7-km-Walking-Lauf, Kinder bis 10 Jahre frei, Anmeldung über RaceResult. Veranstalterseite nur per http erreichbar",
+   "url": "http://schwaibach-lauf-mit.de/ausschreibung",
+   "prev": {
+    "start_time": "14:00"
+   },
+   "start_place": "Sportgelände SSV Schwaibach, Gengenbach",
+   "limit": "400 Läufer (2025)"
   },
   {
    "id": "tuttlinger-silvesterlauf-2027",
@@ -22381,7 +22453,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 31.12.). Strecken laut hdsports."
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 31.12.). Strecken laut hdsports. Veranstalter Ottsilla-Team des TSV Ottenbach. 20. Silvesterlauf war am 31.12.2025: 10 km, 6,5 km und Walking, Zeitnahme durch Datasport, Weißwurstessen mit Siegerehrung in der Gemeindehalle ab 14:00 Uhr",
+   "url": "https://www.tsv-ottenbach.de/abteilungen/ottsilla/silvesterlauf/",
+   "prev": {
+    "fee": "10 km, 6,5 km und Nordic Walking 13 € bei Voranmeldung, 17 € Nachmeldung (Ausgabe 2025)"
+   },
+   "start_place": "Sportzentrum Im Buchs, Ottenbach"
   },
   {
    "id": "stettener-volkslauf-2027",
