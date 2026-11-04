@@ -148,8 +148,8 @@ body.mode-trail .bar::after{opacity:1}
 body.mode-trail .head{--hc:var(--trail)}
 body:not(.mode-road):not(.mode-trail) .head{--hc:var(--fav-on)}
 body:not(.mode-road):not(.mode-trail) .head::after{display:none}
-.head::after{content:"";position:absolute;right:-6px;bottom:-4px;width:min(64%,300px);height:118px;background:var(--hc);opacity:.32;pointer-events:none;
-  -webkit-mask:var(--motif,none) right bottom/contain no-repeat;mask:var(--motif,none) right bottom/contain no-repeat;transition:background-color .45s ease}
+.head::after{content:"";position:absolute;left:0;right:0;bottom:-8px;width:100%;height:175px;background:var(--hc);opacity:.22;pointer-events:none;
+  -webkit-mask:var(--motif,none) center bottom/cover no-repeat;mask:var(--motif,none) center bottom/cover no-repeat;transition:background-color .45s ease}
 body.mode-road .head{--motif:var(--m-road)}
 body.mode-trail .head{--motif:var(--m-trail)}
 .head>*{position:relative;z-index:1}
