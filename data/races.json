@@ -13433,7 +13433,8 @@
    "info": "9. Auflage, zugleich Kreiswaldlaufmeisterschaften. Strecke etwa 50 % Asphalt, 40 % Schotter, 10 % Trail. Spikes verboten. Nachmeldung vor Ort eventuell möglich.",
    "checked": "2026-11-04",
    "lat": 48.154,
-   "lon": 9.476
+   "lon": 9.476,
+   "url": "https://www.tsv-riedlingen.com/"
   },
   {
    "id": "monnem-cross-2026",
@@ -13574,10 +13575,14 @@
    "parking": "Parkplätze am Vereinsheim",
    "showers": "Umkleiden und Duschen am Vereinsheim",
    "aid": "keine Verpflegungsstelle auf der Strecke",
-   "info": "Strecke überwiegend Schotter mit Waldanteil, etwa 300 m Asphalt. 10 km und 5 km Fitnesslauf, dazu 5 km Walking, keine Erstattung bei Nichtantritt.",
+   "info": "Strecke überwiegend Schotter mit Waldanteil, etwa 300 m Asphalt. 10 km und 5 km Fitnesslauf, dazu 5 km Walking, keine Erstattung bei Nichtantritt. Startzeiten 2025: Hauptlauf 10 km um 14:00 Uhr, Fitnesslauf 5 km und Walking um 14:15 Uhr, Kinderlauf 13:00 Uhr. 2025 erstmals Trail-Lauf. Veranstalter TSG Schnaitheim",
    "checked": "2026-11-04",
    "lat": 48.683,
-   "lon": 10.15
+   "lon": 10.15,
+   "url": "https://tsg-leichtathletik-rasenkraftsport.heidenheim.com/",
+   "prev": {
+    "start_time": "14:00"
+   }
   },
   {
    "id": "crosslaufserie-oberschwaben-blitzenreute-2026",
@@ -13664,7 +13669,8 @@
    "start_place": "Gärtnerei-Gewächshaus am Naturschutzgebiet Waldhägenich, Lindenstraße, 77815 Bühl-Oberweier",
    "late_reg": "Keine Nachmeldung vor Ort",
    "aid": "Getränke, Suppe, Kaffee und Kuchen",
-   "info": "10. Auflage. Mindestalter 16 Jahre. Nur Online-Anmeldung (Wero, Klarna, Überweisung), Meldeschluss Freitag 6.11. 15 Uhr oder früher bei 500 Anmeldungen. Dazu 5,3 km Walking. Überschüsse gehen an ein Naturschutzprojekt."
+   "info": "10. Auflage. Mindestalter 16 Jahre. Nur Online-Anmeldung (Wero, Klarna, Überweisung), Meldeschluss Freitag 6.11. 15 Uhr oder früher bei 500 Anmeldungen. Dazu 5,3 km Walking. Überschüsse gehen an ein Naturschutzprojekt.",
+   "url": "https://www.waldhaegenich-lauf.de/"
   },
   {
    "id": "internationaler-hohenzollernberglauf-2026",
@@ -13818,9 +13824,14 @@
    ],
    "source": "https://haid.app/en/events/ring-running-series-hockenheim-mq93lli2",
    "checked": "2026-11-04",
-   "info": "Auf dem Hockenheimring. Anmeldung laut Kalendern über ringrunningseries.com; Startgeld in Kalendern 64 bis 79 € (nicht beim Veranstalter geprüft).",
+   "info": "Auf dem Hockenheimring. Anmeldung laut Kalendern über ringrunningseries.com; Startgeld in Kalendern 64 bis 79 € (nicht beim Veranstalter geprüft). Samstag 21.11.2026 auf dem Hockenheimring: Runden à 4,46 km, flach und asphaltiert, offiziell vermessen (AIMS). Marathon-Start 10:00 Uhr (Ostkurve), Halbmarathon 11:00 Uhr (Parabolika). Ein Portal nennt 64 € und 79 €, maßgeblich ist die Veranstalterseite",
    "lat": 49.323,
-   "lon": 8.552
+   "lon": 8.552,
+   "url": "https://ringrunningseries.com/en/",
+   "start_time": "10:00",
+   "reg_close": "2026-11-15",
+   "fee": "Halbmarathon 69 €, Marathon 89 € (reguläre Anmeldung bis 15.11.2026)",
+   "cutoff": "Halbmarathon 3:00 h, Marathon 5:45 h, Zielschluss 16:00 Uhr"
   },
   {
    "id": "stadtwerke-night-run-sindelfingen-2026",
@@ -13909,7 +13920,7 @@
    ],
    "source": "https://haid.app/en/events/bernhard-marathon-mt82ypy8",
    "checked": "2026-11-04",
-   "info": "Sechs Runden à 7,1 km auf öffentlichen Straßen, Strecke nicht markiert (GPX auf Anfrage), Teilstrecken erlaubt. Urkunde per E-Mail. Verpflegung selbst mitbringen. Anmeldung über RaceResult mit Haftungsverzicht.",
+   "info": "Sechs Runden à 7,1 km auf öffentlichen Straßen, Strecke nicht markiert (GPX auf Anfrage), Teilstrecken erlaubt. Urkunde per E-Mail. Verpflegung selbst mitbringen. Anmeldung über RaceResult mit Haftungsverzicht. Kostenloser Marathon des Lauftreffs Hemsbach, 6 Runden à 7,1 km (Ausgabe 2025 am 29.11.), Anmeldung über RaceResult",
    "lat": 49.591,
    "lon": 8.648,
    "fee": "kein Startgeld, freiwilliger Beitrag an die RaceResult-Plattform",
@@ -13931,7 +13942,13 @@
    "source": "https://haid.app/en/events/laufwelt-nikolauslauf-der-rsg-ried-rastatt-mq93n2wr",
    "checked": "2026-11-04",
    "lat": 48.858,
-   "lon": 8.21
+   "lon": 8.21,
+   "url": "https://rsg-ried-rastatt.de/2026/10/laufwelt_nikolauslauf_2026/",
+   "start_time": "12:00",
+   "reg_close": "2026-12-03",
+   "late_reg": "Nachmeldung vor Ort möglich, 5 € Aufschlag",
+   "start_place": "Vor der LAUFWELT, Rastatt-Wintersdorf",
+   "info": "Sonntag 06.12.2026 laut Veranstalterseite: Halbmarathon 12:00 Uhr, 10 km 13:00 Uhr, Bambinilauf (ca. 300 m, kostenlos) 12:15 Uhr. Voranmeldung bis 03.12.2026, 1 € je Anmeldung an laufendhelfen.de"
   },
   {
    "id": "nikolauslauf-ilsfeld-2026",
@@ -14168,10 +14185,15 @@
    "checked": "2026-11-04",
    "lat": 48.292,
    "lon": 8.492,
-   "start_place": "Mehrzweckhalle Fluorn",
+   "start_place": "Mehrzweckhalle, Schulstraße, 78737 Fluorn-Winzeln",
    "showers": "Umkleiden, Duschen und WC in der Sporthalle",
    "aid": "Tee bis eine Stunde nach dem Ziel, Essen und Getränke in der Halle",
-   "info": "Veranstalter VfL Fluorn 1967. Hauptlauf 6,4 km mit deutlichen Steigungen, dazu 2,8 km und 1,4 km für Kinder und Jugend. Läuft bei jedem Wetter. Anmeldung über RaceResult."
+   "info": "Veranstalter VfL Fluorn 1967. Hauptlauf 6,4 km mit deutlichen Steigungen, dazu 2,8 km und 1,4 km für Kinder und Jugend. Läuft bei jedem Wetter. Anmeldung über RaceResult. Hauptlauf 6,4 km, anspruchsvoll mit Steigungen, Jugend 2,8 km, Kinder 1,4 km. Veranstalter VfL Fluorn, Anmeldung über RaceResult",
+   "url": "https://www.silvesterlauf-fluorn.de/",
+   "prev": {
+    "fee": "Hauptlauf 12 €, Kinder und Jugend bis U16 6 € (Ausgabe 2025)",
+    "start_time": "12:15"
+   }
   },
   {
    "id": "silvesterlauf-auf-die-burg-teck-2026",
@@ -14215,7 +14237,11 @@
    "lon": 8.604,
    "start_place": "Nordbadenhalle, Ahornstraße 72, Heddesheim",
    "showers": "Umkleiden und Duschen in der Nordbadenhalle",
-   "info": "Flache Runden um den Heddesheimer Badesee (Feinkies und Asphalt). Heddesheimer Meile 7,7 km und Minimeile 4,4 km, dazu Kinderläufe. Teil des Weinheimer Nachrichten Bergstraßen-Cups. Anmeldung über Runtix."
+   "info": "Flache Runden um den Heddesheimer Badesee (Feinkies und Asphalt). Heddesheimer Meile 7,7 km und Minimeile 4,4 km, dazu Kinderläufe. Teil des Weinheimer Nachrichten Bergstraßen-Cups. Anmeldung über Runtix. 35. Silvesterlauf am 31.12.2026: 7,7 km Heddesheimer Meile (Start laut Vorjahr 11:33 Uhr), Minimeile 4,4 km, Schülerlauf, Bambinilauf, Finale des Bergstraßen-Cups",
+   "url": "https://heddesheimer-sl.iwebfree.de/",
+   "prev": {
+    "start_time": "11:33"
+   }
   },
   {
    "id": "mergelstetter-silvesterlauf-2026",
@@ -14277,7 +14303,12 @@
    "checked": "2026-11-04",
    "lat": 48.968,
    "lon": 8.307,
-   "info": "Veranstalter FV Sportfreunde Forchheim 1911. 10 km und 5 km Jedermannlauf, Walker willkommen. Chipzeitmessung. Strecke quert kurz vor dem Ziel Straßenbahngleise (Anweisungen der VBK-Streckenposten beachten). Anmeldung öffnet laut Seite in wenigen Tagen."
+   "info": "Veranstalter FV Sportfreunde Forchheim 1911. 10 km und 5 km Jedermannlauf, Walker willkommen. Chipzeitmessung. Strecke quert kurz vor dem Ziel Straßenbahngleise (Anweisungen der VBK-Streckenposten beachten). Anmeldung öffnet laut Seite in wenigen Tagen. 31.12.2026 laut Laufkalender: 10 km um 13:00 Uhr durch den Rheinauenwald, 5 km (Laufen, Walking, Nordic Walking) um 13:20 Uhr, Chipzeitnahme",
+   "url": "https://www.sportfreunde-forchheim.de/",
+   "prev": {
+    "start_time": "13:00"
+   },
+   "start_place": "Clubhaus der Sportfreunde Forchheim, Karlsruher Straße 76, 76287 Rheinstetten"
   },
   {
    "id": "stuttgarter-silvesterlauf-weilimdorf-2026",
@@ -14336,14 +14367,18 @@
    "bezirk": "Stuttgart",
    "kreis": "LK Schwäbisch Hall",
    "date": "2027-01-06",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5"
    ],
    "source": "https://haid.app/en/events/optima-dreikonigslauf-in-schwabisch-hall-mq94j2e2",
    "checked": "2026-11-04",
    "lat": 49.111,
-   "lon": 9.739
+   "lon": 9.739,
+   "url": "https://3koenigslauf.de/",
+   "anmeldung_url": "https://my.raceresult.com/426738/registration",
+   "reg_open": "2026-10-01",
+   "info": "41. OPTIMA Dreikönigslauf am 06.01.2027, Anmeldung seit 01.10.2026. 2026 war der Lauf ausgebucht (über 3.200 Läufer). 10 km in zwei Runden durch die Altstadt, Veranstalter TSG Schwäbisch Hall"
   },
   {
    "id": "degerlocher-3-koenigslauf-2027",
@@ -14552,7 +14587,8 @@
     "start_time": "10:45"
    },
    "late_reg": "Nachmeldung bis 30 Min. vor dem Start, +2 €",
-   "start_place": "Weibertreuhalle, Rossäckerstraße, Weinsberg"
+   "start_place": "Weibertreuhalle, Rossäckerstraße, Weinsberg",
+   "url": "https://www.tsv-weinsberg.de/"
   },
   {
    "id": "tor-zur-welt-lauf-irslingen-2027",
@@ -16626,7 +16662,8 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 06.01.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 06.01.). Strecken laut hdsports. Veranstalter TuS Großweier, 10 km und Zweier-Staffel (je 5 km), Ziel Schloßfeldhalle. Termin 06.01.2027 laut Laufkalender, Startzeit 11:00 Uhr",
+   "url": "https://www.tus-grossweier.de/veranstaltungen/details/64-dreikoenigslauf.html"
   },
   {
    "id": "dreikoenigslauf-dielheim-2027",
@@ -16638,7 +16675,7 @@
    "lat": 49.284,
    "lon": 8.738,
    "date": "2027-01-06",
-   "confirmed": false,
+   "confirmed": true,
    "prev_date": "2026-01-06",
    "distances": [
     "3,4",
@@ -16646,7 +16683,11 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 06.01.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 06.01.). Strecken laut hdsports. 53. Dreikönigslauf am 06.01.2027 laut Ausschreibung: 10 km Hauptlauf um 09:30 Uhr auf asphaltiertem Radweg (18 Hm), dazu Jedermannlauf. Anmeldung über RaceResult, Startnummern ab 1. Dezember im Marathon Shop Wiesloch",
+   "url": "https://www.tv-dielheim.eu/index.php?id=264",
+   "start_time": "09:30",
+   "start_place": "Sportpark Dielheim",
+   "late_reg": "Nachmeldung am Veranstaltungstag in der Kulturhalle"
   },
   {
    "id": "winterlaufserie-djk-goeppingen-2-lauf-2027",
@@ -16666,7 +16707,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 30.01.). Strecken laut hdsports. Teil einer Winterlaufserie."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 30.01.). Strecken laut hdsports. Teil einer Winterlaufserie. Veranstalterseite nur per http erreichbar. Drei Läufe, einer vor und zwei nach dem Jahreswechsel, 5 km und 10 km sowie Kinder- und Jugendläufe",
+   "url": "http://www.djk-winterlaufserie.de/",
+   "start_place": "DJK Sportanlage Bürgerhölzle, 73033 Göppingen"
   },
   {
    "id": "winterlaufserie-djk-goeppingen-3-lauf-2027",
@@ -16686,7 +16729,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 28.02.). Strecken laut hdsports. Teil einer Winterlaufserie."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 28.02.). Strecken laut hdsports. Teil einer Winterlaufserie. Veranstalterseite nur per http erreichbar. Drei Läufe, einer vor und zwei nach dem Jahreswechsel, 5 km und 10 km sowie Kinder- und Jugendläufe",
+   "url": "http://www.djk-winterlaufserie.de/",
+   "start_place": "DJK Sportanlage Bürgerhölzle, 73033 Göppingen"
   },
   {
    "id": "hawei-by-night-5-10-km-nachtlauf-2027",
@@ -16706,7 +16751,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 28.02.). Strecken laut hdsports."
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 28.02.). Strecken laut hdsports. 6. HaWei by night am Freitag 26.02.2027 laut LSG Weiher: 5 km um 18:30 Uhr, 10 km um 19:30 Uhr, flache 5-km-Runden um den Hardtsee, Stirnlampe empfohlen. Am nächsten Morgen (27.02.) läuft der Ultralauf HaWei50 auf derselben Runde",
+   "url": "https://www.lsg-weiher.de/hawei-by-night",
+   "start_time": "18:30",
+   "prev": {
+    "fee": "10 km 12 €, 5 km 10 € (Ausgabe 2026)"
+   }
   },
   {
    "id": "neckarufer-marathon-stuttgart-2027",
@@ -16749,10 +16799,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 15.03.). Strecken laut hdsports. Veranstalter DJK Ellwangen-SG Virngrund.",
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 15.03.). Strecken laut hdsports. Veranstalter DJK Ellwangen-SG Virngrund. Veranstalter DJK-SG Ellwangen, Hobbylauf 5 km und Hauptlauf 10 km, Start an der Rundsporthalle",
    "prev": {
-    "start_time": "13:00"
-   }
+    "start_time": "13:00",
+    "fee": "5 km 7 €, Schüler 3 € (Ausgabe 2024)"
+   },
+   "url": "http://www.leichtathletik-ellwangen.de/"
   },
   {
    "id": "lindenlauf-neuenstadt-2027",
@@ -16874,7 +16926,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 22.03.). Strecken laut hdsports."
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 22.03.). Strecken laut hdsports. Auftakt des Tälescups (TSV Beuren), Hauptlauf 10 km größtenteils auf Waldwegen, dazu 3,6-km-Lauf. 2026 war die 28. Auflage am 22.03. Veranstalterseite nur per http erreichbar",
+   "url": "http://www.tsv-beuren.de/TAeLESCUP/",
+   "prev": {
+    "start_time": "09:30"
+   },
+   "start_place": "Sportplatz SV Reudern, Nürtingen-Reudern"
   },
   {
    "id": "elztaler-volkslauf-auerbach-2027",
