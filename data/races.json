@@ -14441,7 +14441,7 @@
    "bezirk": "Freiburg",
    "kreis": "LK Emmendingen",
    "date": "2027-01-17",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "10"
    ],
@@ -14452,13 +14452,15 @@
    "fee": "10 km 13 € (Nachmeldung +5 €), Kinder 5 €",
    "reg_close": "2027-01-14",
    "late_reg": "Nachmeldung bis 60 Min. vor dem Start, +5 €",
-   "start_place": "Vor der Ludwig-Jahn-Halle, Teningen",
+   "start_place": "Ludwig-Jahn-Halle, Teningen",
    "showers": "Umkleiden und Duschen in der Ludwig-Jahn-Halle",
    "aid": "Im Ziel Tee, Getränke, Suppe, Würstchen, Brezeln, Kaffee und Kuchen",
-   "info": "35. Auflage, TuS Teningen. Flache, vermessene 10 km: ca. 3 km Asphalt, 7 km Wald- und Forstwege. Spikes nicht erlaubt. Anmeldung über ladv.de. Termin 17.01.2027 laut running.life; hdsports führt ihn als Prognose (nicht fixiert). Start 2026 um 11:15 Uhr.",
+   "info": "35. Auflage, TuS Teningen. Flache, vermessene 10 km: ca. 3 km Asphalt, 7 km Wald- und Forstwege. Spikes nicht erlaubt. Anmeldung über ladv.de. Termin 17.01.2027 laut running.life; hdsports führt ihn als Prognose (nicht fixiert). Start 2026 um 11:15 Uhr. 35. Teninger Allmendlauf am Sonntag 17.01.2027 laut Ausschreibung bei LADV. 10 km flach durch den Allmend-Wald, dazu Jugendläufe, Veranstalter TuS Teningen",
    "prev": {
     "start_time": "11:15"
-   }
+   },
+   "url": "https://allmendlauf.de",
+   "anmeldung_url": "https://my.raceresult.com/427356/"
   },
   {
    "id": "crosslaufserie-oberschwaben-birkenhard-2027",
@@ -14544,12 +14546,13 @@
    "checked": "2026-11-04",
    "lat": 49.151,
    "lon": 9.288,
-   "info": "42. Auflage, TSV Weinsberg. Strecken laut Kalender 5 km; Details noch nicht veröffentlicht. Termin 07.03.2027 laut Veranstalterseite. Voranmeldung bis 4 Tage vorher. Startzeiten laut hdsports: Halbmarathon 9:40, 5 und 10 km 10:45 Uhr.",
+   "info": "42. Auflage, TSV Weinsberg. Strecken laut Kalender 5 km; Details noch nicht veröffentlicht. Termin 07.03.2027 laut Veranstalterseite. Voranmeldung bis 4 Tage vorher. Startzeiten laut hdsports: Halbmarathon 9:40, 5 und 10 km 10:45 Uhr. Veranstalter TSV Weinsberg. 2026 (41. Auflage am 08.03.): Halbmarathon, 10 km, 5 km sowie Kinderläufe",
    "prev": {
-    "fee": "Halbmarathon 18 €, 10 km 13 €, 5 km 9 € (Voranmeldung, Nachmeldung +2 €)",
+    "fee": "Halbmarathon 28 €, 10 km 18 € (Ausgabe 2026)",
     "start_time": "10:45"
    },
-   "late_reg": "Nachmeldung bis 30 Min. vor dem Start, +2 €"
+   "late_reg": "Nachmeldung bis 30 Min. vor dem Start, +2 €",
+   "start_place": "Weibertreuhalle, Rossäckerstraße, Weinsberg"
   },
   {
    "id": "tor-zur-welt-lauf-irslingen-2027",
@@ -16891,7 +16894,8 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 28.03.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 28.03.). Strecken laut hdsports. Veranstalter SG Auerbach, Teil des Drei-Flüsse-Cups. 2026 (11. Auflage) am 28.03.",
+   "url": "https://elztaler-volkslauf-2026.racepedia.de/"
   },
   {
    "id": "blaufelder-volkslauf-2027",
@@ -16960,7 +16964,11 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 04.04.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 04.04.). Strecken laut hdsports. Veranstalter TV Hürben 1913, Teil der Heidenheimer Laufserie. 2026 am 04.04., überwiegend geschotterte Wege",
+   "anmeldung_url": "https://my.raceresult.com/384568/",
+   "prev": {
+    "fee": "Hobbylauf 5,2 km und Hauptlauf 10,4 km 10 bis 13 € (Ausgabe 2026)"
+   }
   },
   {
    "id": "oepfinger-osterlauf-2027",
@@ -17025,7 +17033,11 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 12.04.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 12.04.). Strecken laut hdsports. Veranstalter TSG 1885 Wiesloch, 2026 war die 33. Auflage mit 5 km und 10 km, Start Parkstraße, Ziel Waldstadion",
+   "url": "https://www.tsg-wiesloch.org/stadtlauf",
+   "prev": {
+    "fee": "10 km 13 € (Ausgabe 2026, inkl. 0,50 € Verbandsabgabe)"
+   }
   },
   {
    "id": "muenstertaler-panorama-lauf-2027",
@@ -17044,7 +17056,13 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 18.04.). Strecken laut hdsports."
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 18.04.). Strecken laut hdsports. 10 km Landschaftslauf mit Trailabschnitt und 229 Hm, Schülerläufe 1 und 2 km, Bambinilauf 400 m. Veranstalter Ski Club Münstertal, Teil des Markgräfler Cups",
+   "url": "https://scmuenstertal.de/termine/27-muenstertaeler-panoramalauf-2026/",
+   "prev": {
+    "fee": "Hauptlauf 12 €, ermäßigt 7 € (laut Ausschreibung 2026)"
+   },
+   "start_place": "Belchenhalle Münstertal (Sportplatz)",
+   "late_reg": "Nachmeldung vor Ort war 2026 nicht möglich, Anmeldung nur über RaceResult"
   },
   {
    "id": "unterkirnacher-weihermooslauf-2027",
@@ -17063,7 +17081,8 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 18.04.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 18.04.). Strecken laut hdsports. Hauptlauf 10,6 km, Schülerlauf 1.500 m, Nordic Walking, Teil des Intersport-Denzer-Cups. Veranstalter Lauftreff Unterkirnach",
+   "url": "https://www.lauftreff-unterkirnach.de/weihermooslauf/"
   },
   {
    "id": "stadtlauf-bad-mergentheim-2027",
@@ -17106,7 +17125,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 19.04.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 19.04.). Strecken laut hdsports. Veranstalter TuS Neureut. 2026 (37. Auflage): 5 km um 9:35 Uhr und 10 km um 9:45 Uhr, flache Asphaltstrecke, dazu Kinder- und Schülerläufe",
+   "url": "https://tusneureut.de",
+   "start_place": "TuS Neureut, Rechts der langen Richtstatt 4, 76149 Karlsruhe",
+   "prev": {
+    "start_time": "09:45"
+   }
   },
   {
    "id": "rheinauenlauf-bad-bellingen-2027",
@@ -22157,7 +22181,9 @@
     null,
     500
    ],
-   "info": "39. Kaiserstuhllauf, TV Ihringen, Kaiserstuhlhalle. Termin 14.03.2027 laut hdsports vom Veranstalter bestätigt. Volkslauf 9,7 km und 17,8 km (500 Hm), dazu Kinderläufe 500 m und 1 km. Anmeldung über ladv.de."
+   "info": "39. Kaiserstuhllauf, TV Ihringen, Kaiserstuhlhalle. Termin 14.03.2027 laut hdsports vom Veranstalter bestätigt. Volkslauf 9,7 km und 17,8 km (500 Hm), dazu Kinderläufe 500 m und 1 km. Anmeldung über ladv.de. Veranstalter TV Ihringen 1921. Hauptlauf 17,8 km mit ca. 440 Hm, dazu 9,7 km, Walking und Kinderläufe, Preisgeld 150/100/75 € im Hauptlauf. 2025 ausgefallen wegen Straßenbauarbeiten",
+   "url": "https://www.tv-ihringen.de/internationaler-kaiserstuhllauf-2026.html",
+   "start_place": "Kaiserstuhlhalle, Ihringen"
   },
   {
    "id": "estelberglauf-2027",
