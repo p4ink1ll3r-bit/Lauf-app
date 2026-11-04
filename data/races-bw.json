@@ -1380,7 +1380,15 @@
    "source": "https://haid.app/en/events/lofutrail-2027-mq95seqn",
    "checked": "2026-11-04",
    "lat": 48.275,
-   "lon": 8.855
+   "lon": 8.855,
+   "elevation": [
+    270,
+    500,
+    1000
+   ],
+   "fee": "6 km 15 €, 12 km 26 € (Early Bird bis 30.11.2026, danach 29 €, Late 35 €), 26 km nicht angegeben",
+   "start_place": "Sportplatz Linde, Weilstetten, 72336 Balingen",
+   "info": "Veranstalter TV Weilstetten (Kontakt lofu-trail@tv-weilstetten.de). 26-km-Strecke mit UTMB-Index laut gotrail.run."
   },
   {
    "id": "solitudelauf-2027",
@@ -1411,8 +1419,8 @@
    "place": "Freiburg im Breisgau",
    "bezirk": "Freiburg",
    "kreis": "Stadt Freiburg",
-   "date": "2027-04-11",
-   "confirmed": false,
+   "date": "2027-04-04",
+   "confirmed": true,
    "distances": [
     "10",
     "HM",
@@ -1421,7 +1429,7 @@
    "source": "https://www.hdsports.org/laufen/freiburg-marathon",
    "checked": "2026-11-04",
    "url": "https://www.mein-freiburgmarathon.de",
-   "info": "Marathon und Halbmarathon je ca. 200 Hm. Startnummer gilt als einmalige Fahrkarte im Verkehrsverbund. Dazu Schülermarathon und Mini Marathon. Termin widersprüchlich: hdsports nennt 11.04.2027 'laut Webseite des Veranstalters', haid.app und running.life nennen 04.04.2027. Startzeiten der Ausgabe 2026: Marathon 9:00, Gesundheitslauf 9:40, Halbmarathon 10:30 Uhr.",
+   "info": "Termin 04.04.2027 laut Veranstalterseite (Veranstaltungswochenende 02.–04.04., Badeparadies-Mini-Marathon am 03.04.). Marathon ab 18, Halbmarathon ab 16 Jahren, AOK-Gesundheitslauf 10 km, Schülermarathon als Staffel. Startgeld 2027 laut hdsports: Marathon 80 €, Halbmarathon 70 €, Gesundheitslauf 48 €. Startzeiten der Ausgabe 2026: Marathon 9:00, Halbmarathon 10:30 Uhr. Marathon und Halbmarathon je ca. 200 Hm, Startnummer gilt als Fahrkarte im Verkehrsverbund.",
    "lat": 47.999,
    "lon": 7.839,
    "anmeldung_url": "https://my.raceresult.com/413679",
@@ -1433,7 +1441,8 @@
    "start_place": "Messe Freiburg",
    "showers": "Duschen, Gepäckabgabe und Physio nach dem Lauf",
    "aid": "Mehrere Verpflegungsstellen mit Wasser, Bananen, Iso",
-   "fee": "Marathon 80 €, Halbmarathon 70 €, Gesundheitslauf 10 km 48 €, Schülermarathon 49 €, Mini-Marathon 7 € (laut hdsports, Stand 2027)"
+   "fee": "Marathon 80 €, Halbmarathon 70 €, Gesundheitslauf 10 km 48 €, Schülermarathon 49 €, Mini-Marathon 7 € (laut hdsports, Stand 2027)",
+   "sold_out": "Marathon, Halbmarathon und AOK-Gesundheitslauf laut Auslastungsanzeige der Veranstalterseite zu 100 % belegt (Stand 04.11.2026, Seite enthält teils ältere Angaben). Startplatzbörse: Übernahme für 16 €."
   },
   {
    "id": "vr-halbmarathon-geislingen-2027",
@@ -1614,15 +1623,22 @@
    "bezirk": "Karlsruhe",
    "kreis": "Stadt Mannheim",
    "date": "2027-04-18",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
-   "source": "https://haid.app/en/events/soprema-neckar-run-mannheim-mvkdxg6x",
+   "source": "https://www.hdsports.org/laufen/soprema-neckar-run-mannheim",
    "checked": "2026-11-04",
    "lat": 49.496,
-   "lon": 8.481
+   "lon": 8.481,
+   "url": "https://www.soprema-triathlon-team.de/soprema-neckar-run",
+   "start_place": "Sportzentrum TSV 1846 Mannheim, Hans-Reschke-Ufer 4a (beim Fernsehturm)",
+   "prev": {
+    "fee": "10 km 14 €, 5 km (Monnemer Fünfer) 9 €, Jugendlauf 6 €, Bambini 3 € (laut hdsports, wohl Ausgabe 2026)",
+    "start_time": "11:45"
+   },
+   "info": "Veranstalter Soprema-Triathlon-Team (TSV Mannheim von 1846). Termin 18.04.2027 laut hdsports vom Veranstalter bestätigt. 10 km (Start 2026 um 11:45), 5 km Monnemer Fünfer (10:30), dazu Jugend-, Bambini- und Fackellauf Special Olympics."
   },
   {
    "id": "albside-up-the-hill-2027",
@@ -2636,8 +2652,8 @@
    "name": "Calwer Hermann-Hesse-Lauf",
    "place": "Calw",
    "kreis": "LK Calw",
-   "date": "2027-03-13",
-   "confirmed": false,
+   "date": "2027-03-20",
+   "confirmed": true,
    "distances": [
     "5",
     "10"
@@ -2646,10 +2662,15 @@
    "source": "https://running.life/de/termine/calwer-hermann-hesse-lauf",
    "start_place": "Walter-Lindner-Sporthalle, Im Krappen 2, 75365 Calw",
    "showers": "Umkleiden und Duschen in der Walter-Lindner-Sporthalle",
-   "info": "25. Auflage, 1. Lauf der Volkslaufserie Sparkasse Pforzheim Calw. Termin widersprüchlich: running.life nennt Samstag 20.03.2027 (Meldeschluss 12.03.), haid.app und eine weitere Quelle 13.03.2027 (Meldeschluss 08.03.). Dazu 5 km Walking, Meile, Kinderläufe.",
+   "info": "25. Auflage, 1. Lauf der Volkslaufserie Sparkasse Pforzheim Calw. Termin 20.03.2027 laut Veranstalterseite (haid.app nannte 13.03.). Starts: Bambini 13:00, Meile 13:40, 5 km Lauf und Walking 14:15, 10 km 15:30 Uhr. Anmeldung online bis 12.03.2027 auf calwer-laeufe.de, Zahlung bei der Startnummernausgabe. 5 km und 10 km vermessen.",
    "bezirk": "Karlsruhe",
    "lat": 48.714,
-   "lon": 8.74
+   "lon": 8.74,
+   "reg_close": "2027-03-12",
+   "start_time": "14:15",
+   "fee": "Calwer Meile 5 €, 5 km und 10 km 10 €, Schülerläufe frei, Nachmeldung +5 €",
+   "pickup": "Walter-Lindner-Sporthalle, Im Krappen 2, ab 12:00 Uhr",
+   "checked": "2026-11-04"
   },
   {
    "id": "heel-lauf-baden-baden-2027",
@@ -2889,6 +2910,163 @@
    "source": "https://gotrail.run/de/termine/neuenburger-schloss-park-run",
    "checked": "2026-11-04",
    "info": "Backyard-/Rundenlauf auf 270-m-Schotterrunde im Schlosspark mit 2-, 6- und 12-Stunden-Wertung, Transponder-Zeitmessung, Verpflegung. Termin laut gotrail.run, Strecken und Startgeld nicht beim Veranstalter geprüft."
+  },
+  {
+   "id": "remstal-lauf-2027",
+   "type": "road",
+   "name": "Remstal-Lauf",
+   "place": "Winterbach",
+   "kreis": "Rems-Murr-Kreis",
+   "date": "2027-04-18",
+   "confirmed": true,
+   "distances": [
+    "2,5",
+    "5",
+    "10",
+    "25"
+   ],
+   "url": "https://remstal-lauf.de",
+   "source": "https://running.life/de/termine/remstal-lauf",
+   "info": "33. Auflage, VfL Winterbach, DLV-genehmigt. 10 km Hauptlauf, 5 km Jedermann, 25 km Teamlauf, 4 × 2,5 km Staffel, Remstal-Cup 2,5 km, Remstal-Meile 1,6 km, Kinderlauf. Drei Teamwertungen. Anmeldung bei Erfassung noch nicht geöffnet. Startgeld und Startzeit noch nicht veröffentlicht.",
+   "checked": "2026-11-04",
+   "bezirk": "Stuttgart",
+   "lat": 48.799,
+   "lon": 9.479
+  },
+  {
+   "id": "keibellauf-huchenfeld-2027",
+   "type": "trail",
+   "name": "Keibellauf Huchenfeld",
+   "place": "Pforzheim",
+   "kreis": "Stadt Pforzheim",
+   "date": "2027-05-05",
+   "confirmed": true,
+   "distances": [
+    "4,6",
+    "9,2"
+   ],
+   "url": "https://keibellauf.de",
+   "source": "https://running.life/de/termine/keibellauf-huchenfeld",
+   "fee": "Keibellauf 9,2 km und Mini-Keibel 4,6 km 15 €, Team-Staffel 2 × 4,6 km 25 €, Kinder 5 €",
+   "start_place": "Waldparkplatz am Familienbewegungspfad, gegenüber dem Hundesportplatz, Pforzheim-Huchenfeld",
+   "showers": "Keine Duschen",
+   "late_reg": "Nachmeldegebühr ab dem Montag vor dem Lauf",
+   "info": "Mittwochabendlauf im Wald. Zahlung nur per Lastschrift. Verpflegung vom Hundesportverein Huchenfeld. Erlöse gehen an Pforzheimer Schulen (Schulsonderpreis, Teil des Sparkassen Cross Pforzheim).",
+   "checked": "2026-11-04",
+   "bezirk": "Karlsruhe",
+   "lat": 48.887,
+   "lon": 8.698
+  },
+  {
+   "id": "silvesterlauf-sigmaringen-2026",
+   "type": "road",
+   "name": "Silvesterlauf Sigmaringen",
+   "place": "Sigmaringen",
+   "kreis": "LK Sigmaringen",
+   "date": "2026-12-31",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "reg_close": "2026-12-27",
+   "limit": "1.200 Plätze je Strecke (5 km und 10 km)",
+   "anmeldung_url": "https://www.datasport.de/anmeldeservice/silvesterlaufsigmaringen2026",
+   "source": "https://running.life/de/termine/silvesterlauf-sigmaringen",
+   "info": "40. Auflage, LG Winterlingen. 5 km Sparkassen Run und 10 km Stadtwerke Run, dazu Kids Run 1,4 km und Bambini 300 m. Zahlung per SEPA-Lastschrift oder Gutschein. Stand 04.11.2026: 573 Anmeldungen. Startgeld und Startzeit nicht auf der Seite angegeben.",
+   "checked": "2026-11-04",
+   "bezirk": "Tübingen",
+   "lat": 48.077,
+   "lon": 9.246
+  },
+  {
+   "id": "swe-halbmarathon-ettlingen-2027",
+   "type": "trail",
+   "name": "SWE Halbmarathon Ettlingen",
+   "place": "Ettlingen",
+   "kreis": "LK Karlsruhe",
+   "date": "2027-07-31",
+   "confirmed": false,
+   "prev_date": "2026-08-01",
+   "distances": [
+    "HM"
+   ],
+   "url": "https://ssv-ettlingen.de",
+   "source": "https://running.life/de/termine/swe-halbmarathon-ettlingen",
+   "prev": {
+    "fee": "25 € (Ausgabe 2026, Nachmeldung mit Aufschlag)"
+   },
+   "limit": "800 Starter (2026)",
+   "start_place": "Horbachpark, Ettlingen",
+   "info": "Veranstalter SSV Ettlingen 1847, Lauftreff. Termin 2027 noch nicht veröffentlicht, geschätzt: Samstag am gleichen Wochenende wie 2026 (01.08.). Halbmarathon um Horbachpark und Horbachsee, ca. 250 m Anstieg, überwiegend befestigte Wege und Schotter, DLV-genehmigt. Wasserstellen etwa alle 3 km. Dazu Kinder- und Jugendläufe.",
+   "checked": "2026-11-04",
+   "bezirk": "Karlsruhe",
+   "lat": 48.941,
+   "lon": 8.408
+  },
+  {
+   "id": "hegau-bodensee-crosslaufserie-stockach-2027",
+   "type": "trail",
+   "name": "Hegau-Bodensee Crosslaufserie – Stockach",
+   "place": "Stockach",
+   "kreis": "LK Konstanz",
+   "date": "2027-01-17",
+   "confirmed": true,
+   "distances": [
+    "7,5"
+   ],
+   "fee": "Erwachsene 10 €, Kinder und Jugend 5 € (bei Abholung der Unterlagen)",
+   "url": "https://hegau-bodensee-cross.de",
+   "source": "https://running.life/de/termine/hegau-bodensee-crosslaufserie-stockach",
+   "start_place": "Osterholz-Stadion, Winterspürerstraße, 78333 Stockach",
+   "showers": "Umkleiden und Duschen im Vereinsheim der TG Stockach",
+   "info": "Veranstalter TG Stockach. Hauptlauf 3 Runden à ca. 2,5 km auf Wiese, Schotter und kurzen Asphaltstücken, keine Spikes. Teil der fünfteiligen Serie, Wertung aus den drei besten Läufen.",
+   "checked": "2026-11-04",
+   "bezirk": "Freiburg",
+   "lat": 47.851,
+   "lon": 9.009
+  },
+  {
+   "id": "hegau-bodensee-crosslaufserie-reichenau-2027",
+   "type": "trail",
+   "name": "Hegau-Bodensee Crosslaufserie – Reichenau",
+   "place": "Reichenau",
+   "kreis": "LK Konstanz",
+   "date": "2027-02-21",
+   "confirmed": true,
+   "distances": [
+    "6,6"
+   ],
+   "url": "https://hegau-bodensee-cross.de/serie/reichenau/",
+   "source": "https://running.life/de/termine/hegau-bodensee-crosslaufserie-reichenau",
+   "parking": "Parkplatz Reichenau Gemüse EG",
+   "showers": "Keine Duschen oder Umkleiden in diesem Jahr, Toiletten in der Feuerwehr",
+   "info": "Veranstalter SV Reichenau. Hauptlauf ca. 6,6 km. Zugleich Kreismeisterschaft für Kinder und Jugend bis U16. Handzeitmessung. Siegerehrung in der Inselhalle am Beurenhorn. Startgeld und Startzeit nicht angegeben.",
+   "checked": "2026-11-04",
+   "bezirk": "Freiburg",
+   "lat": 47.689,
+   "lon": 9.063
+  },
+  {
+   "id": "crosslaufserie-oberschwaben-vogt-2027",
+   "type": "trail",
+   "name": "Crosslaufserie Oberschwaben – 2. Lauf Vogt",
+   "place": "Vogt",
+   "kreis": "LK Ravensburg",
+   "date": "2027-01-10",
+   "confirmed": true,
+   "distances": [
+    "7,2"
+   ],
+   "url": "https://crosslaufserie-oberschwaben.de/veranstaltungsorte/10-01-2027-vogt/",
+   "source": "https://running.life/de/termine/crosslaufserie-oberschwaben-vogt",
+   "start_place": "Gegenüber dem Parkplatz des Aluminiumwerks STEP G, Vogt",
+   "pickup": "Sirgensteinhalle Vogt",
+   "info": "Veranstalter SC Vogt Leichtathletik. Hauptlauf ca. 7,2 km, Jedermann-Cross 3,6 km, dazu Kinder- und Jugendläufe. Siegerehrung und Verpflegung in der Sirgensteinhalle.",
+   "checked": "2026-11-04",
+   "bezirk": "Tübingen",
+   "lat": 47.767,
+   "lon": 9.767
   }
  ]
 }

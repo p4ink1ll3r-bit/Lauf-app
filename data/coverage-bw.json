@@ -59,7 +59,7 @@
    "bezirk": "Stuttgart",
    "prio": 6,
    "status": "in Arbeit",
-   "races": 3,
+   "races": 4,
    "checked": "2026-11-04",
    "hinweis": "Sichtung 04.11.2026 aus haid.app, gotrail.run, running.life, hdsports und Veranstalterseiten; Lücken bei Startgeld/Fristen weil 2027 meist noch nicht veröffentlicht."
   },
@@ -159,7 +159,7 @@
    "bezirk": "Karlsruhe",
    "prio": 16,
    "status": "in Arbeit",
-   "races": 3,
+   "races": 4,
    "checked": "2026-11-04",
    "hinweis": "Sichtung 04.11.2026 aus haid.app, gotrail.run, running.life, hdsports und Veranstalterseiten; Lücken bei Startgeld/Fristen weil 2027 meist noch nicht veröffentlicht."
   },
@@ -219,7 +219,7 @@
    "bezirk": "Karlsruhe",
    "prio": 22,
    "status": "in Arbeit",
-   "races": 1,
+   "races": 2,
    "checked": "2026-11-04",
    "hinweis": "Sichtung 04.11.2026 aus haid.app, gotrail.run, running.life, hdsports und Veranstalterseiten; Lücken bei Startgeld/Fristen weil 2027 meist noch nicht veröffentlicht."
   },
@@ -329,7 +329,7 @@
    "bezirk": "Freiburg",
    "prio": 33,
    "status": "in Arbeit",
-   "races": 3,
+   "races": 5,
    "checked": "2026-11-04",
    "hinweis": "Sichtung 04.11.2026 aus haid.app, gotrail.run, running.life, hdsports und Veranstalterseiten; Lücken bei Startgeld/Fristen weil 2027 meist noch nicht veröffentlicht."
   },
@@ -429,7 +429,7 @@
    "bezirk": "Tübingen",
    "prio": 43,
    "status": "in Arbeit",
-   "races": 4,
+   "races": 5,
    "checked": "2026-11-04",
    "hinweis": "Sichtung 04.11.2026 aus haid.app, gotrail.run, running.life, hdsports und Veranstalterseiten; Lücken bei Startgeld/Fristen weil 2027 meist noch nicht veröffentlicht."
   },
@@ -439,7 +439,7 @@
    "bezirk": "Tübingen",
    "prio": 44,
    "status": "in Arbeit",
-   "races": 0,
+   "races": 1,
    "checked": "2026-11-04",
    "hinweis": "04.11.2026: in den Kalendern kein passender Lauf gefunden (nicht als bewiesen zu lesen)."
   }
