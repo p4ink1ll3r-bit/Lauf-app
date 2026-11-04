@@ -20481,7 +20481,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 19.09.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 19.09.). Strecken laut hdsports. Veranstalter SpVgg Rommelshausen, Leichtathletik. 50. Schurwaldlauf war am 19.09.2026: Halbmarathon (hügelig, ca. 390 Hm), 10 km, Jedermannlauf, Kinderlauf",
+   "url": "https://www.leichtathletik-kernen.de/",
+   "start_place": "Stadion St. Rambert, Kernen-Rommelshausen"
   },
   {
    "id": "belchen-berglauf-2027",
@@ -20525,7 +20527,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 20.09.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 20.09.). Strecken laut hdsports. Veranstalter Abseitz Stuttgart e.V., Erlös für die AIDS-Hilfe Stuttgart. 20. LebenSlauf war am 20.09.2026 auf der Waldau (Strecken 5,5 km und 9,5 km, dazu tus|kids Kinderlauf). Anmeldung über die Abseitz-Seite",
+   "url": "https://www.stuttgarter-lebenslauf.de/",
+   "start_place": "Waldau, Stuttgart"
   },
   {
    "id": "trailmarathon-heidelberg-2027",
@@ -20594,7 +20598,13 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 24.09.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 24.09.). Strecken laut hdsports. 40. Stadtwerke-Volkslauf war am 24.09.2026 mit rund 1.000 Läufern, Strecken entlang der Alb, für jeden Teilnehmer wird ein Baum gepflanzt, Einnahmen großteils an DRK-Projekte",
+   "url": "https://www.stadtwerke-karlsruhe.de/de/miteinander/ausgaben/2025-2-sommer-engagement/news-volkslauf.php",
+   "prev": {
+    "fee": "5 km 8 €, 10,5 km 12 €, Kindersprint 300 m 5 € (Ausgabe 2026)",
+    "start_time": "17:30"
+   },
+   "start_place": "Betriebsgelände Stadtwerke Karlsruhe, Pfannkuchstraße 1"
   },
   {
    "id": "tuttlinger-tsf-backyard-ultra-2027",
@@ -20613,7 +20623,8 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 26.09.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 26.09.). Strecken laut hdsports. Veranstalter Tuttlinger Sportfreunde. 5. Backyard Ultra war am 26./27.09.2026 mit 100 Startplätzen (ausgebucht), 6,7-km-Runde stündlich, Qualifikationsrennen für die Team-Weltmeisterschaft",
+   "url": "https://tsftut.de/index.php/veranstaltungen/tuttlinger-backyard-ultra"
   },
   {
    "id": "spitzmueller-ag-night-run-gengenbach-2027",
@@ -20633,7 +20644,7 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 26.09.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 26.09.). Strecken laut hdsports. Veranstalter Roadrunners Südbaden. Night Run 2026 am letzten Septemberwochenende mit rund 400 Läufern: Night 10K, Fast 5K, 5K Team Run, Kids Run und Bambinilauf auf flacher Runde von ca. 2,7 km. Keine eigene Veranstalterseite gefunden"
   },
   {
    "id": "remsecker-waldlauf-2027",
@@ -20677,7 +20688,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 26.09.). Strecken laut hdsports."
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 26.09.). Strecken laut hdsports. Veranstalter Turngemeinde Germania Ötigheim 1907. 49. Ötigheimer Herbstlauf war am 26.09.2026: 5 km und 10 km (zwei Runden durch den Ötigheimer Wald) um 14:45 Uhr, dazu Kinder- und Schülerläufe, 2025 mit 500 Gemeldeten",
+   "url": "https://www.tgoetigheim.de/veranstaltungen/herbstlauf/",
+   "prev": {
+    "fee": "Teilnahme kostenlos (laut Ausgabe 2026)",
+    "start_time": "14:45"
+   }
   },
   {
    "id": "friedrichshaller-runde-2027",
@@ -20697,7 +20713,13 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 26.09.). Strecken laut hdsports."
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 26.09.). Strecken laut hdsports. Veranstalter Stadt Bad Friedrichshall. 8. Auflage war am Samstag 26.09.2026: 10 km (Wertungslauf Drei-Flüsse-Cup) und Jedermannlauf 5,7 km, Nordic Walking, Kinderläufe, flache Strecke um den Sportpark und Kocherwald, Starts 12:00 bis 13:50 Uhr",
+   "url": "https://www.friedrichshall-tourismus.de/fuehrungen-veranstaltungen/veranstaltungen/friedrichshaller-runde.html",
+   "prev": {
+    "fee": "Hauptlauf 10 km 12 € (Ausgabe 2026)"
+   },
+   "late_reg": "Nachmeldung bis 45 Minuten vor dem Start",
+   "start_place": "Sportpark Friedrichshall"
   },
   {
    "id": "durlacher-turmberglauf-2027",
@@ -20716,7 +20738,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 26.09.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 26.09.). Strecken laut hdsports. Veranstalter Turnerschaft Durlach 1846. 32. Turmberglauf war am Samstag 26.09.2026 um 16:00 Uhr: flache 10 km durch die Altstadt und entlang der Pfinz Richtung Grötzingen, Kinderläufe im Schlossgarten",
+   "url": "https://tsdurlach.de",
+   "prev": {
+    "start_time": "16:00"
+   },
+   "start_place": "Marktplatz Durlach, Ziel am Saumarkt"
   },
   {
    "id": "stadtlauf-ilshofen-2027",
@@ -20736,7 +20763,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 26.09.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 26.09.). Strecken laut hdsports. Veranstalter TSV Ilshofen im Rahmen des Ilshofener Herbstfests. 2026 am 26.09.: 10 km (zwei Runden à 4,9 km), 5 km Hobbylauf, 5 km Nordic Walking, Bambinilauf 1 km und Jugendlauf 2 km. Veranstalterseite nur per http erreichbar",
+   "url": "http://stadtlauf-ilshofen.de/ausschreibung.html",
+   "prev": {
+    "fee": "Erwachsenenläufe je 10 € bei Voranmeldung bis 22.09., 15 € vor Ort (Ausgabe 2026)"
+   },
+   "start_place": "Torturm Ilshofen, Startunterlagen in der Stadthalle"
   },
   {
    "id": "topibluetenlauf-staffort-2027",
@@ -20756,7 +20788,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 27.09.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 27.09.). Strecken laut hdsports. Veranstalter SV Staffort, Teil des Stutensee-Cups. 5. Auflage war am 27.09.2026: 10 km (Cup-Wertung, Start 2025 um 10:00 Uhr) und 5 km ohne Altersklassenwertung",
+   "url": "https://svstaffort.de/",
+   "prev": {
+    "start_time": "10:00"
+   },
+   "start_place": "Sportgelände SV Staffort, Am Sportgelände 1, 76297 Stutensee"
   },
   {
    "id": "klosterlauf-friesenheim-schuttern-2027",
@@ -20775,7 +20812,11 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 27.09.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 27.09.). Strecken laut hdsports. Veranstalter TuS Schuttern. 9. Klosterlauf war am 27.09.2026: Hauptlauf 10 km (vier Runden à 2,5 km) um 15:00 Uhr, 5-km-Hobbylauf, Staffeln, Bambinilauf 13:30 Uhr. Keine eigene Veranstalterseite geprüft",
+   "prev": {
+    "start_time": "15:00"
+   },
+   "start_place": "Offohalle, Schuttern (Friesenheim)"
   },
   {
    "id": "wehinger-fossiliuslauf-2027",
@@ -20795,7 +20836,7 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 27.09.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 27.09.). Strecken laut hdsports. Veranstalter SC Wehingen, Silberdistel-Albcup. 40. Fossiliuslauf war Ende September 2026: Hauptlauf ca. 11,2 km auf Schotterwegen im Wald mit mehreren Anstiegen, Jedermannlauf ca. 6 km, Walking, Kinderläufe, Start an der Skihütte. Keine eigene Veranstalterseite gefunden"
   },
   {
    "id": "weinheimer-herbstlauf-2027",
@@ -20882,7 +20923,13 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 27.09.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 27.09.). Strecken laut hdsports. Veranstalter Stadt Brackenheim. 27. Auflage war am 27.09.2026: 10 km ab 15 Jahren (Start 9:30 Uhr, Schießrainstraße), 5-km-Jedermannlauf, 3-km-Schülerlauf, 400-m-Läufe für Bambini und Kindergarten. Startgeld unter 18 Jahren entfällt dank Stiftung",
+   "url": "https://www.theodor-heuss-lauf.de/",
+   "prev": {
+    "start_time": "09:30"
+   },
+   "start_place": "Wiesentalstadion, Brackenheim",
+   "late_reg": "Nachmeldung am Lauftag ab 8:00 Uhr bis eine Stunde vor dem Lauf im Stadion"
   },
   {
    "id": "bergstrasse-odenwald-walk-trailrun-weinheim-2027",
@@ -20903,7 +20950,10 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 03.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 03.10.). Strecken laut hdsports. Veranstalter Odenwald-Bike-Marathon e.V. 5. Auflage war am 03.10.2026: 20, 30 und 50 km (bis ca. 1.200–1.300 Hm), schnelle Läufer können 20 oder 30 km als Trailrun laufen, 50 km mit 12 Stunden Limit, bis zu sechs Verpflegungsstellen",
+   "url": "https://www.bo50.de",
+   "late_reg": "Nachmeldung bis 30 Minuten vor dem jeweiligen Start (2026)",
+   "start_place": "Schlosshof Weinheim"
   },
   {
    "id": "djk-lauf-ludwigsburg-2027",
@@ -20923,7 +20973,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 03.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 03.10.). Strecken laut hdsports. Veranstalter DJK SG Ludwigsburg. 5. DJK-Lauf war am 03.10.2026 mit 734 Anmeldungen (Rekord): 10 km, SWLB-Lauf 5 km, Theo-Lorch-Lauf 1,3 km (mit Inklusion), Bambinilauf 500 m",
+   "url": "https://djk-lauf.de/",
+   "start_place": "DJK-Sportgelände, Schlößlesfeld, Ludwigsburg"
   },
   {
    "id": "kirchertlauf-nuertingen-2027",
@@ -20967,7 +21019,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 03.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 03.10.). Strecken laut hdsports. Veranstalter SFG Serres 1993, jedes Jahr am 3. Oktober, Schlusslauf der Volkslauf-Cup-Serie. 30. Auflage war am 03.10.2026: 10 km, 5 km, 5 km Walking, Kinderläufe 1,4 km und 0,4 km. Anmeldung über Racepedia",
+   "url": "https://sfg-serres.com/volkslauf/",
+   "start_place": "Lindenhalle, Wiernsheim"
   },
   {
    "id": "staufener-altstadtlauf-2027",
@@ -20986,7 +21040,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 03.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 03.10.). Strecken laut hdsports. Veranstalter TV Staufen 1885, Lauf des Markgräfler Cups, traditionell am 3. Oktober. Hauptlauf 6 km (sechs Runden à ca. 1 km durch die Altstadt), dazu Kinder- und Jugendläufe, rund 300 Läufer",
+   "url": "https://tvstaufen.de/abteilungen/leichtathletik",
+   "start_place": "Marktplatz Staufen"
   },
   {
    "id": "oestringer-fitnesslauf-2027",
@@ -21007,7 +21063,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 03.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 03.10.). Strecken laut hdsports. Veranstalter FC 1922 Östringen. 18. Auflage war am 03.10.2026: Halbmarathon, 10 km, 5-km-Jedermannlauf, Bambinilauf 600 m und 300 m, Anmeldung über Runtix, 0,50 € je Starter für einen sozialen Zweck",
+   "url": "https://www.fcoestringen.de/sport-fitness-oestringer-fitnesslauf/",
+   "start_place": "Josef-Küne-Waldstadion am Waldbuckel, Östringen"
   },
   {
    "id": "odenwaelder-herbstlauf-mudau-2027",
@@ -21049,7 +21107,10 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 03.10.). Strecken laut hdsports."
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 03.10.). Strecken laut hdsports. 15. Sparkassenlauf war am 03.10.2026: Horaffenlauf 10 km (vier Runden à 2,5 km durch die Innenstadt), 5 km, Walking und Nordic Walking, Staffel, Schülerläufe, 500-m-Lauf ab 3 Jahren. Teil des 4-Jahreszeiten-Laufcups, Anmeldung über RaceSolution",
+   "url": "https://sparkassenlauf-crailsheim.de/",
+   "late_reg": "Nachmeldung am Lauftag gegen 5 € Aufschlag (2026)",
+   "showers": "Umkleiden und Duschen in der Karlsberghalle"
   },
   {
    "id": "10-km-lauf-neuhuetten-2027",
@@ -21069,7 +21130,14 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 03.10.). Strecken laut hdsports."
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 03.10.). Strecken laut hdsports. Veranstalter Laufgemeinschaft Neuhütten (LG Steinknickle), Lauf des Laufcups Schwäbisch-Fränkischer Wald. 39. Auflage war am 03.10.2026: 10 km und 5,6 km Freizeitlauf auf leicht welliger, schneller Rundstrecke überwiegend auf Asphalt",
+   "url": "https://www.lgneu.de/ausschreibung/",
+   "prev": {
+    "fee": "10 km 12 €, 5,5 km 7 € (Ausgabe 2025)",
+    "start_time": "10:30"
+   },
+   "start_place": "Burgfriedenhalle, Öhringer Straße 80, Neuhütten (Wüstenrot)",
+   "late_reg": "Nachmeldung bis 30 Minuten vor dem Start (2025)"
   },
   {
    "id": "black-forest-trailrun-masters-2027",
@@ -21140,7 +21208,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 04.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 04.10.). Strecken laut hdsports. 12-Stunden-Backyard mit 6,7-km-Runde stündlich (maximal 12 Runden), Start 8:00 Uhr, ca. 100 Starter, Veranstalter Gerhard Petermann und Achim Seiter. 2025 am 03.10. mit zwei Ausgaben bisher",
+   "url": "https://backyardultra.de/veranstaltung/murr-backyard-2-2025/",
+   "start_time": "08:00"
   },
   {
    "id": "moessinger-apfellauf-2027",
