@@ -988,9 +988,9 @@
    "url": "https://my.raceresult.com/409990/",
    "reg_open": "2026-07-01",
    "reg_close": "2026-11-28",
-   "fee": null,
+   "fee": "kein Startgeld (private Veranstaltung, Teilnehmerzahl begrenzt auf 50)",
    "start_time": "08:00",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "source": "https://running.life/de/termine/kuhsee-marathon",
    "start_place": "Kiosk Pier 3 am Kuhsee, Augsburg",
    "aid": "Eigenverpflegung; Biertisch für eigene Verpflegung wird bereitgestellt (alternativ Laufrucksack); drei öffentliche Toiletten an der Strecke",
@@ -1330,9 +1330,9 @@
    "reg_close": "2026-12-01",
    "fee": "Hauptlauf 7,5 km 15 € · Hobby (2 Runden) 9 € · Jugend 6 € · U8/U10/U12 6 € · Bambini 3 €",
    "start_time": "13:45",
-   "checked": "2026-11-01",
+   "checked": "2026-11-04",
    "source": "https://running.life/de/termine/nikolauslauf-in-ochsenfurt",
-   "start_place": null,
+   "start_place": "Hauptstraße / Obere Manggasse, Ziel Rathausvorplatz, Ochsenfurt",
    "aid": null,
    "course": "Hauptlauf 5 Runden (7,5 km)",
    "pickup": null,
@@ -1396,8 +1396,9 @@
    "start_time": "11:50",
    "parking": "Bustransfer ab Schulzentrum Arnstorf, Eggenfeldener Str. 43",
    "bezirk": "Niederbayern",
-   "checked": "2026-11-01",
-   "gear_open": "nicht geprüft (kurzer Lauf)"
+   "checked": "2026-11-04",
+   "gear_open": "nicht geprüft (kurzer Lauf)",
+   "info": "Strecken laut Kalender 0,5 bis 5 km, 2025 über 220 Teilnehmer, Veranstalter LAC Arnstorf 1978"
   },
   {
    "id": "dinkelsbuhler-crosslauf-2026",
@@ -1442,14 +1443,15 @@
    "note": "Gemeinschaftslauf ohne Zeitnahme von Mainaschaff nach Klingenberg-Trennfurt mit dem Friedenslicht, Schnitt ca. 6:30 min/km; Teilstrecken ab Niedernberg (21 km), Großwallstadt (13,9 km), Obernburg (8,9 km) möglich; Spenden für Kinder- und Jugendhospizdienst Kleinheubach",
    "url": "https://friedenslichtlauf.de/",
    "source": "https://friedenslichtlauf.de/infos-zum-lauf/",
-   "checked": "2026-11-01",
+   "checked": "2026-11-04",
    "start_time": "13:30",
    "start_place": "Pfarrkirche Mainaschaff",
    "aid": "Niedernberg (Verpflegung), Großwallstadt Fährhaus, Obernburg Festplatz, Wörth Tannenturm, Ziel Trennfurt TV-Turnhalle",
    "info": "Bustransfer 13:00 ab TV-Turnhalle Trennfurt zum Start; Gepäcktransport an jeder Station (FF Trennfurt); Ziel ca. 17:30 an der TV-Turnhalle Trennfurt mit Duschen/Umkleiden; Zeiten ohne Gewähr; Online-Anmeldung",
    "bezirk": "Unterfranken",
    "kreis": "LK Aschaffenburg",
-   "showers": "Duschen/Umkleiden an der TV-Turnhalle Trennfurt (Ziel)"
+   "showers": "Duschen/Umkleiden an der TV-Turnhalle Trennfurt (Ziel)",
+   "fee": "kostenlos (Spendenlauf zugunsten des Ambulanten Kinder- und Jugendhospizdienstes Miltenberg, laut Bericht 2025)"
   },
   {
    "id": "ismaninger-winterlaufserie-2026",
@@ -1567,9 +1569,9 @@
    "reg_close": "2026-12-23",
    "fee": "5 km 18–20 € je nach Anmeldedatum · Kinderlauf 8 €",
    "start_time": "19:00",
-   "checked": "2026-11-02",
+   "checked": "2026-11-04",
    "source": "https://my.raceresult.com/430622/info",
-   "start_place": null,
+   "start_place": "Ortsmitte Aschau (an der Ampel), Ziel Chalet Aschau, Bahnhofstraße 17",
    "aid": "Zielverpflegung: Glühwein (auch alkoholfrei), Lebkuchen, Stollen",
    "course": null,
    "pickup": "28.12. ab 17:00, Priental-Halle, Schützenstraße 16, Aschau",
@@ -1954,7 +1956,7 @@
    "reg_close": "2026-12-26",
    "fee": "Bambini 6 € · Schüler 6 € · Jugend 6 € · Hobbylauf 15 € · Hauptlauf 15 € · Staffel 20 €",
    "start_time": "14:00",
-   "checked": "2026-11-02",
+   "checked": "2026-11-04",
    "source": "https://my.raceresult.com/430023/info",
    "start_place": null,
    "aid": null,
@@ -1973,7 +1975,10 @@
    "late_reg": "Möglich bis 1 Stunde vor Start, 5 € Aufschlag",
    "info": "52. Silvesterlauf des TSV 1883 Bogen; Bambini ab 13:00 Uhr, Hauptlauf 14:00 Uhr; zusätzlich 3er-Staffel",
    "bezirk": "Niederbayern",
-   "kreis": "LK Straubing-Bogen"
+   "kreis": "LK Straubing-Bogen",
+   "prev": {
+    "fee": "Bambini, Schüler, Jugend 6 €, Hobby- und Hauptlauf 15 €, Staffel 20 € (Ausgabe 2025)"
+   }
   },
   {
    "id": "silvesterlauf-nurnberg-2026",
@@ -2182,7 +2187,8 @@
     "aid": "Warme Getränke im Zielbereich"
    },
    "bezirk": "Oberpfalz",
-   "checked": "2026-11-01"
+   "checked": "2026-11-04",
+   "info": "Veranstalter CIS Amberg e.V., 7,5-km-Hauptlauf, 2,5 km, 5 km, Kinderlauf 1,1 km (laut älteren Ausschreibungen)"
   },
   {
    "id": "dreikonigslauf-starnberger-see-2027",
@@ -2322,12 +2328,16 @@
    "note": "16. Auflage; gemeinsamer Lauf ohne Zeitnahme, auch Nordic Walking 10 km; Veranstalter Run & Bike Team",
    "url": "https://runandbike-team.de/neujahrsteamlauf/",
    "source": "https://runandbike-team.de/neujahrsteamlauf/",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "aid": "Buffet nach dem Lauf im Sportheim des TSV Scheuerfeld",
    "info": "Details und Anmeldung für 2027 noch nicht veröffentlicht; GPX-Dateien 10 km und 21 km auf der Veranstalterseite; laut Veranstalter dank Sponsoren bislang ohne Startgeld",
    "bezirk": "Oberfranken",
    "kreis": "Stadt Coburg",
-   "fee": "Kein Startgeld"
+   "fee": "Kein Startgeld",
+   "start_time": "11:00",
+   "limit": "220 Teilnehmer (2025)",
+   "pickup": "Ab 9:30 Uhr",
+   "start_place": "TSV-Sportgelände, Hirtengasse, Coburg-Scheuerfeld"
   },
   {
    "id": "three-kings-ultra-trail-2027",
@@ -2356,7 +2366,7 @@
    "reg_close": null,
    "fee": "60 € (laut HDsports, ohne Jahresangabe und ohne Angabe zu den Strecken)",
    "start_time": null,
-   "checked": "2026-11-02",
+   "checked": "2026-11-04",
    "source": "https://gotrail.run/de/termine/three-kings-ultra-trail",
    "start_place": "Reichenbach am Regen (Start = Ziel)",
    "aid": null,
@@ -2378,7 +2388,8 @@
    "kreis": "LK Cham",
    "gear_open": "Veranstalterseite tkut.runfellows.com am 02.11.2026 nicht erreichbar (Adresse nicht auflösbar); hdsports.at und Kalender nennen keine Ausrüstung. Gleicher Veranstalter wie der vorWald Ultra Trail (dort Pflichtausrüstung), für Three Kings aber nicht belegt",
    "prev": {
-    "start_time": "08:00"
+    "start_time": "08:00",
+    "fee": "60 € (letzter bekannter Preis)"
    }
   },
   {
@@ -2486,12 +2497,16 @@
    "note": "12. Auflage, Crosslauf (Kinder bis Senioren M/W80); Veranstalter Arnstorfer LG; Ausgabe 18.01.2026 wurde abgesagt",
    "url": "https://info-arnstorfer-lg.jimdofree.com/",
    "source": "https://ladv.de/ausschreibung/detail/49079/12.-Crosslauf-der-Arnstorfer-LG-Arnstorf.htm",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "reg_close": "2027-01-15",
    "start_place": "Sportstätte Reitplatz, Arnstorf",
    "bezirk": "Niederbayern",
    "kreis": "LK Rottal-Inn",
-   "gear_open": "nicht geprüft (kurzer Lauf)"
+   "gear_open": "nicht geprüft (kurzer Lauf)",
+   "prev": {
+    "start_time": "12:30"
+   },
+   "info": "12. Crosslauf am 17.01.2027 laut Veranstalterseite, Anmeldung noch nicht freigeschaltet; 2025: Schüler und Jugend ab 10:40, 4,2 km 11:50, 7 km 12:30 Uhr, Startgebühr per Überweisung"
   },
   {
    "id": "dinkelsbuhler-stadtlauf-2027",
@@ -2776,9 +2791,9 @@
    "reg_close": "2027-01-18",
    "fee": "12 KM Cross-/Traillauf 15 €",
    "start_time": "10:00",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "source": "https://gotrail.run/de/termine/prellsteinrenn",
-   "start_place": null,
+   "start_place": "Neutras bei Etzelwang, Erlebnisbauernhof Res'n",
    "aid": null,
    "course": null,
    "pickup": null,
@@ -2796,7 +2811,10 @@
    "info": "Historisches Rennen im Dreierteam, rund 200 Starter; Online-Anmeldung laut haid.app derzeit geschlossen (Stand 01.11.2026)",
    "bezirk": "Oberpfalz",
    "kreis": "LK Amberg-Sulzbach",
-   "gear_open": "nicht geprüft (kurzer Lauf)"
+   "gear_open": "nicht geprüft (kurzer Lauf)",
+   "prev": {
+    "fee": "Mannschaft (3 Personen) 33 €, Einzelstarter 11 €; Nachmeldung 45 € bzw. 15 € (Ausgabe 2024)"
+   }
   },
   {
    "id": "obertrubacher-crosslauf-2027",
@@ -11897,9 +11915,9 @@
    "source": "https://www.tsv1862-neuburg.de/2025/10/28/49-neuburger-silvesterlauf-31-12-2025-ausschreibung/",
    "kreis": "LK Neuburg-Schrobenhausen",
    "start_place": "Flachslandenstr. 25, 86633 Neuburg an der Donau (Adresse laut hdsports)",
-   "info": "Veranstalter: TSV 1862 Neuburg, Leichtathletik. Die Ausschreibung für 2026 ist noch nicht veröffentlicht; Startgeld, Zeiten und Parken stammen aus der Ausschreibung 2025 (Vorjahr). Anmeldung 2025 über RaceResult bis 29.12., Nachmeldung bis 60 Minuten vor dem Start",
+   "info": "Veranstalter: TSV 1862 Neuburg, Leichtathletik. Die Ausschreibung für 2026 ist noch nicht veröffentlicht; Startgeld, Zeiten und Parken stammen aus der Ausschreibung 2025 (Vorjahr). Anmeldung 2025 über RaceResult bis 29.12., Nachmeldung bis 60 Minuten vor dem Start. 2025: Bambini 10:00, Schüler 10:15, Hauptlauf 6 km 11:00 Uhr; 50. Auflage 2026",
    "bezirk": "Oberbayern",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "anmeldung_url": "https://my.raceresult.com/368733/",
    "prev": {
     "fee": "Erwachsene 12 €, Jugend und Schüler 4 €, Bambini frei; Nachmeldung +5 € (Erwachsene) bzw. +3 € (Jugend/Schüler)",
@@ -11908,7 +11926,8 @@
     "parking": "Volksfestplatz (300 m entfernt) und Parkhalle (kostenpflichtig, 1 km entfernt)"
    },
    "showers": "Umkleide- und Duschmöglichkeiten vorhanden (Ausschreibung 2025)",
-   "note": "50. Neuburger Silvesterlauf des TSV 1862 Neuburg; Hauptlauf 6,0 km auf befestigten Waldwegen und im Stadtbereich; 2025: Jugend und Erwachsene 11:00 Uhr, Schüler 2,7 km 10:30 Uhr, Bambini und U10 0,6 km ab 10:00 Uhr; Siegerehrung mit Urkunden und Pokalen"
+   "note": "50. Neuburger Silvesterlauf des TSV 1862 Neuburg; Hauptlauf 6,0 km auf befestigten Waldwegen und im Stadtbereich; 2025: Jugend und Erwachsene 11:00 Uhr, Schüler 2,7 km 10:30 Uhr, Bambini und U10 0,6 km ab 10:00 Uhr; Siegerehrung mit Urkunden und Pokalen",
+   "late_reg": "Nachmeldung bis 60 Minuten vor dem Start (2025)"
   },
   {
    "id": "maintal-crosslauf-2027",
@@ -13430,13 +13449,14 @@
    "reg_close": "2026-11-05",
    "start_place": "Mißmahl'sche Anlagen, Hindenburgstraße 6",
    "parking": "Stadthalle, Hindenburgstraße 9",
-   "info": "9. Auflage, zugleich Kreiswaldlaufmeisterschaften. Strecke etwa 50 % Asphalt, 40 % Schotter, 10 % Trail. Spikes verboten. Nachmeldung vor Ort eventuell möglich.",
+   "info": "9. Auflage, zugleich Kreiswaldlaufmeisterschaften. Strecke etwa 50 % Asphalt, 40 % Schotter, 10 % Trail. Spikes verboten. Nachmeldung vor Ort eventuell möglich. Langstrecke 8,2 km 11:00 Uhr, Mittelstrecke 4,5 km 12:00 Uhr, Kinder 1.000 m 12:45 Uhr, Jugend 2.000 m 13:00 Uhr; zugleich Kreiswaldlaufmeisterschaften; Änderungen je nach Teilnehmerzahl vorbehalten",
    "checked": "2026-11-04",
    "lat": 48.154,
    "lon": 9.476,
    "url": "https://www.tsv-riedlingen.com/",
    "fee": "Kinder- und Jugendläufe 5 €, Mittelstrecke 4,5 km 10 €, Langstrecke 8,2 km 12 € (Nachmeldung +5 €)",
-   "late_reg": "Nachmeldung vor Ort möglich, 5 € Aufschlag"
+   "late_reg": "Nachmeldung vor Ort möglich, 5 € Aufschlag",
+   "start_time": "11:00"
   },
   {
    "id": "monnem-cross-2026",
@@ -13457,10 +13477,11 @@
    "fee": "6 km 10 €, 10 km 12 €, Jugendläufe 4 €. Nachmeldung am Lauftag 5 € Aufschlag, solange Plätze frei",
    "reg_close": "2026-11-11",
    "start_place": "Michael-Hoffmann-Stadion, Im Pfeifferswörth 13, 68167 Mannheim",
-   "info": "Cross auf etwa 2-km-Runde mit Wällen, niedrigen Hürden und Reifen. Hauptläufe ab 16 Jahren.",
+   "info": "Cross auf etwa 2-km-Runde mit Wällen, niedrigen Hürden und Reifen. Hauptläufe ab 16 Jahren. Jugend 2 km (U12/U14) 10:45 Uhr, Jugend 4 km (U16–U20) 11:10 Uhr, Hauptläufe 6 km und 10 km ca. 12:00 Uhr, inklusive Uni-Meisterschaft",
    "checked": "2026-11-04",
    "lat": 49.496,
-   "lon": 8.481
+   "lon": 8.481,
+   "start_time": "12:00"
   },
   {
    "id": "riegeler-crosslauf-2026",
@@ -13478,10 +13499,12 @@
    "source": "https://gotrail.run/de/termine/riegeler-crosslauf-rund-um-den-michaelsberg",
    "start_place": "Hinter dem Rathaus, Hauptstraße 31",
    "pickup": "Römerhalle, Forchheimer Straße 11 (ca. 600 m vom Start)",
-   "info": "50. Auflage. Hauptlauf 8,1 km (3 Runden à 2,9 km auf Asphalt und Feldwegen), dazu kürzere Läufe. Anmeldung über ladv.de.",
+   "info": "50. Auflage. Hauptlauf 8,1 km (3 Runden à 2,9 km auf Asphalt und Feldwegen), dazu kürzere Läufe. Anmeldung über ladv.de. 50. Riegeler Crosslauf am Sonntag 15.11.2026: 12:45 Hauptläufe 2.900 m und Jugend, 13:10 Bambini 520 m, 13:50 Staffeln, 14:10–14:50 Schülerläufe 840 m und 1.400 m, 15:00 Hauptlauf 8.100 m",
    "checked": "2026-11-04",
    "lat": 48.15,
-   "lon": 7.75
+   "lon": 7.75,
+   "start_time": "15:00",
+   "reg_close": "2026-11-11"
   },
   {
    "id": "crosslauf-denzlingen-2026",
@@ -13531,10 +13554,12 @@
    "late_reg": "Nachmeldung am Veranstaltungstag, 3 € Aufschlag",
    "start_place": "Sport- und Kulturhalle Süßen, Sommerauweg 11",
    "showers": "Umkleiden und Duschen in der Sporthalle",
-   "info": "Strecken nicht amtlich vermessen (Asphalt, Schotter, Waldwege). Chip in der Startnummer Pflicht. Dazu 5 km Walking und Jugendlauf 1,8 km.",
+   "info": "Strecken nicht amtlich vermessen (Asphalt, Schotter, Waldwege). Chip in der Startnummer Pflicht. Dazu 5 km Walking und Jugendlauf 1,8 km. WMF BKK AST Süßen Herbstlauf am Sonntag 22.11.2026: Jugendlauf 13:00 Uhr, 5 km und 11 km 13:30 Uhr, Walking 13:35 Uhr, Siegerehrungen 14:30 und 15:30 Uhr; keine Erstattung bei Nichtantritt",
    "checked": "2026-11-04",
    "lat": 48.679,
-   "lon": 9.755
+   "lon": 9.755,
+   "start_time": "13:30",
+   "fee": "Bühlrunde 5 km 13 € (AST-Mitglieder 10 €), Marrenwaldrunde 11 km 17 € (AST-Mitglieder 14 €), Jugendlauf 1,8 km 2 €; Nachmeldung +3 €"
   },
   {
    "id": "adventslauf-weiden-2026",
@@ -13552,10 +13577,16 @@
    "fee": "5,9 km 7 €, 10,7 km 11 € (Löwenlauf)",
    "url": "https://sportverein-weiden.de",
    "source": "https://gotrail.run/de/termine/adventslauf-weiden",
-   "info": "33. Auflage, SV Weiden. Dazu Nordic Walking 5,9 km und Schülerläufe. Anmeldung über RaceResult.",
+   "info": "33. Auflage, SV Weiden. Dazu Nordic Walking 5,9 km und Schülerläufe. Anmeldung über RaceResult. 2025: Hauptlauf, Mittelstrecke, Nordic Walking 10:00, Knirpslauf 10:10, Schülerläufe 11:15; Meldefrist Donnerstag vor dem Lauf",
    "checked": "2026-11-04",
    "lat": 48.357,
-   "lon": 8.536
+   "lon": 8.536,
+   "late_reg": "Nachmeldung bis 1 Stunde vor dem Start (2025)",
+   "start_place": "Mehrzweckhalle Weiden, Hopfauer Weg 28, 72175 Dornhan-Weiden",
+   "prev": {
+    "fee": "Hauptlauf 10,7 km 11 €, Mittelstrecke und Nordic Walking 5,9 km 7 €, Schülerläufe 5 €, Knirpslauf 0 € (Ausgabe 2025)",
+    "start_time": "10:00"
+   }
   },
   {
    "id": "nikolauslauf-schnaitheim-2026",
@@ -13577,15 +13608,17 @@
    "parking": "Parkplätze am Vereinsheim",
    "showers": "Umkleiden und Duschen am Vereinsheim",
    "aid": "keine Verpflegungsstelle auf der Strecke",
-   "info": "Strecke überwiegend Schotter mit Waldanteil, etwa 300 m Asphalt. 10 km und 5 km Fitnesslauf, dazu 5 km Walking, keine Erstattung bei Nichtantritt. Startzeiten 2025: Hauptlauf 10 km um 14:00 Uhr, Fitnesslauf 5 km und Walking um 14:15 Uhr, Kinderlauf 13:00 Uhr. 2025 erstmals Trail-Lauf. Veranstalter TSG Schnaitheim",
+   "info": "Strecke überwiegend Schotter mit Waldanteil, etwa 300 m Asphalt. 10 km und 5 km Fitnesslauf, dazu 5 km Walking, keine Erstattung bei Nichtantritt. Startzeiten 2025: Hauptlauf 10 km um 14:00 Uhr, Fitnesslauf 5 km und Walking um 14:15 Uhr, Kinderlauf 13:00 Uhr. 2025 erstmals Trail-Lauf. Veranstalter TSG Schnaitheim. 2025: Nikolausrunde 13:00, Hauptlauf 10 km 14:00, Traillauf 12 km 14:05, Zielschluss 15:30",
    "checked": "2026-11-04",
    "lat": 48.683,
    "lon": 10.15,
    "url": "https://tsg-leichtathletik-rasenkraftsport.heidenheim.com/",
    "prev": {
-    "start_time": "14:00"
+    "start_time": "14:00",
+    "fee": "10-km-Lauf 11 bis 14 € je nach Anmeldezeit (Ausgabe 2025)"
    },
-   "fee": "Hauptlauf 11 € (bis 02.12.) · Nachmeldung 14 € · Fitnesslauf 9 € (bis 02.12.) · Nachmeldung 12 € · Nikolausrunde 3 € (bis 02.12.) · Nachmeldung 6 € · Walking 6 € (bis 02.12.) · Nachmeldung 9 €"
+   "fee": "Hauptlauf 11 € (bis 02.12.) · Nachmeldung 14 € · Fitnesslauf 9 € (bis 02.12.) · Nachmeldung 12 € · Nikolausrunde 3 € (bis 02.12.) · Nachmeldung 6 € · Walking 6 € (bis 02.12.) · Nachmeldung 9 €",
+   "start_place": "Moldenberg, Heidenheim-Schnaitheim"
   },
   {
    "id": "crosslaufserie-oberschwaben-blitzenreute-2026",
@@ -13602,10 +13635,15 @@
    "url": "https://crosslaufserie-oberschwaben.de",
    "source": "https://gotrail.run/de/termine/crosslaufserie-oberschwaben-blitzenreute",
    "start_place": "Biegenburg-Halle, Blitzenreute",
-   "info": "Veranstalter SV Blitzenreute. Hauptlauf 7,5 km, Jedermann-Cross 3,6 km. Nachmeldung in der Halle.",
+   "info": "Veranstalter SV Blitzenreute. Hauptlauf 7,5 km, Jedermann-Cross 3,6 km. Nachmeldung in der Halle. Saison 2025/26: Kinderläufe ab 13:30, Jugend und Jedermanncross 14:00, Hauptlauf 7,5 km (sechs Runden) 14:30; Meldeschluss immer Donnerstag 20:00 Uhr (laut Quelle)",
    "checked": "2026-11-04",
    "lat": 47.895,
-   "lon": 9.612
+   "lon": 9.612,
+   "reg_close": "2026-12-03",
+   "prev": {
+    "start_time": "14:30",
+    "fee": "Jedermanncross 8 €, Hauptlauf 14 € (Einzelstarter, Saison 2025/26, für 2026 nicht bestätigt)"
+   }
   },
   {
    "id": "hegau-bodensee-cross-meersburg-2026",
@@ -13625,7 +13663,10 @@
    "info": "Veranstalter TuS Meersburg. Hauptlauf 3 Runden, ca. 6,5 km. Termin laut Seite nur 'nächster geplanter Termin', Änderung oder Absage möglich. Keine Duschen und Umkleiden in diesem Jahr.",
    "checked": "2026-11-04",
    "lat": 47.694,
-   "lon": 9.271
+   "lon": 9.271,
+   "fee": "Erwachsene 10 €, Kinder bis Jugend U20 5 € (bar am Veranstaltungstag), Nachmeldung +2 €",
+   "reg_close": "2026-11-05",
+   "late_reg": "Nachmeldung am Veranstaltungstag ab 9:00 Uhr bis kurz vor dem Start"
   },
   {
    "id": "rohrwanglauf-2026",
@@ -13647,7 +13688,13 @@
    "url": "https://rohrwanglauf.de",
    "start_place": "Stadion im Rohrwang, Aalen",
    "showers": "Umkleiden und Duschen im Sportzentrum Rohrwang",
-   "info": "Veranstalter Aalener Sportallianz (Leichtathletik und Triathlon). Dazu Rohrwangmeile 1,6 km. Anmeldung über ladv.de. 5-km-Strecke laut Seite 5,4 km."
+   "info": "Veranstalter Aalener Sportallianz (Leichtathletik und Triathlon). Dazu Rohrwangmeile 1,6 km. Anmeldung über ladv.de. 5-km-Strecke laut Seite 5,4 km. Rohrwangmeile 10:45 Uhr, übrige Läufe gemeinsam 11:00 Uhr",
+   "start_time": "10:45",
+   "reg_close": "2026-11-06",
+   "late_reg": "Nachmeldung am Samstag bis 1 Stunde vor den Läufen (früher +3 €)",
+   "prev": {
+    "fee": "Rohrwangmeile 1,6 km 5 €, 5,4 km 10 € (Jahrgang 2006–2011 6 €), 10 km 10 € (Ausgabe 2025)"
+   }
   },
   {
    "id": "waldhaegenich-lauf-2026",
@@ -13672,8 +13719,10 @@
    "start_place": "Gärtnerei-Gewächshaus am Naturschutzgebiet Waldhägenich, Lindenstraße, 77815 Bühl-Oberweier",
    "late_reg": "Keine Nachmeldung vor Ort",
    "aid": "Getränke, Suppe, Kaffee und Kuchen",
-   "info": "10. Auflage. Mindestalter 16 Jahre. Nur Online-Anmeldung (Wero, Klarna, Überweisung), Meldeschluss Freitag 6.11. 15 Uhr oder früher bei 500 Anmeldungen. Dazu 5,3 km Walking. Überschüsse gehen an ein Naturschutzprojekt.",
-   "url": "https://www.waldhaegenich-lauf.de/"
+   "info": "10. Auflage. Mindestalter 16 Jahre. Nur Online-Anmeldung (Wero, Klarna, Überweisung), Meldeschluss Freitag 6.11. 15 Uhr oder früher bei 500 Anmeldungen. Dazu 5,3 km Walking. Überschüsse gehen an ein Naturschutzprojekt. 5 km und 5-km-Walking 13:50 Uhr, 10 km 14:00 Uhr, Siegerehrung ab ca. 15:45 Uhr, Teilnahme ab 16 Jahren, Meldeschluss Freitag 06.11. 15:00 Uhr oder bei Erreichen des Limits",
+   "url": "https://www.waldhaegenich-lauf.de/",
+   "start_time": "13:50",
+   "pickup": "Ab 12:00 Uhr"
   },
   {
    "id": "internationaler-hohenzollernberglauf-2026",
@@ -13698,7 +13747,10 @@
    "anmeldung_url": "https://www.anmeldungs-service.de/hohenzollernberglauf2026/",
    "info": "Bergauflauf, ca. 8,1 km mit 365 Hm. Teilnehmerlimit erreicht (Stand 04.11.2026 keine freien Startplätze laut Anmeldeseite)",
    "fee": "Berglauf 8,1 km (365 Hm) 20 € inkl. Finisher-Shirt, davon 1 € Spende (Anmeldeschluss 04.11.2026); Vereinsmitglieder des Ski-Club Hechingen kostenlos",
-   "start_time": "10:00"
+   "start_time": "10:00",
+   "reg_close": "2026-11-04",
+   "limit": "600 Teilnehmer",
+   "start_place": "Weiherstadion Hechingen"
   },
   {
    "id": "bibersfelder-herbstlauf-2026",
@@ -13721,7 +13773,9 @@
    "url": "https://stadtwerke-hall.de",
    "pickup": "Sporthalle Bibersfeld, samstags nachmittags und sonntags vormittags (bis 45 Min. vor dem jeweiligen Start)",
    "start_place": "Luckenbacher Straße 42, Bibersfeld",
-   "info": "7. Auflage, Teil der Reihe 'Stadtwerke – Läuft bei dir'. Online-Anmeldung über ladv.de."
+   "info": "7. Auflage, Teil der Reihe 'Stadtwerke – Läuft bei dir'. Online-Anmeldung über ladv.de. Zeiten laut Stadtwerke-Seite (ohne Jahresangabe): 600 m 10:00, 1,2 km 10:30, 1,8 km 11:00, Walking und 5 km 11:45, 10 km 11:59 Uhr (2025 war der 10-km-Start um 12:00)",
+   "start_time": "11:59",
+   "late_reg": "Nachmeldung bis 45 Minuten vor dem Start"
   },
   {
    "id": "obersulmer-volkslauf-2026",
@@ -13772,7 +13826,10 @@
    "lon": 10.064,
    "url": "https://geologenlauf.de",
    "start_place": "Wentalhalle (neu gebaut), Steinheim am Albuch",
-   "info": "36. Auflage, TV Steinheim. 5 km Fitnesslauf (ab 10 J.), 10 km Geologenlauf (ab 12 J.), dazu 7 km Walking/Nordic Walking und Schülerläufe. Anmeldung über RaceResult."
+   "info": "36. Auflage, TV Steinheim. 5 km Fitnesslauf (ab 10 J.), 10 km Geologenlauf (ab 12 J.), dazu 7 km Walking/Nordic Walking und Schülerläufe. Anmeldung über RaceResult. 10 km und 5 km Fitnesslauf 11:00 Uhr, Walking 11:05 Uhr, Online-Voranmeldung bis Mittwoch 04.11. 20:00 Uhr",
+   "start_time": "11:00",
+   "fee": "10 km 12 € (Nachmeldung 17 €), Fitnesslauf 5 km 10 € (Nachmeldung 15 €), inkl. Verbandsabgabe",
+   "reg_close": "2026-11-04"
   },
   {
    "id": "stirnlampenlauf-tuttlingen-2026",
@@ -13794,7 +13851,8 @@
    "reg_close": "2026-11-09",
    "url": "https://runundfun.de",
    "start_place": "Mutpol, Im Steinigen Tal 10/1, Tuttlingen",
-   "info": "Abendlauf mit Stirnlampe (Pflicht), ohne Zeitmessung. Strecke entlang der Bahnlinie nach Nendingen und zurück über die Gollhöfe. Im Ziel Pasta und kalte Getränke."
+   "info": "Abendlauf mit Stirnlampe (Pflicht), ohne Zeitmessung. Strecke entlang der Bahnlinie nach Nendingen und zurück über die Gollhöfe. Im Ziel Pasta und kalte Getränke.",
+   "start_time": "19:00"
   },
   {
    "id": "6-oder-12h-run-freudenstadt-gruental-14-15-november-2026",
@@ -13841,7 +13899,9 @@
    "start_time": "10:00",
    "reg_close": "2026-11-15",
    "fee": "Halbmarathon 69 €, Marathon 89 € (reguläre Anmeldung bis 15.11.2026)",
-   "cutoff": "Halbmarathon 3:00 h, Marathon 5:45 h, Zielschluss 16:00 Uhr"
+   "cutoff": "Halbmarathon 3:00 h, Marathon 5:45 h, Zielschluss 16:00 Uhr",
+   "pickup": "Freitag 20.11. 15–18 Uhr im Welcome Center (Am Motodrom 1); Samstag im Kongress-Pavillon: Marathon 7:30–9:45 Uhr, Halbmarathon 7:30–11:00 Uhr",
+   "start_place": "Hockenheimring Grand-Prix-Kurs, Am Motodrom 1, 68766 Hockenheim (Marathon-Start Eingang Ostkurve, Halbmarathon-Start Parabolika)"
   },
   {
    "id": "stadtwerke-night-run-sindelfingen-2026",
@@ -13864,7 +13924,9 @@
    "late_reg": "Online-Nachmeldung bis kurz vor dem Start, auch am Lauftag vor Ort",
    "anmeldung_url": "https://my.raceresult.com/375778",
    "pickup": "Stahl Sport Shop in Maichingen oder Glaspalast Sindelfingen",
-   "info": "Veranstalter Event Service Stahl. Stirnlampe oder Taschenlampe Pflicht (unbeleuchtete Waldwege)."
+   "info": "Veranstalter Event Service Stahl. Stirnlampe oder Taschenlampe Pflicht (unbeleuchtete Waldwege). Kinder- und Schülerläufe ab 16:30 bzw. 16:45 Uhr, Hauptläufe gemeinsam 18:00 Uhr, Stirnlampe Pflicht auf 6 und 10 km",
+   "start_time": "18:00",
+   "start_place": "Glaspalast Sindelfingen, Rudolf-Harbig-Straße 10, 71063 Sindelfingen"
   },
   {
    "id": "boennigheimer-stromberglauf-2026",
@@ -13890,8 +13952,9 @@
    "start_place": "Strombergkeller, Cleebronner Straße 70, Bönnigheim",
    "late_reg": "Nachmeldung online und vor Ort, 17 €",
    "showers": "Umkleiden und Gepäckaufbewahrung vorhanden",
-   "info": "5 km und 10 km amtlich vermessen (Bestenlisten), 5 Startblöcke nach angegebener Zeit. Keine Hunde, Kinderwagen, Stöcke, Kopfhörer.",
-   "reg_open": "2026-10-06"
+   "info": "5 km und 10 km amtlich vermessen (Bestenlisten), 5 Startblöcke nach angegebener Zeit. Keine Hunde, Kinderwagen, Stöcke, Kopfhörer. 28. Stromberglauf am 21.11.2026: Schülerlauf 2 km 13:30 Uhr, 5 und 10 km gemeinsam 14:15 Uhr in fünf Startblöcken nach Anmeldezeit (Startseite nennt 14:00 Uhr, hdsports zeigt fälschlich 14.11.)",
+   "reg_open": "2026-10-06",
+   "start_time": "14:15"
   },
   {
    "id": "mittelbaden-nikolauslauf-2026",
@@ -13914,7 +13977,9 @@
    "url": "https://lg-geroldseck-lahr.com",
    "start_place": "Geroldsecker Halle, Sportplatzstraße 13, 77933 Lahr-Reichenbach",
    "pickup": "Geroldsecker Halle",
-   "info": "33. Auflage. 5 km (eine Runde, zwei kurze Anstiege) und 10 km (zwei Runden) auf Asphalt und Waldwegen, DLV-vermessen. Dazu 5,5 km Walking. Anmeldung über RaceResult."
+   "info": "33. Auflage. 5 km (eine Runde, zwei kurze Anstiege) und 10 km (zwei Runden) auf Asphalt und Waldwegen, DLV-vermessen. Dazu 5,5 km Walking. Anmeldung über RaceResult. 5 km und 10 km 14:00 Uhr, Walking 5,5 km 14:10 Uhr",
+   "start_time": "14:00",
+   "reg_open": "2026-09-01"
   },
   {
    "id": "bernhard-marathon-2026",
@@ -13979,7 +14044,13 @@
    "lon": 9.246,
    "url": "https://sc-ilsfeld.de/nikolauslauf",
    "anmeldung_url": "https://my.raceresult.com/418121",
-   "info": "32. Auflage, SC Ilsfeld. 10 km und 5 km an der Schozach, dazu Schullauf und Kinderlauf 1,6 km. 66 Altersklassen. Findet bei jeder Witterung statt. Der erste Läufer im Nikolauskostüm bekommt einen Preis."
+   "info": "32. Auflage, SC Ilsfeld. 10 km und 5 km an der Schozach, dazu Schullauf und Kinderlauf 1,6 km. 66 Altersklassen. Findet bei jeder Witterung statt. Der erste Läufer im Nikolauskostüm bekommt einen Preis. 32. Nikolauslauf: Schülerlauf 10:00, 5 km 10:30, 10 km 11:30 Uhr; Startnummer mit Vornamen bei Anmeldung bis 27.11.",
+   "start_time": "11:30",
+   "fee": "10 km 14 € (12 € bis 31.10., ab 01.12. 19 €), 5 km 12 € (ab 01.12. 17 €), Schülerlauf 1,6 km 6 € (ab 01.12. 11 €)",
+   "reg_close": "2026-12-05",
+   "pickup": "Samstag 05.12. 16–18 Uhr und Sonntag 06.12. ab 8:30 Uhr an der Gemeindehalle",
+   "late_reg": "Online bis 05.12. Mitternacht, am Veranstaltungstag vor Ort",
+   "start_place": "Gemeindehalle Ilsfeld"
   },
   {
    "id": "itdesign-nikolauslauf-tuebingen-2026",
@@ -14003,7 +14074,10 @@
    ],
    "sold_out": "Halbmarathon laut Kalender ausverkauft",
    "start_place": "Tübingen, Schönbuch (Strecke durch den Naturpark)",
-   "info": "Veranstalter Post-SV Tübingen. Vermessener Halbmarathon, überwiegend Waldschotterwege mit ca. 8,5 km Asphalt, ca. 300 Hm, größter Höhenunterschied 82 m. Dazu virtueller 10-km-Lauf und Schulprojekt. Finisher-Medaille kostenlos, Gravur 10 €. Funktionsshirt, Massage, Wertsachendepot im Startgeld."
+   "info": "Veranstalter Post-SV Tübingen. Vermessener Halbmarathon, überwiegend Waldschotterwege mit ca. 8,5 km Asphalt, ca. 300 Hm, größter Höhenunterschied 82 m. Dazu virtueller 10-km-Lauf und Schulprojekt. Finisher-Medaille kostenlos, Gravur 10 €. Funktionsshirt, Massage, Wertsachendepot im Startgeld.",
+   "start_time": "10:00",
+   "reg_close": "2026-11-16",
+   "late_reg": "keine Nachmeldung"
   },
   {
    "id": "spiegelberger-raeuberweglauf-2026",
@@ -14048,9 +14122,14 @@
    "checked": "2026-11-04",
    "url": "https://crosslaufserie-oberschwaben.de",
    "start_place": "Durlesbachhalle Reute, Jahnstraße 5",
-   "info": "Hauptlauf 8,0 km, Jedermann-Cross 4,0 km.",
+   "info": "Hauptlauf 8,0 km, Jedermann-Cross 4,0 km. Meldeschluss jeweils Donnerstag 20:00 Uhr; Termin 20.12.2026 nicht bestätigt (Reute war 2025/26 der Termin am 01.02.)",
    "lat": 47.92,
-   "lon": 9.755
+   "lon": 9.755,
+   "reg_close": "2026-12-17",
+   "prev": {
+    "start_time": "14:30",
+    "fee": "Jedermanncross 8 €, Hauptlauf 14 € (Saison 2025/26, nicht bestätigt)"
+   }
   },
   {
    "id": "hegau-bodensee-crosslaufserie-radolfzell-markelfingen-2026",
@@ -14069,9 +14148,13 @@
    "url": "https://hegau-bodensee-cross.de",
    "parking": "Parkplatz Waldfriedhof Markelfingen (begrenzt)",
    "pickup": "Markolfhalle, Pirminweg 5, Radolfzell-Markelfingen",
-   "info": "Hauptlauf ca. 7 km. Termin laut Seite geplant, kann geändert werden.",
+   "info": "Hauptlauf ca. 7 km. Termin laut Seite geplant, kann geändert werden. Bambini und U10/U12 ab 10:00 Uhr, Jugend U14/U16 10:30, Kurzstrecke und Hauptlauf 11:00 Uhr, Hauptlauf ca. 6,5–7 km; Online-Anmeldung bis Donnerstag vor dem Lauf",
    "lat": 47.742,
-   "lon": 8.971
+   "lon": 8.971,
+   "start_time": "11:00",
+   "fee": "Erwachsene 10 €, Kinder bis Jugend U20 5 € (bar bei der Startnummernausgabe ab 9:00 Uhr), Nachmeldung am Veranstaltungstag +2 €",
+   "reg_close": "2026-12-10",
+   "start_place": "Markolfhalle, Markelfingen (nahe Mindelsee)"
   },
   {
    "id": "britzinger-silvesterlauf-2026",
@@ -14095,7 +14178,11 @@
    "url": "https://silvesterlauf-britzingen.de",
    "pickup": "Grundschule Britzingen, Di 30.12. 15:00–18:30 und Mi 31.12. 09:00–12:45",
    "late_reg": "Keine Anmeldung vor Ort, nur online",
-   "info": "42. Auflage, TV Britzingen Lauftreff. 10-km-Runde Britzingen, Güttigheim, St. Ilgen, Buggingen, Dattingen. Online-Anmeldung seit 01.09.2026, geschlossen bei 1.100 Startern oder am 17.12. 23:59. Alle Finisher bekommen eine Neujahrsbrezel."
+   "info": "42. Auflage, TV Britzingen Lauftreff. 10-km-Runde Britzingen, Güttigheim, St. Ilgen, Buggingen, Dattingen. Online-Anmeldung seit 01.09.2026, geschlossen bei 1.100 Startern oder am 17.12. 23:59. Alle Finisher bekommen eine Neujahrsbrezel.",
+   "start_place": "Markgräflerstraße, Britzingen (vor der Kirche), Ziel St.-Johannes-Kirche",
+   "prev": {
+    "start_time": "13:30"
+   }
   },
   {
    "id": "gruental-winterultra-2026",
@@ -14115,9 +14202,10 @@
    "fee": "45 €, vor dem Start überweisen oder bar zahlen",
    "start_place": "Haldenstraße 10, 72250 Freudenstadt-Grüntal",
    "late_reg": "Nachmeldung am Starttag kurz vor dem Start möglich",
-   "info": "4 Runden à 12,5 km auf Feld- und Waldwegen, leicht hügelig, nur Gesamtwertung, kein Zeitlimit. Verpflegung inklusive. Anmeldung per E-Mail.",
+   "info": "4 Runden à 12,5 km auf Feld- und Waldwegen, leicht hügelig, nur Gesamtwertung, kein Zeitlimit. Verpflegung inklusive. Anmeldung per E-Mail. 28.12.2026, 50 km in vier Runden à 12,5 km, kein Zeitlimit, Anmeldung per E-Mail an den Veranstalter (hdsports nennt 7:45 Uhr und ab 34 €, Veranstalter maßgeblich)",
    "lat": 48.467,
-   "lon": 8.414
+   "lon": 8.414,
+   "start_time": "08:00"
   },
   {
    "id": "hohenloher-silvesterlauf-2026",
@@ -14138,7 +14226,11 @@
    "lon": 10.01,
    "url": "https://hohenloher-silvesterlauf.de",
    "start_place": "Vor dem Sportheim in Hengstfeld",
-   "info": "40. Auflage, Freizeitsportgruppe der SpVgg Hengstfeld-Wallhausen. Teil des 4-Jahreszeiten-Laufcups. Online-Anmeldung ab Mitte November 2026."
+   "info": "40. Auflage, Freizeitsportgruppe der SpVgg Hengstfeld-Wallhausen. Teil des 4-Jahreszeiten-Laufcups. Online-Anmeldung ab Mitte November 2026.",
+   "start_time": "13:00",
+   "prev": {
+    "fee": "10 km 13 € inkl. MwSt. (Ausgabe 2025)"
+   }
   },
   {
    "id": "bietigheimer-silvesterlauf-2026",
@@ -14158,7 +14250,10 @@
    "lon": 9.117,
    "url": "https://lgne-running.de/silvesterlauf",
    "late_reg": "Nur Online-Anmeldung, Startplätze begrenzt (in früheren Jahren ausgebucht)",
-   "info": "Zwei Runden durch die Altstadt und die Enzwiesen, überwiegend Asphalt. Mindestalter 14. Startblöcke nach aktueller 10-km-Zeit. Mannschaftswertung automatisch. Keine Kinderwagen, Stöcke, Hunde, Radbegleiter."
+   "info": "Zwei Runden durch die Altstadt und die Enzwiesen, überwiegend Asphalt. Mindestalter 14. Startblöcke nach aktueller 10-km-Zeit. Mannschaftswertung automatisch. Keine Kinderwagen, Stöcke, Hunde, Radbegleiter.",
+   "start_time": "14:00",
+   "fee": "gestaffelt nach Startplatz-Nummer: Plätze 1–1.000 22 €, 1.001–2.000 26 €, 2.001–3.000 30 €, ab 3.001 34 €",
+   "start_place": "Sporthalle am Viadukt, Holzgartenstraße 28, Bietigheim-Bissingen"
   },
   {
    "id": "silvesterlauf-tettnang-2026",
@@ -14177,8 +14272,11 @@
    "checked": "2026-11-04",
    "lat": 47.669,
    "lon": 9.591,
-   "info": "35. VoBa-Silvesterlauf, Abteilung Freizeitsport TSV 1848 Tettnang. Strecken laut Kalender 5 und 10 km (nicht beim Veranstalter geprüft). Infos im Jahresprogramm des TSV.",
-   "url": "https://tsv-tettnang.de"
+   "info": "35. VoBa-Silvesterlauf, Abteilung Freizeitsport TSV 1848 Tettnang. Strecken laut Kalender 5 und 10 km (nicht beim Veranstalter geprüft). Infos im Jahresprogramm des TSV. Kein Zeitlauf, keine Platzierung: Strecken 2,3 / 4,3 / 6,3 / 10,5 km werden per Stempel auf der Laufkarte gezählt; Startzeitraum 12:00–14:00 Uhr, Streckenkontrolle bis 15:30 Uhr",
+   "url": "https://tsv-tettnang.de",
+   "start_time": "12:00",
+   "fee": "4 € (Kinder und Jugendliche bis 17 Jahre frei)",
+   "start_place": "Waldparkplatz Schäferhof, Tettnang"
   },
   {
    "id": "silvesterlauf-fluorn-winzeln-2026",
@@ -14199,12 +14297,13 @@
    "start_place": "Mehrzweckhalle, Schulstraße, 78737 Fluorn-Winzeln",
    "showers": "Umkleiden, Duschen und WC in der Sporthalle",
    "aid": "Tee bis eine Stunde nach dem Ziel, Essen und Getränke in der Halle",
-   "info": "Veranstalter VfL Fluorn 1967. Hauptlauf 6,4 km mit deutlichen Steigungen, dazu 2,8 km und 1,4 km für Kinder und Jugend. Läuft bei jedem Wetter. Anmeldung über RaceResult. Hauptlauf 6,4 km, anspruchsvoll mit Steigungen, Jugend 2,8 km, Kinder 1,4 km. Veranstalter VfL Fluorn, Anmeldung über RaceResult",
+   "info": "Veranstalter VfL Fluorn 1967. Hauptlauf 6,4 km mit deutlichen Steigungen, dazu 2,8 km und 1,4 km für Kinder und Jugend. Läuft bei jedem Wetter. Anmeldung über RaceResult. Hauptlauf 6,4 km, anspruchsvoll mit Steigungen, Jugend 2,8 km, Kinder 1,4 km. Veranstalter VfL Fluorn, Anmeldung über RaceResult. 52. Silvesterlauf: 2025 Kinder 1,4 km 11:30, Jugend 2,8 km 11:45, Hauptlauf 6,4 km 12:15 Uhr, Anmeldung über RaceResult bis 30.12.; Anmeldung 2026 ab Mitte November",
    "url": "https://www.silvesterlauf-fluorn.de/",
    "prev": {
     "fee": "Hauptlauf 12 €, Kinder und Jugend bis U16 6 € (Ausgabe 2025)",
     "start_time": "12:15"
-   }
+   },
+   "reg_open": "2026-11-15"
   },
   {
    "id": "silvesterlauf-auf-die-burg-teck-2026",
@@ -14225,9 +14324,13 @@
    "elevation": [
     459
    ],
-   "info": "Kein Wettkampf, gemeinsames Ankommen (17,84 km). Veranstalter Lauftreff Kirchheim. Keine Anmeldung nötig. Kleiderablage am Rathaus.",
+   "info": "Kein Wettkampf, gemeinsames Ankommen (17,84 km). Veranstalter Lauftreff Kirchheim. Keine Anmeldung nötig. Kleiderablage am Rathaus. Haupt-Start 15:00 Uhr, optional Frühstart 14:30 Uhr, Ankunft am Gaiserplatz mit Fackelläufern gegen 17:00 Uhr; finale Startzeit sollte bis 01.11.26 entschieden werden",
    "lat": 48.647,
-   "lon": 9.454
+   "lon": 9.454,
+   "start_place": "Rathaus Kirchheim unter Teck, Marktstraße 14",
+   "prev": {
+    "start_time": "15:00"
+   }
   },
   {
    "id": "silvesterlauf-heddesheim-2026",
@@ -14252,7 +14355,9 @@
    "url": "https://heddesheimer-sl.iwebfree.de/",
    "prev": {
     "start_time": "11:33"
-   }
+   },
+   "fee": "Minimeile 4,4 km und Heddesheimer Meile 7,7 km 14 € bis 12.10., 15 € (13.10.–15.11.), 16 € (16.11.–10.12.), 17 € (11.12.–24.12.), 19 € ab 25.12.; Bambini- und Schülerlauf 4 € bis 7 €",
+   "late_reg": "Nachmeldung vor Ort mit Aufschlag (3 € Bambini/Schüler, 5 € Meilenläufe, Formulierung unklar)"
   },
   {
    "id": "mergelstetter-silvesterlauf-2026",
@@ -14272,8 +14377,13 @@
    "lat": 48.683,
    "lon": 10.15,
    "anmeldung_url": "https://my.raceresult.com/419461",
-   "info": "12. Auflage, SV Mergelstetten. Anmeldung laut Seite 'bald' geöffnet.",
-   "reg_open": "2026-11-01"
+   "info": "12. Auflage, SV Mergelstetten. Anmeldung laut Seite 'bald' geöffnet. 10 km und 5 km, nur Online-Anmeldung, Zielschluss 11:25 Uhr (2025); Veranstalterseite outdoor.svmergelstetten.de/ausschreibung/",
+   "reg_open": "2026-11-01",
+   "limit": "650 Starter (2025)",
+   "start_place": "Arphalde, Heidenheim-Mergelstetten",
+   "prev": {
+    "fee": "8 bis 13 € (Ausgabe 2025)"
+   }
   },
   {
    "id": "backnanger-silvesterlauf-2026",
@@ -14290,13 +14400,18 @@
    ],
    "source": "https://haid.app/en/events/backnanger-silvesterlauf-muey5cn4",
    "checked": "2026-11-04",
-   "info": "5 km (2 Runden) und 10 km (4 Runden à 2,5 km), dazu Staffel 3 × 2,5 km, Mini-Marathon 2,5 km und Bambinilauf. Preisgeld 200/100/50 € im Hauptlauf, Kostümpreis. Frühbucher bis 15.11. vorbei.",
+   "info": "5 km (2 Runden) und 10 km (4 Runden à 2,5 km), dazu Staffel 3 × 2,5 km, Mini-Marathon 2,5 km und Bambinilauf. Preisgeld 200/100/50 € im Hauptlauf, Kostümpreis. Frühbucher bis 15.11. vorbei. Bambinilauf 500 m 14:00, Mini-Marathon 2,5 km 14:10, Teamstaffel und BKZ-Lauf 14:15, Hauptlauf 10 km (vier Runden à 2,5 km) 15:10 Uhr; Frühbucherfrist bis 15.11., Anmeldung bis 27.12., Online-Nachmeldung am Lauftag bis 12:00 Uhr",
    "lat": 48.947,
    "lon": 9.437,
    "url": "https://backnanger-silvesterlauf.de",
    "reg_close": "2026-12-27",
    "late_reg": "Nachmeldung am Lauftag bis 12:00 Uhr, solange Plätze frei (Staffel ausgenommen)",
-   "pickup": "Rennbüro am Lauftag oder INTERSPORT GRABERT am 29. und 30.12."
+   "pickup": "Rennbüro am Lauftag oder INTERSPORT GRABERT am 29. und 30.12.",
+   "start_time": "15:10",
+   "start_place": "Biegel (Seniorenbüro) am Willy-Brandt-Platz, Backnang; Siegerehrung am Rathaus ca. 16:30 Uhr",
+   "prev": {
+    "fee": "Hauptlauf 17–25 €, BKZ-Lauf 14–20 €, Team-Staffel 40–45 €, Mini-Marathon 7–11 €, Bambini und Inklusionslauf frei (Richtwerte 2025)"
+   }
   },
   {
    "id": "forchheimer-silvesterlauf-2026",
@@ -14315,12 +14430,14 @@
    "checked": "2026-11-04",
    "lat": 48.968,
    "lon": 8.307,
-   "info": "Veranstalter FV Sportfreunde Forchheim 1911. 10 km und 5 km Jedermannlauf, Walker willkommen. Chipzeitmessung. Strecke quert kurz vor dem Ziel Straßenbahngleise (Anweisungen der VBK-Streckenposten beachten). Anmeldung öffnet laut Seite in wenigen Tagen. 31.12.2026 laut Laufkalender: 10 km um 13:00 Uhr durch den Rheinauenwald, 5 km (Laufen, Walking, Nordic Walking) um 13:20 Uhr, Chipzeitnahme",
+   "info": "Veranstalter FV Sportfreunde Forchheim 1911. 10 km und 5 km Jedermannlauf, Walker willkommen. Chipzeitmessung. Strecke quert kurz vor dem Ziel Straßenbahngleise (Anweisungen der VBK-Streckenposten beachten). Anmeldung öffnet laut Seite in wenigen Tagen. 31.12.2026 laut Laufkalender: 10 km um 13:00 Uhr durch den Rheinauenwald, 5 km (Laufen, Walking, Nordic Walking) um 13:20 Uhr, Chipzeitnahme. 10 km 14:00 Uhr, 5 km Jedermannlauf 14:10 Uhr laut hdsports (Vereinsseite 2026 nicht geprüft; runme nannte 13:00/13:20), Anmeldung über die Vereinsseite bis zum Erreichen des Limits",
    "url": "https://www.sportfreunde-forchheim.de/",
    "prev": {
-    "start_time": "13:00"
+    "start_time": "13:00",
+    "fee": "Erwachsene 15 €, Jugendliche 10 € inkl. 0,50 € Verbandsabgabe (Ausgabe 2025)"
    },
-   "start_place": "Clubhaus der Sportfreunde Forchheim, Karlsruher Straße 76, 76287 Rheinstetten"
+   "start_place": "Clubhaus der Sportfreunde Forchheim, Karlsruher Straße 76, 76287 Rheinstetten",
+   "limit": "850 Startnummern (2025)"
   },
   {
    "id": "stuttgarter-silvesterlauf-weilimdorf-2026",
@@ -14337,7 +14454,7 @@
    ],
    "source": "https://haid.app/en/events/stuttgarter-silvesterlauf-mviygvi2",
    "checked": "2026-11-04",
-   "info": "Veranstalter SG und TSV Weilimdorf. Hauptlauf 2 Runden um den Fasanengarten. Anmeldung bis 28.12. per SEPA-Lastschrift. T-Shirt 15 € (18 € am Lauftag).",
+   "info": "Veranstalter SG und TSV Weilimdorf. Hauptlauf 2 Runden um den Fasanengarten. Anmeldung bis 28.12. per SEPA-Lastschrift. T-Shirt 15 € (18 € am Lauftag). 34. Stuttgarter Silvesterlauf 'Rund um den Fasanengarten': Schülerlauf 2,3 km 13:00, Hörnleshasenlauf 5,5 km 13:30, Hauptlauf 11 km (zwei Runden) 14:30 Uhr, Zielschluss 15:45 Uhr",
    "lat": 48.769,
    "lon": 9.186,
    "fee": "Hauptlauf 11 km 17 € (Nachmeldung 22 €), 5,5 km 12 € (18 €), Schülerlauf 2,3 km 8 € (10 €)",
@@ -14346,7 +14463,8 @@
    "anmeldung_url": "https://my.raceresult.com/430931",
    "start_place": "Lindenbachhalle, Stuttgart-Weilimdorf",
    "pickup": "Lindenbachhalle",
-   "reg_open": "2026-10-23"
+   "reg_open": "2026-10-23",
+   "start_time": "14:30"
   },
   {
    "id": "brogginger-spendenlauf-2027",
@@ -14393,7 +14511,9 @@
    "anmeldung_url": "https://my.raceresult.com/426738/registration",
    "reg_open": "2026-10-01",
    "info": "41. OPTIMA Dreikönigslauf am 06.01.2027, Anmeldung seit 01.10.2026. 2026 war der Lauf ausgebucht (über 3.200 Läufer). 10 km in zwei Runden durch die Altstadt, Veranstalter TSG Schwäbisch Hall",
-   "reg_close": "2026-12-20"
+   "reg_close": "2026-12-20",
+   "start_place": "Startunterlagen in der Blendstatthalle, Blendstatt 6, 74523 Schwäbisch Hall (ab 10:00 Uhr, zusätzlich 04.01. bei Intersport Schoell)",
+   "sold_out": "laut Anmeldeseite ausgebucht, Stand 04.11.2026"
   },
   {
    "id": "degerlocher-3-koenigslauf-2027",
@@ -14413,7 +14533,11 @@
    "lat": 48.769,
    "lon": 9.186,
    "url": "https://www.lac-degerloch.de/index.php/veranstaltungen/volkslauf-3-koenigslauf",
-   "info": "Veranstalter LAC Degerloch. Stadionrunde, dann mehrere Waldrunden. Empfohlenes Mindestalter etwa 12 Jahre (10 km) und 10 Jahre (5,4 km). Geldpreise für die Top 3. In den letzten Jahren 200 bis 280 Finisher."
+   "info": "Veranstalter LAC Degerloch. Stadionrunde, dann mehrere Waldrunden. Empfohlenes Mindestalter etwa 12 Jahre (10 km) und 10 Jahre (5,4 km). Geldpreise für die Top 3. In den letzten Jahren 200 bis 280 Finisher.",
+   "start_place": "Sportanlage an der Hohen Eiche (Bopseräcker), Stuttgart-Degerloch (laut früheren Ausschreibungen)",
+   "prev": {
+    "fee": "Volkslauf 14 €, 3-Königslauf 10 € (Ausgabe 2023)"
+   }
   },
   {
    "id": "herbolzheimer-dreikoenigslauf-2027",
@@ -14435,7 +14559,9 @@
    "fee": "kein Startgeld, freiwillige Spende",
    "url": "https://gaenslauf.de",
    "showers": "Duschen und Umkleiden in der Sporthalle Herbolzheim",
-   "info": "15. Auflage. Kein Wettkampf: keine Zeitnahme, keine Wertung. Strecken 5 und 10 km (auch länger möglich) auf dem Gänslauf-Kurs. Spenden gehen an die Kita Kunterbunt in Siglingen. Heiße Würste und Tee danach."
+   "info": "15. Auflage. Kein Wettkampf: keine Zeitnahme, keine Wertung. Strecken 5 und 10 km (auch länger möglich) auf dem Gänslauf-Kurs. Spenden gehen an die Kita Kunterbunt in Siglingen. Heiße Würste und Tee danach.",
+   "start_time": "10:00",
+   "start_place": "Sporthalle Neudenau-Herbolzheim (Treffpunkt ab 9:30 Uhr)"
   },
   {
    "id": "heininger-drei-koenigs-lauf-2027",
@@ -14459,7 +14585,11 @@
    "start_place": "Kurzländstraße an der TSV-Halle, Heiningen",
    "url": "https://tsv-heiningen.de/leichtathletik/vor-dem-dkl-2027/",
    "showers": "Toiletten und Duschen in der Halle",
-   "info": "TSV Heiningen. Fitnesslauf 5,6 km, Feuerwehrlauf 5,6/10,4 km, Nordic Walking 5,6 km, Hauptlauf 10,4 km, dazu Kinder- und Jugendlauf. Startgeld wird bei der Nummernausgabe bar bezahlt. Punsch im Ziel, DRK vor Ort."
+   "info": "TSV Heiningen. Fitnesslauf 5,6 km, Feuerwehrlauf 5,6/10,4 km, Nordic Walking 5,6 km, Hauptlauf 10,4 km, dazu Kinder- und Jugendlauf. Startgeld wird bei der Nummernausgabe bar bezahlt. Punsch im Ziel, DRK vor Ort. 2025: Kinderlauf 1,5 km 12:00, Jugendlauf 3 km 12:30, Fitnesslauf/Nordic Walking/Feuerwehrlauf 5,6 km 13:00, Hauptlauf 10,4 km 14:00 Uhr",
+   "prev": {
+    "fee": "Fitnesslauf 5,6 km 12 €, Kinder- und Jugendlauf 6 € (ältere Seite), 12 € für beide Distanzen laut Blog 2025",
+    "start_time": "14:00"
+   }
   },
   {
    "id": "alb-gold-winterlaufcup-2027",
@@ -14477,12 +14607,17 @@
    "source": "https://haid.app/en/events/alb-gold-winterlaufcup-2027-mvltebm5",
    "checked": "2026-11-04",
    "end": "2027-03-06",
-   "info": "Vier Samstage von 16.01. bis 06.03.2027 in Reutlingen, Pliezhausen/Gniebel und Trochtelfingen (Finale). Veranstalter TSG Reutlingen, LV Pliezhausen, IGL Reutlingen, TSV Trochtelfingen. Chipzeitmessung, Serienwertung aus bis zu 3 Läufen. Anmeldung über RaceResult. 24. Auflage.",
+   "info": "Vier Samstage von 16.01. bis 06.03.2027 in Reutlingen, Pliezhausen/Gniebel und Trochtelfingen (Finale). Veranstalter TSG Reutlingen, LV Pliezhausen, IGL Reutlingen, TSV Trochtelfingen. Chipzeitmessung, Serienwertung aus bis zu 3 Läufen. Anmeldung über RaceResult. 24. Auflage. 1. Lauf der Serie am 16.01.2027 laut alb-gold.de, Einzelmeldung bis Samstag davor 24 Uhr; 2026: AOK-Kids 13:45/14:00, 5 km 14:30, 10 km 14:40 Uhr; Ausrichter IGL Reutlingen, Serie von ALB-GOLD organisiert",
    "lat": 48.496,
    "lon": 9.203,
    "fee": "14 € pro Lauf (5 oder 10 km), Kinder 7 €; Serienanmeldung teurer, Nachmeldung +2 bis 4 €",
    "anmeldung_url": "https://my.raceresult.com/431181/",
-   "reg_open": "2026-10-24"
+   "reg_open": "2026-10-24",
+   "late_reg": "Nachmeldung bis Mittwoch 24 Uhr für 2 €, bis 60 Minuten vor dem Start für 4 € Aufschlag (Ausschreibung 2026)",
+   "start_place": "Stadion Kreuzeiche, Reutlingen (Vorjahre)",
+   "prev": {
+    "start_time": "14:40"
+   }
   },
   {
    "id": "teninger-allmendlauf-2027",
@@ -14512,7 +14647,8 @@
    },
    "url": "https://allmendlauf.de",
    "anmeldung_url": "https://my.raceresult.com/427356/",
-   "reg_open": "2026-10-01"
+   "reg_open": "2026-10-01",
+   "start_time": "11:15"
   },
   {
    "id": "crosslaufserie-oberschwaben-birkenhard-2027",
@@ -14531,7 +14667,14 @@
    "url": "https://crosslaufserie-oberschwaben.de",
    "lat": 48.129,
    "lon": 9.797,
-   "info": "Termin 24.01.2027 laut Veranstalterseite der 49. Oberschwäbischen Crosslaufserie 2026/2027"
+   "info": "Termin 24.01.2027 laut Veranstalterseite der 49. Oberschwäbischen Crosslaufserie 2026/2027. Strecken 2027: 0,8 km (U8–U12), 1,6 km (U14/U16), 3,6 km (U18/U20, Jedermanncross), Hauptlauf 7,2 km; Veranstalter SV Birkenhard und TG Biberach; Vorjahreszeiten 13:30 bis 14:30 Uhr",
+   "reg_close": "2027-01-21",
+   "pickup": "Startunterlagen ab 12:00 Uhr in der Sporthalle",
+   "start_place": "Sporthalle Birkenhard, Hungerberg 3, 88447 Warthausen-Birkenhard",
+   "prev": {
+    "start_time": "14:30",
+    "fee": "Jedermanncross 8 €, Hauptlauf 14 € (Saison 2025/26)"
+   }
   },
   {
    "id": "ultralauf-hawei50-2027",
@@ -16508,11 +16651,14 @@
    "limit": "1.200 Plätze je Strecke (5 km und 10 km)",
    "anmeldung_url": "https://www.datasport.de/anmeldeservice/silvesterlaufsigmaringen2026",
    "source": "https://running.life/de/termine/silvesterlauf-sigmaringen",
-   "info": "40. Auflage, LG Winterlingen. 5 km Sparkassen Run und 10 km Stadtwerke Run, dazu Kids Run 1,4 km und Bambini 300 m. Zahlung per SEPA-Lastschrift oder Gutschein. Stand 04.11.2026: 573 Anmeldungen. Startgeld und Startzeit nicht auf der Seite angegeben.",
+   "info": "40. Auflage, LG Winterlingen. 5 km Sparkassen Run und 10 km Stadtwerke Run, dazu Kids Run 1,4 km und Bambini 300 m. Zahlung per SEPA-Lastschrift oder Gutschein. Stand 04.11.2026: 573 Anmeldungen. Startgeld und Startzeit nicht auf der Seite angegeben. 40. Silvesterlauf, Veranstalter LG Winterlingen: Bambini 300 m 10:30, Kids 1,4 km ab 11:00, 5 km 12:00, 10 km 13:00 Uhr, Teilnehmerlimit je Lauf",
    "checked": "2026-11-04",
    "bezirk": "Tübingen",
    "lat": 48.077,
-   "lon": 9.246
+   "lon": 9.246,
+   "start_time": "13:00",
+   "fee": "10 km 14 € bis 30.09., danach 16 €, 18 €, ab Stufe 4 (bis 27.12.) 20 €; 5 km 10 € / 12 € / 14 €; Kids-Läufe 1,4 km 6 € (ab 01.12. 8 €); Bambini 4 € / 6 €",
+   "start_place": "Stadthalle Sigmaringen, Georg-Zimmerer-Straße"
   },
   {
    "id": "swe-halbmarathon-ettlingen-2027",
@@ -16555,11 +16701,13 @@
    "source": "https://running.life/de/termine/hegau-bodensee-crosslaufserie-stockach",
    "start_place": "Osterholz-Stadion, Winterspürerstraße, 78333 Stockach",
    "showers": "Umkleiden und Duschen im Vereinsheim der TG Stockach",
-   "info": "Veranstalter TG Stockach. Hauptlauf 3 Runden à ca. 2,5 km auf Wiese, Schotter und kurzen Asphaltstücken, keine Spikes. Teil der fünfteiligen Serie, Wertung aus den drei besten Läufen.",
+   "info": "Veranstalter TG Stockach. Hauptlauf 3 Runden à ca. 2,5 km auf Wiese, Schotter und kurzen Asphaltstücken, keine Spikes. Teil der fünfteiligen Serie, Wertung aus den drei besten Läufen. Bambini 10:00, U14/U16 ca. 10:40, Kurzstrecke 2,5 km und Hauptlauf 7,5 km (drei Runden) 11:00 Uhr",
    "checked": "2026-11-04",
    "bezirk": "Freiburg",
    "lat": 47.851,
-   "lon": 9.009
+   "lon": 9.009,
+   "start_time": "11:00",
+   "reg_close": "2027-01-14"
   },
   {
    "id": "hegau-bodensee-crosslaufserie-reichenau-2027",
@@ -16597,11 +16745,16 @@
    "source": "https://running.life/de/termine/crosslaufserie-oberschwaben-vogt",
    "start_place": "Gegenüber dem Parkplatz des Aluminiumwerks STEP G, Vogt",
    "pickup": "Sirgensteinhalle Vogt",
-   "info": "Veranstalter SC Vogt Leichtathletik. Hauptlauf ca. 7,2 km, Jedermann-Cross 3,6 km, dazu Kinder- und Jugendläufe. Siegerehrung und Verpflegung in der Sirgensteinhalle.",
+   "info": "Veranstalter SC Vogt Leichtathletik. Hauptlauf ca. 7,2 km, Jedermann-Cross 3,6 km, dazu Kinder- und Jugendläufe. Siegerehrung und Verpflegung in der Sirgensteinhalle. Saison 2025/26: Kinder 13:30, U14/U16 13:45, Jugend und Jedermanncross 14:00, Hauptlauf 7,2 km 14:30 Uhr; Meldeschluss Donnerstag 20:00 Uhr",
    "checked": "2026-11-04",
    "bezirk": "Tübingen",
    "lat": 47.767,
-   "lon": 9.767
+   "lon": 9.767,
+   "reg_close": "2027-01-07",
+   "prev": {
+    "start_time": "14:30",
+    "fee": "Jedermanncross 8 €, Hauptlauf 14 € (Saison 2025/26)"
+   }
   },
   {
    "id": "hegau-bodensee-crosslaufserie-konstanz-2027",
@@ -16621,8 +16774,12 @@
    "source": "https://gotrail.run/de/termine/hegau-bodensee-crosslaufserie-konstanz",
    "pickup": "Sporthalle der Geschwister-Scholl-Schule, Konstanz",
    "parking": "Schwaketenbad oder Schule",
-   "info": "Veranstalter PTSV Konstanz und Wollmatingen. Hauptlauf ca. 7,8 km, Kurzstrecke 2,6 km. Teil der fünfteiligen Serie (Wertung aus den drei besten Läufen), vermutlich Kreismeisterschaften der Altersklassen. Duschen und Umkleiden wohl nicht verfügbar.",
-   "checked": "2026-11-04"
+   "info": "Veranstalter PTSV Konstanz und Wollmatingen. Hauptlauf ca. 7,8 km, Kurzstrecke 2,6 km. Teil der fünfteiligen Serie (Wertung aus den drei besten Läufen), vermutlich Kreismeisterschaften der Altersklassen. Duschen und Umkleiden wohl nicht verfügbar. Veranstalter PTSV Konstanz: Bambini 10:00, Schüler ab ca. 10:10, U14/U16 ca. 10:40, Kurzstrecke 2,6 km und Hauptlauf 7,8 km 11:00 Uhr; Parken am Schwaketenbad",
+   "checked": "2026-11-04",
+   "start_time": "11:00",
+   "fee": "Erwachsene (Jahrgang 2007 und älter) 10 €, Bambini bis Jugend U20 5 € (bar bei der Abholung der Startunterlagen), Nachmeldung ab 9:00 Uhr +2 €",
+   "reg_close": "2027-01-28",
+   "start_place": "Wollmatingen, Schwaketental; Startunterlagen in der Sporthalle der Geschwister-Scholl-Schule, Schwaketenstraße 112"
   },
   {
    "id": "king-of-the-loop-2027",
@@ -16687,7 +16844,8 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 06.01.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 06.01.). Strecken laut hdsports.",
+   "start_place": "Im Hirschfeld 3, 74229 Oedheim"
   },
   {
    "id": "dreikoenigslauf-grossweier-2027",
@@ -16706,8 +16864,14 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 06.01.). Strecken laut hdsports. Veranstalter TuS Großweier, 10 km und Zweier-Staffel (je 5 km), Ziel Schloßfeldhalle. Termin 06.01.2027 laut Laufkalender, Startzeit 11:00 Uhr",
-   "url": "https://www.tus-grossweier.de/veranstaltungen/details/64-dreikoenigslauf.html"
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 06.01.). Strecken laut hdsports. Veranstalter TuS Großweier, 10 km und Zweier-Staffel (je 5 km), Ziel Schloßfeldhalle. Termin 06.01.2027 laut Laufkalender, Startzeit 11:00 Uhr. Mindestalter 12 Jahre, 10 km und 2 × 5 km Teamwettbewerb, Voranmeldefrist 2026 war der 04.01. 23:59 Uhr",
+   "url": "https://www.tus-grossweier.de/veranstaltungen/details/64-dreikoenigslauf.html",
+   "start_time": "11:00",
+   "late_reg": "Nachmeldung am Starttag bis 10:30 Uhr in der Schloßfeldhalle (frühere Ausgabe)",
+   "start_place": "Im Schloßfeld, nahe der Schloßfeldhalle, Achern-Großweier",
+   "prev": {
+    "fee": "10 km 12 €, Jugendliche Jahrgang 2008 und jünger 8 €, Nachmeldung +2 € (Ausgabe 2026)"
+   }
   },
   {
    "id": "dreikoenigslauf-dielheim-2027",
@@ -16731,7 +16895,10 @@
    "url": "https://www.tv-dielheim.eu/index.php?id=264",
    "start_time": "09:30",
    "start_place": "Sportpark Dielheim",
-   "late_reg": "Nachmeldung am Veranstaltungstag in der Kulturhalle"
+   "late_reg": "Nachmeldung am Veranstaltungstag in der Kulturhalle",
+   "prev": {
+    "fee": "10 km Volkslauf 10 € (Nachmeldung 12 €), Jedermannlauf 3,4 km 6 € (Nachmeldung 7 €) (Ausgabe 2026)"
+   }
   },
   {
    "id": "winterlaufserie-djk-goeppingen-2-lauf-2027",
@@ -16751,9 +16918,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 30.01.). Strecken laut hdsports. Teil einer Winterlaufserie. Veranstalterseite nur per http erreichbar. Drei Läufe, einer vor und zwei nach dem Jahreswechsel, 5 km und 10 km sowie Kinder- und Jugendläufe",
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 30.01.). Strecken laut hdsports. Teil einer Winterlaufserie. Veranstalterseite nur per http erreichbar. Drei Läufe, einer vor und zwei nach dem Jahreswechsel, 5 km und 10 km sowie Kinder- und Jugendläufe. 2026 (2. Lauf am 31.01.): Zeitraum 14:00–16:00 Uhr, 10-km-Hauptlauf und 5-km-Lauf 14:45 Uhr; Termin 2027 nur Prognose",
    "url": "http://www.djk-winterlaufserie.de/",
-   "start_place": "DJK Sportanlage Bürgerhölzle, 73033 Göppingen"
+   "start_place": "DJK Sportanlage Bürgerhölzle, 73033 Göppingen",
+   "prev": {
+    "start_time": "14:45"
+   }
   },
   {
    "id": "winterlaufserie-djk-goeppingen-3-lauf-2027",
