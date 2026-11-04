@@ -23122,7 +23122,9 @@
    "checked": "2026-11-04",
    "url": "http://www.behoerdenwaldlauf.de/",
    "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
-   "fee": "Erwachsene 7 €, Walking/Nordic Walking 4 €, Jugendliche U18/U20 4 €"
+   "fee": "Erwachsene 7 €, Walking/Nordic Walking 4 €, Jugendliche U18/U20 4 €",
+   "start_time": "10:00",
+   "start_place": "AWO-Gelände, Waldstraße 353, Offenbach"
   },
   {
    "id": "rhaedenlauf-wildeck-obersuhl-2026",
@@ -23142,7 +23144,8 @@
    "source": "https://www.runme.de/deutschland/rhaedenlauf/",
    "checked": "2026-11-04",
    "url": "http://www.tvo-la.de",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
+   "start_time": "10:00"
   },
   {
    "id": "villmarer-dorflauf-2026",
@@ -23163,7 +23166,12 @@
    "checked": "2026-11-04",
    "url": "http://www.lf-1987-villmar.de",
    "start_time": "14:30",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
+   "fee": "10 km 8 €, 5 km und Walking 6 €, 2 km 4 €, Bambini 3 €",
+   "reg_close": "2026-11-25",
+   "late_reg": "Nachmeldung bis Freitag 27.11. 18 Uhr gegen 2 € Zuschlag",
+   "start_place": "Johann-Christian-Senckenberg-Schule, Villmar (5-km-Start im Brotweg)",
+   "pickup": "Wettkampfbüro im Vereinsheim am Walter-Haas-Platz"
   },
   {
    "id": "adventslauf-giessen-2026",
@@ -23184,7 +23192,8 @@
    "checked": "2026-11-04",
    "url": "https://www.mtv-giessen.de/",
    "start_time": "10:00",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
+   "start_place": "Sportplatz am Heegstrauchweg 3, Gießen"
   },
   {
    "id": "pfungstaedter-advents-crosslauf-2026",
@@ -23204,7 +23213,11 @@
    "checked": "2026-11-04",
    "url": "http://www.pfungstadt-leichtathletik.de",
    "start_time": "12:55",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
+   "reg_close": "2026-11-28",
+   "prev": {
+    "fee": "Frauen und Männer 7 €, Jugend 6 €, Kinder 5 €, Schüler Pfungstädter Schulen 2 € (laut laufrennen.de, Jahr unsicher)"
+   }
   },
   {
    "id": "5-10k-rainbow-run-frankfurt-am-main-2026",
@@ -23227,7 +23240,9 @@
    "start_time": "11:00",
    "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
    "fee": "15 €",
-   "late_reg": "Nachmeldung vor Ort +3 € (Anzahl begrenzt)"
+   "late_reg": "Nachmeldung vor Ort +3 € (Anzahl begrenzt)",
+   "start_place": "Mainufer auf Höhe der Alten Brücke, Frankfurt",
+   "pickup": "Check-in am Lauftag von 8:30 bis 10:30 Uhr am Start"
   },
   {
    "id": "melsunger-adventslauf-rund-um-die-koppe-2026",
@@ -23268,7 +23283,10 @@
    "source": "https://www.runme.de/deutschland/weiterstaedter-nikolauslauf-weiterstadt-5653/",
    "checked": "2026-11-04",
    "url": "https://www.tusgriesheim.de/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Asphalt-, Feld- und Waldwege; Schülerlauf 1 km um 10:00 Uhr",
+   "reg_close": "2026-12-03",
+   "start_place": "Braunshardter Tännchen, 64331 Weiterstadt",
+   "start_time": "11:20"
   },
   {
    "id": "adventslauf-reichelsheim-2026",
@@ -23288,7 +23306,9 @@
    "source": "https://www.runme.de/deutschland/adventslauf-reichelsheim-reichelsheim-odenwald-/",
    "checked": "2026-11-04",
    "url": "http://www.ksv-reichelsheim.de",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
+   "start_time": "10:00",
+   "start_place": "Stadion an der Ruh, Reichelsheim"
   },
   {
    "id": "gaensebratenvernichtungslauf-wiesbaden-2026",
@@ -23328,7 +23348,9 @@
    "source": "https://www.runme.de/deutschland/neujahrslauf/",
    "checked": "2026-11-04",
    "url": "http://mtv-vernawahlshausen.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "fee": "6 €",
+   "start_place": "Klinik- und Rehabilitationszentrum Lippoldsberg, Birkenallee 1, 34399 Wesertal"
   },
   {
    "id": "griesheimer-rewe-michael-weisbrod-silvesterlauf-2026",
@@ -23347,8 +23369,12 @@
    ],
    "source": "https://www.runme.de/deutschland/griesheimer-silvesterlauf/",
    "checked": "2026-11-04",
-   "url": "http://sport-in-suedhessen.de/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "url": "https://www.tusgriesheim.de/de/vereinssport/sportarten/leichtathletik/31-griesheimer-rewe-michael-weisbrod-silvesterlauf/",
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
+   "start_time": "10:45",
+   "prev": {
+    "fee": "Schülerlauf 5 € (Ausgabe 2025)"
+   }
   },
   {
    "id": "spiridon-mainova-silvesterlauf-frankfurt-2026",
@@ -23367,7 +23393,11 @@
    "source": "https://www.runme.de/deutschland/spiridon-silvesterlauf-frankfurt-am-main/",
    "checked": "2026-11-04",
    "url": "https://www.spiridon-silvesterlauf.de/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
+   "fee": "10 €",
+   "reg_close": "2026-11-29",
+   "late_reg": "Online-Nachmeldung bis 27.12.2026, begrenzt",
+   "start_place": "Wintersporthalle am Deutsche Bank Park, Frankfurt"
   },
   {
    "id": "oberrodenbacher-silvesterlauf-2026",
@@ -23389,7 +23419,8 @@
    "url": "http://www.turnverein-oberrodenbach.de",
    "start_time": "13:30",
    "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
-   "fee": "Läufe 1–4 je 4 €, 5. Lauf 9 €, 6. Lauf 12 €"
+   "fee": "Läufe 1–4 je 4 €, 5. Lauf 9 €, 6. Lauf 12 €",
+   "pickup": "Meldebüro am 31.12.2026 ab 10:00 Uhr (bis 13:00), Startunterlagen spätestens 45 Minuten vor Laufbeginn abholen"
   },
   {
    "id": "silvesterlauf-kaufungen-2026",
@@ -23408,7 +23439,11 @@
    "source": "https://www.runme.de/deutschland/silvesterlauf-kaufungen/",
    "checked": "2026-11-04",
    "url": "https://wordpress.lg-kaufungen.de/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. 2025: Teilnehmerlimit 1.300, Online-Anmeldung über silvesterlauf.eu bis zum Lauftag 10:00 Uhr, keine Nachmeldung vor Ort",
+   "prev": {
+    "fee": "7,7 km 12 €, 800 m und 1.600 m je 6 € (Ausgabe 2025)",
+    "start_time": "14:30"
+   }
   },
   {
    "id": "ziegenhainer-silvesterlauf-schwalmstadt-2026",
@@ -23427,7 +23462,9 @@
    "source": "https://www.runme.de/deutschland/ziegenhainer-silvesterlauf/",
    "checked": "2026-11-04",
    "url": "https://tuspo-ziegenhain.de/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
+   "start_time": "14:00",
+   "pickup": "Nachmeldung und Startnummernausgabe am 31.12. ab 11:30 Uhr vor Ort"
   },
   {
    "id": "sparkasse-giessen-silvesterlauf-rund-um-den-schiffenberg-2026",
@@ -23448,7 +23485,12 @@
    "source": "https://www.runme.de/deutschland/int-giessener-silvester-volkslauf-rund-um-den-schiffenberg/",
    "checked": "2026-11-04",
    "url": "https://www.silvesterlauf-giessen.de/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Halbmarathon 10:00, 10 km 10:45, 5 km 11:10, Schülerlauf 09:45 Uhr; 2 € Startnummernpfand; Anmeldung über RaceResult",
+   "start_time": "10:45",
+   "start_place": "Sporthalle Ost, Karl-Reuter-Weg 3, Gießen",
+   "pickup": "Am 30.12. von 15 bis 17 Uhr in der Sporthalle Ost",
+   "reg_close": "2026-12-28",
+   "limit": "2.000 Startplätze (bis zu 2.300 möglich)"
   },
   {
    "id": "dreikoenigslauf-vfl-altenstadt-2027",
@@ -23468,7 +23510,8 @@
    "source": "https://www.runme.de/deutschland/dreikoenigslauf-in-altenstadt/",
    "checked": "2026-11-04",
    "url": "https://www.vfl-altenstadt.de/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
+   "start_time": "10:00"
   },
   {
    "id": "offenbacher-suppenschuessel-cross-2027",
@@ -23551,7 +23594,9 @@
    "source": "https://www.runme.de/deutschland/50-km-ultra-marathon-rodgau/",
    "checked": "2026-11-04",
    "url": "https://ultra.rlt-rodgau.de/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
+   "start_time": "10:00",
+   "start_place": "Rodgau-Dudenhofen"
   },
   {
    "id": "pohlheimer-limes-winterlaufserie-2026",
@@ -23573,8 +23618,12 @@
    "source": "https://www.runme.de/deutschland/limes-winterlaufserie-pohlheim-5601/",
    "checked": "2026-11-04",
    "url": "http://www.turnverein07.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Termine der Serie: 07.11.2026, 06.02.2027.",
-   "fee": "5 km 8 €, 10/15/21,1 km 10 € (jeweils pro Lauf, per Lastschrift)"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Termine der Serie: 07.11.2026, 06.02.2027. 5 km und 5-km-Walking starten um 14:10 Uhr, Anmeldung für den ersten Lauf bis Freitag 06.11. um 19:59 Uhr, Zahlung per SEPA-Lastschrift",
+   "fee": "5 km 8 €, 10/15/21,1 km 10 € (jeweils pro Lauf, per Lastschrift)",
+   "reg_close": "2026-11-06",
+   "start_time": "14:00",
+   "start_place": "Sporthalle der Adolf-Reichwein-Schule, Pohlheim-Watzenborn-Steinberg",
+   "pickup": "Am Veranstaltungstag ab 12:30 Uhr in der Sporthalle"
   },
   {
    "id": "rodgauer-winterlaufserie-2026",
@@ -23674,7 +23723,11 @@
    "source": "https://www.runme.de/deutschland/seligenstaedter-winterlaufserie-seligenstadt/",
    "checked": "2026-11-04",
    "url": "https://www.tria-seligenstadt.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Termine der Serie: 21.11.2026, 19.12.2026, 16.01.2027, 20.02.2027."
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Termine der Serie: 21.11.2026, 19.12.2026, 16.01.2027, 20.02.2027. Samstage 21.11., 19.12., 16.01. und 20.02. laut Veranstalter, Anmeldung für die Serie und einzelne Läufe geöffnet",
+   "start_time": "13:30",
+   "prev": {
+    "fee": "10 km Einzellauf 10 € bei Vorauszahlung (Serie 2025/26: 1 km 10 €, 5 km 26 €, 10 km 32 €)"
+   }
   },
   {
    "id": "winterlaufserie-lg-dornburg-2027",
@@ -23694,7 +23747,8 @@
    "source": "https://www.runme.de/deutschland/winterlaufserie-lg-dornburg-frickhofen/",
    "checked": "2026-11-04",
    "url": "http://www.lg-dornburg.de",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Termine der Serie: 30.01.2027, 20.02.2027, 06.03.2027."
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Termine der Serie: 30.01.2027, 20.02.2027, 06.03.2027.",
+   "late_reg": "Nachmeldung bis etwa 1 Stunde vor dem Start gegen 2 € Gebühr"
   },
   {
    "id": "halbmarathon-moerfelden-2027",
@@ -23777,7 +23831,13 @@
    "source": "https://www.runme.de/deutschland/lahntallauf-marburg/",
    "checked": "2026-11-04",
    "url": "https://ultra-marburg.de/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
+   "pickup": "Startnummernausgabe Samstag 06.03.2027 von 8:00 bis 9:30 Uhr im Georg-Gaßmann-Stadion, keine Nachmeldung vor Ort",
+   "start_place": "Lahnwiesen (Höhe Südbahnhof), Marburg",
+   "showers": "Duschen und Umkleiden im Georg-Gaßmann-Stadion",
+   "prev": {
+    "fee": "10 km 15 €, Halbmarathon 25 €, 30 km 30 €, Marathon 35 € (Angabe der Veranstalterseite, Jahr unsicher)"
+   }
   },
   {
    "id": "auf-die-platte-fertig-los-2027",
@@ -23817,7 +23877,9 @@
    "source": "https://www.runme.de/deutschland/rosenhoehe-waldlauf-offenbach-a-m/",
    "checked": "2026-11-04",
    "url": "http://www.lg-offenbach.de",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. 3 km um 10:00 Uhr, 10 km um 12:30 Uhr; Nachmeldung und Startunterlagen an der Laufbahn",
+   "start_time": "12:30",
+   "start_place": "Laufbahn im Sportzentrum Rosenhöhe, Offenbach"
   },
   {
    "id": "winterlaufserie-ahnatal-2027",
@@ -23920,7 +23982,10 @@
    "checked": "2026-11-04",
    "url": "https://www.frankfurter-halbmarathon.de/",
    "start_time": "10:05",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Elitelauf und DM 10:00 Uhr, Hauptlauf 10:05 Uhr; Meldeschluss 31.01.2027, sofern das Teilnehmerlimit nicht früher erreicht ist",
+   "reg_close": "2027-01-31",
+   "start_place": "Deutsche Bank Park, Frankfurt",
+   "pickup": "Startunterlagen werden den Teilnehmenden zugeschickt"
   },
   {
    "id": "zwei-huegel-crosslauf-darmstadt-wixhausen-2027",
@@ -23981,7 +24046,10 @@
    "source": "https://www.runme.de/deutschland/kellerwald-3-berge-lauf-dodenhausen-haina-dodenhausen/",
    "checked": "2026-11-04",
    "url": "http://la.sv-dodenhausen.de/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
+   "start_time": "13:00",
+   "start_place": "Sportplatz Dodenhausen, Haina-Dodenhausen",
+   "late_reg": "Anmeldung nur vor Ort bis 12:15 Uhr (Ausgabe 2026), 10 € Pfand für den Transponder"
   },
   {
    "id": "osterlauf-des-lc-marathon-80-e-v-2027",
@@ -24002,7 +24070,8 @@
    "source": "https://www.runme.de/deutschland/osterlauf-rotenburg-a-d-fulda/",
    "checked": "2026-11-04",
    "url": "http://www.lc-marathon-rotenburg.de",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "start_place": "Bernhard-Faust-Sporthalle, Braacher Straße 13, Rotenburg a. d. Fulda"
   },
   {
    "id": "seligenstaedter-wasserlauf-2027",
@@ -24044,7 +24113,11 @@
    "source": "https://www.runme.de/deutschland/giessener-fruehjahrslauf/",
    "checked": "2026-11-04",
    "url": "http://www.lgv-marathon.de",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Laut Veranstalter: Termin 2027 wird noch bekannt gegeben, Onlineanmeldung ab Januar 2027; Halbmarathon 09:15, 5 km Gehen 09:25, 5 km und 10 km 11:45 Uhr",
+   "start_time": "11:45",
+   "start_place": "Sporthalle „Am Ried“, Gießen-Wieseck",
+   "fee": "21 km 12 €, 10 km 10 €, 5 km Laufen 9 €, 5 km Gehen 9 € (zuzüglich 2 € Pfand für die Startnummer)",
+   "pickup": "Startunterlagen vor Ort in der Halle, spätestens 30 Minuten vor dem Start da sein"
   },
   {
    "id": "kunigundenlauf-kaufungen-2027",
@@ -24070,14 +24143,14 @@
   {
    "id": "buedingen-cross-2027",
    "type": "trail",
-   "name": "Büdingen Cross",
+   "name": "Büdingen X Cross",
    "place": "Büdingen",
    "bezirk": "Darmstadt",
    "kreis": "Main-Kinzig-Kreis",
    "lat": 50.29,
    "lon": 9.111,
-   "date": "2027-04-11",
-   "confirmed": false,
+   "date": "2027-04-04",
+   "confirmed": true,
    "distances": [
     "5,2",
     "12",
@@ -24086,7 +24159,9 @@
    "source": "https://www.runme.de/deutschland/crosslauf-des-laufprojekt-buedingen/",
    "checked": "2026-11-04",
    "url": "https://laufprojektbuedingen.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Laut Veranstalter: 2. Büdingen X Cross am 04.04.2027, Anmeldung geöffnet, Meldeschluss Donnerstag 01.04.2027",
+   "reg_close": "2027-04-01",
+   "anmeldung_url": "https://my.raceresult.com/414147"
   },
   {
    "id": "dorflauf-geiss-nidda-2027",
@@ -24147,7 +24222,8 @@
    "source": "https://www.runme.de/deutschland/winterlaufserie-der-triathletenschmiede-werratal-e-v-in-heringen-werra/",
    "checked": "2026-11-04",
    "url": "https://triathletenschmiede.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Anmeldung nur online, jeweils bis 9:30 Uhr am Lauftag, 5 € Pfand für die Startnummer",
+   "start_place": "Fritz-Kunze-Bad, Badstraße 5, 36266 Heringen (Werra)"
   },
   {
    "id": "henkell-0-0-vinothon-wiesbaden-rheingau-genussmarathon-2027",
@@ -24168,7 +24244,9 @@
    "source": "https://www.runme.de/deutschland/henkell-0-0-vinothon-wiesbaden-rheingau-genussmarathon/",
    "checked": "2026-11-04",
    "url": "https://vinothon-genussmarathon.de/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Marathonstart 12:00 Uhr an der Abtei St. Hildegard, Shuttle ab Schloss Henkell ca. 10:45 Uhr",
+   "start_time": "12:00",
+   "pickup": "Startunterlagen am Samstag 17.04.2027 im Schloss Henkell (Wiesbaden)"
   },
   {
    "id": "eichenzeller-fruehlingslauf-2027",
@@ -24288,7 +24366,10 @@
    "source": "https://www.runme.de/deutschland/feldberglauf-oberursel/",
    "checked": "2026-11-04",
    "url": "http://feldberglauf.tsg-oberursel.de/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Laut Veranstalter: Sonntag 18.04.2027, 9,7 km mit 585 m Höhendifferenz, Zeitlimit 90 Minuten",
+   "start_time": "10:00",
+   "start_place": "Oberursel-Hohemark (U-Bahn-Station Hohemark), Ziel Großer Feldberg",
+   "pickup": "Ab 8:30 Uhr in der Sporthalle der Frankfurt International School, Oberursel"
   },
   {
    "id": "hofgeismarer-volkslauf-2027",
@@ -24330,7 +24411,11 @@
    "source": "https://www.runme.de/deutschland/griesheimer-merck-strassenlauf/",
    "checked": "2026-11-04",
    "url": "https://www.tusgriesheim.de/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. 2026: Nachmeldezuschlag +5 €",
+   "start_place": "Mensa der Gerhart-Hauptmann-Schule, Goethestraße 99, Griesheim",
+   "prev": {
+    "start_time": "09:20"
+   }
   },
   {
    "id": "twistesee-lauf-bad-arolsen-2027",
@@ -24351,7 +24436,8 @@
    "source": "https://www.runme.de/deutschland/bad-arolser-waldmarathon-twisteseelauf-bad-arolsen/",
    "checked": "2026-11-04",
    "url": "https://www.twistesee-lauf.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "start_place": "Strandbad Twistesee, Bad Arolsen"
   },
   {
    "id": "altenlotheimer-dorflauf-frankenau-altenlotheim-2027",
@@ -24433,7 +24519,13 @@
    "source": "https://www.runme.de/deutschland/dillenburger-stadtlauf/",
    "checked": "2026-11-04",
    "url": "https://asc-dillenburg.de/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
+   "start_place": "Hofgartenturnhalle Dillenburg (5- und 10-km-Start oberhalb am Ende der Wilhelmstraße)",
+   "late_reg": "Nachmeldung bis 1 Stunde vor dem Start gegen 5 € Gebühr (Ausgabe 2026)",
+   "prev": {
+    "fee": "Bambini 2 €, Schüler 5 €, Jedermann/Jugend 7 €, Volkslauf 8 € (Ausgabe 2026)",
+    "start_time": "09:00"
+   }
   },
   {
    "id": "streuobstwiesenlauf-bad-homburg-kirdorf-2027",
@@ -24531,7 +24623,8 @@
    "source": "https://www.runme.de/deutschland/mainuferlauf-ruesselsheim/",
    "checked": "2026-11-04",
    "url": "http://www.mainuferlauf.de/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
+   "start_place": "Stadion „Am Sommerdamm“, Rüsselsheim"
   },
   {
    "id": "voehler-abendlauf-2027",
@@ -24732,7 +24825,11 @@
    "source": "https://www.runme.de/deutschland/efzewiesenlauf-homberg/",
    "checked": "2026-11-04",
    "url": "http://www.efzewiesenlauf-homberg.de",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
+   "start_place": "Anmeldung im Jugendzentrum „Altes Gaswerk“, Davidsweg 19, Homberg (Efze)",
+   "prev": {
+    "start_time": "10:40"
+   }
   },
   {
    "id": "duensberglauf-biebertal-fellingshausen-2027",
@@ -24772,7 +24869,12 @@
    "source": "https://www.runme.de/deutschland/strassenlauf-wolfskehlen-gross-gerau/",
    "checked": "2026-11-04",
    "url": "https://www.tsv03wolfskehlen.de/de/sportangebot/sportangebote-und-abteilungen/leichtathletik/strassenlauf/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
+   "start_place": "Stadion des TSV 03 Wolfskehlen, Sportplatz an der Sandkaute, Riedstadt-Wolfskehlen",
+   "late_reg": "2026: keine Nachmeldung nach dem Meldeschluss (Mittwoch vor dem Lauf, 23:59 Uhr) und nicht am Veranstaltungstag",
+   "prev": {
+    "fee": "Kinder U10/U12/Jugend U14 (1 km) 5 €, Hobby und Jugend U16–U20 (5 km) 8 € (Ausgabe 2026)"
+   }
   },
   {
    "id": "idsteiner-stadtlauf-2027",
@@ -24811,7 +24913,10 @@
    "source": "https://www.runme.de/deutschland/berndorfer-volkslauf/",
    "checked": "2026-11-04",
    "url": "https://www.berndorfer-volkslauf.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "prev": {
+    "start_time": "15:00"
+   }
   },
   {
    "id": "dorfelder-skyline-run-niederdorfelden-2027",
@@ -24851,7 +24956,11 @@
    "source": "https://www.runme.de/deutschland/schwanheimer-pfingstlauf-frankfurt-schwanheim/",
    "checked": "2026-11-04",
    "url": "http://www.schwanheimer-pfingstlauf.de/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
+   "start_place": "Sportgelände Frankfurt-Schwanheim",
+   "prev": {
+    "fee": "10 km 14 €, 5 km 8 € (Ausgabe 2026, Nachmeldung teurer)"
+   }
   },
   {
    "id": "stockheimer-dorflauf-glauburg-2027",
@@ -24973,7 +25082,11 @@
    "source": "https://www.runme.de/deutschland/brunnenfestlauf-oberursel/",
    "checked": "2026-11-04",
    "url": "http://www.brunnenfestlauf.de/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
+   "start_place": "Historischer Marktplatz Oberursel",
+   "prev": {
+    "start_time": "08:00"
+   }
   },
   {
    "id": "steinberger-wald-volkslauf-dietzenbach-steinberg-2027",
@@ -25057,7 +25170,11 @@
    "checked": "2026-11-04",
    "url": "https://loewenlauf-badzwesten.de/",
    "start_time": "10:00",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
+   "start_place": "Kurpark am Kurhaus, Bad Zwesten",
+   "prev": {
+    "fee": "Speedtrail 34 km 40 €, Halbmarathon wandern/walken 25 €, 11 km wandern/walken 15 € (Ausgabe 2026)"
+   }
   },
   {
    "id": "volkslauf-wacker-frohnhausen-gladenbach-frohnhausen-2027",
@@ -25197,7 +25314,7 @@
    "checked": "2026-11-04",
    "url": "http://www.lgv-marathon.de",
    "start_time": "18:30",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Laut Veranstalter: Termin 04.06.2027, Starts ab 18:30 Uhr, Onlineanmeldung"
   },
   {
    "id": "wallauer-mittsommerlauf-hofheim-wallau-2027",
@@ -25216,7 +25333,11 @@
    "source": "https://www.runme.de/deutschland/wallauer-mittsommer-lauf-hofheim-wallau/",
    "checked": "2026-11-04",
    "url": "http://www.mittsommerlauf.de/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. 2026: Startnummernausgabe ab 16:00 Uhr im Wettkampfbüro am Sportgelände, Nachmeldung nur solange Startplätze frei sind",
+   "start_place": "Sportgelände des TV Wallau, Rheingauer Weg, Hofheim-Wallau",
+   "prev": {
+    "start_time": "19:30"
+   }
   },
   {
    "id": "lingelbacher-windmuehlenlauf-alsfeld-lingelbach-2027",
@@ -25496,7 +25617,8 @@
    "source": "https://www.runme.de/deutschland/taunussteiner-waldlauf-taunusstein-hahn/",
    "checked": "2026-11-04",
    "url": "https://www.tvhahn.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "start_place": "Gesamtschule Obere Aar, Pestalozzistraße 3, 65232 Taunusstein"
   },
   {
    "id": "heiligenroeder-abendlauf-niestetal-heiligenrode-2027",
@@ -25557,7 +25679,10 @@
    "source": "https://www.runme.de/deutschland/heuchelheimer-mitternachtslauf/",
    "checked": "2026-11-04",
    "url": "http://www.tsf-heuchelheim.de",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
+   "prev": {
+    "start_time": "21:15"
+   }
   },
   {
    "id": "dieburger-stadtlauf-2027",
@@ -25577,7 +25702,10 @@
    "source": "https://www.runme.de/deutschland/dieburger-stadtlauf/",
    "checked": "2026-11-04",
    "url": "https://dieburger-stadtlauf.de/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
+   "start_place": "Marktplatz Dieburg",
+   "pickup": "Ab 14 Uhr im Pater-Delp-Haus (nahe Rathaus/Marktplatz)",
+   "late_reg": "Nachmeldung, solange Startplätze verfügbar sind, bis 16 Uhr am Veranstaltungstag"
   },
   {
    "id": "feldbergfestlauf-grosser-feldberg-2027",
@@ -25627,8 +25755,8 @@
    "kreis": "Stadt Wiesbaden",
    "lat": 50.082,
    "lon": 8.239,
-   "date": "2027-06-19",
-   "confirmed": false,
+   "date": "2027-06-26",
+   "confirmed": true,
    "distances": [
     "5",
     "10",
@@ -25638,7 +25766,11 @@
    "source": "https://www.runme.de/deutschland/city-marathon-wiesbaden/",
    "checked": "2026-11-04",
    "url": "http://www.wiesbaden-marathon.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "prev": {
+    "fee": "5 bis 96 € je nach Distanz (Ausgabe 2026)"
+   },
+   "anmeldung_url": "https://my.raceresult.com/412690/"
   },
   {
    "id": "lauf-baunatal-rennt-2027",
@@ -25797,7 +25929,11 @@
    "source": "https://www.runme.de/deutschland/eppsteiner-burg-lauf/",
    "checked": "2026-11-04",
    "url": "http://www.eppsteiner-burglauf.de/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Laut Veranstalter: Freitag 25.06.2027, Anmeldung ab März 2027",
+   "start_time": "19:30",
+   "start_place": "Sportplatz „Am Bienroth“, Auf dem Wingertsberg 2.1, 65817 Eppstein",
+   "pickup": "Am 25.06.2027 von 17 bis 19 Uhr am Sportplatz „Am Bienroth“",
+   "late_reg": "Nachmeldung am Veranstaltungstag ab 17:00 Uhr bis eine halbe Stunde vor dem Start"
   },
   {
    "id": "kraftsolmser-dorflauf-2027",
@@ -25817,7 +25953,11 @@
    "source": "https://www.runme.de/deutschland/kraftsolmser-dorflauf/",
    "checked": "2026-11-04",
    "url": "http://www.sfkraftsolms.de/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
+   "start_place": "Dorfplatz Kraftsolms",
+   "prev": {
+    "start_time": "10:00"
+   }
   },
   {
    "id": "schwalbacher-volkslauf-sport-gegen-armut-2027",
@@ -25859,7 +25999,10 @@
    "source": "https://www.runme.de/deutschland/montagslauf-rund-um-mackenzell/",
    "checked": "2026-11-04",
    "url": "https://www.tsg-mackenzell.de/volkslauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. 2026: Schülerlauf 2 km um 18:30 Uhr, 5,3 km um 19:00 Uhr, 10 km um 19:00 Uhr, 14,3 km ca. 19:10 Uhr",
+   "prev": {
+    "start_time": "19:00"
+   }
   },
   {
    "id": "rotenburger-strandfestlauf-rotenburg-rennt-2027",
@@ -25900,7 +26043,8 @@
    "checked": "2026-11-04",
    "url": "http://www.nachtmarathon.org/",
    "start_time": "19:00",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
+   "start_place": "Universitätsstadion, Jahnstraße, Marburg"
   },
   {
    "id": "auwald-lauf-dautphetal-2027",
@@ -26003,7 +26147,10 @@
    "checked": "2026-11-04",
    "url": "http://www.vogelsberger-suedbahnlauf.de/",
    "start_time": "09:15",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
+   "start_place": "Sportlerheim Unterreichenbach, Birstein",
+   "pickup": "Startnummernausgabe ab 07:30 Uhr im Sportlerheim (Ausgabe 2026)",
+   "late_reg": "Nachmeldung bis 30 Minuten vor dem Start gegen 2 € Zuschlag (Ausgabe 2026)"
   },
   {
    "id": "hausener-volks-waldlauf-tgs-hausen-obertshausen-2027",
@@ -26024,7 +26171,11 @@
    "source": "https://www.runme.de/deutschland/hausener-volkswaldlauf-obertshausen/",
    "checked": "2026-11-04",
    "url": "https://www.tgs-hausen.de/volkslauf",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Ausgabe 2026: Halbmarathon 08:30, 10 km 08:50, 5 km 10:40 Uhr, Meldeschluss am Lauftag 09:15 Uhr",
+   "start_place": "Sportplatz der TGS Hausen, Aachener Straße, Obertshausen",
+   "prev": {
+    "start_time": "08:50"
+   }
   },
   {
    "id": "rieslinglauf-und-17-rheingauer-halbmarathon-2027",
@@ -26065,7 +26216,8 @@
    "source": "https://www.runme.de/deutschland/fischerfestlauf-gernsheim-am-rhein/",
    "checked": "2026-11-04",
    "url": "http://www.fischerfestlauf.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "start_place": "Rheinstraße 22, 64579 Gernsheim"
   },
   {
    "id": "guettersbacher-volkslauf-mossautal-2027",
@@ -26106,7 +26258,9 @@
    "source": "https://www.runme.de/deutschland/stadtlauf-klein-karben/",
    "checked": "2026-11-04",
    "url": "https://ksv1890.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "pickup": "Am Wettkampftag ab 7:00 Uhr im KSV-Vereinshaus am Günter-Reutzel-Sportfeld, Klein-Karben (Ausgabe 2026)",
+   "late_reg": "Nachmeldung nur am Lauftag ab 07:00 Uhr, bis spätestens 45 Minuten vor dem jeweiligen Start (Ausgabe 2026)"
   },
   {
    "id": "see-mer-kerwelauf-seeheim-jugenheim-2027",
@@ -26226,7 +26380,10 @@
    "source": "https://www.runme.de/deutschland/floersheimer-lebenslauf/",
    "checked": "2026-11-04",
    "url": "https://www.djk-floersheim.de/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
+   "prev": {
+    "fee": "Hauptläufe 12 € (Jugend 6 €), kürzere Läufe 8 € (Jugend 4 €) (Ausgabe 2026)"
+   }
   },
   {
    "id": "edersee-lauf-voehl-herzhausen-2027",
@@ -26265,7 +26422,9 @@
    "source": "https://www.runme.de/deutschland/haineslauf-gemuenden-felda-ehringshausen/",
    "checked": "2026-11-04",
    "url": "https://sv-ehringshausen.de/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
+   "start_place": "Sportheim des SV Ehringshausen, Am Sportplatz 1",
+   "late_reg": "Anmeldung bis 30 Minuten vor dem Start"
   },
   {
    "id": "wixhaeuser-kerblauf-darmstadt-wixhausen-2027",
@@ -26285,7 +26444,9 @@
    "source": "https://www.runme.de/deutschland/wixhaeuser-kerblauf-darmstadt-wixhausen/",
    "checked": "2026-11-04",
    "url": "http://www.kerblauf-wixhausen.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "start_place": "TSG Sporthalle Wixhausen, Im Appensee 30, 64291 Darmstadt",
+   "late_reg": "Nachmeldung bis 30 Minuten vor dem Start"
   },
   {
    "id": "panoramalauf-niedernhausen-2027",
@@ -26330,7 +26491,12 @@
    "source": "https://www.runme.de/deutschland/burgwald-marathon-rauschenberg/",
    "checked": "2026-11-04",
    "url": "http://www.bmm-rauschenberg.de/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Laut Veranstalter: Start aller Läufe 16:00 Uhr, Online-Anmeldung bis 14.08.2027",
+   "start_time": "16:00",
+   "reg_close": "2027-08-14",
+   "start_place": "Sporthalle und Freibad Rauschenberg",
+   "pickup": "Am 28.08.2027 von 17:00 bis 19:00 Uhr und am 29.08.2027 (Lauftag)",
+   "fee": "Ultra-Marathon 37 € (ab 01.04.2027 44 €), 3/4-Marathon 32 km 28 € (ab 01.04.2027 33 €)"
   },
   {
    "id": "koberstaedter-waldmarathon-egelsbach-2027",
@@ -26549,7 +26715,7 @@
    "lat": 50.108,
    "lon": 8.832,
    "date": "2027-09-05",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10",
@@ -26558,7 +26724,11 @@
    "source": "https://www.runme.de/deutschland/canyon-run-muehlheim/",
    "checked": "2026-11-04",
    "url": "https://canyon-run.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Laut Veranstalter: Startzeiten Halbmarathon 09:15, 5 km 09:30, 10 km 12:00 Uhr; Online-Anmeldung bis Samstag 04.09.2027 16 Uhr",
+   "start_time": "12:00",
+   "reg_close": "2027-09-04",
+   "start_place": "Sportgelände Dietesheim, Am Wingertsweg 5, 63165 Mühlheim",
+   "pickup": "Am Veranstaltungstag ab 7:45 Uhr auf dem Laufgelände"
   },
   {
    "id": "niedermeiserer-dorflauf-liebenau-2027",
@@ -26629,7 +26799,7 @@
    "lat": 50.533,
    "lon": 9.993,
    "date": "2027-09-12",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "7",
     "15",
@@ -26639,7 +26809,10 @@
    "source": "https://www.runme.de/deutschland/hochrhoen-bergtrail/",
    "checked": "2026-11-04",
    "url": "https://beck-bergtrail.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Laut Veranstalter: 6. BECK HochRhön-BergTrail am 12.09.2027, 29 km und 42 km um 9:30 Uhr, 7 km und 15 km um 10:45 Uhr",
+   "start_time": "09:30",
+   "start_place": "Sportgelände TSV Hilders",
+   "pickup": "Am Wettkampftag im Feuerwehrstützpunkt Hilders (neben dem Sportgelände)"
   },
   {
    "id": "lauf-fuer-mehr-zeit-2027",
@@ -26659,7 +26832,12 @@
    "source": "https://www.runme.de/deutschland/lauf-fuer-mehr-zeit-frankfurt-am-main/",
    "checked": "2026-11-04",
    "url": "https://www.lauf-fuer-mehr-zeit.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "start_place": "Opernplatz, Frankfurt",
+   "prev": {
+    "fee": "5 km und 10 km je 19 €, Kinderläufe 5 € (Ausgabe 2026)",
+    "start_time": "17:00"
+   }
   },
   {
    "id": "quellenlauf-bad-vilbel-2027",
@@ -27168,7 +27346,12 @@
    "source": "https://www.runme.de/deutschland/maarauelauf-mainz-kostheim/",
    "checked": "2026-11-04",
    "url": "http://www.maarauelauf.de",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "start_place": "Sportplatz des Turnvereins Mainz-Kostheim",
+   "prev": {
+    "start_time": "10:00",
+    "fee": "Bambini 6 €, Kinder und Jugendliche 10 € (Ausgabe 2026)"
+   }
   },
   {
    "id": "moerlenbacher-volkslauf-2027",
@@ -27180,14 +27363,18 @@
    "lat": 49.599,
    "lon": 8.735,
    "date": "2027-05-02",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "10"
    ],
    "source": "https://www.runme.de/deutschland/moerlenbacher-erinnerungs-volkslauf/",
    "checked": "2026-11-04",
    "url": "https://moerlenbacher-volkslauf.de",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Laut Veranstalter: Sonntag 02.05.2027, Start aller Läufe um 10:00 Uhr, Online-Voranmeldung bis Samstag 01.05.2027 um 20:30 Uhr",
+   "start_time": "10:00",
+   "reg_close": "2027-05-01",
+   "start_place": "Weschnitztalstadion, Mörlenbach",
+   "late_reg": "Nachmeldung am Lauftag bis 30 Minuten vor dem Start"
   },
   {
    "id": "gobertlauf-meinhard-hitzelrode-2027",
@@ -27206,7 +27393,12 @@
    "source": "https://www.runme.de/deutschland/gobertlauf-meinhard-hitzerode/",
    "checked": "2026-11-04",
    "url": "http://www.ski-club-meissner.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "pickup": "Startunterlagen im Dorfgemeinschaftshaus Hitzelrode, Am Weinberg (Ausgabe 2026)",
+   "start_place": "Dorfgemeinschaftshaus Hitzelrode, Am Weinberg, Meinhard-Hitzelrode",
+   "prev": {
+    "start_time": "10:00"
+   }
   },
   {
    "id": "huettenfelder-volksbankkerwelauf-lampertheim-huettenfeld-2027",
