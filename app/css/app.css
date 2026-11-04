@@ -25,41 +25,41 @@ img{max-width:100%}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
   --bg:#0D0F10; --surface:#17191B; --sunk:#0A0B0C; --line:#25292B; --line-2:#33383B;
   --ink:#F2F4F1; --muted:#9AA19D; --faint:#8C938F;
-  --road:#C6FF3D; --road-soft:#1E2412; --road-ink:#DFF5A8;
-  --trail:#FF9A4D; --trail-soft:#2A1C12; --trail-ink:#FFD2AE; --trail-num:#FF9A4D;
-  --accent:#C6FF3D; --accent-ink:#0D0F10;
+  --road:#E07B3C; --road-soft:#3A2A20; --road-ink:#F0A878;
+  --trail:#D9923F; --trail-soft:#2E3A33; --trail-ink:#F0C48A; --trail-num:#D9923F;
+  --accent:#E07B3C; --accent-ink:#1B1A1E;
   --fav:#9AA19D; --fav-on:#FF7A45;
   --ok:#C6FF3D; --ok-soft:#1E2412; --warn:#FFC24D; --warn-soft:#2B2410; --hot:#FF7A45; --hot-soft:#2A1A12;
-  --brand-bg:#0D0F10; --brand-run:#C6FF3D; --brand-dim:#8E9692; --brand-chip:rgba(198,255,61,.12);
-  --u-bg:#0D0F10; --u-surface:#17191B; --u-sunk:#0A0B0C; --u-line:#25292B; --u-ink:#F2F4F1; --u-muted:#9AA19D; --u-mark:#C6FF3D;
-  --next2:#1E2412;
+  --brand-bg:#141317; --brand-run:#E07B3C; --brand-dim:#9EA2AC; --brand-chip:rgba(224,123,60,.16);
+  --u-bg:#1B1A1E; --u-surface:#2A292E; --u-sunk:#141317; --u-line:#3B393E; --u-ink:#ECECEE; --u-muted:#9EA2AC; --u-mark:#E07B3C;
+  --next2:#3A2A20;
   --t-bg:#0D0F10; --t-surface:#17191B; --t-sunk:#0A0B0C; --t-line:#2B2622; --t-ink:#F2F4F1; --t-muted:#A39C93; --t-bar:#0D0F10;
   --shadow:0 1px 2px rgba(0,0,0,.4); color-scheme:dark}}
 :root[data-theme="dark"]{
   --bg:#0D0F10; --surface:#17191B; --sunk:#0A0B0C; --line:#25292B; --line-2:#33383B;
   --ink:#F2F4F1; --muted:#9AA19D; --faint:#8C938F;
-  --road:#C6FF3D; --road-soft:#1E2412; --road-ink:#DFF5A8;
-  --trail:#FF9A4D; --trail-soft:#2A1C12; --trail-ink:#FFD2AE; --trail-num:#FF9A4D;
-  --accent:#C6FF3D; --accent-ink:#0D0F10;
+  --road:#E07B3C; --road-soft:#3A2A20; --road-ink:#F0A878;
+  --trail:#D9923F; --trail-soft:#2E3A33; --trail-ink:#F0C48A; --trail-num:#D9923F;
+  --accent:#E07B3C; --accent-ink:#1B1A1E;
   --fav:#9AA19D; --fav-on:#FF7A45;
   --ok:#C6FF3D; --ok-soft:#1E2412; --warn:#FFC24D; --warn-soft:#2B2410; --hot:#FF7A45; --hot-soft:#2A1A12;
-  --brand-bg:#0D0F10; --brand-run:#C6FF3D; --brand-dim:#8E9692; --brand-chip:rgba(198,255,61,.12);
-  --u-bg:#0D0F10; --u-surface:#17191B; --u-sunk:#0A0B0C; --u-line:#25292B; --u-ink:#F2F4F1; --u-muted:#9AA19D; --u-mark:#C6FF3D;
-  --next2:#1E2412;
+  --brand-bg:#141317; --brand-run:#E07B3C; --brand-dim:#9EA2AC; --brand-chip:rgba(224,123,60,.16);
+  --u-bg:#1B1A1E; --u-surface:#2A292E; --u-sunk:#141317; --u-line:#3B393E; --u-ink:#ECECEE; --u-muted:#9EA2AC; --u-mark:#E07B3C;
+  --next2:#3A2A20;
   --t-bg:#0D0F10; --t-surface:#17191B; --t-sunk:#0A0B0C; --t-line:#2B2622; --t-ink:#F2F4F1; --t-muted:#A39C93; --t-bar:#0D0F10;
   --shadow:0 1px 2px rgba(0,0,0,.4); color-scheme:dark}
 /* Straße und Trail haben in Hell und Dunkel je eigene Flächen, Leiste und Akzent – beim Wechsel fließen die Farben ineinander */
 :root{--u-bar:#1D2731;--t-run:#F28A2E;--u-run:#F2C230;--t-accent:#D9822B;--u-accent:#E8742A}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
-  --u-bg:#0B0E11;--u-surface:#151A1F;--u-sunk:#080A0C;--u-line:#232A31;--u-bar:#0B0E11;--u-run:#C6FF3D;--u-accent:#C6FF3D;
-  --t-bg:#120D09;--t-surface:#1E1712;--t-sunk:#0C0906;--t-line:#352920;--t-muted:#B0A497;--t-bar:#1A120C;--t-run:#FF9A4D;--t-accent:#FF9A4D}}
+  --u-bg:#1B1A1E;--u-surface:#2A292E;--u-sunk:#141317;--u-line:#3B393E;--u-bar:#141317;--u-run:#E07B3C;--u-accent:#E07B3C;
+  --t-bg:#18211D;--t-surface:#26322C;--t-sunk:#101713;--t-line:#3A483F;--t-muted:#A9B8AE;--t-bar:#121915;--t-run:#D9923F;--t-accent:#D9923F}}
 :root[data-theme="dark"]{
-  --u-bg:#0B0E11;--u-surface:#151A1F;--u-sunk:#080A0C;--u-line:#232A31;--u-bar:#0B0E11;--u-run:#C6FF3D;--u-accent:#C6FF3D;
-  --t-bg:#120D09;--t-surface:#1E1712;--t-sunk:#0C0906;--t-line:#352920;--t-muted:#B0A497;--t-bar:#1A120C;--t-run:#FF9A4D;--t-accent:#FF9A4D}
+  --u-bg:#1B1A1E;--u-surface:#2A292E;--u-sunk:#141317;--u-line:#3B393E;--u-bar:#141317;--u-run:#E07B3C;--u-accent:#E07B3C;
+  --t-bg:#18211D;--t-surface:#26322C;--t-sunk:#101713;--t-line:#3A483F;--t-muted:#A9B8AE;--t-bar:#121915;--t-run:#D9923F;--t-accent:#D9923F}
 body.mode-trail{--bg:var(--t-bg);--surface:var(--t-surface);--sunk:var(--t-sunk);--line:var(--t-line);--ink:var(--t-ink);--muted:var(--t-muted);--brand-bg:var(--t-bar);--brand-run:var(--t-run);--accent:var(--t-accent);--next2:#5A4A30}
 body.mode-road{--bg:var(--u-bg);--surface:var(--u-surface);--sunk:var(--u-sunk);--line:var(--u-line);--ink:var(--u-ink);--muted:var(--u-muted);--brand-bg:var(--u-bar);--brand-run:var(--u-run);--accent:var(--u-accent)}
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) body.mode-trail{--next2:#3A2414;--brand-chip:rgba(255,154,77,.14)}}
-:root[data-theme="dark"] body.mode-trail{--next2:#3A2414;--brand-chip:rgba(255,154,77,.14)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) body.mode-trail{--next2:#2E3A33;--brand-chip:rgba(201,211,204,.16)}}
+:root[data-theme="dark"] body.mode-trail{--next2:#2E3A33;--brand-chip:rgba(201,211,204,.16)}
 /* Im Dunkeln: farbiger Schein unter der Leiste zeigt, wo man ist */
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .bar{box-shadow:0 1px 0 color-mix(in srgb,var(--brand-run) 45%,transparent),0 10px 30px -12px color-mix(in srgb,var(--brand-run) 40%,transparent)}}
 :root[data-theme="dark"] .bar{box-shadow:0 1px 0 color-mix(in srgb,var(--brand-run) 45%,transparent),0 10px 30px -12px color-mix(in srgb,var(--brand-run) 40%,transparent)}
@@ -190,8 +190,8 @@ body.mode-trail .month::after{height:3px;background:radial-gradient(circle,var(-
 
 /* Datum als Kalenderblatt (Liste) bzw. Countdown-Ring (Meine Läufe) */
 :root{--on:#FFFFFF;--road-cal:#D7263D}
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--on:#0B0E11;--road-cal:var(--road)}}
-:root[data-theme="dark"]{--on:#0B0E11;--road-cal:var(--road)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--on:#1B1A1E;--road-cal:var(--road)}}
+:root[data-theme="dark"]{--on:#1B1A1E;--road-cal:var(--road)}
 .leaf{--c:var(--road-cal);border-radius:10px;overflow:hidden;border:1px solid var(--line);background:var(--surface);text-align:center;box-shadow:0 2px 0 var(--line);display:flex;flex-direction:column;font-variant-numeric:tabular-nums}
 .leaf.trail{--c:var(--trail)}
 .leaf .m{background:var(--c);color:var(--on);font-weight:800;font-size:.7rem;letter-spacing:.14em;text-transform:uppercase;padding:3px 0;transition:background-color .45s ease}
@@ -618,6 +618,14 @@ a.soonrow{text-decoration:none;color:inherit}
    Farben: RACE, Keile und erster Strich = --rc, HUNT, Sucher und zweiter Strich = currentColor. */
 .rhm{display:block;width:min(88vw,332px);max-width:100%;height:auto;--rc:var(--brand-run);color:#fff;overflow:visible}
 #locsheet.welcome .wlogo .rhm{--rc:var(--accent);color:var(--ink);width:min(88vw,332px)}
+/* Startseite: Straße (Orange, Stadt) und Trail (Ocker, Berge) zusammen */
+#locsheet.welcome{background:linear-gradient(180deg,#E9E9EC 0%,#D3E1D8 100%)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) #locsheet.welcome{background:linear-gradient(180deg,#2E2B30 0%,#1C3027 100%)}}
+:root[data-theme="dark"] #locsheet.welcome{background:linear-gradient(180deg,#2E2B30 0%,#1C3027 100%)}
+#locsheet.welcome::before{content:"";position:absolute;left:0;right:0;top:0;height:150px;opacity:.16;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 130' preserveAspectRatio='none'%3E%3Cg fill='%23E07B3C' fill-opacity='.55'%3E%3Cpath d='M0 130V80h18V60h14v20h12V40h16v90zM70 130V70h20V50h12v80zM110 130V85h16V30l8-14 8 14v55h14v45z'/%3E%3C/g%3E%3Cg fill='%23E3A040' fill-opacity='.55'%3E%3Cpath d='M190 130L240 60l22 28 34-60 40 70 22-24 52 56z'/%3E%3C/g%3E%3C/svg%3E") bottom/100% 100% no-repeat;pointer-events:none}
+#locsheet.welcome .in{position:relative}
+#locsheet.welcome .geo.big{background:#E07B3C;color:#1B1A1E}
+#locsheet.welcome .rchips button[aria-pressed=true]{background:#E3A040;color:#1B1A1E;border-color:transparent}
 /* Kopfleiste: Logo links, Suche und Glocke rechts, Startpunkt als schmale Zeile */
 .bar .in{display:grid;grid-template-columns:1fr auto auto;align-items:center;gap:10px 8px;padding-bottom:12px}
 .bar .logo{grid-row:1;grid-column:1/-1}
