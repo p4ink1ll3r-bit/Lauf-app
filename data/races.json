@@ -27107,6 +27107,189 @@
    "checked": "2026-11-04",
    "url": "http://www.sg1898chattengau.de/",
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+  },
+  {
+   "id": "tg-biblis-silvesterlauf-2026",
+   "type": "road",
+   "name": "TG Biblis Silvesterlauf",
+   "place": "Biblis",
+   "bezirk": "Darmstadt",
+   "kreis": "LK Bergstraße",
+   "lat": 49.692,
+   "lon": 8.459,
+   "date": "2026-12-31",
+   "confirmed": false,
+   "distances": [
+    "5,5",
+    "8,1",
+    "11,8"
+   ],
+   "source": "https://www.runme.de/deutschland/silvesterlauf-biblis/",
+   "checked": "2026-11-04",
+   "url": "https://www.tg-biblis.de/lauftreff",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+  },
+  {
+   "id": "lauf-rund-um-die-leuchtberge-2027",
+   "type": "road",
+   "name": "Lauf Rund um die Leuchtberge",
+   "place": "Eschwege",
+   "bezirk": "Kassel",
+   "kreis": "Werra-Meißner-Kreis",
+   "lat": 51.184,
+   "lon": 10.053,
+   "date": "2027-03-14",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10",
+    "20"
+   ],
+   "source": "https://www.runme.de/deutschland/eschweger-volks-und-strassenlauf-rund-um-die-leuchtberge/",
+   "checked": "2026-11-04",
+   "url": "http://www.ski-club-meissner.de/",
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+  },
+  {
+   "id": "maarauelauf-mainz-kostheim-2027",
+   "type": "road",
+   "name": "Maarauelauf Mainz-Kostheim",
+   "place": "Mainz-Kostheim",
+   "bezirk": "Darmstadt",
+   "kreis": "Main-Taunus-Kreis",
+   "lat": 50.005,
+   "lon": 8.313,
+   "date": "2027-04-11",
+   "confirmed": false,
+   "distances": [
+    "7,4",
+    "11,1"
+   ],
+   "source": "https://www.runme.de/deutschland/maarauelauf-mainz-kostheim/",
+   "checked": "2026-11-04",
+   "url": "http://www.maarauelauf.de",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+  },
+  {
+   "id": "moerlenbacher-volkslauf-2027",
+   "type": "road",
+   "name": "Mörlenbacher Volkslauf",
+   "place": "Mörlenbach",
+   "bezirk": "Darmstadt",
+   "kreis": "LK Bergstraße",
+   "lat": 49.599,
+   "lon": 8.735,
+   "date": "2027-05-02",
+   "confirmed": false,
+   "distances": [
+    "10"
+   ],
+   "source": "https://www.runme.de/deutschland/moerlenbacher-erinnerungs-volkslauf/",
+   "checked": "2026-11-04",
+   "url": "https://moerlenbacher-volkslauf.de",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+  },
+  {
+   "id": "gobertlauf-meinhard-hitzelrode-2027",
+   "type": "road",
+   "name": "Gobertlauf Meinhard - Hitzelrode",
+   "place": "Meinhard - Hitzelrode",
+   "bezirk": "Kassel",
+   "kreis": "Werra-Meißner-Kreis",
+   "lat": 51.217,
+   "lon": 10.067,
+   "date": "2027-07-24",
+   "confirmed": false,
+   "distances": [
+    "9,1"
+   ],
+   "source": "https://www.runme.de/deutschland/gobertlauf-meinhard-hitzerode/",
+   "checked": "2026-11-04",
+   "url": "http://www.ski-club-meissner.de/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+  },
+  {
+   "id": "huettenfelder-volksbankkerwelauf-lampertheim-huettenfeld-2027",
+   "type": "road",
+   "name": "Hüttenfelder Volksbankkerwelauf Lampertheim-Hüttenfeld",
+   "place": "Lampertheim-Hüttenfeld",
+   "bezirk": "Darmstadt",
+   "kreis": "LK Bergstraße",
+   "lat": 49.598,
+   "lon": 8.473,
+   "date": "2027-08-14",
+   "confirmed": false,
+   "distances": [
+    "10",
+    "HM"
+   ],
+   "source": "https://www.runme.de/deutschland/huettenfelder-volksbank-kerwelauf-lampertheim/",
+   "checked": "2026-11-04",
+   "url": "https://www.sg-huettenfeld.de/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+  },
+  {
+   "id": "spargellauf-run-den-damm-lampertheim-2027",
+   "type": "road",
+   "name": "Spargellauf Run den Damm Lampertheim",
+   "place": "Lampertheim",
+   "bezirk": "Darmstadt",
+   "kreis": "LK Bergstraße",
+   "lat": 49.598,
+   "lon": 8.473,
+   "date": "2027-09-04",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10",
+    "HM"
+   ],
+   "url": "https://www.rundendamm.de/",
+   "source": "https://www.runnersworld.de/laufkalender/run-den-damm-spargellauf-lampertheim/",
+   "info": "Veranstalter TV 1883 Lampertheim; Rundkurs am Altrhein (rund 4,6 km), vermessen; 2026 am Samstag 05.09. (34. Ausgabe 2025: 10 km zugleich Kreismeisterschaft Bergstraße). Termin 2027 noch nicht veröffentlicht.",
+   "checked": "2026-11-04"
+  },
+  {
+   "id": "hofheimer-volkslauf-lampertheim-2027",
+   "type": "road",
+   "name": "Hofheimer Volkslauf Lampertheim-Hofheim",
+   "place": "Lampertheim-Hofheim",
+   "bezirk": "Darmstadt",
+   "kreis": "LK Bergstraße",
+   "lat": 49.598,
+   "lon": 8.473,
+   "date": "2027-09-25",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "https://www.lampertheim.de/de/veranstaltungen/termine/extern/35.-hofheimer-volkslauf_1574869156.php",
+   "start_place": "Sportplatz Hofheim, Lampertheim-Hofheim",
+   "info": "Veranstalter TV 1896 Hofheim, seit 1986 (früher Internationaler Rheinauen-Volkslauf); 39. Lauf am Samstag 26.09.2026. Termin 2027 noch nicht veröffentlicht.",
+   "checked": "2026-11-04"
+  },
+  {
+   "id": "gickel-waldlauf-engenhahn-2027",
+   "type": "road",
+   "name": "Gickel-Waldlauf Niedernhausen-Engenhahn",
+   "place": "Niedernhausen",
+   "bezirk": "Darmstadt",
+   "kreis": "Rheingau-Taunus-Kreis",
+   "lat": 50.163,
+   "lon": 8.313,
+   "date": "2027-09-19",
+   "confirmed": false,
+   "distances": [
+    "6,5",
+    "10",
+    "HM"
+   ],
+   "url": "http://www.gickellauf.de/",
+   "source": "http://www.gickellauf.de/",
+   "start_place": "Sportplatz Engenhahn, Niedernhausen",
+   "info": "Veranstalter TSV Engenhahn 1977; 40. Lauf am Sonntag 20.09.2026 (2026: 21,1 km, 10 km, 6,5 km, 3 km, 1,2 km und 375 m). Termin 2027 laut hdsports Prognose, nicht bestätigt; dritter Wertungslauf der Taunus-Lauf Challenge.",
+   "checked": "2026-11-04"
   }
  ]
 }
