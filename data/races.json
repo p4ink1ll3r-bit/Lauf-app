@@ -5446,7 +5446,7 @@
    "reg_close": "2027-05-02",
    "fee": "Kontingent 1: 11 km 25 € · Kontingent 1: Halbmarathon 40 € · Kontingent 1: 32 km (Dreiviertelmarathon) 45 € · Kontingent 1: Marathon 50 € · Kontingent 2: 11 km 30 € · Kontingent 2: Halbmarathon 50 € · Kontingent 2: 32 km (Dreiviertelmarathon) 55 € · Kontingent 2: Marathon 60 € · Kontingent 3: 11 km 35 € · Kontingent 3: Halbmarathon 60 € · Kontingent 3: 32 km (Dreiviertelmarathon) 65 € · Kontingent 3: Marathon 70 € · Nachmeldung 08./09.05.2027: 11 km 40 € · Nachmeldung 08./09.05.2027: Halbmarathon 70 € · Nachmeldung 08./09.05.2027: 32 km (Dreiviertelmarathon) 75 € · Nachmeldung 08./09.05.2027: Marathon 80 €",
    "start_time": "08:30",
-   "checked": "2026-11-02",
+   "checked": "2026-11-04",
    "source": "https://www.regensburg-marathon.de/regensburg-marathon.html",
    "start_place": "Infineon-Parkplatz Messerschmittstraße / Wernerwerkstraße 2 (neben Westbad)",
    "aid": "ca. alle 4 km Iso, Wasser, Cola; Zielverpflegung; Eigenverpflegung möglich",
@@ -5459,7 +5459,7 @@
    "profile": null,
    "gpx": null,
    "limit": "Teilnehmerlimit (Zahl nicht veröffentlicht)",
-   "sold_out": "Ausgebucht laut Anmeldeportal: Marathon, Dreiviertelmarathon, Halbmarathon. Die übrigen Strecken zeigen noch freie Plätze oder keine Begrenzung (nachts automatisch geprüft).",
+   "sold_out": "Ausgebucht laut Anmeldeportal: So. 09.05.27 08:30 Uhr, So. 09.05.27 08:30 Uhr, So. 09.05.27 08:30 Uhr. Die übrigen Strecken zeigen noch freie Plätze oder keine Begrenzung (nachts automatisch geprüft).",
    "cutoff": null,
    "included": null,
    "late_reg": "Vor Ort am Veranstaltungswochenende möglich, nicht bei erreichtem Teilnehmerlimit",
@@ -11356,7 +11356,8 @@
    "end": null,
    "confirmed": true,
    "prev_date": null,
-   "checked": "2026-11-03"
+   "checked": "2026-11-04",
+   "reg_open": "2026-06-14"
   },
   {
    "type": "road",
