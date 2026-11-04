@@ -1,4 +1,4 @@
-# Baden-Württemberg: Stand 04.11.2026, zweite Suchrunde (lokal, noch nicht in der App)
+# Baden-Württemberg: Stand 04.11.2026, dritte Suchrunde (Lücken-Check über Umkreis-Kalender) (lokal, noch nicht in der App)
 
 Datei: data/races-bw.json (131 Läufe), Checkliste data/coverage-bw.json (44 Kreise). In races.json und in der App ist BW noch NICHT.
 
@@ -21,7 +21,7 @@ Neckar-Odenwald-Kreis, Alb-Donau-Kreis, LK Waldshut (nur Waldlauf-Bezirksmeister
 S'KayRun Erlenbach, Rats-Run, ALB-GOLD FunRun, Albstadt Challenge, Marbacher Meile, Rucksacklauf Schonach (Ski), Weinstadtcross und Sparkassen Cross Pforzheim (Meisterschaftscross, Strecken nicht belegt), Wings for Life, Firmenläufe, Muddy Angel Run/Muddy Älbler, Ulmer Frauenlauf (Zeitlauf), Neckarcross Ultra Race (Hirschhorn liegt in Hessen), Silberwaldlauf und Firmenlauf Ulm/Neu-Ulm (Bayern).
 
 ## Noch offen: Läufe, bei denen Strecke oder Termin nicht zu finden waren
-Schluchseelauf (01.–02.05.2027, LG Hohenfels, Strecken fehlen), Estelberglauf Albbruck (18.04.2027), Kaiserstuhllauf Ihringen (14.03.2027, Volkslauf-Länge fehlt), Denkendorfer Schlehenlauf (26.06.2027), Sparkassen Cross Pforzheim (14.11.2026, 20 € Startgeld, Limit 1.500, Strecken fehlen), Bodensee-Halbmarathon Kressbronn (2026: 19.09.), Stadtlauf Bad Urach, Welzheimer Limesläufe, Stadtlauf Bad Mergentheim, Silberwald fehlt, Pfingstlauf Elpersheim, Lange Laufnacht Karlsruhe, Schwäbische-Zeitung-Halbmarathon Sigmaringen (2026 Erstauflage, Fortsetzung unklar).
+Schonacher Schanzenlauf (24.04.2027, Schonach, Strecken fehlen, Anmeldung raceresult 432722), Dünenlauf Sandhausen (05.06.2027, Strecken nicht belegt), Schluchseelauf (01.–02.05.2027, LG Hohenfels, Strecken fehlen), Estelberglauf Albbruck (18.04.2027), Kaiserstuhllauf Ihringen (14.03.2027, Volkslauf-Länge fehlt), Denkendorfer Schlehenlauf (26.06.2027), Sparkassen Cross Pforzheim (14.11.2026, 20 € Startgeld, Limit 1.500, Strecken fehlen), Bodensee-Halbmarathon Kressbronn (2026: 19.09.), Stadtlauf Bad Urach, Welzheimer Limesläufe, Stadtlauf Bad Mergentheim, Silberwald fehlt, Pfingstlauf Elpersheim, Lange Laufnacht Karlsruhe, Schwäbische-Zeitung-Halbmarathon Sigmaringen (2026 Erstauflage, Fortsetzung unklar).
 
 ## Hinweise
 - Veranstalterseiten nur per http: Heini-Langlotz-Lauf, Fischbacher Halbmarathon, Stuttgart-Lauf, Bad Buchauer Stadtlauf (wie bei den 7 Bayern-Seiten erst einmal drinlassen).

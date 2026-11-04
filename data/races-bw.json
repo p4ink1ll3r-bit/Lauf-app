@@ -3067,6 +3067,73 @@
    "bezirk": "Tübingen",
    "lat": 47.767,
    "lon": 9.767
+  },
+  {
+   "id": "hegau-bodensee-crosslaufserie-konstanz-2027",
+   "type": "trail",
+   "name": "Hegau-Bodensee Crosslaufserie – Konstanz",
+   "place": "Konstanz",
+   "bezirk": "Freiburg",
+   "kreis": "LK Konstanz",
+   "lat": 47.663,
+   "lon": 9.175,
+   "date": "2027-01-31",
+   "confirmed": true,
+   "distances": [
+    "7,8"
+   ],
+   "url": "https://hegau-bodensee-cross.de",
+   "source": "https://gotrail.run/de/termine/hegau-bodensee-crosslaufserie-konstanz",
+   "pickup": "Sporthalle der Geschwister-Scholl-Schule, Konstanz",
+   "parking": "Schwaketenbad oder Schule",
+   "info": "Veranstalter PTSV Konstanz und Wollmatingen. Hauptlauf ca. 7,8 km, Kurzstrecke 2,6 km. Teil der fünfteiligen Serie (Wertung aus den drei besten Läufen), vermutlich Kreismeisterschaften der Altersklassen. Duschen und Umkleiden wohl nicht verfügbar.",
+   "checked": "2026-11-04"
+  },
+  {
+   "id": "king-of-the-loop-2027",
+   "type": "trail",
+   "name": "King of the Loop",
+   "place": "Eningen unter Achalm",
+   "bezirk": "Tübingen",
+   "kreis": "LK Reutlingen",
+   "lat": 48.49,
+   "lon": 9.25,
+   "date": "2027-06-26",
+   "confirmed": true,
+   "distances": [
+    "Backyard"
+   ],
+   "fee": "49 €",
+   "limit": "150 Startplätze (Anmeldung über ein begrenztes Anmeldeverfahren)",
+   "anmeldung_url": "https://my.raceresult.com/432590/",
+   "source": "https://gotrail.run/de/termine/king-of-the-loop",
+   "info": "Backyard-Format für Einzelstarter, Veranstalter peb2 GbR, Eningen unter Achalm. Rundenlänge und Startort nicht angegeben. Anmeldebeginn laut Seite '11/09/2026, 23:00' (Datumsformat unklar: 9. November oder 11. September).",
+   "checked": "2026-11-04"
+  },
+  {
+   "id": "bodensee-marathon-kressbronn-2027",
+   "type": "road",
+   "name": "Bodensee-Marathon und Halbmarathon Kressbronn",
+   "place": "Kressbronn am Bodensee",
+   "bezirk": "Tübingen",
+   "kreis": "Bodenseekreis",
+   "lat": 47.59,
+   "lon": 9.6,
+   "date": "2027-09-18",
+   "confirmed": false,
+   "prev_date": "2026-09-19",
+   "distances": [
+    "10",
+    "HM",
+    "M"
+   ],
+   "url": "https://www.bodensee-marathon.de",
+   "source": "https://racenotify.com/en/event/bodensee-halbmarathon-2026",
+   "prev": {
+    "fee": "ab 30 € (Ausgabe 2026)"
+   },
+   "info": "52. Bodensee-Marathon war am 19.09.2026. Termin 2027 noch nicht veröffentlicht, geschätzt: gleiches Wochenende (Samstag). Halbmarathon auf flachem Asphalt, dazu Marathon und Dorf10er (10 km). Veranstalter Bodensee Marathon.",
+   "checked": "2026-11-04"
   }
  ]
 }
