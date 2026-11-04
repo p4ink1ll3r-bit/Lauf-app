@@ -14936,8 +14936,9 @@
    "lat": 48.288,
    "lon": 8.812,
    "start_time": "11:00",
-   "start_place": "Schlossplatz, 72351 Geislingen",
-   "info": "Termin 2027 laut hdsports Prognose aus dem letzten Termin (18.04.2027), nicht bestätigt. Halbmarathon-Start 11:00 Uhr. Dazu 10 km Nordic Walking sowie Schul- und Integrationsläufe."
+   "start_place": "Schlossplatz Geislingen",
+   "info": "Termin 2027 laut hdsports Prognose aus dem letzten Termin (18.04.2027), nicht bestätigt. Halbmarathon-Start 11:00 Uhr. Dazu 10 km Nordic Walking sowie Schul- und Integrationsläufe. Veranstalter TSV Geislingen. Halbmarathon als zwei Runden à 10 km, dazu 10,5 km, 5 km und Jugendläufe. Hügelige Strecke, erste Starts 10:30 Uhr. 22. Auflage war am 19.04.2026",
+   "url": "https://leichtathletik.tsv-geislingen.de/"
   },
   {
    "id": "unterlandlauf-2027",
@@ -16326,12 +16327,16 @@
    ],
    "start_time": "13:00",
    "source": "https://www.hdsports.org/laufen/kuenzelsauer-stadtlauf",
-   "start_place": "Hallstattweg 36, 74653 Künzelsau",
-   "info": "TSV Künzelsau. Termin 08.05.2027 laut hdsports vom Veranstalter bestätigt (2026: 09.05., Start 13:00 Uhr). Dazu Kinder-/Schülerlauf. Strecken, Startgeld und Anmeldung für 2027 noch nicht veröffentlicht.",
+   "start_place": "Heinz-Ziehl-Sportpark, Künzelsau",
+   "info": "TSV Künzelsau. Termin 08.05.2027 laut hdsports vom Veranstalter bestätigt (2026: 09.05., Start 13:00 Uhr). Dazu Kinder-/Schülerlauf. Strecken, Startgeld und Anmeldung für 2027 noch nicht veröffentlicht. Veranstalter TSV Künzelsau. 15. Auflage war am 09.05.2026. 10 km, 5 km, Nordic Walking 7,5 km und Kinderläufe, Anmeldung über kuenfit.de",
    "checked": "2026-11-04",
    "bezirk": "Stuttgart",
    "lat": 49.282,
-   "lon": 9.684
+   "lon": 9.684,
+   "url": "https://kuenzelsau.de/stadtlauf+2026+_27_04_2026_",
+   "prev": {
+    "fee": "Haupt-, Freizeit- und Nordic-Walking-Lauf je 20 €, Bambini- und Kinderläufe 5 € (Ausgabe 2026)"
+   }
   },
   {
    "id": "neujahrslauf-leinfelden-echterdingen-2027",
@@ -16824,7 +16829,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 21.03.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 21.03.). Strecken laut hdsports. Veranstalter TSV Neuenstadt, 48. Auflage war am 21.03.2026. 5 km und 10 km, Nordic Walking, Team-Staffel (4 × ca. 1,3 km), Bambini- und Schülerläufe, Teil des Drei-Flüsse-Cups. Anmeldung über die TSV-Geschäftsstelle bzw. RaceResult",
+   "url": "https://tsv-neuenstadt.de/lindenlauf/",
+   "start_place": "Helmbundhalle, Neuenstadt am Kocher"
   },
   {
    "id": "lauf-in-den-mai-schwanau-ottenheim-2027",
@@ -16843,7 +16850,11 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 30.04.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 30.04.). Strecken laut hdsports. Veranstalter Lauftreff TuS Ottenheim. 2026 am Donnerstag 30.04. um 19:00 Uhr, 10 km flach (drei Runden à 3,33 km), dazu Bambinilauf. Keine eigene Veranstalterseite gefunden",
+   "prev": {
+    "start_time": "19:00"
+   },
+   "start_place": "Auf der Gänsweide 122, 77963 Schwanau-Ottenheim"
   },
   {
    "id": "1-mai-laeufle-leinfelden-2027",
@@ -16863,7 +16874,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 01.05.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 01.05.). Strecken laut hdsports. Veranstalter Tria Echterdingen, gemeinsam mit dem Echterdinger Duathlon. Einsteigerläufle 5 km und Hauptläufle 10 km ab 10 Jahren, Ziel auf der Tartanbahn",
+   "url": "https://duathlon-echterdingen.com/1-Mai-LaeufLE/",
+   "prev": {
+    "fee": "5 km ab 10 €, 10 km ab 15 € (laut Kalender, Ausgabe 2026)"
+   },
+   "start_place": "Sportpark Goldäcker, Echterdingen"
   },
   {
    "id": "kocher-cup-aalen-unterkochen-2027",
@@ -16994,14 +17010,19 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 29.03.). Strecken laut hdsports. Anmeldung online ab 28.01.2027 (br-timing.de/runtix), auch persönlich im Kundenforum der Schwetzinger Zeitung. Termin 11.04.2027 laut Veranstalterseite. Startgeld laut Seite.",
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 29.03.). Strecken laut hdsports. Anmeldung online ab 28.01.2027 (br-timing.de/runtix), auch persönlich im Kundenforum der Schwetzinger Zeitung. Termin 11.04.2027 laut Veranstalterseite. Startgeld laut Seite. 2026 war die 15. Auflage am 29.03., auf allen Strecken ausgebucht. Erstmals Nettozeitwertung. Veranstalter TV Schwetzingen",
    "fee": "5 km 9 €, 10 km 15 €, Schülerlauf 5 €, Bambini 3 €",
    "reg_close": "2027-04-04",
    "limit": "500 Starter (5 km), 500 (10 km), 200 (Schülerlauf)",
    "pickup": "Mensa/Turnhalle des Privatgymnasiums, Hildastraße 1",
    "showers": "Umkleiden und Duschen in der Turnhalle",
    "parking": "Messplatz, kostenpflichtig",
-   "late_reg": "Nachmeldung am Lauftag nur begrenzt"
+   "late_reg": "Nachmeldung am Lauftag nur begrenzt",
+   "url": "https://www.spargellauf-schwetzingen.de/",
+   "prev": {
+    "fee": "5 km 9 €, 10 km 14 €, Schülerlauf 5 €, Bambinilauf 3 € (Ausgabe 2026)"
+   },
+   "start_place": "Schlossgarten Schwetzingen"
   },
   {
    "id": "hoehlenbaerenlauf-giengen-huerben-2027",
@@ -17070,7 +17091,11 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 04.04.). Strecken laut hdsports."
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 04.04.). Strecken laut hdsports. Veranstalter TSV Obersontheim Lauftreff. Laufkalender nennt Samstag 03.04.2027, 10:00 Uhr (nicht bestätigt). Strecken 5 km, 10 km (zwei Runden), Walking, Kinderläufe. Veranstalterseite nur per http erreichbar",
+   "url": "http://www.obersontheim.com/",
+   "prev": {
+    "start_time": "10:00"
+   }
   },
   {
    "id": "10-kilometer-stadtlauf-wiesloch-2027",
@@ -17207,7 +17232,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 19.04.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 19.04.). Strecken laut hdsports. Veranstalter TV Rheinweiler, 30. Rheinauenlauf war am 19.04.2026. 10 km und 5 km durch Reben, Kurpark und am Rhein entlang",
+   "url": "https://www.tv-rheinweiler.com/rheinauenlauf/",
+   "prev": {
+    "fee": "Hauptlauf 15 €, Freizeitlauf und Walking 10 € (Ausgabe 2026), Kinderläufe frei"
+   },
+   "start_place": "Sportplatz Rheinweiler, Bad Bellingen"
   },
   {
    "id": "kayher-kirschbluetenlauf-2027",
@@ -17490,7 +17520,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 26.04.). Strecken laut hdsports."
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 26.04.). Strecken laut hdsports. 2026 (11. Auflage am 26.04.): 10 km um 10:00 Uhr, 5,6 km Gesundheitslauf um 10:15 Uhr, dazu Jugend- und Bambinilauf",
+   "url": "https://www.lauf-ulm.de/",
+   "prev": {
+    "start_time": "10:00"
+   },
+   "start_place": "Leichtathletikstadion TV Wiblingen, Ulm-Wiblingen"
   },
   {
    "id": "kirnberglauf-tuebingen-2027",
@@ -17534,7 +17569,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 02.05.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 02.05.). Strecken laut hdsports. Veranstalter Sportvereinigung Warmbronn 1910, zugleich Leonberger Stadtmeisterschaft. Strecken laut Kalender 6, 8, 10 und 20 km",
+   "url": "https://www.waldmeisterlauf.de",
+   "prev": {
+    "fee": "Erwachsene 15 €, bis 19 Jahre 10 €, Schüler frei, Nachmeldung 20 € (Ausgabe 2025)"
+   },
+   "start_place": "Stadion der Spvgg Warmbronn unterhalb der Staigwaldhalle, Leonberg-Warmbronn"
   },
   {
    "id": "kandel-berglauf-2027",
@@ -17648,7 +17688,10 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 05.05.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 05.05.). Strecken laut hdsports. Veranstalter SG Niederwangen. Sommerserie mit drei Läufen, 2026 am 05.05., 09.06. und 07.07. Strecken 1 km, 2 km und 5 km (12 Stadionrunden), Zeitmessung",
+   "url": "https://www.sg-niederwangen.de/events/after-work-run/",
+   "fee": "kostenlos, keine Voranmeldung nötig (laut Veranstalter)",
+   "late_reg": "Keine Anmeldung nötig, einfach kurz vorher kommen"
   },
   {
    "id": "sparkassenlauf-geislingen-2027",
@@ -17668,7 +17711,11 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 08.05.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 08.05.). Strecken laut hdsports. Veranstalter TG Geislingen 1846. 23. Auflage war am 08.05.2026. 10 km (6 Runden) und 5 km (3 Runden) durch die City, vermessen und bestenlistenfähig, dazu Kinder- und Jugendläufe",
+   "url": "https://www.tg-geislingen.de/",
+   "prev": {
+    "fee": "Erwachsene 14 €, Jugendliche 8 € (Ausgabe 2026, bei Anmeldung bis 19.04.)"
+   }
   },
   {
    "id": "rinken-trailrun-2027",
@@ -17753,7 +17800,8 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 09.05.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 09.05.). Strecken laut hdsports. Veranstalter TF Feuerbach. 10 km (hügelig, ca. 120 Hm) und 5 km für Einsteiger, Walking, Jugend- und Minilauf. Keine eigene Veranstalterseite gefunden",
+   "start_place": "Sportpark Feuerbach, Stuttgart"
   },
   {
    "id": "welzheimer-limeslaeufe-2027",
@@ -17909,7 +17957,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 14.05.). Strecken laut hdsports."
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 14.05.). Strecken laut hdsports. Veranstalter TV Wössingen. 5 km (2026 um 9:15 Uhr) und 10 km (10:00 bzw. 10:15 Uhr laut Quelle) sowie Kinderläufe, Feld- und Waldwege entlang des Walzbachs. Anmeldung über RaceResult",
+   "url": "https://www.tv-w.de",
+   "prev": {
+    "start_time": "10:00"
+   },
+   "late_reg": "Nachmeldung 2025 vor Ort bis 30 Minuten vor dem Start"
   },
   {
    "id": "go-zap-laufevent-nussloch-2027",
