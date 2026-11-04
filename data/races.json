@@ -22945,6 +22945,146 @@
    ],
    "info": "Termin 18.04.2027 laut hdsports vom Veranstalter bestätigt. 12 km mit 370 Hm. Laut running.life gibt es Panoramalauf, Panoramawalk, Jugend-, Schüler- und Kinderlauf. Anmeldung über RaceResult.",
    "url": "https://www.estelberglauf.de/"
+  },
+  {
+   "id": "michelfelder-volkslauf-2027",
+   "type": "road",
+   "name": "Michelfelder Volkslauf",
+   "place": "Michelfeld",
+   "bezirk": "Stuttgart",
+   "kreis": "LK Schwäbisch Hall",
+   "lat": 49.118,
+   "lon": 9.643,
+   "date": "2027-04-17",
+   "confirmed": false,
+   "prev_date": "2026-04-18",
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://stadtwerke-hall.de/ueber-uns/wir-fuer-die-region/laufevents/michelfeld",
+   "source": "https://stadtwerke-hall.de/ueber-uns/wir-fuer-die-region/laufevents/michelfeld",
+   "start_place": "Buchhornweg, Michelfeld",
+   "pickup": "Ab 10:30 Uhr in der Sporthalle bis spätestens 45 Minuten vor dem jeweiligen Start",
+   "prev": {
+    "fee": "5 km 10 €, 10 km 13 €, Walking 10 €, Schüler 8 €, Kinder und Bambini 6 €",
+    "start_time": "13:30"
+   },
+   "info": "Teil der Laufreihe der Stadtwerke Schwäbisch Hall. 5 und 10 km und Walking starten um 13:30 Uhr, davor Kinder- und Schülerläufe. Termin 2027 noch nicht veröffentlicht (2025: 05.04., 2026: 18.04.).",
+   "checked": "2026-11-04"
+  },
+  {
+   "id": "sport-weiss-lauf-koenigsfeld-2027",
+   "type": "road",
+   "name": "Sport-Weiß-Lauf Königsfeld",
+   "place": "Königsfeld im Schwarzwald",
+   "bezirk": "Freiburg",
+   "kreis": "Schwarzwald-Baar-Kreis",
+   "lat": 48.138,
+   "lon": 8.42,
+   "date": "2027-05-05",
+   "confirmed": false,
+   "prev_date": "2026-05-06",
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "http://www.koenigsfeld.de/Aktuelles/Veranstaltungskalender/13-Sport-Weiss-Lauf-in-Koenigsfeld-event-appointment2926",
+   "start_place": "Sportplatz des FC Königsfeld, Schwimmbad 3, Königsfeld",
+   "info": "Sport Weiß Lauf, Teil des Intersport-Denzer-Cups: 10 km, 5 km Fun Run und Jugendläufe von 400 bis 3000 m. Findet immer an einem Mittwoch im Mai statt (2025: 07.05., 2026: 06.05.); Termin 2027 noch nicht veröffentlicht. Anmeldung per E-Mail an gh@sportweiss.com oder bei Sport Weiß in Obereschach.",
+   "checked": "2026-11-04"
+  },
+  {
+   "id": "suelzbacher-volkslauf-um-den-altenberg-2027",
+   "type": "road",
+   "name": "Sülzbacher Volkslauf um den Altenberg",
+   "place": "Obersulm",
+   "bezirk": "Stuttgart",
+   "kreis": "LK Heilbronn",
+   "lat": 49.136,
+   "lon": 9.377,
+   "date": "2027-05-17",
+   "confirmed": false,
+   "prev_date": "2026-05-25",
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "https://running.life/de/termine/sulzbacher-volkslauf",
+   "info": "41. Auflage war am Pfingstmontag 25.05.2026, Veranstalter SV Sülzbach. Findet traditionell am Pfingstmontag statt (2027: 17.05.), Termin noch nicht bestätigt.",
+   "checked": "2026-11-04"
+  },
+  {
+   "id": "reichenauer-insellauf-2027",
+   "type": "road",
+   "name": "Reichenauer Insellauf",
+   "place": "Reichenau",
+   "bezirk": "Freiburg",
+   "kreis": "LK Konstanz",
+   "lat": 47.689,
+   "lon": 9.063,
+   "date": "2027-09-19",
+   "confirmed": false,
+   "prev_date": "2026-09-20",
+   "distances": [
+    "10",
+    "HM"
+   ],
+   "url": "https://www.svreichenau.de/leichtathletik/reichenauer-insellauf/",
+   "source": "https://www.svreichenau.de/leichtathletik/reichenauer-insellauf/",
+   "prev": {
+    "fee": "Halbmarathon 20 €, 10 km 15 € (Ausgabe 2026)",
+    "start_time": "10:20"
+   },
+   "info": "33. Insellauf am 20.09.2026 auf der Insel Reichenau (Weltkulturerbe): Halbmarathon (drei verkürzte Runden), 10 km (eine Runde), Staffel 3 × 7 km, Jugendlauf 1.600 m und Kinderlauf 900 m, flacher Rundkurs. Termin 2027 noch nicht veröffentlicht.",
+   "checked": "2026-11-04"
+  },
+  {
+   "id": "vr-bank-lauf-wollbach-2027",
+   "type": "road",
+   "name": "VR-Bank-Lauf Wollbach",
+   "place": "Wollbach",
+   "bezirk": "Unterfranken",
+   "kreis": "LK Rhön-Grabfeld",
+   "lat": 50.367,
+   "lon": 10.233,
+   "date": "2027-10-23",
+   "confirmed": false,
+   "prev_date": "2026-10-24",
+   "distances": [
+    "10"
+   ],
+   "url": "https://www.rsv-wollbach.de/vr-bank-lauf/",
+   "source": "https://www.rsv-wollbach.de/vr-bank-lauf/",
+   "start_place": "Sportgelände Wollbach, Schulstraße",
+   "prev": {
+    "start_time": "15:15"
+   },
+   "info": "Wertungslauf im Rhön-Grabfeld-Cup, veranstaltet vom RSV Concordia Wollbach. 2026 am Samstag 24.10.: Bambini ab 14:00 Uhr, Hauptlauf 10 km um 15:15 Uhr, dazu Hobby-, Walking- und Jugendläufe. Anmeldung über die Seite des Rhön-Grabfeld-Cups. Termin 2027 noch nicht veröffentlicht.",
+   "checked": "2026-11-04"
+  },
+  {
+   "id": "dreikoenigs-benefizlauf-unterwurmbach-2027",
+   "type": "road",
+   "name": "Dreikönigs-Benefizlauf Unterwurmbach",
+   "place": "Gunzenhausen",
+   "bezirk": "Mittelfranken",
+   "kreis": "LK Weißenburg-Gunzenhausen",
+   "lat": 49.117,
+   "lon": 10.76,
+   "date": "2027-01-06",
+   "confirmed": false,
+   "prev_date": "2026-01-06",
+   "distances": [
+    "5,4",
+    "7,8",
+    "10,4"
+   ],
+   "url": "https://svunterwurmbach.com/dreikoenigs-benefizlauf/",
+   "source": "https://svunterwurmbach.com/dreikoenigs-benefizlauf/",
+   "fee": "Kein Startgeld, Spenden für regionale Einrichtungen",
+   "info": "Findet traditionell am 6. Januar statt, ohne Zeitnahme und ohne Anmeldung (2025: 5,4 / 7,8 / 10,4 km, auch Nordic Walking). Termin 2027 noch nicht ausdrücklich bestätigt.",
+   "checked": "2026-11-04"
   }
  ]
 }
