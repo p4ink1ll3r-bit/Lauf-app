@@ -23680,7 +23680,7 @@
    "kreis": "LK Groß-Gerau",
    "lat": 49.921,
    "lon": 8.482,
-   "date": "2027-02-13",
+   "date": "2027-02-06",
    "confirmed": false,
    "distances": [
     "10"
@@ -23688,7 +23688,7 @@
    "source": "https://www.runme.de/deutschland/fruehjahrslauf-gross-gerau/",
    "checked": "2026-11-04",
    "url": "http://www.frühjahrslauf.eu/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Findet laut Terminkalender immer am Fastnachtssamstag statt (Ausgabe 10.02.2024), daher 06.02.2027 angenommen; ob der Lauf noch stattfindet, ist ungeklärt, die Vereinsseite ist nicht lesbar"
   },
   {
    "id": "winterlaufserie-tsv-blau-weiss-wolfhagen-ippinghausen-2026",
@@ -23958,7 +23958,7 @@
    "lat": 50.337,
    "lon": 8.756,
    "date": "2027-03-14",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10",
@@ -23967,8 +23967,9 @@
    ],
    "source": "https://www.runme.de/deutschland/rund-um-den-winterstein-friedberg/",
    "checked": "2026-11-04",
-   "url": "https://asc-marathon-friedberg.jimdo.com/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+   "url": "https://asc-marathon-friedberg.jimdofree.com/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Laut Veranstalter: 49. Volkslauf am 14.03.2027, die Konditionen bleiben Stand jetzt wie 2026; Strecken 5 km, 10 km, 30 km und Marathon",
+   "prev_date": "2026-03-15"
   },
   {
    "id": "frankfurter-mainova-halbmarathon-2027",
@@ -24505,7 +24506,7 @@
    "source": "https://www.runme.de/deutschland/koenigsteiner-benefizlauf-koenigstein-im-taunus/",
    "checked": "2026-11-04",
    "url": "http://www.benefizlauf-königstein.de/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Laut Presse: 11. Auflage im Frühjahr 2024 mit über 1.100 Läufern, darunter mehr als 400 Kinder; die Vereinsseite ist nicht erreichbar"
   },
   {
    "id": "dillenburger-stadtlauf-2027",
@@ -25153,7 +25154,7 @@
    "source": "https://www.runme.de/deutschland/bruenderser-lauf-um-die-himmelsschaukel/",
    "checked": "2026-11-04",
    "url": "https://www.bründersen.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Laut hdsports Veranstalter TSV Bründersen 1967: 20 km, 10 km, 5 km, 2 km, 1 km, 0,4 km; Voranmeldung online oder am Lauftag; frühere Ausgaben 16.04.2023, 02.06.2024, 25.05.2025 (Preise laut hdsports, Jahr unklar: Erwachsene 6 €, Halbmarathon 8 €, Kinder 4 €)"
   },
   {
    "id": "loewenlauf-bad-zwesten-2027",
@@ -25258,8 +25259,8 @@
    ],
    "source": "https://www.runme.de/deutschland/erfurtshaeuser-volkslauf-amoeneburg-erfurtshausen/",
    "checked": "2026-11-04",
-   "url": "http://sv-erfurtshausen.jimdo.com/abteilungen/volkslauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+   "url": "https://sv-erfurtshausen.jimdofree.com/abteilungen/volkslauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Letzte belegte Ausgaben 2024 und 2025 (SV 1920 Erfurtshausen, Start beim Bürgerhaus, 5 km und 10 km, 17:00 Uhr); hdsports führt den Lauf mit dem Hinweis „Keine weitere Austragung“, die Vereinsseite nennt dazu nichts. Ob er 2027 stattfindet, ist ungeklärt"
   },
   {
    "id": "liederbacher-wachtelrun-2027",
@@ -25797,7 +25798,9 @@
    "source": "https://www.runme.de/deutschland/baunatal-rennt-abendlauf-ksv-baunatal/",
    "checked": "2026-11-04",
    "url": "http://www.ksv-baunatal.de/abteilungen/marathon/baunatal-rennt.html",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Ausgabe 2026 am Samstag 20.06. (41. Abendlauf des KSV Baunatal, Anmeldung über RaceResult); die frühere Vereinsadresse ist nicht mehr erreichbar",
+   "start_place": "Parkstadion Baunatal",
+   "prev_date": "2026-06-20"
   },
   {
    "id": "wallernhaeuser-dorflauf-nidda-wallernhausen-2027",
@@ -26061,16 +26064,20 @@
    "kreis": "LK Marburg-Biedenkopf",
    "lat": 50.842,
    "lon": 8.554,
-   "date": "2027-07-03",
+   "date": "2027-10-09",
    "confirmed": false,
    "distances": [
-    "5",
-    "10"
+    "7",
+    "14",
+    "HM"
    ],
-   "source": "https://www.runme.de/deutschland/auwald-lauf/",
+   "source": "https://www.ssvhommertshausen.de/auwaldlauf",
    "checked": "2026-11-04",
-   "url": "http://www.stc-hommertshausen.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+   "url": "https://www.ssvhommertshausen.de/auwaldlauf",
+   "info": "Veranstalter SSV Hommertshausen (die Seite des STC Hommertshausen ist nicht mehr aktuell); Ausgabe 2026 am Samstag 10.10.: 7-km-Rundkurs, je nach Strecke ein-, zwei- oder dreimal (7 km, 14 km, Halbmarathon), dazu Schülerlauf 1 km; Asphalt und Feldwege. Termin 2027 noch nicht veröffentlicht, Datum nach dem Vorjahr geschätzt",
+   "prev_date": "2026-10-10",
+   "start_place": "Hilda-Heinemann-Schule, Zwischen den Dörfern 1, 35232 Dautphetal-Hommertshausen",
+   "showers": "Umkleiden und Duschen in der Schule"
   },
   {
    "id": "altstadtlauf-auf-der-goldspur-2027",
@@ -26624,7 +26631,8 @@
    "source": "https://www.runme.de/deutschland/felsburglauf/",
    "checked": "2026-11-04",
    "url": "https://www.eintracht-felsberg.de/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME."
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Veranstalter TSV Eintracht 1863 Felsberg mit TSV Jahn Gensungen, im Stadion unterhalb der Felsburg; Ausgabe 2026 am Sonntag 30.08. (laut Terminkalender immer am letzten Sonntag im August, der Termin 2027 ist daher zu prüfen); Wertung Schwalm-Eder-Cup",
+   "prev_date": "2026-08-30"
   },
   {
    "id": "ederauenlauf-edertal-2027",
@@ -27213,7 +27221,8 @@
    "source": "https://www.runme.de/deutschland/treiser-volkslauf-staufenberg-treis/",
    "checked": "2026-11-04",
    "url": "http://laufundwalkingtreff-treis.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Ausgabe 2025 am 03.10., laut Terminverzeichnis auch 2026 am Samstag 03.10.; 5 km, 10 km, Halbmarathon, Walking 7,5 km und Bambini-Lauf 400 m; die frühere Vereinsadresse laufundwalkingtreff-treis.de ist nicht erreichbar",
+   "start_place": "Sport- und Kulturhalle, Am Edelgarten, 35460 Staufenberg-Treis"
   },
   {
    "id": "bad-hersfelder-lollslauf-2027",
@@ -27253,7 +27262,7 @@
    "source": "https://www.runme.de/deutschland/laubacher-ramsberglauf/",
    "checked": "2026-11-04",
    "url": "http://www.sv1874laubach.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Laut Terminverzeichnis: 10 km und 5 km vom Schlosspark Richtung Ramsberg, dazu 7,5 km, Staffel 3 km und Kinderläufe 400 m und 1500 m; Veranstalter SV 1874 Laubach"
   },
   {
    "id": "offenbacher-mainuferlauf-2027",
