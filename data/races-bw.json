@@ -1187,7 +1187,9 @@
    "lon": 9.799,
    "anmeldung_url": "https://datasport.com/de/events/41-gmuender-stadtlauf",
    "start_place": "Großsporthalle Schwäbisch Gmünd",
-   "info": "Start/Ziel an der Großsporthalle. 5 km (Fitness Run), 10 km, Halbmarathon (Widmann-Cup) und Team-Cup 2 × 5 km, dazu Kinderläufe. Datum 13.03.2027 laut running.life und racenotify."
+   "info": "Start/Ziel an der Großsporthalle. 5 km (Fitness Run), 10 km, Halbmarathon (Widmann-Cup) und Team-Cup 2 × 5 km, dazu Kinderläufe. Datum 13.03.2027 laut running.life und racenotify.",
+   "url": "https://gmuender-stadtlauf.de",
+   "late_reg": "Nachmeldung am Lauftag vor Ort mit 5 € Zuschlag, solange das Teilnehmerlimit nicht erreicht ist (laut Ausgabe 2026)"
   },
   {
    "id": "rheinfelder-lauftag-2027",
@@ -1308,15 +1310,22 @@
    "place": "Freudenstadt",
    "bezirk": "Karlsruhe",
    "kreis": "LK Freudenstadt",
-   "date": "2027-03-21",
-   "confirmed": false,
+   "date": "2027-03-20",
+   "confirmed": true,
    "distances": [
     "50"
    ],
    "source": "https://gotrail.run/de/termine/fruhlingsultra-freudenstadt-gruntal",
    "checked": "2026-11-04",
    "lat": 48.467,
-   "lon": 8.414
+   "lon": 8.414,
+   "url": "https://neckarlauf.com/fr-hlingsultra.html",
+   "start_time": "08:00",
+   "fee": "45 €",
+   "start_place": "Haldenstraße 10, 72250 Freudenstadt-Grüntal",
+   "late_reg": "Nachmeldung am Starttag kurz vor dem Lauf möglich",
+   "aid": "Verpflegung ab 6:30 Uhr, eigener Becher mitbringen",
+   "info": "7. Frühlingsultra, Samstag 20.03.2027 laut Veranstalterseite. 4 Runden à 12,5 km auf Feld- und Waldwegen, kein Zeitlimit, keine Altersklassenwertung. Anmeldung per E-Mail an den Veranstalter, Zahlung per Überweisung oder bar vor dem Start. Übernachtung vor/nach dem Lauf auf Anfrage"
   },
   {
    "id": "rissnertlauf-2027",
@@ -1373,7 +1382,7 @@
    "bezirk": "Tübingen",
    "kreis": "Zollernalbkreis",
    "date": "2027-04-03",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "6",
     "12",
@@ -1388,9 +1397,16 @@
     500,
     1000
    ],
-   "fee": "6 km 15 €, 12 km 26 € (Early Bird bis 30.11.2026, danach 29 €, Late 35 €), 26 km nicht angegeben",
+   "fee": "6 km 16 €, 12 km 35 €, 26 km 48 € (Nachmeldung/Ummeldung 20 €, 40 €, 55 €)",
    "start_place": "Sportplatz Linde, Weilstetten, 72336 Balingen",
-   "info": "Veranstalter TV Weilstetten (Kontakt lofu-trail@tv-weilstetten.de). 26-km-Strecke mit UTMB-Index laut gotrail.run."
+   "info": "Veranstalter TV Weilstetten (Kontakt lofu-trail@tv-weilstetten.de). 26-km-Strecke mit UTMB-Index laut gotrail.run. Anmeldestart 07.11.2026 um 10 Uhr, Anmeldeschluss 31.03.2027 oder bis alle Plätze vergeben sind. Startzeiten: K26 10:00, K12 11:00, K6 11:20 Uhr. Pflichtausrüstung: K6 Trailschuhe; K12 zusätzlich Handy; K26 zusätzlich Erste-Hilfe-Set. K26 ist UTMB-Index-Rennen. Keine Stornierung, Umschreibung bis 29.03.2027",
+   "url": "https://lofutrail.de",
+   "start_time": "10:00",
+   "reg_close": "2027-03-31",
+   "reg_open": "2026-11-07",
+   "cutoff": "Zielschluss 15:00 Uhr, K26 Zwischenzeit Lochen (km 9,5) vor 12:00 Uhr",
+   "pickup": "Samstag 09:00–10:30 Uhr",
+   "aid": "K12/K26 Wasser bei km 5,8; K26 Plettenberghütte (Wasser, Cola, Salzgebäck); Ziel Wasser, Iso, Cola, alkoholfreies Bier, Salzgebäck, Hefezopf"
   },
   {
    "id": "solitudelauf-2027",
@@ -2134,7 +2150,8 @@
    ],
    "fee": "12 km 20/28/33 €, 24 km 30/40/45 €, 50 km 60/70/75 € (gestaffelt nach Anmeldezeitraum), Kinderläufe kostenfrei",
    "anmeldung_url": "https://my.raceresult.com/409838/registration",
-   "info": "ZEAG-Energie Heuchelberg Trail, SV Leingarten. Dazu 500-m-Bambini- und 2,5-km-Kids-Trail. Laut Anmeldeseite waren beim 50 km noch einige Plätze frei (Stand Veranstaltungsseite)."
+   "info": "ZEAG-Energie Heuchelberg Trail, SV Leingarten. Dazu 500-m-Bambini- und 2,5-km-Kids-Trail. Laut Anmeldeseite waren beim 50 km noch einige Plätze frei (Stand Veranstaltungsseite).",
+   "url": "https://www.heuchelbergtrail.de/"
   },
   {
    "id": "most-insane-psyland-backyard-ultra-2027",
@@ -3385,7 +3402,7 @@
    "lat": 48.822,
    "lon": 10.065,
    "date": "2027-05-01",
-   "confirmed": false,
+   "confirmed": true,
    "prev_date": "2026-05-01",
    "distances": [
     "5",
@@ -3393,7 +3410,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 01.05.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 01.05.). Strecken laut hdsports. 20. Kochercup am 01.05.2027 laut Veranstalterseite. Hobbylauf 5 km um 12:15 Uhr, PALM Stundenlauf (800-m-Runde, Zweierteam, 25 €) um 14:15 Uhr, Bambini- und Schülerläufe ab 11:00 Uhr",
+   "url": "https://www.kocher-cup.de/",
+   "fee": "Hauptlauf ab 10 €; Hobbylauf 5 km 7 € (bis 31.03.), 10 € (bis 30.04.), 14 € Nachmeldung; Kinder- und Jugendläufe 3–5 €"
   },
   {
    "id": "gruettlauf-loerrach-2027",
@@ -3709,9 +3728,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 19.04.). Strecken laut hdsports. 34. Auflage war 2026 (Sportfreunde Kayh und VfL Herrenberg). Hauptlauf 14,2 km (VR CUP), Fun-Run 7,4 km. Zahlung per Lastschrift.",
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 19.04.). Strecken laut hdsports. 34. Auflage war 2026 (Sportfreunde Kayh und VfL Herrenberg). Hauptlauf 14,2 km (VR CUP), Fun-Run 7,4 km. Zahlung per Lastschrift. Veranstalterseite kündigt Online-Anmeldung 2027 an. Keine Stornierung der Anmeldung möglich",
    "showers": "Umkleiden mit Duschen und Parkplätze an der Grafenberghalle",
-   "start_place": "Grafenberghalle Herrenberg-Kayh"
+   "start_place": "Grafenberghalle Herrenberg-Kayh",
+   "url": "https://kayher-kirschbluetenlauf.de",
+   "fee": "Kirschblütenlauf 14 €, Jedermannlauf/Walking 7 €, Kinder- und Jugendlauf 3 €, VR-Cup (vier Läufe) 44 €",
+   "late_reg": "Nachmeldung bis 45 Minuten vor dem Start möglich"
   },
   {
    "id": "fruehlingslauf-heidenheim-2027",
@@ -3778,10 +3800,11 @@
     null,
     350
    ],
-   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 25.04.). Strecken laut hdsports.",
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 25.04.). Strecken laut hdsports. Termin 24.04.2027 laut Veranstalterseite (letztes Wochenende im April)",
    "prev": {
     "start_time": "17:00"
-   }
+   },
+   "url": "https://zabergaeulauf.de"
   },
   {
    "id": "moessinger-stadtlauf-2027",
@@ -3979,8 +4002,8 @@
    "kreis": "LK Tübingen",
    "lat": 48.537,
    "lon": 9.054,
-   "date": "2027-04-25",
-   "confirmed": false,
+   "date": "2027-04-18",
+   "confirmed": true,
    "prev_date": "2026-04-26",
    "distances": [
     "7",
@@ -3989,7 +4012,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 26.04.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 26.04.). Strecken laut hdsports. 21. Kirnberglauf am Sonntag 18.04.2027 laut Veranstalter (TSV Lustnau): vier Strecken, acht Laufwettbewerbe in den Schönbuch hinein, dazu Einsteiger- und Kinderlauf. Das Anmeldeportal öffnet am 05.12.2026",
+   "url": "https://www.tsv-lustnau.de/leichtathletik/kirnberglauf",
+   "reg_open": "2026-12-05"
   },
   {
    "id": "waldmeisterlauf-leonberg-warmbronn-2027",
@@ -4032,7 +4057,8 @@
    "elevation": [
     940
    ],
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 02.05.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 02.05.). Strecken laut hdsports.",
+   "url": "https://kandelberglauf.de"
   },
   {
    "id": "sindelfinger-werkstadtlauf-2027",
@@ -4498,7 +4524,8 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 17.05.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 17.05.). Strecken laut hdsports.",
+   "url": "https://waescherinnenlauf.de"
   },
   {
    "id": "ortenauer-laufnacht-willstaett-2027",
@@ -5047,7 +5074,8 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 21.06.). Strecken laut hdsports. 54. Auflage war 2026 (VfL Waiblingen und Stadt Waiblingen): 10 km, ca. 6 km Einsteigerlauf, ca. 6 km Walking, Kinderläufe."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 21.06.). Strecken laut hdsports. 54. Auflage war 2026 (VfL Waiblingen und Stadt Waiblingen): 10 km, ca. 6 km Einsteigerlauf, ca. 6 km Walking, Kinderläufe.",
+   "url": "https://www.waiblinger-stadtlauf.de/"
   },
   {
    "id": "moeckmuehler-stadtlauf-2027",
@@ -5159,7 +5187,8 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 26.06.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 26.06.). Strecken laut hdsports.",
+   "url": "https://bergdorfmeile.de"
   },
   {
    "id": "ravensburger-stadtlauf-2027",
@@ -5374,7 +5403,8 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 04.07.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 04.07.). Strecken laut hdsports. Veranstalterseite nennt 03.07.2027 als voraussichtlichen Termin",
+   "url": "https://kinzigcross.de"
   },
   {
    "id": "auenwaldlauf-2027",
@@ -5768,7 +5798,8 @@
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
    "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 12.07.). Strecken laut hdsports. Benefizlauf der SG Nußloch zugunsten des Nußlocher Kinderhilfsfonds, 10 km DLV-vermessen. Nächste Ausgabe laut Seite im sanierten Max-Berk-Stadion.",
-   "anmeldung_url": "https://my.raceresult.com/397765/"
+   "anmeldung_url": "https://my.raceresult.com/397765/",
+   "url": "https://www.nusslocher-wiesenlauf.de/wordpress/"
   },
   {
    "id": "strahlenburgtrail-2027",
@@ -5816,7 +5847,8 @@
     null,
     560
    ],
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 12.07.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 12.07.). Strecken laut hdsports.",
+   "url": "https://rosskopflauf.de"
   },
   {
    "id": "steinenberger-waldlauf-2027",
@@ -6487,7 +6519,11 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 12.09.). Strecken laut hdsports."
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 12.09.). Strecken laut hdsports.",
+   "url": "https://kraehbuckellauf.de",
+   "prev": {
+    "fee": "Running/Walking 7,50 €, Kinderlauf 4 € (Ausgabe 2026, nur bar bei der Registrierung)"
+   }
   },
   {
    "id": "charity-walk-run-freiburg-2027",
@@ -6598,7 +6634,7 @@
    "lat": 47.63,
    "lon": 7.904,
    "date": "2027-09-12",
-   "confirmed": false,
+   "confirmed": true,
    "prev_date": "2026-09-13",
    "distances": [
     "10,2"
@@ -6608,7 +6644,8 @@
    "elevation": [
     85
    ],
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 13.09.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 13.09.). Strecken laut hdsports. 36. Wehratallauf am Sonntag 12.09.2027 laut Veranstalterseite (TV Wehr 1885). Startgelder gehen an den Förderverein für krebskranke Kinder Freiburg",
+   "url": "https://www.wehratallauf.de/"
   },
   {
    "id": "ma-dame-run-frauenlauf-kehl-2027",
@@ -6780,7 +6817,8 @@
     1325,
     2109
    ],
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 20.09.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 20.09.). Strecken laut hdsports.",
+   "url": "https://trailmarathon-heidelberg.de"
   },
   {
    "id": "tuebinger-erbe-lauf-2027",
@@ -6792,14 +6830,15 @@
    "lat": 48.537,
    "lon": 9.054,
    "date": "2027-09-19",
-   "confirmed": false,
+   "confirmed": true,
    "prev_date": "2026-09-20",
    "distances": [
     "10"
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 20.09.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 20.09.). Strecken laut hdsports. Termin 19.09.2027 laut Veranstalterseite, 10K und 5K durch die Tübinger Altstadt",
+   "url": "https://tuebinger-erbe-lauf.de"
   },
   {
    "id": "volkslauf-der-stadtwerke-karlsruhe-2027",
@@ -6870,14 +6909,19 @@
    "lat": 48.878,
    "lon": 9.267,
    "date": "2027-09-25",
-   "confirmed": false,
+   "confirmed": true,
    "prev_date": "2026-09-26",
    "distances": [
     "5"
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 26.09.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 26.09.). Strecken laut hdsports. 7. Remsecker Waldlauf am 25.09.2027 laut Veranstalterseite (SGV Hochdorf)",
+   "url": "https://remsecker-waldlauf.de/",
+   "prev": {
+    "fee": "Kurz- und Mittelstrecke 10 €, Langstrecke 12 €, Schüler/Jugend 6 €, Bambini 3 € (Ausgabe 2026, Nachmeldung +3 €)"
+   },
+   "start_place": "Eingang zum Hochdorfer Wald beim neuen Friedhof, Schloßstraße 36, Remseck-Hochdorf"
   },
   {
    "id": "herbstlauf-oetigheim-2027",
@@ -7162,7 +7206,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 03.10.). Strecken laut hdsports."
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 03.10.). Strecken laut hdsports. 29. Kirchertlauf war 2026, Online-Anmeldung 2026 lief von 01.09. bis 01.10.",
+   "url": "https://kirchertlauf-nt.de/",
+   "prev": {
+    "fee": "10 km Hauptlauf Erwachsene 13 € + 1 € Anmeldegebühr (Nachmeldung +3 €), Jugendliche 8 €, Schülerlauf 3 km frei (Ausgabe 2026)"
+   },
+   "start_place": "Sportgelände Waldheim, Nürtingen"
   },
   {
    "id": "wiernsheim-heckengaeu-volkslauf-2027",
@@ -7243,7 +7292,8 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 03.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 03.10.). Strecken laut hdsports. Veranstalterseite kündigt den Lauf für 2027 an. Prämie 400 € für neue Bestzeit auf der Halbmarathonstrecke",
+   "url": "https://www.odenwaelderherbstlauf.de/"
   },
   {
    "id": "crailsheimer-sparkassenlauf-2027",
@@ -7605,7 +7655,7 @@
    "lat": 47.55,
    "lon": 7.683,
    "date": "2027-10-10",
-   "confirmed": false,
+   "confirmed": true,
    "prev_date": "2026-10-11",
    "distances": [
     "5,6",
@@ -7613,7 +7663,9 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 11.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 11.10.). Strecken laut hdsports. 8. Südwestzipfel-Lauf am 10.10.2027 laut Veranstalterseite (Turnerbund Wyhlen 1885). Anmeldung startet im Frühjahr 2027",
+   "url": "https://suedwestzipfellauf.de",
+   "start_place": "Turnplatz Wyhlen"
   },
   {
    "id": "giengener-stadtlauf-2027",
@@ -7739,7 +7791,8 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 17.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 17.10.). Strecken laut hdsports.",
+   "url": "https://bolbergtrail.de"
   },
   {
    "id": "schloss-cross-laupheim-2027",
@@ -7859,7 +7912,12 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 18.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 18.10.). Strecken laut hdsports. Startzeiten laut Seite: 13 km 10:50 Uhr, 6,7 km 9:00 Uhr (Jahr nicht angegeben)",
+   "url": "https://keltenlauf.de",
+   "prev": {
+    "fee": "13 km 16 €, 6,7 km 13 €, Schülerlauf 5 €, Bambinilauf frei",
+    "start_time": "09:00"
+   }
   },
   {
    "id": "rimsinger-tuniberg-panoramalauf-2027",
@@ -8007,7 +8065,8 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 18.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 18.10.). Strecken laut hdsports. Anmeldung für 2027 laut Veranstalterseite ab April 2027",
+   "url": "https://www.bottwartal-marathon.de/"
   },
   {
    "id": "naturpark-schoenbuchlauf-hildrizhausen-2027",
@@ -8083,15 +8142,20 @@
    "kreis": "LK Esslingen",
    "lat": 48.727,
    "lon": 9.249,
-   "date": "2027-10-23",
-   "confirmed": false,
+   "date": "2027-10-17",
+   "confirmed": true,
    "prev_date": "2026-10-24",
    "distances": [
     "7,3"
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 24.10.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 24.10.). Strecken laut hdsports. Weildorfer Kirbelauf am Sonntag 17.10.2027 laut Veranstalterseite: Kirbelauf Classic 10 km, 5 km und Nordic Walking, Kids-Lauf 500 m um 13:00 Uhr. Etwa 120 Höhenmeter durch den Wald",
+   "url": "https://kirbelauf.de",
+   "start_time": "14:00",
+   "fee": "Kirbelauf 8 € (Voranmeldung), 10 € Nachmeldung; AOK Kids-Lauf 5 € / 7 €",
+   "start_place": "Bürgerhaus Hagestall, Weildorf, 72401 Haigerloch",
+   "late_reg": "Nachmeldung am Veranstaltungstag ab 11:00 Uhr im Hagestall Weildorf"
   },
   {
    "id": "starzachlauf-2027",
@@ -8348,7 +8412,8 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 28.11.). Strecken laut hdsports."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 28.11.). Strecken laut hdsports.",
+   "url": "https://freiberger-adventslauf.de"
   },
   {
    "id": "nikolauslauf-bad-schoenborn-2027",
@@ -8567,7 +8632,8 @@
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
    "start_place": "TSV-Sportgelände, Im Breibach 5, 74226 Nordheim",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 13.06.). Strecken laut hdsports. Veranstalter TSV Nordheim (erstmals 2002)."
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 13.06.). Strecken laut hdsports. Veranstalter TSV Nordheim (erstmals 2002).",
+   "url": "https://nordheimlauf.de"
   },
   {
    "id": "vierlaender-eck-lauf-boesingen-2027",
@@ -8695,7 +8761,8 @@
    "elevation": [
     370
    ],
-   "info": "Termin 18.04.2027 laut hdsports vom Veranstalter bestätigt. 12 km mit 370 Hm. Laut running.life gibt es Panoramalauf, Panoramawalk, Jugend-, Schüler- und Kinderlauf. Anmeldung über RaceResult."
+   "info": "Termin 18.04.2027 laut hdsports vom Veranstalter bestätigt. 12 km mit 370 Hm. Laut running.life gibt es Panoramalauf, Panoramawalk, Jugend-, Schüler- und Kinderlauf. Anmeldung über RaceResult.",
+   "url": "https://www.estelberglauf.de/"
   }
  ]
 }
