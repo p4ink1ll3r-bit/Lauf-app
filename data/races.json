@@ -1398,7 +1398,10 @@
    "bezirk": "Niederbayern",
    "checked": "2026-11-04",
    "gear_open": "nicht geprüft (kurzer Lauf)",
-   "info": "Strecken laut Kalender 0,5 bis 5 km, 2025 über 220 Teilnehmer, Veranstalter LAC Arnstorf 1978"
+   "info": "Strecken laut Kalender 0,5 bis 5 km, 2025 über 220 Teilnehmer, Veranstalter LAC Arnstorf 1978",
+   "prev": {
+    "fee": "7 € (Ausgabe 2024), Nordic Walking 12 €"
+   }
   },
   {
    "id": "dinkelsbuhler-crosslauf-2026",
@@ -2761,14 +2764,18 @@
    "note": "22. Auflage, zugleich Kreis-Crossmeisterschaften Bayerischer Untermain und Lauf des EMS Cross-Cups; Ausrichter LuT Aschaffenburg; Kurz- und Langstrecke",
    "url": "https://ladv.de/ausschreibung/detail/49459/22.-LuT-Crosslauf-Sulzbach-am-Main.htm",
    "source": "https://ladv.de/ausschreibung/detail/49459/22.-LuT-Crosslauf-Sulzbach-am-Main.htm",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "reg_open": "2026-12-01",
    "reg_close": "2027-01-29",
    "start_place": "Sportstätte oberhalb des Skaterparks, Sulzbach am Main",
    "info": "Startrecht ab U14 erforderlich",
    "bezirk": "Unterfranken",
    "kreis": "LK Miltenberg",
-   "gear_open": "nicht geprüft (kurzer Lauf)"
+   "gear_open": "nicht geprüft (kurzer Lauf)",
+   "prev": {
+    "fee": "Frauen und Männer 7 €, Jugendliche 4,50 €, Schüler 4 € (Ausgabe 2026)",
+    "start_time": "12:00"
+   }
   },
   {
    "id": "prellsteinrennen-2027",
@@ -3477,8 +3484,9 @@
     "pickup": "ab 10:00 im Sportheim"
    },
    "bezirk": "Niederbayern",
-   "checked": "2026-11-01",
-   "gear_open": "Seite nicht erreichbar"
+   "checked": "2026-11-04",
+   "gear_open": "Seite nicht erreichbar",
+   "start_place": "Sportheim, Guldensteig 10, Fürsteneck"
   },
   {
    "id": "jurasteig-nonstop-ultratrail-2027",
@@ -4639,12 +4647,12 @@
    ],
    "elevation": null,
    "note": null,
-   "url": null,
+   "url": "https://www.hiro-run.de/",
    "reg_open": null,
    "reg_close": null,
    "fee": null,
    "start_time": null,
-   "checked": "2026-11-01",
+   "checked": "2026-11-04",
    "source": null,
    "start_place": null,
    "aid": null,
@@ -7619,10 +7627,13 @@
    "prev": {
     "start_time": "11:30",
     "start_place": "Sportgelände SV Hörmannsdorf, Sportplatz 1, 92331 Hörmannsdorf",
-    "pickup": "ab 09:00 am Sportgelände"
+    "pickup": "ab 09:00 am Sportgelände",
+    "fee": "Erwachsene 10 €, Jugend 7 €, Schüler 5 €, Bambini 3 € (Ausgabe 2026)"
    },
    "bezirk": "Oberpfalz",
-   "checked": "2026-11-01"
+   "checked": "2026-11-04",
+   "url": "https://www.sportverein-hoermannsdorf.de/",
+   "pickup": "Ab 9:00 Uhr am Sportplatz Hörmannsdorf (Ausgabe 2026)"
   },
   {
    "id": "friedberger-halbmarathon-2027",
@@ -9142,8 +9153,9 @@
     "start_place": "Passau-Oberhaus, Thingplatz neben dem Haus der Jugend"
    },
    "bezirk": "Niederbayern",
-   "checked": "2026-11-01",
-   "gear_open": "nicht geprüft (kurzer Lauf)"
+   "checked": "2026-11-04",
+   "gear_open": "nicht geprüft (kurzer Lauf)",
+   "anmeldung_url": "https://spoferan.com/en/events/internationaler-djkcrosslauf-in-passau"
   },
   {
    "id": "chiemgau-trail-run-2027",
@@ -9279,10 +9291,13 @@
    "source": "https://www.blsv.de/wp-content/uploads/2025/11/Termine_Laeufercup_2026.pdf",
    "prev": {
     "start_place": "Sportgelände TV Parsberg, Jahnstraße 25, Parsberg",
-    "parking": "Jahnstraße 25"
+    "parking": "Jahnstraße 25",
+    "fee": "10 € (Ausgabe 2026)",
+    "start_time": "14:00"
    },
    "bezirk": "Oberpfalz",
-   "checked": "2026-11-01"
+   "checked": "2026-11-04",
+   "url": "https://www.tvparsberg.de/abteilungen/breitensport/7-parsberger-hatzengruenlauf-2026"
   },
   {
    "id": "sportscheck-run-nurnberg-2027",
@@ -9982,18 +9997,21 @@
    ],
    "elevation": null,
    "note": "Halbmarathon, 10 km und 5 km",
-   "url": null,
+   "url": "https://www.tsvek.de/sportangebot/leichtathletik/",
    "reg_open": null,
    "reg_close": null,
    "fee": null,
    "start_time": null,
-   "checked": "2026-11-01",
+   "checked": "2026-11-04",
    "source": "https://endorphinsrunning.com/races/karlsfelder-seelauf-halbmarathon-karlsfeld",
    "start_place": null,
    "info": "Veranstalter laut Drittlisting: TSV Eintracht Karlsfeld. Nur aus Drittquellen (Termin 20.09.2026, Online-Anmeldung meist bis Mitte September, Nachmeldung vor Ort möglich); Veranstalterseite nicht abgerufen, bitte noch prüfen",
    "na": [],
    "bezirk": "Oberbayern",
-   "kreis": "LK Dachau"
+   "kreis": "LK Dachau",
+   "prev": {
+    "start_time": "09:00"
+   }
   },
   {
    "id": "simssee-halbmarathon-riedering-2027",
@@ -10033,7 +10051,7 @@
    "lon": 11.0953,
    "date": "2027-05-14",
    "end": "2027-05-15",
-   "confirmed": false,
+   "confirmed": true,
    "prev_date": null,
    "distances": [
     "3",
@@ -10042,12 +10060,12 @@
    ],
    "elevation": null,
    "note": "Festival rund um das Everesting am Gudiberg",
-   "url": null,
+   "url": "https://www.everesting-festival.com/en/",
    "reg_open": null,
    "reg_close": null,
    "fee": null,
    "start_time": null,
-   "checked": "2026-11-01",
+   "checked": "2026-11-04",
    "source": "https://gotrail.run/nl/kalender/duitsland/bayern/garmisch-partenkirchen",
    "start_place": null,
    "info": "Termin 14.-15.05.2027 nur aus dem gotrail.run-Kalender, Veranstalterseite noch nicht geprüft; Distanzen laut gotrail.run",
@@ -10073,12 +10091,12 @@
    ],
    "elevation": null,
    "note": "5-km- und 10-km-Lauf",
-   "url": null,
+   "url": "https://www.mentalhealthrocks.de/event-details/mental-health-rocks-run-2026",
    "reg_open": null,
    "reg_close": null,
    "fee": null,
    "start_time": null,
-   "checked": "2026-11-01",
+   "checked": "2026-11-04",
    "source": "https://haid.app/en/events/mental-health-rocks-run-mq95s8g2",
    "start_place": null,
    "info": "Termin 14.03.2027 nur aus dem Kalender haid.app; Startort, Veranstalter, Preise und Anmeldung nicht angegeben, Veranstalterseite noch nicht gefunden",
