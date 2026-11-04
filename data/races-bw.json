@@ -1056,7 +1056,7 @@
    "bezirk": "Tübingen",
    "kreis": "LK Biberach",
    "date": "2027-01-24",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "7"
    ],
@@ -1064,7 +1064,8 @@
    "checked": "2026-11-04",
    "url": "https://crosslaufserie-oberschwaben.de",
    "lat": 48.129,
-   "lon": 9.797
+   "lon": 9.797,
+   "info": "Termin 24.01.2027 laut Veranstalterseite der 49. Oberschwäbischen Crosslaufserie 2026/2027"
   },
   {
    "id": "ultralauf-hawei50-2027",
@@ -1280,7 +1281,7 @@
    "url": "https://lac-essingen.de/panoramalauf/",
    "anmeldung_url": "https://my.raceresult.com/391501",
    "showers": "Duschen und Massage vorhanden",
-   "info": "Sieben Strecken von 0,5 bis 33,7 km mit Blick über die Ostalb (u. a. 11 km Albuch Light, 23 km Drei-Berge-Lauf, 33,7 km Limes Trailrun). DLV-genehmigt für 2027. Anmeldung bis 02.02.2027 mit Chance auf ein Funktionsshirt, bis 02.03.2027 mit persönlicher Startnummer. Finisher-Medaille, Firmenwertung."
+   "info": "Sieben Strecken von 0,5 bis 33,7 km mit Blick über die Ostalb (u. a. 11 km Albuch Light, 23 km Drei-Berge-Lauf, 33,7 km Limes Trailrun). DLV-genehmigt für 2027. Anmeldung bis 02.02.2027 mit Chance auf ein Funktionsshirt, bis 02.03.2027 mit persönlicher Startnummer. Finisher-Medaille, Firmenwertung. Reduzierte Startgebühren für Anmeldungen bis 31.10.2026. Funktionsshirt-Chance bei Anmeldung bis 02.02.2027, personalisierte Startnummer bis 02.03.2027"
   },
   {
    "id": "pleidelsheimer-suewag-lauf-2027",
@@ -1551,7 +1552,7 @@
    "bezirk": "Freiburg",
    "kreis": "Stadt Freiburg",
    "date": "2027-04-17",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "18",
     "34",
@@ -1567,8 +1568,9 @@
     2100
    ],
    "url": "https://freiburg-trailrun.de",
-   "start_place": "FT Sportpark, Freiburg",
-   "info": "2. Auflage (2026 Premiere mit fast 600 Läufern). Kybfelsen-Trail 18 km, Schauinsland-Trail 34 km, Ultra-Trail ca. 60 km (Höhenmeter vorläufig). Anmeldung ab 15.11.2026."
+   "start_place": "Base FT Sportpark Freiburg",
+   "info": "2. Auflage (2026 Premiere mit fast 600 Läufern). Kybfelsen-Trail 18 km, Schauinsland-Trail 34 km, Ultra-Trail ca. 60 km (Höhenmeter vorläufig). Anmeldung ab 15.11.2026. Termin 17.04.2027 laut Veranstalterseite, Anmeldestart 15.11.2026. Strecken Kybfelsen-Trail 18 km, Schauinsland-Trail 34 km und neu ab 2027 der Ultra-Trail (ca. 60 km, ca. 2.100 Hm, Angaben vorläufig)",
+   "reg_open": "2026-11-15"
   },
   {
    "id": "wiesenseelauf-hemsbach-2027",
@@ -1669,7 +1671,7 @@
    "bezirk": "Tübingen",
    "kreis": "Zollernalbkreis",
    "date": "2027-04-23",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "4,7",
     "10,8",
@@ -1679,7 +1681,7 @@
    "source": "https://haid.app/en/events/albside-up-the-hill-mq95t5dz",
    "checked": "2026-11-04",
    "end": "2027-04-24",
-   "info": "23.–24.04.2027. Tag 1: UTH10 und UTH5, Tag 2: UTH50, UTH25 und Kinderläufe. Der UTH10 ist zugleich Albstadtmeisterschaft. UTMB- und ITRA-Punkte laut gotrail.run. Gepäckaufbewahrung und Startunterlagenausgabe.",
+   "info": "23.–24.04.2027. Tag 1: UTH10 und UTH5, Tag 2: UTH50, UTH25 und Kinderläufe. Der UTH10 ist zugleich Albstadtmeisterschaft. UTMB- und ITRA-Punkte laut gotrail.run. Gepäckaufbewahrung und Startunterlagenausgabe. Lauf-Wochenende 23.–24.04.2027 in Albstadt laut Veranstalterseite, Anmeldung ab 01.11.2026. Strecken UTH50 (50 km, 2.100 Hm), UTH25 (25,9 km, 1.270 Hm), UTH10 (10,8 km), UTH5 (4,7 km) und Kids Run",
    "lat": 48.227,
    "lon": 9.02,
    "elevation": [
@@ -1689,7 +1691,8 @@
     2100
    ],
    "url": "https://upthehill.run",
-   "start_place": "Albstadt-Margrethausen (UTH-Area)"
+   "start_place": "Albstadt-Margrethausen (UTH-Area)",
+   "reg_open": "2026-11-01"
   },
   {
    "id": "fischbacher-halbmarathon-2027",
@@ -1906,7 +1909,9 @@
    "lon": 8.414,
    "url": "https://neckarlauf.com/schwarzwaldultra-backyard.html",
    "start_place": "Haldenstraße 10, 72250 Freudenstadt-Grüntal",
-   "info": "Backyard-Format: jede volle Stunde Start, Runde 6,708 km (Mini-SWUB 4,472 km). Wertung nach Gesamtkilometern, DUV-Statistik. Startplätze begrenzt, Stirnlampe empfohlen."
+   "info": "Backyard-Format: jede volle Stunde Start, Runde 6,708 km (Mini-SWUB 4,472 km). Wertung nach Gesamtkilometern, DUV-Statistik. Startplätze begrenzt, Stirnlampe empfohlen. Laut Veranstalterseite 2. Backyard SWUB ab Samstag 08.05.2027 und 3. Backyard ab Samstag 11.09.2027, Start jeweils 8:00 Uhr, Anreise am Vortag möglich",
+   "fee": "15 € (Startplätze auf 50 begrenzt, nicht übertragbar)",
+   "start_time": "08:00"
   },
   {
    "id": "gaeufelderlauf-2027",
@@ -1942,7 +1947,7 @@
    "bezirk": "Freiburg",
    "kreis": "LK Lörrach",
    "date": "2027-05-09",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "12",
     "35",
@@ -1950,7 +1955,7 @@
    ],
    "source": "https://haid.app/en/events/kandern-trail-masters-2027-mvd8rhir",
    "checked": "2026-11-04",
-   "info": "Neues Trailevent im südlichen Schwarzwald (laut Veranstalter in früher Entwicklungsphase). 12, 35 und 65 km, laut gotrail.run auch UTMB 20K/50K.",
+   "info": "Neues Trailevent im südlichen Schwarzwald (laut Veranstalter in früher Entwicklungsphase). 12, 35 und 65 km, laut gotrail.run auch UTMB 20K/50K. Termin 09.05.2027 laut Veranstalterseite, Strecken 12, 35 und 65 km",
    "lat": 47.714,
    "lon": 7.662,
    "url": "https://www.kandern-trail-masters.de/",
@@ -1990,7 +1995,7 @@
    "bezirk": "Stuttgart",
    "kreis": "LK Böblingen",
    "date": "2027-06-05",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "10"
    ],
@@ -1999,7 +2004,7 @@
    "lat": 48.64,
    "lon": 9.011,
    "url": "https://spvgg-holzgerlingen-lauftreff.de/waldtrail",
-   "info": "42. Auflage, 3. Lauf des Schönbuch Cups. 10 km in zwei Runden à ca. 5 km (Tartanbahn, Asphalt, Waldtrail), zweite Hälfte wellig mit Schlussanstieg. Kostenloser Schnupperlauf am 29.05.2027 ohne Anmeldung."
+   "info": "42. Auflage, 3. Lauf des Schönbuch Cups. 10 km in zwei Runden à ca. 5 km (Tartanbahn, Asphalt, Waldtrail), zweite Hälfte wellig mit Schlussanstieg. Kostenloser Schnupperlauf am 29.05.2027 ohne Anmeldung. 42. Holzgerlinger Lauf – Waldtrail am 05.06.2027 laut Veranstalterseite (früher Schönbuch...-Lauf unter anderem Namen)"
   },
   {
    "id": "eichberglauf-glottertal-2027",
@@ -2091,7 +2096,7 @@
    "lat": 47.933,
    "lon": 8.083,
    "url": "https://xtrail-breitnau.de/",
-   "info": "Strecken von 10 bis 21 km laut Kalender."
+   "info": "Strecken von 10 bis 21 km laut Kalender. Termin 26.06.2027 (letzter Samstag im Juni) laut Veranstalterseite"
   },
   {
    "id": "schienerberglauf-2027",
@@ -2229,7 +2234,7 @@
    "bezirk": "Karlsruhe",
    "kreis": "Rhein-Neckar-Kreis",
    "date": "2027-07-25",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "15",
@@ -2241,7 +2246,7 @@
    "lon": 8.667,
    "url": "https://www.weinheimtrails.de",
    "anmeldung_url": "https://my.raceresult.com/430478",
-   "info": "Trailruns über 5, 15 und 35 km. Anmeldung laut Kalender 'bald'."
+   "info": "Trailruns über 5, 15 und 35 km. Anmeldung laut Kalender 'bald'. Termin Sonntag 25.07.2027 laut Veranstalterseite (Save the Date)"
   },
   {
    "id": "nordschwarzwald-trophy-2027",
@@ -2424,7 +2429,7 @@
    "bezirk": "Freiburg",
    "kreis": "Ortenaukreis",
    "date": "2027-10-03",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "10,3",
     "20,3"
@@ -2442,7 +2447,7 @@
    "start_place": "Fürstenbergerhof, Unterharmersbach",
    "showers": "Parkplätze, Umkleiden und Duschen in der Schwarzwaldhalle Unterharmersbach",
    "aid": "TrailRUN21: drei Verpflegungsstellen, Light: eine; keine Einwegbecher (Becher 3 €)",
-   "info": "TV 1898 Unterharmersbach. Lauf zur Baden-Württembergischen Trailrunning-Meisterschaft. Anmeldeschluss 30.09.2027 gilt laut Seite für die Jugendläufe. Geldpreise für die Schnellsten der Langstrecke."
+   "info": "TV 1898 Unterharmersbach. Lauf zur Baden-Württembergischen Trailrunning-Meisterschaft. Anmeldeschluss 30.09.2027 gilt laut Seite für die Jugendläufe. Geldpreise für die Schnellsten der Langstrecke. Termin Sonntag 03.10.2027 laut Veranstalterseite, mit Baden-Württembergischer Trailrunning-Meisterschaft"
   },
   {
    "id": "schwarzwald-marathon-braeunlingen-2027",
@@ -2892,11 +2897,12 @@
    "url": "https://neujahrslauf.lgfilder.de/",
    "source": "https://www.hdsports.org/laufen/neujahrslauf-leinfelden-echterdingen",
    "start_place": "Sportzentrum Leinfelden, Randweg 10, 70771 Leinfelden-Echterdingen",
-   "info": "LG Filder. Termin 01.01.2027 laut hdsports vom Veranstalter bestätigt. Waldlauf '10 km um die keltische Viereckschanze' (Start 2026 um 14:00 Uhr). 2026 gab es 149 Finisher.",
+   "info": "LG Filder. Termin 01.01.2027 laut hdsports vom Veranstalter bestätigt. Waldlauf '10 km um die keltische Viereckschanze' (Start 2026 um 14:00 Uhr). 2026 gab es 149 Finisher. 11. Neujahrslauf der LG Filder am Freitag 01.01.2027, Anmeldung online, Startgeld per Überweisung bis 21.12.2026",
    "checked": "2026-11-04",
    "bezirk": "Stuttgart",
    "lat": 48.694,
-   "lon": 9.168
+   "lon": 9.168,
+   "fee": "13 €"
   },
   {
    "id": "swp-citylauf-pforzheim-2027",
@@ -5819,7 +5825,7 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 12.07.). Strecken laut hdsports. Veranstalter M3 GmbH mit TV 1883 Schriesheim. King-of-the-Hill-Race, Fitness-Trail und Kinderläufe.",
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 12.07.). Strecken laut hdsports. Veranstalter M3 GmbH mit TV 1883 Schriesheim. King-of-the-Hill-Race, Fitness-Trail und Kinderläufe. Veranstalterseite nennt als Termin Juli 2027",
    "url": "https://www.strahlenburgtrail.de/",
    "start_place": "Strahlenburg, Bismarckstraße, 69198 Schriesheim",
    "parking": "Keine Parkplätze an der Strahlenburg",
