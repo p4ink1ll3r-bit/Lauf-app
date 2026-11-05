@@ -9899,7 +9899,7 @@
    "lon": 11.4258,
    "date": "2027-05-08",
    "end": null,
-   "confirmed": false,
+   "confirmed": true,
    "prev_date": "2026-05-09",
    "distances": [
     "HM"
@@ -9907,14 +9907,14 @@
    "elevation": null,
    "note": "25. Auflage 2026; zusätzlich Fitnesslauf und Kinderlauf (Running Kids)",
    "url": "https://www.halbmarathon-ingolstadt.net",
-   "reg_open": null,
+   "reg_open": "2026-12-15",
    "reg_close": null,
    "fee": null,
-   "start_time": null,
-   "checked": "2026-11-01",
+   "start_time": "17:00",
+   "checked": "2026-11-05",
    "source": "https://www.runnersworld.de/laufkalender/halbmarathoningolstadt/",
    "start_place": "Konrad-Adenauer-Brücke, 85049 Ingolstadt",
-   "info": "Veranstalter: Ingolstädter Halbmarathon GbR. Nächster Termin laut Runner's World noch nicht bekannt; Datum geschätzt aus dem Vorjahr. Preisspanne 2026 laut Drittquelle 25–70 €, nicht verifiziert",
+   "info": "Veranstalter: Ingolstädter Halbmarathon GbR. Nächster Termin laut Runner's World noch nicht bekannt; Datum geschätzt aus dem Vorjahr. Preisspanne 2026 laut Drittquelle 25–70 €, nicht verifiziert. Laut Veranstalter: 8. Mai 2027, Halbmarathon Start 17:00 Uhr an der Konrad-Adenauer-Brücke, Anmeldung ab 15.12.2026",
    "na": [],
    "bezirk": "Oberbayern",
    "kreis": "Stadt Ingolstadt"
@@ -14086,14 +14086,14 @@
     "HM"
    ],
    "source": "https://haid.app/en/events/itdesign-nikolauslauf-tubingen-mrsn2j44",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "url": "https://nikolauslauf-tuebingen.de",
    "lat": 48.527,
    "lon": 9.05,
    "elevation": [
     300
    ],
-   "sold_out": "Halbmarathon laut Kalender ausverkauft",
+   "sold_out": "Halbmarathon ausgebucht (laut Veranstalter, Stand 05.11.2026); frei werdende Startplätze gibt es nur über den Startplatztausch",
    "start_place": "Tübingen, Schönbuch (Strecke durch den Naturpark)",
    "info": "Veranstalter Post-SV Tübingen. Vermessener Halbmarathon, überwiegend Waldschotterwege mit ca. 8,5 km Asphalt, ca. 300 Hm, größter Höhenunterschied 82 m. Dazu virtueller 10-km-Lauf und Schulprojekt. Finisher-Medaille kostenlos, Gravur 10 €. Funktionsshirt, Massage, Wertsachendepot im Startgeld.",
    "start_time": "10:00",
@@ -14114,7 +14114,7 @@
     "57"
    ],
    "source": "https://gotrail.run/de/termine/spiegelberger-rauberweglauf",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "url": "https://ultras.prospectum.com/events/2026_06_raeuberweglauf/",
    "fee": "kostenlos, Spendenkasse vor Ort",
    "sold_out": "Ausverkauft laut Veranstalterseite (Warteliste bis 10.12.)",
@@ -14123,9 +14123,10 @@
     1600
    ],
    "start_place": "Gasthof Zum Goldenen Ritter, Schulstraße 5, 71579 Spiegelberg-Vorderbüchelberg",
-   "info": "UTMB-Kategorien 20K und 50K.",
+   "info": "UTMB-Kategorien 20K und 50K. Start 08:00 Uhr (Sonnenaufgang) beim Gasthof Zum Goldenen Ritter",
    "lat": 49.041,
-   "lon": 9.444
+   "lon": 9.444,
+   "start_time": "08:00"
   },
   {
    "id": "crosslaufserie-oberschwaben-4-lauf-reute-bad-waldsee-2026",
@@ -14523,19 +14524,22 @@
    "date": "2027-01-06",
    "confirmed": true,
    "distances": [
-    "5"
+    "5",
+    "10"
    ],
    "source": "https://haid.app/en/events/optima-dreikonigslauf-in-schwabisch-hall-mq94j2e2",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "lat": 49.111,
    "lon": 9.739,
    "url": "https://3koenigslauf.de/",
    "anmeldung_url": "https://my.raceresult.com/426738/registration",
    "reg_open": "2026-10-01",
-   "info": "41. OPTIMA Dreikönigslauf am 06.01.2027, Anmeldung seit 01.10.2026. 2026 war der Lauf ausgebucht (über 3.200 Läufer). 10 km in zwei Runden durch die Altstadt, Veranstalter TSG Schwäbisch Hall",
+   "info": "41. OPTIMA Dreikönigslauf am 06.01.2027, Anmeldung seit 01.10.2026. 2026 war der Lauf ausgebucht (über 3.200 Läufer). 10 km in zwei Runden durch die Altstadt, Veranstalter TSG Schwäbisch Hall. Startzeiten laut Anmeldeseite: 10 km (VR Bank Hauptlauf) 14:20 Uhr, 5 km (Röwisch Wohnbau Cup) 13:20 Uhr; Startnummer kommt ab 30.12.2026 per E-Mail",
    "reg_close": "2026-12-20",
    "start_place": "Startunterlagen in der Blendstatthalle, Blendstatt 6, 74523 Schwäbisch Hall (ab 10:00 Uhr, zusätzlich 04.01. bei Intersport Schoell)",
-   "sold_out": "laut Anmeldeseite ausgebucht, Stand 04.11.2026"
+   "sold_out": "10-km-Hauptlauf ausgebucht (laut Anmeldeseite, Stand 05.11.2026); 5 km sowie Jugend- und Kinderläufe noch frei",
+   "start_time": "14:20",
+   "pickup": "Startunterlagen Montag 04.01.2027 von 10 bis 18 Uhr bei Intersport Schoell (Stuttgarter Str. 157, Schwäbisch Hall) oder am Lauftag ab 10 Uhr in der Blendstatthalle"
   },
   {
    "id": "degerlocher-3-koenigslauf-2027",
@@ -16226,7 +16230,7 @@
     "10"
    ],
    "source": "https://haid.app/en/events/kerner-nachtlauf-mq93kz9q",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "lat": 48.807,
    "lon": 9.322,
    "anmeldung_url": "https://my.raceresult.com/428683",
@@ -16234,7 +16238,10 @@
    "info": "5 km (eine Runde) und 10 km (zwei Runden). Erste Runde ca. 4,5 km durch Gärten und Weinberge, großteils unbeleuchtet (Lichter und Fackelposten). Im Ziel Imbiss und Getränke.",
    "prev_date": "2025-11-08",
    "url": "https://www.spvgg-rommelshausen.de/leichtathletik",
-   "reg_close": "2026-11-12"
+   "reg_close": "2026-11-12",
+   "start_time": "18:00",
+   "fee": "10 km 12 €, 5 km 12 € (jeweils zzgl. 5 € Pfand für den Laufchip)",
+   "late_reg": "Nachmeldung am Veranstaltungstag im Stadion ab 16:30 Uhr bis kurz vor dem Start, Gebühr 2 €"
   },
   {
    "id": "atos-halbmarathon-heidelberg-2027",
@@ -22544,8 +22551,8 @@
     "10"
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 21.11.). Strecken laut hdsports. Veranstalter Lauftreff TSV Nussdorf. 18. Nussdorflauf war am Samstag 21.11.2026: Panoramalauf 10 km, Einsteigerlauf 6,6 km, TEENRun 3,3 km, Schüler- und Bambinilauf (Anmeldung über Schulen), Starts 11:15 bis 15:00 Uhr",
+   "checked": "2026-11-05",
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 21.11.). Strecken laut hdsports. Veranstalter Lauftreff TSV Nussdorf. 18. Nussdorflauf war am Samstag 21.11.2026: Panoramalauf 10 km, Einsteigerlauf 6,6 km, TEENRun 3,3 km, Schüler- und Bambinilauf (Anmeldung über Schulen), Starts 11:15 bis 15:00 Uhr. Startzeiten laut Veranstalter: TEENRun 13:30, Einsteigerlauf 14:00, Panoramalauf und Nordic Walking 15:00 Uhr",
    "url": "https://www.nussdorf-lauf.de/",
    "prev": {
     "start_time": "11:15"
@@ -22556,7 +22563,9 @@
    "anmeldung_url": "https://nussdorflauf2026.racepedia.de/",
    "reg_open": "2026-09-01",
    "reg_close": "2026-11-11",
-   "pickup": "Ab 10:15 Uhr am Jugendhaus Nussdorf"
+   "pickup": "Ab 10:15 Uhr am Jugendhaus Nussdorf",
+   "start_time": "15:00",
+   "fee": "Panoramalauf 10 km 15 €, Einsteigerlauf 6,6 km 10 €, Nordic Walking 6,6 km 10 €, TEENRun 3,3 km kostenlos"
   },
   {
    "id": "nikolauslauf-bad-schoenborn-2026",
@@ -22708,12 +22717,14 @@
     "7,7"
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 31.12.). Strecken laut hdsports. 55. Auflage 2026, Sportgemeinde 1865 Kißlegg. 55. Silvesterlauf; 2025 startete der Bambini-Lauf um 10:45 und der Hauptlauf über sieben Runden um 12:00 Uhr",
    "url": "https://sg-kisslegg-de.jimdofree.com/silvesterlauf/",
    "anmeldung_url": "https://my.raceresult.com/430549/",
    "prev_date": "2025-12-31",
-   "start_place": "Schlosspark Kißlegg"
+   "start_place": "Schlosspark Kißlegg",
+   "reg_close": "2026-12-28",
+   "late_reg": "Nachmeldung bis 30 Minuten vor dem Start, Gebühr 3 € zusätzlich"
   },
   {
    "id": "silvesterlauf-ottenbach-2026",
@@ -23391,13 +23402,14 @@
     "10"
    ],
    "source": "https://www.runme.de/deutschland/spiridon-silvesterlauf-frankfurt-am-main/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "url": "https://www.spiridon-silvesterlauf.de/",
    "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
    "fee": "10 €",
    "reg_close": "2026-11-29",
    "late_reg": "Online-Nachmeldung bis 27.12.2026, begrenzt",
-   "start_place": "Wintersporthalle am Deutsche Bank Park, Frankfurt"
+   "start_place": "Wintersporthalle am Deutsche Bank Park, Frankfurt",
+   "sold_out": "Hauptlauf (10 km) ausgebucht, keine Plätze mehr (laut Veranstalter, Stand 05.11.2026)"
   },
   {
    "id": "oberrodenbacher-silvesterlauf-2026",
@@ -23483,7 +23495,7 @@
     "HM"
    ],
    "source": "https://www.runme.de/deutschland/int-giessener-silvester-volkslauf-rund-um-den-schiffenberg/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "url": "https://www.silvesterlauf-giessen.de/",
    "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Halbmarathon 10:00, 10 km 10:45, 5 km 11:10, Schülerlauf 09:45 Uhr; 2 € Startnummernpfand; Anmeldung über RaceResult. Laut Veranstalter (Stand 05.11.2026): alle 2.000 Startplätze vergeben, Anmeldung geschlossen; bei Abmeldungen wird sie wieder geöffnet (Hinweis auf der Homepage und Instagram). Keine Warteliste, keine Startplatzübertragung. Siegerehrung nur für Streckensieger ca. 12:00 Uhr. 70 % Waldwege beim Halbmarathon, 80 % beim 10 km",
    "start_time": "10:45",
