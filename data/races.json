@@ -1367,7 +1367,7 @@
    "note": "Straßenlauf 5 und 10 km (Masters nur 10 km), Kinder-/Schüler-Crossläufe M/W8–15; Veranstalter LG Telis Finanz Regensburg",
    "url": "https://ladv.de/ausschreibung/detail/48822/Sport-Tahedl-Nikolauslauf-Regensburg.htm",
    "source": "https://ladv.de/ausschreibung/detail/48822/Sport-Tahedl-Nikolauslauf-Regensburg.htm",
-   "checked": "2026-11-01",
+   "checked": "2026-11-05",
    "fee": "Gestaffelt nach Anmeldezeitpunkt (Beträge nicht in der Ausschreibung genannt)",
    "reg_open": "2026-09-01",
    "reg_close": "2026-12-02",
@@ -2331,16 +2331,17 @@
    "note": "16. Auflage; gemeinsamer Lauf ohne Zeitnahme, auch Nordic Walking 10 km; Veranstalter Run & Bike Team",
    "url": "https://runandbike-team.de/neujahrsteamlauf/",
    "source": "https://runandbike-team.de/neujahrsteamlauf/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "aid": "Buffet nach dem Lauf im Sportheim des TSV Scheuerfeld",
-   "info": "Details und Anmeldung für 2027 noch nicht veröffentlicht; GPX-Dateien 10 km und 21 km auf der Veranstalterseite; laut Veranstalter dank Sponsoren bislang ohne Startgeld",
+   "info": "Details und Anmeldung für 2027 noch nicht veröffentlicht; GPX-Dateien 10 km und 21 km auf der Veranstalterseite; laut Veranstalter dank Sponsoren bislang ohne Startgeld. Meldeschluss 03.01.2027 oder bei Erreichen von 220 Teilnehmern",
    "bezirk": "Oberfranken",
    "kreis": "Stadt Coburg",
    "fee": "Kein Startgeld",
    "start_time": "11:00",
    "limit": "220 Teilnehmer (2025)",
    "pickup": "Ab 9:30 Uhr",
-   "start_place": "TSV-Sportgelände, Hirtengasse, Coburg-Scheuerfeld"
+   "start_place": "TSV-Sportgelände, Hirtengasse, Coburg-Scheuerfeld",
+   "reg_close": "2027-01-03"
   },
   {
    "id": "three-kings-ultra-trail-2027",
@@ -13706,13 +13707,13 @@
     "10"
    ],
    "source": "https://haid.app/en/events/rohrwanglauf-mv0dqhun",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "lat": 48.839,
    "lon": 10.092,
    "url": "https://rohrwanglauf.de",
    "start_place": "Stadion im Rohrwang, Aalen",
    "showers": "Umkleiden und Duschen im Sportzentrum Rohrwang",
-   "info": "Veranstalter Aalener Sportallianz (Leichtathletik und Triathlon). Dazu Rohrwangmeile 1,6 km. Anmeldung über ladv.de. 5-km-Strecke laut Seite 5,4 km. Rohrwangmeile 10:45 Uhr, übrige Läufe gemeinsam 11:00 Uhr",
+   "info": "Veranstalter Aalener Sportallianz (Leichtathletik und Triathlon). Dazu Rohrwangmeile 1,6 km. Anmeldung über ladv.de. 5-km-Strecke laut Seite 5,4 km. Rohrwangmeile 10:45 Uhr, übrige Läufe gemeinsam 11:00 Uhr. Voranmeldung online bis Freitag 06.11.2026; Start 10:45 Uhr Rohrwangmeile (1,6 km), 11:00 Uhr 5,4 und 10 km",
    "start_time": "10:45",
    "reg_close": "2026-11-06",
    "late_reg": "Nachmeldung am Samstag bis 1 Stunde vor den Läufen (früher +3 €)",
@@ -13790,7 +13791,7 @@
     "10"
    ],
    "source": "https://haid.app/en/events/bibersfelder-herbstlauf-mq93kjbk",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "lat": 49.111,
    "lon": 9.739,
    "fee": "5 km 10 €, 10 km 13 €, Walking 10 €, Schüler 8 €, Bambini/Kinder 6 €",
@@ -14002,7 +14003,7 @@
    "url": "https://lg-geroldseck-lahr.com",
    "start_place": "Geroldsecker Halle, Sportplatzstraße 13, 77933 Lahr-Reichenbach",
    "pickup": "Geroldsecker Halle",
-   "info": "33. Auflage. 5 km (eine Runde, zwei kurze Anstiege) und 10 km (zwei Runden) auf Asphalt und Waldwegen, DLV-vermessen. Dazu 5,5 km Walking. Anmeldung über RaceResult. 5 km und 10 km 14:00 Uhr, Walking 5,5 km 14:10 Uhr. Anmeldeschluss 27.11.2026 um 18:00 Uhr, Online-Anmeldung seit 01.09.2026",
+   "info": "33. Auflage. 5 km (eine Runde, zwei kurze Anstiege) und 10 km (zwei Runden) auf Asphalt und Waldwegen, DLV-vermessen. Dazu 5,5 km Walking. Anmeldung über RaceResult. 5 km und 10 km 14:00 Uhr, Walking 5,5 km 14:10 Uhr. Anmeldeschluss 27.11.2026 um 18:00 Uhr, Online-Anmeldung seit 01.09.2026. Online-Anmeldung seit 01.09.2026, Anmeldeschluss 27.11.2026, 18:00 Uhr",
    "start_time": "14:00",
    "reg_open": "2026-09-01",
    "reg_close": "2026-11-27",
@@ -14053,7 +14054,7 @@
    "reg_close": "2026-12-03",
    "late_reg": "Nachmeldung vor Ort möglich, 5 € Aufschlag",
    "start_place": "Vor der LAUFWELT, Rastatt-Wintersdorf",
-   "info": "Sonntag 06.12.2026 laut Veranstalterseite: Halbmarathon 12:00 Uhr, 10 km 13:00 Uhr, Bambinilauf (ca. 300 m, kostenlos) 12:15 Uhr. Voranmeldung bis 03.12.2026, 1 € je Anmeldung an laufendhelfen.de. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden)",
+   "info": "Sonntag 06.12.2026 laut Veranstalterseite: Halbmarathon 12:00 Uhr, 10 km 13:00 Uhr, Bambinilauf (ca. 300 m, kostenlos) 12:15 Uhr. Voranmeldung bis 03.12.2026, 1 € je Anmeldung an laufendhelfen.de. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden). Sonntag 06.12.2026; Voranmeldung bis 03.12.2026, 23:59 Uhr",
    "showers": "Umkleiden und Duschen nicht vorhanden",
    "pickup": "Startnummernausgabe am Veranstaltungstag vor der Laufwelt"
   },
@@ -14105,10 +14106,12 @@
    ],
    "sold_out": "Halbmarathon ausgebucht (laut Veranstalter, Stand 05.11.2026); frei werdende Startplätze gibt es nur über den Startplatztausch",
    "start_place": "Tübingen, Schönbuch (Strecke durch den Naturpark)",
-   "info": "Veranstalter Post-SV Tübingen. Vermessener Halbmarathon, überwiegend Waldschotterwege mit ca. 8,5 km Asphalt, ca. 300 Hm, größter Höhenunterschied 82 m. Dazu virtueller 10-km-Lauf und Schulprojekt. Finisher-Medaille kostenlos, Gravur 10 €. Funktionsshirt, Massage, Wertsachendepot im Startgeld.",
+   "info": "Veranstalter Post-SV Tübingen. Vermessener Halbmarathon, überwiegend Waldschotterwege mit ca. 8,5 km Asphalt, ca. 300 Hm, größter Höhenunterschied 82 m. Dazu virtueller 10-km-Lauf und Schulprojekt. Finisher-Medaille kostenlos, Gravur 10 €. Funktionsshirt, Massage, Wertsachendepot im Startgeld. Meldeschluss Halbmarathon 16.11.2026, 10 km 06.12.2026 oder bis das Limit erreicht ist",
    "start_time": "10:00",
    "reg_close": "2026-11-16",
-   "late_reg": "keine Nachmeldung"
+   "late_reg": "keine Nachmeldung",
+   "limit": "10 km: 750 Teilnehmer, Halbmarathon begrenzt",
+   "pickup": "Halbmarathon: Startnummernausgabe am 05.12.2026 von 11:30 bis 16:30 Uhr und am 06.12.2026 ab 7:30 Uhr"
   },
   {
    "id": "spiegelberger-raeuberweglauf-2026",
@@ -14201,7 +14204,7 @@
     "10"
    ],
    "source": "https://haid.app/en/events/britzinger-silvesterlauf-mq94h1ca",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "lat": 47.808,
    "lon": 7.63,
    "fee": "16 € (Jahrgang 2006 und älter), 10 € (Jahrgang 2007 und jünger)",
@@ -14210,11 +14213,12 @@
    "url": "https://silvesterlauf-britzingen.de",
    "pickup": "Grundschule Britzingen, Di 30.12. 15:00–18:30 und Mi 31.12. 09:00–12:45",
    "late_reg": "Keine Anmeldung vor Ort, nur online",
-   "info": "42. Auflage, TV Britzingen Lauftreff. 10-km-Runde Britzingen, Güttigheim, St. Ilgen, Buggingen, Dattingen. Online-Anmeldung seit 01.09.2026, geschlossen bei 1.100 Startern oder am 17.12. 23:59. Alle Finisher bekommen eine Neujahrsbrezel.",
+   "info": "42. Auflage, TV Britzingen Lauftreff. 10-km-Runde Britzingen, Güttigheim, St. Ilgen, Buggingen, Dattingen. Online-Anmeldung seit 01.09.2026, geschlossen bei 1.100 Startern oder am 17.12. 23:59. Alle Finisher bekommen eine Neujahrsbrezel. Meldeschluss bei Erreichen der Teilnehmerzahl, spätestens 17.12.2026, 23:59 Uhr",
    "start_place": "Markgräflerstraße, Britzingen (vor der Kirche), Ziel St.-Johannes-Kirche",
    "prev": {
     "start_time": "13:30"
-   }
+   },
+   "reg_open": "2026-09-01"
   },
   {
    "id": "gruental-winterultra-2026",
@@ -14277,15 +14281,17 @@
     "10,35"
    ],
    "source": "https://haid.app/en/events/bietigheimer-silvesterlauf-mq94hiv8",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "lat": 48.944,
    "lon": 9.117,
    "url": "https://lgne-running.de/silvesterlauf",
    "late_reg": "Nur Online-Anmeldung, Startplätze begrenzt (in früheren Jahren ausgebucht)",
-   "info": "Zwei Runden durch die Altstadt und die Enzwiesen, überwiegend Asphalt. Mindestalter 14. Startblöcke nach aktueller 10-km-Zeit. Mannschaftswertung automatisch. Keine Kinderwagen, Stöcke, Hunde, Radbegleiter.",
+   "info": "Zwei Runden durch die Altstadt und die Enzwiesen, überwiegend Asphalt. Mindestalter 14. Startblöcke nach aktueller 10-km-Zeit. Mannschaftswertung automatisch. Keine Kinderwagen, Stöcke, Hunde, Radbegleiter. Online-Anmeldung seit 01.10.2026; bei Krankheit oder Verletzung bis 13.12.2026 Erstattung des Organisationsbeitrags abzüglich 8 €",
    "start_time": "14:00",
    "fee": "gestaffelt nach Startplatz-Nummer: Plätze 1–1.000 22 €, 1.001–2.000 26 €, 2.001–3.000 30 €, ab 3.001 34 €",
-   "start_place": "Sporthalle am Viadukt, Holzgartenstraße 28, Bietigheim-Bissingen"
+   "start_place": "Sporthalle am Viadukt, Holzgartenstraße 28, Bietigheim-Bissingen",
+   "showers": "Umkleiden: Männer Sporthalle am Viadukt (Erdgeschoss), Frauen Hallenbad am Viadukt (Umkleide- und Duschräume)",
+   "reg_open": "2026-10-01"
   },
   {
    "id": "silvesterlauf-tettnang-2026",
@@ -16587,12 +16593,14 @@
    "url": "https://neujahrslauf.lgfilder.de/",
    "source": "https://www.hdsports.org/laufen/neujahrslauf-leinfelden-echterdingen",
    "start_place": "Sportzentrum Leinfelden, Randweg 10, 70771 Leinfelden-Echterdingen",
-   "info": "LG Filder. Termin 01.01.2027 laut hdsports vom Veranstalter bestätigt. Waldlauf '10 km um die keltische Viereckschanze' (Start 2026 um 14:00 Uhr). 2026 gab es 149 Finisher. 11. Neujahrslauf der LG Filder am Freitag 01.01.2027, Anmeldung online, Startgeld per Überweisung bis 21.12.2026",
-   "checked": "2026-11-04",
+   "info": "LG Filder. Termin 01.01.2027 laut hdsports vom Veranstalter bestätigt. Waldlauf '10 km um die keltische Viereckschanze' (Start 2026 um 14:00 Uhr). 2026 gab es 149 Finisher. 11. Neujahrslauf der LG Filder am Freitag 01.01.2027, Anmeldung online, Startgeld per Überweisung bis 21.12.2026. Ausschreibung und Voranmeldung für 2027 folgen laut Veranstalter in Kürze; Strecke 10 km um die keltische Viereckschanze, Start 14:00 Uhr",
+   "checked": "2026-11-05",
    "bezirk": "Stuttgart",
    "lat": 48.694,
    "lon": 9.168,
-   "fee": "13 €"
+   "fee": "13 €",
+   "showers": "Umkleide und Duschen im Sportzentrum Leinfelden (Duschen in den Ferien unter Umständen nur kalt)",
+   "pickup": "Startunterlagen im Sportzentrum Leinfelden"
   },
   {
    "id": "swp-citylauf-pforzheim-2027",
@@ -16977,13 +16985,14 @@
     "10"
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 30.01.). Strecken laut hdsports. Teil einer Winterlaufserie. Veranstalterseite nur per http erreichbar. Drei Läufe, einer vor und zwei nach dem Jahreswechsel, 5 km und 10 km sowie Kinder- und Jugendläufe. 2026 (2. Lauf am 31.01.): Zeitraum 14:00–16:00 Uhr, 10-km-Hauptlauf und 5-km-Lauf 14:45 Uhr; Termin 2027 nur Prognose",
+   "checked": "2026-11-05",
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 30.01.). Strecken laut hdsports. Teil einer Winterlaufserie. Veranstalterseite nur per http erreichbar. Drei Läufe, einer vor und zwei nach dem Jahreswechsel, 5 km und 10 km sowie Kinder- und Jugendläufe. 2026 (2. Lauf am 31.01.): Zeitraum 14:00–16:00 Uhr, 10-km-Hauptlauf und 5-km-Lauf 14:45 Uhr; Termin 2027 nur Prognose. Start 14:45 Uhr (10 km und 5 km), Kinderlauf 14:00 Uhr; Anmeldung über Datasport",
    "url": "http://www.djk-winterlaufserie.de/",
    "start_place": "DJK Sportanlage Bürgerhölzle, 73033 Göppingen",
    "prev": {
     "start_time": "14:45"
-   }
+   },
+   "showers": "Umkleiden und Duschen im Vereinsheim"
   },
   {
    "id": "winterlaufserie-djk-goeppingen-3-lauf-2027",
@@ -22521,7 +22530,7 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-05",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 14.11.). Strecken laut hdsports. Zugleich Baden-Württembergische Crossmeisterschaften und Deutsche Hochschulmeisterschaft. Speed-Cross (2 Läufe, 30 Plätze). Zahlung nur bargeldlos. Teilnahme an den BaWü-Crossmeisterschaften zzgl. 5 € BLV-Verbandsgebühr; Anmeldung nur online bis 07.11.2026 23:59 Uhr",
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 14.11.). Strecken laut hdsports. Zugleich Baden-Württembergische Crossmeisterschaften und Deutsche Hochschulmeisterschaft. Speed-Cross (2 Läufe, 30 Plätze). Zahlung nur bargeldlos. Teilnahme an den BaWü-Crossmeisterschaften zzgl. 5 € BLV-Verbandsgebühr; Anmeldung nur online bis 07.11.2026 23:59 Uhr. Anmeldung nur online bis Samstag 07.11.2026, 23:59 Uhr",
    "url": "https://sparkassencross.de/",
    "anmeldung_url": "https://ladv.de",
    "prev": {
@@ -22609,7 +22618,7 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-05",
-   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 06.12.). Strecken laut hdsports. 49. Auflage 2026, SG Bad Schönborn 1975. Einmal-Transponder von br-timing, Zahlung per SEPA-Lastschrift. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden)",
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 06.12.). Strecken laut hdsports. 49. Auflage 2026, SG Bad Schönborn 1975. Einmal-Transponder von br-timing, Zahlung per SEPA-Lastschrift. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden). Meldeschluss Samstag 05.12.2026, 17:00 Uhr",
    "anmeldung_url": "https://runtix.com/sts/10021/3147",
    "start_place": "Schönbornhalle, Bad Mingolsheim",
    "showers": "Umkleiden und Duschen (Renovierung kann einschränken)",
@@ -22723,11 +22732,15 @@
     "10"
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 31.12.). Strecken laut hdsports. 13. Auflage: Bambini 250 m und Schülerläufe 500/1000 m, 5 km, 10 km und Walking auf flachem, vermessenem 5-km-Rundkurs an der Donau; die ersten 1000 Voranmelder bekommen ein Running-Shirt",
+   "checked": "2026-11-05",
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 31.12.). Strecken laut hdsports. 13. Auflage: Bambini 250 m und Schülerläufe 500/1000 m, 5 km, 10 km und Walking auf flachem, vermessenem 5-km-Rundkurs an der Donau; die ersten 1000 Voranmelder bekommen ein Running-Shirt. Online-Anmeldung über silvesterlauf-tuttlingen.de bis Montag 28.12.2026, 23:59 Uhr (Lastschrift über RaceResult Timing BW)",
    "prev_date": "2025-12-31",
    "url": "http://www.silvesterlauf-tuttlingen.de/",
-   "start_place": "Ferdinand-von-Steinbeis-Schule, Mühlenweg 21, Tuttlingen"
+   "start_place": "Ferdinand-von-Steinbeis-Schule, Mühlenweg 21, Tuttlingen",
+   "reg_close": "2026-12-28",
+   "late_reg": "Nach- und Ummeldungen am Veranstaltungstag ab 9:30 Uhr bis 45 Minuten vor dem jeweiligen Wettbewerb",
+   "pickup": "Aula des Immanuel-Kant-Gymnasiums: am Vortag Mittwoch 30.12.2026 von 12:00 bis 14:00 Uhr und am Veranstaltungstag",
+   "showers": "Umkleiden und Duschen in der Mühlau-Sporthalle (Sporthalle der Gymnasien, Mühlenweg 11)"
   },
   {
    "id": "kisslegger-silvesterlauf-2026",
@@ -22771,14 +22784,20 @@
     "10"
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-04",
-   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 31.12.). Strecken laut hdsports. Veranstalter Ottsilla-Team des TSV Ottenbach. 20. Silvesterlauf war am 31.12.2025: 10 km, 6,5 km und Walking, Zeitnahme durch Datasport, Weißwurstessen mit Siegerehrung in der Gemeindehalle ab 14:00 Uhr",
+   "checked": "2026-11-05",
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 31.12.). Strecken laut hdsports. Veranstalter Ottsilla-Team des TSV Ottenbach. 20. Silvesterlauf war am 31.12.2025: 10 km, 6,5 km und Walking, Zeitnahme durch Datasport, Weißwurstessen mit Siegerehrung in der Gemeindehalle ab 14:00 Uhr. Voranmeldung online ab 15.11.2026, Anmeldeschluss 29.12.2026, 22:00 Uhr; Siegerehrung ab 14:00 Uhr in der Gemeindehalle",
    "url": "https://www.tsv-ottenbach.de/abteilungen/ottsilla/silvesterlauf/",
    "prev": {
     "fee": "10 km, 6,5 km und Nordic Walking 13 € bei Voranmeldung, 17 € Nachmeldung (Ausgabe 2025)"
    },
    "start_place": "Sportzentrum „Im Buchs“, Ottenbach",
-   "prev_date": "2025-12-31"
+   "prev_date": "2025-12-31",
+   "reg_open": "2026-11-15",
+   "reg_close": "2026-12-29",
+   "fee": "13 € bei Voranmeldung, 17 € bei Nachmeldung (10 km, 6,5 km, Nordic Walking); Jugendlauf U10/U12/U14 3 €; Bambinilauf kostenlos",
+   "late_reg": "Nachmeldung am Wettkampftag von 9:00 bis 11:30 Uhr in der Gemeindehalle, 4 € Zuschlag",
+   "pickup": "Startnummernausgabe am Wettkampftag von 9:00 bis 11:30 Uhr in der Gemeindehalle Ottenbach (Sportzentrum „Im Buchs“)",
+   "showers": "Umkleide und Duschen in der Gemeindehalle im Sportzentrum"
   },
   {
    "id": "stettener-volkslauf-2027",
@@ -23417,14 +23436,17 @@
    "source": "https://www.runme.de/deutschland/griesheimer-silvesterlauf/",
    "checked": "2026-11-05",
    "url": "https://www.tusgriesheim.de/de/vereinssport/sportarten/leichtathletik/31-griesheimer-rewe-michael-weisbrod-silvesterlauf/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden)",
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden). Online-Voranmeldung bis Montag 28.12.2026, 20 Uhr; bei Voranmeldung wird das Startgeld erst nach der Veranstaltung per Lastschrift abgebucht",
    "start_time": "10:45",
    "prev": {
     "fee": "Schülerlauf 5 € (Ausgabe 2025)"
    },
    "showers": "Umkleiden und Duschen auf dem Schulgelände",
    "late_reg": "Nachmeldung am Veranstaltungstag gegen Nachmeldegebühr",
-   "pickup": "Startunterlagen an einem Vortag und am Veranstaltungstag im Meldebüro"
+   "pickup": "Startunterlagen an einem Vortag und am Veranstaltungstag im Meldebüro",
+   "reg_close": "2026-12-28",
+   "start_place": "Waldspielplatz, Goethestraße 99, Griesheim",
+   "parking": "Parkplätze direkt an Start/Ziel auf dem Parkplatz der Gerhart-Hauptmann-Schule und auf dem Großparkplatz"
   },
   {
    "id": "spiridon-mainova-silvesterlauf-frankfurt-2026",
@@ -23443,12 +23465,13 @@
    "source": "https://www.runme.de/deutschland/spiridon-silvesterlauf-frankfurt-am-main/",
    "checked": "2026-11-05",
    "url": "https://www.spiridon-silvesterlauf.de/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Laut Anmeldeportal am 05.11.2026 Teilnehmerlimit (3.000) erreicht, keine Anmeldung mehr möglich; Anmeldeschluss 29.11.2026, bei Anmeldung bis dahin Versand der Startunterlagen",
    "fee": "10 €",
    "reg_close": "2026-11-29",
    "late_reg": "Online-Nachmeldung bis 27.12.2026, begrenzt",
    "start_place": "Wintersporthalle am Deutsche Bank Park, Frankfurt",
-   "sold_out": "Hauptlauf (10 km) ausgebucht, keine Plätze mehr (laut Veranstalter, Stand 05.11.2026)"
+   "sold_out": "Hauptlauf (10 km) ausgebucht, keine Plätze mehr (laut Veranstalter, Stand 05.11.2026)",
+   "limit": "3.000 Teilnehmer"
   },
   {
    "id": "oberrodenbacher-silvesterlauf-2026",
@@ -23466,12 +23489,15 @@
     "10,3"
    ],
    "source": "https://www.runme.de/deutschland/silvesterlauf-oberrodenbach/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "url": "http://www.turnverein-oberrodenbach.de",
    "start_time": "13:30",
    "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
    "fee": "Läufe 1–4 je 4 €, 5. Lauf 9 €, 6. Lauf 12 €",
-   "pickup": "Meldebüro am 31.12.2026 ab 10:00 Uhr (bis 13:00), Startunterlagen spätestens 45 Minuten vor Laufbeginn abholen"
+   "pickup": "Meldebüro am 31.12.2026 ab 10:00 Uhr (bis 13:00), Startunterlagen spätestens 45 Minuten vor Laufbeginn abholen",
+   "parking": "Parkmöglichkeiten an der Südhanghalle und in den angrenzenden Straßen",
+   "showers": "Umkleiden und Duschen in der Südhanghalle, etwa 300 m vom Start/Ziel",
+   "start_place": "Waldrand am Naturfreundehaus Oberrodenbach (Ende der Bergstraße)"
   },
   {
    "id": "silvesterlauf-kaufungen-2026",
@@ -23571,10 +23597,12 @@
     "10"
    ],
    "source": "https://www.runme.de/deutschland/dreikoenigslauf-in-altenstadt/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "url": "https://www.vfl-altenstadt.de/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
-   "start_time": "10:00"
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Anmeldeschluss Montag 02.11.2026 (laut Veranstalter für die Ausgabe 2027)",
+   "start_time": "10:00",
+   "reg_close": "2026-11-02",
+   "late_reg": "Nachmeldung am Veranstaltungstag gegen zusätzliche Gebühr möglich"
   },
   {
    "id": "offenbacher-suppenschuessel-cross-2027",
@@ -23614,11 +23642,16 @@
     "HM"
    ],
    "source": "https://www.runme.de/deutschland/winterlauf-serie-alten-buseck/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "url": "https://www.tsg-alten-buseck.com/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Termine der Serie: 14.11.2026, 12.12.2026, 23.01.2027.",
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Termine der Serie: 14.11.2026, 12.12.2026, 23.01.2027. Winterlaufserie mit Start jeweils ab 14:00 Uhr (2- und 5-km-Lauf im Anschluss); Online-Anmeldung ab 01.10.2026 bis jeweils am Tag des Laufes um 12:00 Uhr",
    "fee": "5 km 8 €, 10/15 und 21 km 10 € (pro Lauf)",
-   "late_reg": "Meldung auch am Lauftag bis 12:00 Uhr möglich"
+   "late_reg": "Meldung auch am Lauftag bis 12:00 Uhr möglich",
+   "start_time": "14:00",
+   "reg_open": "2026-10-01",
+   "reg_close": "2026-11-14",
+   "parking": "Eingeschränkte Parkmöglichkeiten an der Harbig-Halle",
+   "showers": "Toiletten, Duschen und Umkleidemöglichkeiten in der Harbig-Halle"
   },
   {
    "id": "winterlauf-walkingserie-hofheim-lorsbach-2026",
@@ -23657,11 +23690,12 @@
     "50"
    ],
    "source": "https://www.runme.de/deutschland/50-km-ultra-marathon-rodgau/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "url": "https://ultra.rlt-rodgau.de/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. DLV-genehmigter Lauf auf bestenlistenfähiger Strecke; Online-Anmeldung geöffnet",
    "start_time": "10:00",
-   "start_place": "Rodgau-Dudenhofen"
+   "start_place": "Rodgau-Dudenhofen",
+   "late_reg": "Nachmeldungen nur noch online möglich"
   },
   {
    "id": "pohlheimer-limes-winterlaufserie-2026",
@@ -27894,9 +27928,12 @@
    ],
    "anmeldung_url": "https://runtix.com/sts/10021/3226",
    "source": "https://running.life/de/termine/uderslebener-waldlauf",
-   "info": "Veranstalter SSV 1923 Udersleben; 16,4 km, 7,8 km, 3,3 km, 2,1 km, Bambini-Lauf und MTB; Ausgabe 2026 Sonntag 08.11..",
+   "info": "Veranstalter SSV 1923 Udersleben; 16,4 km, 7,8 km, 3,3 km, 2,1 km, Bambini-Lauf und MTB; Ausgabe 2026 Sonntag 08.11. Voranmeldung online, per Mail oder Telefon bis 08.11.2026 etwa 7:00 Uhr; Läufer 16,4 km Start 10:25 Uhr",
    "fee": "16,4 km 12 €, 7,8 km 10 €, 3,3 km und 2,1 km je 6 € (Ausgabe 2026)",
-   "checked": "2026-11-05"
+   "checked": "2026-11-05",
+   "reg_close": "2026-11-08",
+   "late_reg": "Nachmeldung am 08.11.2026 ab 8:30 Uhr auf dem Vereinsgelände des SSV Udersleben",
+   "start_place": "Sportplatz Udersleben"
   },
   {
    "id": "landgrafenlauf-2026",
@@ -28125,7 +28162,9 @@
    "checked": "2026-11-05",
    "pickup": "Mittwoch 30.12.2026 von 16:00 bis 18:00 Uhr und am Lauftag ab 7:30 Uhr bis spätestens 30 Minuten vor dem jeweiligen Start",
    "parking": "Keine offiziellen Parkplätze am Eventgelände, großer Parkplatz in der Werner-Seelenbinder-Straße gegenüber der Thüringenhalle",
-   "limit": "Teilnehmerzahl limitiert"
+   "limit": "Teilnehmerzahl limitiert",
+   "fee": "12 € bis 25 € je nach Strecke",
+   "late_reg": "Nachmeldung vor Ort in bar, ab 01.12.2026 zusätzlich 5 € Nachmeldegebühr"
   },
   {
    "id": "silvesterlauf-waldeck-2026",
@@ -28300,9 +28339,10 @@
    ],
    "url": "https://eisenacher-leichtathletik-verein.de",
    "source": "https://www.runme.de/deutschland/winterlaufserie-in-creuzburg/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Veranstalter: drei Läufe der Winterlaufserie am 24.01., 21.02. und 14.03.2027 in Creuzburg; Voranmeldung für den 2. Lauf bis Dienstag 16.02.2027 23:59 Uhr, Cupwertung über alle drei Läufe",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Veranstalter: drei Läufe der Winterlaufserie am 24.01., 21.02. und 14.03.2027 in Creuzburg; Voranmeldung für den 2. Lauf bis Dienstag 16.02.2027 23:59 Uhr, Cupwertung über alle drei Läufe. Voranmeldung online bis 19.01.2027, 23:59 Uhr (Anmeldelinks über Cheap Timing)",
    "checked": "2026-11-05",
-   "start_time": "11:50"
+   "start_time": "11:50",
+   "reg_close": "2027-01-19"
   },
   {
    "id": "wintertrail-weissendorf-2027",
@@ -31042,8 +31082,8 @@
    ],
    "url": "http://www.atsv-info.de/",
    "source": "https://www.runme.de/deutschland/wurzellauf-marienberg-gelobtland/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 10:00 Uhr, frühester Lauf ab 5 km). Laut Ausschreibung Meldeschluss 05.11.2026 18:00 Uhr",
-   "checked": "2026-11-06",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 10:00 Uhr, frühester Lauf ab 5 km). Laut Ausschreibung Meldeschluss 05.11.2026 18:00 Uhr. Meldeschluss 05.11.2026, 18:00 Uhr",
+   "checked": "2026-11-05",
    "start_time": "10:00",
    "reg_close": "2026-11-05",
    "late_reg": "Nachmeldung bis 9:00 Uhr am Wettkampftag, Gebühr 2 €",
@@ -31418,7 +31458,7 @@
    "url": "https://www.rot-weiss90.de/index.html",
    "source": "https://www.runme.de/deutschland/bautzener-silvesterlauf/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Ausschreibung neue Strecken: 5,5 km (55 Hm) und 11,0 km (110 Hm, bisher 10,8 km), 2,6 km unverändert; Start 09:30 Uhr (5,5 und 11,0 km) und 09:40 Uhr (2,6 km); Online-Anmeldung über Baer-Service",
-   "checked": "2026-11-06",
+   "checked": "2026-11-05",
    "start_time": "09:30",
    "fee": "2,6 km 5 €, 5,5 km 8 €, 11,0 km 10 €",
    "late_reg": "Ab 30.12.2026 steigt die Anmeldegebühr um 4 € je Lauf"
@@ -41219,11 +41259,13 @@
    ],
    "url": "http://www.bsv1892-leichtathletik.de",
    "source": "https://www.runme.de/deutschland/bsv-92-winterlaufserie-berlin/",
-   "info": "Winterserie mit drei Läufen (10 km, 15 km und Halbmarathon) im Januar 2027, hier mit dem ersten Termin geführt; Termine laut HDsports und RUNME (nicht bestätigt). Startzeit laut RUNME (15 km um 11:00 Uhr, frühester Lauf ab 5 km). 53. Winterserie des Berliner Sport-Vereins 1892 laut Ausschreibung: 5 km am 10.01.2027, 10 km am 17.01.2027, Halbmarathon am 31.01.2027, Kids- und Fun-Lauf 3,1 km",
+   "info": "Winterserie mit drei Läufen (10 km, 15 km und Halbmarathon) im Januar 2027, hier mit dem ersten Termin geführt; Termine laut HDsports und RUNME (nicht bestätigt). Startzeit laut RUNME (15 km um 11:00 Uhr, frühester Lauf ab 5 km). 53. Winterserie des Berliner Sport-Vereins 1892 laut Ausschreibung: 5 km am 10.01.2027, 10 km am 17.01.2027, Halbmarathon am 31.01.2027, Kids- und Fun-Lauf 3,1 km. 53. Winterserie des Berliner Sportvereins 1892; 5 km, 10 km und Halbmarathon an drei Sonntagen",
    "checked": "2026-11-05",
    "start_time": "11:00",
    "fee": "5 km 13 €, 10 km 18 €, Halbmarathon 27,50 €, Serie (5 km + 10 km + Halbmarathon) 50 €, Kids- und Fun-Lauf 3,1 km 9 € bei Anmeldung bis 15.12.2026 (bis 31.10.2026 11 / 16 / 25 / 45 €, danach bis Meldeschluss 15 / 20 / 30 / 55 €)",
-   "late_reg": "Nachmeldung nach Meldeschluss bis 60 Minuten vor dem Start nur online gegen 5 € Zusatzgebühr"
+   "late_reg": "Nachmeldung nach Meldeschluss bis 60 Minuten vor dem Start nur online gegen 5 € Zusatzgebühr",
+   "showers": "Umkleide- und Duschmöglichkeiten in der Horst-Käsler-Halle",
+   "start_place": "Stadion Wilmersdorf"
   },
   {
    "id": "spandauer-winterwaldlauf-2027",
@@ -48225,28 +48267,6 @@
    "source": "https://www.hdsports.org/laufen/energiesuedwest-cup-goecklingen",
    "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
    "checked": "2026-11-05"
-  },
-  {
-   "id": "baerenfels-sechs-stunden-trail-2027",
-   "type": "trail",
-   "name": "Bärenfels Sechs-Stunden trail",
-   "place": "Neubrücke",
-   "bezirk": "Koblenz",
-   "kreis": "LK Birkenfeld",
-   "lat": 49.617,
-   "lon": 7.2,
-   "date": "2027-10-03",
-   "confirmed": false,
-   "distances": [
-    "6"
-   ],
-   "url": "http://www.baerenfelsteam.de/",
-   "source": "https://www.runme.de/deutschland/baerenfels-sechs-stunden-trail/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 10:00 Uhr).",
-   "checked": "2026-11-05",
-   "prev": {
-    "start_time": "10:00"
-   }
   },
   {
    "id": "ingelheimer-polderlauf-2027",
