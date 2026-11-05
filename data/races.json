@@ -13524,7 +13524,8 @@
    "start_time": "15:00",
    "reg_close": "2026-11-11",
    "fee": "2,9 km und 8,1 km je 13 €, Bambini 2 €, Kinder und Jugend 6 €, Staffel 20 €",
-   "anmeldung_url": "https://my.raceresult.com/425665/registration"
+   "anmeldung_url": "https://my.raceresult.com/425665/registration",
+   "reg_open": "2026-10-01"
   },
   {
    "id": "crosslauf-denzlingen-2026",
@@ -13574,12 +13575,13 @@
    "late_reg": "Nachmeldung am Veranstaltungstag, 3 € Aufschlag",
    "start_place": "Sport- und Kulturhalle Süßen, Sommerauweg 11",
    "showers": "Umkleiden und Duschen in der Sporthalle",
-   "info": "Strecken nicht amtlich vermessen (Asphalt, Schotter, Waldwege). Chip in der Startnummer Pflicht. Dazu 5 km Walking und Jugendlauf 1,8 km. WMF BKK AST Süßen Herbstlauf am Sonntag 22.11.2026: Jugendlauf 13:00 Uhr, 5 km und 11 km 13:30 Uhr, Walking 13:35 Uhr, Siegerehrungen 14:30 und 15:30 Uhr; keine Erstattung bei Nichtantritt",
-   "checked": "2026-11-04",
+   "info": "Strecken nicht amtlich vermessen (Asphalt, Schotter, Waldwege). Chip in der Startnummer Pflicht. Dazu 5 km Walking und Jugendlauf 1,8 km. WMF BKK AST Süßen Herbstlauf am Sonntag 22.11.2026: Jugendlauf 13:00 Uhr, 5 km und 11 km 13:30 Uhr, Walking 13:35 Uhr, Siegerehrungen 14:30 und 15:30 Uhr; keine Erstattung bei Nichtantritt. Online-Anmeldung zum normalen Preis bis 15.11.2026, danach 3 € Nachmeldegebühr",
+   "checked": "2026-11-05",
    "lat": 48.679,
    "lon": 9.755,
    "start_time": "13:30",
-   "fee": "Bühlrunde 5 km 13 € (AST-Mitglieder 10 €), Marrenwaldrunde 11 km 17 € (AST-Mitglieder 14 €), Jugendlauf 1,8 km 2 €; Nachmeldung +3 €"
+   "fee": "Bühlrunde 5 km 13 € (AST-Mitglieder 10 €), Marrenwaldrunde 11 km 17 € (AST-Mitglieder 14 €), Jugendlauf 1,8 km 2 €; Nachmeldung +3 €",
+   "reg_close": "2026-11-15"
   },
   {
    "id": "adventslauf-weiden-2026",
@@ -13937,14 +13939,14 @@
     "10"
    ],
    "source": "https://haid.app/en/events/stadtwerke-night-run-mq93lmob",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "lat": 48.713,
    "lon": 8.999,
    "fee": "6 km 18 €, 10 km 21 € ab 12.11. (Kinderläufe frei bis 11.11., danach 5 €)",
    "late_reg": "Online-Nachmeldung bis kurz vor dem Start, auch am Lauftag vor Ort",
    "anmeldung_url": "https://my.raceresult.com/375778",
    "pickup": "Stahl Sport Shop in Maichingen oder Glaspalast Sindelfingen",
-   "info": "Veranstalter Event Service Stahl. Stirnlampe oder Taschenlampe Pflicht (unbeleuchtete Waldwege). Kinder- und Schülerläufe ab 16:30 bzw. 16:45 Uhr, Hauptläufe gemeinsam 18:00 Uhr, Stirnlampe Pflicht auf 6 und 10 km",
+   "info": "Veranstalter Event Service Stahl. Stirnlampe oder Taschenlampe Pflicht (unbeleuchtete Waldwege). Kinder- und Schülerläufe ab 16:30 bzw. 16:45 Uhr, Hauptläufe gemeinsam 18:00 Uhr, Stirnlampe Pflicht auf 6 und 10 km. Startzeiten laut Anmeldeseite: 10 km und 6 km 18:00 Uhr, Kinderläufe ab 16:30 Uhr",
    "start_time": "18:00",
    "start_place": "Glaspalast Sindelfingen, Rudolf-Harbig-Straße 10, 71063 Sindelfingen",
    "url": "https://www.eventservice-stahl.de/veranstaltungen/stadtwerke-night-run/"
@@ -13992,15 +13994,17 @@
     "10"
    ],
    "source": "https://haid.app/en/events/mittelbaden-nikolauslauf-msid18pt",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "lat": 48.339,
    "lon": 7.872,
    "url": "https://lg-geroldseck-lahr.com",
    "start_place": "Geroldsecker Halle, Sportplatzstraße 13, 77933 Lahr-Reichenbach",
    "pickup": "Geroldsecker Halle",
-   "info": "33. Auflage. 5 km (eine Runde, zwei kurze Anstiege) und 10 km (zwei Runden) auf Asphalt und Waldwegen, DLV-vermessen. Dazu 5,5 km Walking. Anmeldung über RaceResult. 5 km und 10 km 14:00 Uhr, Walking 5,5 km 14:10 Uhr",
+   "info": "33. Auflage. 5 km (eine Runde, zwei kurze Anstiege) und 10 km (zwei Runden) auf Asphalt und Waldwegen, DLV-vermessen. Dazu 5,5 km Walking. Anmeldung über RaceResult. 5 km und 10 km 14:00 Uhr, Walking 5,5 km 14:10 Uhr. Anmeldeschluss 27.11.2026 um 18:00 Uhr, Online-Anmeldung seit 01.09.2026",
    "start_time": "14:00",
-   "reg_open": "2026-09-01"
+   "reg_open": "2026-09-01",
+   "reg_close": "2026-11-27",
+   "late_reg": "Keine Nachmeldung möglich"
   },
   {
    "id": "bernhard-marathon-2026",
