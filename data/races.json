@@ -1286,9 +1286,9 @@
    "url": "https://rennmeldung.de/cgi-bin/bewerb.cgi?bewerb=04246",
    "reg_open": null,
    "reg_close": "2026-11-25",
-   "fee": null,
+   "fee": "Kostenlos (kein Nenngeld, keine Gebühr)",
    "start_time": null,
-   "checked": "2026-11-03",
+   "checked": "2026-11-05",
    "source": "https://running.life/de/termine/nikolauslauf-landsberg-a-lech",
    "start_place": null,
    "aid": null,
@@ -1305,7 +1305,7 @@
    "cutoff": null,
    "included": null,
    "late_reg": "Online-Nachmeldung über rennmeldung.de bis 01.12.2026, 24:00",
-   "info": "33. Nikolauslauf der FT Jahn Landsberg: 1 km, 2 km, 5 km (Laufen und Nordic Walking), 10 km. Meldeschluss 25.11.2026 24:00 Uhr über rennmeldung.de; Startgeld und Startzeiten stehen dort nicht, keine Ausschreibung hinterlegt",
+   "info": "33. Nikolauslauf der FT Jahn Landsberg: 1 km, 2 km, 5 km (Laufen und Nordic Walking), 10 km. Meldeschluss 25.11.2026 24:00 Uhr über rennmeldung.de; Startgeld und Startzeiten stehen dort nicht, keine Ausschreibung hinterlegt. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden)",
    "bezirk": "Oberbayern",
    "kreis": "LK Landsberg am Lech"
   },
@@ -14043,7 +14043,7 @@
     "HM"
    ],
    "source": "https://haid.app/en/events/laufwelt-nikolauslauf-der-rsg-ried-rastatt-mq93n2wr",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "lat": 48.858,
    "lon": 8.21,
    "url": "https://rsg-ried-rastatt.de/2026/10/laufwelt_nikolauslauf_2026/",
@@ -14051,7 +14051,9 @@
    "reg_close": "2026-12-03",
    "late_reg": "Nachmeldung vor Ort möglich, 5 € Aufschlag",
    "start_place": "Vor der LAUFWELT, Rastatt-Wintersdorf",
-   "info": "Sonntag 06.12.2026 laut Veranstalterseite: Halbmarathon 12:00 Uhr, 10 km 13:00 Uhr, Bambinilauf (ca. 300 m, kostenlos) 12:15 Uhr. Voranmeldung bis 03.12.2026, 1 € je Anmeldung an laufendhelfen.de"
+   "info": "Sonntag 06.12.2026 laut Veranstalterseite: Halbmarathon 12:00 Uhr, 10 km 13:00 Uhr, Bambinilauf (ca. 300 m, kostenlos) 12:15 Uhr. Voranmeldung bis 03.12.2026, 1 € je Anmeldung an laufendhelfen.de. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden)",
+   "showers": "Umkleiden und Duschen nicht vorhanden",
+   "pickup": "Startnummernausgabe am Veranstaltungstag vor der Laufwelt"
   },
   {
    "id": "nikolauslauf-ilsfeld-2026",
@@ -22591,14 +22593,16 @@
     "10"
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-04",
-   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 06.12.). Strecken laut hdsports. 49. Auflage 2026, SG Bad Schönborn 1975. Einmal-Transponder von br-timing, Zahlung per SEPA-Lastschrift.",
+   "checked": "2026-11-05",
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 06.12.). Strecken laut hdsports. 49. Auflage 2026, SG Bad Schönborn 1975. Einmal-Transponder von br-timing, Zahlung per SEPA-Lastschrift. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden)",
    "anmeldung_url": "https://runtix.com/sts/10021/3147",
    "start_place": "Schönbornhalle, Bad Mingolsheim",
    "showers": "Umkleiden und Duschen (Renovierung kann einschränken)",
    "late_reg": "Nachmeldung vor Ort und online bis kurz vor dem Start, 2 € Aufschlag",
    "prev_date": "2025-12-07",
-   "url": "https://www.sg-badschoenborn.de/nikolauslauf/"
+   "url": "https://www.sg-badschoenborn.de/nikolauslauf/",
+   "reg_close": "2026-12-05",
+   "pickup": "Startnummernausgabe in der Schönbornhalle ab 8:00 Uhr"
   },
   {
    "id": "winterlauf-buehlerzell-2026",
@@ -23211,9 +23215,11 @@
    "checked": "2026-11-05",
    "url": "https://www.mtv-giessen.de/",
    "start_time": "10:00",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden)",
    "start_place": "Sportplatz am Heegstrauchweg 3, Gießen",
-   "anmeldung_url": "https://my.raceresult.com/421590/registration"
+   "anmeldung_url": "https://my.raceresult.com/421590/registration",
+   "fee": "5-km-Einsteigerlauf und Walking 10 €, 10-km-Hauptlauf 12 €, dazu 2 € Pfand für die Startnummer; Bambini kostenfrei",
+   "late_reg": "Nachmeldungen vor Ort nicht möglich"
   },
   {
    "id": "pfungstaedter-advents-crosslauf-2026",
@@ -23301,12 +23307,16 @@
     "10"
    ],
    "source": "https://www.runme.de/deutschland/weiterstaedter-nikolauslauf-weiterstadt-5653/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "url": "https://www.tusgriesheim.de/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Asphalt-, Feld- und Waldwege; Schülerlauf 1 km um 10:00 Uhr",
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Asphalt-, Feld- und Waldwege; Schülerlauf 1 km um 10:00 Uhr. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden)",
    "reg_close": "2026-12-03",
    "start_place": "Braunshardter Tännchen, 64331 Weiterstadt",
-   "start_time": "11:20"
+   "start_time": "11:20",
+   "fee": "Erwachsene 14 €, Kinder und Jugendliche 7 €",
+   "late_reg": "Nachmeldung bis 30 Minuten vor dem jeweiligen Start, Nachmeldegebühr 1 €",
+   "parking": "Parkplätze am Bolzplatz vor dem Braunshardter Tännchen",
+   "showers": "Duschen, Umkleiden und Toiletten vorhanden"
   },
   {
    "id": "adventslauf-reichelsheim-2026",
@@ -23388,13 +23398,16 @@
     "10"
    ],
    "source": "https://www.runme.de/deutschland/griesheimer-silvesterlauf/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "url": "https://www.tusgriesheim.de/de/vereinssport/sportarten/leichtathletik/31-griesheimer-rewe-michael-weisbrod-silvesterlauf/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden)",
    "start_time": "10:45",
    "prev": {
     "fee": "Schülerlauf 5 € (Ausgabe 2025)"
-   }
+   },
+   "showers": "Umkleiden und Duschen auf dem Schulgelände",
+   "late_reg": "Nachmeldung am Veranstaltungstag gegen Nachmeldegebühr",
+   "pickup": "Startunterlagen an einem Vortag und am Veranstaltungstag im Meldebüro"
   },
   {
    "id": "spiridon-mainova-silvesterlauf-frankfurt-2026",
@@ -23458,13 +23471,18 @@
     "7,7"
    ],
    "source": "https://www.runme.de/deutschland/silvesterlauf-kaufungen/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "url": "https://wordpress.lg-kaufungen.de/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. 2025: Teilnehmerlimit 1.300, Online-Anmeldung über silvesterlauf.eu bis zum Lauftag 10:00 Uhr, keine Nachmeldung vor Ort",
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. 2025: Teilnehmerlimit 1.300, Online-Anmeldung über silvesterlauf.eu bis zum Lauftag 10:00 Uhr, keine Nachmeldung vor Ort. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden)",
    "prev": {
     "fee": "7,7 km 12 €, 800 m und 1.600 m je 6 € (Ausgabe 2025)",
     "start_time": "14:30"
-   }
+   },
+   "fee": "Hauptlauf (7,7 km) 12 €, Kinderläufe 6 €",
+   "limit": "1400 Plätze (200 für die Kinderläufe, 1200 für den Hauptlauf)",
+   "late_reg": "Nachmeldungen vor Ort nicht vorgesehen, Anmeldung online über RaceResult",
+   "pickup": "Ausgabe der Startunterlagen in der Pausenhalle der IGS Oberkaufungen",
+   "showers": "Umkleiden und Duschen vor Ort"
   },
   {
    "id": "ziegenhainer-silvesterlauf-schwalmstadt-2026",
@@ -23481,11 +23499,12 @@
     "8,1"
    ],
    "source": "https://www.runme.de/deutschland/ziegenhainer-silvesterlauf/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "url": "https://tuspo-ziegenhain.de/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden)",
    "start_time": "14:00",
-   "pickup": "Nachmeldung und Startnummernausgabe am 31.12. ab 11:30 Uhr vor Ort"
+   "pickup": "Nachmeldung und Startnummernausgabe am 31.12. ab 11:30 Uhr vor Ort",
+   "showers": "Zelte zum Umkleiden, Unisex-Toiletten, keine Duschen"
   },
   {
    "id": "sparkasse-giessen-silvesterlauf-rund-um-den-schiffenberg-2026",
@@ -23600,9 +23619,11 @@
     "20"
    ],
    "source": "https://www.runme.de/deutschland/winterlauf-und-walkingserie-lorsbach/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "url": "https://tvlorsbach.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Termine der Serie: 29.11.2026, 20.12.2026, 10.01.2027, 24.01.2027, 14.02.2027."
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Termine der Serie: 29.11.2026, 20.12.2026, 10.01.2027, 24.01.2027, 14.02.2027. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden)",
+   "fee": "Gebührenfrei, Spenden freiwillig",
+   "showers": "Umkleidemöglichkeiten in der Sporthalle"
   },
   {
    "id": "50km-ultramarathon-des-rlt-rodgau-2027",
@@ -23668,9 +23689,12 @@
     "10"
    ],
    "source": "https://www.runme.de/deutschland/winterlaufserie-rodgau-juegesheim-rodgau-juegesheim/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "url": "https://skgrodgau.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Termine der Serie: 07.11.2026, 05.12.2026, 09.01.2027, 06.02.2027."
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Termine der Serie: 07.11.2026, 05.12.2026, 09.01.2027, 06.02.2027. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden)",
+   "fee": "Tageswertung 5 km 9 €, 10 km 14 € (Serienwertung 5 km 28 €, 10 km 40 €), Preise bei Meldung bis 04.11.2026",
+   "late_reg": "Digitale Nachmeldung per Smartphone ab 06.11.2026 12:00 Uhr bis 45 Minuten vor dem jeweiligen Start",
+   "pickup": "Ausgabe der Startunterlagen am 07.11.2026 ab 12:00 Uhr am Maingau-Energie-Stadion in Jügesheim"
   },
   {
    "id": "moerfelder-winterlaufserie-2027",
@@ -23727,10 +23751,11 @@
     "15"
    ],
    "source": "https://www.runme.de/deutschland/winterlaufserie-tsv-ippinghausen-3564/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "url": "http://www.wila-ippinghausen.de",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Termine der Serie: 22.11.2026, 13.02.2027.",
-   "late_reg": "Nachmeldung am Lauftag gegen 2 € Gebühr möglich"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Termine der Serie: 22.11.2026, 13.02.2027. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden)",
+   "late_reg": "Nachmeldung am Lauftag gegen 2 € Gebühr möglich",
+   "fee": "Frauen und Männer 7 €, Schüler und Jugend 4 €, Bambini 2 €"
   },
   {
    "id": "seligenstaedter-winterlaufserie-2026",
@@ -23748,13 +23773,14 @@
     "10"
    ],
    "source": "https://www.runme.de/deutschland/seligenstaedter-winterlaufserie-seligenstadt/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "url": "https://www.tria-seligenstadt.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Termine der Serie: 21.11.2026, 19.12.2026, 16.01.2027, 20.02.2027. Samstage 21.11., 19.12., 16.01. und 20.02. laut Veranstalter, Anmeldung für die Serie und einzelne Läufe geöffnet",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Termine der Serie: 21.11.2026, 19.12.2026, 16.01.2027, 20.02.2027. Samstage 21.11., 19.12., 16.01. und 20.02. laut Veranstalter, Anmeldung für die Serie und einzelne Läufe geöffnet. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden)",
    "start_time": "13:30",
    "prev": {
     "fee": "10 km Einzellauf 10 € bei Vorauszahlung (Serie 2025/26: 1 km 10 €, 5 km 26 €, 10 km 32 €)"
-   }
+   },
+   "showers": "Umkleiden und Duschen im Vereinsheim"
   },
   {
    "id": "winterlaufserie-lg-dornburg-2027",
@@ -27869,11 +27895,12 @@
    ],
    "url": "https://www.laufservice-jena.de/",
    "source": "https://www.runme.de/deutschland/landgrafenlauf/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Anmeldeseite ausgebucht, Anmeldung geschlossen (Stand 05.11.2026)",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Anmeldeseite ausgebucht, Anmeldung geschlossen (Stand 05.11.2026). Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden)",
    "checked": "2026-11-05",
    "sold_out": true,
    "late_reg": "Keine Nachmeldungen am Veranstaltungstag",
-   "anmeldung_url": "https://my.raceresult.com/403691/registration"
+   "anmeldung_url": "https://my.raceresult.com/403691/registration",
+   "limit": "175 Teilnehmende"
   },
   {
    "id": "zeitzgrundlauf-2026",
@@ -27968,9 +27995,12 @@
    ],
    "url": "https://sv-badberka.de/",
    "source": "https://www.runme.de/deutschland/jahresendlauf-bad-berka/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Veranstalter: 40. Jahresendlauf am 12.12.2026, Start 10:00 Uhr (Voranmeldung über das Portal)",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Veranstalter: 40. Jahresendlauf am 12.12.2026, Start 10:00 Uhr (Voranmeldung über das Portal). Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden)",
    "checked": "2026-11-05",
-   "start_time": "10:00"
+   "start_time": "10:00",
+   "fee": "Bei Voranmeldung bis 16 Jahre 4 €, ab 17 Jahre 8 €, 400-m-Minirunde kostenfrei; Meldung am Starttag mit Servicegebühr (1 € bzw. 2 €), nur bar",
+   "showers": "Umkleide- und Duschmöglichkeiten vorhanden",
+   "parking": "Am Sportplatz und am Parkplatz in der Tannrodaer Straße (ca. 500 m Fußweg)"
   },
   {
    "id": "erfurter-heros-weihnachtslauf-2026",
@@ -28071,9 +28101,11 @@
    ],
    "url": "https://erfurtersilvesterlauf.de/",
    "source": "https://www.runme.de/deutschland/erfurter-silvesterlauf/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden)",
    "checked": "2026-11-05",
-   "pickup": "Mittwoch 30.12.2026 von 16:00 bis 18:00 Uhr und am Lauftag ab 7:30 Uhr bis spätestens 30 Minuten vor dem jeweiligen Start"
+   "pickup": "Mittwoch 30.12.2026 von 16:00 bis 18:00 Uhr und am Lauftag ab 7:30 Uhr bis spätestens 30 Minuten vor dem jeweiligen Start",
+   "parking": "Keine offiziellen Parkplätze am Eventgelände, großer Parkplatz in der Werner-Seelenbinder-Straße gegenüber der Thüringenhalle",
+   "limit": "Teilnehmerzahl limitiert"
   },
   {
    "id": "silvesterlauf-waldeck-2026",
@@ -28265,8 +28297,12 @@
    ],
    "anmeldung_url": "https://my.raceresult.com/430171/",
    "source": "https://running.life/de/termine/wintertrail-weissendorf",
-   "info": "Trailveranstaltung mit ca. 7,5 km und 350 Hm inklusive Teufelsberg²-Challenge, Verpflegung und Zielbereich in der Scheune des WeidatalCross.",
-   "checked": "2026-11-05"
+   "info": "Trailveranstaltung mit ca. 7,5 km und 350 Hm inklusive Teufelsberg²-Challenge, Verpflegung und Zielbereich in der Scheune des WeidatalCross. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden)",
+   "checked": "2026-11-05",
+   "fee": "25 € pro Person (inklusive Startplatz über mindestens 7,5 km, Zeitmessung, Teufelsberg²-Challenge, Holz-Finisher-Medaille)",
+   "parking": "Kostenfreie Parkplätze",
+   "showers": "Beheizte Umkleiden im Außenbereich, Duschen sofern die Witterung es erlaubt",
+   "limit": "Teilnehmerzahl begrenzt"
   },
   {
    "id": "fuchsberglauf-2027",
@@ -30886,9 +30922,10 @@
    ],
    "url": "https://www.vfl-dresden-buehlau.de/",
    "source": "https://www.runme.de/deutschland/buehlauer-winterlaufserie-dresden/",
-   "info": "Fünf Termine in der Dresdner Heide (07.11.2026, 05.12.2026, 09.01., 06.02. und 06.03.2027) mit 10-km-Runden und Varianten bis 40 km, Anmeldung am Start, Urkunden für kumulierte Kilometer; als ein Eintrag mit dem ersten Termin geführt. Startzeit laut RUNME (10 km um 08:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-06",
-   "start_time": "08:00"
+   "info": "Fünf Termine in der Dresdner Heide (07.11.2026, 05.12.2026, 09.01., 06.02. und 06.03.2027) mit 10-km-Runden und Varianten bis 40 km, Anmeldung am Start, Urkunden für kumulierte Kilometer; als ein Eintrag mit dem ersten Termin geführt. Startzeit laut RUNME (10 km um 08:00 Uhr, frühester Lauf ab 5 km). Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden)",
+   "checked": "2026-11-05",
+   "start_time": "08:00",
+   "fee": "2,50 € pro Starttag, Kinder bis 14 Jahre 1 €"
   },
   {
    "id": "fockeberglauf-2026",
@@ -31030,9 +31067,12 @@
    ],
    "url": "http://www.fit-leipzig.de",
    "source": "https://www.runme.de/deutschland/leipziger-auewaldlauf/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (20 km um 10:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-06",
-   "start_time": "10:00"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (20 km um 10:00 Uhr, frühester Lauf ab 5 km). Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden)",
+   "checked": "2026-11-05",
+   "start_time": "10:00",
+   "parking": "Parkplätze an der Selneckerstraße (Domgraben), direkt am Start keine Parkmöglichkeiten",
+   "showers": "Umkleide- und Duschmöglichkeiten an der Sportanlage Neue Linie",
+   "pickup": "Orga-Büro an der Sportanlage Neue Linie (Startnummern, Nachmeldung, Barzahlung)"
   },
   {
    "id": "crosslauf-im-weissiger-wald-2026",
@@ -31121,11 +31161,12 @@
    ],
    "url": "http://www.tsg-la-wsw.de/",
    "source": "https://www.runme.de/deutschland/braunsteichlauf/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10 km um 10:20 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-06",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10 km um 10:20 Uhr, frühester Lauf ab 5 km). Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden)",
+   "checked": "2026-11-05",
    "start_time": "10:20",
    "late_reg": "Nachmeldung vor Ort möglich, solange Startplätze frei sind, Aufschlag 6 € (laut Terminkalender)",
-   "start_place": "Meldebüro im KieZ am Braunsteich, Am Braunsteich 6, 02943 Weißwasser"
+   "start_place": "Meldebüro im KieZ am Braunsteich, Am Braunsteich 6, 02943 Weißwasser",
+   "fee": "5 km 10 €, 3 km 7 €, 800 m 5 € (Organisationsbeitrag)"
   },
   {
    "id": "freiberger-adventslauf-2026",
@@ -31144,9 +31185,12 @@
    ],
    "url": "http://www.hetz-run.de",
    "source": "https://www.runme.de/deutschland/freiberger-adventslauf/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (6 km um 15:45 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-06",
-   "start_time": "15:45"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (6 km um 15:45 Uhr, frühester Lauf ab 5 km). Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden); Online-Anmeldung bis 26.11.2026 oder bis das Limit erreicht ist",
+   "checked": "2026-11-05",
+   "start_time": "15:45",
+   "limit": "1000 Voranmeldungen",
+   "reg_close": "2026-11-26",
+   "showers": "Umkleiden, Duschen und WC in der Rüleinhalle"
   },
   {
    "id": "oem-adventslauftreff-2026",
@@ -31234,9 +31278,14 @@
    ],
    "url": "https://www.sparkassen-paddle-run.de/",
    "source": "https://www.runme.de/deutschland/sparkassen-sonnenwendlauf-leipzig/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (11 km um 14:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-06",
-   "start_time": "14:00"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (11 km um 14:00 Uhr, frühester Lauf ab 5 km). Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden)",
+   "checked": "2026-11-05",
+   "start_time": "14:00",
+   "fee": "10 €",
+   "late_reg": "Nachmeldung beim Hauptlauf mit 5 € Zusatzgebühr, für die Wanderung vor Ort keine Nachmeldung",
+   "limit": "200 im Hauptlauf, 50 bei der geführten Wanderung",
+   "showers": "Zelte als Umkleide, kostenfreie Toiletten, keine Duschen",
+   "parking": "Parkplätze begrenzt, z. B. in der Mehringstraße; keine direkten Parkflächen an der Combüse"
   },
   {
    "id": "speck-weg-lauf-2026",
@@ -31367,9 +31416,11 @@
    ],
    "url": "https://www.triathlonchemnitz.de/",
    "source": "https://www.runme.de/deutschland/silvesterlauf-chemnitz/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10,1 km um 11:30 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-06",
-   "start_time": "11:30"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10,1 km um 11:30 Uhr, frühester Lauf ab 5 km). Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden)",
+   "checked": "2026-11-05",
+   "start_time": "11:30",
+   "parking": "Parkplätze am Eissportzentrum gegen Gebühr",
+   "late_reg": "Nachmeldungen am Veranstaltungstag möglich, sofern Restplätze vorhanden sind"
   },
   {
    "id": "bornaer-neujahrslauf-2027",
@@ -31436,9 +31487,10 @@
    ],
    "url": "http://www.wasser-stadt-leipzig.de/index.asp",
    "source": "https://www.runme.de/deutschland/leipziger-brueckenlauf/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (16,6 km um 11:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-06",
-   "start_time": "11:00"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (16,6 km um 11:00 Uhr, frühester Lauf ab 5 km). Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden)",
+   "checked": "2026-11-05",
+   "start_time": "11:00",
+   "fee": "16,6 km 16 € bzw. 19 €, 8,3 km 14 € bzw. 16 €, 4 km 10 € bzw. 13 € (zwei Preisstufen), 500 m 3 €"
   },
   {
    "id": "remser-wintercross-2027",
@@ -34544,9 +34596,10 @@
    ],
    "url": "https://www.harz-gebirgslauf.de/",
    "source": "https://www.runme.de/deutschland/armeleuteberglauf-wernigerode/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5,4 km um 10:30 Uhr, frühester Lauf ab 5 km).",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5,4 km um 10:30 Uhr, frühester Lauf ab 5 km). Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden)",
    "checked": "2026-11-05",
-   "start_time": "10:30"
+   "start_time": "10:30",
+   "fee": "10 km und 5,4 km je 8 €, Zahlung bar vor Ort"
   },
   {
    "id": "heidelauf-halle-2026",
@@ -34730,9 +34783,12 @@
    ],
    "url": "https://www.lg-rudelsburg.de",
    "source": "https://www.runme.de/deutschland/flemminger-wintercross/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (15 km um 10:00 Uhr, frühester Lauf ab 5 km).",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (15 km um 10:00 Uhr, frühester Lauf ab 5 km). Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden)",
    "checked": "2026-11-05",
-   "start_time": "10:00"
+   "start_time": "10:00",
+   "parking": "Parkplätze am Start- und Zielgelände",
+   "showers": "Toiletten und Umkleidemöglichkeiten, keine Duschen",
+   "late_reg": "Nachmeldung vor Ort möglich (mit Nachmeldegebühr)"
   },
   {
    "id": "sueppling-cross-2027",
@@ -37093,6 +37149,30 @@
    "url": "https://running.life/de/termine/sommernachtslauf-limburg",
    "source": "https://haid.app/en/events/sommernachtslauf-limburg-mq95v370",
    "info": "Abendlicher Stadtlauf durch die Limburger Altstadt mit beleuchteter Strecke, Familienlauf, Teamlauf, 5 km, 10 km und Halbmarathon. Die Ausgabe 2026 wurde wegen Baustellen in der Innenstadt auf den 12.06.2027 verschoben. 10 Prozent des Nettostartgelds gehen an die Lebenshilfe Limburg-Diez. Angaben laut haid.app/running.life.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "run-fun-tuttlingen-2027",
+   "type": "road",
+   "name": "Run + Fun Tuttlingen",
+   "place": "Tuttlingen",
+   "bezirk": "Freiburg",
+   "kreis": "LK Tuttlingen",
+   "lat": 47.9823316,
+   "lon": 8.8192095,
+   "date": "2027-06-05",
+   "end": "2027-06-06",
+   "confirmed": false,
+   "prev_date": "2026-06-27",
+   "distances": [
+    "M",
+    "HM",
+    "10",
+    "5"
+   ],
+   "url": "https://running.life/de/termine/run-fun-in-tuttlingen",
+   "source": "https://running.life/de/termine/run-fun-in-tuttlingen",
+   "info": "Laufwochenende in der Stadthalle Tuttlingen mit elf Wettbewerben von Marathon bis Kinderlauf (Marathon, Halbmarathon, 10 km, 5 km). Termin 2027 (5. und 6. Juni) laut running.life noch nicht bestätigt, Ausgabe 2026 war am 27. und 28.06.2026. Veranstalterseite nicht gefunden.",
    "checked": "2026-11-05"
   }
  ]
