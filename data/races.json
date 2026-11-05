@@ -36945,6 +36945,155 @@
    "source": "https://running.life/de/termine/sportmeilen-run-rosstal",
    "info": "Gemeindelauf im Rahmen des Sportfests des TSV Roßtal auf einer 400-m-Runde, mit Kinderläufen, 5 km, 10 km und Benefizrundenlauf. Termin 2027 noch nicht bestätigt, erste Ausgabe war am 12.09.2026 (dort nur 10 km genannt). Strecken laut running.life.",
    "checked": "2026-11-05"
+  },
+  {
+   "id": "tunnelweg-teufelskanzel-trailmarathon-2027",
+   "type": "trail",
+   "name": "Tunnelweg-Teufelskanzel-Trailmarathon",
+   "place": "Witzenhausen",
+   "bezirk": "Kassel",
+   "kreis": "Werra-Meißner-Kreis",
+   "lat": 51.3399682,
+   "lon": 9.8555643,
+   "date": "2027-02-06",
+   "confirmed": true,
+   "distances": [
+    "46",
+    "11,5"
+   ],
+   "url": "https://gotrail.run/de/termine/tunnelweg-teufelskanzel-trailmarathon",
+   "source": "https://running.life/de/termine/tunnelweg-teufelskanzel-trailmarathon",
+   "fee": "Ultra 23 €, Tunnelweglauf 9 €",
+   "limit": "75 Plätze Ultra (mit Warteliste), 15 Plätze Tunnelweglauf",
+   "start_place": "Am Sande 20, Witzenhausen (Start und Ziel); Treffpunkt Parkplatz der DEULA",
+   "info": "Trailveranstaltung mit 45,6 km Ultra (ca. 1.400 Hm) und 11,5 km Tunnelweglauf, Strecken unmarkiert. Anmeldung über Race Result, laut Kalenderportal bis 3 Tage vor der Veranstaltung, solange das Limit nicht erreicht ist. Angaben laut gotrail.run/running.life, Veranstalterseite nicht gefunden; Distanzen weichen je nach Portal leicht ab (46 und 12 km).",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "haferberg-hasenmuehle-ultratrail-2027",
+   "type": "trail",
+   "name": "Haferberg - Hasenmühle UltraTrail",
+   "place": "Kleinalmerode (Witzenhausen)",
+   "bezirk": "Kassel",
+   "kreis": "Werra-Meißner-Kreis",
+   "lat": 51.3399682,
+   "lon": 9.8555643,
+   "date": "2027-02-07",
+   "confirmed": true,
+   "distances": [
+    "45"
+   ],
+   "url": "https://gotrail.run/de/termine/haferberg-hasenmuhle-ultratrail",
+   "source": "https://running.life/de/termine/haferberg-hasenmuhle-ultratrail",
+   "fee": "22 € (inklusive zwei Verpflegungsstellen und Medaille)",
+   "limit": "50 Teilnehmende",
+   "cutoff": "8 Stunden (bei Schnee oder Eis verlängerbar)",
+   "showers": "Keine Toiletten und Duschen",
+   "info": "Winterlicher Ultratrail über 45 km und rund 1.200 Hm im Kaufunger Wald, drei markierte Runden, Verpflegung bei km 25 und 34, Handzeitnahme, Rückerstattung von 10 € bei Absage bis 10.01.2027 auf Anfrage. Angaben laut gotrail.run.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "meissner-marathon-doppeldecker-2027",
+   "type": "trail",
+   "name": "Meißner Marathon Doppeldecker",
+   "place": "Witzenhausen",
+   "bezirk": "Kassel",
+   "kreis": "Werra-Meißner-Kreis",
+   "lat": 51.3399682,
+   "lon": 9.8555643,
+   "date": "2027-02-27",
+   "end": "2027-02-28",
+   "confirmed": true,
+   "distances": [
+    "M"
+   ],
+   "url": "https://running.life/de/termine/meissner-marathon-doppeldecker",
+   "source": "https://running.life/de/termine/meissner-marathon-doppeldecker",
+   "info": "Zweiteiliger Marathon über zwei Tage (je rund 42,2 km, zwischen Kleinalmerode und dem Meißnerhaus, 1.460 Hm am ersten und 1.160 Hm am zweiten Tag), begrenzte Startplätze, Übernachtung im Naturfreundehaus, Einzelstart einer Etappe laut Portal möglich. Angaben laut running.life, Veranstalterseite nicht gefunden.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "frau-holle-maerchenland-ultra-2027",
+   "type": "trail",
+   "name": "Frau Holle Märchenland Ultra",
+   "place": "Hessisch Lichtenau",
+   "bezirk": "Kassel",
+   "kreis": "Werra-Meißner-Kreis",
+   "lat": 51.1982109,
+   "lon": 9.7197866,
+   "date": "2027-03-21",
+   "confirmed": false,
+   "prev_date": "2026-03-22",
+   "distances": [
+    "57"
+   ],
+   "url": "https://gotrail.run/de/termine/frau-holle-marchenland-ultra",
+   "source": "https://gotrail.run/de/termine/frau-holle-marchenland-ultra",
+   "start_place": "Parkplatz Am Kalkbrunnen, Hessisch Lichtenau (Ausgabe 2026)",
+   "info": "Trailrunde über 57 km mit rund 1.500 Hm, zwei Verpflegungsstellen, Spendenlauf zugunsten Kilometer für Kinder. Termin 2027 laut Kalenderportal, Ausgabe 2026 war am 22.03.2026. Angaben laut gotrail.run, Veranstalterseite nicht gefunden.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "niedermeiserer-dorflauf-2027",
+   "type": "road",
+   "name": "Niedermeiserer Dorflauf",
+   "place": "Liebenau (Niedermeiser)",
+   "bezirk": "Kassel",
+   "kreis": "LK Kassel",
+   "lat": 51.4973299,
+   "lon": 9.2814945,
+   "date": "2027-05-08",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10",
+    "18"
+   ],
+   "url": "https://running.life/de/termine/niedermeiserer-dorflauf",
+   "source": "https://running.life/de/termine/niedermeiserer-dorflauf",
+   "info": "Breitensportlauf in Niedermeiser mit 5, 10 und 18 km sowie Walking und Nordic Walking, offene Anmeldung für alle. Termin und Strecken laut running.life, noch nicht vom Veranstalter bestätigt.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "neckarcross-ultra-race-2027",
+   "type": "trail",
+   "name": "Neckarcross Ultra Race",
+   "place": "Hirschhorn (Neckar)",
+   "bezirk": "Darmstadt",
+   "kreis": "LK Bergstraße",
+   "lat": 49.4466583,
+   "lon": 8.8971213,
+   "date": "2027-05-09",
+   "confirmed": false,
+   "prev_date": "2026-05-10",
+   "distances": [
+    "59"
+   ],
+   "url": "https://gotrail.run/de/termine/dav-neckarcross-ultra-race",
+   "source": "https://gotrail.run/de/termine/dav-neckarcross-ultra-race",
+   "info": "Trailrun über 59 km und rund 2.300 Hm als Einzel, Duo-Staffel oder Wanderung, drei Verpflegungsstellen (km 15, 26 und 45) mit Zeitlimits, GPX-Track nach der Anmeldung, Pflichtausrüstung (GPS-Gerät, Handy, 0,5 l Flüssigkeit, Rettungsdecke). Termin 2027 noch nicht bestätigt, Ausgabe 2026 war am 10.05.2026; Startgeld je nach Portal 75 € bzw. 60 € (widersprüchlich), deshalb nicht eingetragen.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "sommernachtslauf-limburg-2027",
+   "type": "road",
+   "name": "Sommernachtslauf Limburg",
+   "place": "Limburg an der Lahn",
+   "bezirk": "Gießen",
+   "kreis": "LK Limburg-Weilburg",
+   "lat": 50.3986005,
+   "lon": 8.0795783,
+   "date": "2027-06-12",
+   "confirmed": true,
+   "distances": [
+    "HM",
+    "10",
+    "5"
+   ],
+   "url": "https://running.life/de/termine/sommernachtslauf-limburg",
+   "source": "https://haid.app/en/events/sommernachtslauf-limburg-mq95v370",
+   "info": "Abendlicher Stadtlauf durch die Limburger Altstadt mit beleuchteter Strecke, Familienlauf, Teamlauf, 5 km, 10 km und Halbmarathon. Die Ausgabe 2026 wurde wegen Baustellen in der Innenstadt auf den 12.06.2027 verschoben. 10 Prozent des Nettostartgelds gehen an die Lebenshilfe Limburg-Diez. Angaben laut haid.app/running.life.",
+   "checked": "2026-11-05"
   }
  ]
 }
