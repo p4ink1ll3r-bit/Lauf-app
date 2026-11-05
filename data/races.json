@@ -13545,7 +13545,7 @@
    "parking": "Sporthalle/Schulzentrum, Stuttgarter Straße 17 (ca. 15 Min. Fußweg)",
    "showers": "Sporthalle Stuttgarter Straße (ca. 15 Min. Fußweg)",
    "info": "Reiner Wiesen-Cross. Männer-Hauptlauf 8,15 km, Frauen 4,4 km. Spikes mit langen Nägeln empfohlen.",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "lat": 48.067,
    "lon": 7.883
   },
@@ -22472,12 +22472,14 @@
     "10"
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 08.11.). Strecken laut hdsports. Veranstalter SV 1899 Langensteinbach. 2026 am 08.11. (2025 war die 37. Auflage mit rund 700 Teilnehmern): 5 km und 10 km, Walking-Wertung über 5 km, Schülerläufe. Start laut Verein ab 10 Uhr; die Gemeinde-Kalenderseite nennt abweichend den 14.11.",
    "url": "https://svl-leichtathletik.de/Veranstaltungen/KarlsbaderVolkslauf/",
    "start_place": "Stadion SVL, Langensteinbach",
    "prev_date": "2025-11-09",
-   "reg_open": "2026-07-01"
+   "reg_open": "2026-07-01",
+   "fee": "10 km 10 €, 5 km 8 €, 2 km 4 € (bei Meldung durch Schule 3 €), 400 m 3 €",
+   "pickup": "Startnummern am 7. November von 11 bis 13 Uhr und am 8. November ab 8 Uhr im Stadion am SVL Sportpark (gegen 2 € Aufpreis auch per Post)"
   },
   {
    "id": "sparkassen-cross-pforzheim-2026",
@@ -23200,11 +23202,12 @@
     "10"
    ],
    "source": "https://www.runme.de/deutschland/adventslauf-giessen/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "url": "https://www.mtv-giessen.de/",
    "start_time": "10:00",
    "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
-   "start_place": "Sportplatz am Heegstrauchweg 3, Gießen"
+   "start_place": "Sportplatz am Heegstrauchweg 3, Gießen",
+   "anmeldung_url": "https://my.raceresult.com/421590/registration"
   },
   {
    "id": "pfungstaedter-advents-crosslauf-2026",
@@ -27880,9 +27883,12 @@
    ],
    "url": "http://www.gruenweiss-stadtroda.de/",
    "source": "https://www.runme.de/deutschland/zeitzgrundlauf-stadtroda/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeiten laut Anmeldeseite: 14 km 10:15 Uhr, 7 km 10:20 Uhr, Kinderläufe 09:15 und 09:35 Uhr",
    "checked": "2026-11-05",
-   "start_place": "Roda-Stadion, Stadtroda"
+   "start_place": "Roda-Stadion, Stadtroda",
+   "start_time": "10:15",
+   "fee": "14-km-Lauf 15 €, 7-km-Lauf 10 €, Kinderläufe 3 €",
+   "anmeldung_url": "https://my.raceresult.com/420882/registration"
   },
   {
    "id": "eicut65-2026",
@@ -27900,9 +27906,15 @@
    ],
    "url": "https://www.ltv-obereichsfeld.de/",
    "source": "https://www.runme.de/deutschland/eicut/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Veranstalter: EICUT65 am 14.11.2026, 65 km Ultra-Trail ab und bis Heilbad Heiligenstadt über Burg Bodenstein und Bornberg, nur 100 Startplätze",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Veranstalter: EICUT65 am 14.11.2026, 65 km Ultra-Trail ab und bis Heilbad Heiligenstadt über Burg Bodenstein und Bornberg, nur 100 Startplätze. Online-Anmeldung bis 18:00 Uhr am Vortag",
    "checked": "2026-11-05",
-   "limit": "100 Teilnehmer"
+   "limit": "100 Teilnehmer",
+   "start_time": "08:00",
+   "fee": "65 € (bei Anmeldung bis Ende März 10 € günstiger)",
+   "reg_close": "2026-11-13",
+   "pickup": "Startnummernausgabe ab 07:00 Uhr am Startbereich",
+   "late_reg": "Nachmeldung kostenfrei am Wettkampftag von 07:00 bis 07:30 Uhr am Startbereich",
+   "cutoff": "Zeitlimit 11 Stunden, Cut-off nach 6 Stunden an VP2 Burg Bodenstein (nach km 35)"
   },
   {
    "id": "saalfelder-winterlauf-2026",
