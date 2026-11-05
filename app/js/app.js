@@ -1,6 +1,6 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
-const APP_VERSION="v74"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+const APP_VERSION="v75"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
 const DATA_DIR="data/";
 const REPORT_URL="https://gbaoxnsytnzcuxbkdrwc.supabase.co/rest/v1/reports";
 const REPORT_KEY="sb_publishable_iuxJbdN94igdsBQ5-dtm5g_OxWYWGH9";   // öffentlicher Schlüssel: darf nur Meldungen anlegen
@@ -495,7 +495,7 @@ async function shareRace(id){const r=R.find(x=>x.id===id);if(!r)return;const lin
    '<textarea readonly rows="4" class="copy" id="sharetxt">'+esc(full)+'</textarea><button class="back" type="button" data-shclose>Schließen</button></div>';
   openSheet("sharesheet")}
 // App weiterempfehlen (Einstellungen): gleiche Wege wie beim Lauf teilen
-async function shareApp(){const txt="Race Hunt: alle Straßen- und Trailläufe in Bayern, Baden-Württemberg, Hessen, Thüringen, Sachsen und Sachsen-Anhalt mit Terminen, Startgeld und Meldeschluss. Kostenlos, ohne Anmeldung.";
+async function shareApp(){const txt="Race Hunt: alle Straßen- und Trailläufe in Bayern, Baden-Württemberg, Hessen, Thüringen, Sachsen, Sachsen-Anhalt, Brandenburg, Berlin, dem Saarland und Rheinland-Pfalz mit Terminen, Startgeld und Meldeschluss. Kostenlos, ohne Anmeldung.";
   if(navigator.share){try{await navigator.share({title:"Race Hunt",text:txt,url:APP_URL});return}catch(e){if(e&&e.name==="AbortError")return}}
   const full=txt+"\n"+APP_URL;$("setsheet").hidden=true;
   $("sharesheet").innerHTML='<div class="in"><div class="grip"></div><h2 id="sh-h">App weiterempfehlen</h2><p class="src">Schick die App an Freunde und Lauftreff.</p><div class="shareopts">'+
@@ -640,12 +640,12 @@ function render(){
   $("tag").textContent=state.tab==="road"?"Straßenläufe":state.tab==="trail"?"Trails & Bergläufe":"Meine Läufe";
   const hc=t=>'<span class="hchip">'+t+'</span>';
   $("sub").innerHTML=favView?hc("<b>"+state.reg.length+"</b> angemeldet")+hc("<b>"+(state.favs.length-state.reg.length)+"</b> gemerkt"):
-    hc("<b>"+list.length+"</b> "+(list.length===1?"Lauf":"Läufe"))+hc(H?"im Umkreis "+state.radius+" km":"BY · BW · HE · TH · SN · ST")+(active||state.dists.length?hc("gefiltert"):"");
+    hc("<b>"+list.length+"</b> "+(list.length===1?"Lauf":"Läufe"))+hc(H?"im Umkreis "+state.radius+" km":"10 Bundesländer")+(active||state.dists.length?hc("gefiltert"):"");
   if(state.view==="cal"){$("out").innerHTML=calHTML(list,favView);if(anim)riseIn($("out"));return}
   if(!list.length){
     const nearest=H?Math.min(...live.map(r=>r.dist)):0;let msg;
     if(favView){$("out").innerHTML='<div class="empty emptyfav">'+HEART+'<strong>Noch nichts gemerkt</strong><p>Tippe bei einem Lauf auf das Herz, dann steht er hier mit Fristen und Countdown.</p><button type="button" class="cta" data-goto="road">Läufe ansehen</button></div>';return}
-    else if(nearest>200)msg='<strong>Hier sind noch keine Läufe erfasst</strong>Der nächste bekannte Lauf ist '+nearest+' km von '+esc(H.name)+' entfernt. Bisher sind Läufe in Bayern, Baden-Württemberg, Hessen, Thüringen, Sachsen und Sachsen-Anhalt erfasst.';
+    else if(nearest>200)msg='<strong>Hier sind noch keine Läufe erfasst</strong>Der nächste bekannte Lauf ist '+nearest+' km von '+esc(H.name)+' entfernt. Bisher sind Läufe in Bayern, Baden-Württemberg, Hessen, Thüringen, Sachsen, Sachsen-Anhalt, Brandenburg, Berlin, dem Saarland und Rheinland-Pfalz erfasst.';
     else if(active||state.dists.length)msg='<strong>Keine Treffer mit diesen Filtern</strong>Lockere die Filter, wähle weitere Strecken oder vergrößere den Umkreis.';
     else if(!H)msg='<strong>Keine Läufe gefunden</strong>Schau später noch einmal vorbei.';
     else msg='<strong>Keine Läufe im Umkreis von '+state.radius+' km</strong>Tipp oben auf deinen Standort und vergrößere den Umkreis.';
