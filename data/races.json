@@ -31123,7 +31123,9 @@
    "source": "https://www.runme.de/deutschland/braunsteichlauf/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10 km um 10:20 Uhr, frühester Lauf ab 5 km).",
    "checked": "2026-11-06",
-   "start_time": "10:20"
+   "start_time": "10:20",
+   "late_reg": "Nachmeldung vor Ort möglich, solange Startplätze frei sind, Aufschlag 6 € (laut Terminkalender)",
+   "start_place": "Meldebüro im KieZ am Braunsteich, Am Braunsteich 6, 02943 Weißwasser"
   },
   {
    "id": "freiberger-adventslauf-2026",
@@ -31507,28 +31509,6 @@
    "fee": "1 km 2 €, 3 km 3 €, 6 km 6 €, 12 km 10 €, 6 km Walken 6 €"
   },
   {
-   "id": "internationaler-kammlauf-2027",
-   "type": "trail",
-   "name": "Internationaler Kammlauf",
-   "place": "Klingenthal",
-   "bezirk": "Chemnitz",
-   "kreis": "Vogtlandkreis",
-   "lat": 50.370718,
-   "lon": 12.4681708,
-   "date": "2027-02-27",
-   "confirmed": true,
-   "distances": [
-    "5",
-    "50"
-   ],
-   "url": "https://vsc-klingenthal.de/kammlauf/",
-   "source": "https://running.life/de/termine/internationaler-kammlauf",
-   "info": "Internationaler Kammlauf Klingenthal/Mühlleithen mit Strecken von 5 bis 50 km. Laut Veranstalterseite 55. Internationaler Kammlauf am 27. und 28. Februar 2027 (VSC Klingenthal), erster Start 10:00 Uhr; die Ausgabe 2026 wurde abgesagt",
-   "checked": "2026-11-06",
-   "start_time": "10:00",
-   "start_place": "Skistadion Mühlleithen"
-  },
-  {
    "id": "mazda-lauf-2027",
    "type": "road",
    "name": "MAZDA Lauf",
@@ -31850,11 +31830,12 @@
    "url": "https://walking.life/",
    "anmeldung_url": "https://baer-service.de/veranstaltung/BHM/",
    "source": "https://running.life/de/termine/borna-halbmarathon",
-   "info": "Borna Halbmarathon am Bockwitzer See: Halbmarathon (auch als Staffel) sowie Kinder- und Schülerläufe, gestaffelte Teilnahmegebühren. Laut Anmeldeportal Baer-Service am 11.04.2027: 0,5 km Kids Run 10:00 Uhr, 1 km Schüler Run 10:30 Uhr, Half Run Einzel und Staffel 11:00 Uhr; Meldeschluss 10.04.2027 23:59 Uhr; Veranstalter Neuseensport",
+   "info": "Borna Halbmarathon am Bockwitzer See: Halbmarathon (auch als Staffel) sowie Kinder- und Schülerläufe, gestaffelte Teilnahmegebühren. Laut Anmeldeportal Baer-Service am 11.04.2027: 0,5 km Kids Run 10:00 Uhr, 1 km Schüler Run 10:30 Uhr, Half Run Einzel und Staffel 11:00 Uhr; Meldeschluss 10.04.2027 23:59 Uhr; Veranstalter Neuseensport. 1 € jeder Startgebühr geht an Natur und Umwelt (Bockwitzer See)",
    "checked": "2026-11-06",
    "start_time": "11:00",
    "reg_close": "2027-04-10",
-   "start_place": "Bockwitzer See, Borna"
+   "start_place": "Bockwitzer See, Borna",
+   "fee": "Half Run 19 € bei Anmeldung bis 31.12.2026, 24 € bis 31.03.2027, 29 € bis 10.04.2027, 34 € am Veranstaltungstag; Kids Run und Schüler Run 1 € bis 31.12.2026, später bis 10 €"
   },
   {
    "id": "ostritzer-fruehjahrslauf-14-roland-pietsch-gedenklauf-2027",
@@ -32139,7 +32120,8 @@
    "pickup": "Startunterlagen am 23. und 24.04.2027 in der BallsportARENA Dresden (Laufmesse)",
    "showers": "Dusch- und Umkleidemöglichkeiten im Ziel",
    "cutoff": "Zielschluss Marathon 6:00 Stunden nach Start",
-   "anmeldung_url": "https://baer-service.de/anmeldung/ELB"
+   "anmeldung_url": "https://baer-service.de/anmeldung/ELB",
+   "fee": "Marathon ab 70 €, Halbmarathon ab 60 €, 10 km ab 33 €, 5 km ab 17 € (Preisstaffel, steigt bis 24.04.2027 auf 95, 85, 48 und 29 €); 2,7-km-Minimarathon 7 € (ab 12.04. 8 €); Bambinilauf kostenfrei"
   },
   {
    "id": "bluetenfestlauf-borthen-2027",
@@ -32306,7 +32288,8 @@
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (80 km um 10:30 Uhr).",
    "checked": "2026-11-06",
    "prev": {
-    "start_time": "10:30"
+    "start_time": "10:30",
+    "fee": "6 km 6 €, 10 km 13 €, 15 km 13 €, 10 km Walking 13 €, Kinderläufe 3 € (Ausgabe 2026 laut Baer-Service)"
    }
   },
   {
@@ -32463,13 +32446,18 @@
    "date": "2027-05-16",
    "confirmed": true,
    "distances": [
+    "5",
+    "10",
     "HM"
    ],
    "url": "https://walking.life/",
    "anmeldung_url": "https://baer-service.de/veranstaltung/PBS/",
    "source": "https://running.life/de/termine/pfingstrennen-am-barwalder-see",
-   "info": "Pfingstrennen um den Bärwalder See mit Strecken von 800 m bis 21,1 km auf flacher Runde (Asphalt und Feldwege).",
-   "checked": "2026-11-06"
+   "info": "Pfingstrennen um den Bärwalder See mit Strecken von 800 m bis 21,1 km auf flacher Runde (Asphalt und Feldwege). Laut Anmeldeportal Baer-Service 17. Pfingstrennen: 800 m 10:00, 3 km 10:15, 21,1 km 10:30, 10 km 10:40, 5 km 10:50 Uhr",
+   "checked": "2026-11-06",
+   "start_time": "10:30",
+   "fee": "21,1 km 16 €, 10 km 13 €, 5 km 9 €, 3 km 8 € bei Anmeldung bis 30.04.2027; ab 01.05.2027 18, 15, 11 und 10 €; 800-m-Kinderlauf frei",
+   "late_reg": "Nachmeldung ab 14.05.2027 12:00 Uhr mit 5 € Aufschlag"
   },
   {
    "id": "kromlauer-pfingstlauf-2027",
@@ -32491,7 +32479,8 @@
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10,8 km um 09:45 Uhr). Ausgabe 2026 (16. Kromlauer Pfingstlauf) laut Baer-Service: 10,8 km 09:45 Uhr, 5,4 km 09:55 Uhr, Kinder 1,6 km 09:30 Uhr",
    "checked": "2026-11-06",
    "prev": {
-    "start_time": "09:45"
+    "start_time": "09:45",
+    "fee": "10,8 km 16 € bei Anmeldung bis 21.05.2026, danach 22 €; 5,4 km 10 € bzw. 16 €; Kinderlauf 1,6 km 7 € bzw. 13 € (Ausgabe 2026 laut Baer-Service, damals ausgebucht)"
    }
   },
   {
@@ -33117,7 +33106,9 @@
    },
    "parking": "Keine Parkmöglichkeiten durch den Veranstalter, Anreise mit Bahn oder Bus",
    "showers": "Ausreichend Umkleiden im Start- und Zielbereich",
-   "start_place": "Terrassenufer in Höhe der ehemaligen Carolabrücke, Dresden"
+   "start_place": "Terrassenufer in Höhe der ehemaligen Carolabrücke, Dresden",
+   "fee": "11,5 km ab 30 €, 6,2 km ab 25 €, 1,8-km-Kinderlauf 10 €, 400-m-Bambinilauf kostenfrei (Preis steigt mit der Startplatznummer bis 40 und 30 €)",
+   "late_reg": "Nachmeldung am Veranstaltungstag mit 5 € Zusatzgebühr (außer Kinder und Bambini)"
   },
   {
    "id": "scheibenberger-berglauf-2027",
@@ -33313,7 +33304,8 @@
    "start_place": "Marktplatz Wurzen",
    "pickup": "Meldebüro am Veranstaltungstag ab 07:30 Uhr auf dem Markt Wurzen; Starterbeutel Samstag 28.08.2027 von 15:00 bis 18:00 Uhr",
    "reg_close": "2027-08-28",
-   "parking": "Kostenfrei: Gerhard-Hauptmann-Platz und Parkhaus am Sperlingsberg (Zufahrt über Franz-Mehring-Straße)"
+   "parking": "Kostenfrei: Gerhard-Hauptmann-Platz und Parkhaus am Sperlingsberg (Zufahrt über Franz-Mehring-Straße)",
+   "fee": "10-km-Hauptlauf und 5-km-Lauf 17,50 € bis 18 Uhr am Vorabend, 22,50 € am Veranstaltungstag; Staffel 70 € bzw. 82 €; Kinder-, Minilauf und Handicap-Lauf 6 € bzw. 11 €"
   },
   {
    "id": "landskron-cross-2027",
@@ -33401,7 +33393,8 @@
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 18:00 Uhr).",
    "checked": "2026-11-06",
    "prev": {
-    "start_time": "18:00"
+    "start_time": "18:00",
+    "fee": "10 km 12 € (Frühbucher bis 01.05.2026), 16 € bis 26.08., 20 € am Wettkampftag; 5 km Fitnesslauf 10/14/18 €; Kinderläufe ab 2,50 € (Ausgabe 2026 laut Baer-Service)"
    }
   },
   {
@@ -34159,7 +34152,8 @@
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (17 km um 09:15 Uhr). Ausgabe 2026: Startunterlagen am Freitag vor dem Lauf von 15:00 bis 19:00 Uhr",
    "checked": "2026-11-06",
    "prev": {
-    "start_time": "09:15"
+    "start_time": "09:15",
+    "fee": "10 km 50 €, 12 km 50 €, 17 km 55 € (inkl. Buspendel und Fähre), 30 km 55 € (Ausgabe 2026)"
    },
    "showers": "Ausreichend Umkleide- und Duschmöglichkeiten am Start- und Zielgelände",
    "parking": "Ausgabe 2026: kostenloser Busshuttle vom P+R-Parkplatz am Bahnhof zum Start"
@@ -34368,6 +34362,10 @@
    "date": "2027-06-26",
    "confirmed": true,
    "distances": [
+    "12,6",
+    "16",
+    "20",
+    "36",
     "74"
    ],
    "url": "http://www.sachsentrail.de/",
@@ -34380,7 +34378,8 @@
    "end": "2027-06-27",
    "start_place": "Sportpark Rabenberg, 08359 Breitenbrunn (Erzgebirge)",
    "pickup": "Startunterlagen Freitag 25.06.2027 von 16:00 bis 20:00 Uhr und Samstag 26.06.2027 von 6:00 bis 8:30 Uhr",
-   "showers": "Ausreichend Umkleiden und Duschen"
+   "showers": "Ausreichend Umkleiden und Duschen",
+   "fee": "UltraTrail 74 km ab 70 €, HalfTrail 36 km ab 50 €, QuarterTrail 20 km ab 35 €, BaseTrail 16 km ab 30 €, FunTrail 12,6 km ab 25 €, UpHill Prolog 4,2 km 15 € (Preis steigt mit der Startplatznummer bis 85, 65, 50, 45, 40 €); Kinderstrecken 400 m und 1 km kostenfrei"
   },
   {
    "id": "goerlitzer-bergmeisterschaft-2027",
@@ -34465,7 +34464,8 @@
    "lon": 13.75,
    "checked": "2026-11-06",
    "prev": {
-    "start_time": "10:00"
+    "start_time": "10:00",
+    "fee": "13,7 km 15 € (Frühbucher bis 01.06.2026) bis 24 € am Veranstaltungstag, 6,9 km 10 € bis 19 €, Kinderläufe 4 € bis 11 € (Ausgabe 2026 laut Baer-Service)"
    }
   },
   {
