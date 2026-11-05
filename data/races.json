@@ -2500,7 +2500,7 @@
    "note": "12. Auflage, Crosslauf (Kinder bis Senioren M/W80); Veranstalter Arnstorfer LG; Ausgabe 18.01.2026 wurde abgesagt",
    "url": "https://info-arnstorfer-lg.jimdofree.com/",
    "source": "https://ladv.de/ausschreibung/detail/49079/12.-Crosslauf-der-Arnstorfer-LG-Arnstorf.htm",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "reg_close": "2027-01-15",
    "start_place": "Sportstätte Reitplatz, Arnstorf",
    "bezirk": "Niederbayern",
@@ -2509,7 +2509,7 @@
    "prev": {
     "start_time": "12:30"
    },
-   "info": "12. Crosslauf am 17.01.2027 laut Veranstalterseite, Anmeldung noch nicht freigeschaltet; 2025: Schüler und Jugend ab 10:40, 4,2 km 11:50, 7 km 12:30 Uhr, Startgebühr per Überweisung"
+   "info": "12. Crosslauf am 17.01.2027 laut Veranstalterseite, Anmeldung noch nicht freigeschaltet; 2025: Schüler und Jugend ab 10:40, 4,2 km 11:50, 7 km 12:30 Uhr, Startgebühr per Überweisung. Meldeschluss 15.01.2027 laut LADV-Ausschreibung"
   },
   {
    "id": "dinkelsbuhler-stadtlauf-2027",
@@ -2764,11 +2764,11 @@
    "note": "22. Auflage, zugleich Kreis-Crossmeisterschaften Bayerischer Untermain und Lauf des EMS Cross-Cups; Ausrichter LuT Aschaffenburg; Kurz- und Langstrecke",
    "url": "https://ladv.de/ausschreibung/detail/49459/22.-LuT-Crosslauf-Sulzbach-am-Main.htm",
    "source": "https://ladv.de/ausschreibung/detail/49459/22.-LuT-Crosslauf-Sulzbach-am-Main.htm",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "reg_open": "2026-12-01",
    "reg_close": "2027-01-29",
    "start_place": "Sportstätte oberhalb des Skaterparks, Sulzbach am Main",
-   "info": "Startrecht ab U14 erforderlich",
+   "info": "Startrecht ab U14 erforderlich. Meldeschluss 29.01.2027, Online-Meldung ab 01.12.2026 laut LADV-Ausschreibung; Kreismeisterschaft im Rahmen des EMS Cross-Cup",
    "bezirk": "Unterfranken",
    "kreis": "LK Miltenberg",
    "gear_open": "nicht geprüft (kurzer Lauf)",
@@ -2835,12 +2835,13 @@
    "note": "Crosslauf mit Bezirksmeisterschaften; Ausrichter SpVgg Obertrubach",
    "url": "https://ladv.de/ausschreibung/detail/48852/Obertrubacher-Crosslauf-Obertrubach.htm",
    "source": "https://ladv.de/ausschreibung/detail/48852/Obertrubacher-Crosslauf-Obertrubach.htm",
-   "checked": "2026-11-03",
+   "checked": "2026-11-05",
    "reg_close": "2027-02-18",
    "start_place": "Sportheim Obertrubach",
    "bezirk": "Oberfranken",
    "kreis": "LK Forchheim",
-   "gear_open": "nicht geprüft (kurzer Lauf)"
+   "gear_open": "nicht geprüft (kurzer Lauf)",
+   "info": "Meldeschluss 18.02.2027 laut LADV-Ausschreibung; Bezirksmeisterschaft Oberfranken, Veranstalter SpVgg Obertrubach"
   },
   {
    "id": "bayerische-cross-meisterschaft-2027",
@@ -3037,12 +3038,13 @@
    "note": "17. Auflage, Wald-/Crosslauf; Veranstalter TSV Ebersberg, Ausrichter LG 90 Ebersberg-Grafing",
    "url": "https://ladv.de/ausschreibung/detail/49535/17.-Ebersberger-Seelauf-Ebersberg.htm",
    "source": "https://ladv.de/ausschreibung/detail/49535/17.-Ebersberger-Seelauf-Ebersberg.htm",
-   "checked": "2026-11-01",
+   "checked": "2026-11-05",
    "reg_close": "2027-03-10",
    "start_place": "Waldsportpark Ebersberg",
    "bezirk": "Oberbayern",
    "kreis": "LK Ebersberg",
-   "gear_open": "nicht geprüft (kurzer Lauf)"
+   "gear_open": "nicht geprüft (kurzer Lauf)",
+   "info": "Meldeschluss 10.03.2027 laut LADV-Ausschreibung"
   },
   {
    "id": "fruhjahrslauf-kitzinger-zehner-2027",
@@ -3688,7 +3690,7 @@
    "reg_close": null,
    "fee": null,
    "start_time": "10:20",
-   "checked": "2026-11-01",
+   "checked": "2026-11-05",
    "source": "https://datasport.com/de/events/silberwaldlauf-2027",
    "start_place": "Gelände TSF Ludwigsfeld, Schwalbenweg 1, 89231 Neu-Ulm",
    "aid": "Im Ziel Wasser, warmer Zitronentee, Hefezopf, Obst",
@@ -3705,7 +3707,7 @@
    "cutoff": null,
    "included": null,
    "late_reg": "Nachmeldung/Ummeldung im „Garten“, Illerholzweg 9",
-   "info": "Zusätzlich Kinderläufe 0,5/1/1,8 km",
+   "info": "Zusätzlich Kinderläufe 0,5/1/1,8 km. Angaben laut Anmeldeportal datasport: Hauptlauf 10 km um 11:15 Uhr, außerdem Hauptlauf 6 km, Kinderläufe 500, 1000 und 1800 m",
    "bezirk": "Schwaben",
    "kreis": "LK Neu-Ulm",
    "showers": "Toiletten, Umkleiden, Duschen, Garderobe"
@@ -3820,9 +3822,9 @@
    "url": "https://saaletal-marathon.de/",
    "reg_open": "2026-04-11",
    "reg_close": "2027-04-09",
-   "fee": null,
+   "fee": "Marathon 35 €, Dreiviertelmarathon 29 €, Halbmarathon 23 €, Viertelmarathon 15 €, Walking 15 €, Minimarathon 11 € bei Anmeldung bis 31.12.2026; vom 01.01. bis 28.02.2027 42 / 36 / 30 / 21 / 21 / 13 €, vom 01.03. bis 09.04.2027 46 / 40 / 34 / 24 / 24 / 14 €",
    "start_time": "10:00",
-   "checked": "2026-11-02",
+   "checked": "2026-11-05",
    "source": "https://my.raceresult.com/391983/info",
    "start_place": "Sportgelände SV Ramsthal",
    "aid": null,
@@ -3839,7 +3841,7 @@
    "cutoff": null,
    "included": null,
    "late_reg": null,
-   "info": "Anmeldung 2027 via raceresult offen",
+   "info": "Anmeldung 2027 via raceresult offen. Startzeiten laut Anmeldeportal: Marathon und Dreiviertelmarathon 10:00, Halbmarathon 10:30, Viertelmarathon 11:00 Uhr (laut Anmeldeportal RaceResult am 05.11.2026)",
    "bezirk": "Unterfranken",
    "kreis": "LK Bad Kissingen"
   },
@@ -14403,18 +14405,20 @@
     "10"
    ],
    "source": "https://haid.app/en/events/mergelstetter-silvesterlauf-mttimea2",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "lat": 48.683,
    "lon": 10.15,
    "anmeldung_url": "https://my.raceresult.com/419461",
-   "info": "12. Auflage, SV Mergelstetten. Anmeldung laut Seite 'bald' geöffnet. 10 km und 5 km, nur Online-Anmeldung, Zielschluss 11:25 Uhr (2025); Veranstalterseite outdoor.svmergelstetten.de/ausschreibung/",
+   "info": "12. Auflage, SV Mergelstetten. Anmeldung laut Seite 'bald' geöffnet. 10 km und 5 km, nur Online-Anmeldung, Zielschluss 11:25 Uhr (2025); Veranstalterseite outdoor.svmergelstetten.de/ausschreibung/. Startzeiten laut Anmeldeportal: 10 km um 10:00 Uhr, 5 km um 10:10 Uhr (laut Anmeldeportal RaceResult am 05.11.2026)",
    "reg_open": "2026-11-01",
    "limit": "650 Starter (2025)",
    "start_place": "Arphalde, Heidenheim-Mergelstetten",
    "prev": {
     "fee": "8 bis 13 € (Ausgabe 2025)"
    },
-   "url": "https://outdoor.svmergelstetten.de/ausschreibung/"
+   "url": "https://outdoor.svmergelstetten.de/ausschreibung/",
+   "fee": "10 km und 5 km: 13 € bei Anmeldung vom 01.11. bis 06.12., 15 € vom 07.12. bis 26.12., 17 € vom 27.12. bis 31.12.; Jugend (Jahrgang 2009 bis 2014 bzw. 2016) 9 €, am letzten Abschnitt 10 €",
+   "start_time": "10:00"
   },
   {
    "id": "backnanger-silvesterlauf-2026",
@@ -14832,13 +14836,13 @@
     "HM"
    ],
    "source": "https://haid.app/en/events/gmunder-stadtlauf-mvx8v56x",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "prev_date": "2026-03-14",
    "lat": 48.8,
    "lon": 9.799,
    "anmeldung_url": "https://datasport.com/de/events/41-gmuender-stadtlauf",
    "start_place": "Großsporthalle Schwäbisch Gmünd",
-   "info": "Start/Ziel an der Großsporthalle. 5 km (Fitness Run), 10 km, Halbmarathon (Widmann-Cup) und Team-Cup 2 × 5 km, dazu Kinderläufe. Datum 13.03.2027 laut running.life und racenotify.",
+   "info": "Start/Ziel an der Großsporthalle. 5 km (Fitness Run), 10 km, Halbmarathon (Widmann-Cup) und Team-Cup 2 × 5 km, dazu Kinderläufe. Datum 13.03.2027 laut running.life und racenotify. Strecken laut Anmeldeportal datasport: 5 und 10 km auf asphaltiertem Weg an der Rems, Halbmarathon ins Haselbachtal, Team-Cup 2 x 5 km; Datum 13.03.2027",
    "url": "https://gmuender-stadtlauf.de",
    "late_reg": "Nachmeldung am Lauftag vor Ort mit 5 € Zuschlag, solange das Teilnehmerlimit nicht erreicht ist (laut Ausgabe 2026)"
   },
@@ -14927,13 +14931,15 @@
     "33,7"
    ],
    "source": "https://haid.app/en/events/essinger-panoramalaufe-mq95rygd",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "lat": 48.8,
    "lon": 10.01,
    "url": "https://lac-essingen.de/panoramalauf/",
    "anmeldung_url": "https://my.raceresult.com/391501",
    "showers": "Duschen und Massage vorhanden",
-   "info": "Sieben Strecken von 0,5 bis 33,7 km mit Blick über die Ostalb (u. a. 11 km Albuch Light, 23 km Drei-Berge-Lauf, 33,7 km Limes Trailrun). DLV-genehmigt für 2027. Anmeldung bis 02.02.2027 mit Chance auf ein Funktionsshirt, bis 02.03.2027 mit persönlicher Startnummer. Finisher-Medaille, Firmenwertung. Reduzierte Startgebühren für Anmeldungen bis 31.10.2026. Funktionsshirt-Chance bei Anmeldung bis 02.02.2027, personalisierte Startnummer bis 02.03.2027"
+   "info": "Sieben Strecken von 0,5 bis 33,7 km mit Blick über die Ostalb (u. a. 11 km Albuch Light, 23 km Drei-Berge-Lauf, 33,7 km Limes Trailrun). DLV-genehmigt für 2027. Anmeldung bis 02.02.2027 mit Chance auf ein Funktionsshirt, bis 02.03.2027 mit persönlicher Startnummer. Finisher-Medaille, Firmenwertung. Reduzierte Startgebühren für Anmeldungen bis 31.10.2026. Funktionsshirt-Chance bei Anmeldung bis 02.02.2027, personalisierte Startnummer bis 02.03.2027. Startzeiten laut Anmeldeportal: Limes Trailrun 9:30, Schönbrunnenlauf 10:45, Walk und Fitnesslauf 11:45, Drei Berge Lauf 11:55, Albuch light 12:45 Uhr (laut Anmeldeportal RaceResult am 05.11.2026)",
+   "fee": "Limes Trailrun 33,7 km 45 €, Drei Berge Lauf 23 km 29 €, Albuch light 11 km 20 €, Fitnesslauf und Walk 6,5 km je 14 €, Schönbrunnenlauf 2 km 6 € bei Anmeldung vom 01.11.2026 bis 15.01.2027 (bis 31.10.2026 waren es 39 / 26 / 17 / 11 / 4 €); Bambinilauf ohne Angabe",
+   "start_time": "09:30"
   },
   {
    "id": "pleidelsheimer-suewag-lauf-2027",
@@ -15612,12 +15618,14 @@
     "65"
    ],
    "source": "https://haid.app/en/events/kandern-trail-masters-2027-mvd8rhir",
-   "checked": "2026-11-04",
-   "info": "Neues Trailevent im südlichen Schwarzwald (laut Veranstalter in früher Entwicklungsphase). 12, 35 und 65 km, laut gotrail.run auch UTMB 20K/50K. Termin 09.05.2027 laut Veranstalterseite, Strecken 12, 35 und 65 km",
+   "checked": "2026-11-05",
+   "info": "Neues Trailevent im südlichen Schwarzwald (laut Veranstalter in früher Entwicklungsphase). 12, 35 und 65 km, laut gotrail.run auch UTMB 20K/50K. Termin 09.05.2027 laut Veranstalterseite, Strecken 12, 35 und 65 km. Startzeiten laut Anmeldeportal: 65 km 7:00, 35 km 8:30, 12 km Nordic Walking 8:45 Uhr (laut Anmeldeportal RaceResult am 05.11.2026)",
    "lat": 47.714,
    "lon": 7.662,
    "url": "https://www.kandern-trail-masters.de/",
-   "anmeldung_url": "https://my.raceresult.com/426778"
+   "anmeldung_url": "https://my.raceresult.com/426778",
+   "fee": "KTM 65 (2.320 Hm) 55 €, KTM 35 (1.250 Hm) 40 €, KTM 12 Nordic Walking (320 Hm) 20 €",
+   "start_time": "07:00"
   },
   {
    "id": "hohenloher-geniesserlauf-2027",
@@ -17228,9 +17236,15 @@
     "10"
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 28.03.). Strecken laut hdsports. Veranstalter SG Auerbach, Teil des Drei-Flüsse-Cups. 2026 (11. Auflage) am 28.03.",
-   "url": "https://elztaler-volkslauf-2026.racepedia.de/"
+   "checked": "2026-11-05",
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 28.03.). Strecken laut hdsports. Veranstalter SG Auerbach, Teil des Drei-Flüsse-Cups. 2026 (11. Auflage) am 28.03. Ausgabe 2026 am 28.03.2026: 5-km-Lauf und 10-km-Lauf 13:30 Uhr, Online-Voranmeldung bis 22.03.2026; Teil des Drei-Flüsse-Cups",
+   "url": "https://elztaler-volkslauf-2026.racepedia.de/",
+   "late_reg": "Nachmeldung bis 30 Minuten vor dem Start, Nachmeldegebühr 4 € (Ausgabe 2026)",
+   "pickup": "Anmeldebüro und Startnummernausgabe ab 9:00 Uhr (Ausgabe 2026)",
+   "parking": "Ausreichend Parkplätze am Sportgelände Auerbach",
+   "prev": {
+    "start_time": "13:30"
+   }
   },
   {
    "id": "blaufelder-volkslauf-2027",
@@ -17303,11 +17317,12 @@
     "10,4"
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 04.04.). Strecken laut hdsports. Veranstalter TV Hürben 1913, Teil der Heidenheimer Laufserie. 2026 am 04.04., überwiegend geschotterte Wege",
+   "checked": "2026-11-05",
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 04.04.). Strecken laut hdsports. Veranstalter TV Hürben 1913, Teil der Heidenheimer Laufserie. 2026 am 04.04., überwiegend geschotterte Wege. Ausgabe 2026 am 04.04.2026 war ausgebucht, Voranmeldung bis 31.03.2026, keine Nachmeldung vor Ort; Auftakt der Heidenheimer Laufserie (laut Anmeldeportal)",
    "anmeldung_url": "https://my.raceresult.com/384568/",
    "prev": {
-    "fee": "Hobbylauf 5,2 km und Hauptlauf 10,4 km 10 bis 13 € (Ausgabe 2026)"
+    "fee": "Hobbylauf 5,2 km und Hauptlauf 10,4 km 10 bis 13 € (Ausgabe 2026)",
+    "start_time": "14:00"
    },
    "url": "https://www.tv-huerben.de/"
   },
@@ -22730,13 +22745,15 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-05",
-   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 31.12.). Strecken laut hdsports. 55. Auflage 2026, Sportgemeinde 1865 Kißlegg. 55. Silvesterlauf; 2025 startete der Bambini-Lauf um 10:45 und der Hauptlauf über sieben Runden um 12:00 Uhr",
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 31.12.). Strecken laut hdsports. 55. Auflage 2026, Sportgemeinde 1865 Kißlegg. 55. Silvesterlauf; 2025 startete der Bambini-Lauf um 10:45 und der Hauptlauf über sieben Runden um 12:00 Uhr. Startzeiten laut Anmeldeportal: Hauptlauf 12:00, Schülerläufe ab 11:00, Bambinilauf 10:45 Uhr (laut Anmeldeportal RaceResult am 05.11.2026)",
    "url": "https://sg-kisslegg-de.jimdofree.com/silvesterlauf/",
    "anmeldung_url": "https://my.raceresult.com/430549/",
    "prev_date": "2025-12-31",
    "start_place": "Schlosspark Kißlegg",
    "reg_close": "2026-12-28",
-   "late_reg": "Nachmeldung bis 30 Minuten vor dem Start, Gebühr 3 € zusätzlich"
+   "late_reg": "Nachmeldung bis 30 Minuten vor dem Start, Gebühr 3 € zusätzlich",
+   "fee": "Hauptlauf 17 € bei Anmeldung vom 01.11. bis 30.11.2026, 19 € vom 01.12. bis 28.12.2026 (bis 31.10. waren es 15 €); Kinderläufe laut Portal ohne Angabe",
+   "start_time": "12:00"
   },
   {
    "id": "silvesterlauf-ottenbach-2026",
@@ -24211,11 +24228,14 @@
     "HM"
    ],
    "source": "https://www.runme.de/deutschland/crosslauf-des-laufprojekt-buedingen/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "url": "https://laufprojektbuedingen.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Laut Veranstalter: 2. Büdingen X Cross am 04.04.2027, Anmeldung geöffnet, Meldeschluss Donnerstag 01.04.2027",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Laut Veranstalter: 2. Büdingen X Cross am 04.04.2027, Anmeldung geöffnet, Meldeschluss Donnerstag 01.04.2027. Online-Anmeldung bis 01.04.2027, 23:59 Uhr; Startzeiten: 5,2 km 9:00, 12 km und 21,1 km 10:00 Uhr (laut Anmeldeportal RaceResult am 05.11.2026)",
    "reg_close": "2027-04-01",
-   "anmeldung_url": "https://my.raceresult.com/414147"
+   "anmeldung_url": "https://my.raceresult.com/414147",
+   "fee": "12 km Crosslauf 12 €, 21,1 km Crosslauf 17 €, 5,2 km Crosslauf 7 €, Schülerlauf 1,5 km 3 €, Bambinilauf ohne Anmeldung",
+   "late_reg": "Nachmeldung vor Ort am Sonntag bis 45 Minuten vor dem jeweiligen Lauf",
+   "start_time": "09:00"
   },
   {
    "id": "dorflauf-geiss-nidda-2027",
@@ -28191,12 +28211,15 @@
    ],
    "url": "https://www.psvmeiningen.de/",
    "source": "https://www.runme.de/deutschland/meininger-silvesterlauf-meiningen/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Veranstalter: 54. Silvesterlauf am 03.01.2027; 10:00 Schülerläufe, 10:30 Läufe über 4 km und 6 km, 11:30 Hauptlauf 10 km; Voranmeldung online über Laufservice Jena (RaceResult), Startgeld und Meldeschluss stehen im Flyer; Teilnehmer dürfen am Lauftag von 12 bis 15 Uhr das Hallenbad Rohrer Stirn eine Stunde kostenlos nutzen",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Veranstalter: 54. Silvesterlauf am 03.01.2027; 10:00 Schülerläufe, 10:30 Läufe über 4 km und 6 km, 11:30 Hauptlauf 10 km; Voranmeldung online über Laufservice Jena (RaceResult), Startgeld und Meldeschluss stehen im Flyer; Teilnehmer dürfen am Lauftag von 12 bis 15 Uhr das Hallenbad Rohrer Stirn eine Stunde kostenlos nutzen. Ausgabe 2025 laut Anmeldeportal: Online-Anmeldung schloss bei 600 Teilnehmenden für 4, 6 und 10 km, Nachmeldung vor Ort bis 9:30 Uhr, Meldebüro ab 8:00 Uhr",
    "checked": "2026-11-05",
    "start_time": "11:30",
    "start_place": "Schlosspark Meiningen",
    "pickup": "Am Lauftag in den Räumen des Marstalls neben Schloss Elisabethenburg",
-   "anmeldung_url": "https://my.raceresult.com/347256"
+   "anmeldung_url": "https://my.raceresult.com/347256",
+   "prev": {
+    "fee": "10 km 10 €, 6 km 6 €, 4 km 4 €, 2 km 2 €, Nachmeldegebühr 3 € (Ausgabe 2025)"
+   }
   },
   {
    "id": "neujahrslauf-in-muenchenbernsdorf-2027",
