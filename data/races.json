@@ -30886,8 +30886,9 @@
    ],
    "url": "https://www.vfl-dresden-buehlau.de/",
    "source": "https://www.runme.de/deutschland/buehlauer-winterlaufserie-dresden/",
-   "info": "Fünf Termine in der Dresdner Heide (07.11.2026, 05.12.2026, 09.01., 06.02. und 06.03.2027) mit 10-km-Runden und Varianten bis 40 km, Anmeldung am Start, Urkunden für kumulierte Kilometer; als ein Eintrag mit dem ersten Termin geführt.",
-   "checked": "2026-11-06"
+   "info": "Fünf Termine in der Dresdner Heide (07.11.2026, 05.12.2026, 09.01., 06.02. und 06.03.2027) mit 10-km-Runden und Varianten bis 40 km, Anmeldung am Start, Urkunden für kumulierte Kilometer; als ein Eintrag mit dem ersten Termin geführt. Startzeit laut RUNME (10 km um 08:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-06",
+   "start_time": "08:00"
   },
   {
    "id": "fockeberglauf-2026",
@@ -30906,8 +30907,12 @@
    ],
    "url": "http://www.leipziger-triathlon.de/site/index.php",
    "source": "https://www.runme.de/deutschland/fockeberglauf-leipzig-5836/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (6 km um 10:00 Uhr, frühester Lauf ab 5 km). Laut Veranstalterseite Voranmeldung online bis Freitag 06.11.2026 20:00 Uhr",
+   "checked": "2026-11-06",
+   "start_time": "10:00",
+   "reg_close": "2026-11-06",
+   "fee": "Basiclauf 5 €, Fitness- und Hauptlauf bis 17 Jahre 5 €, ab 18 Jahre 15 € (Bezahlung vor Ort in bar)",
+   "pickup": "Abholung der Startunterlagen am Wettkampftag von 08:00 bis 09:45 Uhr vor Ort"
   },
   {
    "id": "crosslauf-rund-um-den-windberg-2026",
@@ -30926,11 +30931,12 @@
    ],
    "url": "https://www.windberglauf.de/",
    "source": "https://www.runme.de/deutschland/crosslauf-freital/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. 75. Auflage am 08.11.2026; Meldeportale schließen Dienstag 03.11.2026 um 23:59 Uhr",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. 75. Auflage am 08.11.2026; Meldeportale schließen Dienstag 03.11.2026 um 23:59 Uhr. Startzeit laut RUNME (6,2 km um 12:50 Uhr, frühester Lauf ab 5 km).",
    "checked": "2026-11-06",
    "fee": "Frauen, Männer, Senioren 10 € je Disziplin, Altersklassen 14 bis U20 6 €, Altersklassen 8 bis 13 3 €",
    "pickup": "Startunterlagen am Wettkampftag vor Ort ab 08:30 Uhr",
-   "reg_close": "2026-11-03"
+   "reg_close": "2026-11-03",
+   "start_time": "12:50"
   },
   {
    "id": "herbstwaldlauf-dresdner-heide-mit-hofewiese-trail-2026",
@@ -30950,9 +30956,14 @@
    ],
    "url": "http://www.herbstwaldlauf.com/",
    "source": "https://www.runme.de/deutschland/herbstwaldlauf-dresden-klotzsche/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Meldeschluss Freitag 06.11.2026 (online); Meldebüro für Startnummern und Nachmeldungen öffnet gegen 9:30 Uhr",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Meldeschluss Freitag 06.11.2026 (online); Meldebüro für Startnummern und Nachmeldungen öffnet gegen 9:30 Uhr. Startzeit laut RUNME (8,7 km um 11:22 Uhr, frühester Lauf ab 5 km).",
    "checked": "2026-11-06",
-   "reg_close": "2026-11-06"
+   "reg_close": "2026-11-06",
+   "start_time": "11:22",
+   "limit": "400 Starter (Begrenzung durch den Forst)",
+   "showers": "Keine Duschen vorhanden",
+   "parking": "Nur sehr begrenzte Parkmöglichkeiten an der Hofewiese, Zufahrtstraße Gänsefuß ist Parkverbot; besser in Langebrück parken",
+   "late_reg": "Nachmeldung am Sonntag möglich, solange die Teilnehmerbegrenzung von 400 Startern nicht erreicht ist"
   },
   {
    "id": "wurzellauf-2026",
@@ -30971,8 +30982,12 @@
    ],
    "url": "http://www.atsv-info.de/",
    "source": "https://www.runme.de/deutschland/wurzellauf-marienberg-gelobtland/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 10:00 Uhr, frühester Lauf ab 5 km). Laut Ausschreibung Meldeschluss 05.11.2026 18:00 Uhr",
+   "checked": "2026-11-06",
+   "start_time": "10:00",
+   "reg_close": "2026-11-05",
+   "late_reg": "Nachmeldung bis 9:00 Uhr am Wettkampftag, Gebühr 2 €",
+   "pickup": "Startnummernausgabe ab 8:00 Uhr im Rechenbüro"
   },
   {
    "id": "fackellauf-goerlitz-2026",
@@ -30992,8 +31007,10 @@
    "url": "https://walking.life/",
    "anmeldung_url": "https://my.raceresult.com/429884/",
    "source": "https://running.life/de/termine/fackellauf-zgorzelec",
-   "info": "Abendlicher Fackellauf über die Brücken der Europastadt Görlitz mit ca. 4,5 km und 9 km, Urkunde für alle Finisher.",
-   "checked": "2026-11-06"
+   "info": "Abendlicher Fackellauf über die Brücken der Europastadt Görlitz mit ca. 4,5 km und 9 km, Urkunde für alle Finisher. Laut Anmeldeseite am 13.11.2026: 2 Runden 18:30 Uhr, 1 Runde 18:40 Uhr, Walken 1 Runde 18:42 Uhr, Startgeld 5 €",
+   "checked": "2026-11-06",
+   "start_time": "18:30",
+   "fee": "5 € (alle Strecken)"
   },
   {
    "id": "auewaldlauf-2026",
@@ -31013,8 +31030,9 @@
    ],
    "url": "http://www.fit-leipzig.de",
    "source": "https://www.runme.de/deutschland/leipziger-auewaldlauf/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (20 km um 10:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-06",
+   "start_time": "10:00"
   },
   {
    "id": "crosslauf-im-weissiger-wald-2026",
@@ -31033,8 +31051,9 @@
    ],
    "url": "https://www.leichtathletik-dresden.de/",
    "source": "https://www.runme.de/deutschland/crosslauf-im-weissiger-wald/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (6 km um 12:15 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-06",
+   "start_time": "12:15"
   },
   {
    "id": "stonebreaktrail-meltewitz-2026",
@@ -31056,7 +31075,8 @@
    "checked": "2026-11-06",
    "start_time": "10:30",
    "reg_close": "2026-11-08",
-   "fee": "5 km und Walking 15 €, 10 km 15 €, 20 km 20 €, Kinderläufe 8 €"
+   "fee": "5 km und Walking 15 €, 10 km 15 €, 20 km 20 €, Kinderläufe 8 €",
+   "late_reg": "Nachmeldung vor Ort möglich, Nachmeldegebühr 5 €"
   },
   {
    "id": "offener-vereinscrosslauf-der-wsg-schwarzenberg-wildenau-e-v-2026",
@@ -31075,8 +31095,14 @@
    ],
    "url": "http://www.wsgwildenau.de/",
    "source": "https://www.runme.de/deutschland/offener-vereinscrosslauf-der-wsg-schwarzenberg-wildenau-e-v-/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 11:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-06",
+   "start_time": "11:00",
+   "reg_close": "2026-11-17",
+   "fee": "Erwachsene 15 € bei Anmeldung bis 31.10.2026, 20 € bis 17.11.2026; Bambinis 2 €",
+   "late_reg": "Nachmeldung vor Ort bis 10:00 Uhr, Gebühr 3 € (außer Bambinis)",
+   "parking": "Parken an der Schanzenbaude nur eingeschränkt; ausreichend Parkplätze im Gewerbegebiet Geyer, ca. 15 Minuten Fußweg",
+   "showers": "Umkleidemöglichkeiten und Verpflegung in der Schanzenbaude"
   },
   {
    "id": "braunsteichlauf-weisswasser-2026",
@@ -31095,8 +31121,9 @@
    ],
    "url": "http://www.tsg-la-wsw.de/",
    "source": "https://www.runme.de/deutschland/braunsteichlauf/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10 km um 10:20 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-06",
+   "start_time": "10:20"
   },
   {
    "id": "freiberger-adventslauf-2026",
@@ -31115,8 +31142,9 @@
    ],
    "url": "http://www.hetz-run.de",
    "source": "https://www.runme.de/deutschland/freiberger-adventslauf/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (6 km um 15:45 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-06",
+   "start_time": "15:45"
   },
   {
    "id": "oem-adventslauftreff-2026",
@@ -31136,8 +31164,9 @@
    ],
    "url": "http://www.oberelbe-marathon.de",
    "source": "https://www.runme.de/deutschland/oem-adventslauftreff/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (42,195 km um 09:25 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-06",
+   "start_time": "09:25"
   },
   {
    "id": "adventslauf-dohna-2026",
@@ -31183,8 +31212,9 @@
    ],
    "url": "http://www.vorwaerts-zwickau.de",
    "source": "https://www.runme.de/deutschland/zwickauer-adventslauf/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 09:55 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-06",
+   "start_time": "09:55"
   },
   {
    "id": "sparkassen-sonnenwendlauf-winteredition-2026",
@@ -31202,8 +31232,9 @@
    ],
    "url": "https://www.sparkassen-paddle-run.de/",
    "source": "https://www.runme.de/deutschland/sparkassen-sonnenwendlauf-leipzig/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (11 km um 14:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-06",
+   "start_time": "14:00"
   },
   {
    "id": "speck-weg-lauf-2026",
@@ -31225,8 +31256,12 @@
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Ausgabe laut Veranstalterseite: Kids-Run 1 km um 17:45 Uhr, danach 1, 3, 6 und 12 km Lauf oder Walk ab 18:00 Uhr, Start und Ziel vor dem Rathaus Rothenburg/OL",
    "checked": "2026-11-06",
    "prev": {
-    "start_time": "18:00"
-   }
+    "start_time": "18:00",
+    "fee": "6 km 6 €, 12 km 12 € (Ausgabe laut Veranstalterseite, Nachmeldung vor Ort +5 €)"
+   },
+   "showers": "Umkleiden vorhanden, keine Dusche",
+   "parking": "Ausreichend Parkplätze direkt auf der Görlitzer Straße und auf dem Parkplatz am Start",
+   "late_reg": "Nachmeldung am Veranstaltungstag ab 16:30 Uhr bis 15 Minuten vor dem Start (Ausgabe 2026: Nachmeldegebühr 5 €)"
   },
   {
    "id": "silvesterlauf-des-lc-auensee-leipzig-2026",
@@ -31244,8 +31279,9 @@
    ],
    "url": "http://www.lc-auensee-leipzig.de/",
    "source": "https://www.runme.de/deutschland/silvesterlauf-am-auensee-leipzig/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10 km um 12:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-06",
+   "start_time": "12:00"
   },
   {
    "id": "oberlichtenauer-silvesterlauf-2026",
@@ -31264,8 +31300,9 @@
    ],
    "url": "http://www.sg-oberlichtenau.de",
    "source": "https://www.runme.de/deutschland/oberlichtenauer-silvesterlauf/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (9,2 km um 14:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-06",
+   "start_time": "14:00"
   },
   {
    "id": "duebener-silvesterlauf-2026",
@@ -31285,8 +31322,9 @@
    ],
    "url": "https://sv-bad-dueben.de/",
    "source": "https://www.runme.de/deutschland/silvesterlauf-bad-dueben/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10 km um 10:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-06",
+   "start_time": "10:00"
   },
   {
    "id": "bautzener-silvesterlauf-2026",
@@ -31308,7 +31346,8 @@
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Ausschreibung neue Strecken: 5,5 km (55 Hm) und 11,0 km (110 Hm, bisher 10,8 km), 2,6 km unverändert; Start 09:30 Uhr (5,5 und 11,0 km) und 09:40 Uhr (2,6 km); Online-Anmeldung über Baer-Service",
    "checked": "2026-11-06",
    "start_time": "09:30",
-   "fee": "2,6 km 5 €, 5,5 km 8 €, 11,0 km 10 €"
+   "fee": "2,6 km 5 €, 5,5 km 8 €, 11,0 km 10 €",
+   "late_reg": "Ab 30.12.2026 steigt die Anmeldegebühr um 4 € je Lauf"
   },
   {
    "id": "chemnitzer-silvesterlauf-2026",
@@ -31326,8 +31365,9 @@
    ],
    "url": "https://www.triathlonchemnitz.de/",
    "source": "https://www.runme.de/deutschland/silvesterlauf-chemnitz/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10,1 km um 11:30 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-06",
+   "start_time": "11:30"
   },
   {
    "id": "bornaer-neujahrslauf-2027",
@@ -31345,8 +31385,11 @@
    ],
    "url": "https://vsv77-borna.de/",
    "source": "https://www.runme.de/deutschland/bornaer-neujahrslauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 11:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "11:00"
+   }
   },
   {
    "id": "neujahrsberglauf-in-falkenstein-2027",
@@ -31370,7 +31413,9 @@
    "start_time": "11:00",
    "reg_close": "2027-01-07",
    "fee": "Läufer Jahrgang 2007 und älter 8 €, Jahrgang 2008 bis 2011 und Walking 5 €, Kinder Jahrgang 2012 und jünger frei",
-   "late_reg": "Nachmeldung am 09.01.2027 von 8:30 bis 10:30 Uhr, Gebühr 1 €"
+   "late_reg": "Nachmeldung am 09.01.2027 von 8:30 bis 10:30 Uhr, Gebühr 1 €",
+   "pickup": "Meldebüro, Umkleiden, Duschen und Siegerehrung in der Rathausturnhalle, Amtsstraße (neben dem Rathaus)",
+   "showers": "Umkleiden und Duschen in der Rathausturnhalle"
   },
   {
    "id": "leipziger-brueckenlauf-2027",
@@ -31389,8 +31434,9 @@
    ],
    "url": "http://www.wasser-stadt-leipzig.de/index.asp",
    "source": "https://www.runme.de/deutschland/leipziger-brueckenlauf/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (16,6 km um 11:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-06",
+   "start_time": "11:00"
   },
   {
    "id": "remser-wintercross-2027",
@@ -31428,8 +31474,11 @@
    ],
    "url": "https://www.tsv-1893-leipzig-wahren.de/",
    "source": "https://www.runme.de/deutschland/winterlauf-leipzig/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:30 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:30"
+   }
   },
   {
    "id": "goerlitzer-winterseelauf-2027",
@@ -31443,16 +31492,19 @@
    "date": "2027-01-31",
    "confirmed": true,
    "distances": [
+    "6",
     "12"
    ],
    "url": "https://www.europamarathon.de/lauf/winterseelauf/",
    "anmeldung_url": "https://my.raceresult.com/430897/",
    "source": "https://running.life/de/termine/gorlitzer-winterseelauf",
-   "info": "WinterSeeLauf am Nordstrand des Berzdorfer Sees mit Strecken von 1 km bis 12 km sowie 6 km Walking (Strecken laut Plan von 2026). Ausgabe 2026 laut Europamarathon-Seite: 13:00 Uhr Kinder 1 km, 13:30 Uhr Schüler 3 km und 6 km, Nachmeldegebühr 10 €; 2027 noch nicht veröffentlicht",
+   "info": "WinterSeeLauf am Nordstrand des Berzdorfer Sees mit Strecken von 1 km bis 12 km sowie 6 km Walking (Strecken laut Plan von 2026). Ausgabe 2026 laut Europamarathon-Seite: 13:00 Uhr Kinder 1 km, 13:30 Uhr Schüler 3 km und 6 km, Nachmeldegebühr 10 €; 2027 noch nicht veröffentlicht. Laut Anmeldeseite 4. Görlitzer WinterSeeLauf am 31.01.2027: 13:00 Uhr 1 km, 13:10 Uhr 3 km, 13:30 Uhr 6 km, 12 km und 6 km Walken",
    "checked": "2026-11-06",
    "prev": {
     "start_time": "13:00"
-   }
+   },
+   "start_time": "13:30",
+   "fee": "1 km 2 €, 3 km 3 €, 6 km 6 €, 12 km 10 €, 6 km Walken 6 €"
   },
   {
    "id": "internationaler-kammlauf-2027",
@@ -31485,16 +31537,27 @@
    "kreis": "LK Nordsachsen",
    "lat": 51.499,
    "lon": 12.748,
-   "date": "2027-02-28",
-   "confirmed": false,
+   "date": "2027-03-07",
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
    "url": "http://www.mazdalauf.de",
    "source": "https://www.runme.de/deutschland/mazda-lauf-eilenburg/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-03-07.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-03-07. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:00 Uhr). Laut Ausschreibung 30. MazdaLauf am Sonntag 07.03.2027: 09:00 Uhr 2 km, 09:30 Uhr Ileburger Frühstückslauf, 10:00 Uhr 5 km und Walking, 11:45 Uhr 10-km-Hauptlauf; Onlineanmeldung ab 01.12.2026 bis 04.03.2027",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:00"
+   },
+   "start_time": "10:00",
+   "reg_open": "2026-12-01",
+   "reg_close": "2027-03-04",
+   "fee": "10 km Hauptlauf und 5 km: Erwachsene 12 €, Jugendliche 8 €, Schüler 7 €, Walker 10 €, Frühstückslauf 5 €",
+   "late_reg": "Nachmeldung am Veranstaltungstag bis 30 Minuten vor dem Start im Foyer der Sparkasse (Hirschgasse), Gebühr 3 €",
+   "pickup": "Startnummernausgabe am Sonntag 07.03.2027 ab 08:00 Uhr im Foyer der Sparkasse (Hirschgasse); Bambini-Startnummern im Info-Pavillon auf dem Marktplatz",
+   "parking": "Kostenfreie ausgewiesene Parkflächen",
+   "showers": "Duschen und Umkleiden in der Sporthalle nahe dem Marktplatz, zusätzlich Umkleidezelt auf dem Marktplatz"
   },
   {
    "id": "radebeuler-wintercross-2027",
@@ -31513,8 +31576,9 @@
    ],
    "url": "http://www.leichtathletik-radebeul.de",
    "source": "https://www.runme.de/deutschland/radebeuler-winter-cross/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5,8 km um 10:45 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-06",
+   "start_time": "10:45"
   },
   {
    "id": "schlossparklauf-bad-muskau-2027",
@@ -31533,8 +31597,13 @@
    ],
    "url": "https://laufbewegung-wsw.de/",
    "source": "https://www.runme.de/deutschland/schlossparklauf-bad-muskau/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 10:20 Uhr). Ausgabe 2026: Voranmeldung über Baer-Service, Nachmeldung vor Ort 6 €",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:20"
+   },
+   "showers": "Duschen und Umkleiden kostenlos in der Turnhalle der Bruno-Bürgel-Oberschule",
+   "parking": "Kostenlose Parkplätze rings um das Areal der Sporthalle"
   },
   {
    "id": "andreas-garack-crosslauf-2027",
@@ -31552,8 +31621,11 @@
    ],
    "url": "https://ssv1952-torgau.de/",
    "source": "https://www.runme.de/deutschland/andreas-garack-gedaechtnis-crosslauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 13:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "13:00"
+   }
   },
   {
    "id": "messepokallauf-2027",
@@ -31572,8 +31644,11 @@
    ],
    "url": "http://www.lc-auensee-leipzig.de",
    "source": "https://www.runme.de/deutschland/messepokallauf-leipzig/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (7,5 km um 10:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:00"
+   }
   },
   {
    "id": "leipziger-aok-plus-fruehjahrslauf-2027",
@@ -31592,8 +31667,9 @@
    ],
    "url": "http://www.bsv-aok.de/",
    "source": "https://www.runme.de/deutschland/leipziger-fruehjahrslauf/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 13:30 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-06",
+   "start_time": "13:30"
   },
   {
    "id": "citylauf-dresden-2027",
@@ -31615,7 +31691,11 @@
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Veranstalterseite am Sonntag 21.03.2027: 08:00 Uhr 2-km-Kinderlauf, 09:00 Uhr 450-m-Bambinilauf, 10:00 Uhr 5-km-Lauf, dazu 10-km-Elite-Lauf; Startgeld gestaffelt nach Startplatznummer",
    "checked": "2026-11-06",
    "start_time": "10:00",
-   "late_reg": "Meldeschluss eine halbe Stunde vor dem jeweiligen Start, solange das Teilnehmerlimit nicht erreicht ist"
+   "late_reg": "Meldeschluss eine halbe Stunde vor dem jeweiligen Start, solange das Teilnehmerlimit nicht erreicht ist",
+   "fee": "10 km ab 30 €, 5 km ab 25 €, 2 km Kinderlauf 12 €, 450-m-Bambinilauf kostenfrei (Preis steigt mit der Startplatznummer)",
+   "start_place": "Start- und Zielareal Terrassenufer bei der Augustusbrücke, Dresden",
+   "parking": "Keine Parkmöglichkeiten durch den Veranstalter, Anreise mit Bahn oder Bus empfohlen",
+   "showers": "Ausreichend Umkleiden und Toiletten (Gepäckabgabe)"
   },
   {
    "id": "oschatzer-stadtlauf-2027",
@@ -31634,8 +31714,11 @@
    ],
    "url": "http://www.mittelsaechsische-lauftour.com/",
    "source": "https://www.runme.de/deutschland/oschatzer-stadtlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (8,1 km um 10:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:00"
+   }
   },
   {
    "id": "geringswalder-schlossberglauf-2027",
@@ -31653,8 +31736,11 @@
    ],
    "url": "http://www.lwv-geringswalde.de/",
    "source": "https://www.runme.de/deutschland/geringswalder-schlossberglauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (23 km um 10:15 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:15"
+   }
   },
   {
    "id": "heinrich-zille-lauf-radeburg-2027",
@@ -31673,8 +31759,11 @@
    ],
    "url": "http://www.zillelauf.de/",
    "source": "https://www.runme.de/deutschland/heinrich-zille-lauf-radeburg-4258/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-03-14.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-03-14. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:00"
+   }
   },
   {
    "id": "lauf-in-den-fruehling-2027",
@@ -31694,8 +31783,11 @@
    ],
    "url": "https://www.fortschritt-mittweida.de/",
    "source": "https://www.runme.de/deutschland/lauf-in-den-fruehling/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (8 km um 10:30 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:30"
+   }
   },
   {
    "id": "goeltzschtal-marathon-2027",
@@ -31716,8 +31808,9 @@
    ],
    "url": "http://www.goeltzschtallauf.de/",
    "source": "https://www.runme.de/deutschland/goeltzschtal-marathon-lengenfeld/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (42,195 km um 09:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-06",
+   "start_time": "09:00"
   },
   {
    "id": "muldelauf-2027",
@@ -31735,8 +31828,10 @@
    ],
    "url": "https://muldelauf.maximalpuls.com/",
    "source": "https://www.runme.de/deutschland/muldentaler-staedtelauf-wurzen/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (21,0975 km um 11:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-06",
+   "start_time": "11:00",
+   "showers": "Kostenlose Umkleiden"
   },
   {
    "id": "borna-halbmarathon-2027",
@@ -31755,8 +31850,11 @@
    "url": "https://walking.life/",
    "anmeldung_url": "https://baer-service.de/veranstaltung/BHM/",
    "source": "https://running.life/de/termine/borna-halbmarathon",
-   "info": "Borna Halbmarathon am Bockwitzer See: Halbmarathon (auch als Staffel) sowie Kinder- und Schülerläufe, gestaffelte Teilnahmegebühren.",
-   "checked": "2026-11-06"
+   "info": "Borna Halbmarathon am Bockwitzer See: Halbmarathon (auch als Staffel) sowie Kinder- und Schülerläufe, gestaffelte Teilnahmegebühren. Laut Anmeldeportal Baer-Service am 11.04.2027: 0,5 km Kids Run 10:00 Uhr, 1 km Schüler Run 10:30 Uhr, Half Run Einzel und Staffel 11:00 Uhr; Meldeschluss 10.04.2027 23:59 Uhr; Veranstalter Neuseensport",
+   "checked": "2026-11-06",
+   "start_time": "11:00",
+   "reg_close": "2027-04-10",
+   "start_place": "Bockwitzer See, Borna"
   },
   {
    "id": "ostritzer-fruehjahrslauf-14-roland-pietsch-gedenklauf-2027",
@@ -31774,8 +31872,11 @@
    ],
    "url": "https://hsg-turbine-zittau.de/",
    "source": "https://www.runme.de/deutschland/ostritzer-fruehjahrslauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (12 km um 10:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:00"
+   }
   },
   {
    "id": "crosslauf-rund-um-den-wolfshuegel-2027",
@@ -31794,8 +31895,9 @@
    ],
    "url": "http://www.post-sv-dresden.de",
    "source": "https://www.runme.de/deutschland/rund-um-den-wolfshuegel-dresden/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (7 km um 14:30 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-06",
+   "start_time": "14:30"
   },
   {
    "id": "findlingsparklauf-nochten-2027",
@@ -31814,8 +31916,12 @@
    ],
    "url": "https://www.findlingspark-nochten.de/de/",
    "source": "https://www.runme.de/deutschland/findlingsparklauf-nochten/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 11:10 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "11:10"
+   },
+   "parking": "Zwei große Parkplätze (P1 und P2) im Umkreis des Veranstaltungsgeländes"
   },
   {
    "id": "mensch-gegen-maschine-steinbach-2027",
@@ -31855,8 +31961,15 @@
    ],
    "url": "http://www.wilischlauf.de/",
    "source": "https://www.runme.de/deutschland/wilischlauf-dohna-ot-roehrsdorf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (9,2 km um 11:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "11:00"
+   },
+   "start_place": "Schloss Röhrsdorf, Hauptstraße 3, 01809 Dohna (OT Röhrsdorf)",
+   "pickup": "Startnummernausgabe am Wettkampftag ab 8:30 Uhr (Ausgabe 2026)",
+   "late_reg": "Begrenzte Nachmeldungen am Wettkampftag bis ca. 9:30 Uhr (Ausgabe 2026)",
+   "showers": "Umkleidemöglichkeiten im Start- und Zielbereich"
   },
   {
    "id": "lauf-durch-die-roederaue-2027",
@@ -31875,8 +31988,11 @@
    ],
    "url": "https://www.svelbland.de/",
    "source": "https://www.runme.de/deutschland/lauf-durch-die-roederaue/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 10:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:00"
+   }
   },
   {
    "id": "leipzig-marathon-2027",
@@ -31896,9 +32012,10 @@
    ],
    "url": "http://www.leipzigmarathon.de/",
    "source": "https://www.runme.de/deutschland/stadtwerke-leipzig-marathon-leipzig/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. 49. Leipzig Marathon am 18.04.2027; Anmeldung gestaffelt, Marathon 70 € bei Anmeldung bis 22.11.2026, 80 € bis 24.01.2027, danach teurer",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. 49. Leipzig Marathon am 18.04.2027; Anmeldung gestaffelt, Marathon 70 € bei Anmeldung bis 22.11.2026, 80 € bis 24.01.2027, danach teurer. Startzeit laut RUNME (42,195 km um 09:30 Uhr, frühester Lauf ab 5 km).",
    "checked": "2026-11-06",
-   "pickup": "Startunterlagenausgabe Samstag 17.04.2027 von 10 bis 19 Uhr auf dem Marathon-Campus (dort auch Nachmeldung)"
+   "pickup": "Startunterlagenausgabe Samstag 17.04.2027 von 10 bis 19 Uhr auf dem Marathon-Campus (dort auch Nachmeldung)",
+   "start_time": "09:30"
   },
   {
    "id": "werdauer-waldlauf-2027",
@@ -31919,8 +32036,11 @@
    ],
    "url": "http://www.werdauer-waldlauf.de",
    "source": "https://www.runme.de/deutschland/werdauer-waldlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 10:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:00"
+   }
   },
   {
    "id": "raschuetzlauf-lampertswalde-2027",
@@ -31939,8 +32059,11 @@
    ],
    "url": "http://www.sv-lampertswalde.de/",
    "source": "https://www.runme.de/deutschland/raschuetzlauf-lampertswalde-4263/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-04-30.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-04-30. Startzeit der letzten Ausgabe laut RUNME (5,4 km um 18:05 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "18:05"
+   }
   },
   {
    "id": "laufmeile-riesa-2027",
@@ -31958,8 +32081,11 @@
    ],
    "url": "https://www.ddv-mediengruppe.de",
    "source": "https://www.runme.de/deutschland/laufmeile-riesa/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 12:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "12:00"
+   }
   },
   {
    "id": "zittauer-gebirgslauf-wandertreff-2027",
@@ -31980,8 +32106,11 @@
    ],
    "url": "http://www.zittauer-gebirgslauf.de/",
    "source": "https://www.runme.de/deutschland/zittauer-gebirgslauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (50 km um 07:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "07:00"
+   }
   },
   {
    "id": "vvo-oberelbe-marathon-2027",
@@ -32002,8 +32131,15 @@
    ],
    "url": "http://www.oberelbe-marathon.de/",
    "source": "https://www.runme.de/deutschland/renta-oberelbe-marathon-dresden/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 09:10 Uhr, frühester Lauf ab 5 km). Laut Veranstalterseite Meldeschluss 11.04.2027; Kinder bis 5 Jahre kostenfrei, Kinder von 6 bis 14 Jahren 21 €",
+   "checked": "2026-11-06",
+   "start_time": "09:10",
+   "reg_close": "2027-04-11",
+   "late_reg": "Anmeldung bleibt bis 24.04.2027 geöffnet; ab 12.04.2027 fällt eine Nachmeldegebühr an",
+   "pickup": "Startunterlagen am 23. und 24.04.2027 in der BallsportARENA Dresden (Laufmesse)",
+   "showers": "Dusch- und Umkleidemöglichkeiten im Ziel",
+   "cutoff": "Zielschluss Marathon 6:00 Stunden nach Start",
+   "anmeldung_url": "https://baer-service.de/anmeldung/ELB"
   },
   {
    "id": "bluetenfestlauf-borthen-2027",
@@ -32022,8 +32158,11 @@
    ],
    "url": "http://borthenerbluetenfest.de/",
    "source": "https://www.runme.de/deutschland/bluetenfestlauf-borthen-roehrsdorf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (7 km um 11:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "11:00"
+   }
   },
   {
    "id": "hohburger-steinbruchlauf-2027",
@@ -32042,8 +32181,11 @@
    ],
    "url": "http://www.hohburger-sportverein.de",
    "source": "https://www.runme.de/deutschland/hohburger-steinbruchlauf-lossatal-ot-hohburg/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:30 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:30"
+   }
   },
   {
    "id": "oederaner-lauftag-2027",
@@ -32062,8 +32204,11 @@
    ],
    "url": "https://www.oederaner-lauftag.de/2026/",
    "source": "https://www.runme.de/deutschland/oederaner-lauftag/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 11:30 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "11:30"
+   }
   },
   {
    "id": "leipziger-volksbank-frauenlauf-2027",
@@ -32084,7 +32229,11 @@
    "source": "https://www.runme.de/deutschland/leipziger-volksbank-frauenlauf/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Veranstalterseite Sonntag 02.05.2027 im Clara-Zetkin-Park: 10-km-Lauf 09:45 Uhr, 5-km-Lauf 11:45 Uhr, 5-km-Walking 11:50 Uhr (Startzeiten vorläufig)",
    "checked": "2026-11-06",
-   "start_time": "09:45"
+   "start_time": "09:45",
+   "pickup": "Meldebüro am 01.05.2027 von 13:00 bis 18:00 Uhr und am 02.05.2027 ab 08:30 Uhr",
+   "late_reg": "Nachmeldung Samstag 13:00 bis 18:00 Uhr, Sonntag ab 08:30 Uhr bis 30 Minuten vor dem jeweiligen Start",
+   "parking": "Keine Parkplätze direkt am Veranstaltungsort, Anreise mit der Straßenbahn",
+   "showers": "Umkleidebereich im Vereinsgebäude des BSV AOK Leipzig"
   },
   {
    "id": "aschberglauf-2027",
@@ -32102,8 +32251,11 @@
    ],
    "url": "https://vsc-klingenthal.de/",
    "source": "https://www.runme.de/deutschland/aschberglauf-klingenthal/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (4,6 km um 10:20 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:20"
+   }
   },
   {
    "id": "lauf-in-den-fruehling-freital-2027",
@@ -32115,15 +32267,23 @@
    "lat": 51.002,
    "lon": 13.649,
    "date": "2027-05-02",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
    "url": "http://www.laufindenfruehling.de/",
    "source": "https://www.runme.de/deutschland/lauf-in-den-fruehling-freital/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 09:30 Uhr). Laut Ausschreibung 2027: Meldeschluss 30.04.2027 14:00 Uhr (Online-Anmeldung danach mit Nachmeldegebühr), Laufanfänger und Walker können 2, 5 oder 10 km ohne Zeitmessung und Startgebühr laufen",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "09:30"
+   },
+   "reg_close": "2027-04-30",
+   "fee": "Erwachsene 13 € (Frühbucher), danach 15 €; Schüler und Jugendliche 7 €, danach 9 €",
+   "late_reg": "Nachmeldung bis spätestens 30 Minuten vor dem Start, Gebühr 5 €",
+   "start_place": "Weißeritz-Park Freital / Freizeitzentrum „Hains“, Laufstrecke im Rabenauer Grund",
+   "showers": "Duschen, Umkleiden und Schwimmhalle im „Hains“ nach Vorlage der Startnummer eine Stunde kostenlos"
   },
   {
    "id": "lausitzer-bluetenlauf-kamenz-2027",
@@ -32143,8 +32303,11 @@
    ],
    "url": "http://www.lausitzer-bluetenlauf.de",
    "source": "https://www.runme.de/deutschland/kamenzer-bluetenlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (80 km um 10:30 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:30"
+   }
   },
   {
    "id": "citylauf-heidenau-2027",
@@ -32162,8 +32325,11 @@
    ],
    "url": "https://www.citylauf-heidenau.de/",
    "source": "https://www.runme.de/deutschland/citylauf-heidenau/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (8 km um 18:30 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "18:30"
+   }
   },
   {
    "id": "brauerei-cross-2027",
@@ -32182,8 +32348,11 @@
    ],
    "url": "https://www.europamarathon.de/",
    "source": "https://www.runme.de/deutschland/brauerei-cross/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (8,8 km um 10:05 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:05"
+   }
   },
   {
    "id": "zwickauer-sparkassen-stadtlauf-2027",
@@ -32203,8 +32372,11 @@
    ],
    "url": "https://www.zwickau.de/de/index.php",
    "source": "https://www.runme.de/deutschland/zwickauer-sparkassen-stadtlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6,6 km um 11:50 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "11:50"
+   }
   },
   {
    "id": "lauf-um-die-kreckwitzer-hoehen-2027",
@@ -32223,8 +32395,11 @@
    ],
    "url": "http://www.msv-bw-kreckwitz.de/",
    "source": "https://www.runme.de/deutschland/lauf-um-die-kreckwitzer-hoehen/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-05-05.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-05-05. Startzeit der letzten Ausgabe laut RUNME (10,2 km um 18:30 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "18:30"
+   }
   },
   {
    "id": "silberseelauf-2027",
@@ -32244,8 +32419,9 @@
    ],
    "url": "https://silberseelauf-leipzig.de/",
    "source": "https://www.runme.de/deutschland/leipziger-silberseelauf/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 18:30 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-06",
+   "start_time": "18:30"
   },
   {
    "id": "adelsberg-backyard-ultra-2027",
@@ -32264,11 +32440,16 @@
    "url": "https://www.sg-adelsberg.de/backyard/",
    "anmeldung_url": "https://my.raceresult.com/421517/",
    "source": "https://running.life/de/termine/adelsberg-backyard-ultra",
-   "info": "Backyard Ultra in Chemnitz: Runde von 6,71 km mit rund 150 Hm, jede Stunde ein Start, Last-Person-Standing-Format. Laut Veranstalterseite Start Samstag 15.05.2027 um 10:00 Uhr, höchstens 48 Stunden",
+   "info": "Backyard Ultra in Chemnitz: Runde von 6,71 km mit rund 150 Hm, jede Stunde ein Start, Last-Person-Standing-Format. Laut Veranstalterseite Start Samstag 15.05.2027 um 10:00 Uhr, höchstens 48 Stunden. Laut Anmeldeseite 15. bis 17.05.2027 (2. Adelsberg Backyard Ultra), Anmeldung geschlossen und ausgebucht (Stand 06.11.2026); bei Nichtteilnahme keine Rückerstattung",
    "checked": "2026-11-06",
    "start_time": "10:00",
    "start_place": "Gelände am Adelsbergturm, Am Adelsbergturm 1, Chemnitz",
-   "pickup": "Startnummernausgabe ab 08:00 Uhr, Briefing 09:30 Uhr"
+   "pickup": "Startnummernausgabe ab 08:00 Uhr, Briefing 09:30 Uhr",
+   "end": "2027-05-17",
+   "sold_out": true,
+   "fee": "48 € bei Anmeldung bis 31.03.2027, 58 € vom 01.04. bis 14.05.2027",
+   "late_reg": "Warteliste per E-Mail mit Betreff „Warteliste ABU 2027“ an adelsberg-backyard-ultra@gmx.de",
+   "parking": "Kostenlose Parkplätze für PKW"
   },
   {
    "id": "pfingstrennen-am-baerwalder-see-2027",
@@ -32307,8 +32488,11 @@
    ],
    "url": "https://laufbewegung-wsw.de/",
    "source": "https://www.runme.de/deutschland/kromlauer-pfingstlauf-kromlau-gablenz/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10,8 km um 09:45 Uhr). Ausgabe 2026 (16. Kromlauer Pfingstlauf) laut Baer-Service: 10,8 km 09:45 Uhr, 5,4 km 09:55 Uhr, Kinder 1,6 km 09:30 Uhr",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "09:45"
+   }
   },
   {
    "id": "thumer-pfingstlauf-2027",
@@ -32328,8 +32512,11 @@
    ],
    "url": "http://www.lsv-waldfrieden-thum.de",
    "source": "https://www.runme.de/deutschland/thumer-pfingstlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 11:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "11:00"
+   }
   },
   {
    "id": "sommerabendlauf-am-auensee-2027",
@@ -32348,8 +32535,11 @@
    ],
    "url": "http://www.lc-auensee-leipzig.de/",
    "source": "https://www.runme.de/deutschland/sommerabendlauf-am-auensee-leipzig-3568/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (8,25 km um 17:40 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "17:40"
+   }
   },
   {
    "id": "der-neue-limbacher-marktlauf-20-9-2027",
@@ -32368,8 +32558,9 @@
    ],
    "url": "http://www.lvlimbach.de/",
    "source": "https://www.runme.de/deutschland/limbacher-marktlauf/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 11:30 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-06",
+   "start_time": "11:30"
   },
   {
    "id": "drei-tannen-lauf-2027",
@@ -32388,8 +32579,11 @@
    ],
    "url": "http://www.thalheim-erzgeb.de/",
    "source": "https://www.runme.de/deutschland/drei-tannen-lauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 18:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "18:00"
+   }
   },
   {
    "id": "leipziger-nachtlauf-2027",
@@ -32407,8 +32601,11 @@
     "9"
    ],
    "source": "https://www.runme.de/deutschland/leipziger-nachtlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 20:55 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "20:55"
+   }
   },
   {
    "id": "rammenauer-fichte-lauf-2027",
@@ -32427,8 +32624,11 @@
    ],
    "url": "https://www.rammenau.de/index.php",
    "source": "https://www.runme.de/deutschland/rammenauer-fichte-lauf-bischofswerda/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (7,5 km um 18:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "18:00"
+   }
   },
   {
    "id": "oberlausitztrail-2027",
@@ -32450,8 +32650,11 @@
    ],
    "url": "https://www.oberlausitztrail.de/de/index.html",
    "source": "https://www.runme.de/deutschland/oberlausitz-trail/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (62 km um 07:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "07:00"
+   }
   },
   {
    "id": "sparkassen-vogtlandlauf-2027",
@@ -32471,8 +32674,11 @@
    ],
    "url": "https://vsc-klingenthal.de/",
    "source": "https://www.runme.de/deutschland/vogtland-lauf-klingenthal/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (24 km um 10:10 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:10"
+   }
   },
   {
    "id": "altenbacher-lauf-2027",
@@ -32492,8 +32698,11 @@
    ],
    "url": "https://eichberg-ev.de",
    "source": "https://www.runme.de/deutschland/altenbacher-lauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21 km um 09:30 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "09:30"
+   }
   },
   {
    "id": "europamarathon-lauf-2027",
@@ -32535,8 +32744,11 @@
    ],
    "url": "https://www.svelbland.de/",
    "source": "https://www.runme.de/deutschland/muldentallauf-nossen/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 18:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "18:00"
+   }
   },
   {
    "id": "torgauer-city-nachtlauf-2027",
@@ -32555,8 +32767,11 @@
    ],
    "url": "https://www.ksb-nordsachsen.de/veranstaltungen/torgauer-city-nachtlauf",
    "source": "https://www.runme.de/deutschland/city-nachtlauf-torgau/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 20:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "20:00"
+   }
   },
   {
    "id": "adelsberglauf-2027",
@@ -32575,8 +32790,12 @@
    ],
    "url": "http://www.volkslauf-sachsen.de/",
    "source": "https://www.runme.de/deutschland/adelsberglauf-chemnitz/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 17:00 Uhr). Ausgabe 2026: Online-Anmeldung bis 11.06.2026, danach nur noch am Lauftag bei der Startnummernvergabe",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "17:00",
+    "fee": "2,5 km 5 €, 5 km 8 €, 10 km 12 € bei Meldung bis 2 Tage vor dem Lauf (Ausgabe 2026)"
+   }
   },
   {
    "id": "sachsenlauf-coswig-2027",
@@ -32596,11 +32815,12 @@
    ],
    "url": "http://www.sachsenlauf.de/",
    "source": "https://www.runme.de/deutschland/sachsenlauf-coswig/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Veranstalterseite Meldebeginn 01.12.2026, erhöhte Startgebühren ab 01.06.2027 und am Starttag, Meldeschluss online 19.06.2027 21:00 Uhr",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Veranstalterseite Meldebeginn 01.12.2026, erhöhte Startgebühren ab 01.06.2027 und am Starttag, Meldeschluss online 19.06.2027 21:00 Uhr. Startzeit laut RUNME (10 km um 08:00 Uhr, frühester Lauf ab 5 km).",
    "checked": "2026-11-06",
    "reg_open": "2026-12-01",
    "reg_close": "2027-06-19",
-   "pickup": "Startnummernausgabe am Lauftag (Sonntag 20.06.2027) von 07:00 bis 10:00 Uhr im Meldebüro Förderschulzentrum „Peter Rosegger“, Platanenweg 1"
+   "pickup": "Startnummernausgabe am Lauftag (Sonntag 20.06.2027) von 07:00 bis 10:00 Uhr im Meldebüro Förderschulzentrum „Peter Rosegger“, Platanenweg 1",
+   "start_time": "08:00"
   },
   {
    "id": "meerathon-2027",
@@ -32618,8 +32838,13 @@
    ],
    "url": "https://www.meerathon.com/",
    "source": "https://www.runme.de/deutschland/meerathon/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 11:45 Uhr). Ausgabe 2026: Vorverkauf in der Gü-Sport-Filiale Meerane, Startunterlagen dort ab Donnerstag vor dem Lauf bis zum Veranstaltungstag",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "11:45",
+    "fee": "9 € im Vorverkauf, 14 € am Veranstaltungstag (Ausgabe 2026)"
+   },
+   "start_place": "Wilhelm-Wunderlich-Park beim Festplatz, Meerane"
   },
   {
    "id": "oelsnitzer-lauftag-2027",
@@ -32658,8 +32883,12 @@
    ],
    "url": "http://www.lfv-oberholz.de",
    "source": "https://www.runme.de/deutschland/stoermthaler-seelauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:15 Uhr). Ausgabe 2026: Nachmeldungen am Veranstaltungstag von 9:00 bis 12:00 Uhr im Meldebüro",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:15"
+   },
+   "start_place": "Am Schloss Störmthal, Rosengang 3, 04463 Großpösna (OT Störmthal)"
   },
   {
    "id": "wiesengrundlauf-2027",
@@ -32678,8 +32907,11 @@
    ],
    "url": "http://www.wiesengrundlauf.de",
    "source": "https://www.runme.de/deutschland/wiesengrundlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,5 km um 19:45 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "19:45"
+   }
   },
   {
    "id": "pyratallauf-2027",
@@ -32698,8 +32930,12 @@
    ],
    "url": "http://www.sv-muldenhammer.de/",
    "source": "https://www.runme.de/deutschland/pyratallauf-tannenbergsthal/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 14:00 Uhr). Hinweis: Die Ausgabe 2026 fand am 29.08.2026 statt (Voranmeldung bis 28.08. 12:00 Uhr, Startnummern 8:30 bis 9:30 Uhr auf dem Sportplatz); das Datum 2027 ist unklar",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "14:00"
+   },
+   "showers": "Duschen und Umkleiden im Sportlerheim und in der Schulturnhalle"
   },
   {
    "id": "oberlichtenauer-sommerlauf-2027",
@@ -32719,8 +32955,9 @@
    ],
    "url": "https://www.sg-oberlichtenau.de/Oberlichtenauer_Sommerlauf.html",
    "source": "https://www.runme.de/deutschland/oberlichtenauer-sommerlauf-oberlichtenau-park/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 10:20 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-06",
+   "start_time": "10:20"
   },
   {
    "id": "o-see-backyard-ultra-2027",
@@ -32740,7 +32977,9 @@
    "anmeldung_url": "https://my.raceresult.com/412250/",
    "source": "https://running.life/de/termine/o-see-backyard-ultra",
    "info": "Backyard Ultra am Olbersdorfer See bei Zittau, 10. bis 13. Juli 2027: Runde von 6,7056 km, jede Stunde ein Start, auf 200 Teilnehmende begrenzt.",
-   "checked": "2026-11-06"
+   "checked": "2026-11-06",
+   "start_place": "Westparkstadion Zittau/Pethau",
+   "showers": "Duschen, WC und Umkleidekabinen direkt neben dem Startbereich"
   },
   {
    "id": "pobershauer-schwarzwassertallauf-2027",
@@ -32781,8 +33020,11 @@
    ],
    "url": "http://www.mittelsaechsische-lauftour.com",
    "source": "https://www.runme.de/deutschland/waldheimer-eichberglauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (12 km um 09:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "09:00"
+   }
   },
   {
    "id": "kirmescrosslauf-2027",
@@ -32801,8 +33043,11 @@
    ],
    "url": "http://www.sv-gruenbach.de/",
    "source": "https://www.runme.de/deutschland/kirmeslauf-gruenbach/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:00"
+   }
   },
   {
    "id": "arthur-lange-lauf-2027",
@@ -32820,8 +33065,11 @@
    ],
    "url": "https://www.fv-roehrsdorf.de/",
    "source": "https://www.runme.de/deutschland/arthur-lange-lauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (7,5 km um 18:30 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "18:30"
+   }
   },
   {
    "id": "sparkassen-festungslauf-2027",
@@ -32840,9 +33088,10 @@
    ],
    "url": "https://festungslauf.de/",
    "source": "https://www.runme.de/deutschland/sparkassen-festungslauf/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Veranstalterseite Startschuss um 18:20 und 18:30 Uhr (zwei Startwellen), Minilauf 18:30 Uhr oben auf der Festung",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Veranstalterseite Startschuss um 18:20 und 18:30 Uhr (zwei Startwellen), Minilauf 18:30 Uhr oben auf der Festung. Laut Veranstalterseite wird die Online-Anmeldung im Dezember 2026 freigeschaltet",
    "checked": "2026-11-06",
-   "start_time": "18:20"
+   "start_time": "18:20",
+   "parking": "Parkmöglichkeiten in der Innenstadt Königstein sehr begrenzt, Parkhaus mit Shuttle zum Start"
   },
   {
    "id": "vsb-dresdner-nachtlauf-2027",
@@ -32861,8 +33110,14 @@
    ],
    "url": "http://www.dresdner-nachtlauf.de/",
    "source": "https://www.runme.de/deutschland/centrum-galerie-dresdner-nachtlauf-dresden/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6,2 km um 20:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "20:00"
+   },
+   "parking": "Keine Parkmöglichkeiten durch den Veranstalter, Anreise mit Bahn oder Bus",
+   "showers": "Ausreichend Umkleiden im Start- und Zielbereich",
+   "start_place": "Terrassenufer in Höhe der ehemaligen Carolabrücke, Dresden"
   },
   {
    "id": "scheibenberger-berglauf-2027",
@@ -32880,8 +33135,11 @@
    ],
    "url": "http://ssv1846scheibenberg.de",
    "source": "https://www.runme.de/deutschland/scheibenberger-berglauf-2023/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (8,2 km um 10:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:00"
+   }
   },
   {
    "id": "staedtelauf-plauen-hof-2027",
@@ -32893,7 +33151,7 @@
    "lat": 50.493,
    "lon": 12.127,
    "date": "2027-08-14",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "8",
     "16,5",
@@ -32901,8 +33159,13 @@
    ],
    "url": "https://ksb-vogtland.de/",
    "source": "https://www.runme.de/deutschland/staedtelauf-plauen-hof/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Laut Ausschreibung Preisstaffel Frühbucher 01.12.2026 bis 30.06.2027, 01.07. bis 08.08.2027, Nachmeldung 09. bis 14.08.2027; Shuttle-Busse zu den Startorten gegen Gebühr; 8-km-Läufer starten ca. 12:00 Uhr, Ziel ab 12:30 Uhr",
+   "checked": "2026-11-06",
+   "reg_close": "2027-08-08",
+   "fee": "33 km 20 €, 16,5 km 15 €, 8 km 11 € (Frühbucher bis 30.06.2027); später 23/18/14 €, Nachmeldung 26/21/17 €",
+   "late_reg": "Nachmeldung vom 09. bis 14. August 2027 mit höherer Gebühr",
+   "showers": "Duschen und Umkleiden im Ziel in den Katakomben der Eishalle Hof",
+   "start_place": "Start Plauen (33 km), Krebes/Burgstein (16,5 km), Triebel/Vogtl. (8 km); Ziel Freizeitzentrum Eisteich Hof"
   },
   {
    "id": "schwarzenberger-edelweisslauf-2027",
@@ -32921,8 +33184,11 @@
    ],
    "url": "https://www.laeuferbund-szb.de/",
    "source": "https://www.runme.de/deutschland/edelweisslauf-schwarzenberg/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:00"
+   }
   },
   {
    "id": "eierweglauf-seerhausen-2027",
@@ -32942,8 +33208,11 @@
    ],
    "url": "https://www.svelbland.de/",
    "source": "https://www.runme.de/deutschland/eierwegelauf-seerhausen/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 18:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "18:00"
+   }
   },
   {
    "id": "bergland-lauf-2027",
@@ -32963,8 +33232,11 @@
    ],
    "url": "http://www.sport-hammerbruecke.de/",
    "source": "https://www.runme.de/deutschland/bergland-lauf-muldenhammer-ot-hammerbruecke/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 14:30 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "14:30"
+   }
   },
   {
    "id": "stadtwerkelauf-delitzsch-2027",
@@ -32984,7 +33256,12 @@
    "url": "https://stadtwerkelauf-delitzsch.de/",
    "source": "https://www.runme.de/deutschland/stadtwerkelauf-delitzsch/",
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-08-28.",
-   "checked": "2026-11-06"
+   "checked": "2026-11-06",
+   "start_place": "Roßplatz, Delitzsch",
+   "showers": "Umkleide vorhanden, keine Duschen",
+   "prev": {
+    "limit": "500 Startplätze pro Strecke (Ausgabe 2026)"
+   }
   },
   {
    "id": "bielebohlauf-2027",
@@ -33004,8 +33281,11 @@
    ],
    "url": "https://wirinderlausitz.de/termine/41-bielebohlauf-oppach",
    "source": "https://www.runme.de/deutschland/bielebohlauf-oppach/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (20 km um 09:30 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "09:30"
+   }
   },
   {
    "id": "wurzener-ringelnatzlauf-2027",
@@ -33016,16 +33296,24 @@
    "kreis": "LK Leipzig",
    "lat": 51.433,
    "lon": 12.683,
-   "date": "2027-08-22",
-   "confirmed": false,
+   "date": "2027-08-29",
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
    "url": "http://www.ringelnatzlauf.de/",
    "source": "https://www.runme.de/deutschland/wurzener-ringelnatzlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-08-29.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-08-29. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:45 Uhr). Laut Veranstalterseite Sonntag 29.08.2027: 10:45 Uhr 5 km (auch Walking), 12:00 Uhr 10-km-Hauptlauf und Staffel; Meldeschluss Samstag 28.08.2027 18:00 Uhr; Anmeldung über Baer-Service",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:45"
+   },
+   "start_time": "10:45",
+   "start_place": "Marktplatz Wurzen",
+   "pickup": "Meldebüro am Veranstaltungstag ab 07:30 Uhr auf dem Markt Wurzen; Starterbeutel Samstag 28.08.2027 von 15:00 bis 18:00 Uhr",
+   "reg_close": "2027-08-28",
+   "parking": "Kostenfrei: Gerhard-Hauptmann-Platz und Parkhaus am Sperlingsberg (Zufahrt über Franz-Mehring-Straße)"
   },
   {
    "id": "landskron-cross-2027",
@@ -33044,8 +33332,12 @@
    ],
    "anmeldung_url": "https://my.raceresult.com/409925/",
    "source": "https://www.runme.de/deutschland/landskron-cross-goerlitz/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Ausgabe 2026 (48. Landskron-Cross, Stadtrangliste Görlitz) am Mittwoch 26.08.2026 um 17:30 Uhr; Nachmeldung am Wettkampftag bis 17:15 Uhr, Gebühr 2 €; Anreise zum Start an der Landeskrone am Pfaffendorfer Weg",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "17:30",
+    "fee": "Strecke 1,0 km 0 €, 2,6 km 2 €, 4,7 km 5 €, 11,0 km 8 € (Ausgabe 2026 bei Voranmeldung)"
+   }
   },
   {
    "id": "pulsnitzer-gesundheitslauf-2027",
@@ -33064,8 +33356,11 @@
    ],
    "url": "https://www.hsv1923pulsnitz.de/index.php",
    "source": "https://www.runme.de/deutschland/gesundheitslauf-pulsnitz/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,9 km um 17:25 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "17:25"
+   }
   },
   {
    "id": "sparkassen-knappenman-2027",
@@ -33103,8 +33398,11 @@
    ],
    "url": "http://www.stadtlauf-taucha.de/",
    "source": "https://www.runme.de/deutschland/tauchscher-stadtlauf-taucha-mehrzweckhalle/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 18:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "18:00"
+   }
   },
   {
    "id": "woelbbrueckenlauf-2027",
@@ -33123,8 +33421,11 @@
    ],
    "url": "https://www.sg-kesselsdorf.de",
    "source": "https://www.runme.de/deutschland/woelbbrueckenlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 17:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "17:00"
+   }
   },
   {
    "id": "gerhard-hamann-gedenklauf-crosslauf-2027",
@@ -33142,8 +33443,11 @@
    ],
    "url": "https://lac-krostitz.de/",
    "source": "https://www.runme.de/deutschland/gerhard-hamann-gedenklauf-crosslauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:00"
+   }
   },
   {
    "id": "tharandter-wald-lauf-2027",
@@ -33164,8 +33468,11 @@
    ],
    "url": "http://www.tharandterwald-lauf.de",
    "source": "https://www.runme.de/deutschland/tharandter-wald-lauf-kurort-hartha/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-08-14.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-08-14. Startzeit der letzten Ausgabe laut RUNME (30 km um 11:10 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "11:10"
+   }
   },
   {
    "id": "zschopautallauf-2027",
@@ -33183,8 +33490,11 @@
    ],
    "url": "http://www.lv-mittweida.de/",
    "source": "https://www.runme.de/deutschland/zschopautallauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (7,5 km um 11:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "11:00"
+   }
   },
   {
    "id": "gassenlauf-2027",
@@ -33203,8 +33513,11 @@
    ],
    "url": "https://www.gassenlauf.com/",
    "source": "https://www.runme.de/deutschland/gassenlauf-grossrueckerswalde/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10,4 km um 18:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "18:00"
+   }
   },
   {
    "id": "sommerlauf-2027",
@@ -33241,8 +33554,11 @@
    ],
    "url": "https://dresden-half.com/",
    "source": "https://www.runme.de/deutschland/dresdenhalf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 09:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "09:00"
+   }
   },
   {
    "id": "geithainer-herbstlauf-2027",
@@ -33261,8 +33577,13 @@
    ],
    "url": "http://laufen-in-geithain.de/",
    "source": "https://www.runme.de/deutschland/geithainer-herbstlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (17 km um 10:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:00"
+   },
+   "showers": "Umkleiden mit Duschmöglichkeit im Stadion Geithain",
+   "start_place": "Geithainer Stadion"
   },
   {
    "id": "herbstcrosslauf-2027",
@@ -33281,8 +33602,11 @@
    ],
    "url": "https://ssv1863sayda.de",
    "source": "https://www.runme.de/deutschland/herbstcrosslauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 11:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "11:00"
+   }
   },
   {
    "id": "freiberger-herbstlauf-2027",
@@ -33302,8 +33626,11 @@
    ],
    "url": "http://www.triathlon-freiberg.de",
    "source": "https://www.runme.de/deutschland/freiberger-herbstlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 11:15 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "11:15"
+   }
   },
   {
    "id": "stadtlauf-bautzen-2027",
@@ -33322,8 +33649,11 @@
    ],
    "url": "http://www.stadtlaufbautzen.de/",
    "source": "https://www.runme.de/deutschland/stadtlauf-bautzen/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 14:15 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "14:15"
+   }
   },
   {
    "id": "doebelner-halbmarathon-2027",
@@ -33343,8 +33673,11 @@
    ],
    "url": "http://www.doebelner-landschaftslauf.de/",
    "source": "https://www.runme.de/deutschland/doebelner-halbmarathon/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 09:30 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "09:30"
+   }
   },
   {
    "id": "duebener-heidelauf-2027",
@@ -33364,8 +33697,11 @@
    ],
    "url": "http://www.sv-bad-dueben.de/",
    "source": "https://www.runme.de/deutschland/duebener-heidelauf-bad-dueben/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 10:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:00"
+   }
   },
   {
    "id": "herbst-kammlauf-2027",
@@ -33385,8 +33721,11 @@
    ],
    "url": "https://vsc-klingenthal.de/",
    "source": "https://www.runme.de/deutschland/herbst-kammlauf-muehlleiten/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 11:20 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "11:20"
+   }
   },
   {
    "id": "kristall-lauf-weisswasser-2027",
@@ -33405,8 +33744,11 @@
    ],
    "url": "https://laufbewegung-wsw.de/",
    "source": "https://www.runme.de/deutschland/kristall-lauf-weisswasser/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 10:10 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:10"
+   }
   },
   {
    "id": "lauf-in-den-herbst-2027",
@@ -33424,8 +33766,11 @@
    ],
    "url": "https://ikkclassic-volkssportlauf-info.jimdofree.com/",
    "source": "https://www.runme.de/deutschland/lauf-in-den-herbst-goerlitz/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (8,4 km um 10:15 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:15"
+   }
   },
   {
    "id": "center-run-2027",
@@ -33444,8 +33789,13 @@
    ],
    "url": "https://center-run.de",
    "source": "https://www.runme.de/deutschland/center-run/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:30 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:30",
+    "limit": "500 Starter pro Strecke (Ausgabe 2026)"
+   },
+   "showers": "Umkleidemöglichkeiten vor Ort"
   },
   {
    "id": "crosslauf-rund-um-den-wasserturm-2027",
@@ -33464,8 +33814,11 @@
    ],
    "url": "https://einheit-braeunsdorf.de/",
    "source": "https://www.runme.de/deutschland/crosslauf-rund-um-den-wasserturm/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 09:30 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "09:30"
+   }
   },
   {
    "id": "drei-talsperren-marathon-2027",
@@ -33485,8 +33838,14 @@
    ],
    "url": "http://www.drei-talsperren-marathon.de/",
    "source": "https://www.runme.de/deutschland/drei-talsperren-marathon-der-erzgebirgsmarathon-eibenstock/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (100 km um 09:30 Uhr). Ausgabe 2026: Meldeschluss 13.09.2026; Anmeldung und Zahlung ausschließlich online",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "09:30"
+   },
+   "start_place": "Bretschneider Sportstätte, Bühlstraße 12, 08309 Eibenstock (Meldebüro am Festplatz, Ludwig-Jahn-Straße 12)",
+   "showers": "Umkleidezelte auf der Wettkampfstätte",
+   "late_reg": "Ausgabe 2026: Nachmeldung online bis Donnerstag vor dem Lauf 17:00 Uhr (7 €), am Freitag im Festzelt 7 €, am Lauftag 10 € Aufschlag"
   },
   {
    "id": "dresden-frauenlauf-2027",
@@ -33504,8 +33863,14 @@
    ],
    "url": "https://www.dresden-frauenlauf.com/",
    "source": "https://www.runme.de/deutschland/frauenlauf-dresden/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 17:00 Uhr). Ausgabe 2026: Anmeldeschluss 18.09.2026 23:59 Uhr, Startunterlagen im Citybeach (Leipziger Straße 31) am Samstag davor von 12:30 bis 13:45 Uhr",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "17:00",
+    "limit": "700 Läuferinnen (Ausgabe 2026)"
+   },
+   "showers": "Duschen, Umkleiden und Toiletten im Start- und Zielbereich",
+   "parking": "Parkplatz des Kleinvieh Dresden"
   },
   {
    "id": "hoywoj-citylauf-2027",
@@ -33523,8 +33888,11 @@
    ],
    "url": "http://www.hoywojcitylauf.sportclub-hoyerswerda.de/",
    "source": "https://www.runme.de/deutschland/hoywoy-dak-citylauf-hoyerswerda/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 10:30 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:30"
+   }
   },
   {
    "id": "naunhofer-seenlauf-2027",
@@ -33543,8 +33911,11 @@
    ],
    "url": "http://www.bsc-victoria.de",
    "source": "https://www.runme.de/deutschland/naunhofer-seenlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 09:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "09:00"
+   }
   },
   {
    "id": "schildberglauf-2027",
@@ -33564,8 +33935,11 @@
    ],
    "url": "http://www.mittelsaechsische-lauftour.com/",
    "source": "https://www.runme.de/deutschland/schildberglauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 10:25 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:25"
+   }
   },
   {
    "id": "schwarzenberglauf-2027",
@@ -33584,8 +33958,11 @@
    ],
    "url": "https://schwarzenberglauf.de",
    "source": "https://www.runme.de/deutschland/schwarzenberglauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 12:15 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "12:15"
+   }
   },
   {
    "id": "poehl-trail-2027",
@@ -33605,8 +33982,14 @@
    ],
    "url": "https://www.poehl-trail.de/",
    "source": "https://www.runme.de/deutschland/poehl-trail/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (12 km um 09:45 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "09:45",
+    "fee": "5 km 15 € (Anmeldung bis 31.07.), danach 20 €; 12 km ab 25 €; 21 km 35 €, danach 40 € (Ausgabe 2026, Nachmeldung am Veranstaltungstag +5 €)"
+   },
+   "start_place": "Wassersportzentrum Talsperre Pöhl (Panorama Restaurant), Möschwitzer Straße 44, 08543 Pöhl",
+   "showers": "Umkleiden, Duschen und Toiletten auf dem Gelände des Wassersportzentrums"
   },
   {
    "id": "muelsengrundlauf-2027",
@@ -33625,8 +34008,11 @@
    ],
    "url": "http://www.motor-thurm.de/",
    "source": "https://www.runme.de/deutschland/muelsengrundlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:30 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:30"
+   }
   },
   {
    "id": "oberholzer-volkssportlauf-2027",
@@ -33645,8 +34031,11 @@
    ],
    "url": "http://lfv-oberholz.de/cms/",
    "source": "https://www.runme.de/deutschland/oberholzer-volkssportlauf-grosspoesna/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:15 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:15"
+   }
   },
   {
    "id": "stolpener-basalt-lauf-2027",
@@ -33658,15 +34047,23 @@
    "lat": 51.049,
    "lon": 14.079,
    "date": "2027-09-26",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5,3",
     "13"
    ],
    "url": "http://www.basaltlauf.org/",
    "source": "https://www.runme.de/deutschland/basaltlauf-stolpen/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,3 km um 11:00 Uhr). Laut Veranstalterseite Sonntag 26.09.2027, erster Start 9:30 Uhr; Anmeldung ab Februar 2027 über Baer-Service, Anmeldeschluss Samstag 25.09.2027 23:59 Uhr, Startgeld folgt mit Anmeldestart",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "11:00"
+   },
+   "start_time": "09:30",
+   "reg_close": "2027-09-25",
+   "start_place": "Marktplatz, 01833 Stolpen",
+   "late_reg": "Nachmeldung am Lauftag bis 30 Minuten vor dem Start im Meldebüro, solange freie Startplätze da sind, Gebühr 4 € (nur Barzahlung); Ummeldung ab 12.09.2027 4 €",
+   "pickup": "Am Samstag nur Startnummern für alle, die bis Freitag 24.09.2027 14:00 Uhr angemeldet waren; spätere Anmeldungen am Lauftag"
   },
   {
    "id": "torgauer-sparkassen-teichelauf-2027",
@@ -33687,8 +34084,11 @@
    ],
    "url": "https://www.sparkassen-teichelauf.de/",
    "source": "https://www.runme.de/deutschland/sparkassen-teichelauf-torgau/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 09:30 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "09:30"
+   }
   },
   {
    "id": "weisseritztallauf-2027",
@@ -33707,8 +34107,11 @@
    ],
    "url": "http://weisseritztallauf.de",
    "source": "https://www.runme.de/deutschland/weisseritztallauf-dresden-roethenbach/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (13 km um 10:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:00"
+   }
   },
   {
    "id": "leipziger-citytrail-2027",
@@ -33728,8 +34131,11 @@
    ],
    "url": "https://www.leichtathletik-scdhfk.de/",
    "source": "https://www.runme.de/deutschland/6-leipziger-citytrail/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:30 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:30"
+   }
   },
   {
    "id": "elbtal-weinlauf-2027",
@@ -33750,8 +34156,13 @@
    ],
    "url": "http://www.elbtal-weinlauf.de/",
    "source": "https://www.runme.de/deutschland/elbtal-weinlauf-meissen/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (17 km um 09:15 Uhr). Ausgabe 2026: Startunterlagen am Freitag vor dem Lauf von 15:00 bis 19:00 Uhr",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "09:15"
+   },
+   "showers": "Ausreichend Umkleide- und Duschmöglichkeiten am Start- und Zielgelände",
+   "parking": "Ausgabe 2026: kostenloser Busshuttle vom P+R-Parkplatz am Bahnhof zum Start"
   },
   {
    "id": "neudorfer-fichtelberglauf-2027",
@@ -33769,8 +34180,15 @@
    ],
    "url": "https://fichtelberglauf.de/",
    "source": "https://www.runme.de/deutschland/fichtelberglauf-sehmatal-neudorf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (9,4 km um 11:00 Uhr). Ausgabe 2026: Voranmeldung bis 30.09.2026 20 Uhr per Formular auf fichtelberglauf.de",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "11:00",
+    "fee": "10 € (+ 5 € Nachmeldegebühr)"
+   },
+   "showers": "Umkleide- und Duschräume im Gelände der Spindelfabrik",
+   "parking": "Parkplätze am Start und am Bahnhof Vierenstraße",
+   "pickup": "Ausgabe 2026: Startnummernausgabe 9:00 bis 10:30 Uhr im Festzelt auf dem Gelände der Spindelfabrik"
   },
   {
    "id": "wgp-citylauf-pirna-2027",
@@ -33788,8 +34206,11 @@
    ],
    "url": "https://www.wg-pirna.de/",
    "source": "https://www.runme.de/deutschland/wgp-citylauf-pirna-4044/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 19:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "19:00"
+   }
   },
   {
    "id": "einsiedler-herbstcrosslauf-2027",
@@ -33808,8 +34229,12 @@
    ],
    "url": "http://www.skiverein-einsiedel.de",
    "source": "https://www.runme.de/deutschland/einsiedler-skiverein-chemnitz/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 10:11 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:11"
+   },
+   "parking": "Parkflächen auf den Parkplätzen vor Ort"
   },
   {
    "id": "leipzig-run-2027",
@@ -33828,8 +34253,11 @@
    ],
    "anmeldung_url": "https://www.maximalpuls.com/events/leipzig-run",
    "source": "https://www.runme.de/deutschland/halbmarathon-leipzig/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 09:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "09:00"
+   }
   },
   {
    "id": "leisniger-burglauf-2027",
@@ -33848,8 +34276,11 @@
    ],
    "url": "http://www.mittelsaechsische-lauftour.com/",
    "source": "https://www.runme.de/deutschland/burglauf-leisnig-5466/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (8 km um 09:30 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "09:30"
+   }
   },
   {
    "id": "o-see-ultra-trail-2027",
@@ -33872,8 +34303,11 @@
    ],
    "url": "http://www.o-see-ultratrail.de/",
    "source": "https://www.runme.de/deutschland/o-see-ultra-trail-mit-kids-und-cross-races/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (100 km um 04:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "04:00"
+   }
   },
   {
    "id": "glaubitzer-waldlauf-2027",
@@ -33893,8 +34327,11 @@
    ],
    "url": "https://www.svelbland.de/",
    "source": "https://www.runme.de/deutschland/glaubitzer-waldlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,1 km um 10:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:00"
+   }
   },
   {
    "id": "treuener-stadtmeisterschaften-im-strassenlauf-2027",
@@ -33913,8 +34350,11 @@
    ],
    "url": "http://www.treuener-lv.de",
    "source": "https://www.runme.de/deutschland/treuener-stadtmeisterschaft-strassenlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 12:00 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "12:00"
+   }
   },
   {
    "id": "sachsentrail-im-erzgebirge-2027",
@@ -33925,15 +34365,22 @@
    "kreis": "Erzgebirgskreis",
    "lat": 50.467,
    "lon": 12.767,
-   "date": "2027-06-25",
-   "confirmed": false,
+   "date": "2027-06-26",
+   "confirmed": true,
    "distances": [
     "74"
    ],
    "url": "http://www.sachsentrail.de/",
    "source": "https://www.runme.de/deutschland/sachsentrail/",
-   "info": "SachsenTrail im Trailcenter Rabenberg mit Strecken von 400 m bis 74 km. Termin noch nicht bestätigt.",
-   "checked": "2026-11-06"
+   "info": "SachsenTrail im Trailcenter Rabenberg mit Strecken von 400 m bis 74 km. Termin noch nicht bestätigt. Startzeit der letzten Ausgabe laut RUNME (75,5 km um 07:00 Uhr). Laut Veranstalterseite Läufe am Samstag und Sonntag (26. und 27.06.2027) im Sportpark Rabenberg; Nachmeldungen mit 5 € Aufschlag (außer Bambini, Kids, TeenTrail)",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "07:00"
+   },
+   "end": "2027-06-27",
+   "start_place": "Sportpark Rabenberg, 08359 Breitenbrunn (Erzgebirge)",
+   "pickup": "Startunterlagen Freitag 25.06.2027 von 16:00 bis 20:00 Uhr und Samstag 26.06.2027 von 6:00 bis 8:30 Uhr",
+   "showers": "Ausreichend Umkleiden und Duschen"
   },
   {
    "id": "goerlitzer-bergmeisterschaft-2027",
@@ -33951,8 +34398,11 @@
    ],
    "url": "https://ikkclassic-volkssportlauf-info.jimdofree.com/",
    "source": "https://www.runme.de/deutschland/goerlitzer-bergmeisterschaft/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (7 km um 10:15 Uhr).",
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:15"
+   }
   },
   {
    "id": "stauseelauf-chemnitz-2027",
@@ -34006,14 +34456,17 @@
    "confirmed": false,
    "prev_date": "2026-09-06",
    "distances": [
-    "7,1",
-    "13,6"
+    "6,9",
+    "13,7"
    ],
    "source": "https://www.runnersworld.de/laufkalender/hochlandlauf-dresden/",
-   "info": "Teil des SachsenEnergie Läufer-Cups; Ausgabe 2026 am Sonntag 06.09. mit 13,6 km durch das Dresdner Hochland, 7,1 km Fitnesslauf und Kinderläufen. Laut HDsports ist der Termin 2027 nur eine Prognose nach dem letzten Termin.",
+   "info": "Teil des SachsenEnergie Läufer-Cups; Ausgabe 2026 am Sonntag 06.09. mit 13,6 km durch das Dresdner Hochland, 7,1 km Fitnesslauf und Kinderläufen. Laut HDsports ist der Termin 2027 nur eine Prognose nach dem letzten Termin. Ausgabe 2026 (6. Hochlandlauf Dresden) laut Baer-Service: 13,7 km 10:00 Uhr, 6,9 km 10:35 Uhr, Walking 6,9 km 10:00 Uhr; Nachmeldung vor Ort bis 30 Minuten vor dem Start (+5 €)",
    "lat": 51.05,
    "lon": 13.75,
-   "checked": "2026-11-06"
+   "checked": "2026-11-06",
+   "prev": {
+    "start_time": "10:00"
+   }
   },
   {
    "id": "dresden-marathon-2027",
