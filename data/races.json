@@ -36924,6 +36924,27 @@
    "source": "https://www.hdsports.org/laufen/harzlauf",
    "info": "Termin und Strecken laut HDsports. Termin laut HDsports vom Veranstalter bestätigt.",
    "checked": "2026-11-05"
+  },
+  {
+   "id": "sportmeilen-run-rosstal-2027",
+   "type": "road",
+   "name": "Sportmeilen Run Roßtal",
+   "place": "Roßtal",
+   "bezirk": "Mittelfranken",
+   "kreis": "LK Fürth",
+   "lat": 49.3989517,
+   "lon": 10.8862355,
+   "date": "2027-09-11",
+   "confirmed": false,
+   "prev_date": "2026-09-12",
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://gotrail.run/de/termine/sportmeilen-run-rosstal",
+   "source": "https://running.life/de/termine/sportmeilen-run-rosstal",
+   "info": "Gemeindelauf im Rahmen des Sportfests des TSV Roßtal auf einer 400-m-Runde, mit Kinderläufen, 5 km, 10 km und Benefizrundenlauf. Termin 2027 noch nicht bestätigt, erste Ausgabe war am 12.09.2026 (dort nur 10 km genannt). Strecken laut running.life.",
+   "checked": "2026-11-05"
   }
  ]
 }
