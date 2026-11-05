@@ -1,6 +1,6 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
-const APP_VERSION="v71"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+const APP_VERSION="v72"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
 const DATA_DIR="data/";
 const REPORT_URL="https://gbaoxnsytnzcuxbkdrwc.supabase.co/rest/v1/reports";
 const REPORT_KEY="sb_publishable_iuxJbdN94igdsBQ5-dtm5g_OxWYWGH9";   // öffentlicher Schlüssel: darf nur Meldungen anlegen
@@ -134,7 +134,7 @@ function card(r,favView){
   const fav=state.favs.includes(r.id),reg=state.reg.includes(r.id),days=daysTo(r.d),ri=regInfo(r);
   let pills="";
   if(reg)pills+='<span class="pill reg">Angemeldet ✓</span>';
-  else if(favView&&days>=0)pills+='<button type="button" class="pill regq" data-regq="'+r.id+'">Ich bin angemeldet</button>';
+  else if(favView&&days>=0)pills+='<button type="button" class="pill regq" data-regq="'+r.id+'" title="Antippen, wenn du dich angemeldet hast">Nicht angemeldet</button>';
   else if(ri)pills+='<span class="pill '+ri.c+'">'+ri.t+'</span>';
   if(!r.ok)pills+='<span class="pill open" title="Termin geschätzt nach dem Vorjahr">Termin offen</span>';
   const right=r.price?(r.price.free?'<span class="price">kostenlos</span>':'<span class="price"><small>'+(r.price.prev?"ca. ":"ab ")+'</small>'+r.price.v+' €</span>'):"";
@@ -245,7 +245,7 @@ function priceList(txt){if(!txt)return"";
   return'<ul class="prices">'+rows.map(x=>'<li'+(/^Nachmeldung/i.test(x[0])?' class="late"':"")+'><span>'+esc(x[0])+'</span><b class="pv">'+esc(x[1])+'</b></li>').join("")+'</ul>'}
 function kvRows(rows){const have=rows.filter(x=>x[1]);return have.length?'<dl class="kv">'+have.map(x=>'<dt>'+x[0]+'</dt><dd>'+x[1]+'</dd>').join("")+'</dl>':""}
 
-// Wetter: 7-Tage-Vorhersage (Open-Meteo)
+// Wetter: 7 Tage, der Lauftag steht in der Mitte (3 davor, 3 danach). Bis ca. 12 Tage vor dem Lauf echte Vorhersage (Open-Meteo), sonst Mittelwerte der letzten 10 Jahre (Open-Meteo-Archiv)
 const WMO={0:"Sonnig",1:"Überwiegend sonnig",2:"Teils bewölkt",3:"Bewölkt",45:"Nebel",48:"Nebel mit Reif",51:"Leichter Niesel",53:"Niesel",55:"Starker Niesel",56:"Gefrierender Niesel",57:"Gefrierender Niesel",61:"Leichter Regen",63:"Regen",65:"Starker Regen",66:"Gefrierender Regen",67:"Gefrierender Regen",71:"Leichter Schneefall",73:"Schneefall",75:"Starker Schneefall",77:"Schneegriesel",80:"Leichte Schauer",81:"Schauer",82:"Starke Schauer",85:"Schneeschauer",86:"Starke Schneeschauer",95:"Gewitter",96:"Gewitter mit Hagel",99:"Gewitter mit Hagel"};
 function wxIcon(c){const k=c===0||c===1?"sun":c===2?"part":c===3?"cloud":c===45||c===48?"fog":c>=95?"storm":(c>=71&&c<=77)||c===85||c===86?"snow":"rain";
   const sun='<circle cx="12" cy="12" r="5" fill="var(--trail)"/>',cl='<path d="M7 18h10a4 4 0 0 0 0-8 5.5 5.5 0 0 0-10.6 1.5A3.3 3.3 0 0 0 7 18z" fill="var(--muted)" opacity=".75"/>',cl2=cl.replace('18h10','15h10').replace('0 0 0 7 18z','0 0 0 7 15z');
@@ -254,20 +254,44 @@ function wxIcon(c){const k=c===0||c===1?"sun":c===2?"part":c===3?"cloud":c===45|
    snow:cl2+'<circle cx="9" cy="20" r="1.3" fill="var(--road)"/><circle cx="13" cy="21" r="1.3" fill="var(--road)"/><circle cx="17" cy="20" r="1.3" fill="var(--road)"/>',
    storm:cl2+'<path d="M13 15l-3 4h3l-2 4" stroke="var(--trail)" stroke-width="2" fill="none" stroke-linejoin="round"/>'};
   return '<svg viewBox="0 0 24 24" width="30" height="30" aria-hidden="true">'+g[k]+'</svg>'}
+const WXC={};
+function wxWindow(r){const c0=dt(r.d),out=[];for(let k=-3;k<=3;k++){const x=new Date(c0);x.setDate(x.getDate()+k);out.push(x)}return out}
+function wxHead(x){return '<span class="wd">'+(iso(x)===iso(TODAY)?"Heute":WD[x.getDay()])+'</span><small>'+x.getDate()+'.'+(x.getMonth()+1)+'.</small>'}
+async function wxJson(u){const ctl=new AbortController();const t=setTimeout(()=>ctl.abort(),8000);try{return await (await fetch(u,{signal:ctl.signal})).json()}finally{clearTimeout(t)}}
 async function loadWeather(r,days){const el=$("wxbody");if(!el)return;
-  try{const u="https://api.open-meteo.com/v1/forecast?latitude="+r.la+"&longitude="+r.lo+"&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max,wind_speed_10m_max&hourly=temperature_2m&timezone=Europe%2FBerlin&forecast_days=16";
-    const ctl=new AbortController();setTimeout(()=>ctl.abort(),6000);
-    const j=await (await fetch(u,{signal:ctl.signal})).json(),D=j.daily;if(!D||!D.time||!D.time.length)throw 0;
-    const cell=i=>{const d=dt(D.time[i]),race=D.time[i]>=r.d&&D.time[i]<=(r.e||r.d);
-      return '<li class="wxd'+(race?" race":"")+'"><span class="wd">'+(i===0?"Heute":WD[d.getDay()])+'</span><small>'+d.getDate()+'.'+(d.getMonth()+1)+'.</small>'+wxIcon(D.weather_code[i])+
-       '<b>'+Math.round(D.temperature_2m_max[i])+'°</b><small>'+Math.round(D.temperature_2m_min[i])+'°</small><span class="rp">'+(D.precipitation_probability_max[i]??0)+' %</span>'+(race?'<span class="tagr">Lauf</span>':"")+'</li>'};
-    let html='<ol class="wxrow" aria-label="Wetter der nächsten 7 Tage">'+[0,1,2,3,4,5,6].filter(i=>i<D.time.length).map(cell).join("")+'</ol>';
-    const ri=D.time.indexOf(r.d);
-    if(ri>=0){let atStart="";if(r.st&&j.hourly){const t=j.hourly.temperature_2m[ri*24+parseInt(r.st,10)];if(t!=null)atStart=' · zum Start um '+esc(r.st)+' Uhr '+Math.round(t)+' °C'}
-      html+='<div class="wxs"><b>Am Lauftag:</b> '+(WMO[D.weather_code[ri]]||"")+', '+Math.round(D.temperature_2m_min[ri])+' bis '+Math.round(D.temperature_2m_max[ri])+' °C, Regenrisiko '+(D.precipitation_probability_max[ri]??0)+' %, Wind bis '+Math.round(D.wind_speed_10m_max[ri])+' km/h'+atStart+'</div>'}
-    else if(days>15){const d=dt(r.d);d.setDate(d.getDate()-15);html+='<div class="src">Die Vorhersage für den Lauftag selbst gibt es ab '+d.getDate()+"."+(d.getMonth()+1)+"."+d.getFullYear()+'.</div>'}
-    el.className="wx";el.innerHTML=html+'<span class="src">Regen-% = Regenrisiko · Open-Meteo, Stand '+new Date().toLocaleString("de-DE",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"})+' Uhr</span>'}
-  catch(e){if($("wxbody"))$("wxbody").textContent="Die Live-Vorhersage lädt erst in der fertigen App. Bis dahin hilft der Link."}}
+  try{
+    if(days<-3){el.className="na";el.textContent="Dieser Lauf liegt in der Vergangenheit.";return}
+    const win=wxWindow(r),raceDay=x=>{const s=iso(x);return s>=r.d&&s<=(r.e||r.d)};
+    const stamp=new Date().toLocaleString("de-DE",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"});
+    if(days<=12){
+      const j=await wxJson("https://api.open-meteo.com/v1/forecast?latitude="+r.la+"&longitude="+r.lo+"&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max,wind_speed_10m_max&hourly=temperature_2m&timezone=Europe%2FBerlin&past_days=3&forecast_days=16"),D=j.daily;
+      if(!D||!D.time||!D.time.length)throw 0;
+      const cells=win.map(x=>{const i=D.time.indexOf(iso(x));if(i<0)return"";const race=raceDay(x);
+        return '<li class="wxd'+(race?" race":"")+'">'+wxHead(x)+wxIcon(D.weather_code[i])+'<b>'+Math.round(D.temperature_2m_max[i])+'°</b><small>'+Math.round(D.temperature_2m_min[i])+'°</small><span class="rp">'+(D.precipitation_probability_max[i]??0)+' %</span>'+(race?'<span class="tagr">Lauf</span>':"")+'</li>'}).join("");
+      let html='<ol class="wxrow" aria-label="Wetter rund um den Lauftag">'+cells+'</ol>';
+      const ri=D.time.indexOf(r.d);
+      if(ri>=0){let atStart="";if(r.st&&j.hourly){const t=j.hourly.temperature_2m[ri*24+parseInt(r.st,10)];if(t!=null)atStart=' · zum Start um '+esc(r.st)+' Uhr '+Math.round(t)+' °C'}
+        html+='<div class="wxs"><b>Am Lauftag:</b> '+(WMO[D.weather_code[ri]]||"")+', '+Math.round(D.temperature_2m_min[ri])+' bis '+Math.round(D.temperature_2m_max[ri])+' °C, Regenrisiko '+(D.precipitation_probability_max[ri]??0)+' %, Wind bis '+Math.round(D.wind_speed_10m_max[ri])+' km/h'+atStart+'</div>'}
+      el.className="wx";el.innerHTML=html+'<span class="src">Regen-% = Regenrisiko · Vorhersage von Open-Meteo, Stand '+stamp+' Uhr</span>';return}
+    // Lauf weiter weg: Mittelwerte der letzten 10 Jahre für genau diese Tage
+    const y0=TODAY.getFullYear()-10,key=r.la+","+r.lo+","+r.d.slice(5);let agg=WXC[key];
+    if(!agg){
+      const c0=dt(r.d),res=await Promise.allSettled(Array.from({length:10},(_,n)=>{const a=new Date(c0);a.setFullYear(y0+n);const s=new Date(a),e=new Date(a);s.setDate(s.getDate()-3);e.setDate(e.getDate()+3);
+        const u="https://archive-api.open-meteo.com/v1/archive?latitude="+r.la+"&longitude="+r.lo+"&start_date="+iso(s)+"&end_date="+iso(e)+"&daily=temperature_2m_max,temperature_2m_min,precipitation_sum,wind_speed_10m_max&timezone=Europe%2FBerlin";
+        const one=()=>wxJson(u).then(j=>{if(!j.daily||!j.daily.time||j.daily.time.length!==7)throw 0;return{y:y0+n,D:j.daily}});
+        return one().catch(()=>new Promise(z=>setTimeout(z,800)).then(one))}));
+      const got=res.filter(x=>x.status==="fulfilled").map(x=>x.value),ok=got.map(x=>x.D);
+      if(ok.length<5)throw 0;
+      const avg=a=>{const v=a.filter(z=>z!=null);return v.length?v.reduce((p,q)=>p+q,0)/v.length:null};
+      agg={n:ok.length,y1:got[0].y,y2:got[got.length-1].y,days:[0,1,2,3,4,5,6].map(i=>({hi:avg(ok.map(D=>D.temperature_2m_max[i])),lo:avg(ok.map(D=>D.temperature_2m_min[i])),wet:ok.filter(D=>D.precipitation_sum[i]!=null&&D.precipitation_sum[i]>=1).length,wind:avg(ok.map(D=>D.wind_speed_10m_max[i]))}))};
+      WXC[key]=agg}
+    const cells=win.map((x,i)=>{const g=agg.days[i],race=raceDay(x);
+      return '<li class="wxd typ'+(race?" race":"")+'">'+wxHead(x)+'<b>'+Math.round(g.hi)+'°</b><small>'+Math.round(g.lo)+'°</small><span class="rp">'+g.wet+'/'+agg.n+'</span>'+(race?'<span class="tagr">Lauf</span>':"")+'</li>'}).join("");
+    const m=agg.days[3],fd=dt(r.d);fd.setDate(fd.getDate()-12);
+    el.className="wx";el.innerHTML='<span class="wxbadge">Noch keine Vorhersage – so war es in den letzten '+agg.n+' Jahren</span><ol class="wxrow" aria-label="Typisches Wetter rund um den Lauftag">'+cells+'</ol>'+
+      '<div class="wxs"><b>Am Lauftag typisch:</b> etwa '+Math.round(m.lo)+' bis '+Math.round(m.hi)+' °C, Regen an '+m.wet+' von '+agg.n+' Jahren, Wind bis etwa '+Math.round(m.wind)+' km/h.</div>'+
+      '<span class="src">Die unterste Zahl (z. B. „'+m.wet+'/'+agg.n+'“) zeigt, an wie vielen der '+agg.n+' Jahre es an diesem Tag geregnet hat. Mittelwerte '+agg.y1+'–'+agg.y2+', keine Vorhersage. Die echte Vorhersage erscheint ab dem '+fd.getDate()+"."+(fd.getMonth()+1)+"."+fd.getFullYear()+'. · Open-Meteo</span>'}
+  catch(e){if($("wxbody")){$("wxbody").className="na";$("wxbody").textContent="Das Wetter lädt nur mit Internet und in der fertigen App. Bis dahin hilft der Link."}}}
 
 // Detailseite
 let lastFocus=null,curId=null,animNext=true;

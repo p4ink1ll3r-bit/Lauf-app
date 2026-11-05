@@ -233,7 +233,7 @@ body.mode-trail .month::after{height:3px;background:radial-gradient(circle,var(-
 .pill.open{background:var(--warn-soft);color:var(--warn)}
 .pill.hot{background:var(--hot-soft);color:var(--hot)}
 .pill.reg{background:var(--ok);color:var(--surface)}
-button.pill.regq{appearance:none;cursor:pointer;background:transparent;color:var(--ok);border:1.5px dashed var(--ok);font:700 .72rem var(--body);padding:2px 9px}
+button.pill.regq{appearance:none;cursor:pointer;background:transparent;color:var(--red);border:1.5px solid var(--red);font:700 .72rem var(--body);padding:2px 9px}
 .pill.full{background:var(--hot);color:var(--surface)}
 .pill.plain{background:var(--sunk);color:var(--muted)}
 .price{font-family:var(--display);font-weight:700;font-size:1.05rem;white-space:nowrap}
@@ -402,6 +402,8 @@ body.locked{overflow:hidden}
 .wxd .wd{font-weight:700;font-size:.8rem}.wxd small{font-size:.7rem;color:var(--muted)}.wxd b{font-size:.95rem}
 .wxd .rp{font-size:.68rem;color:var(--road)}
 .wxd.race{outline:2px solid var(--trail);background:var(--trail-soft)}
+.wxd.typ .rp{color:var(--muted);text-align:center}
+.wxbadge{align-self:flex-start;font:700 .72rem var(--body);padding:2px 9px;border-radius:99px;background:var(--warn-soft);color:var(--warn)}
 .tagr{font-size:.6rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--trail-num)}
 .regbtn{appearance:none;border:1.5px solid var(--ink);background:var(--surface);color:var(--ink);border-radius:14px;padding:12px;font-weight:700;cursor:pointer}
 .regbtn[aria-pressed=true]{background:var(--ok);border-color:var(--ok);color:var(--surface)}
