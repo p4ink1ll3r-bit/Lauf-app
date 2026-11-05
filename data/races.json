@@ -13517,12 +13517,14 @@
    "source": "https://gotrail.run/de/termine/riegeler-crosslauf-rund-um-den-michaelsberg",
    "start_place": "Hinter dem Rathaus, Hauptstraße 31",
    "pickup": "Römerhalle, Forchheimer Straße 11 (ca. 600 m vom Start)",
-   "info": "50. Auflage. Hauptlauf 8,1 km (3 Runden à 2,9 km auf Asphalt und Feldwegen), dazu kürzere Läufe. Anmeldung über ladv.de. 50. Riegeler Crosslauf am Sonntag 15.11.2026: 12:45 Hauptläufe 2.900 m und Jugend, 13:10 Bambini 520 m, 13:50 Staffeln, 14:10–14:50 Schülerläufe 840 m und 1.400 m, 15:00 Hauptlauf 8.100 m",
-   "checked": "2026-11-04",
+   "info": "50. Auflage. Hauptlauf 8,1 km (3 Runden à 2,9 km auf Asphalt und Feldwegen), dazu kürzere Läufe. Anmeldung über ladv.de. 50. Riegeler Crosslauf am Sonntag 15.11.2026: 12:45 Hauptläufe 2.900 m und Jugend, 13:10 Bambini 520 m, 13:50 Staffeln, 14:10–14:50 Schülerläufe 840 m und 1.400 m, 15:00 Hauptlauf 8.100 m. Startzeiten laut Anmeldeseite: 2,9-km-Lauf 12:45 Uhr, Bambinis ab 13:10 Uhr, Staffel 13:50 Uhr, Kinder und Jugend ab 14:10 Uhr, 8,1-km-Hauptlauf 15:00 Uhr",
+   "checked": "2026-11-05",
    "lat": 48.15,
    "lon": 7.75,
    "start_time": "15:00",
-   "reg_close": "2026-11-11"
+   "reg_close": "2026-11-11",
+   "fee": "2,9 km und 8,1 km je 13 €, Bambini 2 €, Kinder und Jugend 6 €, Staffel 20 €",
+   "anmeldung_url": "https://my.raceresult.com/425665/registration"
   },
   {
    "id": "crosslauf-denzlingen-2026",
@@ -22497,8 +22499,8 @@
     "8,8"
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 14.11.). Strecken laut hdsports. Zugleich Baden-Württembergische Crossmeisterschaften und Deutsche Hochschulmeisterschaft. Speed-Cross (2 Läufe, 30 Plätze). Zahlung nur bargeldlos.",
+   "checked": "2026-11-05",
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 14.11.). Strecken laut hdsports. Zugleich Baden-Württembergische Crossmeisterschaften und Deutsche Hochschulmeisterschaft. Speed-Cross (2 Läufe, 30 Plätze). Zahlung nur bargeldlos. Teilnahme an den BaWü-Crossmeisterschaften zzgl. 5 € BLV-Verbandsgebühr; Anmeldung nur online bis 07.11.2026 23:59 Uhr",
    "url": "https://sparkassencross.de/",
    "anmeldung_url": "https://ladv.de",
    "prev": {
@@ -27863,8 +27865,11 @@
    ],
    "url": "https://www.laufservice-jena.de/",
    "source": "https://www.runme.de/deutschland/landgrafenlauf/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
-   "checked": "2026-11-05"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Anmeldeseite ausgebucht, Anmeldung geschlossen (Stand 05.11.2026)",
+   "checked": "2026-11-05",
+   "sold_out": true,
+   "late_reg": "Keine Nachmeldungen am Veranstaltungstag",
+   "anmeldung_url": "https://my.raceresult.com/403691/registration"
   },
   {
    "id": "zeitzgrundlauf-2026",
@@ -28166,7 +28171,7 @@
    "kreis": "LK Greiz",
    "lat": 50.821,
    "lon": 11.932,
-   "date": "2027-01-09",
+   "date": "2027-01-10",
    "confirmed": true,
    "distances": [
     "5,5",
@@ -28174,8 +28179,11 @@
    ],
    "url": "https://www.sv-1924.de/",
    "source": "https://www.runme.de/deutschland/neujahrslauf-muenchenbernsdorf/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
-   "checked": "2026-11-05"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Anmeldeseite am Sonntag 10.01.2027: 10,8-km-Hauptlauf 11:20 Uhr, 5,5-km-Lauf 11:35 Uhr, 3-km-Einsteigerlauf und Walking 10:35 Uhr",
+   "checked": "2026-11-05",
+   "start_time": "11:20",
+   "fee": "10,8 km 15 €, 5,5 km 10 €, 3 km 7 €, Walking und Nordic Walking 9,6 km 10 €, Schülerlauf 4 €, Kids Run 3 €",
+   "anmeldung_url": "https://my.raceresult.com/389094/registration"
   },
   {
    "id": "crosslauf-2027",
@@ -28305,16 +28313,19 @@
    "kreis": "Stadt Weimar",
    "lat": 50.983,
    "lon": 11.317,
-   "date": "2027-02-14",
-   "confirmed": false,
+   "date": "2027-02-07",
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
    "url": "https://www.vfb-oberweimar.de/",
    "source": "https://www.runme.de/deutschland/spendenlauf_4/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-02-07.",
-   "checked": "2026-11-05"
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-02-07. Laut Anmeldeseite am Sonntag 07.02.2027, 5 km und 10 km Start 10:00 Uhr",
+   "checked": "2026-11-05",
+   "start_time": "10:00",
+   "fee": "5 km 22,22 €, 10 km 33,33 € (Spendenlauf)",
+   "anmeldung_url": "https://my.raceresult.com/428056/registration"
   },
   {
    "id": "albert-kuntz-lauf-2027",
