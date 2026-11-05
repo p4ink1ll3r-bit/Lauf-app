@@ -1,6 +1,6 @@
 {
  "updated": "2026-11-04",
- "region": "Bayern, Baden-Württemberg, Hessen",
+ "region": "Bayern, Baden-Württemberg, Hessen, Thüringen",
  "races": [
   {
    "id": "augsburger-winterlaufserie-2026",
@@ -27786,6 +27786,3024 @@
    "source": "https://kassel.hlv.de/fileadmin/kreise/waldeck-frankenberg/Termine/2026_Terminuebersicht_Mit_Anhang.pdf",
    "start_place": "Sportgelände TSV 09 Bottendorf, Behälterweg, Burgwald",
    "info": "Veranstalter TSV 09 Bottendorf; 14. Auflage am Samstag 22.08.2026; 5 km und 10,7 km (Angabe je Seite 10,7 oder 11 km), dazu Kinderläufe; zählt zum Laufcup Waldeck-Frankenberg. Termin 2027 noch nicht veröffentlicht.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "schkoelener-stadtparklauf-2026",
+   "type": "road",
+   "name": "Schkölener Stadtparklauf",
+   "place": "Schkölen",
+   "bezirk": "Ostthüringen",
+   "kreis": "Saale-Holzland-Kreis",
+   "lat": 51.042,
+   "lon": 11.821,
+   "date": "2026-11-07",
+   "confirmed": true,
+   "distances": [
+    "5"
+   ],
+   "url": "http://ssv-fsg.npage.de/",
+   "source": "https://www.runme.de/deutschland/schkoelener-parklauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Veranstalter: Samstag 07.11.2026, 10:00 Uhr, 1 kleine und 5 große Runden",
+   "checked": "2026-11-05",
+   "start_time": "10:00",
+   "fee": "Kinder 2,50 €, übrige Teilnehmer 4,00 €",
+   "start_place": "Sportplatz Schkölen"
+  },
+  {
+   "id": "uderslebener-waldlauf-2026",
+   "type": "road",
+   "name": "Uderslebener Waldlauf",
+   "place": "Bad Frankenhausen",
+   "bezirk": "Nordthüringen",
+   "kreis": "Kyffhäuserkreis",
+   "lat": 51.3561014,
+   "lon": 11.1016361,
+   "date": "2026-11-08",
+   "confirmed": true,
+   "distances": [
+    "7,8",
+    "16,4"
+   ],
+   "anmeldung_url": "https://runtix.com/sts/10021/3226",
+   "source": "https://running.life/de/termine/uderslebener-waldlauf",
+   "info": "Veranstalter SSV 1923 Udersleben; 16,4 km, 7,8 km, 3,3 km, 2,1 km, Bambini-Lauf und MTB; Ausgabe 2026 Sonntag 08.11..",
+   "fee": "16,4 km 12 €, 7,8 km 10 €, 3,3 km und 2,1 km je 6 € (Ausgabe 2026)",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "landgrafenlauf-2026",
+   "type": "road",
+   "name": "Landgrafenlauf",
+   "place": "Jena",
+   "bezirk": "Ostthüringen",
+   "kreis": "Stadt Jena",
+   "lat": 50.933,
+   "lon": 11.587,
+   "date": "2026-11-14",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "11"
+   ],
+   "url": "https://www.laufservice-jena.de/",
+   "source": "https://www.runme.de/deutschland/landgrafenlauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "zeitzgrundlauf-2026",
+   "type": "road",
+   "name": "Zeitzgrundlauf",
+   "place": "Stadtroda",
+   "bezirk": "Ostthüringen",
+   "kreis": "Saale-Holzland-Kreis",
+   "lat": 50.857,
+   "lon": 11.727,
+   "date": "2026-11-14",
+   "confirmed": true,
+   "distances": [
+    "7",
+    "14"
+   ],
+   "url": "http://www.gruenweiss-stadtroda.de/",
+   "source": "https://www.runme.de/deutschland/zeitzgrundlauf-stadtroda/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
+   "checked": "2026-11-05",
+   "start_place": "Roda-Stadion, Stadtroda"
+  },
+  {
+   "id": "eicut65-2026",
+   "type": "trail",
+   "name": "eicut65",
+   "place": "Heilbad Heiligenstadt",
+   "bezirk": "Nordthüringen",
+   "kreis": "LK Eichsfeld",
+   "lat": 51.422,
+   "lon": 10.219,
+   "date": "2026-11-14",
+   "confirmed": true,
+   "distances": [
+    "65"
+   ],
+   "url": "https://www.ltv-obereichsfeld.de/",
+   "source": "https://www.runme.de/deutschland/eicut/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Veranstalter: EICUT65 am 14.11.2026, 65 km Ultra-Trail ab und bis Heilbad Heiligenstadt über Burg Bodenstein und Bornberg, nur 100 Startplätze",
+   "checked": "2026-11-05",
+   "limit": "100 Teilnehmer"
+  },
+  {
+   "id": "saalfelder-winterlauf-2026",
+   "type": "road",
+   "name": "Saalfelder Winterlauf",
+   "place": "Saalfeld",
+   "bezirk": "Ostthüringen",
+   "kreis": "LK Saalfeld-Rudolstadt",
+   "lat": 50.652,
+   "lon": 11.376,
+   "date": "2026-12-06",
+   "confirmed": true,
+   "distances": [
+    "15"
+   ],
+   "url": "http://www.saalfelder-lv.de/",
+   "source": "https://www.runme.de/deutschland/winterlauf-rund-um-die-katze-saalfeld/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Veranstalter: 43. Saalfelder Winterlauf „Rund um die Katze“ am Sonntag 06.12.2026, 15 km (vermessen), Veranstalter Saalfelder Leichtathletik-Verein; Startgeld bis 01.12. überweisen; Wertung nach DLV-Altersklassen ab U18",
+   "checked": "2026-11-05",
+   "start_time": "10:00",
+   "fee": "10 €",
+   "reg_close": "2026-11-28",
+   "start_place": "Sportplatz, Langenschader Straße 23c, 07318 Saalfeld",
+   "late_reg": "Nachmeldung bis 60 Minuten vor dem Start; Nachmeldegebühr laut Ausschreibung 10 € ab 30.11.2026",
+   "showers": "Umkleiden und Duschen vorhanden"
+  },
+  {
+   "id": "jahresendlauf-2026",
+   "type": "road",
+   "name": "Jahresendlauf",
+   "place": "Bad Berka",
+   "bezirk": "Mittelthüringen",
+   "kreis": "LK Weimarer Land",
+   "lat": 50.921,
+   "lon": 11.332,
+   "date": "2026-12-12",
+   "confirmed": true,
+   "distances": [
+    "6",
+    "10",
+    "20"
+   ],
+   "url": "https://sv-badberka.de/",
+   "source": "https://www.runme.de/deutschland/jahresendlauf-bad-berka/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Veranstalter: 40. Jahresendlauf am 12.12.2026, Start 10:00 Uhr (Voranmeldung über das Portal)",
+   "checked": "2026-11-05",
+   "start_time": "10:00"
+  },
+  {
+   "id": "erfurter-heros-weihnachtslauf-2026",
+   "type": "road",
+   "name": "Erfurter HEROS Weihnachtslauf",
+   "place": "Erfurt",
+   "bezirk": "Mittelthüringen",
+   "kreis": "Stadt Erfurt",
+   "lat": 50.9847679,
+   "lon": 11.0298799,
+   "date": "2026-12-20",
+   "confirmed": true,
+   "distances": [
+    "8"
+   ],
+   "url": "https://spendenmarsch.org/",
+   "source": "https://running.life/de/termine/erfurter-heros-weihnachtslauf",
+   "info": "Erfurter HEROS Weihnachtslauf, 8 km zum Domplatz; Anmeldung über spendenmarsch.org; Startzeit und Startgeld nicht veröffentlicht. Laut Veranstalter: Sonntag 20.12.2026, Start 10 Uhr (Treffpunkt ab 9:30 Uhr)",
+   "checked": "2026-11-05",
+   "start_time": "10:00"
+  },
+  {
+   "id": "heiligabend-lauf-thueringer-wald-2026",
+   "type": "road",
+   "name": "Heiligabend-Lauf Thüringer Wald",
+   "place": "Schmiedefeld am Rennsteig",
+   "bezirk": "Südwestthüringen",
+   "kreis": "Stadt Suhl",
+   "lat": 50.609,
+   "lon": 10.813,
+   "date": "2026-12-24",
+   "confirmed": true,
+   "distances": [
+    "10"
+   ],
+   "url": "https://www.rennsteiglauf.de/",
+   "source": "https://www.runme.de/deutschland/rennsteig-heiligabendlauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Angaben zu Start, Startgeld und Anmeldung laut Veranstaltungsdatenbank (nicht auf der Vereinsseite bestätigt): 24.12.2026 um 9:00 Uhr, 10-km-Rundkurs durch das untere Vessertal",
+   "checked": "2026-11-05",
+   "start_time": "09:00",
+   "fee": "Kein Startgeld, Spenden für die Jugendarbeit des WSV Schmiedefeld und das Kinderhospiz Tambach-Dietharz",
+   "start_place": "Sportplatz Schmiedefeld am Rennsteig",
+   "late_reg": "Keine Voranmeldung nötig, Anmeldung vor Ort von 8:00 bis 8:45 Uhr"
+  },
+  {
+   "id": "apoldaer-silvesterlauf-2026",
+   "type": "road",
+   "name": "Apoldaer Silvesterlauf",
+   "place": "Apolda",
+   "bezirk": "Mittelthüringen",
+   "kreis": "LK Weimarer Land",
+   "lat": 51.05,
+   "lon": 11.4,
+   "date": "2026-12-31",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.apoldaer-lv.de",
+   "source": "https://www.runme.de/deutschland/silvesterlauf-apolda/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "geraer-silvesterlauf-2026",
+   "type": "road",
+   "name": "Geraer Silvesterlauf",
+   "place": "Gera",
+   "bezirk": "Ostthüringen",
+   "kreis": "Stadt Gera",
+   "lat": 50.867,
+   "lon": 12.083,
+   "date": "2026-12-31",
+   "confirmed": true,
+   "distances": [
+    "11",
+    "20"
+   ],
+   "url": "https://www.1-sv-gera.de/",
+   "source": "https://www.runme.de/deutschland/silvesterlauf-gera/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Veranstalter: Details sind veröffentlicht und die Anmeldung für den 56. Silvesterlauf 2026 ist seit 03.09.2026 geöffnet",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "erfurter-silvesterlauf-2026",
+   "type": "road",
+   "name": "Erfurter Silvesterlauf",
+   "place": "Erfurt",
+   "bezirk": "Mittelthüringen",
+   "kreis": "Stadt Erfurt",
+   "lat": 50.964,
+   "lon": 11.041,
+   "date": "2026-12-31",
+   "confirmed": true,
+   "distances": [
+    "10"
+   ],
+   "url": "https://erfurtersilvesterlauf.de/",
+   "source": "https://www.runme.de/deutschland/erfurter-silvesterlauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
+   "checked": "2026-11-05",
+   "pickup": "Mittwoch 30.12.2026 von 16:00 bis 18:00 Uhr und am Lauftag ab 7:30 Uhr bis spätestens 30 Minuten vor dem jeweiligen Start"
+  },
+  {
+   "id": "silvesterlauf-waldeck-2026",
+   "type": "road",
+   "name": "Silvesterlauf Waldeck",
+   "place": "Waldeck",
+   "bezirk": "Ostthüringen",
+   "kreis": "Saale-Holzland-Kreis",
+   "lat": 50.95,
+   "lon": 11.733,
+   "date": "2026-12-31",
+   "confirmed": true,
+   "distances": [
+    "8"
+   ],
+   "url": "http://bw-buergel.de/",
+   "source": "https://www.runme.de/deutschland/silvesterlauf-waldeck-buergel/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Veranstalter: 8-km-Hauptlauf und Walking/Nordic Walking 10:30 Uhr, Kinderlauf 800 m 10:35 Uhr, Meldebüro ab 9:00 Uhr; Online-Anmeldung vom 01.10. bis 29.12.2026",
+   "checked": "2026-11-05",
+   "start_time": "10:30",
+   "fee": "Kein Startgeld, Spenden erwünscht",
+   "reg_open": "2026-10-01",
+   "reg_close": "2026-12-29",
+   "start_place": "Gemeindehaus Waldeck",
+   "late_reg": "Nachmeldung vor Ort möglich"
+  },
+  {
+   "id": "tannaer-silvesterlauf-2026",
+   "type": "road",
+   "name": "Tannaer Silvesterlauf",
+   "place": "Tanna",
+   "bezirk": "Ostthüringen",
+   "kreis": "Saale-Orla-Kreis",
+   "lat": 50.495,
+   "lon": 11.857,
+   "date": "2026-12-31",
+   "confirmed": true,
+   "distances": [
+    "10"
+   ],
+   "url": "http://www.silvesterlauf-tanna.de",
+   "source": "https://www.runme.de/deutschland/tannaer-silvesterlauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Veranstalter: 52. Tannaer Silvesterlauf am 31.12.2026; 09:30 10 km Nordic Walking, 09:45 Bambini, 10:00 1,2 km, 10:15 3,3 km, 10:45 10 km; Meldeschluss 30.12.2026 18:00 Uhr, Anmeldung online oder per E-Mail",
+   "checked": "2026-11-05",
+   "start_time": "10:45",
+   "fee": "Ab 18 Jahren 12 €, 8 bis 17 Jahre 8 €, 4 bis 7 Jahre 4 € (Startgeld nach Altersklasse)",
+   "reg_close": "2026-12-30",
+   "start_place": "Turnhalle Tanna"
+  },
+  {
+   "id": "dittrichshuetter-neujahrslauf-2027",
+   "type": "road",
+   "name": "Dittrichshütter Neujahrslauf",
+   "place": "Dittrichshütte",
+   "bezirk": "Ostthüringen",
+   "kreis": "LK Saalfeld-Rudolstadt",
+   "lat": 50.652,
+   "lon": 11.376,
+   "date": "2027-01-02",
+   "confirmed": true,
+   "distances": [
+    "9,5"
+   ],
+   "url": "https://lac-rudolstadt.de/",
+   "source": "https://www.runme.de/deutschland/dittrichshuetter-neujahrslauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "meininger-silvesterlauf-2027",
+   "type": "road",
+   "name": "Meininger Silvesterlauf",
+   "place": "Meiningen",
+   "bezirk": "Südwestthüringen",
+   "kreis": "LK Schmalkalden-Meiningen",
+   "lat": 50.5,
+   "lon": 10.467,
+   "date": "2027-01-03",
+   "confirmed": true,
+   "distances": [
+    "6",
+    "10"
+   ],
+   "url": "https://www.psvmeiningen.de/",
+   "source": "https://www.runme.de/deutschland/meininger-silvesterlauf-meiningen/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Veranstalter: 54. Silvesterlauf am 03.01.2027; 10:00 Schülerläufe, 10:30 Läufe über 4 km und 6 km, 11:30 Hauptlauf 10 km; Voranmeldung online über Laufservice Jena (RaceResult), Startgeld und Meldeschluss stehen im Flyer; Teilnehmer dürfen am Lauftag von 12 bis 15 Uhr das Hallenbad Rohrer Stirn eine Stunde kostenlos nutzen",
+   "checked": "2026-11-05",
+   "start_time": "11:30",
+   "start_place": "Schlosspark Meiningen",
+   "pickup": "Am Lauftag in den Räumen des Marstalls neben Schloss Elisabethenburg",
+   "anmeldung_url": "https://my.raceresult.com/347256"
+  },
+  {
+   "id": "neujahrslauf-in-muenchenbernsdorf-2027",
+   "type": "road",
+   "name": "Neujahrslauf in Münchenbernsdorf",
+   "place": "Münchenbernsdorf",
+   "bezirk": "Ostthüringen",
+   "kreis": "LK Greiz",
+   "lat": 50.821,
+   "lon": 11.932,
+   "date": "2027-01-09",
+   "confirmed": true,
+   "distances": [
+    "5,5",
+    "10,8"
+   ],
+   "url": "https://www.sv-1924.de/",
+   "source": "https://www.runme.de/deutschland/neujahrslauf-muenchenbernsdorf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "crosslauf-2027",
+   "type": "trail",
+   "name": "Crosslauf",
+   "place": "Hundeshagen",
+   "bezirk": "Nordthüringen",
+   "kreis": "LK Eichsfeld",
+   "lat": 51.433,
+   "lon": 10.283,
+   "date": "2027-01-16",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "16,7"
+   ],
+   "url": "http://www.ltv-obereichsfeld.de/",
+   "source": "https://www.runme.de/deutschland/crosslauf-rund-um-die-zinkspitze-hundeshagen/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "drei-kirchen-neujahrslauf-2027",
+   "type": "road",
+   "name": "Drei-Kirchen-Neujahrslauf",
+   "place": "Günthersleben-Wechmar",
+   "bezirk": "Mittelthüringen",
+   "kreis": "LK Gotha",
+   "lat": 50.977,
+   "lon": 10.789,
+   "date": "2027-01-17",
+   "confirmed": false,
+   "distances": [
+    "10"
+   ],
+   "url": "http://sv-guenthersleben.de/",
+   "source": "https://www.runme.de/deutschland/drei-kirchen-neujahrslauf-guenthersleben/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "winterlaufserie-des-eisenacher-lv-in-creuzburg-2027",
+   "type": "road",
+   "name": "Winterlaufserie des Eisenacher LV in Creuzburg",
+   "place": "Creuzburg",
+   "bezirk": "Südwestthüringen",
+   "kreis": "Wartburgkreis",
+   "lat": 51.053,
+   "lon": 10.248,
+   "date": "2027-01-24",
+   "confirmed": true,
+   "distances": [
+    "5,5",
+    "11,3"
+   ],
+   "url": "https://eisenacher-leichtathletik-verein.de",
+   "source": "https://www.runme.de/deutschland/winterlaufserie-in-creuzburg/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Veranstalter: drei Läufe der Winterlaufserie am 24.01., 21.02. und 14.03.2027 in Creuzburg; Voranmeldung für den 2. Lauf bis Dienstag 16.02.2027 23:59 Uhr, Cupwertung über alle drei Läufe",
+   "checked": "2026-11-05",
+   "start_time": "11:50"
+  },
+  {
+   "id": "wintertrail-weissendorf-2027",
+   "type": "trail",
+   "name": "Wintertrail Weißendorf",
+   "place": "Weißendorf",
+   "bezirk": "Ostthüringen",
+   "kreis": "LK Greiz",
+   "lat": 50.6758178,
+   "lon": 12.0004513,
+   "date": "2027-01-24",
+   "confirmed": true,
+   "distances": [
+    "7,5"
+   ],
+   "anmeldung_url": "https://my.raceresult.com/430171/",
+   "source": "https://running.life/de/termine/wintertrail-weissendorf",
+   "info": "Trailveranstaltung mit ca. 7,5 km und 350 Hm inklusive Teufelsberg²-Challenge, Verpflegung und Zielbereich in der Scheune des WeidatalCross.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "fuchsberglauf-2027",
+   "type": "trail",
+   "name": "Fuchsberglauf",
+   "place": "Gera",
+   "bezirk": "Ostthüringen",
+   "kreis": "Stadt Gera",
+   "lat": 50.841,
+   "lon": 12.076,
+   "date": "2027-02-13",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "8,5"
+   ],
+   "url": "http://www.lusaner-sc.de/",
+   "source": "https://www.runme.de/deutschland/fuchsberglauf-gera-lusan/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "kristallmarathon-2027",
+   "type": "road",
+   "name": "Kristallmarathon",
+   "place": "Krayenberggemeinde",
+   "bezirk": "Südwestthüringen",
+   "kreis": "Wartburgkreis",
+   "lat": 50.878,
+   "lon": 10.142,
+   "date": "2027-02-14",
+   "confirmed": true,
+   "distances": [
+    "HM",
+    "M"
+   ],
+   "url": "https://www.triathlonverein-werratal.de/kristallmarathon/",
+   "source": "https://www.runme.de/deutschland/kristallmarathon-im-erlebnis-bergwerk-merkers/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "spendenlauf-helauf-lauf-der-narren-2027",
+   "type": "road",
+   "name": "Spendenlauf Helauf - Lauf der Narren",
+   "place": "Weimar",
+   "bezirk": "Mittelthüringen",
+   "kreis": "Stadt Weimar",
+   "lat": 50.983,
+   "lon": 11.317,
+   "date": "2027-02-14",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.vfb-oberweimar.de/",
+   "source": "https://www.runme.de/deutschland/spendenlauf_4/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-02-07.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "albert-kuntz-lauf-2027",
+   "type": "road",
+   "name": "Albert-Kuntz-Lauf",
+   "place": "Nordhausen",
+   "bezirk": "Nordthüringen",
+   "kreis": "LK Nordhausen",
+   "lat": 51.502,
+   "lon": 10.796,
+   "date": "2027-02-27",
+   "confirmed": false,
+   "distances": [
+    "7,2",
+    "14,4"
+   ],
+   "url": "https://www.albert-kuntz-lauf.de/",
+   "source": "https://www.runme.de/deutschland/albert-kuntz-lauf-nordhausen/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Ausgabe 2026: Meldeschluss 21.02.2026, Online-Nachmeldung bis zum Wettkampftag gegen 5 € Zuschlag; Rundkurs bis 14,4 km; Termin 2027 noch nicht veröffentlicht",
+   "checked": "2026-11-05",
+   "start_place": "Albert-Kuntz-Sportpark, Nordhausen",
+   "prev": {
+    "fee": "Lauf für Jedermann 3 €, Schüler 4 €, Jugend 5 €, Erwachsene 7 € (Ausgabe 2026)"
+   }
+  },
+  {
+   "id": "hofwiesenparklauf-1-osterland-cross-2027",
+   "type": "trail",
+   "name": "Hofwiesenparklauf - 1. Osterland Cross",
+   "place": "Gera",
+   "bezirk": "Ostthüringen",
+   "kreis": "Stadt Gera",
+   "lat": 50.867,
+   "lon": 12.083,
+   "date": "2027-03-06",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.1-sv-gera.de/",
+   "source": "https://www.runme.de/deutschland/hofwiesenparklauf-gera/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "lauf-in-den-fruehling-bad-berka-2027",
+   "type": "road",
+   "name": "Lauf in den Frühling Bad Berka",
+   "place": "Bad Berka",
+   "bezirk": "Mittelthüringen",
+   "kreis": "LK Weimarer Land",
+   "lat": 50.921,
+   "lon": 11.332,
+   "date": "2027-03-06",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10",
+    "15",
+    "20"
+   ],
+   "url": "http://www.fwg-badberka.de/",
+   "source": "https://www.runme.de/deutschland/lauf-in-den-fruehling-bad-berka/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-03-13.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "soemmerdaer-hoffnungsroute-2027",
+   "type": "road",
+   "name": "Sömmerdaer Hoffnungsroute",
+   "place": "Sömmerda",
+   "bezirk": "Mittelthüringen",
+   "kreis": "LK Sömmerda",
+   "lat": 51.1594582,
+   "lon": 11.1188764,
+   "date": "2027-03-06",
+   "confirmed": true,
+   "distances": [
+    "25"
+   ],
+   "url": "https://run4kids-soem.de/",
+   "source": "https://running.life/de/termine/sommerdaer-hoffnungsroute",
+   "info": "1. Sömmerdaer Hoffnungsroute, Benefizlauf von Run4Kids Sömmerda e. V.: 25 km für Erwachsene, 8 km Kinderstrecke mit Begleitung; Onlineanmeldung, Teilnehmerlimit möglich; Teilnehmer stimmen über das unterstützte Kinder-/Jugendprojekt ab.",
+   "fee": "25 km 35 €",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "fruehjahrslauf-durch-den-leinawald-2027",
+   "type": "road",
+   "name": "Frühjahrslauf durch den Leinawald",
+   "place": "Nobitz",
+   "bezirk": "Ostthüringen",
+   "kreis": "LK Altenburger Land",
+   "lat": 50.976,
+   "lon": 12.486,
+   "date": "2027-03-07",
+   "confirmed": false,
+   "distances": [
+    "9,5",
+    "16,3"
+   ],
+   "url": "https://www.tsv1876nobitz.de/",
+   "source": "https://www.runme.de/deutschland/fruehjahrslauf-durch-den-leinawald-altenburg/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "eisenberger-muehltallauf-2027",
+   "type": "road",
+   "name": "Eisenberger Mühltallauf",
+   "place": "Eisenberg",
+   "bezirk": "Ostthüringen",
+   "kreis": "Saale-Holzland-Kreis",
+   "lat": 50.961,
+   "lon": 11.838,
+   "date": "2027-03-13",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "15"
+   ],
+   "url": "http://www.muehltallauf.de/",
+   "source": "https://www.runme.de/deutschland/eisenberger-muehltallauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
+   "checked": "2026-11-05",
+   "start_place": "Schloßhof Eisenberg (Treffpunkt, Anmeldung und Startnummernausgabe, Organisationsbüro ab 10:30 Uhr)"
+  },
+  {
+   "id": "wickerstedter-marathon-2027",
+   "type": "road",
+   "name": "Wickerstedter Marathon",
+   "place": "Bad Sulza",
+   "bezirk": "Mittelthüringen",
+   "kreis": "LK Weimarer Land",
+   "lat": 51.067,
+   "lon": 11.667,
+   "date": "2027-03-20",
+   "confirmed": true,
+   "distances": [
+    "M"
+   ],
+   "url": "http://wickerstedter-crosslauf.jimdofree.com/",
+   "source": "https://www.runme.de/deutschland/wickerstedter-marathon/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-03-20. Laut Veranstalter: 6. Wickerstedter Marathon am 20.03.2027 um 9:00 Uhr (Einzel und Staffel)",
+   "checked": "2026-11-05",
+   "start_time": "09:00"
+  },
+  {
+   "id": "heineparklauf-2027",
+   "type": "road",
+   "name": "Heineparklauf",
+   "place": "Rudolstadt",
+   "bezirk": "Ostthüringen",
+   "kreis": "LK Saalfeld-Rudolstadt",
+   "lat": 50.775,
+   "lon": 11.356,
+   "date": "2027-03-20",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.laufclub-rudolstadt.de/",
+   "source": "https://www.runme.de/deutschland/heineparklauf-rudolstadt-heinepark/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Ausgabe 2026: Samstag 21.03.2026, erster Start 09:50 Uhr, Startgelder gestaffelt nach Anmeldezeitraum (0 bis 17 €), Anmeldeschluss Freitag 20.03.2026 12:00 Uhr; Termin 2027 noch nicht veröffentlicht",
+   "checked": "2026-11-05",
+   "start_place": "Städtisches Stadion im Heinepark, Kleiner Damm 19, 07407 Rudolstadt"
+  },
+  {
+   "id": "possenlauf-2027",
+   "type": "road",
+   "name": "Possenlauf",
+   "place": "Sondershausen",
+   "bezirk": "Nordthüringen",
+   "kreis": "Kyffhäuserkreis",
+   "lat": 51.3691898,
+   "lon": 10.8710502,
+   "date": "2027-03-20",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "8",
+    "14",
+    "20",
+    "28"
+   ],
+   "url": "https://www.possen-lauf.de/",
+   "source": "https://running.life/de/termine/possenlauf",
+   "info": "Veranstalter SV Glückauf Sondershausen, Freizeitpark Possen; Läufe 5, 8, 14, 20 und 28 km, dazu Kinderlauf, MTB und Nordic Walking; die Seite nennt Termin 2027, Beschreibung und Anmeldung stammen aber noch von 2026.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "veilsdorfer-waldlauf-2027",
+   "type": "road",
+   "name": "Veilsdorfer Waldlauf",
+   "place": "Veilsdorf",
+   "bezirk": "Südwestthüringen",
+   "kreis": "LK Hildburghausen",
+   "lat": 50.328,
+   "lon": 10.623,
+   "date": "2027-03-20",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "9"
+   ],
+   "url": "https://veilsdorf.de/",
+   "source": "https://www.runme.de/deutschland/veilsdorfer-waldlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "dingelstaedter-fruehlingslauf-2027",
+   "type": "road",
+   "name": "Dingelstädter Frühlingslauf",
+   "place": "Dingelstädt",
+   "bezirk": "Nordthüringen",
+   "kreis": "LK Eichsfeld",
+   "lat": 51.315,
+   "lon": 10.317,
+   "date": "2027-03-27",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://dingelstaedter-fruehlingslauf.de/",
+   "source": "https://www.runme.de/deutschland/1-dingelstaedter-osterlauf-dingelstaedt/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Veranstalter: 27.03.2027, 10:00 Uhr 10 km (mit Walking ab Altersklasse M/W14), 10:10 Uhr 3 km (Altersklassen M/W8 bis U18), 11:30 Uhr 5 km (mit Walking)",
+   "checked": "2026-11-05",
+   "start_time": "10:00"
+  },
+  {
+   "id": "fruehjahrscrosslauf-im-steiger-2027",
+   "type": "trail",
+   "name": "Frühjahrscrosslauf im Steiger",
+   "place": "Erfurt",
+   "bezirk": "Mittelthüringen",
+   "kreis": "Stadt Erfurt",
+   "lat": 50.975,
+   "lon": 11.03,
+   "date": "2027-03-27",
+   "confirmed": false,
+   "distances": [
+    "8"
+   ],
+   "url": "http://www.asv-leichtathletik.de/",
+   "source": "https://www.runme.de/deutschland/fruehjahrscross-im-steigerwald/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "koestritzer-fruehjahrscrosslauf-2027",
+   "type": "trail",
+   "name": "Köstritzer Frühjahrscrosslauf",
+   "place": "Bad Köstritz",
+   "bezirk": "Ostthüringen",
+   "kreis": "LK Greiz",
+   "lat": 50.93,
+   "lon": 12.01,
+   "date": "2027-03-27",
+   "confirmed": false,
+   "distances": [
+    "8"
+   ],
+   "url": "http://www.geraer-laufcup.de/",
+   "source": "https://www.runme.de/deutschland/koestritzer-fruehjahrscross-bad-koestritz/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "ilmenauer-osterlauf-2027",
+   "type": "road",
+   "name": "Ilmenauer Osterlauf",
+   "place": "Ilmenau",
+   "bezirk": "Mittelthüringen",
+   "kreis": "Ilm-Kreis",
+   "lat": 50.683,
+   "lon": 10.919,
+   "date": "2027-04-03",
+   "confirmed": false,
+   "distances": [
+    "10",
+    "20"
+   ],
+   "url": "http://www.wsv-ilmenau.de/",
+   "source": "https://www.runme.de/deutschland/ilmenauer-osterlauf-rund-um-die-talsperre-heyda/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Ausgabe 2026 am Karsamstag 04.04.2026: 10 km und 20 km Lauf (Start 10:00 Uhr), 10 km Nordic Walking (10:05 Uhr), Meldefrist Montag 30.03.2026 24:00 Uhr; 2027 fällt Karsamstag auf den 27.03., ob der Lauf wieder am Karsamstag stattfindet, ist offen",
+   "checked": "2026-11-05",
+   "start_place": "Sportplatz Ilmenau-Heyda",
+   "late_reg": "Ausgabe 2026: Nachmeldung ab Karfreitag 2:00 Uhr bis 45 Minuten vor dem Start",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "saalfelder-kulmberglauf-2027",
+   "type": "trail",
+   "name": "Saalfelder Kulmberglauf",
+   "place": "Saalfeld",
+   "bezirk": "Ostthüringen",
+   "kreis": "LK Saalfeld-Rudolstadt",
+   "lat": 50.652,
+   "lon": 11.376,
+   "date": "2027-04-03",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "15"
+   ],
+   "url": "http://www.saalfelder-lv.de",
+   "source": "https://www.runme.de/deutschland/kulmberglauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Ausgabe 2026 am Sonnabend 04.04.2026, 10:00 Uhr: 13 km Hauptlauf, 5 km Schülerlauf 10:05 Uhr; 2027 fällt Karsamstag auf den 27.03., ob der Lauf wieder am Osterwochenende stattfindet, ist offen",
+   "checked": "2026-11-05",
+   "start_place": "Sportplatz in der Langenschade, Saalfeld",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "moorentallauf-2027",
+   "type": "road",
+   "name": "Moorentallauf",
+   "place": "Apolda",
+   "bezirk": "Mittelthüringen",
+   "kreis": "LK Weimarer Land",
+   "lat": 51.05,
+   "lon": 11.4,
+   "date": "2027-04-04",
+   "confirmed": true,
+   "distances": [
+    "7,1",
+    "HM"
+   ],
+   "url": "http://www.ac-apolda.de/",
+   "source": "https://www.runme.de/deutschland/apoldaer-moorentallauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "forstlauf-jena-2027",
+   "type": "road",
+   "name": "Forstlauf Jena",
+   "place": "Jena",
+   "bezirk": "Ostthüringen",
+   "kreis": "Stadt Jena",
+   "lat": 50.933,
+   "lon": 11.587,
+   "date": "2027-04-10",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "12"
+   ],
+   "url": "https://lauf-wander-paradies-jena.de/",
+   "source": "https://www.runme.de/deutschland/forstlauf-jena/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "weingarten-backyard-ultra-2027",
+   "type": "trail",
+   "name": "Weingarten Backyard Ultra",
+   "place": "Hörsel",
+   "bezirk": "Mittelthüringen",
+   "kreis": "LK Gotha",
+   "lat": 50.916667,
+   "lon": 10.583333,
+   "date": "2027-04-10",
+   "confirmed": true,
+   "distances": [
+    "Backyard"
+   ],
+   "anmeldung_url": "https://agented.shop/wbu",
+   "source": "https://running.life/de/termine/weingarten-backyard-ultra",
+   "info": "Backyard Ultra: Runden von 6,706 km, jede volle Stunde ein Start, Last-Human-Standing-Format mit Basecamp und Verpflegung.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "heeresberglauf-2027",
+   "type": "trail",
+   "name": "Heeresberglauf",
+   "place": "Gera",
+   "bezirk": "Ostthüringen",
+   "kreis": "Stadt Gera",
+   "lat": 50.841,
+   "lon": 12.076,
+   "date": "2027-04-17",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "8",
+    "14"
+   ],
+   "url": "https://www.geraer-laufcup.de/",
+   "source": "https://www.runme.de/deutschland/heeresberglauf-gera/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "kyffhaeuser-berglauf-2027",
+   "type": "trail",
+   "name": "Kyffhäuser-Berglauf",
+   "place": "Bad Frankenhausen",
+   "bezirk": "Nordthüringen",
+   "kreis": "Kyffhäuserkreis",
+   "lat": 51.347,
+   "lon": 11.179,
+   "date": "2027-04-10",
+   "confirmed": true,
+   "distances": [
+    "6",
+    "11",
+    "13,5",
+    "HM",
+    "M"
+   ],
+   "url": "http://www.kyffhaeuser-berglauf.de/",
+   "source": "https://www.runme.de/deutschland/kyffhaeuser-berglauf-bad-frankenhausen/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-04-10. Laut Veranstalter: 48. Kyffhäuser Berglauf war 2026 mit 2.449 Teilnehmern, nächster Termin 10.04.2027",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "breitunger-pless-berglauf-2027",
+   "type": "trail",
+   "name": "Breitunger Pleß- Berglauf",
+   "place": "Breitungen",
+   "bezirk": "Südwestthüringen",
+   "kreis": "LK Schmalkalden-Meiningen",
+   "lat": 50.764,
+   "lon": 10.327,
+   "date": "2027-04-18",
+   "confirmed": true,
+   "distances": [
+    "7,3",
+    "15",
+    "30",
+    "50"
+   ],
+   "url": "http://www.plesslauf.de",
+   "source": "https://www.runme.de/deutschland/werraenergie-plesslauf-breitungen/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Ausgabe 2026: 17. Vulcano-Race & Run am Pleß am Sonntag 19.04.2026 mit Deutscher Meisterschaft im Berglauf; laut running.life 2027 am selben Wochenende mit Thüringer Berglaufmeisterschaft (Pleß-Vulkan-Bergtrail); Termin 2027 noch nicht vom Veranstalter bestätigt",
+   "checked": "2026-11-05",
+   "pickup": "Ausgabe 2026: Startunterlagen am Vortag von 12 bis 16 Uhr und am Lauftag ab 7 Uhr",
+   "prev": {}
+  },
+  {
+   "id": "lange-bahn-lauf-2027",
+   "type": "road",
+   "name": "Lange-Bahn-Lauf",
+   "place": "Suhl",
+   "bezirk": "Südwestthüringen",
+   "kreis": "Stadt Suhl",
+   "lat": 50.6,
+   "lon": 10.7,
+   "date": "2027-04-18",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "11",
+    "22",
+    "34"
+   ],
+   "url": "http://www.lange-bahn-lauf.de/",
+   "source": "https://www.runme.de/deutschland/lange-bahn-lauf-suhl-maebendorf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-04-25.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "froebellauf-2027",
+   "type": "road",
+   "name": "Fröbellauf",
+   "place": "Rudolstadt",
+   "bezirk": "Ostthüringen",
+   "kreis": "LK Saalfeld-Rudolstadt",
+   "lat": 50.775,
+   "lon": 11.356,
+   "date": "2027-04-24",
+   "confirmed": true,
+   "distances": [
+    "8",
+    "13"
+   ],
+   "url": "https://www.laufclub-rudolstadt.de/",
+   "source": "https://www.runme.de/deutschland/froebellauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "arnstaedter-citylauf-2027",
+   "type": "road",
+   "name": "Arnstädter Citylauf",
+   "place": "Arnstadt",
+   "bezirk": "Mittelthüringen",
+   "kreis": "Ilm-Kreis",
+   "lat": 50.833,
+   "lon": 11.067,
+   "date": "2027-04-24",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.lsvlokarnstadt.de/",
+   "source": "https://www.runme.de/deutschland/arnstaedter-citylauf-arnstadt/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Ausgabe 2026 am Samstag 25.04.2026; Termin 2027 noch nicht veröffentlicht",
+   "checked": "2026-11-05",
+   "start_place": "Innenstadt Arnstadt"
+  },
+  {
+   "id": "gleichberglauf-2027",
+   "type": "trail",
+   "name": "Gleichberglauf",
+   "place": "Römhild",
+   "bezirk": "Südwestthüringen",
+   "kreis": "LK Hildburghausen",
+   "lat": 50.382,
+   "lon": 10.473,
+   "date": "2027-04-24",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "12"
+   ],
+   "url": "https://www.wrc-hildburghausen.de/",
+   "source": "https://www.runme.de/deutschland/gleichberglauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "track-meets-trail-talsperrenlauf-am-zeulenrodaer-meer-2027",
+   "type": "trail",
+   "name": "Track meets Trail - Talsperrenlauf am Zeulenrodaer Meer",
+   "place": "Zeulenroda",
+   "bezirk": "Ostthüringen",
+   "kreis": "LK Greiz",
+   "lat": 50.653,
+   "lon": 11.984,
+   "date": "2027-04-24",
+   "confirmed": false,
+   "distances": [
+    "8",
+    "24"
+   ],
+   "url": "https://www.tsv-zeulenroda.de/",
+   "source": "https://www.runme.de/deutschland/track-meets-trail-talsperrenlauf-am-zeulenrodaer-meer/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "3tuermelauf-2027",
+   "type": "road",
+   "name": "3TürmeLauf",
+   "place": "Bad Langensalza",
+   "bezirk": "Nordthüringen",
+   "kreis": "Unstrut-Hainich-Kreis",
+   "lat": 51.108,
+   "lon": 10.646,
+   "date": "2027-04-25",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "12,5"
+   ],
+   "url": "https://www.tmp-online.de/dreituermelauf/",
+   "source": "https://www.runme.de/deutschland/3tuermelauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Ausgabe 2026: 12,5 km Lauf Start 11:30 Uhr, Schülerlauf 1000 m 9:30 Uhr, Bambinilauf 10:45 Uhr, Online-Anmeldeschluss 12.04.2026 (danach keine Zusendung der Startunterlagen per Post); Termin 2027 noch nicht veröffentlicht",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "11:30"
+   }
+  },
+  {
+   "id": "rhoener-volkslauf-2027",
+   "type": "road",
+   "name": "Rhöner Volkslauf",
+   "place": "Kaltennordheim",
+   "bezirk": "Südwestthüringen",
+   "kreis": "Wartburgkreis",
+   "lat": 50.662,
+   "lon": 10.125,
+   "date": "2027-04-25",
+   "confirmed": false,
+   "distances": [
+    "6",
+    "11",
+    "HM"
+   ],
+   "url": "http://www.rhoener-wsv.de",
+   "source": "https://www.runme.de/deutschland/rhoener-volkslauf-kaltennordheim/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Ausgabe 2026: Wanderungen 6 und 11 km um 9:45 Uhr, Kinderläufe ab 10:00 Uhr",
+   "checked": "2026-11-05",
+   "late_reg": "Ausgabe 2026: Nachmeldung am Lauftag bis 9:00 Uhr gegen Nachmeldegebühr (Meldeschluss 21.04.2026)"
+  },
+  {
+   "id": "steiger-fruehjahrs-lauf-2027",
+   "type": "trail",
+   "name": "Steiger(Frühjahrs)lauf",
+   "place": "Erfurt",
+   "bezirk": "Mittelthüringen",
+   "kreis": "Stadt Erfurt",
+   "lat": 50.964,
+   "lon": 11.041,
+   "date": "2027-04-25",
+   "confirmed": true,
+   "distances": [
+    "8",
+    "13"
+   ],
+   "source": "https://www.runme.de/deutschland/Steiger(Frühjahrs)lauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "alteburglauf-2027",
+   "type": "road",
+   "name": "Alteburglauf",
+   "place": "Arnstadt",
+   "bezirk": "Mittelthüringen",
+   "kreis": "Ilm-Kreis",
+   "lat": 50.833,
+   "lon": 11.067,
+   "date": "2027-04-29",
+   "confirmed": false,
+   "distances": [
+    "10,6",
+    "HM"
+   ],
+   "url": "http://www.sg-motor-arnstadt.de/",
+   "source": "https://www.runme.de/deutschland/alteburglauf-arnstadt/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Ausgabe 2026 am Donnerstag 30.04.: Schülerläufe ab 17:30 Uhr, 3,5 km 18:10 Uhr, 10,6 km Hauptlauf 18:20 Uhr; Termin 2027 noch nicht veröffentlicht",
+   "checked": "2026-11-05",
+   "late_reg": "Ausgabe 2026: keine Nachmeldung am Wettkampftag, Anmeldeschluss zwei Tage vorher",
+   "prev": {
+    "start_time": "18:20"
+   }
+  },
+  {
+   "id": "beichlinger-schlossberglauf-2027",
+   "type": "trail",
+   "name": "Beichlinger Schloßberglauf",
+   "place": "Beichlingen",
+   "bezirk": "Mittelthüringen",
+   "kreis": "LK Sömmerda",
+   "lat": 51.233,
+   "lon": 11.2,
+   "date": "2027-05-01",
+   "confirmed": false,
+   "distances": [
+    "8,3",
+    "15"
+   ],
+   "url": "http://www.fsv-beichlingen.de",
+   "source": "https://www.runme.de/deutschland/beichlinger-schlossberglauf-beichlingen/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "hainich-lauf-7-werratalmarathon-2027",
+   "type": "road",
+   "name": "Hainich-Lauf / 7. Werratalmarathon",
+   "place": "Creuzburg",
+   "bezirk": "Südwestthüringen",
+   "kreis": "Wartburgkreis",
+   "lat": 51.053,
+   "lon": 10.248,
+   "date": "2027-05-01",
+   "confirmed": false,
+   "distances": [
+    "6,6",
+    "13",
+    "HM",
+    "M"
+   ],
+   "url": "http://sv-mihla.de/",
+   "source": "https://www.runme.de/deutschland/hainichlauf-mihla/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Ausgabe 2026: Start 7. Werratalmarathon 09:00 Uhr, Staffeln 09:40 Uhr, Bambinilauf 09:45 Uhr, Online-Anmeldung bis 29.04.2026; es gibt auch den Werratal-Marathon in Treffurt am selben Wochenende, die beiden Veranstaltungen sind zu klären",
+   "checked": "2026-11-05",
+   "pickup": "Ausgabe 2026: Meldebüro und Startunterlagen ab 07:00 Uhr",
+   "late_reg": "Ausgabe 2026: Nachmeldung im Meldebüro gegen 5 € Zuschlag",
+   "prev": {
+    "start_time": "09:00",
+    "fee": "Bambini- und Kinderlauf 3 €, Schülerlauf 5 €, Einsteigerlauf 10 €, Hauptlauf 15 €, Halbmarathon 20 €, Walking 6 € (Ausgabe 2026)"
+   }
+  },
+  {
+   "id": "kanonenbahnlauf-2027",
+   "type": "road",
+   "name": "Kanonenbahnlauf",
+   "place": "Lengenfeld unterm Stein",
+   "bezirk": "Nordthüringen",
+   "kreis": "Unstrut-Hainich-Kreis",
+   "lat": 51.217,
+   "lon": 10.317,
+   "date": "2027-05-01",
+   "confirmed": false,
+   "distances": [
+    "6,5",
+    "15,5",
+    "HM",
+    "M"
+   ],
+   "url": "https://www.kanonenbahnlauf.org",
+   "source": "https://www.runme.de/deutschland/kanonenbahnlauf-lengenfeld-unterm-stein/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-05-08.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "stiefelburglauf-tonndorf-2027",
+   "type": "road",
+   "name": "Stiefelburglauf Tonndorf",
+   "place": "Tonndorf",
+   "bezirk": "Mittelthüringen",
+   "kreis": "LK Weimarer Land",
+   "lat": 50.921,
+   "lon": 11.332,
+   "date": "2027-05-01",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "13"
+   ],
+   "url": "https://www.sv70tonndorf.de/",
+   "source": "https://www.runme.de/deutschland/stiefelburglauf-tonndorf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "werratal-marathon-2027",
+   "type": "road",
+   "name": "Werratal-Marathon",
+   "place": "Treffurt",
+   "bezirk": "Südwestthüringen",
+   "kreis": "Wartburgkreis",
+   "lat": 51.137,
+   "lon": 10.234,
+   "date": "2027-05-01",
+   "confirmed": false,
+   "distances": [
+    "HM",
+    "M"
+   ],
+   "url": "https://www.werratal-marathon.de/",
+   "source": "https://www.runme.de/deutschland/werratal-marathon/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "harztorlauf-2027",
+   "type": "road",
+   "name": "Harztorlauf",
+   "place": "Harztor",
+   "bezirk": "Nordthüringen",
+   "kreis": "LK Nordhausen",
+   "lat": 51.576,
+   "lon": 10.785,
+   "date": "2027-05-02",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "11",
+    "HM",
+    "M"
+   ],
+   "url": "http://www.harztorlauf.de",
+   "source": "https://www.runme.de/deutschland/harztor-lauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Ausgabe 2026: Online-Anmeldung ab 08.12.2025, Anmeldeschluss 29.04.2026 18:00 Uhr, Marathonstart 9:30 Uhr, Starterfeld begrenzt; Termin 2027 noch nicht veröffentlicht",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "gothaer-sparkassen-schlossparklauf-2027",
+   "type": "road",
+   "name": "Gothaer Sparkassen-Schlossparklauf",
+   "place": "Gotha",
+   "bezirk": "Mittelthüringen",
+   "kreis": "LK Gotha",
+   "lat": 50.948,
+   "lon": 10.702,
+   "date": "2027-05-09",
+   "confirmed": false,
+   "distances": [
+    "12"
+   ],
+   "url": "https://schlossparklauf-gotha.de/",
+   "source": "https://www.runme.de/deutschland/gothaer-city-lauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Ausgabe 2026 am Sonntag 10.05.; Termin 2027 noch nicht veröffentlicht",
+   "checked": "2026-11-05",
+   "pickup": "Ausgabe 2026: Organisationsbüro (Zelt Rosengarten) ab 08:00 Uhr",
+   "late_reg": "Ausgabe 2026: Nachmeldung bis eine Stunde vor dem Start gegen 5 € Aufpreis (Meldeschluss Freitag 12 Uhr)",
+   "showers": "Umkleide und Duschen in der Ernestiner Sporthalle (Ausgabe 2026 ab 11:00 Uhr)",
+   "prev": {
+    "start_time": "09:10",
+    "fee": "Hauptlauf 10 €, Jedermannstaffel 10 €, Bambinolauf 1,50 € (Ausgabe 2026)"
+   }
+  },
+  {
+   "id": "sonneberger-night-run-2027",
+   "type": "road",
+   "name": "Sonneberger Night-Run",
+   "place": "Sonneberg",
+   "bezirk": "Südwestthüringen",
+   "kreis": "LK Sonneberg",
+   "lat": 50.359,
+   "lon": 11.175,
+   "date": "2027-05-14",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "https://www.runme.de/deutschland/sonneberger-night-run/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "ohmrathon-2027",
+   "type": "road",
+   "name": "Ohmrathon",
+   "place": "Worbis",
+   "bezirk": "Nordthüringen",
+   "kreis": "LK Eichsfeld",
+   "lat": 51.433,
+   "lon": 10.283,
+   "date": "2027-05-29",
+   "confirmed": true,
+   "distances": [
+    "10",
+    "HM"
+   ],
+   "url": "https://www.ltv-obereichsfeld.de",
+   "source": "https://www.runme.de/deutschland/ohmrathon/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Laut Veranstalter: 10. Ohmrathon am Samstag 29.05.2027 in Worbis (nicht 15.05.), zum Jubiläum ein 43,3 km langer Ohmrathon; 08:00 Uhr Ohmrathon, 10:00 Uhr Halbmarathon und Nordic Walking, 10:50 Uhr Viertelmarathon, dazu Mini-Läufe und Bambinilauf",
+   "checked": "2026-11-05",
+   "start_time": "08:00",
+   "pickup": "Startnummernausgabe ab 7:30 Uhr"
+  },
+  {
+   "id": "gutsmuths-rennsteiglauf-2027",
+   "type": "trail",
+   "name": "GutsMuths-Rennsteiglauf",
+   "place": "Schmiedefeld",
+   "bezirk": "Südwestthüringen",
+   "kreis": "Stadt Suhl",
+   "lat": 50.6,
+   "lon": 10.7,
+   "date": "2027-05-22",
+   "confirmed": true,
+   "distances": [
+    "HM",
+    "M",
+    "73,9"
+   ],
+   "url": "http://www.rennsteiglauf.de",
+   "source": "https://www.runme.de/deutschland/gutsmuths-rennsteiglauf-eisenach/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Programm auf der Veranstalterseite: Supermarathon (73,9 km) ab Eisenach um 6:00 Uhr, Halbmarathon 7:30 Uhr, Marathon 9:00 Uhr; Laufstrecken führen über den Rennsteig, Zahlungs- und Meldefristen je Strecke laut Ausschreibung",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "scharfensteinlauf-2027",
+   "type": "road",
+   "name": "Scharfensteinlauf",
+   "place": "Beuren",
+   "bezirk": "Nordthüringen",
+   "kreis": "LK Eichsfeld",
+   "lat": 51.383,
+   "lon": 10.367,
+   "date": "2027-05-22",
+   "confirmed": false,
+   "distances": [
+    "9",
+    "18"
+   ],
+   "url": "http://www.concordia-beuren.de/",
+   "source": "https://www.runme.de/deutschland/rund-um-den-scharfenstein-beuren/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-05-15.",
+   "checked": "2026-11-05",
+   "start_place": "Burg Scharfenstein, Beuren",
+   "late_reg": "Nachmeldung am Veranstaltungstag bis 09:30 Uhr vor Ort gegen eine einheitliche Gebühr (laut Veranstalterseite)"
+  },
+  {
+   "id": "wbg-zukunft-geraauelauf-2027",
+   "type": "road",
+   "name": "WBG Zukunft Geraauelauf",
+   "place": "Erfurt",
+   "bezirk": "Mittelthüringen",
+   "kreis": "Stadt Erfurt",
+   "lat": 50.997,
+   "lon": 11.008,
+   "date": "2027-05-22",
+   "confirmed": true,
+   "distances": [
+    "8",
+    "HM"
+   ],
+   "url": "https://www.geraauelauf.de/",
+   "source": "https://www.runme.de/deutschland/geraauelauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Veranstalter: Meldeschluss 09.05.2027 23:59 Uhr, erster Start 10:00 Uhr, Meldebüro öffnet 8:00 Uhr",
+   "checked": "2026-11-05",
+   "start_time": "10:00",
+   "reg_close": "2027-05-09",
+   "pickup": "Meldebüro ab 08:00 Uhr; Startunterlagen und Nachmeldungen bis spätestens eine Stunde vor dem Wettbewerbsstart",
+   "late_reg": "Nachmeldung nur am Lauftag im Meldebüro, bis spätestens eine Stunde vor dem Start"
+  },
+  {
+   "id": "kickelhahn-berglauf-2027",
+   "type": "trail",
+   "name": "Kickelhahn Berglauf",
+   "place": "Ilmenau",
+   "bezirk": "Mittelthüringen",
+   "kreis": "Ilm-Kreis",
+   "lat": 50.683,
+   "lon": 10.919,
+   "date": "2027-06-02",
+   "confirmed": true,
+   "distances": [
+    "5,6"
+   ],
+   "url": "http://www.tu-ilmenau.de/",
+   "source": "https://www.runme.de/deutschland/kickelhahn-berglauf-ilmenau/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "jenaer-backyard-ultra-2027",
+   "type": "trail",
+   "name": "Jenaer Backyard Ultra",
+   "place": "Jena",
+   "bezirk": "Ostthüringen",
+   "kreis": "Stadt Jena",
+   "lat": 50.927054,
+   "lon": 11.5892372,
+   "date": "2027-06-05",
+   "confirmed": true,
+   "distances": [
+    "Backyard"
+   ],
+   "anmeldung_url": "https://my.raceresult.com/424278/",
+   "source": "https://running.life/de/termine/jenaer-backyard-ultra",
+   "info": "Backyard Ultra in Cospeda: stündliche Runden von 6,7 km mit rund 194 Hm, Einzel- und Teamwertung.",
+   "fee": "45 €",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "jenaer-lobdeburglauf-2027",
+   "type": "road",
+   "name": "Jenaer Lobdeburglauf",
+   "place": "Jena",
+   "bezirk": "Ostthüringen",
+   "kreis": "Stadt Jena",
+   "lat": 50.89,
+   "lon": 11.609,
+   "date": "2027-06-05",
+   "confirmed": false,
+   "distances": [
+    "7",
+    "15"
+   ],
+   "url": "https://lobdeburglauf.jimdosite.com/",
+   "source": "https://www.runme.de/deutschland/jenaer-lobdeburglauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "silberberglauf-2027",
+   "type": "trail",
+   "name": "Silberberglauf",
+   "place": "Ilmenau",
+   "bezirk": "Mittelthüringen",
+   "kreis": "Ilm-Kreis",
+   "lat": 50.683,
+   "lon": 10.919,
+   "date": "2027-06-05",
+   "confirmed": false,
+   "distances": [
+    "6",
+    "11",
+    "HM"
+   ],
+   "url": "http://www.silberberglauf.de",
+   "source": "https://www.runme.de/deutschland/silberberglauf-moehrenbach/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "kulpenberg-berglauf-2027",
+   "type": "trail",
+   "name": "Kulpenberg-Berglauf",
+   "place": "Bad Frankenhausen",
+   "bezirk": "Nordthüringen",
+   "kreis": "Kyffhäuserkreis",
+   "lat": 51.347,
+   "lon": 11.179,
+   "date": "2027-06-06",
+   "confirmed": false,
+   "distances": [
+    "9,5"
+   ],
+   "url": "https://www.kyffhaeuser-laufcup.de/",
+   "source": "https://www.runme.de/deutschland/kulpenberglauf-bad-frankenhausen/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "mittsommerlauf-ruedersdorf-2027",
+   "type": "road",
+   "name": "Mittsommerlauf Rüdersdorf",
+   "place": "Kraftsdorf",
+   "bezirk": "Ostthüringen",
+   "kreis": "LK Greiz",
+   "lat": 50.93,
+   "lon": 12.01,
+   "date": "2027-06-11",
+   "confirmed": false,
+   "distances": [
+    "5,2",
+    "10,2"
+   ],
+   "url": "https://www.tsv1880ruedersdorf.de/fussball/mittsommerlauf.html",
+   "source": "https://www.runme.de/deutschland/mittsommerlauf-ruedersdorf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "altenburger-skatstadtmarathon-2027",
+   "type": "road",
+   "name": "Altenburger Skatstadtmarathon",
+   "place": "Altenburg",
+   "bezirk": "Ostthüringen",
+   "kreis": "LK Altenburger Land",
+   "lat": 50.988,
+   "lon": 12.437,
+   "date": "2027-06-12",
+   "confirmed": true,
+   "distances": [
+    "5,4",
+    "13,3",
+    "HM",
+    "M"
+   ],
+   "url": "http://www.skatstadtmarathon.de/",
+   "source": "https://www.runme.de/deutschland/skatstadtmarathon-altenburg/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Veranstalter: Samstag 12.06.2027, neun Läufe von 400 m bis 42,195 km, erster Start 08:30 Uhr (Marathon); Shirts bis 31.03.2027 mit der Anmeldung für 20 € bestellbar",
+   "checked": "2026-11-05",
+   "start_time": "08:30",
+   "start_place": "Markt Altenburg (Start und Ziel)"
+  },
+  {
+   "id": "kirschlauf-2027",
+   "type": "road",
+   "name": "Kirschlauf",
+   "place": "Kleinfahner",
+   "bezirk": "Mittelthüringen",
+   "kreis": "LK Gotha",
+   "lat": 51.078,
+   "lon": 10.855,
+   "date": "2027-06-13",
+   "confirmed": true,
+   "distances": [
+    "4,5",
+    "14",
+    "30"
+   ],
+   "url": "http://www.kirschlauf.de",
+   "source": "https://www.runme.de/deutschland/kirschlauf-usv-erfurt-kleinfahner/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Ausgabe 2026 am 14.06.: 9:00 Uhr XXL-Lauf (ohne Anmeldung) und 1-km-Schülerläufe, 9:40 Uhr 14 km Nordic Walking; Termin 2027 noch nicht veröffentlicht",
+   "checked": "2026-11-05",
+   "start_place": "Torbogen an der Mühle, Kleinfahner",
+   "pickup": "Ausgabe 2026: Eventzelt an der Mühle ab 8:00 Uhr",
+   "late_reg": "Ausgabe 2026: Nachmeldung am Starttag bis 30 Minuten vor dem Lauf gegen 5 € Zuschlag"
+  },
+  {
+   "id": "drei-laender-volkslauf-2027",
+   "type": "road",
+   "name": "Drei-Länder-Volkslauf",
+   "place": "Arenshausen",
+   "bezirk": "Nordthüringen",
+   "kreis": "LK Eichsfeld",
+   "lat": 51.3,
+   "lon": 9.983,
+   "date": "2027-06-13",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "13"
+   ],
+   "url": "http://www.drei-laender-lauf.com/",
+   "source": "https://www.runme.de/deutschland/drei-laender-volkslauf-arenshausen/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Ausgabe 2026: Online- und telefonische Voranmeldung vom 01.05. bis 10.06.2026 20:00 Uhr",
+   "checked": "2026-11-05",
+   "late_reg": "Ausgabe 2026: Nachmeldung am Veranstaltungstag gegen 2 € Zuschlag (Kinderläufe ausgenommen)"
+  },
+  {
+   "id": "loebichauer-haldenlauf-2027",
+   "type": "road",
+   "name": "Löbichauer Haldenlauf",
+   "place": "Löbichau",
+   "bezirk": "Ostthüringen",
+   "kreis": "LK Altenburger Land",
+   "lat": 50.833,
+   "lon": 12.267,
+   "date": "2027-06-19",
+   "confirmed": false,
+   "distances": [
+    "8,5",
+    "12,7"
+   ],
+   "url": "http://www.haldenlauf.de",
+   "source": "https://www.runme.de/deutschland/loebichauer-haldenlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "messerpokallauf-steinbacher-messertrail-am-inselsberg-2027",
+   "type": "trail",
+   "name": "Messerpokallauf / Steinbacher Messertrail am Inselsberg",
+   "place": "Bad Liebenstein OT Steinbach",
+   "bezirk": "Südwestthüringen",
+   "kreis": "Wartburgkreis",
+   "lat": 50.833,
+   "lon": 10.364,
+   "date": "2027-06-19",
+   "confirmed": false,
+   "distances": [
+    "10,6",
+    "HM",
+    "M",
+    "50"
+   ],
+   "url": "http://www.wsv-steinbach.de/",
+   "source": "https://www.runme.de/deutschland/cross-marathon-steinbach/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "salamander-cross-werningshausen-2027",
+   "type": "trail",
+   "name": "Salamander Cross Werningshausen",
+   "place": "Werningshausen",
+   "bezirk": "Mittelthüringen",
+   "kreis": "LK Sömmerda",
+   "lat": 51.167,
+   "lon": 10.983,
+   "date": "2027-06-19",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.ksb-soemmerda.de/",
+   "source": "https://www.runme.de/deutschland/salamander-cross/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "toepfermarktlauf-buergel-2027",
+   "type": "road",
+   "name": "Töpfermarktlauf Bürgel",
+   "place": "Bürgel",
+   "bezirk": "Ostthüringen",
+   "kreis": "Saale-Holzland-Kreis",
+   "lat": 50.95,
+   "lon": 11.733,
+   "date": "2027-06-20",
+   "confirmed": false,
+   "distances": [
+    "6",
+    "12"
+   ],
+   "url": "https://toepfermarktlauf-buergel.de/toepfermarktlauf-uebersicht",
+   "source": "https://www.runme.de/deutschland/buergeler-toepfermarktlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "schwarzatallauf-2027",
+   "type": "road",
+   "name": "Schwarzatallauf",
+   "place": "Bad Blankenburg",
+   "bezirk": "Ostthüringen",
+   "kreis": "LK Saalfeld-Rudolstadt",
+   "lat": 50.688,
+   "lon": 11.167,
+   "date": "2027-06-26",
+   "confirmed": false,
+   "distances": [
+    "10,6",
+    "19"
+   ],
+   "url": "http://www.tsv-bad-blankenburg.de/",
+   "source": "https://www.runme.de/deutschland/schwarzatallauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "silvesterlauf-sommer-edition-2027",
+   "type": "road",
+   "name": "Silvesterlauf SOMMER Edition",
+   "place": "Erfurt",
+   "bezirk": "Mittelthüringen",
+   "kreis": "Stadt Erfurt",
+   "lat": 50.964,
+   "lon": 11.041,
+   "date": "2027-06-26",
+   "confirmed": false,
+   "distances": [
+    "10",
+    "12"
+   ],
+   "url": "https://www.fsv-thuringia.de/",
+   "source": "https://www.runme.de/deutschland/silvesterlauf-sommer-edition-26/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "suedeichsfeldlauf-2027",
+   "type": "road",
+   "name": "Südeichsfeldlauf",
+   "place": "Diedorf",
+   "bezirk": "Nordthüringen",
+   "kreis": "LK Eichsfeld",
+   "lat": 51.181,
+   "lon": 10.261,
+   "date": "2027-06-26",
+   "confirmed": false,
+   "distances": [
+    "5,9",
+    "11,3",
+    "HM"
+   ],
+   "url": "https://suedeichsfeldlauf.de/",
+   "source": "https://www.runme.de/deutschland/suedeichsfeldlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "schneekopflauf-2027",
+   "type": "trail",
+   "name": "Schneekopflauf",
+   "place": "Schmiedefeld",
+   "bezirk": "Südwestthüringen",
+   "kreis": "Stadt Suhl",
+   "lat": 50.6,
+   "lon": 10.7,
+   "date": "2027-07-03",
+   "confirmed": true,
+   "distances": [
+    "12,7",
+    "22,2"
+   ],
+   "url": "http://www.rennsteiglauf.de",
+   "source": "https://www.runme.de/deutschland/schneekopflauf-schmiedefeld/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "thueringen-ultra-2027",
+   "type": "trail",
+   "name": "Thüringen Ultra",
+   "place": "Fröttstädt",
+   "bezirk": "Mittelthüringen",
+   "kreis": "LK Gotha",
+   "lat": 50.951,
+   "lon": 10.631,
+   "date": "2027-07-03",
+   "confirmed": false,
+   "distances": [
+    "100"
+   ],
+   "url": "http://www.thueringenultra.de/",
+   "source": "https://www.runme.de/deutschland/thueringen-ultra-froettstaedt/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "barigauerturmlauf-2027",
+   "type": "road",
+   "name": "BarigauerTurmLauf",
+   "place": "Königsee",
+   "bezirk": "Ostthüringen",
+   "kreis": "LK Saalfeld-Rudolstadt",
+   "lat": 50.63,
+   "lon": 11.073,
+   "date": "2027-07-04",
+   "confirmed": true,
+   "distances": [
+    "10,2"
+   ],
+   "url": "https://laufvereinkoenigsee.de/",
+   "source": "https://www.runme.de/deutschland/barigauer-turmlauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "vogelberglauf-bleicherode-2027",
+   "type": "trail",
+   "name": "Vogelberglauf Bleicherode",
+   "place": "Bleicherode",
+   "bezirk": "Nordthüringen",
+   "kreis": "LK Nordhausen",
+   "lat": 51.467,
+   "lon": 10.533,
+   "date": "2027-07-06",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10",
+    "20"
+   ],
+   "url": "http://www.bleicherode.de/",
+   "source": "https://www.runme.de/deutschland/bleicheroeder-vogelberglauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "wickerstedter-crosslauf-2027",
+   "type": "trail",
+   "name": "Wickerstedter Crosslauf",
+   "place": "Wickerstedt",
+   "bezirk": "Mittelthüringen",
+   "kreis": "LK Weimarer Land",
+   "lat": 51.067,
+   "lon": 11.667,
+   "date": "2027-07-10",
+   "confirmed": true,
+   "distances": [
+    "6,7",
+    "13,7"
+   ],
+   "url": "http://wickerstedter-crosslauf.jimdo.com",
+   "source": "https://www.runme.de/deutschland/wickerstedter-crosslauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Veranstalter: 13. Wickerstedter Crosslauf am 10.07.2027 ab 9:00 Uhr, Online-Anmeldeschluss 08.07.2027 12 Uhr (zugleich Bierathlon um 14:00 Uhr)",
+   "checked": "2026-11-05",
+   "start_time": "09:00",
+   "reg_close": "2027-07-08",
+   "late_reg": "Anmeldung vor Ort bis 20 Minuten vor dem Start"
+  },
+  {
+   "id": "frankenwaldlauf-ossla-2027",
+   "type": "road",
+   "name": "Frankenwaldlauf Oßla",
+   "place": "Oßla",
+   "bezirk": "Ostthüringen",
+   "kreis": "LK Saalfeld-Rudolstadt",
+   "lat": 50.464,
+   "lon": 11.538,
+   "date": "2027-07-25",
+   "confirmed": false,
+   "distances": [
+    "9",
+    "19,6"
+   ],
+   "url": "http://www.frankenwaldlauf.de",
+   "source": "https://www.runme.de/deutschland/frankenwaldlauf-ossla/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Ausgabe 2026: Startschuss ab 9 Uhr, Siegerehrung 11:30 Uhr, die lange Strecke ist jetzt 19,6 km (früher 18,5 km); Termin 2027 noch nicht veröffentlicht",
+   "checked": "2026-11-05",
+   "parking": "Parkplätze im Ort und im Start-/Ziel-Bereich",
+   "showers": "Umkleiden und Toiletten im Kulturhaus am Start/Ziel, kostenlos",
+   "prev": {
+    "start_time": "09:00",
+    "fee": "9 km und lange Strecke je 10 €, Startgeld bar vor Ort (Ausgabe 2026)"
+   }
+  },
+  {
+   "id": "glasmacherlauf-2027",
+   "type": "road",
+   "name": "Glasmacherlauf",
+   "place": "Piesau",
+   "bezirk": "Südwestthüringen",
+   "kreis": "LK Sonneberg",
+   "lat": 50.51,
+   "lon": 11.138,
+   "date": "2027-08-07",
+   "confirmed": true,
+   "distances": [
+    "10"
+   ],
+   "url": "http://www.lav-saale-rennsteig.de/",
+   "source": "https://www.runme.de/deutschland/piesauer-glasmacherlauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "werraquell-lauf-2027",
+   "type": "road",
+   "name": "Werraquell-Lauf",
+   "place": "Masserberg",
+   "bezirk": "Südwestthüringen",
+   "kreis": "LK Hildburghausen",
+   "lat": 50.52,
+   "lon": 10.971,
+   "date": "2027-08-14",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "12"
+   ],
+   "url": "https://www.wrc-hildburghausen.de/",
+   "source": "https://www.runme.de/deutschland/werraquell-lauf-masserberg/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "sommernachtslauf-in-muenchenbernsdorf-2027",
+   "type": "road",
+   "name": "Sommernachtslauf in Münchenbernsdorf",
+   "place": "Münchenbernsdorf",
+   "bezirk": "Ostthüringen",
+   "kreis": "LK Greiz",
+   "lat": 50.821,
+   "lon": 11.932,
+   "date": "2027-08-20",
+   "confirmed": false,
+   "distances": [
+    "6,3",
+    "12,6"
+   ],
+   "url": "https://www.sv-1924.de/",
+   "source": "https://www.runme.de/deutschland/sommernachtslauf-in-muenchenbernsdorf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Ausgabe 2026 am 21.08.: Meldebüro ab 16:00 Uhr, 18:00 Uhr 800 m, 18:15 Uhr 1,3 km und Nordic Walking, 18:30 Uhr 12,6 km; Termin 2027 noch nicht veröffentlicht",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "18:30"
+   }
+  },
+  {
+   "id": "arnstaedter-bach-ultra-2027",
+   "type": "trail",
+   "name": "Arnstädter Bach-Ultra",
+   "place": "Arnstadt",
+   "bezirk": "Mittelthüringen",
+   "kreis": "Ilm-Kreis",
+   "lat": 50.833,
+   "lon": 11.067,
+   "date": "2027-08-21",
+   "confirmed": false,
+   "distances": [
+    "60"
+   ],
+   "url": "http://www.motor-arnstadt.de/",
+   "source": "https://www.runme.de/deutschland/arnstaedter-bach-ultra/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "citylauf-soemmerda-2027",
+   "type": "road",
+   "name": "Citylauf Sömmerda",
+   "place": "Sömmerda",
+   "bezirk": "Mittelthüringen",
+   "kreis": "LK Sömmerda",
+   "lat": 51.159,
+   "lon": 11.115,
+   "date": "2027-08-21",
+   "confirmed": false,
+   "distances": [
+    "10"
+   ],
+   "url": "http://www.leichtathletik-soemmerda.de/",
+   "source": "https://www.runme.de/deutschland/soemmerdaer-citylauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05",
+   "start_place": "Rathaus Sömmerda, Obermarkt (Start und Ziel)",
+   "pickup": "Ausgabe 2026: Startunterlagen am Lauftag ab 9:00 Uhr im Start- und Zielbereich auf dem Obermarkt neben dem Rathaus",
+   "late_reg": "Ausgabe 2026: Nachmeldung gegen 2 € Gebühr (Einzelstarter) und 5 € (Staffeln), Meldeschluss 18.08.2026",
+   "showers": "Umkleiden und Duschen in der Schwimmhalle Weißenseer Straße (5 Minuten Fußweg)"
+  },
+  {
+   "id": "martinrodaer-sandhasenlauf-2027",
+   "type": "road",
+   "name": "Martinrodaer Sandhasenlauf",
+   "place": "Martinroda",
+   "bezirk": "Mittelthüringen",
+   "kreis": "Ilm-Kreis",
+   "lat": 50.683,
+   "lon": 10.919,
+   "date": "2027-08-21",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.ffv-martinroda.de/cms/",
+   "source": "https://www.runme.de/deutschland/sandhasenlauf-rund-um-den-veronikaberg/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "breitunger-plesslauf-2027",
+   "type": "trail",
+   "name": "Breitunger Pleßlauf",
+   "place": "Breitungen",
+   "bezirk": "Südwestthüringen",
+   "kreis": "LK Schmalkalden-Meiningen",
+   "lat": 50.764,
+   "lon": 10.327,
+   "date": "2027-08-22",
+   "confirmed": false,
+   "distances": [
+    "6",
+    "10,7",
+    "HM",
+    "30"
+   ],
+   "url": "http://www.plesslauf.de",
+   "source": "https://www.runme.de/deutschland/21-breitunger-plesslauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Ausgabe 2026 am Sonntag 23.08. (zweiter Lauf des Lauftreffs Breitungen im Jahr, der erste ist das Vulcano-Race im April); Startzeiten auf der Vereinsseite ohne klare Zuordnung zu April oder August: 09:00 Uhr 30 km, 09:05 Uhr 3 km, 09:30 Uhr Halbmarathon und 10,7 km Nordic Walking, 09:45 Uhr 10,7 km",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "natur-erlebnislauf-frauensee-2027",
+   "type": "road",
+   "name": "Natur-Erlebnislauf Frauensee",
+   "place": "Frauensee",
+   "bezirk": "Südwestthüringen",
+   "kreis": "Wartburgkreis",
+   "lat": 50.878,
+   "lon": 10.142,
+   "date": "2027-08-22",
+   "confirmed": false,
+   "distances": [
+    "5,3",
+    "10,6"
+   ],
+   "url": "https://sv1930frauensee.de/",
+   "source": "https://www.runme.de/deutschland/natur-erlebnislauf-frauensee/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "zweitalsperrenlauf-2027",
+   "type": "road",
+   "name": "Zweitalsperrenlauf",
+   "place": "Tambach-Dietharz",
+   "bezirk": "Mittelthüringen",
+   "kreis": "LK Gotha",
+   "lat": 50.792,
+   "lon": 10.616,
+   "date": "2027-08-22",
+   "confirmed": false,
+   "distances": [
+    "6",
+    "17"
+   ],
+   "url": "http://www.wintersport-tambach.de",
+   "source": "https://www.runme.de/deutschland/zweitalsperrenlauf-tambach/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05",
+   "pickup": "Wettkampfbüro, die Veranstaltung beginnt offiziell um 8:30 Uhr",
+   "late_reg": "Nachmeldung am Wettkampftag bis 9:30 Uhr im Wettkampfbüro gegen 3 € Aufpreis (laut Veranstalterseite)"
+  },
+  {
+   "id": "elstertal-lauf-2027",
+   "type": "road",
+   "name": "Elstertal-Lauf",
+   "place": "Gera",
+   "bezirk": "Ostthüringen",
+   "kreis": "Stadt Gera",
+   "lat": 50.867,
+   "lon": 12.083,
+   "date": "2027-08-28",
+   "confirmed": false,
+   "distances": [
+    "10",
+    "15"
+   ],
+   "url": "https://www.1-sv-gera.de/",
+   "source": "https://www.runme.de/deutschland/elstertal-marathon-gera/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "erfurter-nachtlauf-2027",
+   "type": "road",
+   "name": "Erfurter Nachtlauf",
+   "place": "Erfurt",
+   "bezirk": "Mittelthüringen",
+   "kreis": "Stadt Erfurt",
+   "lat": 50.975,
+   "lon": 11.03,
+   "date": "2027-09-04",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10",
+    "21,6"
+   ],
+   "url": "https://erfurter-laufnacht.de/",
+   "source": "https://www.runme.de/deutschland/erfurter-nachtlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-09-04. Laut Veranstalter: Samstag 04.09.2027 (nicht 28.08.), Start und Ziel Theaterplatz; Startzeiten 19:30, 20:00 und 20:30 Uhr je nach Strecke (5, 10 und 21 km), Zielschluss 21:30 bis 22:59 Uhr",
+   "checked": "2026-11-05",
+   "start_time": "20:00",
+   "start_place": "Theaterplatz Erfurt"
+  },
+  {
+   "id": "muehlhaeuser-altstadtlauf-2027",
+   "type": "road",
+   "name": "Mühlhäuser Altstadtlauf",
+   "place": "Mühlhausen",
+   "bezirk": "Nordthüringen",
+   "kreis": "Unstrut-Hainich-Kreis",
+   "lat": 51.209,
+   "lon": 10.453,
+   "date": "2027-08-28",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.muehlhausen.de/",
+   "source": "https://www.runme.de/deutschland/muehlhaeuser-altstadtlauf-muehlhausen/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Ausgabe 2026: Schülerläufe ab 9:00 Uhr, Startgeld Schülerläufe 1 € (ab 22.08.2026 4 €), Hauptläufe 5 km und 10 km für Schüler und Jugend 6 € (ab 22.08.2026 9 €); Termin 2027 noch nicht veröffentlicht",
+   "checked": "2026-11-05",
+   "late_reg": "Ausgabe 2026: Nachmeldung gegen 3 € Zuschlag"
+  },
+  {
+   "id": "s-run-sparkassenlauf-rund-um-das-duenkreuz-2027",
+   "type": "road",
+   "name": "S-RUN Sparkassenlauf rund um das Dünkreuz",
+   "place": "Leinefelde-Worbis",
+   "bezirk": "Nordthüringen",
+   "kreis": "LK Eichsfeld",
+   "lat": 51.383,
+   "lon": 10.367,
+   "date": "2027-08-28",
+   "confirmed": false,
+   "distances": [
+    "6",
+    "10"
+   ],
+   "url": "https://www.sgb07.de/",
+   "source": "https://www.runme.de/deutschland/s-run-sparkassenlauf-rund-um-das-duenkreuz/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Ausgabe 2026 am Samstag 29.08.: 10 km (10:00 Uhr), 6 km, 1,5 km Kinderlauf (11:30 Uhr), 400 m (12:00 Uhr)",
+   "checked": "2026-11-05",
+   "start_place": "Sportanlage Kley, Leinefelde-Worbis",
+   "pickup": "Ausgabe 2026: Startnummernausgabe ab 8:30 Uhr auf der Sportanlage Kley",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "koenigseer-stadtwaldlauf-2027",
+   "type": "road",
+   "name": "Königseer Stadtwaldlauf",
+   "place": "Königsee",
+   "bezirk": "Ostthüringen",
+   "kreis": "LK Saalfeld-Rudolstadt",
+   "lat": 50.63,
+   "lon": 11.073,
+   "date": "2027-08-29",
+   "confirmed": false,
+   "distances": [
+    "5,5",
+    "11,5",
+    "20,5"
+   ],
+   "url": "https://laufvereinkoenigsee.de/",
+   "source": "https://www.runme.de/deutschland/koenigseer-stadtwaldlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "heiligenstaedter-kurstadtlauf-2027",
+   "type": "road",
+   "name": "Heiligenstädter Kurstadtlauf",
+   "place": "Heiligenstadt",
+   "bezirk": "Nordthüringen",
+   "kreis": "LK Eichsfeld",
+   "lat": 51.422,
+   "lon": 10.219,
+   "date": "2027-09-04",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10",
+    "19"
+   ],
+   "url": "https://www.volksbank-mitte-kurstadtlauf.de/",
+   "source": "https://www.runme.de/deutschland/heiligenstaedter-kurparklauf-heiligenstadt/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Ausgabe 2026: 10:00 Uhr 19 km Lauf über den Dün, 10:15 Uhr Bambini-Lauf 400 m kostenfrei; Termin 2027 noch nicht veröffentlicht",
+   "checked": "2026-11-05",
+   "start_place": "Vitalpark, In der Leineaue 1, Heilbad Heiligenstadt",
+   "pickup": "Ausgabe 2026: Startnummernausgabe am Lauftag ab 8:30 Uhr bis 30 Minuten vor dem Start",
+   "late_reg": "Ausgabe 2026: Nachmeldung vor Ort gegen 3 € Zuschlag (Meldeschluss Freitag 20:00 Uhr)",
+   "prev": {
+    "start_time": "10:00",
+    "fee": "19 km 19 € (Ausgabe 2026)"
+   }
+  },
+  {
+   "id": "goelitztallauf-2027",
+   "type": "road",
+   "name": "Gölitztallauf",
+   "place": "Marktgölitz",
+   "bezirk": "Ostthüringen",
+   "kreis": "LK Saalfeld-Rudolstadt",
+   "lat": 50.556,
+   "lon": 11.335,
+   "date": "2027-09-05",
+   "confirmed": false,
+   "distances": [
+    "8,4",
+    "17,1"
+   ],
+   "url": "https://sg.marktgoelitz.de/",
+   "source": "https://www.runme.de/deutschland/goelitztallauf-probstzella/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "ruk-lauf-2027",
+   "type": "road",
+   "name": "RuK-Lauf",
+   "place": "Geschwenda",
+   "bezirk": "Mittelthüringen",
+   "kreis": "Ilm-Kreis",
+   "lat": 50.732,
+   "lon": 10.825,
+   "date": "2027-09-05",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10,3"
+   ],
+   "url": "https://sv-90-graefenroda.de/",
+   "source": "https://www.runme.de/deutschland/ruk-lauf-rund-ums-kickelhaehnchen/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "progesund-frauenlauf-jena-2027",
+   "type": "road",
+   "name": "Progesund Frauenlauf Jena",
+   "place": "Jena",
+   "bezirk": "Ostthüringen",
+   "kreis": "Stadt Jena",
+   "lat": 50.933,
+   "lon": 11.587,
+   "date": "2027-09-08",
+   "confirmed": false,
+   "distances": [
+    "5"
+   ],
+   "source": "https://www.runme.de/deutschland/frauenlauf-jena/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "bahnlaeufe-des-kyffhaeuser-berglaufverein-e-v-2027",
+   "type": "trail",
+   "name": "Bahnläufe des Kyffhäuser Berglaufverein e.V.",
+   "place": "Bad Frankenhausen",
+   "bezirk": "Nordthüringen",
+   "kreis": "Kyffhäuserkreis",
+   "lat": 51.347,
+   "lon": 11.179,
+   "date": "2027-09-10",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.kyffhaeuser-berglauf.de",
+   "source": "https://www.runme.de/deutschland/bahnlaeufe-des-kyffhaeuser-berglaufverein-e-v-/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "erfurt-marathon-2027",
+   "type": "road",
+   "name": "Erfurt Marathon",
+   "place": "Erfurt",
+   "bezirk": "Mittelthüringen",
+   "kreis": "Stadt Erfurt",
+   "lat": 50.997,
+   "lon": 11.008,
+   "date": "2027-09-11",
+   "confirmed": false,
+   "distances": [
+    "HM",
+    "M"
+   ],
+   "url": "https://erfurt-marathon.de",
+   "source": "https://www.runme.de/deutschland/erfurt-marathon-1/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Veranstalter ANNAKRAM e. V., Erlöse für wechselnde regionale Projekte; Ausgabe 2026 am Samstag 12.09. (Erfurt Marathon 13), Strecken laut Terminkalender 42,877 km und 20,397 km; Termin 2027 noch nicht veröffentlicht",
+   "checked": "2026-11-05",
+   "start_place": "Radrennbahn Andreasried, Erfurt",
+   "pickup": "Ausgabe 2026: Startnummernausgabe ab 7:00 Uhr (laut Terminkalender)",
+   "prev": {
+    "start_time": "09:00",
+    "fee": "Halbmarathon 28 bis 43 €, Marathon 34 bis 49 € je nach Anmeldezeitraum (Ausgabe 2026, laut Terminkalender)"
+   }
+  },
+  {
+   "id": "erfurter-zooparklauf-2027",
+   "type": "road",
+   "name": "Erfurter Zooparklauf",
+   "place": "Erfurt",
+   "bezirk": "Mittelthüringen",
+   "kreis": "Stadt Erfurt",
+   "lat": 51.021,
+   "lon": 11.035,
+   "date": "2027-09-11",
+   "confirmed": true,
+   "distances": [
+    "10"
+   ],
+   "url": "http://www.zooparklauf.de/",
+   "source": "https://www.runme.de/deutschland/erfurter-zooparklauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Laut Veranstalter: 11.09.2027, erster Start 10:00 Uhr, Meldeschluss 29.08.2027 23:59 Uhr; vom Startgeld geht 1 € an Projekte",
+   "checked": "2026-11-05",
+   "start_time": "10:00",
+   "reg_close": "2027-08-29",
+   "start_place": "Zoopark Erfurt, 99086 Erfurt",
+   "pickup": "Meldebüro ab 8:00 Uhr; Startunterlagen und Nachmeldungen bis eine Stunde vor dem Wettbewerbsstart, spätestens 12 Uhr am Lauftag"
+  },
+  {
+   "id": "holzlandlauf-2027",
+   "type": "road",
+   "name": "Holzlandlauf",
+   "place": "Hermsdorf",
+   "bezirk": "Ostthüringen",
+   "kreis": "Saale-Holzland-Kreis",
+   "lat": 50.855,
+   "lon": 11.895,
+   "date": "2027-09-11",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "11",
+    "HM"
+   ],
+   "url": "https://holzlandlauf.info/",
+   "source": "https://www.runme.de/deutschland/holzlandlauf-hermsdorf-5163/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Ausgabe 2026 am Samstag 12.09.: Halbmarathon 09:30 Uhr (Zielschluss 13 Uhr), 11 km 10:00 Uhr, Meldeschluss 11.09.2026 16:00 Uhr, ab 10.09. mit Nachmeldegebühr; Termin 2027 noch nicht veröffentlicht",
+   "checked": "2026-11-05",
+   "start_place": "Werner-Seelenbinder-Sporthalle, 07629 Hermsdorf",
+   "prev": {
+    "start_time": "09:30",
+    "fee": "Halbmarathon 13 €, 11 km 11 € (Ausgabe 2026)"
+   }
+  },
+  {
+   "id": "suedthueringentrail-2027",
+   "type": "trail",
+   "name": "SÜDTHÜRINGENTRAIL",
+   "place": "Suhl-Heinrichs",
+   "bezirk": "Südwestthüringen",
+   "kreis": "Stadt Suhl",
+   "lat": 50.6,
+   "lon": 10.7,
+   "date": "2027-09-11",
+   "confirmed": false,
+   "distances": [
+    "17,4",
+    "47,5",
+    "64,9"
+   ],
+   "url": "https://suedthueringen-trail.de/",
+   "source": "https://www.runme.de/deutschland/suedthueringentrail/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "treffurter-stadtlauf-2027",
+   "type": "road",
+   "name": "Treffurter Stadtlauf",
+   "place": "Treffurt",
+   "bezirk": "Südwestthüringen",
+   "kreis": "Wartburgkreis",
+   "lat": 51.137,
+   "lon": 10.234,
+   "date": "2027-09-11",
+   "confirmed": false,
+   "distances": [
+    "9"
+   ],
+   "url": "https://treffurt.de/",
+   "source": "https://www.runme.de/deutschland/treffurter-stadtlauf_2/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "unstrutlauf-2027",
+   "type": "road",
+   "name": "Unstrutlauf",
+   "place": "Dingelstädt",
+   "bezirk": "Nordthüringen",
+   "kreis": "LK Eichsfeld",
+   "lat": 51.315,
+   "lon": 10.317,
+   "date": "2027-09-11",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10",
+    "HM"
+   ],
+   "url": "http://www.gymnasium-dingelstaedt.de/joomla/",
+   "source": "https://www.runme.de/deutschland/unstrut-lauf-dingelstaedt/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "kessel-x-lauf-eichsfelder-kessel-benefiz-crosslauf-2027",
+   "type": "trail",
+   "name": "Kessel-X-Lauf - Eichsfelder Kessel Benefiz Crosslauf",
+   "place": "Deuna",
+   "bezirk": "Nordthüringen",
+   "kreis": "LK Eichsfeld",
+   "lat": 51.35,
+   "lon": 10.5,
+   "date": "2027-09-18",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10",
+    "25",
+    "40"
+   ],
+   "url": "http://kessel-x-lauf.de/",
+   "source": "https://www.runme.de/deutschland/kxl-eichsfelder-kessel-benefiz-crosslauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Ausgabe 2026: 09:30 Uhr 40 km Laufen, 09:35 Uhr 25 km Nordic Walking oder Wandern, 12:00 Uhr 25 km Laufen; Termin 2027 noch nicht veröffentlicht",
+   "checked": "2026-11-05",
+   "start_place": "Sportplatz Deuna"
+  },
+  {
+   "id": "limberglauf-ranis-2027",
+   "type": "trail",
+   "name": "Limberglauf Ranis",
+   "place": "Ranis",
+   "bezirk": "Ostthüringen",
+   "kreis": "Saale-Orla-Kreis",
+   "lat": 50.65,
+   "lon": 11.72,
+   "date": "2027-09-18",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10",
+    "15",
+    "HM"
+   ],
+   "url": "http://www.tsv1860ranis.de/",
+   "source": "https://www.runme.de/deutschland/limberglauf-ranis/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "lauf-durch-das-thueringer-schiefergebirge-2027",
+   "type": "road",
+   "name": "Lauf durch das Thüringer Schiefergebirge",
+   "place": "Schmiedefeld (Saalfeld)",
+   "bezirk": "Ostthüringen",
+   "kreis": "LK Saalfeld-Rudolstadt",
+   "lat": 50.652,
+   "lon": 11.376,
+   "date": "2027-09-19",
+   "confirmed": false,
+   "distances": [
+    "9,2",
+    "22"
+   ],
+   "url": "http://www.lav-saale-rennsteig.de/",
+   "source": "https://www.runme.de/deutschland/lauf-durch-das-thueringer-schiefergebirge/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "lauf-zur-grubenlampe-2027",
+   "type": "road",
+   "name": "Lauf zur Grubenlampe",
+   "place": "Ronneburg",
+   "bezirk": "Ostthüringen",
+   "kreis": "LK Greiz",
+   "lat": 50.8,
+   "lon": 12.217,
+   "date": "2027-09-19",
+   "confirmed": false,
+   "distances": [
+    "7,3",
+    "14,6"
+   ],
+   "url": "https://ronneburg.de/",
+   "source": "https://www.runme.de/deutschland/lauf-zur-grubenlampe/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "mommelsteinlauf-2027",
+   "type": "trail",
+   "name": "Mommelsteinlauf",
+   "place": "Floh-Seligenthal",
+   "bezirk": "Südwestthüringen",
+   "kreis": "LK Schmalkalden-Meiningen",
+   "lat": 50.783,
+   "lon": 10.45,
+   "date": "2027-09-19",
+   "confirmed": false,
+   "distances": [
+    "8",
+    "16",
+    "32"
+   ],
+   "url": "https://mommelsteinlauf.de/",
+   "source": "https://www.runme.de/deutschland/mommelsteinlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Ausgabe 2026: 09:00 Uhr 32 km Ausdauerpfad, 09:30 Uhr 500 m Bambinilauf, 10:00 Uhr 1 km Fuchstrail, Zielschluss 13:30 Uhr für alle Strecken; Termin 2027 noch nicht veröffentlicht",
+   "checked": "2026-11-05",
+   "late_reg": "Anmeldung über das Portal von GO-Timing",
+   "prev": {
+    "start_time": "09:00"
+   }
+  },
+  {
+   "id": "sonneberger-spielzeuglauf-2027",
+   "type": "road",
+   "name": "Sonneberger Spielzeuglauf",
+   "place": "Sonneberg",
+   "bezirk": "Südwestthüringen",
+   "kreis": "LK Sonneberg",
+   "lat": 50.359,
+   "lon": 11.175,
+   "date": "2027-09-19",
+   "confirmed": false,
+   "distances": [
+    "6",
+    "9"
+   ],
+   "url": "https://www.leichtathletik-sonneberg.de/",
+   "source": "https://www.runme.de/deutschland/sonneberger-spielzeuglauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "steiger-honig-lauf-2027",
+   "type": "trail",
+   "name": "Steiger(Honig)Lauf",
+   "place": "Erfurt",
+   "bezirk": "Mittelthüringen",
+   "kreis": "Stadt Erfurt",
+   "lat": 50.964,
+   "lon": 11.041,
+   "date": "2027-09-23",
+   "confirmed": false,
+   "distances": [
+    "8",
+    "13"
+   ],
+   "url": "http://www.ltv-erfurt.de/",
+   "source": "https://www.runme.de/deutschland/steiger-honig-lauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "hohe-schrecke-waldlauf-2027",
+   "type": "trail",
+   "name": "Hohe Schrecke Waldlauf",
+   "place": "Oberheldrungen",
+   "bezirk": "Nordthüringen",
+   "kreis": "Kyffhäuserkreis",
+   "lat": 51.302,
+   "lon": 11.218,
+   "date": "2027-09-25",
+   "confirmed": false,
+   "distances": [
+    "6",
+    "15",
+    "HM",
+    "M"
+   ],
+   "url": "https://www.hohe-schrecke-waldlauf.com/",
+   "source": "https://www.runme.de/deutschland/hohe-schrecke-waldlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Ausgabe 2026 am Samstag 26.09.: Meldung laut Veranstalter kostenfrei über die Homepage bis 24.09.2026, Zeitmessung durch GO-Timing; Termin 2027 noch nicht veröffentlicht",
+   "checked": "2026-11-05",
+   "start_place": "Sportplatz Oberheldrungen",
+   "pickup": "Ausgabe 2026: Freitag von 16 bis 19 Uhr und Samstag ab 7 Uhr",
+   "late_reg": "Ausgabe 2026: Nachmeldung am Freitag von 16 bis 19 Uhr"
+  },
+  {
+   "id": "schleizer-wisentalauf-2027",
+   "type": "road",
+   "name": "Schleizer Wisentalauf",
+   "place": "Schleiz",
+   "bezirk": "Ostthüringen",
+   "kreis": "Saale-Orla-Kreis",
+   "lat": 50.617,
+   "lon": 11.817,
+   "date": "2027-09-25",
+   "confirmed": false,
+   "distances": [
+    "5,4",
+    "10,8"
+   ],
+   "url": "https://www.sv-saale-orla-08.de/",
+   "source": "https://www.runme.de/deutschland/schleizer-wisentalauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "vr-bank-mitte-herbstlauf-2027",
+   "type": "road",
+   "name": "VR-Bank Mitte Herbstlauf",
+   "place": "Dingelstädt",
+   "bezirk": "Nordthüringen",
+   "kreis": "LK Eichsfeld",
+   "lat": 51.315,
+   "lon": 10.317,
+   "date": "2027-09-25",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10",
+    "HM"
+   ],
+   "url": "https://vr-bankmitte-herbstlauf.de/",
+   "source": "https://www.runme.de/deutschland/dingelstaedter-herbstlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Laut Veranstalterseite: 9:30 Uhr Halbmarathon, 10:00 Uhr 5 km; zugleich Thüringer Landesmeisterschaft Straße (2026) und Wertung im Eichsfeld-Cup",
+   "checked": "2026-11-05",
+   "start_place": "Kanonenbahnradweg nahe Bahnhofsallee, Dingelstädt",
+   "pickup": "Startnummernausgabe ab 8:00 Uhr in der Sporthalle der Grundschule (laut Veranstalterseite)"
+  },
+  {
+   "id": "geba-berglauf-2027",
+   "type": "trail",
+   "name": "Geba-Berglauf",
+   "place": "Geba",
+   "bezirk": "Südwestthüringen",
+   "kreis": "LK Schmalkalden-Meiningen",
+   "lat": 50.5,
+   "lon": 10.467,
+   "date": "2027-09-26",
+   "confirmed": false,
+   "distances": [
+    "6,1",
+    "13"
+   ],
+   "url": "http://www.geba-berglauf.de/",
+   "source": "https://www.runme.de/deutschland/geba-berglauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Ausgabe 2026 am Sonntag 27.09.: 10:00 Uhr 6,1 km Landschaftslauf, 3,1 km Schüler- und Schnupperlauf, 8,7 km Walken und Wandern, 11:20 Uhr 0,5 km Kinderlauf; Termin 2027 noch nicht veröffentlicht",
+   "checked": "2026-11-05",
+   "pickup": "Ausgabe 2026: am Lauftag ab 8:00 Uhr auf der Hohen Geba im „Gebatreff“",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "kienberglauf-2027",
+   "type": "trail",
+   "name": "Kienberglauf",
+   "place": "Oehrenstock (Ilmenau)",
+   "bezirk": "Mittelthüringen",
+   "kreis": "Ilm-Kreis",
+   "lat": 50.683,
+   "lon": 10.919,
+   "date": "2027-09-26",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "11",
+    "16"
+   ],
+   "url": "http://www.sv08-oehrenstock.de/",
+   "source": "https://www.runme.de/deutschland/kienberglauf-oehrenstock-ilmenau/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "wartburglauf-2027",
+   "type": "road",
+   "name": "Wartburglauf",
+   "place": "Eisenach",
+   "bezirk": "Südwestthüringen",
+   "kreis": "Stadt Eisenach",
+   "lat": 50.981,
+   "lon": 10.315,
+   "date": "2027-09-26",
+   "confirmed": false,
+   "distances": [
+    "6,1",
+    "12"
+   ],
+   "url": "https://www.sv-wartburgstadt.de/",
+   "source": "https://www.runme.de/deutschland/wartburglauf-eisenach/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "bismarckturmlauf-2027",
+   "type": "road",
+   "name": "Bismarckturmlauf",
+   "place": "Neustadt an der Orla",
+   "bezirk": "Ostthüringen",
+   "kreis": "Saale-Orla-Kreis",
+   "lat": 50.667,
+   "lon": 11.75,
+   "date": "2027-10-03",
+   "confirmed": false,
+   "distances": [
+    "6,5",
+    "11,3",
+    "HM"
+   ],
+   "url": "https://fsv-neustadt-orla.de/",
+   "source": "https://www.runme.de/deutschland/bismarckturmlauf-neustadt-orla/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "cross-der-deutschen-einheit-2027",
+   "type": "trail",
+   "name": "Cross der deutschen Einheit",
+   "place": "Weißensee",
+   "bezirk": "Mittelthüringen",
+   "kreis": "LK Sömmerda",
+   "lat": 51.217,
+   "lon": 11,
+   "date": "2027-10-03",
+   "confirmed": false,
+   "distances": [
+    "10,5",
+    "HM"
+   ],
+   "url": "http://www.crossderdeutscheneinheit.de/",
+   "source": "https://www.runme.de/deutschland/cross-der-deutschen-einheit-unstrut-helbe-halbmarathon-weissensee/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05",
+   "late_reg": "Ausgabe 2026: Nachmeldung vor Ort bis 03.10.2026 10:00 Uhr gegen Nachmeldegebühr"
+  },
+  {
+   "id": "rennsteig-trailrun-2027",
+   "type": "trail",
+   "name": "Rennsteig Trailrun",
+   "place": "Neuhaus-Masserberg",
+   "bezirk": "Südwestthüringen",
+   "kreis": "LK Sonneberg",
+   "lat": 50.52,
+   "lon": 10.971,
+   "date": "2027-10-03",
+   "confirmed": true,
+   "distances": [
+    "10",
+    "20",
+    "33"
+   ],
+   "url": "http://www.rennsteig-herbstlauf.de",
+   "source": "https://www.runme.de/deutschland/rennsteig-herbstlauf-neuhaus-masserberg/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Laut Veranstalter: 03.10.2027, Start 10 km in Masserberg 10:00 Uhr (Zielschluss 12:30), 20 km in Neuhaus am Rennweg 10:00 Uhr (Zielschluss 14:00), RennsteigTRAIL 33 km in Masserberg 09:00 Uhr (Zielschluss 14:30)",
+   "checked": "2026-11-05",
+   "start_time": "10:00",
+   "fee": "10 km ab 10 €, 20 km ab 25 €, RennsteigTRAIL 33 km ab 35 € (Preise steigen mit dem Anmeldezeitpunkt, ab 20.09.2027 zusätzlich 10 € Nachmeldegebühr)"
+  },
+  {
+   "id": "herbstcross-auf-dem-bergfried-2027",
+   "type": "trail",
+   "name": "Herbstcross auf dem Bergfried",
+   "place": "Saalfeld",
+   "bezirk": "Ostthüringen",
+   "kreis": "LK Saalfeld-Rudolstadt",
+   "lat": 50.652,
+   "lon": 11.376,
+   "date": "2027-10-06",
+   "confirmed": false,
+   "distances": [
+    "4,8"
+   ],
+   "url": "https://www.saalfelder-lv.de/",
+   "source": "https://www.runme.de/deutschland/bergfried-crosslauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "weimarer-stadtlauf-2027",
+   "type": "road",
+   "name": "Weimarer Stadtlauf",
+   "place": "Weimar",
+   "bezirk": "Mittelthüringen",
+   "kreis": "Stadt Weimar",
+   "lat": 50.98,
+   "lon": 11.326,
+   "date": "2027-10-09",
+   "confirmed": false,
+   "distances": [
+    "11,6"
+   ],
+   "url": "http://www.weimarer-stadtlauf.de",
+   "source": "https://www.runme.de/deutschland/weimarer-stadtlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Ausgabe 2026: Hauptlauf 12:15 Uhr, Staffellauf 2 × 5,5 km 12:25 Uhr; Termin 2027 noch nicht veröffentlicht",
+   "checked": "2026-11-05",
+   "pickup": "Ausgabe 2026: Startunterlagen am Lauftag ab 9:00 Uhr im Meldebüro",
+   "prev": {
+    "start_time": "12:15"
+   }
+  },
+  {
+   "id": "jenaer-kernberglauf-2027",
+   "type": "trail",
+   "name": "Jenaer Kernberglauf",
+   "place": "Jena",
+   "bezirk": "Ostthüringen",
+   "kreis": "Stadt Jena",
+   "lat": 50.893,
+   "lon": 11.585,
+   "date": "2027-10-16",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "15",
+    "27"
+   ],
+   "url": "http://www.kernberglauf.de",
+   "source": "https://www.runme.de/deutschland/jenaer-kernberglauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "internationaler-sondershaeuser-kristalllauf-2027",
+   "type": "road",
+   "name": "Internationaler Sondershäuser Kristalllauf",
+   "place": "Sondershausen",
+   "bezirk": "Nordthüringen",
+   "kreis": "Kyffhäuserkreis",
+   "lat": 51.37,
+   "lon": 10.87,
+   "date": "2027-11-06",
+   "confirmed": false,
+   "distances": [
+    "10,8"
+   ],
+   "url": "http://www.sc-impuls.de",
+   "source": "https://www.runme.de/deutschland/sondershaeuser-kristall-lauf-sonderhausen/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Laut Veranstalterseite: Lauf unter Tage im Schacht (10,2 bis 10,8 km), Teilnehmerlimit 400, Meldefrist der Ausgabe 2026 war der 24.02.2026; das passt nicht zum Novembertermin aus dem Kalender, der Termin 2027 ist ungeklärt",
+   "checked": "2026-11-05",
+   "start_place": "Schachtstraße 20, 99706 Sondershausen",
+   "pickup": "Startnummernausgabe am Wettkampftag ab 7:45 Uhr",
+   "prev": {
+    "start_time": "11:00",
+    "fee": "65 € Organisationsbeitrag (laut Veranstalterseite, Ausgabe 2026)"
+   }
+  },
+  {
+   "id": "nordhaeuser-altstadtlauf-2027",
+   "type": "road",
+   "name": "NSV Altstadtlauf (Nordhäuser Citylauf)",
+   "place": "Nordhausen",
+   "bezirk": "Nordthüringen",
+   "kreis": "LK Nordhausen",
+   "date": "2027-09-11",
+   "confirmed": false,
+   "prev_date": "2026-09-12",
+   "distances": [
+    "6",
+    "9"
+   ],
+   "url": "https://altstadtlauf-nsv.netlify.app",
+   "source": "https://running.life/de/termine/nordhauser-citylauf",
+   "start_place": "Nordhäuser Marktpassage, Pferdemarkt 1, 99734 Nordhausen",
+   "prev": {
+    "fee": "Hauptläufe 6 km und 9 km 9 € für Erwachsene (Ausgabe 2026)",
+    "start_time": "10:00"
+   },
+   "info": "Ausgabe 2026 am Samstag 12.09.: 1500 m Jugendlauf, 3 km Einsteigerlauf, 6 km und 9 km Hauptlauf; Zahlung per SEPA-Lastschrift über RaceResult; Teil des Nordthüringer Laufcups. Termin 2027 noch nicht veröffentlicht. Ausgabe 2026: Anmeldung vom 02.05. bis 11.09.2026 18:00 Uhr, Start des Laufs 10:00 Uhr",
+   "lat": 51.502,
+   "lon": 10.796,
+   "checked": "2026-11-05",
+   "pickup": "Ausgabe 2026: Meldebüro ab 9:00 Uhr"
+  },
+  {
+   "id": "hoehlerfestlauf-gera-2027",
+   "type": "trail",
+   "name": "Höhlerfestlauf Gera",
+   "place": "Gera",
+   "bezirk": "Ostthüringen",
+   "kreis": "Stadt Gera",
+   "date": "2027-09-25",
+   "confirmed": false,
+   "prev_date": "2026-09-26",
+   "distances": [
+    "5",
+    "12"
+   ],
+   "url": "https://hoehlerfestlauf.de",
+   "source": "https://gotrail.run/de/termine/hohlerfestlauf",
+   "info": "Veranstalter Post-Sportverein Gera; Ausgabe 2026 am Samstag 26.09. (11. Auflage): 12 km mit ca. 210 Hm durch den Geraer Stadtwald und Hofwiesenpark, dazu 5 km, 2,5 km und 0,8 km, neu auch ein 12-km-Hindernis-Cross (nicht aufgenommen); Wertung im Geraer Laufcup. Termin 2027 noch nicht veröffentlicht.",
+   "lat": 50.878,
+   "lon": 12.082,
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "koestritzer-parklauf-2027",
+   "type": "road",
+   "name": "Köstritzer Parklauf",
+   "place": "Bad Köstritz",
+   "bezirk": "Ostthüringen",
+   "kreis": "LK Greiz",
+   "date": "2027-10-30",
+   "confirmed": false,
+   "prev_date": "2026-10-31",
+   "distances": [
+    "6",
+    "12"
+   ],
+   "source": "https://running.life/de/termine/kostritzer-parklauf",
+   "info": "Veranstalter LAV Elstertal Bad Köstritz; Ausgabe 2026 am Samstag 31.10. im Park von Bad Köstritz: 12 km Hauptlauf, 6 km, kürzere Kinderläufe, Gebühr 2026 bis 10 €; Wertung im Geraer Laufcup und in der Osterlandcrossserie. Termin 2027 noch nicht veröffentlicht.",
+   "lat": 50.93,
+   "lon": 12.01,
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "eichsfelder-silvesterlauf-bernshausen-2026",
+   "type": "road",
+   "name": "Eichsfelder Silvesterlauf Bernshausen (Rund um den Seeburger See)",
+   "place": "Seeburg",
+   "bezirk": "Nordthüringen",
+   "kreis": "LK Eichsfeld",
+   "date": "2026-12-31",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "https://running.life/de/termine/silvesterlauf-seeburg",
+   "start_place": "Mehrzweckhalle Bernshausen, Göttinger Straße",
+   "info": "Veranstalter LG Eichsfeld; flache Runde um den Seeburger See auf befestigten Wegen; 10 km, 5 km, 5 km Walking/Nordic Walking und 1 km Schülerlauf; Angabe nur aus einem Terminkalender (Silvester 2026), Startzeit, Startgeld und Anmeldung nicht gefunden.",
+   "lat": 51.567,
+   "lon": 10.217,
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "nordhaeuser-silvesterlauf-2026",
+   "type": "road",
+   "name": "Nordhäuser Silvesterlauf",
+   "place": "Nordhausen",
+   "bezirk": "Nordthüringen",
+   "kreis": "LK Nordhausen",
+   "date": "2026-12-31",
+   "confirmed": true,
+   "distances": [
+    "7"
+   ],
+   "source": "https://trainerday.com/events/de/nordhauser-silvesterlauf",
+   "info": "Strecken laut Terminkalender 7 km, 3,9 km und 2,3 km (Laufen und Walking); Angabe nur aus einer Quelle, Veranstalter, Startzeit und Anmeldung nicht gefunden.",
+   "lat": 51.502,
+   "lon": 10.796,
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "goethe-kultur-lauf-weimar-2027",
+   "type": "road",
+   "name": "Goethe.Kultur.Lauf Weimar",
+   "place": "Weimar",
+   "bezirk": "Mittelthüringen",
+   "kreis": "Stadt Weimar",
+   "lat": 50.98,
+   "lon": 11.326,
+   "date": "2027-04-25",
+   "confirmed": false,
+   "distances": [
+    "7,6",
+    "13,8",
+    "25,6"
+   ],
+   "url": "https://www.goethe-kultur-lauf.de",
+   "source": "https://www.hdsports.org/laufen/goethe-kultur-lauf",
+   "start_place": "Stadtschloss Weimar (Burgplatz 4)",
+   "pickup": "Startnummernausgabe in der Weimarhalle",
+   "limit": "2.000 Teilnehmer",
+   "info": "Veranstalter SCC Events; Lauf mit „Kulturauszeiten“ an der Strecke: 4,2 km, 7,6 km, 13,8 km und 25,6 km, Start am Sonntag um 9:00 Uhr (Ausgabe 2025 am 27.04.2025), Startgeld laut hdsports ab 47 € (4,2 km) bis ab 93 € (25,6 km) inklusive T-Shirt und Medaille; Termin 2027 noch nicht veröffentlicht, Ende April angenommen.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "apoldaer-stadtlauf-2027",
+   "type": "road",
+   "name": "Apoldaer Stadtlauf",
+   "place": "Apolda",
+   "bezirk": "Mittelthüringen",
+   "kreis": "LK Weimarer Land",
+   "lat": 51.05,
+   "lon": 11.4,
+   "date": "2027-06-23",
+   "confirmed": false,
+   "prev_date": "2026-06-24",
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.apoldaer-lv.de",
+   "source": "https://trainerday.com/events/de/apoldaer-stadtlauf-2026",
+   "start_place": "Sportpark Apolda, Herressener Promenade",
+   "info": "Ausgabe 2026 am Mittwoch 24.06. mit 10 km, 5 km und 2 km, Start und Ziel am Sportpark Apolda (laut Terminkalender, Anmeldung über die Seite des Apoldaer LV); Termin 2027 noch nicht veröffentlicht.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "brunnenfestlauf-bad-berka-2027",
+   "type": "road",
+   "name": "Brunnenfestlauf Bad Berka",
+   "place": "Bad Berka",
+   "bezirk": "Mittelthüringen",
+   "kreis": "LK Weimarer Land",
+   "lat": 50.921,
+   "lon": 11.332,
+   "date": "2027-05-30",
+   "confirmed": false,
+   "prev_date": "2026-05-31",
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "https://trainerday.com/events/de/19-brunnenfestlauf-2026-2026",
+   "start_place": "Kurpark Bad Berka",
+   "prev": {
+    "start_time": "10:00"
+   },
+   "info": "Veranstalter SV Bad Berka; Ausgabe 2026 am Sonntag 31.05. (19. Brunnenfestlauf, laut Terminkalender): Anmeldung ab 9:00 Uhr im Kurpark, Start 10:00 Uhr, 10 km, 5 km, 2,5 km und 900 m; Termin 2027 noch nicht veröffentlicht.",
    "checked": "2026-11-05"
   }
  ]
