@@ -13713,13 +13713,14 @@
    "url": "https://rohrwanglauf.de",
    "start_place": "Stadion im Rohrwang, Aalen",
    "showers": "Umkleiden und Duschen im Sportzentrum Rohrwang",
-   "info": "Veranstalter Aalener Sportallianz (Leichtathletik und Triathlon). Dazu Rohrwangmeile 1,6 km. Anmeldung über ladv.de. 5-km-Strecke laut Seite 5,4 km. Rohrwangmeile 10:45 Uhr, übrige Läufe gemeinsam 11:00 Uhr. Voranmeldung online bis Freitag 06.11.2026; Start 10:45 Uhr Rohrwangmeile (1,6 km), 11:00 Uhr 5,4 und 10 km",
+   "info": "Veranstalter Aalener Sportallianz (Leichtathletik und Triathlon). Dazu Rohrwangmeile 1,6 km. Anmeldung über ladv.de. 5-km-Strecke laut Seite 5,4 km. Rohrwangmeile 10:45 Uhr, übrige Läufe gemeinsam 11:00 Uhr. Voranmeldung online bis Freitag 06.11.2026; Start 10:45 Uhr Rohrwangmeile (1,6 km), 11:00 Uhr 5,4 und 10 km. Startgeld laut Anmeldeportal RaceResult am 05.11.2026",
    "start_time": "10:45",
    "reg_close": "2026-11-06",
    "late_reg": "Nachmeldung am Samstag bis 1 Stunde vor den Läufen (früher +3 €)",
    "prev": {
     "fee": "Rohrwangmeile 1,6 km 5 €, 5,4 km 10 € (Jahrgang 2006–2011 6 €), 10 km 10 € (Ausgabe 2025)"
-   }
+   },
+   "fee": "1,6 km Rohrwangmeile 5 €; 5,4 km und 10 km je 10 € (Jugend Jahrgang 2007 bis 2012 über 5,4 km 6 €)"
   },
   {
    "id": "waldhaegenich-lauf-2026",
@@ -14003,11 +14004,12 @@
    "url": "https://lg-geroldseck-lahr.com",
    "start_place": "Geroldsecker Halle, Sportplatzstraße 13, 77933 Lahr-Reichenbach",
    "pickup": "Geroldsecker Halle",
-   "info": "33. Auflage. 5 km (eine Runde, zwei kurze Anstiege) und 10 km (zwei Runden) auf Asphalt und Waldwegen, DLV-vermessen. Dazu 5,5 km Walking. Anmeldung über RaceResult. 5 km und 10 km 14:00 Uhr, Walking 5,5 km 14:10 Uhr. Anmeldeschluss 27.11.2026 um 18:00 Uhr, Online-Anmeldung seit 01.09.2026. Online-Anmeldung seit 01.09.2026, Anmeldeschluss 27.11.2026, 18:00 Uhr",
+   "info": "33. Auflage. 5 km (eine Runde, zwei kurze Anstiege) und 10 km (zwei Runden) auf Asphalt und Waldwegen, DLV-vermessen. Dazu 5,5 km Walking. Anmeldung über RaceResult. 5 km und 10 km 14:00 Uhr, Walking 5,5 km 14:10 Uhr. Anmeldeschluss 27.11.2026 um 18:00 Uhr, Online-Anmeldung seit 01.09.2026. Online-Anmeldung seit 01.09.2026, Anmeldeschluss 27.11.2026, 18:00 Uhr. Startgeld laut Anmeldeportal RaceResult am 05.11.2026",
    "start_time": "14:00",
    "reg_open": "2026-09-01",
    "reg_close": "2026-11-27",
-   "late_reg": "Keine Nachmeldung möglich"
+   "late_reg": "Keine Nachmeldung möglich",
+   "fee": "10 km 9 € (bis 30.09.), 10 € (bis 31.10.), 11 € (bis 21.11.), 13 € (22. bis 27.11.); 5 km und 5,5 km Walking 7 € / 8 € / 9 € / 11 €"
   },
   {
    "id": "bernhard-marathon-2026",
@@ -14054,9 +14056,10 @@
    "reg_close": "2026-12-03",
    "late_reg": "Nachmeldung vor Ort möglich, 5 € Aufschlag",
    "start_place": "Vor der LAUFWELT, Rastatt-Wintersdorf",
-   "info": "Sonntag 06.12.2026 laut Veranstalterseite: Halbmarathon 12:00 Uhr, 10 km 13:00 Uhr, Bambinilauf (ca. 300 m, kostenlos) 12:15 Uhr. Voranmeldung bis 03.12.2026, 1 € je Anmeldung an laufendhelfen.de. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden). Sonntag 06.12.2026; Voranmeldung bis 03.12.2026, 23:59 Uhr",
+   "info": "Sonntag 06.12.2026 laut Veranstalterseite: Halbmarathon 12:00 Uhr, 10 km 13:00 Uhr, Bambinilauf (ca. 300 m, kostenlos) 12:15 Uhr. Voranmeldung bis 03.12.2026, 1 € je Anmeldung an laufendhelfen.de. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden). Sonntag 06.12.2026; Voranmeldung bis 03.12.2026, 23:59 Uhr. Start Halbmarathon 12:00 Uhr, Bambinilauf 12:15 Uhr, 10 km 13:00 Uhr; Stand 05.11.2026 noch 99 Plätze (Halbmarathon) und 104 (10 km) frei (laut Anmeldeportal RaceResult am 05.11.2026)",
    "showers": "Umkleiden und Duschen nicht vorhanden",
-   "pickup": "Startnummernausgabe am Veranstaltungstag vor der Laufwelt"
+   "pickup": "Startnummernausgabe am Veranstaltungstag vor der Laufwelt",
+   "fee": "Halbmarathon 23 €, 10 km 18 €, Jugend (Jahrgang 2009 bis 2013) 5 €; Bambinilauf kostenlos"
   },
   {
    "id": "nikolauslauf-ilsfeld-2026",
@@ -14104,14 +14107,15 @@
    "elevation": [
     300
    ],
-   "sold_out": "Halbmarathon ausgebucht (laut Veranstalter, Stand 05.11.2026); frei werdende Startplätze gibt es nur über den Startplatztausch",
+   "sold_out": "Halbmarathon ausgebucht (Stand 05.11.2026)",
    "start_place": "Tübingen, Schönbuch (Strecke durch den Naturpark)",
-   "info": "Veranstalter Post-SV Tübingen. Vermessener Halbmarathon, überwiegend Waldschotterwege mit ca. 8,5 km Asphalt, ca. 300 Hm, größter Höhenunterschied 82 m. Dazu virtueller 10-km-Lauf und Schulprojekt. Finisher-Medaille kostenlos, Gravur 10 €. Funktionsshirt, Massage, Wertsachendepot im Startgeld. Meldeschluss Halbmarathon 16.11.2026, 10 km 06.12.2026 oder bis das Limit erreicht ist",
+   "info": "Termin und Meldeschluss laut Veranstalter und Anmeldeportal. Präsenzlauf ist der Halbmarathon (Start 10:00 Uhr, Meldeschluss 16.11.2026 oder bis zum Limit, laut Portal am 05.11.2026 ausgebucht); der 10-km-Wettbewerb wird nur virtuell angeboten (Meldeschluss 06.12.2026). Keine Nachmeldungen, nach Meldeschluss nur Tausch möglich.",
    "start_time": "10:00",
    "reg_close": "2026-11-16",
    "late_reg": "keine Nachmeldung",
-   "limit": "10 km: 750 Teilnehmer, Halbmarathon begrenzt",
-   "pickup": "Halbmarathon: Startnummernausgabe am 05.12.2026 von 11:30 bis 16:30 Uhr und am 06.12.2026 ab 7:30 Uhr"
+   "limit": "Halbmarathon begrenzt, 10 km (virtuell) ohne Limit",
+   "pickup": "Halbmarathon: Startnummernausgabe am 05.12.2026 von 11:30 bis 16:30 Uhr und am 06.12.2026 ab 7:30 Uhr",
+   "fee": "Halbmarathon 40 € (ausgebucht); 10 km virtuell 25 €"
   },
   {
    "id": "spiegelberger-raeuberweglauf-2026",
@@ -14440,8 +14444,8 @@
     "10"
    ],
    "source": "https://haid.app/en/events/backnanger-silvesterlauf-muey5cn4",
-   "checked": "2026-11-04",
-   "info": "5 km (2 Runden) und 10 km (4 Runden à 2,5 km), dazu Staffel 3 × 2,5 km, Mini-Marathon 2,5 km und Bambinilauf. Preisgeld 200/100/50 € im Hauptlauf, Kostümpreis. Frühbucher bis 15.11. vorbei. Bambinilauf 500 m 14:00, Mini-Marathon 2,5 km 14:10, Teamstaffel und BKZ-Lauf 14:15, Hauptlauf 10 km (vier Runden à 2,5 km) 15:10 Uhr; Frühbucherfrist bis 15.11., Anmeldung bis 27.12., Online-Nachmeldung am Lauftag bis 12:00 Uhr",
+   "checked": "2026-11-05",
+   "info": "5 km (2 Runden) und 10 km (4 Runden à 2,5 km), dazu Staffel 3 × 2,5 km, Mini-Marathon 2,5 km und Bambinilauf. Preisgeld 200/100/50 € im Hauptlauf, Kostümpreis. Frühbucher bis 15.11. vorbei. Bambinilauf 500 m 14:00, Mini-Marathon 2,5 km 14:10, Teamstaffel und BKZ-Lauf 14:15, Hauptlauf 10 km (vier Runden à 2,5 km) 15:10 Uhr; Frühbucherfrist bis 15.11., Anmeldung bis 27.12., Online-Nachmeldung am Lauftag bis 12:00 Uhr. Start 14:00 Uhr Bambinilauf, 14:10 Mini-Marathon, 14:15 BKZ-Lauf, 15:10 Hauptlauf; laut Anmeldeportal RaceResult am 05.11.2026 noch 322 Plätze im Hauptlauf frei",
    "lat": 48.947,
    "lon": 9.437,
    "url": "https://backnanger-silvesterlauf.de",
@@ -14452,7 +14456,8 @@
    "start_place": "Biegel (Seniorenbüro) am Willy-Brandt-Platz, Backnang; Siegerehrung am Rathaus ca. 16:30 Uhr",
    "prev": {
     "fee": "Hauptlauf 17–25 €, BKZ-Lauf 14–20 €, Team-Staffel 40–45 €, Mini-Marathon 7–11 €, Bambini und Inklusionslauf frei (Richtwerte 2025)"
-   }
+   },
+   "fee": "Hauptlauf 20 € (bis 15.11.), 24 € (bis 27.12.), 28 € (ab 28.12.); BKZ-Lauf 15 € / 19 € / 21 €; Mini-Marathon (Jahrgang 2011 bis 2018) 8 € / 10 € / 12 €; Team-Staffel 45 € / 50 €"
   },
   {
    "id": "forchheimer-silvesterlauf-2026",
@@ -14552,7 +14557,7 @@
    "url": "https://3koenigslauf.de/",
    "anmeldung_url": "https://my.raceresult.com/426738/registration",
    "reg_open": "2026-10-01",
-   "info": "41. OPTIMA Dreikönigslauf am 06.01.2027, Anmeldung seit 01.10.2026. 2026 war der Lauf ausgebucht (über 3.200 Läufer). 10 km in zwei Runden durch die Altstadt, Veranstalter TSG Schwäbisch Hall. Startzeiten laut Anmeldeseite: 10 km (VR Bank Hauptlauf) 14:20 Uhr, 5 km (Röwisch Wohnbau Cup) 13:20 Uhr; Startnummer kommt ab 30.12.2026 per E-Mail",
+   "info": "41. OPTIMA Dreikönigslauf am 06.01.2027, Anmeldung seit 01.10.2026. 2026 war der Lauf ausgebucht (über 3.200 Läufer). 10 km in zwei Runden durch die Altstadt, Veranstalter TSG Schwäbisch Hall. Startzeiten laut Anmeldeseite: 10 km (VR Bank Hauptlauf) 14:20 Uhr, 5 km (Röwisch Wohnbau Cup) 13:20 Uhr; Startnummer kommt ab 30.12.2026 per E-Mail. 41. Optima Dreikönigslauf am 06.01.2027; Startnummer per E-Mail ab 30.12.2026, Anmeldung über RaceResult (SEPA-Lastschrift)",
    "reg_close": "2026-12-20",
    "start_place": "Startunterlagen in der Blendstatthalle, Blendstatt 6, 74523 Schwäbisch Hall (ab 10:00 Uhr, zusätzlich 04.01. bei Intersport Schoell)",
    "sold_out": "10-km-Hauptlauf ausgebucht (laut Anmeldeseite, Stand 05.11.2026); 5 km sowie Jugend- und Kinderläufe noch frei",
@@ -22622,7 +22627,7 @@
    "anmeldung_url": "https://runtix.com/sts/10021/3147",
    "start_place": "Schönbornhalle, Bad Mingolsheim",
    "showers": "Umkleiden und Duschen (Renovierung kann einschränken)",
-   "late_reg": "Nachmeldung vor Ort und online bis kurz vor dem Start, 2 € Aufschlag",
+   "late_reg": "Nachmeldung vor Ort im Foyer der Schönbornhalle oder online per Mobiltelefon bis 30 Minuten vor Wettkampfbeginn, 2 € Zusatzgebühr für alle Läufe",
    "prev_date": "2025-12-07",
    "url": "https://www.sg-badschoenborn.de/nikolauslauf/",
    "reg_close": "2026-12-05",
@@ -22733,14 +22738,16 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-05",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 31.12.). Strecken laut hdsports. 13. Auflage: Bambini 250 m und Schülerläufe 500/1000 m, 5 km, 10 km und Walking auf flachem, vermessenem 5-km-Rundkurs an der Donau; die ersten 1000 Voranmelder bekommen ein Running-Shirt. Online-Anmeldung über silvesterlauf-tuttlingen.de bis Montag 28.12.2026, 23:59 Uhr (Lastschrift über RaceResult Timing BW)",
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 31.12.). Strecken laut hdsports. 13. Auflage: Bambini 250 m und Schülerläufe 500/1000 m, 5 km, 10 km und Walking auf flachem, vermessenem 5-km-Rundkurs an der Donau; die ersten 1000 Voranmelder bekommen ein Running-Shirt. Online-Anmeldung über silvesterlauf-tuttlingen.de bis Montag 28.12.2026, 23:59 Uhr (Lastschrift über RaceResult Timing BW). Start 10:30 Uhr Bambinilauf, 11:30 Uhr 5 km, 13:15 Uhr 10 km; laut Anmeldeportal RaceResult am 05.11.2026 noch 577 Plätze (10 km) und 868 (5 km) frei",
    "prev_date": "2025-12-31",
    "url": "http://www.silvesterlauf-tuttlingen.de/",
    "start_place": "Ferdinand-von-Steinbeis-Schule, Mühlenweg 21, Tuttlingen",
    "reg_close": "2026-12-28",
    "late_reg": "Nach- und Ummeldungen am Veranstaltungstag ab 9:30 Uhr bis 45 Minuten vor dem jeweiligen Wettbewerb",
    "pickup": "Aula des Immanuel-Kant-Gymnasiums: am Vortag Mittwoch 30.12.2026 von 12:00 bis 14:00 Uhr und am Veranstaltungstag",
-   "showers": "Umkleiden und Duschen in der Mühlau-Sporthalle (Sporthalle der Gymnasien, Mühlenweg 11)"
+   "showers": "Umkleiden und Duschen in der Mühlau-Sporthalle (Sporthalle der Gymnasien, Mühlenweg 11)",
+   "start_time": "11:30",
+   "fee": "10 km 22 € oder 19 €, 5 km und 5 km Walking 20 € oder 17 € (zwei Preisstufen im Portal); Bambini- und Schülerläufe 7 €"
   },
   {
    "id": "kisslegger-silvesterlauf-2026",
@@ -23436,17 +23443,18 @@
    "source": "https://www.runme.de/deutschland/griesheimer-silvesterlauf/",
    "checked": "2026-11-05",
    "url": "https://www.tusgriesheim.de/de/vereinssport/sportarten/leichtathletik/31-griesheimer-rewe-michael-weisbrod-silvesterlauf/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden). Online-Voranmeldung bis Montag 28.12.2026, 20 Uhr; bei Voranmeldung wird das Startgeld erst nach der Veranstaltung per Lastschrift abgebucht",
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden). Online-Voranmeldung bis Montag 28.12.2026, 20 Uhr; bei Voranmeldung wird das Startgeld erst nach der Veranstaltung per Lastschrift abgebucht. Start 10:30 Uhr Schülerlauf, 10:45 Uhr 10 km, 12:00 Uhr 5 km (laut Anmeldeportal RaceResult am 05.11.2026)",
    "start_time": "10:45",
    "prev": {
     "fee": "Schülerlauf 5 € (Ausgabe 2025)"
    },
    "showers": "Umkleiden und Duschen auf dem Schulgelände",
-   "late_reg": "Nachmeldung am Veranstaltungstag gegen Nachmeldegebühr",
+   "late_reg": "Online-Nachmeldung am 30.12. und 31.12.2026 bis maximal 60 Minuten vor dem jeweiligen Start gegen Gebühr",
    "pickup": "Startunterlagen an einem Vortag und am Veranstaltungstag im Meldebüro",
    "reg_close": "2026-12-28",
    "start_place": "Waldspielplatz, Goethestraße 99, Griesheim",
-   "parking": "Parkplätze direkt an Start/Ziel auf dem Parkplatz der Gerhart-Hauptmann-Schule und auf dem Großparkplatz"
+   "parking": "Parkplätze direkt an Start/Ziel auf dem Parkplatz der Gerhart-Hauptmann-Schule und auf dem Großparkplatz",
+   "fee": "10 km 15 € bzw. 12 €, 5 km und 5 km Walken 12 € bzw. 10 €, Schülerlauf 1,2 km 5 €, Bambinilauf kostenlos; Einzel-Nachmeldung 10 km 20 € bzw. 17 €, 5 km 17 €"
   },
   {
    "id": "spiridon-mainova-silvesterlauf-frankfurt-2026",
@@ -23692,10 +23700,11 @@
    "source": "https://www.runme.de/deutschland/50-km-ultra-marathon-rodgau/",
    "checked": "2026-11-05",
    "url": "https://ultra.rlt-rodgau.de/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. DLV-genehmigter Lauf auf bestenlistenfähiger Strecke; Online-Anmeldung geöffnet",
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. DLV-genehmigter Lauf auf bestenlistenfähiger Strecke; Online-Anmeldung geöffnet. 50 km auf 5-km-Rundkurs, Startgeld laut Anmeldeportal RaceResult am 05.11.2026",
    "start_time": "10:00",
    "start_place": "Rodgau-Dudenhofen",
-   "late_reg": "Nachmeldungen nur noch online möglich"
+   "late_reg": "Nachmeldungen nur noch online möglich",
+   "fee": "35 €"
   },
   {
    "id": "pohlheimer-limes-winterlaufserie-2026",
@@ -27952,7 +27961,7 @@
    ],
    "url": "https://www.laufservice-jena.de/",
    "source": "https://www.runme.de/deutschland/landgrafenlauf/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Anmeldeseite ausgebucht, Anmeldung geschlossen (Stand 05.11.2026). Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden)",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Anmeldeseite ausgebucht, Anmeldung geschlossen (Stand 05.11.2026). Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden). Laut Anmeldeportal am 05.11.2026 ausgebucht",
    "checked": "2026-11-05",
    "sold_out": true,
    "late_reg": "Keine Nachmeldungen am Veranstaltungstag",
@@ -42532,9 +42541,11 @@
    ],
    "url": "https://www.tv-losheim.de/",
    "source": "https://www.runme.de/deutschland/int-martinslauf-losheim/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 10:15 Uhr, frühester Lauf ab 5 km).",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 10:15 Uhr, frühester Lauf ab 5 km). Start 09:30 Uhr Schülerläufe, 10:15 Uhr 5 km, 11:15 Uhr 10 km; Startgeld laut Anmeldeportal RaceResult am 05.11.2026",
    "checked": "2026-11-05",
-   "start_time": "10:15"
+   "start_time": "10:15",
+   "fee": "10 km 10 € (bis 04.11.), 13 € (ab 05.11.); 5 km 9 € / 12 €; Schülerlauf 2 km 4 € / 7 €; Bambinilauf 2 €",
+   "late_reg": "Nachmeldung am 08.11.2026 bis 30 Minuten vor dem Start, 3 € Aufschlag aufs Startgeld"
   },
   {
    "id": "crosslauf-rund-um-das-stadion-elm-2026",
@@ -42617,15 +42628,23 @@
    "date": "2026-12-13",
    "confirmed": true,
    "distances": [
-    "15,5",
-    "33,5",
-    "M"
+    "14",
+    "32",
+    "46"
    ],
    "url": "https://www.hartfuessler.de",
    "source": "https://www.runme.de/deutschland/x-mas-trail/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (46,82 km um 08:00 Uhr, frühester Lauf ab 5 km).",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (46,82 km um 08:00 Uhr, frühester Lauf ab 5 km). Strecken laut Anmeldeportal: Brian Trail 14 km (500 Hm, Start 11:00), Ruprecht Trail 32 km (1.190 Hm, 09:30), X-Mas Trail 46 km (1.700 Hm, 08:00); Stand 05.11.2026 noch 64 Plätze (32 km) und 119 (46 km) frei",
    "checked": "2026-11-05",
-   "start_time": "08:00"
+   "start_time": "08:00",
+   "elevation": [
+    500,
+    1190,
+    1700
+   ],
+   "reg_close": "2026-12-11",
+   "sold_out": "Brian Trail 14 km ausgebucht (Stand 05.11.2026)",
+   "fee": "Ruprecht Trail 32 km 36 € (46 € am 12. und 13.12.), X-Mas Trail 46 km 48 € (58 €), Brian Trail 14 km 20 € (30 €)"
   },
   {
    "id": "internationaler-sparverein-silvesterlauf-saarbruecken-2026",
@@ -43997,8 +44016,9 @@
    "url": "https://walking.life/",
    "anmeldung_url": "https://my.raceresult.com/374075/",
    "source": "https://running.life/de/termine/lauf-der-nahe-crosslauf-serie-in-schwollen",
-   "info": "Termin und Strecken laut running.life/gotrail.run.",
-   "checked": "2026-11-05"
+   "info": "Termin und Strecken laut running.life/gotrail.run. Start Lauf 4 (Mittelstrecke) 14:15 Uhr, Lauf 5 (Langstrecke) 15:00 Uhr; Startgeld laut Anmeldeportal RaceResult am 05.11.2026",
+   "checked": "2026-11-05",
+   "fee": "Mittelstrecke 8 €, Kinder U8 4 €"
   },
   {
    "id": "eifellauf-wolsfeld-2026",
@@ -44103,9 +44123,10 @@
    ],
    "url": "http://www.llg-landstuhl.de",
    "source": "https://www.runme.de/deutschland/weihnachtsmarktlauf-landstuhl/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (7,6 km um 13:00 Uhr, frühester Lauf ab 5 km).",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (7,6 km um 13:00 Uhr, frühester Lauf ab 5 km). Start 12:30 Uhr Schülerlauf, 13:00 Uhr Hauptlauf; Startgeld laut Anmeldeportal RaceResult am 05.11.2026",
    "checked": "2026-11-05",
-   "start_time": "13:00"
+   "start_time": "13:00",
+   "fee": "13 € (Hauptlauf 7,6 km), 6 € (Schülerlauf 1,3 km)"
   },
   {
    "id": "nikolauslauf-des-alv-mainz-2026",
@@ -44189,13 +44210,14 @@
    ],
    "url": "https://www.tv-rheinzabern.de/",
    "source": "https://www.runme.de/deutschland/winterlaufserie-rheinzabern/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laufserie des TV Rheinzabern mit drei Läufen über 10 km (13.12.2026), 15 km (10.01.2027) und 20 km (07.02.2027); der 10-km-Lauf ist laut Veranstalter ausgebucht (Stand 05.11.2026)",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laufserie des TV Rheinzabern mit drei Läufen über 10 km (13.12.2026), 15 km (10.01.2027) und 20 km (07.02.2027); der 10-km-Lauf ist laut Veranstalter ausgebucht (Stand 05.11.2026). Startgeld laut Anmeldeportal RaceResult am 05.11.2026",
    "checked": "2026-11-05",
    "start_time": "10:50",
    "limit": "Max. 1.500 Teilnehmer je Lauf",
    "late_reg": "Keine Nachmeldung vor Ort am Tag des Laufes",
    "start_place": "Schulcampus IGS Rheinzabern (Start und Ziel)",
-   "sold_out": true
+   "sold_out": true,
+   "fee": "12 € je Lauf (Jahrgang 2014 und älter); Serienläufer erhalten nur eine Startnummer. Rahmenprogramm: 5 km 7 € (9 € ab 05.01.2027), 300 m 2 €, 1000 m 4 €"
   },
   {
    "id": "zeller-raiffeisenbank-adventslauf-2026",
@@ -44293,9 +44315,11 @@
    ],
    "url": "https://www.sv-kottweiler-schwanden.de/",
    "source": "https://www.runme.de/deutschland/internationaler-silvester-strassenlauf-kottweiler-schwanden/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10 km um 14:20 Uhr, frühester Lauf ab 5 km).",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10 km um 14:20 Uhr, frühester Lauf ab 5 km). Startgeld laut Anmeldeportal RaceResult am 05.11.2026",
    "checked": "2026-11-05",
-   "start_time": "14:20"
+   "start_time": "14:20",
+   "reg_close": "2026-12-28",
+   "fee": "10 € bei Voranmeldung bis 28.12., 12 € bei Nachmeldung ab 29.12.; Jugendliche 6 €"
   },
   {
    "id": "muenz-silvesterlauf-2026",
@@ -44566,12 +44590,13 @@
    ],
    "url": "https://winterlauf.tv-rheinzabern.de/",
    "source": "https://running.life/de/termine/winterlaufserie-rheinzabern/2027-01-10",
-   "info": "Termin und Strecken laut running.life/gotrail.run. Laufserie des TV Rheinzabern mit drei Läufen über 10 km (13.12.2026), 15 km (10.01.2027) und 20 km (07.02.2027)",
+   "info": "Termin und Strecken laut running.life/gotrail.run. Laufserie des TV Rheinzabern mit drei Läufen über 10 km (13.12.2026), 15 km (10.01.2027) und 20 km (07.02.2027). Startgeld laut Anmeldeportal RaceResult am 05.11.2026",
    "checked": "2026-11-05",
    "start_time": "10:50",
    "limit": "Max. 1.500 Teilnehmer je Lauf",
    "late_reg": "Keine Nachmeldung vor Ort am Tag des Laufes",
-   "start_place": "Schulcampus IGS Rheinzabern (Start und Ziel)"
+   "start_place": "Schulcampus IGS Rheinzabern (Start und Ziel)",
+   "fee": "12 € je Lauf (Jahrgang 2014 und älter); Serienläufer erhalten nur eine Startnummer. Rahmenprogramm: 5 km 7 € (9 € ab 05.01.2027), 300 m 2 €, 1000 m 4 €"
   },
   {
    "id": "crosslaufserie-kreis-bernkastel-wittlich-lauf-bengel-2027",
@@ -44780,12 +44805,13 @@
    ],
    "url": "https://winterlauf.tv-rheinzabern.de/",
    "source": "https://running.life/de/termine/winterlaufserie-rheinzabern/2027-02-07",
-   "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin und Strecken laut running.life/gotrail.run. Laufserie des TV Rheinzabern mit drei Läufen über 10 km (13.12.2026), 15 km (10.01.2027) und 20 km (07.02.2027)",
+   "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin und Strecken laut running.life/gotrail.run. Laufserie des TV Rheinzabern mit drei Läufen über 10 km (13.12.2026), 15 km (10.01.2027) und 20 km (07.02.2027). Startgeld laut Anmeldeportal RaceResult am 05.11.2026",
    "checked": "2026-11-05",
    "start_time": "10:50",
    "limit": "Max. 1.500 Teilnehmer je Lauf",
    "late_reg": "Keine Nachmeldung vor Ort am Tag des Laufes",
-   "start_place": "Schulcampus IGS Rheinzabern (Start und Ziel)"
+   "start_place": "Schulcampus IGS Rheinzabern (Start und Ziel)",
+   "fee": "12 € je Lauf (Jahrgang 2014 und älter); Serienläufer erhalten nur eine Startnummer. Rahmenprogramm: 5 km 7 € (9 € ab 05.01.2027), 300 m 2 €, 1000 m 4 €"
   },
   {
    "id": "zitronenkraemerlauf-2027",
@@ -48641,6 +48667,33 @@
    "source": "https://www.runnersworld.de/laufkalender/buchholzerbahndammlauf/",
    "info": "27. Bahndammlauf des SV Buchholz 05 am 05.09.2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (Stand 19.10.2026). Strecken 5 und 10 km, nach einzelnen Kalendern auch Halbmarathon (nicht belegt). Ausgabe 2026 war am 06.09.2026.",
    "checked": "2026-11-05"
+  },
+  {
+   "id": "winterlaufserie-djk-goeppingen-1-lauf-2026",
+   "type": "road",
+   "name": "Winterlaufserie DJK Göppingen – 1. Lauf",
+   "place": "Göppingen",
+   "bezirk": "Stuttgart",
+   "kreis": "LK Göppingen",
+   "lat": 48.7,
+   "lon": 9.667,
+   "date": "2026-12-12",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "https://www.datasport.de/anmeldeservice/djkwinterlauf2026",
+   "checked": "2026-11-05",
+   "info": "Laut Anmeldeportal Datasport am 05.11.2026: Samstag 12.12.2026, Start 14:45 Uhr (10 km und 5 km), Jugendlauf 14:15 Uhr, Kinderlauf 14:00 Uhr, Hundelauf 12:30 Uhr; Anmeldeschluss 09.12.2026. Erster von mehreren Läufen der Winterlaufserie der DJK SG Göppingen.",
+   "url": "http://www.djk-winterlaufserie.de/",
+   "start_place": "DJK Sportanlage Bürgerhölzle, 73033 Göppingen",
+   "showers": "Umkleiden und Duschen im Vereinsheim",
+   "start_time": "14:45",
+   "reg_close": "2026-12-09",
+   "fee": "Startgebühr bis 09.12.2026: 10 km 20 €, 5 km 20 €, Jugendlauf (2,2 km) 6 €, Kinderlauf (1,2 km) 6 €, Hundelauf (5 km) 25 €",
+   "late_reg": "Nachmeldung vor Ort, 6 € Aufschlag",
+   "anmeldung_url": "https://www.datasport.de/anmeldeservice/djkwinterlauf2026"
   }
  ]
 }
