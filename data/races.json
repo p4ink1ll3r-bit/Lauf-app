@@ -1,6 +1,6 @@
 {
  "updated": "2026-11-05",
- "region": "Bayern, Baden-Württemberg, Hessen, Thüringen, Sachsen, Sachsen-Anhalt, Brandenburg, Berlin, Saarland, Rheinland-Pfalz, Nordrhein-Westfalen, Niedersachsen, Bremen, Hamburg",
+ "region": "Bayern, Baden-Württemberg, Hessen, Thüringen, Sachsen, Sachsen-Anhalt, Brandenburg, Berlin, Saarland, Rheinland-Pfalz, Nordrhein-Westfalen, Niedersachsen, Bremen, Hamburg, Schleswig-Holstein, Mecklenburg-Vorpommern",
  "races": [
   {
    "id": "augsburger-winterlaufserie-2026",
@@ -73994,6 +73994,5814 @@
    "url": "http://www.tus-altwarmbüchen.de",
    "source": "https://www.runme.de/deutschland/volkslauf-isernhagen-altwarmbuechen/",
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "open-firefighter-night-run-2026",
+   "type": "road",
+   "name": "Open Firefighter Night Run",
+   "place": "Travemünde",
+   "bezirk": "Ost",
+   "kreis": "Stadt Lübeck",
+   "lat": 53.867,
+   "lon": 10.7,
+   "date": "2026-11-07",
+   "confirmed": true,
+   "distances": [
+    "6",
+    "9",
+    "12"
+   ],
+   "url": "http://feuerwehrsportclub.de/",
+   "source": "https://www.runme.de/deutschland/open-firefighter-night-run/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (6 km um 16:15 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "16:15"
+  },
+  {
+   "id": "mausebergecrosslauf-2026",
+   "type": "trail",
+   "name": "Mausebergecrosslauf",
+   "place": "Husum",
+   "bezirk": "Schleswig",
+   "kreis": "LK Nordfriesland",
+   "lat": 54.417,
+   "lon": 9.083,
+   "date": "2026-11-08",
+   "confirmed": true,
+   "distances": [
+    "5,0",
+    "6,7",
+    "8,3"
+   ],
+   "url": "https://sportinhusum.de/",
+   "source": "https://www.runme.de/deutschland/mauseberge-crosslauf-husum/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5,01 km um 10:30 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "10:30"
+  },
+  {
+   "id": "quickborn-run-ueber-5-km-und-10-km-2026",
+   "type": "road",
+   "name": "Quickborn Run über 5 km und 10 km",
+   "place": "Quickborn",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Pinneberg",
+   "lat": 53.728,
+   "lon": 9.909,
+   "date": "2026-11-08",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.quickbo-run.de/",
+   "source": "https://www.runme.de/deutschland/quickborn-run/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 10:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "10:00"
+  },
+  {
+   "id": "elmshorner-cross-2026",
+   "type": "trail",
+   "name": "Elmshorner Cross",
+   "place": "Elmshorn",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Pinneberg",
+   "lat": 53.758,
+   "lon": 9.698,
+   "date": "2026-11-08",
+   "confirmed": true,
+   "distances": [
+    "8,9"
+   ],
+   "url": "http://www.lg-elmshorn.de/",
+   "source": "https://www.runme.de/deutschland/elmshorner-cross/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (8,855 km um 11:25 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "11:25"
+  },
+  {
+   "id": "lila-eule-cross-2026",
+   "type": "trail",
+   "name": "Lila-Eule-Cross",
+   "place": "Kappeln",
+   "bezirk": "Schleswig",
+   "kreis": "LK Schleswig-Flensburg",
+   "lat": 54.7,
+   "lon": 9.95,
+   "date": "2026-11-15",
+   "confirmed": true,
+   "distances": [
+    "5,4",
+    "8,1",
+    "10,8"
+   ],
+   "url": "https://www.borener-sv.de/",
+   "source": "https://www.runme.de/deutschland/lila-eule-cross/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5,4 km um 12:10 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "12:10"
+  },
+  {
+   "id": "ratzeburger-adventslauf-2026",
+   "type": "road",
+   "name": "Ratzeburger Adventslauf",
+   "place": "Ratzeburg",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Herzogtum Lauenburg",
+   "lat": 53.683,
+   "lon": 10.7,
+   "date": "2026-11-29",
+   "confirmed": true,
+   "distances": [
+    "7,3",
+    "26"
+   ],
+   "url": "https://adventslauf.de/",
+   "source": "https://www.runme.de/deutschland/ratzeburger-adventslauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. running.life nennt dafür den 2026-12-13. Startzeit laut RUNME (7,3 km um 11:15 Uhr, frühester Lauf ab 5 km). Meldeschluss Sonntag 29.11.2026 oder bei Erreichen der maximalen Teilnehmerzahl",
+   "checked": "2026-11-05",
+   "start_time": "11:15",
+   "pickup": "Samstag 28.11.2026 ab 14:00 Uhr und Sonntag 29.11.2026 ab 09:00 Uhr in der Pestalozzischule (Seminarweg 1, Ratzeburg)",
+   "showers": "Umkleidemöglichkeit in der Pestalozzischule, am Ort der Startnummernausgabe"
+  },
+  {
+   "id": "zipfelmuetzen-nacht-im-stadtpark-norderstedt-2026",
+   "type": "road",
+   "name": "Zipfelmützen-Nacht im Stadtpark Norderstedt",
+   "place": "Norderstedt",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Segeberg",
+   "lat": 53.725,
+   "lon": 10.012,
+   "date": "2026-12-04",
+   "confirmed": true,
+   "distances": [
+    "5"
+   ],
+   "url": "https://norderstedt-weihnachten.de/",
+   "source": "https://www.runme.de/deutschland/zipfelmuetzen-nacht/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 18:30 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "18:30"
+  },
+  {
+   "id": "gluecksburger-nikolaus-crosslauf-2026",
+   "type": "trail",
+   "name": "Glücksburger Nikolaus-Crosslauf",
+   "place": "Glücksburg",
+   "bezirk": "Schleswig",
+   "kreis": "LK Schleswig-Flensburg",
+   "lat": 54.8,
+   "lon": 9.567,
+   "date": "2026-12-05",
+   "confirmed": true,
+   "distances": [
+    "8,2"
+   ],
+   "url": "http://tsv-gluecksburg.de/",
+   "source": "https://www.runme.de/deutschland/gluecksburger-nikolaus-crosslauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (8,2 km um 11:30 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "11:30"
+  },
+  {
+   "id": "crosslauf-am-rodelberg-2026",
+   "type": "trail",
+   "name": "CROSSLAUF am Rodelberg",
+   "place": "Pinneberg",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Pinneberg",
+   "lat": 53.659,
+   "lon": 9.801,
+   "date": "2026-12-05",
+   "confirmed": true,
+   "distances": [
+    "8,5"
+   ],
+   "url": "https://www.vfl-pinneberg.de/",
+   "source": "https://www.runme.de/deutschland/crosslauf-am-rodelberg/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (8,5 km um 11:20 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "11:20"
+  },
+  {
+   "id": "klausdorfer-nikolauslauf-2026",
+   "type": "road",
+   "name": "Klausdorfer Nikolauslauf",
+   "place": "Klausdorf",
+   "bezirk": "Mitte",
+   "kreis": "LK Plön",
+   "lat": 54.294,
+   "lon": 10.217,
+   "date": "2026-12-06",
+   "confirmed": true,
+   "distances": [
+    "5,6",
+    "10,2",
+    "15,3"
+   ],
+   "url": "http://www.tsv-klausdorf.de/",
+   "source": "https://www.runme.de/deutschland/nikolauslauf-kiel-klausdorf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (15,3 km um 10:45 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "10:45"
+  },
+  {
+   "id": "nikolauslauf-des-ahrensburger-tsv-2026",
+   "type": "road",
+   "name": "Nikolauslauf des Ahrensburger TSV",
+   "place": "Ahrensburg",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Stormarn",
+   "lat": 53.675,
+   "lon": 10.226,
+   "date": "2026-12-06",
+   "confirmed": true,
+   "distances": [
+    "4,8",
+    "7,9"
+   ],
+   "url": "http://meinatsv.de/",
+   "source": "https://www.runme.de/deutschland/nikolauslauf-des-ahrensburger-tsv/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (7,94 km um 12:15 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "12:15"
+  },
+  {
+   "id": "fischteiche-cross-2026",
+   "type": "trail",
+   "name": "Fischteiche Cross",
+   "place": "Leck",
+   "bezirk": "Schleswig",
+   "kreis": "LK Nordfriesland",
+   "lat": 54.767,
+   "lon": 8.983,
+   "date": "2026-12-06",
+   "confirmed": true,
+   "distances": [
+    "4,8",
+    "9,6"
+   ],
+   "url": "http://www.sv-enge-sande.de/",
+   "source": "https://www.runme.de/deutschland/fischteichecross/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (9,6 km um 12:30 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "12:30"
+  },
+  {
+   "id": "nikolauslauf-neumuenster-2026",
+   "type": "road",
+   "name": "Nikolauslauf Neumünster",
+   "place": "Neumünster",
+   "bezirk": "Mitte",
+   "kreis": "LK Plön",
+   "lat": 54.1,
+   "lon": 10.033,
+   "date": "2026-12-12",
+   "confirmed": true,
+   "distances": [
+    "7,8"
+   ],
+   "url": "http://www.nikolauslauf-nms.de/",
+   "source": "https://www.runme.de/deutschland/nikolauslauf-neumuenster/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (7,8 km um 13:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "13:00"
+  },
+  {
+   "id": "flensburger-adventslauf-2026",
+   "type": "road",
+   "name": "Flensburger Adventslauf",
+   "place": "Flensburg",
+   "bezirk": "Schleswig",
+   "kreis": "Stadt Flensburg",
+   "lat": 54.791,
+   "lon": 9.467,
+   "date": "2026-12-13",
+   "confirmed": true,
+   "distances": [
+    "6,8",
+    "10"
+   ],
+   "url": "https://flensburger-lauftreff.de/",
+   "source": "https://www.runme.de/deutschland/adventslauf-flensburg/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (6,8 km um 09:30 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "09:30"
+  },
+  {
+   "id": "manhattan-lauf-2026",
+   "type": "road",
+   "name": "Manhattan-Lauf",
+   "place": "Breklum",
+   "bezirk": "Schleswig",
+   "kreis": "LK Nordfriesland",
+   "lat": 54.6049736,
+   "lon": 8.9865724,
+   "date": "2026-12-27",
+   "confirmed": true,
+   "distances": [
+    "9"
+   ],
+   "url": "https://running.life/de/termine/manhattan-lauf",
+   "anmeldung_url": "https://my.raceresult.com/429319/",
+   "source": "https://running.life/de/termine/manhattan-lauf",
+   "info": "Termin und Strecken laut running.life/gotrail.run. Startgeld laut Anmeldeportal RaceResult am 05.11.2026",
+   "checked": "2026-11-05",
+   "start_time": "11:00",
+   "fee": "6 €"
+  },
+  {
+   "id": "vr-bank-silvesterlauf-2026",
+   "type": "road",
+   "name": "VR-Bank Silvesterlauf",
+   "place": "Oeversee",
+   "bezirk": "Schleswig",
+   "kreis": "LK Schleswig-Flensburg",
+   "lat": 54.657,
+   "lon": 9.369,
+   "date": "2026-12-27",
+   "confirmed": true,
+   "distances": [
+    "5,2",
+    "11,3"
+   ],
+   "url": "http://www.silvesterlauf-oeversee.de",
+   "source": "https://www.runme.de/deutschland/vr-bank-silvesterlauf-in-oeversee/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (8,8 km um 10:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "10:00",
+   "reg_open": "2026-10-10",
+   "reg_close": "2026-12-17",
+   "parking": "Ausreichend Parkplätze bei der Sporthalle",
+   "showers": "Duschen und Umkleidemöglichkeiten vorhanden"
+  },
+  {
+   "id": "silvesterlauf-moelln-2026",
+   "type": "road",
+   "name": "Silvesterlauf Mölln",
+   "place": "Mölln",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Herzogtum Lauenburg",
+   "lat": 53.617,
+   "lon": 10.687,
+   "date": "2026-12-31",
+   "confirmed": true,
+   "distances": [
+    "10"
+   ],
+   "url": "http://www.moellnersv.de/",
+   "source": "https://www.runme.de/deutschland/silvesterlauf-moelln/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10 km um 13:10 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "13:10"
+  },
+  {
+   "id": "poenitzer-silvesterlauf-2026",
+   "type": "road",
+   "name": "Pönitzer Silvesterlauf",
+   "place": "Pönitz",
+   "bezirk": "Ost",
+   "kreis": "LK Ostholstein",
+   "lat": 54.033,
+   "lon": 10.75,
+   "date": "2026-12-31",
+   "confirmed": true,
+   "distances": [
+    "7,5",
+    "15"
+   ],
+   "url": "http://www.svg-poenitz.de",
+   "source": "https://www.runme.de/deutschland/poenitzer-silvesterlauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (7,5 km um 09:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "09:00"
+  },
+  {
+   "id": "kieler-silvesterlauf-2026",
+   "type": "road",
+   "name": "Kieler Silvesterlauf",
+   "place": "Kiel-Ellerbek",
+   "bezirk": "Mitte",
+   "kreis": "Stadt Kiel",
+   "lat": 54.333,
+   "lon": 10.118,
+   "date": "2026-12-31",
+   "confirmed": true,
+   "distances": [
+    "5,5"
+   ],
+   "url": "https://www.ltvkiel-ost.de/",
+   "source": "https://www.runme.de/deutschland/silvesterlauf-kiel-ellerbeck/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5,5 km um 13:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "13:00",
+   "fee": "9 €",
+   "reg_close": "2026-12-18",
+   "late_reg": "Nachmeldung vor Ort bis 12:30 Uhr, solange Startplätze vorhanden sind; Ummeldung nur vor Ort gegen 3 € Gebühr",
+   "pickup": "Startnummernausgabe in der Sporthalle am 30.12.2026 von 14:30 bis 16:30 Uhr und am 31.12.2026 von 11:00 bis 12:30 Uhr"
+  },
+  {
+   "id": "holcim-silvesterlauf-laegerdorf-2026",
+   "type": "road",
+   "name": "Holcim Silvesterlauf Lägerdorf",
+   "place": "Lägerdorf",
+   "bezirk": "Westküste",
+   "kreis": "LK Steinburg",
+   "lat": 53.883,
+   "lon": 9.583,
+   "date": "2026-12-31",
+   "confirmed": false,
+   "distances": [
+    "4,5",
+    "8",
+    "17"
+   ],
+   "url": "http://www.silvesterlauf-laegerdorf.de",
+   "source": "https://www.runme.de/deutschland/holcim-silvesterlauf-laegerdorf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (8 km um 11:30 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "11:30"
+   }
+  },
+  {
+   "id": "silvesterlauf-st-peter-ording-2026",
+   "type": "road",
+   "name": "Silvesterlauf St. Peter-Ording",
+   "place": "St. Peter-Ording",
+   "bezirk": "Schleswig",
+   "kreis": "LK Nordfriesland",
+   "lat": 54.304,
+   "lon": 8.641,
+   "date": "2026-12-31",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10",
+    "15"
+   ],
+   "url": "https://www.st-peter-ording.de/spo/",
+   "source": "https://www.runme.de/deutschland/silvesterlauf-st-peter-ording/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 14:15 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "14:15"
+   }
+  },
+  {
+   "id": "neujahrslauf-wedel-2027",
+   "type": "road",
+   "name": "Neujahrslauf Wedel",
+   "place": "Wedel",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Pinneberg",
+   "lat": 53.584,
+   "lon": 9.698,
+   "date": "2027-01-03",
+   "confirmed": true,
+   "distances": [
+    "6,5",
+    "10"
+   ],
+   "url": "http://www.lauftreff-wedel.de",
+   "source": "https://www.runme.de/deutschland/neujahrslauf-wedel/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (6,5 km um 12:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "12:00"
+  },
+  {
+   "id": "winterlaufserie-drelsdorf-2027",
+   "type": "road",
+   "name": "Winterlaufserie Drelsdorf",
+   "place": "Drelsdorf",
+   "bezirk": "Schleswig",
+   "kreis": "LK Nordfriesland",
+   "lat": 54.6051023,
+   "lon": 9.0459213,
+   "date": "2027-01-10",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "HM"
+   ],
+   "url": "https://sportinhusum.de/sportangebot/outdoor/lav/veranstaltungen/winterstrassenlaufserie-drelsdorf/",
+   "source": "https://running.life/de/termine/winterlaufserie-drelsdorf/2027-01-10",
+   "info": "Termin und Strecken laut running.life/gotrail.run. Läufe am 10.01., 24.01. und 07.02.2027, Start Schüler 09:50 Uhr, Frauen und Männer 10:00 Uhr, Siegerehrung 07.02.2027 ab etwa 13:00 Uhr",
+   "checked": "2026-11-05",
+   "start_time": "10:00",
+   "fee": "10 km 13 €, 15 km 13 €, 21,1 km 16 € je Lauf; Meldung aller drei Läufe bis 20.12.2026 zusammen 35 €; Schüler und Jugend 6 € pro Lauf",
+   "limit": "Teilnehmerzahl auf 600 begrenzt",
+   "start_place": "Drelsdorf im Karkenweg (17 km nördlich von Husum)",
+   "showers": "Umkleiden und Duschen in der Sporthalle Drelsdorf",
+   "parking": "Ortseingang Drelsdorf (aus Richtung Bohmstedt/Husum) oder Schulhofgelände (Einfahrt über Süderweg)"
+  },
+  {
+   "id": "der-reporter-lauf-2027",
+   "type": "road",
+   "name": "der reporter Lauf",
+   "place": "Neustadt i.H.",
+   "bezirk": "Ost",
+   "kreis": "LK Ostholstein",
+   "lat": 54.133,
+   "lon": 10.883,
+   "date": "2027-01-10",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.der-reporter.de/startseite/",
+   "source": "https://www.runme.de/deutschland/lauf-der-reporter/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10 km um 11:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "11:00"
+  },
+  {
+   "id": "luemmellauf-2027",
+   "type": "road",
+   "name": "Lümmellauf",
+   "place": "Ahrensburg",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Stormarn",
+   "lat": 53.675,
+   "lon": 10.226,
+   "date": "2027-01-17",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10",
+    "20"
+   ],
+   "url": "https://ssc-hagen-ahrensburg.de",
+   "source": "https://www.runme.de/deutschland/luemmellauf-ahrensburg/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 08:30 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "08:30"
+  },
+  {
+   "id": "winterlauf-des-rrc-2027",
+   "type": "road",
+   "name": "Winterlauf des RRC",
+   "place": "Ratzburg",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Herzogtum Lauenburg",
+   "lat": 53.683,
+   "lon": 10.7,
+   "date": "2027-01-17",
+   "confirmed": false,
+   "distances": [
+    "8,5"
+   ],
+   "url": "http://www.wordpress.ratzeburger-rc.de/",
+   "source": "https://www.runme.de/deutschland/winterlauf-des-rrc/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (8,5 km um 11:30 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "11:30"
+   }
+  },
+  {
+   "id": "winterlauf-des-ratzeburger-ruderclubs-2027",
+   "type": "road",
+   "name": "Winterlauf des Ratzeburger Ruderclubs",
+   "place": "Ratzeburg",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Herzogtum Lauenburg",
+   "lat": 53.6989627,
+   "lon": 10.7710605,
+   "date": "2027-01-17",
+   "confirmed": false,
+   "distances": [
+    "8,3"
+   ],
+   "url": "https://www.stgk.de/Veranstaltung_Detail.asp?Code=21",
+   "source": "https://running.life/de/termine/winterlauf-des-ratzeburger-ruderclubs",
+   "info": "Termin und Strecken laut running.life/gotrail.run.",
+   "checked": "2026-11-05",
+   "reg_close": "2027-01-13",
+   "showers": "Umkleiden, Duschen und Toiletten im Ratzeburger Ruderclub",
+   "start_place": "Ratzeburger Ruderclub, Dr.-Alfred-Block-Allee 5, Ratzeburg"
+  },
+  {
+   "id": "cross-und-waldlaufserie-im-kreisforst-weddingstedt-2027",
+   "type": "trail",
+   "name": "Cross-und Waldlaufserie im Kreisforst Weddingstedt",
+   "place": "Heide",
+   "bezirk": "Westküste",
+   "kreis": "LK Dithmarschen",
+   "lat": 54.216,
+   "lon": 9.125,
+   "date": "2027-01-23",
+   "confirmed": false,
+   "distances": [
+    "8,4"
+   ],
+   "url": "https://www.runme.de/deutschland/cross-und-waldlaufserie-kreisforst-weddingstedt/",
+   "anmeldung_url": "https://ladv.de/ausschreibung/detail/45977/1.-Crosslauf-Cross-und-Waldlaufserie-2026-Weddingstedt.htm",
+   "source": "https://www.runme.de/deutschland/cross-und-waldlaufserie-kreisforst-weddingstedt/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (8,4 km um 15:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "15:00"
+   }
+  },
+  {
+   "id": "winterlaufserie-eckernfoerde-2027",
+   "type": "road",
+   "name": "Winterlaufserie Eckernförde",
+   "place": "Eckernförde",
+   "bezirk": "Mitte",
+   "kreis": "LK Rendsburg-Eckernförde",
+   "lat": 54.433,
+   "lon": 9.817,
+   "date": "2027-01-24",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10",
+    "15"
+   ],
+   "url": "https://www.runme.de/deutschland/winterlaufserie-eckernfoerde/",
+   "source": "https://www.runme.de/deutschland/winterlaufserie-eckernfoerde/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-01-10. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "winterlaufserie-drelsdorf-2027-2",
+   "type": "road",
+   "name": "Winterlaufserie Drelsdorf",
+   "place": "Drelsdorf",
+   "bezirk": "Schleswig",
+   "kreis": "LK Nordfriesland",
+   "lat": 54.65,
+   "lon": 9.05,
+   "date": "2027-01-31",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "15",
+    "HM"
+   ],
+   "url": "https://sportinhusum.de/",
+   "source": "https://www.runme.de/deutschland/winterlaufserie-drelsdorf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-02-07. Startzeit der letzten Ausgabe laut RUNME (5 km um 09:50 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:50"
+   }
+  },
+  {
+   "id": "crosslauf-nordhastedt-2027",
+   "type": "trail",
+   "name": "Crosslauf Nordhastedt",
+   "place": "Nordhastedt",
+   "bezirk": "Westküste",
+   "kreis": "LK Dithmarschen",
+   "lat": 54.167,
+   "lon": 9.183,
+   "date": "2027-02-06",
+   "confirmed": false,
+   "distances": [
+    "7,9"
+   ],
+   "url": "https://www.klv-dithmarschen.net/",
+   "source": "https://www.runme.de/deutschland/crosslauf-nordhastedt/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (7,85 km um 15:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "15:00"
+   }
+  },
+  {
+   "id": "tresssee-marathon-2027",
+   "type": "road",
+   "name": "Treßsee Marathon",
+   "place": "Munkwolstrup",
+   "bezirk": "Schleswig",
+   "kreis": "LK Schleswig-Flensburg",
+   "lat": 54.718,
+   "lon": 9.423,
+   "date": "2027-02-21",
+   "confirmed": true,
+   "distances": [
+    "6,5",
+    "14,3",
+    "HM",
+    "20,8",
+    "28,5",
+    "35",
+    "M"
+   ],
+   "url": "https://www.runme.de/deutschland/tresssee-marathon/",
+   "anmeldung_url": "https://my.raceresult.com/386628/",
+   "source": "https://www.runme.de/deutschland/tresssee-marathon/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (6,5 km um 10:00 Uhr, frühester Lauf ab 5 km). Startgeld laut Anmeldeportal RaceResult am 05.11.2026",
+   "checked": "2026-11-05",
+   "start_time": "10:00",
+   "fee": "5 € für alle Strecken (Marathon, Halbmarathon und kürzere Distanzen)"
+  },
+  {
+   "id": "cross-und-waldlaufserie-in-burg-2027",
+   "type": "trail",
+   "name": "Cross-und Waldlaufserie in Burg",
+   "place": "Burg (Dithmarschen)",
+   "bezirk": "Westküste",
+   "kreis": "LK Dithmarschen",
+   "lat": 54,
+   "lon": 9.267,
+   "date": "2027-02-27",
+   "confirmed": false,
+   "distances": [
+    "7"
+   ],
+   "url": "https://www.runme.de/deutschland/cross-und-waldlaufserie-in-burg/",
+   "anmeldung_url": "https://ladv.de/ausschreibung/detail/45979/3.-Crosslauf-Cross-und-Waldlaufserie-2026-%28KM-Cross%29-Burg-%28Dithmarschen%29.htm",
+   "source": "https://www.runme.de/deutschland/cross-und-waldlaufserie-in-burg/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (7 km um 15:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "15:00"
+   }
+  },
+  {
+   "id": "kieler-crosslauf-2027",
+   "type": "trail",
+   "name": "Kieler Crosslauf",
+   "place": "Kiel",
+   "bezirk": "Mitte",
+   "kreis": "Stadt Kiel",
+   "lat": 54.333,
+   "lon": 10.118,
+   "date": "2027-03-20",
+   "confirmed": false,
+   "distances": [
+    "5"
+   ],
+   "url": "https://kieler-tb.de/",
+   "source": "https://www.runme.de/deutschland/kieler-crosslauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 11:50 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "11:50"
+   }
+  },
+  {
+   "id": "loop-oever-de-kammbarg-2027",
+   "type": "road",
+   "name": "Loop över de Kammbarg",
+   "place": "Joldelund",
+   "bezirk": "Schleswig",
+   "kreis": "LK Nordfriesland",
+   "lat": 54.617,
+   "lon": 9.133,
+   "date": "2027-03-21",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.tsv-goldebek.de",
+   "source": "https://www.runme.de/deutschland/loop-oever-de-kammbarg-joldelund/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10 km um 10:45 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "10:45"
+  },
+  {
+   "id": "sparkassen-ostseelauf-2027",
+   "type": "road",
+   "name": "Sparkassen-Ostseelauf",
+   "place": "Timmendorfer Strand",
+   "bezirk": "Ost",
+   "kreis": "LK Ostholstein",
+   "lat": 53.995,
+   "lon": 10.777,
+   "date": "2027-03-21",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10",
+    "HM"
+   ],
+   "url": "http://www.ostseelauf.com/",
+   "source": "https://www.runme.de/deutschland/sparkassen-ostseelauf-timmendorfer-strand-5875/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 09:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "09:00"
+  },
+  {
+   "id": "kieler-hochbrueckenlauf-2027",
+   "type": "road",
+   "name": "Kieler Hochbrückenlauf",
+   "place": "Kiel",
+   "bezirk": "Mitte",
+   "kreis": "Stadt Kiel",
+   "lat": 54.351,
+   "lon": 10.12,
+   "date": "2027-03-21",
+   "confirmed": true,
+   "distances": [
+    "9,5",
+    "15,7",
+    "29,1"
+   ],
+   "url": "http://www.lg-albatros-kiel.de/",
+   "source": "https://www.runme.de/deutschland/kieler-hochbrueckenlauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (15,7 km um 10:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "10:00"
+  },
+  {
+   "id": "donner-fruehlingslauf-2027",
+   "type": "road",
+   "name": "Donner Frühlingslauf",
+   "place": "Sankt Michaelisdonn",
+   "bezirk": "Westküste",
+   "kreis": "LK Dithmarschen",
+   "lat": 53.983,
+   "lon": 9.117,
+   "date": "2027-03-21",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "11,0"
+   ],
+   "url": "http://www.mtv-st-michaelisdonn.de/",
+   "source": "https://www.runme.de/deutschland/fruehlingslauf-st-michaelisdonn/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 09:50 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "09:50"
+  },
+  {
+   "id": "syltlauf-2027",
+   "type": "road",
+   "name": "Syltlauf",
+   "place": "Sylt",
+   "bezirk": "Schleswig",
+   "kreis": "LK Nordfriesland",
+   "lat": 54.8879,
+   "lon": 8.359,
+   "date": "2027-03-21",
+   "confirmed": true,
+   "distances": [
+    "34,5"
+   ],
+   "url": "http://www.tinnum66.de/syltlauf",
+   "source": "https://www.runme.de/deutschland/syltlauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (34,5 km um 10:00 Uhr, frühester Lauf ab 5 km). Anmeldeschluss 01.03.2027 oder bei Vergabe aller Startnummern; kostenlose Ummeldung bis 01.03.2027 per E-Mail; danach keine Um- oder Nachmeldung",
+   "checked": "2026-11-05",
+   "start_time": "10:00",
+   "reg_close": "2027-03-01",
+   "pickup": "Samstag 20.03.2027 ab 15 Uhr im Congress-Centrum Westerland, Friedrichstraße 44, 25980 Sylt/Westerland",
+   "showers": "Duschen und Schwimmen nach dem Lauf in der Sylter Welle in Westerland gegen Vorlage des Abrisses der Startnummer"
+  },
+  {
+   "id": "ostseelauf-timmendorfer-strand-2027",
+   "type": "road",
+   "name": "Ostseelauf Timmendorfer Strand",
+   "place": "Timmendorfer Strand",
+   "bezirk": "Ost",
+   "kreis": "LK Ostholstein",
+   "lat": 53.9920636,
+   "lon": 10.7789388,
+   "date": "2027-03-21",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.ostseelauf.com/",
+   "source": "https://running.life/de/termine/sparkassen-ostseelauf-timmendorfer-strand",
+   "info": "Termin und Strecken laut running.life/gotrail.run.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "stadtwerke-flensburg-lauf-2027",
+   "type": "road",
+   "name": "Stadtwerke Flensburg Lauf",
+   "place": "Flensburg",
+   "bezirk": "Schleswig",
+   "kreis": "Stadt Flensburg",
+   "lat": 54.791,
+   "lon": 9.467,
+   "date": "2027-03-14",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10",
+    "HM"
+   ],
+   "url": "https://stadtwerke-lauf-flensburg.de/",
+   "source": "https://www.runme.de/deutschland/stadtwerke-lauf-flensburg-5935/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-03-14. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:45 Uhr). Termin laut Veranstalterseite 14.03.2027 (Kalender nannte zuerst den 21.03.2027), erster Start 10:00 Uhr, Strecken vom Kidslauf bis Halbmarathon",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:45"
+   },
+   "start_time": "10:00",
+   "reg_close": "2027-02-28",
+   "pickup": "Startunterlagen am Veranstaltungstag ab 08:30 Uhr",
+   "start_place": "Trögelsbyer Weg 79, Flensburg",
+   "late_reg": "Nach dem 28.02.2027 Online-Nachmeldung möglich, sofern Startplätze vorhanden sind"
+  },
+  {
+   "id": "kirschenholzer-osterlauf-2027",
+   "type": "road",
+   "name": "Kirschenholzer Osterlauf",
+   "place": "Schillsdorf",
+   "bezirk": "Mitte",
+   "kreis": "LK Plön",
+   "lat": 54.117,
+   "lon": 10.133,
+   "date": "2027-03-27",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.kirschenholz.de",
+   "source": "https://www.runme.de/deutschland/kirschenholz-lauf-schillsdorf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 14:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "14:00"
+  },
+  {
+   "id": "osterlauf-st-peter-ording-2027",
+   "type": "road",
+   "name": "Osterlauf St. Peter-Ording",
+   "place": "St. Peter-Ording",
+   "bezirk": "Schleswig",
+   "kreis": "LK Nordfriesland",
+   "lat": 54.304,
+   "lon": 8.641,
+   "date": "2027-04-03",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "12",
+    "HM"
+   ],
+   "url": "https://www.st-peter-ording.de/",
+   "source": "https://www.runme.de/deutschland/spo-laeuft/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 14:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "14:00"
+   }
+  },
+  {
+   "id": "travelauf-2027",
+   "type": "road",
+   "name": "Travelauf",
+   "place": "Bad Oldesloe",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Stormarn",
+   "lat": 53.85,
+   "lon": 10.333,
+   "date": "2027-04-04",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10",
+    "HM"
+   ],
+   "url": "https://www.spiridon-oldesloe.de/",
+   "source": "https://www.runme.de/deutschland/travelauf-bad-oldesloe/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (21,0975 km um 10:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "10:00"
+  },
+  {
+   "id": "elbelauf-brunsbuettel-2027",
+   "type": "road",
+   "name": "Elbelauf Brunsbüttel",
+   "place": "Brunsbüttel",
+   "bezirk": "Westküste",
+   "kreis": "LK Dithmarschen",
+   "lat": 53.895,
+   "lon": 9.105,
+   "date": "2027-04-11",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10",
+    "HM"
+   ],
+   "url": "http://www.elbelauf.de/",
+   "source": "https://www.runme.de/deutschland/elbelauf-brunsbuettel/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (21,0975 km um 10:30 Uhr, frühester Lauf ab 5 km). Ausgabe 2026: Startunterlagen am Veranstaltungstag ab 09:00 Uhr am Freibad Ulitzhörn",
+   "checked": "2026-11-05",
+   "start_time": "10:30",
+   "start_place": "Parkplatz an der Mole 1 neben dem Freibad Ulitzhörn, Brunsbüttel",
+   "showers": "Umkleidemöglichkeiten und sanitäre Anlagen am Freibadparkplatz"
+  },
+  {
+   "id": "knicklauf-2027",
+   "type": "road",
+   "name": "Knicklauf",
+   "place": "Schmalensee",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Segeberg",
+   "lat": 54.083,
+   "lon": 10.271,
+   "date": "2027-04-11",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.svschmalensee.de/",
+   "source": "https://www.runme.de/deutschland/knicklauf-schmalensee/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:45 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:45"
+   }
+  },
+  {
+   "id": "vioeler-strassenlauf-2027",
+   "type": "road",
+   "name": "Viöler Straßenlauf",
+   "place": "Viöl",
+   "bezirk": "Schleswig",
+   "kreis": "LK Nordfriesland",
+   "lat": 54.582,
+   "lon": 9.142,
+   "date": "2027-04-24",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.doppeleiche-vioel.de",
+   "source": "https://www.runme.de/deutschland/vioeler-strassenlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 13:15 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "13:15"
+   }
+  },
+  {
+   "id": "eckernfoerder-stadtlauf-2027",
+   "type": "road",
+   "name": "Eckernförder Stadtlauf",
+   "place": "Eckernförde",
+   "bezirk": "Mitte",
+   "kreis": "LK Rendsburg-Eckernförde",
+   "lat": 54.433,
+   "lon": 9.817,
+   "date": "2027-04-25",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.eckernfoerdermtv.info/",
+   "source": "https://www.runme.de/deutschland/eckernfoerder-stadtlauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 09:15 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "09:15"
+  },
+  {
+   "id": "huehnerbrueckenlauf-2027",
+   "type": "road",
+   "name": "Hühnerbrückenlauf",
+   "place": "Herzhorn",
+   "bezirk": "Westküste",
+   "kreis": "LK Steinburg",
+   "lat": 53.783,
+   "lon": 9.483,
+   "date": "2027-04-30",
+   "confirmed": true,
+   "distances": [
+    "5,3",
+    "9,9"
+   ],
+   "url": "http://mtv-handball.de/",
+   "source": "https://www.runme.de/deutschland/huehnerbrueckenlauf-herzhorn/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5,3 km um 17:15 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "17:15"
+  },
+  {
+   "id": "kaltenkirchener-stadtlauf-2027",
+   "type": "road",
+   "name": "Kaltenkirchener Stadtlauf",
+   "place": "Kaltenkirchen",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Segeberg",
+   "lat": 53.843,
+   "lon": 10.023,
+   "date": "2027-05-01",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.kaltenkirchener-stadtlauf.de/",
+   "source": "https://www.runme.de/deutschland/kaltenkirchener-stadtlauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 10:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "10:00"
+  },
+  {
+   "id": "meldorfer-brueckenlauf-2027",
+   "type": "road",
+   "name": "Meldorfer Brückenlauf",
+   "place": "Meldorf",
+   "bezirk": "Westküste",
+   "kreis": "LK Dithmarschen",
+   "lat": 54.1,
+   "lon": 9.15,
+   "date": "2027-05-01",
+   "confirmed": true,
+   "distances": [
+    "6",
+    "9",
+    "HM"
+   ],
+   "url": "https://www.meldorfer-brueckenlauf.de/",
+   "source": "https://www.runme.de/deutschland/meldorfer-brueckenlauf-meldorf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (21,0975 km um 10:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "10:00"
+  },
+  {
+   "id": "suedenseelauf-2027",
+   "type": "road",
+   "name": "Südenseelauf",
+   "place": "Sörup",
+   "bezirk": "Schleswig",
+   "kreis": "LK Schleswig-Flensburg",
+   "lat": 54.717,
+   "lon": 9.667,
+   "date": "2027-05-01",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10",
+    "HM"
+   ],
+   "url": "http://südenseelauf.de/",
+   "source": "https://www.runme.de/deutschland/soeruper-suedenseelauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 09:30 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:30"
+   }
+  },
+  {
+   "id": "trittau-run-2027",
+   "type": "road",
+   "name": "Trittau-Run",
+   "place": "Trittau",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Stormarn",
+   "lat": 53.6,
+   "lon": 10.267,
+   "date": "2027-05-01",
+   "confirmed": false,
+   "distances": [
+    "5,3",
+    "10,8"
+   ],
+   "url": "http://www.trittau-run.de",
+   "source": "https://www.runme.de/deutschland/trittau-run/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,3 km um 11:45 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "11:45"
+   }
+  },
+  {
+   "id": "holtsee-lauf-2027",
+   "type": "road",
+   "name": "Holtsee Lauf",
+   "place": "Holtsee",
+   "bezirk": "Mitte",
+   "kreis": "LK Rendsburg-Eckernförde",
+   "lat": 54.4,
+   "lon": 9.85,
+   "date": "2027-05-02",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.svholtsee.de/",
+   "source": "https://www.runme.de/deutschland/holtsee-lauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 09:50 Uhr, frühester Lauf ab 5 km). Meldeschluss 22.04.2027 oder bei Erreichen des Teilnehmerlimits",
+   "checked": "2026-11-05",
+   "start_time": "09:50",
+   "reg_close": "2027-04-22"
+  },
+  {
+   "id": "wedeler-halbmarathon-2027",
+   "type": "road",
+   "name": "Wedeler Halbmarathon",
+   "place": "Wedel",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Pinneberg",
+   "lat": 53.584,
+   "lon": 9.698,
+   "date": "2027-05-02",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10",
+    "HM"
+   ],
+   "url": "https://www.wedel-halbmarathon.de/",
+   "source": "https://www.runme.de/deutschland/wedeler-halbmarathon/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (21,1 km um 10:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "10:00",
+   "fee": "5 km 14 € (bis 20.04.2027), danach 17 €; 10 km 23 € (bis 20.04.2027), danach 26 € (Frühpreis 20 € bis 31.12.2026); Halbmarathon 30 € (bis 20.04.2027), danach 35 € (Frühpreis 25 € bis 31.12.2026); Schülerlauf 800 m 6 € bzw. 8 €; Läufe zuzüglich 3 € Timing-Gebühr (entfällt mit BMS-Chip)",
+   "reg_close": "2027-04-20",
+   "late_reg": "Online-Nachmeldung ab 21.04.2027 bis 30 Minuten vor dem Start (Barzahlung bei Abholung der Startunterlagen), sofern kein Teilnahmelimit erreicht ist",
+   "pickup": "Freitag 30.04.2027 von 12:00 bis 15:00 Uhr in der BMS Geschäftsstelle, Klaus-Groth-Straße 95, 20535 Hamburg, und Sonntag 02.05.2027 ab 8:00 Uhr in Zelten auf dem Rathausplatz Wedel",
+   "start_place": "Rathausplatz Wedel",
+   "parking": "P+R-Parkplatz mit begrenzten Plätzen, Anreise mit öffentlichen Verkehrsmitteln empfohlen",
+   "showers": "Mobile Toiletten im Start-/Zielbereich auf dem Rathausplatz"
+  },
+  {
+   "id": "aok-business-run-kiel-2027",
+   "type": "road",
+   "name": "AOK Business Run Kiel",
+   "place": "Kiel",
+   "bezirk": "Mitte",
+   "kreis": "Stadt Kiel",
+   "lat": 54.335,
+   "lon": 10.135,
+   "date": "2027-05-05",
+   "confirmed": false,
+   "distances": [
+    "4,5"
+   ],
+   "url": "https://www.businessrun-zippels.de/kiel/",
+   "source": "https://www.runme.de/deutschland/aok-business-run-kiel/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "luebecker-frauenlauf-2027",
+   "type": "road",
+   "name": "Lübecker Frauenlauf",
+   "place": "Lübeck",
+   "bezirk": "Ost",
+   "kreis": "Stadt Lübeck",
+   "lat": 53.868,
+   "lon": 10.685,
+   "date": "2027-05-07",
+   "confirmed": false,
+   "distances": [
+    "5,2",
+    "10,4"
+   ],
+   "url": "http://www.luebecker-frauenlauf.de",
+   "source": "https://www.runme.de/deutschland/luebecker-frauenlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,2 km um 17:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "17:00"
+   }
+  },
+  {
+   "id": "helgoland-marathon-2027",
+   "type": "road",
+   "name": "Helgoland-Marathon",
+   "place": "Helgoland",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Pinneberg",
+   "lat": 54.1809,
+   "lon": 7.8944,
+   "date": "2027-05-08",
+   "confirmed": false,
+   "distances": [
+    "M",
+    "5,5"
+   ],
+   "url": "https://www.hdsports.org/laufen/helgoland-marathon",
+   "source": "https://www.hdsports.org/laufen/helgoland-marathon",
+   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "hermann-juelich-lauf-2027",
+   "type": "road",
+   "name": "Hermann Jülich Lauf",
+   "place": "Köthel",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Herzogtum Lauenburg",
+   "lat": 53.597,
+   "lon": 10.448,
+   "date": "2027-05-08",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.werkgemeinschaften.de/",
+   "source": "https://www.runme.de/deutschland/hermann-juelich-lauf-koethel/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 11:40 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "11:40"
+   }
+  },
+  {
+   "id": "north-sea-ultra-2027",
+   "type": "trail",
+   "name": "North Sea Ultra",
+   "place": "Kampen",
+   "bezirk": "Schleswig",
+   "kreis": "LK Nordfriesland",
+   "lat": 55.019,
+   "lon": 8.431,
+   "date": "2027-05-08",
+   "confirmed": false,
+   "distances": [
+    "111"
+   ],
+   "url": "https://www.northseaultra.com/",
+   "source": "https://www.runme.de/deutschland/north-sea-ultra-sylt/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (108 km um 06:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "06:00"
+   }
+  },
+  {
+   "id": "schleswiger-vr-bank-nord-stadtlauf-2027",
+   "type": "road",
+   "name": "Schleswiger VR Bank Nord Stadtlauf",
+   "place": "Schleswig",
+   "bezirk": "Schleswig",
+   "kreis": "LK Schleswig-Flensburg",
+   "lat": 54.522,
+   "lon": 9.559,
+   "date": "2027-05-09",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.spiridon-schleswig.de",
+   "source": "https://www.runme.de/deutschland/vr-bank-stadtlauf-schleswig/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 09:30 Uhr, frühester Lauf ab 5 km). Ausgabe 2026: Online-Meldung bis 01.05.2026",
+   "checked": "2026-11-05",
+   "start_time": "09:30",
+   "start_place": "Königswiesen/Luisenbad, Schleswig"
+  },
+  {
+   "id": "groemitzer-sun-run-2027",
+   "type": "road",
+   "name": "Grömitzer Sun-Run",
+   "place": "Grömitz",
+   "bezirk": "Ost",
+   "kreis": "LK Ostholstein",
+   "lat": 54.15,
+   "lon": 10.967,
+   "date": "2027-05-09",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10",
+    "HM"
+   ],
+   "url": "https://www.groemitz.de/",
+   "source": "https://www.runme.de/deutschland/groemitzer-sun-run/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-05-23. Startzeit der letzten Ausgabe laut RUNME (5 km um 09:15 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:15"
+   }
+  },
+  {
+   "id": "stadtwerkelauf-niebuell-2027",
+   "type": "road",
+   "name": "Stadtwerkelauf Niebüll",
+   "place": "Niebüll",
+   "bezirk": "Schleswig",
+   "kreis": "LK Nordfriesland",
+   "lat": 54.75,
+   "lon": 8.75,
+   "date": "2027-05-09",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.stadtwerke-lauf-niebüll.de",
+   "source": "https://www.runme.de/deutschland/stadtwerke-lauf-niebuell/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 10:40 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "10:40"
+  },
+  {
+   "id": "bredenbeker-waldlauf-2027",
+   "type": "trail",
+   "name": "Bredenbeker Waldlauf",
+   "place": "Bredenbek",
+   "bezirk": "Mitte",
+   "kreis": "LK Rendsburg-Eckernförde",
+   "lat": 54.322,
+   "lon": 9.873,
+   "date": "2027-05-13",
+   "confirmed": true,
+   "distances": [
+    "5,9",
+    "10,5",
+    "HM"
+   ],
+   "url": "http://www.ssv-bredenbek.de/",
+   "source": "https://www.runme.de/deutschland/waldlauf-bredenbek/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (21,0975 km um 18:15 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "18:15"
+  },
+  {
+   "id": "amrumer-mukoviszidose-lauf-2027",
+   "type": "road",
+   "name": "Amrumer Mukoviszidose-Lauf",
+   "place": "Nebel",
+   "bezirk": "Schleswig",
+   "kreis": "LK Nordfriesland",
+   "lat": 54.651,
+   "lon": 8.354,
+   "date": "2027-05-15",
+   "confirmed": true,
+   "distances": [
+    "26,5",
+    "13,5",
+    "4,5"
+   ],
+   "url": "https://www.hdsports.org/laufen/amrumer-mukoviszidose-lauf",
+   "source": "https://www.hdsports.org/laufen/amrumer-mukoviszidose-lauf",
+   "info": "Termin und Strecken laut HDsports.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "boostedtlauf-2027",
+   "type": "road",
+   "name": "Boostedtlauf",
+   "place": "Boostedt",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Segeberg",
+   "lat": 54.017,
+   "lon": 10.033,
+   "date": "2027-05-15",
+   "confirmed": true,
+   "distances": [
+    "10",
+    "5"
+   ],
+   "url": "https://www.hdsports.org/laufen/boostedtlauf",
+   "source": "https://www.hdsports.org/laufen/boostedtlauf",
+   "info": "Termin und Strecken laut HDsports.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "lauf-rund-um-burg-2027",
+   "type": "road",
+   "name": "Lauf Rund um Burg",
+   "place": "Burg (Dithmarschen)",
+   "bezirk": "Westküste",
+   "kreis": "LK Dithmarschen",
+   "lat": 54,
+   "lon": 9.267,
+   "date": "2027-05-21",
+   "confirmed": true,
+   "distances": [
+    "4,6",
+    "10"
+   ],
+   "url": "http://www.mtv-burg.de/",
+   "source": "https://www.runme.de/deutschland/lauf-rund-um-burg/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. running.life nennt dafür den 2027-06-06. Startzeit laut RUNME (10 km um 19:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "19:00"
+  },
+  {
+   "id": "itzehoer-stoerlauf-2027",
+   "type": "road",
+   "name": "Itzehoer Störlauf",
+   "place": "Itzehoe",
+   "bezirk": "Westküste",
+   "kreis": "LK Steinburg",
+   "lat": 53.927,
+   "lon": 9.564,
+   "date": "2027-05-22",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10",
+    "HM"
+   ],
+   "url": "http://www.stoerlauf.de",
+   "source": "https://www.runme.de/deutschland/stoerlauf-itzehoe/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10 km um 14:30 Uhr, frühester Lauf ab 5 km). Ausgabe 2026: Meldeschluss 25.04.2026",
+   "checked": "2026-11-05",
+   "start_time": "14:30",
+   "showers": "Umkleide-/Duschräume und Taschenaufbewahrung (sofern möglich) in der Sporthalle der AVS"
+  },
+  {
+   "id": "amrumer-mukolauf-2027",
+   "type": "road",
+   "name": "Amrumer Mukolauf",
+   "place": "Nebel",
+   "bezirk": "Schleswig",
+   "kreis": "LK Nordfriesland",
+   "lat": 54.651,
+   "lon": 8.354,
+   "date": "2027-05-22",
+   "confirmed": false,
+   "distances": [
+    "4,5",
+    "13,5",
+    "27"
+   ],
+   "url": "http://www.amrumer-mukolauf.de",
+   "source": "https://www.runme.de/deutschland/amrumer-mukoviszidose-lauf-mukolauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-05-15. Startzeit der letzten Ausgabe laut RUNME (13,5 km um 12:30 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "12:30"
+   }
+  },
+  {
+   "id": "ostufer-fischhallen-lauf-2027",
+   "type": "road",
+   "name": "Ostufer Fischhallen-Lauf",
+   "place": "Kiel",
+   "bezirk": "Mitte",
+   "kreis": "Stadt Kiel",
+   "lat": 54.316,
+   "lon": 10.13,
+   "date": "2027-05-23",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.ltvkiel-ost.de/",
+   "source": "https://www.runme.de/deutschland/ostufer-fischhallen-lauf-kiel/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 09:55 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "09:55"
+  },
+  {
+   "id": "henstedt-ulzburg-laeuft-2027",
+   "type": "road",
+   "name": "Henstedt-Ulzburg läuft",
+   "place": "Henstedt-Ulzburg",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Segeberg",
+   "lat": 53.783,
+   "lon": 10.083,
+   "date": "2027-05-28",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://hu-laeuft.de/",
+   "source": "https://www.runme.de/deutschland/henstedt-ulzburg-laeuft/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 17:00 Uhr, frühester Lauf ab 5 km). Online-Anmeldung bis 17.05.2027, 23:59 Uhr oder bei Erreichen des Teilnehmerlimits",
+   "checked": "2026-11-05",
+   "start_time": "17:00",
+   "reg_close": "2027-05-17",
+   "late_reg": "Nachmeldung nach dem 17.05.2027 möglich, mit höherer Teilnahmegebühr",
+   "pickup": "Startnummernausgabe im Bürgerhaus Henstedt-Ulzburg, Beckersbergstraße 34, 24558 Henstedt-Ulzburg, ab 13:00 Uhr",
+   "showers": "Umkleiden und Duschen im Stadion in unmittelbarer Nähe von Start und Ziel"
+  },
+  {
+   "id": "stockseeer-abendlauf-2027",
+   "type": "road",
+   "name": "Stockseeer Abendlauf",
+   "place": "Stocksee",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Segeberg",
+   "lat": 54.09,
+   "lon": 10.342,
+   "date": "2027-05-29",
+   "confirmed": true,
+   "distances": [
+    "5,6",
+    "10"
+   ],
+   "url": "http://www.tsv-stocksee.de",
+   "source": "https://www.runme.de/deutschland/abendlauf-stocksee/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5,6 km um 17:15 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "17:15"
+  },
+  {
+   "id": "abendlauf-stocksee-2027",
+   "type": "road",
+   "name": "Abendlauf - Stocksee",
+   "place": "Stocksee",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Segeberg",
+   "lat": 54.0893191,
+   "lon": 10.345243,
+   "date": "2027-05-29",
+   "confirmed": false,
+   "distances": [
+    "5,6",
+    "10"
+   ],
+   "url": "https://www.tsv-stocksee.de/veranstaltungen/2913579/2027/05/29/32.-abendlauf-in-stocksee",
+   "source": "https://running.life/de/termine/abendlauf-stocksee",
+   "info": "Termin und Strecken laut running.life/gotrail.run.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "boostedter-lauf-2027",
+   "type": "road",
+   "name": "Boostedter Lauf",
+   "place": "Boostedt",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Segeberg",
+   "lat": 54,
+   "lon": 10.067,
+   "date": "2027-05-29",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.boostedt-lauf.de/",
+   "source": "https://www.runme.de/deutschland/boostedter-volkslauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-06-13.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "tine-flugplatzlauf-husum-schwesing-2027",
+   "type": "road",
+   "name": "Tine-Flugplatzlauf Husum/Schwesing",
+   "place": "Schwesing",
+   "bezirk": "Schleswig",
+   "kreis": "LK Nordfriesland",
+   "lat": 54.495,
+   "lon": 9.135,
+   "date": "2027-05-30",
+   "confirmed": true,
+   "distances": [
+    "10",
+    "5"
+   ],
+   "url": "https://www.hdsports.org/laufen/tine-flugplatzlauf-husum-schwesing",
+   "source": "https://www.hdsports.org/laufen/tine-flugplatzlauf-husum-schwesing",
+   "info": "Termin und Strecken laut HDsports.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "heider-abend-stadtlauf-2027",
+   "type": "road",
+   "name": "Heider Abend-Stadtlauf",
+   "place": "Heide",
+   "bezirk": "Westküste",
+   "kreis": "LK Dithmarschen",
+   "lat": 54.216,
+   "lon": 9.125,
+   "date": "2027-06-04",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://mtv-heide.de/",
+   "source": "https://www.runme.de/deutschland/heider-abend-stadtlauf-wesseln/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 18:45 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "18:45"
+  },
+  {
+   "id": "mittelpunkt-marathon-2027",
+   "type": "road",
+   "name": "Mittelpunkt Marathon",
+   "place": "Nortorf",
+   "bezirk": "Mitte",
+   "kreis": "LK Rendsburg-Eckernförde",
+   "lat": 54.1690107,
+   "lon": 9.8599496,
+   "date": "2027-06-05",
+   "confirmed": false,
+   "distances": [
+    "10",
+    "5"
+   ],
+   "url": "https://running.life/de/termine/mittelpunkt-marathon",
+   "anmeldung_url": "https://my.raceresult.com/427520/",
+   "source": "https://running.life/de/termine/mittelpunkt-marathon",
+   "info": "Termin und Strecken laut running.life/gotrail.run.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "adac-tine-flugplatzlauf-2027",
+   "type": "road",
+   "name": "ADAC-Tine-Flugplatzlauf",
+   "place": "Husum",
+   "bezirk": "Schleswig",
+   "kreis": "LK Nordfriesland",
+   "lat": 54.417,
+   "lon": 9.083,
+   "date": "2027-06-06",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.acnf.de/Veranstaltungen/Lauf-veranstaltungen/",
+   "source": "https://www.runme.de/deutschland/tine-flugplatzlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:45 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:45"
+   }
+  },
+  {
+   "id": "norderstedter-stadtlauf-2027",
+   "type": "road",
+   "name": "Norderstedter Stadtlauf",
+   "place": "Friedrichsgabe (Norderstedt)",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Segeberg",
+   "lat": 53.725,
+   "lon": 10.012,
+   "date": "2027-06-06",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.norderstedter-stadtlauf.de/",
+   "source": "https://www.runme.de/deutschland/arriba-stadtlauf-norderstedt/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 09:00 Uhr). Ausgabe 2026: Anmeldeschluss online 28.05.2026 über davengo",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:00"
+   },
+   "start_place": "Moorbek-Stadion, Moorbekstraße 25, Norderstedt"
+  },
+  {
+   "id": "strassen-lauf-rund-um-ratekau-2027",
+   "type": "road",
+   "name": "Straßen-Lauf Rund um Ratekau",
+   "place": "Ratekau",
+   "bezirk": "Ost",
+   "kreis": "LK Ostholstein",
+   "lat": 53.95,
+   "lon": 10.733,
+   "date": "2027-06-06",
+   "confirmed": false,
+   "distances": [
+    "15",
+    "10",
+    "5"
+   ],
+   "url": "https://www.hdsports.org/laufen/strassenlauf-rund-um-ratekau",
+   "source": "https://www.hdsports.org/laufen/strassenlauf-rund-um-ratekau",
+   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "vabali-sunrise-run-hamburg-2027",
+   "type": "road",
+   "name": "Vabali Sunrise Run Hamburg",
+   "place": "Glinde",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Stormarn",
+   "lat": 53.544,
+   "lon": 10.2,
+   "date": "2027-06-06",
+   "confirmed": true,
+   "distances": [
+    "6,5",
+    "11,5"
+   ],
+   "url": "https://www.vabali.de/hamburg/",
+   "source": "https://www.runme.de/deutschland/vabali-sunrise-run-hamburg/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (6,5 km um 06:30 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "06:30"
+  },
+  {
+   "id": "zvo-energie-strassen-lauf-2027",
+   "type": "road",
+   "name": "ZVO-Energie-Straßen-Lauf",
+   "place": "Ratekau",
+   "bezirk": "Ost",
+   "kreis": "LK Ostholstein",
+   "lat": 53.95,
+   "lon": 10.733,
+   "date": "2027-06-06",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10",
+    "15"
+   ],
+   "url": "http://www.tsv-ratekau.de/",
+   "source": "https://www.runme.de/deutschland/rund-um-ratekau/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (15 km um 09:45 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "09:45"
+  },
+  {
+   "id": "holstenkoestenlauf-2027",
+   "type": "road",
+   "name": "Holstenköstenlauf",
+   "place": "Neumünster",
+   "bezirk": "Mitte",
+   "kreis": "Stadt Neumünster",
+   "lat": 54.072,
+   "lon": 9.983,
+   "date": "2027-06-11",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.holstenkoestenlauf.com/",
+   "source": "https://www.runme.de/deutschland/holstenkoestenlauf-neumuenster/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 17:30 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "17:30"
+   },
+   "fee": "10 km 23 € (bis 25.05.2027), danach 26 €; 5 km 13 € bzw. 16 €; Jugendlauf 1,3 km 2 € bzw. 5 €; Bambini-Lauf 300 m 2 € bzw. 5 €; Läufe zuzüglich 3 € Timing-Gebühr (entfällt mit BMS-Chip)",
+   "reg_close": "2027-05-25",
+   "late_reg": "Online-Nachmeldung ab 26.05.2027 (Barzahlung vor Ort bei Abholung der Startunterlagen), sofern kein Teilnahmelimit erreicht ist",
+   "pickup": "Freitag 11.06.2027 ab 14:00 Uhr im Foyer der Stadthalle Neumünster; Frühabholer Mittwoch 09.06.2027 von 17:00 bis 19:00 Uhr",
+   "start_place": "Veranstaltungsgelände Kleinflecken, Neumünster",
+   "showers": "Toiletten und Umkleidemöglichkeiten am Veranstaltungsgelände Kleinflecken"
+  },
+  {
+   "id": "barmstedter-stadtlauf-2027",
+   "type": "road",
+   "name": "Barmstedter Stadtlauf",
+   "place": "Barmstedt",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Pinneberg",
+   "lat": 53.7889,
+   "lon": 9.7704,
+   "date": "2027-06-13",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.bmtv.de/",
+   "source": "https://www.runme.de/deutschland/stadtlauf-barmstedt/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 09:10 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "09:10"
+  },
+  {
+   "id": "balzburg-marathon-2027",
+   "type": "road",
+   "name": "Balzburg Marathon",
+   "place": "Ellerdorf",
+   "bezirk": "Mitte",
+   "kreis": "LK Rendsburg-Eckernförde",
+   "lat": 54.183,
+   "lon": 9.933,
+   "date": "2027-06-13",
+   "confirmed": false,
+   "distances": [
+    "M"
+   ],
+   "url": "https://www.runme.de/deutschland/balzburg-marathon/",
+   "anmeldung_url": "https://my.raceresult.com/358636/registration",
+   "source": "https://www.runme.de/deutschland/balzburg-marathon/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (42,195 km um 09:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:00"
+   }
+  },
+  {
+   "id": "barsbuetteler-volkslauf-2027",
+   "type": "road",
+   "name": "Barsbütteler Volkslauf",
+   "place": "Barsbüttel",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Stormarn",
+   "lat": 53.567,
+   "lon": 10.167,
+   "date": "2027-06-13",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://volkslauf-bsv.de/",
+   "source": "https://www.runme.de/deutschland/volkslauf-des-barsbuetteler-sv/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-06-20. Startzeit der letzten Ausgabe laut RUNME (10 km um 09:30 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:30"
+   }
+  },
+  {
+   "id": "dalbeklauf-escheburg-2027",
+   "type": "road",
+   "name": "Dalbeklauf Escheburg",
+   "place": "Escheburg",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Herzogtum Lauenburg",
+   "lat": 53.4666,
+   "lon": 10.3101,
+   "date": "2027-06-13",
+   "confirmed": false,
+   "distances": [
+    "HM",
+    "10",
+    "5"
+   ],
+   "url": "https://www.hdsports.org/laufen/dalbeklauf-escheburg",
+   "source": "https://www.hdsports.org/laufen/dalbeklauf-escheburg",
+   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "donatus-lauf-kloevensteen-2027",
+   "type": "road",
+   "name": "Donatus-Lauf Klövensteen",
+   "place": "Klövensteen",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Pinneberg",
+   "lat": 53.6212,
+   "lon": 9.7662,
+   "date": "2027-06-13",
+   "confirmed": false,
+   "distances": [
+    "11,2",
+    "5,6"
+   ],
+   "url": "https://www.hdsports.org/laufen/donatus-lauf-koelventeen",
+   "source": "https://www.hdsports.org/laufen/donatus-lauf-koelventeen",
+   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "handewitter-sommerlauf-2027",
+   "type": "road",
+   "name": "Handewitter Sommerlauf",
+   "place": "Handewitt",
+   "bezirk": "Schleswig",
+   "kreis": "LK Schleswig-Flensburg",
+   "lat": 54.764,
+   "lon": 9.315,
+   "date": "2027-06-13",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10",
+    "HM"
+   ],
+   "url": "http://www.handewittersommerlauf.de/",
+   "source": "https://www.runme.de/deutschland/sommerlauf-handewitt/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-06-27. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:30 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:30"
+   }
+  },
+  {
+   "id": "stadtlauf-kappeln-rund-2027",
+   "type": "road",
+   "name": "Stadtlauf Kappeln Rund",
+   "place": "Kappeln",
+   "bezirk": "Schleswig",
+   "kreis": "LK Schleswig-Flensburg",
+   "lat": 54.7,
+   "lon": 9.95,
+   "date": "2027-06-13",
+   "confirmed": false,
+   "distances": [
+    "5,9",
+    "10"
+   ],
+   "url": "http://www.tsv-kappeln.de/",
+   "source": "https://www.runme.de/deutschland/stadtlauf-kappeln-rund/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,9 km um 10:45 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:45"
+   }
+  },
+  {
+   "id": "stadtlauf-norderstedt-friedrichsgabe-2027",
+   "type": "road",
+   "name": "Stadtlauf Norderstedt - Friedrichsgabe",
+   "place": "Norderstedt",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Segeberg",
+   "lat": 53.725,
+   "lon": 10.012,
+   "date": "2027-06-13",
+   "confirmed": false,
+   "distances": [
+    "10",
+    "5"
+   ],
+   "url": "https://www.hdsports.org/laufen/arriba-stadtlauf-friedrichsgabe",
+   "source": "https://www.hdsports.org/laufen/arriba-stadtlauf-friedrichsgabe",
+   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "immelmannlauf-2027",
+   "type": "road",
+   "name": "Immelmannlauf",
+   "place": "Kropp",
+   "bezirk": "Schleswig",
+   "kreis": "LK Schleswig-Flensburg",
+   "lat": 54.522,
+   "lon": 9.559,
+   "date": "2027-06-16",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.klv-nordfriesland.de/",
+   "source": "https://www.runme.de/deutschland/immelmannlauf-husum/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 18:15 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "18:15"
+  },
+  {
+   "id": "brunsbuettler-citylauf-2027",
+   "type": "road",
+   "name": "Brunsbüttler Citylauf",
+   "place": "Brunsbüttel",
+   "bezirk": "Westküste",
+   "kreis": "LK Dithmarschen",
+   "lat": 53.895,
+   "lon": 9.105,
+   "date": "2027-06-18",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.vfb-brunsbuettel.de",
+   "source": "https://www.runme.de/deutschland/citylauf-brunsbuettel/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 18:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "18:00"
+   }
+  },
+  {
+   "id": "citylauf-brunsbuettel-2027",
+   "type": "road",
+   "name": "Citylauf Brunsbüttel",
+   "place": "Brunsbüttel",
+   "bezirk": "Westküste",
+   "kreis": "LK Dithmarschen",
+   "lat": 53.895,
+   "lon": 9.105,
+   "date": "2027-06-18",
+   "confirmed": false,
+   "distances": [
+    "10",
+    "5"
+   ],
+   "url": "https://www.hdsports.org/laufen/brunsbuetteler-citylauf",
+   "source": "https://www.hdsports.org/laufen/brunsbuetteler-citylauf",
+   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "mittsommernachtslauf-bargstedt-2027",
+   "type": "road",
+   "name": "Mittsommernachtslauf",
+   "place": "Bargstedt",
+   "bezirk": "Mitte",
+   "kreis": "LK Rendsburg-Eckernförde",
+   "lat": 54.2,
+   "lon": 9.767,
+   "date": "2027-06-18",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.tus-bargstedt.de/",
+   "source": "https://www.runme.de/deutschland/mittsommernachtlauf-bargstedt/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 18:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "18:00"
+   }
+  },
+  {
+   "id": "osterroenfelder-moorlauf-2027",
+   "type": "trail",
+   "name": "Osterrönfelder Moorlauf",
+   "place": "Osterrönfeld",
+   "bezirk": "Mitte",
+   "kreis": "LK Rendsburg-Eckernförde",
+   "lat": 54.29,
+   "lon": 9.699,
+   "date": "2027-06-25",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.wetzstopp.de/",
+   "source": "https://www.runme.de/deutschland/moorlauf-osterroenfeld/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 18:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "18:00"
+   }
+  },
+  {
+   "id": "glueckstaedter-citylauf-2027",
+   "type": "road",
+   "name": "Glückstädter Citylauf",
+   "place": "Glückstadt",
+   "bezirk": "Westküste",
+   "kreis": "LK Steinburg",
+   "lat": 53.789,
+   "lon": 9.426,
+   "date": "2027-06-26",
+   "confirmed": false,
+   "distances": [
+    "10",
+    "5"
+   ],
+   "url": "https://www.hdsports.org/laufen/glueckstaedter-citylauf",
+   "source": "https://www.hdsports.org/laufen/glueckstaedter-citylauf",
+   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "mittsommerlauf-2027",
+   "type": "road",
+   "name": "Mittsommerlauf",
+   "place": "Enge-Sande",
+   "bezirk": "Schleswig",
+   "kreis": "LK Nordfriesland",
+   "lat": 54.767,
+   "lon": 8.983,
+   "date": "2027-06-26",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://sv-enge-sande.de/",
+   "source": "https://www.runme.de/deutschland/nospa-mittsommerlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 16:45 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "16:45"
+   }
+  },
+  {
+   "id": "seester-sternenlauf-2027",
+   "type": "road",
+   "name": "Seester Sternenlauf",
+   "place": "Seester",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Pinneberg",
+   "lat": 53.718,
+   "lon": 9.598,
+   "date": "2027-06-27",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://tsvsm.de/",
+   "source": "https://www.runme.de/deutschland/sternenlauf-seester/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 10:30 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:30"
+   }
+  },
+  {
+   "id": "sternenlauf-seester-bei-elmshorn-2027",
+   "type": "road",
+   "name": "Sternenlauf Seester bei Elmshorn",
+   "place": "Seester",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Pinneberg",
+   "lat": 53.718,
+   "lon": 9.598,
+   "date": "2027-06-27",
+   "confirmed": false,
+   "distances": [
+    "10",
+    "5"
+   ],
+   "url": "https://www.hdsports.org/laufen/sternenlauf",
+   "source": "https://www.hdsports.org/laufen/sternenlauf",
+   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "hohner-see-lauf-2027",
+   "type": "road",
+   "name": "Hohner See Lauf",
+   "place": "Hohn",
+   "bezirk": "Mitte",
+   "kreis": "LK Rendsburg-Eckernförde",
+   "lat": 54.333,
+   "lon": 9.533,
+   "date": "2027-06-30",
+   "confirmed": false,
+   "distances": [
+    "6",
+    "10,4"
+   ],
+   "url": "https://www.hohner-see-lauf.de/",
+   "source": "https://www.runme.de/deutschland/hohner-see-lauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 19:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "19:00"
+   },
+   "start_time": "19:00",
+   "fee": "10 km Hauptlauf 8 €, 6 km Kurzlauf 6 €, Bambinilauf 1,4 km 4 € bei Anmeldung bis 25.06.2027",
+   "reg_close": "2027-06-25",
+   "late_reg": "Nachmeldung vor Ort bis 60 Minuten vor dem Start",
+   "start_place": "Hohner Sportplatz, Hohe Straße 11, 24806 Hohn",
+   "parking": "Kostenfreie Parkmöglichkeiten rund um den Hohner Sportplatz",
+   "showers": "Toiletten, Umkleidezelt und Duschen am Hohner Sportplatz"
+  },
+  {
+   "id": "buesumer-volkslauf-2027",
+   "type": "road",
+   "name": "Büsumer Volkslauf",
+   "place": "Büsum",
+   "bezirk": "Westküste",
+   "kreis": "LK Dithmarschen",
+   "lat": 54.15,
+   "lon": 8.9,
+   "date": "2027-07-02",
+   "confirmed": false,
+   "distances": [
+    "5,3",
+    "10"
+   ],
+   "url": "http://www.tsv-buesum.com/",
+   "source": "https://www.runme.de/deutschland/krabben-lauf-buesum/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 19:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "19:00"
+   }
+  },
+  {
+   "id": "breiholzer-sportwochenlauf-2027",
+   "type": "road",
+   "name": "Breiholzer Sportwochenlauf",
+   "place": "Breiholz",
+   "bezirk": "Mitte",
+   "kreis": "LK Rendsburg-Eckernförde",
+   "lat": 54.2074,
+   "lon": 9.5236,
+   "date": "2027-07-06",
+   "confirmed": false,
+   "distances": [
+    "5,3",
+    "10,2"
+   ],
+   "url": "http://www.tsv-breiholz.de/",
+   "source": "https://www.runme.de/deutschland/breiholzer-sportwochenlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,25 km um 18:30 Uhr). Ausgabe 2026: Meldeschluss 06.07.2026, Nachmeldung am Veranstaltungstag ab 17:00 Uhr",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "18:30"
+   },
+   "showers": "Dusch- und Umkleidemöglichkeiten vorhanden"
+  },
+  {
+   "id": "poenitzer-volkslauf-2027",
+   "type": "road",
+   "name": "Pönitzer Volkslauf",
+   "place": "Pönitz",
+   "bezirk": "Ost",
+   "kreis": "LK Ostholstein",
+   "lat": 54.033,
+   "lon": 10.75,
+   "date": "2027-07-11",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10",
+    "HM"
+   ],
+   "url": "http://www.svg-poenitz.de",
+   "source": "https://www.runme.de/deutschland/volkslauf-poenitz/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (21,0975 km um 08:30 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "08:30"
+  },
+  {
+   "id": "nuebelmarathon-2027",
+   "type": "road",
+   "name": "Nübelmarathon",
+   "place": "Nübel",
+   "bezirk": "Schleswig",
+   "kreis": "LK Schleswig-Flensburg",
+   "lat": 54.567,
+   "lon": 9.583,
+   "date": "2027-07-11",
+   "confirmed": false,
+   "distances": [
+    "10",
+    "HM",
+    "M"
+   ],
+   "url": "https://www.tvk-nuebel.de/",
+   "source": "https://www.runme.de/deutschland/nuebelmarathon/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (43,2 km um 09:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:00"
+   }
+  },
+  {
+   "id": "bokeler-windmuehlenlauf-2027",
+   "type": "road",
+   "name": "Bokeler Windmühlenlauf",
+   "place": "Bokel",
+   "bezirk": "Mitte",
+   "kreis": "LK Rendsburg-Eckernförde",
+   "lat": 54.267,
+   "lon": 9.85,
+   "date": "2027-07-23",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://windmuehlenlauf.de/",
+   "source": "https://www.runme.de/deutschland/bokeler-windmuehlen-lauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 18:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "18:00"
+  },
+  {
+   "id": "mitternachtslauf-heiligenhafen-2027",
+   "type": "road",
+   "name": "Mitternachtslauf Heiligenhafen",
+   "place": "Heiligenhafen",
+   "bezirk": "Ost",
+   "kreis": "LK Ostholstein",
+   "lat": 54.37,
+   "lon": 10.98,
+   "date": "2027-07-23",
+   "confirmed": false,
+   "distances": [
+    "5,5",
+    "10"
+   ],
+   "url": "http://www.mitternachtslauf.de",
+   "source": "https://www.runme.de/deutschland/mitternachtslauf-heiligenhafen/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,5 km um 21:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "21:00"
+   }
+  },
+  {
+   "id": "markttagelauf-2027",
+   "type": "road",
+   "name": "Markttagelauf",
+   "place": "Bredstedt",
+   "bezirk": "Schleswig",
+   "kreis": "LK Nordfriesland",
+   "lat": 54.583,
+   "lon": 9.017,
+   "date": "2027-07-31",
+   "confirmed": true,
+   "distances": [
+    "5"
+   ],
+   "url": "https://bredstedter-markttage.de/",
+   "source": "https://www.runme.de/deutschland/markttagelauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 14:15 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "14:15"
+  },
+  {
+   "id": "markttage-lauf-bredstedt-2027",
+   "type": "road",
+   "name": "Markttage-Lauf Bredstedt",
+   "place": "Bredstedt",
+   "bezirk": "Schleswig",
+   "kreis": "LK Nordfriesland",
+   "lat": 54.619,
+   "lon": 8.964,
+   "date": "2027-07-31",
+   "confirmed": true,
+   "distances": [
+    "5"
+   ],
+   "url": "https://www.hdsports.org/laufen/markttage-lauf-bredstedt",
+   "source": "https://www.hdsports.org/laufen/markttage-lauf-bredstedt",
+   "info": "Termin und Strecken laut HDsports.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "ostseeman-2027",
+   "type": "road",
+   "name": "OstseeMan",
+   "place": "Glücksburg (Ostsee)",
+   "bezirk": "Schleswig",
+   "kreis": "LK Schleswig-Flensburg",
+   "lat": 54.8,
+   "lon": 9.567,
+   "date": "2027-07-31",
+   "confirmed": true,
+   "distances": [
+    "5,5"
+   ],
+   "url": "http://www.ostseeman.de",
+   "source": "https://www.runme.de/deutschland/ostseeman/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5,5 km um 17:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "17:00"
+  },
+  {
+   "id": "wyker-stadtlauf-2027",
+   "type": "road",
+   "name": "Wyker Stadtlauf",
+   "place": "Wyk auf Föhr",
+   "bezirk": "Schleswig",
+   "kreis": "LK Nordfriesland",
+   "lat": 54.7,
+   "lon": 8.441,
+   "date": "2027-08-01",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.foehr.de/",
+   "source": "https://www.runme.de/deutschland/wyker-stadtlauf-wyk-auf-foehr/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 12:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "12:00"
+   }
+  },
+  {
+   "id": "cj-schmidt-hafentagelauf-2027",
+   "type": "road",
+   "name": "CJ Schmidt Hafentagelauf",
+   "place": "Husum",
+   "bezirk": "Schleswig",
+   "kreis": "LK Nordfriesland",
+   "lat": 54.417,
+   "lon": 9.083,
+   "date": "2027-08-07",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.sportinhusum.de/",
+   "source": "https://www.runme.de/deutschland/husumer-hafentagelauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 15:45 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "15:45"
+  },
+  {
+   "id": "diekseelauf-2027",
+   "type": "road",
+   "name": "Diekseelauf",
+   "place": "Bad Malente",
+   "bezirk": "Mitte",
+   "kreis": "LK Plön",
+   "lat": 54.2,
+   "lon": 10.683,
+   "date": "2027-08-08",
+   "confirmed": false,
+   "distances": [
+    "6",
+    "11,5"
+   ],
+   "url": "http://www.diekseelauf.de/",
+   "source": "https://www.runme.de/deutschland/sparkassen-diekseelauf-bad-malente/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (11,5 km um 09:30 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:30"
+   }
+  },
+  {
+   "id": "europalauf-neustadt-2027",
+   "type": "road",
+   "name": "Europalauf Neustadt",
+   "place": "Neustadt in Holstein",
+   "bezirk": "Ost",
+   "kreis": "LK Ostholstein",
+   "lat": 54.107,
+   "lon": 10.815,
+   "date": "2027-08-08",
+   "confirmed": false,
+   "distances": [
+    "HM",
+    "10",
+    "5"
+   ],
+   "url": "https://www.hdsports.org/laufen/stadtwerke-europalauf-neustadt",
+   "source": "https://www.hdsports.org/laufen/stadtwerke-europalauf-neustadt",
+   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "v-office-europalauf-2027",
+   "type": "road",
+   "name": "v-office-Europalauf",
+   "place": "Neustadt in Holstein",
+   "bezirk": "Ost",
+   "kreis": "LK Ostholstein",
+   "lat": 54.133,
+   "lon": 10.883,
+   "date": "2027-08-08",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10",
+    "HM"
+   ],
+   "url": "http://www.tsv-neustadt-europalauf.de/",
+   "source": "https://www.runme.de/deutschland/stadtwerke-europalauf-neustadt-holstein/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 09:00 Uhr). Ausgabe 2026: Meldeschluss 06.08.2026",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:00"
+   },
+   "showers": "Umkleiden und Duschen im Kurzentrum Soziales Genesungswerk (SGW), Dünenweg 1, 23730 Pelzerhaken"
+  },
+  {
+   "id": "hafentagelauf-husum-2027",
+   "type": "road",
+   "name": "Hafentagelauf Husum",
+   "place": "Husum",
+   "bezirk": "Schleswig",
+   "kreis": "LK Nordfriesland",
+   "lat": 54.486,
+   "lon": 9.052,
+   "date": "2027-08-14",
+   "confirmed": false,
+   "distances": [
+    "10"
+   ],
+   "url": "https://www.hdsports.org/laufen/hafentagelauf",
+   "source": "https://www.hdsports.org/laufen/hafentagelauf",
+   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "buntekuhlauf-2027",
+   "type": "road",
+   "name": "Buntekuhlauf",
+   "place": "Lübeck",
+   "bezirk": "Ost",
+   "kreis": "Stadt Lübeck",
+   "lat": 53.867,
+   "lon": 10.648,
+   "date": "2027-08-20",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10",
+    "15"
+   ],
+   "url": "http://www.buntekuhlauf.de/",
+   "source": "https://www.runme.de/deutschland/buntekuh-lauf-luebeck/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 17:30 Uhr). Ausgabe 2026: Meldeschluss 16.08.2026, Startunterlagen am Veranstaltungstag ab 15 Uhr",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "17:30"
+   },
+   "start_place": "Sportplatz am Koggenweg, Lübeck-Buntekuh",
+   "showers": "Umkleideräume und Duschen am Sportplatz"
+  },
+  {
+   "id": "strassenlauf-rund-um-den-holtenauer-leuchtturm-2027",
+   "type": "road",
+   "name": "Straßenlauf Rund um den Holtenauer Leuchtturm",
+   "place": "Kiel",
+   "bezirk": "Mitte",
+   "kreis": "Stadt Kiel",
+   "lat": 54.397,
+   "lon": 10.15,
+   "date": "2027-08-27",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.tus-holtenau.de/",
+   "source": "https://www.runme.de/deutschland/mare-strassenlauf-kiel/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 18:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "18:00"
+  },
+  {
+   "id": "birklauf-2027",
+   "type": "road",
+   "name": "Birklauf",
+   "place": "Gelting",
+   "bezirk": "Schleswig",
+   "kreis": "LK Schleswig-Flensburg",
+   "lat": 54.767,
+   "lon": 9.933,
+   "date": "2027-08-28",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "16,0"
+   ],
+   "url": "https://www.mtv-gelting-08.de/",
+   "source": "https://www.runme.de/deutschland/birklauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (16,04 km um 17:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "17:00"
+   },
+   "start_place": "Birkhalle Gelting (mit Parkplätzen, Umkleiden und Duschen)",
+   "showers": "Umkleiden und Duschen in der Birkhalle Gelting",
+   "late_reg": "Nachmeldung am Veranstaltungstag vor Ort gegen 3 € Zusatzgebühr"
+  },
+  {
+   "id": "city-lauf-moelln-2027",
+   "type": "road",
+   "name": "City Lauf Mölln",
+   "place": "Mölln",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Herzogtum Lauenburg",
+   "lat": 53.617,
+   "lon": 10.687,
+   "date": "2027-08-28",
+   "confirmed": false,
+   "distances": [
+    "10"
+   ],
+   "url": "https://www.moellnersv.de/",
+   "source": "https://www.runme.de/deutschland/moellner-city-lauf-moelln/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (8 km um 15:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "15:00"
+   }
+  },
+  {
+   "id": "moellner-city-lauf-2027",
+   "type": "road",
+   "name": "Möllner City-Lauf",
+   "place": "Mölln",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Herzogtum Lauenburg",
+   "lat": 53.617,
+   "lon": 10.687,
+   "date": "2027-08-28",
+   "confirmed": true,
+   "distances": [
+    "10",
+    "7"
+   ],
+   "url": "https://www.hdsports.org/laufen/moellner-city-lauf",
+   "source": "https://www.hdsports.org/laufen/moellner-city-lauf",
+   "info": "Termin und Strecken laut HDsports.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "hamburg-airport-abendlauf-2027",
+   "type": "road",
+   "name": "Hamburg Airport Abendlauf",
+   "place": "Norderstedt",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Segeberg",
+   "lat": 53.725,
+   "lon": 10.012,
+   "date": "2027-09-01",
+   "confirmed": false,
+   "distances": [
+    "4,6",
+    "6,9",
+    "9,2"
+   ],
+   "url": "https://norderstedt-abendlauf.de/",
+   "source": "https://www.runme.de/deutschland/hamburg-airport-abendlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6,9 km um 19:00 Uhr). Ausgabe 2026: Nachmeldung online und am Veranstaltungstag bis 18:45 Uhr gegen 5 € Gebühr",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "19:00",
+    "fee": "15 € bis 23.08.2026, danach 20 €; Staffel 60 €"
+   }
+  },
+  {
+   "id": "suedseitenlauf-2027",
+   "type": "road",
+   "name": "Südseitenlauf",
+   "place": "Brunsbüttel",
+   "bezirk": "Westküste",
+   "kreis": "LK Dithmarschen",
+   "lat": 53.895,
+   "lon": 9.105,
+   "date": "2027-09-03",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.suedseitenlauf.de/",
+   "source": "https://www.runme.de/deutschland/suedseitenlauf-brunsbuettel/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 18:20 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "18:20",
+    "fee": "Kinder und Jugend 5 €, Frauen, Männer, Senioren 11 €"
+   },
+   "start_place": "Großsporthalle Süd (Jahnstraße), Brunsbüttel",
+   "showers": "Umkleide- und Duschmöglichkeiten in der Sporthalle Süd"
+  },
+  {
+   "id": "fehmarn-marathon-2027",
+   "type": "road",
+   "name": "Fehmarn Marathon",
+   "place": "Fehmarn",
+   "bezirk": "Ost",
+   "kreis": "LK Ostholstein",
+   "lat": 54.438,
+   "lon": 11.194,
+   "date": "2027-09-04",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "12,1",
+    "HM",
+    "M"
+   ],
+   "url": "https://fehmarn-marathon.de/",
+   "source": "https://www.runme.de/deutschland/fehmarn-marathon-fehrmarn/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (42,195 km um 09:30 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "09:30"
+  },
+  {
+   "id": "volkslauf-bei-olympia-2027",
+   "type": "road",
+   "name": "Volkslauf bei Olympia",
+   "place": "Neumünster",
+   "bezirk": "Mitte",
+   "kreis": "Stadt Neumünster",
+   "lat": 54.0757,
+   "lon": 9.9815,
+   "date": "2027-09-04",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.otn-olympia-volkslauf.de/",
+   "source": "https://www.runme.de/deutschland/volkslauf-in-neumuenster/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 17:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "17:00"
+   }
+  },
+  {
+   "id": "stadtwerkelauf-pinneberg-2027",
+   "type": "road",
+   "name": "Stadtwerkelauf Pinneberg",
+   "place": "Pinneberg",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Pinneberg",
+   "lat": 53.659,
+   "lon": 9.801,
+   "date": "2027-09-05",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.vfl-pinneberg.de/",
+   "source": "https://www.runme.de/deutschland/stadtwerkelauf-pinneberg/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 11:30 Uhr, frühester Lauf ab 5 km). Ausgabe 2026: Anmeldeschluss 30.08.2026, Online-Nachmeldung bis eine Stunde vor dem Start gegen 5 € Zuschlag",
+   "checked": "2026-11-05",
+   "start_time": "11:30",
+   "start_place": "Straße Am Drosteipark, Pinneberg"
+  },
+  {
+   "id": "flensburg-liebt-dich-marathon-2027",
+   "type": "road",
+   "name": "Flensburg liebt dich Marathon",
+   "place": "Flensburg",
+   "bezirk": "Schleswig",
+   "kreis": "Stadt Flensburg",
+   "lat": 54.786,
+   "lon": 9.431,
+   "date": "2027-09-05",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10",
+    "HM",
+    "M"
+   ],
+   "url": "https://flensburg-marathon.de/",
+   "source": "https://www.runme.de/deutschland/flensburg-liebt-dich-marathon/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (42,195 km um 09:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "09:00"
+  },
+  {
+   "id": "sachsenwaldlauf-2027",
+   "type": "trail",
+   "name": "Sachsenwaldlauf",
+   "place": "Schwarzenbek",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Herzogtum Lauenburg",
+   "lat": 53.55,
+   "lon": 10.467,
+   "date": "2027-09-05",
+   "confirmed": false,
+   "distances": [
+    "5,6",
+    "10",
+    "HM"
+   ],
+   "url": "https://www.sachsenwaldlauf.de/",
+   "source": "https://www.runme.de/deutschland/sachsenwald-lauf-schwarzenbek/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 10:05 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:05"
+   }
+  },
+  {
+   "id": "lauf-durch-die-osterdoerfer-2027",
+   "type": "road",
+   "name": "Lauf durch die Osterdörfer",
+   "place": "Arlewatt",
+   "bezirk": "Schleswig",
+   "kreis": "LK Nordfriesland",
+   "lat": 54.533,
+   "lon": 9.083,
+   "date": "2027-09-11",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.sz-arlewatt.de/",
+   "source": "https://www.runme.de/deutschland/lauf-durch-die-osterdoerfer/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "oldenburger-hospizlauf-2027",
+   "type": "road",
+   "name": "Oldenburger Hospizlauf",
+   "place": "Oldenburg i. Holstein",
+   "bezirk": "Ost",
+   "kreis": "LK Ostholstein",
+   "lat": 54.283,
+   "lon": 10.95,
+   "date": "2027-09-11",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10",
+    "HM",
+    "85"
+   ],
+   "url": "https://oldenburger-hospizlauf.de/",
+   "source": "https://www.runme.de/deutschland/oldenburger-hospizlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (200 km um 08:00 Uhr). Benefizlauf für das Hospiz Ostholstein: Ultralauf 85 km, Halbmarathon, 10 km, 5 km und 2-km-Jedermannlauf",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "08:00"
+   },
+   "reg_close": "2027-09-04",
+   "late_reg": "Nachmeldung nach dem 04.09.2027 weiterhin über die Onlineanmeldung oder vor Ort bis eine Stunde vor dem Start",
+   "pickup": "Freitag 10.09.2027 von 15:00 bis 18:00 Uhr und am Veranstaltungstag",
+   "showers": "Dusch- und Umkleidemöglichkeiten auf der Sportanlage"
+  },
+  {
+   "id": "scanafeld-lauf-2027",
+   "type": "road",
+   "name": "Scanafeld-Lauf",
+   "place": "Schenefeld",
+   "bezirk": "Westküste",
+   "kreis": "LK Steinburg",
+   "lat": 54.083,
+   "lon": 9.517,
+   "date": "2027-09-11",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://ts-schenefeld.de/",
+   "source": "https://www.runme.de/deutschland/scanafeld-lauf-schenefeld/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 15:20 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "15:20"
+   }
+  },
+  {
+   "id": "tangstedter-dorflauf-storchenlauf-2027",
+   "type": "road",
+   "name": "Tangstedter Dorflauf & Storchenlauf",
+   "place": "Tangstedt",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Pinneberg",
+   "lat": 53.677,
+   "lon": 9.849,
+   "date": "2027-09-11",
+   "confirmed": false,
+   "distances": [
+    "9",
+    "HM"
+   ],
+   "url": "http://dorflauf.wetzstopp.de/",
+   "source": "https://www.runme.de/deutschland/jubilaeumsjahr-dorflauf-tangstedt/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-09-18. Startzeit der letzten Ausgabe laut RUNME (21,1 km um 13:00 Uhr). Ausgabe 2026: Meldeschluss 08.09.2026",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "13:00"
+   },
+   "start_place": "Kinder- und Jugendhaus Tangstedt, Brummerackerweg 10",
+   "showers": "Toiletten sowie Umkleiden und Duschen im Kinder- und Jugendhaus Tangstedt",
+   "parking": "Parkmöglichkeiten auf der Wiese neben dem Start (Brummerackerweg)"
+  },
+  {
+   "id": "kiel-lauf-2027",
+   "type": "road",
+   "name": "Kiel.Lauf",
+   "place": "Kiel",
+   "bezirk": "Mitte",
+   "kreis": "Stadt Kiel",
+   "lat": 54.321,
+   "lon": 10.133,
+   "date": "2027-09-12",
+   "confirmed": false,
+   "distances": [
+    "5,3",
+    "10,4",
+    "HM"
+   ],
+   "url": "http://www.kiellauf.de/",
+   "source": "https://www.runme.de/deutschland/kiel-lauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,3 km um 09:15 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:15"
+   }
+  },
+  {
+   "id": "sachsenwald-lauf-schwarzenbek-2027",
+   "type": "trail",
+   "name": "Sachsenwald-Lauf Schwarzenbek",
+   "place": "Schwarzenbek",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Herzogtum Lauenburg",
+   "lat": 53.503,
+   "lon": 10.481,
+   "date": "2027-09-12",
+   "confirmed": false,
+   "distances": [
+    "HM",
+    "10",
+    "5,6"
+   ],
+   "url": "https://www.hdsports.org/laufen/sachsenwaldlauf",
+   "source": "https://www.hdsports.org/laufen/sachsenwaldlauf",
+   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "devil-s-loop-langenberg-backyard-ultramarathon-2027",
+   "type": "trail",
+   "name": "Devil's Loop - Langenberg Backyard Ultramarathon",
+   "place": "Leck",
+   "bezirk": "Schleswig",
+   "kreis": "LK Nordfriesland",
+   "lat": 54.7715331,
+   "lon": 8.9759886,
+   "date": "2027-09-18",
+   "confirmed": false,
+   "distances": [
+    "6,66"
+   ],
+   "url": "https://devils-loop.de",
+   "anmeldung_url": "https://my.raceresult.com/426506/",
+   "source": "https://running.life/de/termine/devils-loop-langenberg-backyard-ultramarathon",
+   "info": "Termin und Strecken laut running.life/gotrail.run. Start 18.09.2027 um 8:00 Uhr, Wettkampfbesprechung 7:40 Uhr",
+   "checked": "2026-11-05",
+   "start_time": "08:00"
+  },
+  {
+   "id": "insellauf-rund-um-amrum-2027",
+   "type": "road",
+   "name": "Insellauf Rund um Amrum",
+   "place": "Norddorf auf Amrum",
+   "bezirk": "Schleswig",
+   "kreis": "LK Nordfriesland",
+   "lat": 54.651,
+   "lon": 8.354,
+   "date": "2027-09-18",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "16,5",
+    "31,5"
+   ],
+   "url": "https://www.amrum.de/",
+   "source": "https://www.runme.de/deutschland/insellauf-rund-um-amrum/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 11:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "11:00"
+   }
+  },
+  {
+   "id": "wilstermarsch-lauf-2027",
+   "type": "road",
+   "name": "Wilstermarsch Lauf",
+   "place": "Wilster",
+   "bezirk": "Westküste",
+   "kreis": "LK Steinburg",
+   "lat": 53.967,
+   "lon": 9.35,
+   "date": "2027-09-18",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.mtv-wilster.de/",
+   "source": "https://www.runme.de/deutschland/wilstermarschlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 17:15 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "17:15"
+   }
+  },
+  {
+   "id": "bordesholmer-seelauf-see-run-2027",
+   "type": "road",
+   "name": "Bordesholmer Seelauf SEE +RUN",
+   "place": "Bordesholm",
+   "bezirk": "Mitte",
+   "kreis": "LK Rendsburg-Eckernförde",
+   "lat": 54.176,
+   "lon": 10.031,
+   "date": "2027-09-19",
+   "confirmed": false,
+   "distances": [
+    "4,8",
+    "10"
+   ],
+   "url": "http://www.see-and-run.de/",
+   "source": "https://www.runme.de/deutschland/see-und-run-bordesholm/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 10:25 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:25"
+   }
+  },
+  {
+   "id": "grebinlauf-2027",
+   "type": "road",
+   "name": "Grebinlauf",
+   "place": "Grebin",
+   "bezirk": "Mitte",
+   "kreis": "LK Plön",
+   "lat": 54.2,
+   "lon": 10.5,
+   "date": "2027-09-19",
+   "confirmed": false,
+   "distances": [
+    "4,5",
+    "10,5"
+   ],
+   "url": "https://kwg-grebin.de/",
+   "source": "https://www.runme.de/deutschland/grebinlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10,5 km um 11:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "11:00"
+   }
+  },
+  {
+   "id": "lohelauf-2027",
+   "type": "road",
+   "name": "Lohelauf",
+   "place": "Wentorf bei Hamburg",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Herzogtum Lauenburg",
+   "lat": 53.5,
+   "lon": 10.25,
+   "date": "2027-09-19",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "6",
+    "9"
+   ],
+   "url": "http://www.sc-wentorf.de/",
+   "source": "https://www.runme.de/deutschland/lohelauf-wentorf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:05 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:05"
+   }
+  },
+  {
+   "id": "run-ums-rantumbecken-2027",
+   "type": "road",
+   "name": "RUN ums Rantumbecken",
+   "place": "Sylt",
+   "bezirk": "Schleswig",
+   "kreis": "LK Nordfriesland",
+   "lat": 54.861,
+   "lon": 8.411,
+   "date": "2027-09-19",
+   "confirmed": false,
+   "distances": [
+    "10"
+   ],
+   "url": "http://www.insel-sylt.de/jaehrliche-highlights/jaehrliche-highlights-sportveranstaltungen/run-ums-rantumbecken/",
+   "source": "https://www.runme.de/deutschland/run-ums-rantumbecken-sylt-rantum/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 10:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "weddelbrooker-dorflauf-2027",
+   "type": "road",
+   "name": "Weddelbrooker Dorflauf",
+   "place": "Weddelbrook",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Segeberg",
+   "lat": 53.924,
+   "lon": 9.853,
+   "date": "2027-09-19",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.tsvweddelbrook.de",
+   "source": "https://www.runme.de/deutschland/weddelbrooker-dorflauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 14:10 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "14:10"
+   }
+  },
+  {
+   "id": "hohenlockstedter-pellkartoffellauf-2027",
+   "type": "road",
+   "name": "Hohenlockstedter Pellkartoffellauf",
+   "place": "Hohenlockstedt",
+   "bezirk": "Westküste",
+   "kreis": "LK Steinburg",
+   "lat": 53.967,
+   "lon": 9.617,
+   "date": "2027-09-25",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://tsv-lola.de/",
+   "source": "https://www.runme.de/deutschland/hohenlockstedter-pellkartoffellauf_2/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 14:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "14:00"
+   }
+  },
+  {
+   "id": "hohenlockstedter-pellkartoffellauf-2027-2",
+   "type": "road",
+   "name": "Hohenlock­stedter Pell­kartoffellauf",
+   "place": "Hohenlockstedt",
+   "bezirk": "Westküste",
+   "kreis": "LK Steinburg",
+   "lat": 53.967,
+   "lon": 9.617,
+   "date": "2027-09-25",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.tsv-lola.de/",
+   "source": "https://www.runme.de/deutschland/hohenlockstedter-pellkartoffellauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 14:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "14:00"
+   }
+  },
+  {
+   "id": "city-lauf-luebeck-2027",
+   "type": "road",
+   "name": "City-Lauf Lübeck",
+   "place": "Lübeck",
+   "bezirk": "Ost",
+   "kreis": "Stadt Lübeck",
+   "lat": 53.868,
+   "lon": 10.685,
+   "date": "2027-09-26",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://city-lauf-luebeck.de/",
+   "source": "https://www.runme.de/deutschland/hanserun-luebeck/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 11:25 Uhr). Ausgabe 2026: Online-Anmeldeschluss 13.09.2026",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "11:25"
+   },
+   "showers": "Sanitäre Anlagen des Zentralbades",
+   "pickup": "Zippel's Läuferwelt Lübeck, Beckergrube 24-26, in der Woche vor dem Lauf und am Veranstaltungstag im Veranstalterzelt ab 09:00 Uhr (Ausgabe 2026)"
+  },
+  {
+   "id": "elmshorner-stadtlauf-2027",
+   "type": "road",
+   "name": "Elmshorner Stadtlauf",
+   "place": "Elmshorn",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Pinneberg",
+   "lat": 53.758,
+   "lon": 9.698,
+   "date": "2027-09-26",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.elmshorner-stadtlauf.de/",
+   "source": "https://www.runme.de/deutschland/stadtlauf-elmshorn/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 09:30 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:30"
+   }
+  },
+  {
+   "id": "marner-kohltagelauf-2027",
+   "type": "road",
+   "name": "Marner Kohltagelauf",
+   "place": "Marne",
+   "bezirk": "Westküste",
+   "kreis": "LK Dithmarschen",
+   "lat": 53.952,
+   "lon": 9.011,
+   "date": "2027-09-26",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://marner-kohltagelauf.com/",
+   "source": "https://www.runme.de/deutschland/marner-kohltagelauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 10:30 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:30"
+   }
+  },
+  {
+   "id": "schusterlauf-2027",
+   "type": "road",
+   "name": "Schusterlauf",
+   "place": "Preetz",
+   "bezirk": "Mitte",
+   "kreis": "LK Plön",
+   "lat": 54.233,
+   "lon": 10.367,
+   "date": "2027-09-26",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "16"
+   ],
+   "url": "http://www.sohlenkiller.de",
+   "source": "https://www.runme.de/deutschland/preetzer-schusterlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:30 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:30"
+   }
+  },
+  {
+   "id": "buedelsdorfer-eiderlauf-2027",
+   "type": "road",
+   "name": "Büdelsdorfer Eiderlauf",
+   "place": "Büdelsdorf",
+   "bezirk": "Mitte",
+   "kreis": "LK Rendsburg-Eckernförde",
+   "lat": 54.333,
+   "lon": 9.667,
+   "date": "2027-10-03",
+   "confirmed": false,
+   "distances": [
+    "5,3",
+    "10,9"
+   ],
+   "url": "http://eiderlauf.athletico-buedelsdorf.de/",
+   "source": "https://www.runme.de/deutschland/eiderlauf-buedelsdorf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10,9 km um 10:30 Uhr). Ausgabe 2026: Online-Meldung bis 27.09.2026",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:30"
+   },
+   "start_place": "Eiderstadion, Hermann-Ehlers-Platz 4, Büdelsdorf",
+   "showers": "Umkleiden und Duschen im Eiderstadion",
+   "parking": "Parkplätze am Freibad Büdelsdorf (Hermann-Ehlers-Platz 5) und am BTSV-Heim (Hermann-Ehlers-Platz 4)"
+  },
+  {
+   "id": "duvenstedter-dorflauf-2027",
+   "type": "road",
+   "name": "Duvenstedter Dorflauf",
+   "place": "Alt Duvenstedt",
+   "bezirk": "Mitte",
+   "kreis": "LK Rendsburg-Eckernförde",
+   "lat": 54.367,
+   "lon": 9.65,
+   "date": "2027-10-03",
+   "confirmed": false,
+   "distances": [
+    "5,5",
+    "10,6"
+   ],
+   "url": "http://www.duvenstedter-dorflauf.de/",
+   "source": "https://www.runme.de/deutschland/duvenstedter-dorflauf-alt-duvenstedt/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10,6 km um 10:45 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:45"
+   }
+  },
+  {
+   "id": "idstedt-marathon-2027",
+   "type": "road",
+   "name": "Idstedt Marathon",
+   "place": "Idstedt",
+   "bezirk": "Schleswig",
+   "kreis": "LK Schleswig-Flensburg",
+   "lat": 54.583,
+   "lon": 9.517,
+   "date": "2027-10-03",
+   "confirmed": false,
+   "distances": [
+    "M"
+   ],
+   "url": "https://www.runme.de/deutschland/idstedt-marathon/",
+   "anmeldung_url": "https://my.raceresult.com/419211/",
+   "source": "https://www.runme.de/deutschland/idstedt-marathon/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (42,5 km um 10:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "wald-und-heidelauf-kremperheide-2027",
+   "type": "trail",
+   "name": "Wald- und Heidelauf Kremperheide",
+   "place": "Kremperheide",
+   "bezirk": "Westküste",
+   "kreis": "LK Steinburg",
+   "lat": 53.887,
+   "lon": 9.478,
+   "date": "2027-10-03",
+   "confirmed": false,
+   "distances": [
+    "6",
+    "10"
+   ],
+   "url": "http://www.lauftreff-kremperheide.de/",
+   "source": "https://www.runme.de/deutschland/wald-und-heidelauf-kremperheide/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 14:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "14:00"
+   }
+  },
+  {
+   "id": "luebeck-marathon-2027",
+   "type": "road",
+   "name": "Lübeck Marathon",
+   "place": "Lübeck",
+   "bezirk": "Ost",
+   "kreis": "Stadt Lübeck",
+   "lat": 53.917,
+   "lon": 10.807,
+   "date": "2027-10-17",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10",
+    "HM",
+    "M"
+   ],
+   "url": "https://swhl-marathon.de/",
+   "source": "https://www.runme.de/deutschland/stadtwerke-luebeck-marathon/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:00 Uhr). Ausgabe 2026: Anmeldeschluss 04.10.2026",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00",
+    "fee": "Marathon 45 € (Early Bird bis 31.03.2026), bis 85 € bei Nachmeldung ab 05.10.2026; Duo Marathon 70 € bis 125 €"
+   },
+   "showers": "Umkleiden und Duschen im Zentralbad, Schmiedestraße 5-7, 23552 Lübeck (Ausgabe 2026)",
+   "pickup": "Große Börse (Rathaus Seiteneingang Markt), Breite Straße, am Freitag 13:00 bis 18:00 Uhr und Samstag 10:00 bis 18:00 Uhr (Ausgabe 2026)"
+  },
+  {
+   "id": "lg-alsternord-herbstwaldlauf-norderstedt-2027",
+   "type": "trail",
+   "name": "LG Alsternord Herbstwaldlauf Norderstedt",
+   "place": "Norderstedt",
+   "bezirk": "Hamburger Rand",
+   "kreis": "LK Segeberg",
+   "lat": 53.725,
+   "lon": 10.012,
+   "date": "2027-10-31",
+   "confirmed": false,
+   "distances": [
+    "10",
+    "5"
+   ],
+   "url": "https://www.hdsports.org/laufen/lg-alsternord-herbstwaldlauf-norderstedt",
+   "source": "https://www.hdsports.org/laufen/lg-alsternord-herbstwaldlauf-norderstedt",
+   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "tiergarten-cross-schleswig-2027",
+   "type": "trail",
+   "name": "Tiergarten-Cross Schleswig",
+   "place": "Schleswig",
+   "bezirk": "Schleswig",
+   "kreis": "LK Schleswig-Flensburg",
+   "lat": 54.522,
+   "lon": 9.559,
+   "date": "2027-10-31",
+   "confirmed": false,
+   "distances": [
+    "8"
+   ],
+   "url": "https://www.hdsports.org/laufen/tiergarten-cross-schleswig",
+   "source": "https://www.hdsports.org/laufen/tiergarten-cross-schleswig",
+   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "kiel-marathon-2027",
+   "type": "road",
+   "name": "Kiel Marathon",
+   "place": "Kiel",
+   "bezirk": "Mitte",
+   "kreis": "Stadt Kiel",
+   "lat": 54.333,
+   "lon": 10.118,
+   "date": "2027-02-27",
+   "confirmed": false,
+   "distances": [
+    "10",
+    "HM",
+    "M"
+   ],
+   "url": "https://racenotify.com/en/event/29-kiel-marathon-2027",
+   "source": "https://racenotify.com/en/event/29-kiel-marathon-2027",
+   "info": "Termin Samstag 27.02.2027 laut Kalenderseite racenotify.com (29. Kiel Marathon mit Marathon, Halbmarathon und 10 km, Start 09:00 Uhr, Asphalt), vom Veranstalter noch nicht geprüft.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "jatznicker-waldlauf-2026",
+   "type": "trail",
+   "name": "Jatznicker Waldlauf",
+   "place": "Jatznick",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Greifswald",
+   "lat": 53.544,
+   "lon": 13.905,
+   "date": "2026-11-07",
+   "confirmed": true,
+   "distances": [
+    "7,5",
+    "12"
+   ],
+   "url": "http://sv-scn-energy-torgelow.de/",
+   "source": "https://www.runme.de/deutschland/jatznicker-waldlauf-torgelow/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (7,5 km um 09:45 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "09:45"
+  },
+  {
+   "id": "rostocker-herbstlauf-2026",
+   "type": "road",
+   "name": "Rostocker Herbstlauf",
+   "place": "Rostock",
+   "bezirk": "Rostock",
+   "kreis": "Stadt Rostock",
+   "lat": 54.083,
+   "lon": 12.133,
+   "date": "2026-11-08",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.rostocker-herbstlauf.de/",
+   "source": "https://www.runme.de/deutschland/rostocker-herbstlauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 10:00 Uhr, frühester Lauf ab 5 km). Laut Veranstalterseite alle 850 Startplätze ausverkauft",
+   "checked": "2026-11-05",
+   "start_time": "10:00",
+   "sold_out": true,
+   "limit": "850 Startplätze",
+   "late_reg": "Keine Nachmeldung am Veranstaltungstag"
+  },
+  {
+   "id": "graal-mueritzer-schneckenlauf-2026",
+   "type": "road",
+   "name": "Graal-Müritzer Schneckenlauf",
+   "place": "Graal-Müritz",
+   "bezirk": "Rostock",
+   "kreis": "LK Rostock",
+   "lat": 54.251,
+   "lon": 12.251,
+   "date": "2026-11-14",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.schneckenlauf.de/",
+   "source": "https://www.runme.de/deutschland/graal-mueritzer-schneckenlauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 11:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "11:00"
+  },
+  {
+   "id": "nebelseelauf-2026",
+   "type": "road",
+   "name": "Nebelseelauf",
+   "place": "Lärz",
+   "bezirk": "Mecklenburgische Seenplatte",
+   "kreis": "Mecklenburgische Seenplatte",
+   "lat": 53.293,
+   "lon": 12.747,
+   "date": "2026-11-14",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.seehotel-ichlim.de/",
+   "source": "https://www.runme.de/deutschland/nebelseelauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 12:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "12:00"
+  },
+  {
+   "id": "ueckemuender-weihnachtslauf-2026",
+   "type": "road",
+   "name": "Ueckemünder Weihnachtslauf",
+   "place": "Ueckermünde",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Greifswald",
+   "lat": 53.738,
+   "lon": 14.045,
+   "date": "2026-11-28",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "9,4"
+   ],
+   "url": "https://uer-laufcup.de/",
+   "source": "https://www.runme.de/deutschland/ueckermuender-weihnachtslauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 10:15 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "10:15"
+  },
+  {
+   "id": "moenchguter-brennereilauf-2026",
+   "type": "road",
+   "name": "Mönchguter Brennereilauf",
+   "place": "Mönchgut",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Rügen",
+   "lat": 54.3087765,
+   "lon": 13.6934094,
+   "date": "2026-12-05",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://running.life/de/termine/monchguter-brennereilauf",
+   "anmeldung_url": "https://my.raceresult.com/372700/",
+   "source": "https://running.life/de/termine/monchguter-brennereilauf",
+   "info": "Termin und Strecken laut running.life/gotrail.run.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "slc-weihnachtslauf-2026",
+   "type": "road",
+   "name": "SLC Weihnachtslauf",
+   "place": "Wismar",
+   "bezirk": "Schwerin",
+   "kreis": "Nordwestmecklenburg",
+   "lat": 53.867,
+   "lon": 11.373,
+   "date": "2026-12-13",
+   "confirmed": true,
+   "distances": [
+    "12"
+   ],
+   "url": "https://schiffahrt-hafen-wismar.de",
+   "source": "https://www.runme.de/deutschland/weihnachtslauf-wismar/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (7,7 km um 10:30 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "10:30"
+  },
+  {
+   "id": "ospa-stadtlauf-laage-2026",
+   "type": "road",
+   "name": "OSPA Stadtlauf - Laage",
+   "place": "Laage",
+   "bezirk": "Rostock",
+   "kreis": "LK Rostock",
+   "lat": 53.9286632,
+   "lon": 12.3456629,
+   "date": "2026-12-20",
+   "confirmed": true,
+   "distances": [
+    "6",
+    "10"
+   ],
+   "url": "https://www.sportclub-laage.de/veranstaltungen/2378208/2026/12/20/19.-ospa-stadtlauf",
+   "source": "https://running.life/de/termine/ospa-stadtlauf-laage",
+   "info": "Termin und Strecken laut running.life/gotrail.run. 19. OSPA Stadtlauf am 20.12.2026 um 10:00 Uhr laut Veranstalterseite",
+   "checked": "2026-11-05",
+   "start_time": "10:00",
+   "start_place": "Recknitzsporthallen Laage"
+  },
+  {
+   "id": "kuehlungsborner-silvesterlauf-2026",
+   "type": "road",
+   "name": "Kühlungsborner SilvesterLauf",
+   "place": "Ostseebad Kühlungsborn",
+   "bezirk": "Rostock",
+   "kreis": "LK Rostock",
+   "lat": 54.15,
+   "lon": 11.75,
+   "date": "2026-12-30",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.kuehlungsborn.de/",
+   "source": "https://www.runme.de/deutschland/silvesterlauf-kuehlungsborn/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10 km um 11:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "11:00"
+  },
+  {
+   "id": "greifswalder-wgg-silvesterlauf-2026",
+   "type": "road",
+   "name": "Greifswalder WGG-Silvesterlauf",
+   "place": "Greifswald",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Greifswald",
+   "lat": 54.083,
+   "lon": 13.406,
+   "date": "2026-12-31",
+   "confirmed": true,
+   "distances": [
+    "5,6"
+   ],
+   "url": "https://www.sggreifswald.de/",
+   "source": "https://www.runme.de/deutschland/greifswalder-silvesterlauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5,6 km um 10:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "10:00"
+  },
+  {
+   "id": "silvesterlauf-grevesmuehlen-2026",
+   "type": "road",
+   "name": "Silvesterlauf",
+   "place": "Grevesmühlen",
+   "bezirk": "Schwerin",
+   "kreis": "Nordwestmecklenburg",
+   "lat": 53.82,
+   "lon": 11.216,
+   "date": "2026-12-31",
+   "confirmed": true,
+   "distances": [
+    "6,6",
+    "10,9"
+   ],
+   "url": "http://www.stadtlauf-grevesmuehlen.de/",
+   "source": "https://www.runme.de/deutschland/silvesterlauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (6,6 km um 10:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "10:00"
+  },
+  {
+   "id": "neu-sw-silvesterlauf-2026",
+   "type": "road",
+   "name": "neu.sw Silvesterlauf",
+   "place": "Neubrandenburg",
+   "bezirk": "Mecklenburgische Seenplatte",
+   "kreis": "Mecklenburgische Seenplatte",
+   "lat": 53.548,
+   "lon": 13.255,
+   "date": "2026-12-31",
+   "confirmed": false,
+   "distances": [
+    "7,8"
+   ],
+   "url": "http://www.nb-silvesterlauf.de/",
+   "source": "https://www.runme.de/deutschland/neubrandenburger-silvesterlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (7,8 km um 09:30 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:30"
+   }
+  },
+  {
+   "id": "winterlauf-waren-mueritz-2027",
+   "type": "road",
+   "name": "Winterlauf",
+   "place": "Waren (Müritz)",
+   "bezirk": "Mecklenburgische Seenplatte",
+   "kreis": "Mecklenburgische Seenplatte",
+   "lat": 53.546,
+   "lon": 12.851,
+   "date": "2027-02-20",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10",
+    "15",
+    "HM"
+   ],
+   "url": "http://www.mueritzer-lsv04.de/",
+   "source": "https://www.runme.de/deutschland/winterlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "wittenburger-muehlenlauf-2027",
+   "type": "road",
+   "name": "Wittenburger Mühlenlauf",
+   "place": "Wittenburg",
+   "bezirk": "Schwerin",
+   "kreis": "Ludwigslust-Parchim",
+   "lat": 53.501,
+   "lon": 10.998,
+   "date": "2027-02-28",
+   "confirmed": false,
+   "distances": [
+    "10"
+   ],
+   "url": "http://laufgruppe-wittenburg.de",
+   "source": "https://www.runme.de/deutschland/volkslauf-um-die-wittenburger-muehle/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-03-07. Startzeit der letzten Ausgabe laut RUNME (10 km um 10:30 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:30"
+   }
+  },
+  {
+   "id": "fishermanstrail-fmt-winter-edition-2027",
+   "type": "trail",
+   "name": "Fishermanstrail (FMT) - Winter-Edition",
+   "place": "Alt Schwerin",
+   "bezirk": "Mecklenburgische Seenplatte",
+   "kreis": "Mecklenburgische Seenplatte",
+   "lat": 53.513,
+   "lon": 12.346,
+   "date": "2027-03-06",
+   "confirmed": false,
+   "distances": [
+    "57,9"
+   ],
+   "url": "https://www.hdsports.org/laufen/fishermanstrail-fmt-winter-edition",
+   "source": "https://www.hdsports.org/laufen/fishermanstrail-fmt-winter-edition",
+   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "walter-gladrow-gedenklauf-2027",
+   "type": "road",
+   "name": "Walter-Gladrow-Gedenklauf",
+   "place": "Neubrandenburg",
+   "bezirk": "Mecklenburgische Seenplatte",
+   "kreis": "Mecklenburgische Seenplatte",
+   "lat": 53.548,
+   "lon": 13.255,
+   "date": "2027-03-13",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "15"
+   ],
+   "url": "https://sv-turbine.de/",
+   "source": "https://www.runme.de/deutschland/walter-gladrow-gedenklauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 09:30 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:30"
+   }
+  },
+  {
+   "id": "schweriner-seentrail-2027",
+   "type": "trail",
+   "name": "Schweriner Seentrail",
+   "place": "Schwerin",
+   "bezirk": "Schwerin",
+   "kreis": "Stadt Schwerin",
+   "lat": 53.631,
+   "lon": 11.409,
+   "date": "2027-03-20",
+   "confirmed": true,
+   "distances": [
+    "17",
+    "33",
+    "61"
+   ],
+   "url": "https://www.schweriner-seen-trail.com/",
+   "source": "https://www.runme.de/deutschland/schweriner-seentrail/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (61 km um 08:30 Uhr, frühester Lauf ab 5 km). Anmeldeschluss 28.02.2027, 23:59 Uhr, sofern das Teilnehmerlimit nicht vorher erreicht ist; Startplatzweitergabe 10 € Gebühr",
+   "checked": "2026-11-05",
+   "start_time": "08:30",
+   "fee": "Große Seenrunde (61 km) 50 € (Anmeldung bis 20.09.2026), 70 € (bis 28.02.2027), Nachmeldung 75 €; Kleine Seenrunde (33 km) 40 € (bis 20.09.2026)",
+   "reg_close": "2027-02-28",
+   "pickup": "Startnummernausgabe und Nachmeldungen am 19.03.2027 von 13:30 bis 19:00 Uhr",
+   "showers": "Umkleiden und Duschen in der Turnhalle Speicherstraße 2, 19055 Schwerin, am 20.03.2027 ab 7:00 Uhr; Übernachtung in der Turnhalle 10 € (vor Ort)"
+  },
+  {
+   "id": "ostseewinterweg-2027",
+   "type": "road",
+   "name": "Ostseewinterweg",
+   "place": "Bad Doberan",
+   "bezirk": "Rostock",
+   "kreis": "LK Rostock",
+   "lat": 54.107,
+   "lon": 11.9,
+   "date": "2027-03-20",
+   "confirmed": false,
+   "distances": [
+    "50",
+    "25"
+   ],
+   "url": "https://www.hdsports.org/laufen/ostseewinterweg",
+   "source": "https://www.hdsports.org/laufen/ostseewinterweg",
+   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "primellauf-2027",
+   "type": "road",
+   "name": "Primellauf",
+   "place": "Rostock",
+   "bezirk": "Rostock",
+   "kreis": "Stadt Rostock",
+   "lat": 54.0924406,
+   "lon": 12.0991466,
+   "date": "2027-03-21",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://primellauf.de/",
+   "anmeldung_url": "https://my.raceresult.com/408989/",
+   "source": "https://running.life/de/termine/start-in-den-fruhling",
+   "info": "Termin und Strecken laut running.life/gotrail.run.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "start-in-den-fruehling-2027",
+   "type": "road",
+   "name": "Start in den Frühling",
+   "place": "Schmarl Dorf",
+   "bezirk": "Rostock",
+   "kreis": "Stadt Rostock",
+   "lat": 54.083,
+   "lon": 12.133,
+   "date": "2027-03-21",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.xn--rostocker-frhlingslauf-3lc.de/",
+   "source": "https://www.runme.de/deutschland/start-in-den-fruehling/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 10:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "ueckermuender-haffmarathon-2027",
+   "type": "road",
+   "name": "Ueckermünder Haffmarathon",
+   "place": "Ueckermünde",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Greifswald",
+   "lat": 53.738,
+   "lon": 14.045,
+   "date": "2027-03-27",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "HM",
+    "M"
+   ],
+   "url": "http://haffmarathon.de/",
+   "source": "https://www.runme.de/deutschland/ueckermuender-haffmarathon/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 11:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "11:00"
+   }
+  },
+  {
+   "id": "hagenower-fruehjahrscross-2027",
+   "type": "trail",
+   "name": "Hagenower Frühjahrscross",
+   "place": "Hagenow",
+   "bezirk": "Schwerin",
+   "kreis": "Ludwigslust-Parchim",
+   "lat": 53.422,
+   "lon": 11.303,
+   "date": "2027-03-28",
+   "confirmed": false,
+   "distances": [
+    "7"
+   ],
+   "url": "https://www.hagenower-sv.de/",
+   "source": "https://www.runme.de/deutschland/hagenower-fruehlingscross/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (7 km um 10:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "osterlauf-wismar-2027",
+   "type": "road",
+   "name": "Osterlauf Wismar",
+   "place": "Wismar",
+   "bezirk": "Schwerin",
+   "kreis": "Nordwestmecklenburg",
+   "lat": 53.892,
+   "lon": 11.464,
+   "date": "2027-03-28",
+   "confirmed": false,
+   "distances": [
+    "12,1"
+   ],
+   "url": "https://www.hdsports.org/laufen/osterlauf-wismar",
+   "source": "https://www.hdsports.org/laufen/osterlauf-wismar",
+   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "thiessower-deichlauf-2027",
+   "type": "road",
+   "name": "Thiessower Deichlauf",
+   "place": "Ostseebad Thiessow",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Rügen",
+   "lat": 54.333,
+   "lon": 13.733,
+   "date": "2027-04-03",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.mein-moenchgut.de/",
+   "source": "https://www.runme.de/deutschland/thiessower-deichlauf-thiessow-ruegen/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 09:30 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:30"
+   }
+  },
+  {
+   "id": "fruehlingslauf-schwerin-2027",
+   "type": "road",
+   "name": "Frühlingslauf Schwerin",
+   "place": "Schwerin",
+   "bezirk": "Schwerin",
+   "kreis": "Stadt Schwerin",
+   "lat": 53.6355022,
+   "lon": 11.4012499,
+   "date": "2027-04-07",
+   "confirmed": false,
+   "distances": [
+    "7,0",
+    "10,5"
+   ],
+   "url": "https://www.fuenf-seen-lauf.de/ueber-uns/laufkalender/details?tx_news_pi1%5Baction%5D=detail&amp;tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Bnews%5D=1&amp;cHash=da16ec58accef2c8fd08c8ae6cadf6d6",
+   "source": "https://running.life/de/termine/fruhlingslauf-schwerin",
+   "info": "Termin und Strecken laut running.life/gotrail.run.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "schweriner-schlosslauf-2027",
+   "type": "road",
+   "name": "Schweriner Schlosslauf",
+   "place": "Schwerin",
+   "bezirk": "Schwerin",
+   "kreis": "Stadt Schwerin",
+   "lat": 53.631,
+   "lon": 11.409,
+   "date": "2027-04-10",
+   "confirmed": false,
+   "distances": [
+    "8",
+    "15"
+   ],
+   "url": "http://www.laufgruppe-schwerin.de/",
+   "source": "https://www.runme.de/deutschland/schweriner-15-km-lauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (15 km um 10:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "darss-marathon-2027",
+   "type": "road",
+   "name": "Darß Marathon",
+   "place": "Wieck a. Darß",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Rügen",
+   "lat": 54.427,
+   "lon": 12.547,
+   "date": "2027-04-24",
+   "confirmed": false,
+   "distances": [
+    "10"
+   ],
+   "url": "http://www.darss-marathon.de/",
+   "source": "https://www.runme.de/deutschland/darss-marathon-wieck-a-darss/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (42,195 km um 09:00 Uhr). Ausgabe 2026: Startunterlagen in der Darßer Arche, Wieck a. Darß",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:00",
+    "fee": "Marathon 67 €, Halbmarathon (Läufer und Walking) 57 €"
+   },
+   "showers": "Umkleide- und Duschmöglichkeiten in Start-/Zielnähe zur Gemeinschaftsnutzung"
+  },
+  {
+   "id": "hiddenseelauf-2027",
+   "type": "road",
+   "name": "Hiddenseelauf",
+   "place": "Vitte",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Rügen",
+   "lat": 54.549,
+   "lon": 13.104,
+   "date": "2027-04-24",
+   "confirmed": false,
+   "distances": [
+    "12,5",
+    "HM"
+   ],
+   "url": "https://www.seebad-hiddensee.de/",
+   "source": "https://www.runme.de/deutschland/hiddenseelauf-vitte/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (12,5 km um 10:45 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:45"
+   }
+  },
+  {
+   "id": "warnemuender-kuestenwaldlauf-2027",
+   "type": "trail",
+   "name": "Warnemünder Küstenwaldlauf",
+   "place": "Warnemünde",
+   "bezirk": "Rostock",
+   "kreis": "Stadt Rostock",
+   "lat": 54.083,
+   "lon": 12.133,
+   "date": "2027-04-24",
+   "confirmed": false,
+   "distances": [
+    "7,5",
+    "10"
+   ],
+   "url": "https://www.kuestenwaldlauf.de/",
+   "source": "https://www.runme.de/deutschland/warnemuender-stoltera-kuestenwaldlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (7,5 km um 09:45 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:45"
+   }
+  },
+  {
+   "id": "drk-volkslauf-entlang-der-mollistur-2027",
+   "type": "road",
+   "name": "DRK Volkslauf entlang der Mollistur",
+   "place": "Bad Doberan",
+   "bezirk": "Rostock",
+   "kreis": "LK Rostock",
+   "lat": 54.081,
+   "lon": 11.979,
+   "date": "2027-05-01",
+   "confirmed": false,
+   "distances": [
+    "6",
+    "12"
+   ],
+   "url": "https://www.drk-dbr.de/",
+   "source": "https://www.runme.de/deutschland/drk-volkslauf-an-der-mollispur-bad-doberan/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 11:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "11:00"
+   }
+  },
+  {
+   "id": "neubrandenburger-kulturparklauf-2027",
+   "type": "road",
+   "name": "Neubrandenburger Kulturparklauf",
+   "place": "Neubrandenburg",
+   "bezirk": "Mecklenburgische Seenplatte",
+   "kreis": "Mecklenburgische Seenplatte",
+   "lat": 53.548,
+   "lon": 13.255,
+   "date": "2027-05-01",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "HM"
+   ],
+   "url": "http://hsv.hs-nb.de/",
+   "source": "https://www.runme.de/deutschland/neubrandenburger-halbmarathon/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "eurawasser-waldlauf-2027",
+   "type": "trail",
+   "name": "EURAWASSER Waldlauf",
+   "place": "Laage",
+   "bezirk": "Rostock",
+   "kreis": "LK Rostock",
+   "lat": 53.96,
+   "lon": 12.318,
+   "date": "2027-05-02",
+   "confirmed": false,
+   "distances": [
+    "6",
+    "12"
+   ],
+   "url": "http://www.sportclub-laage.de/",
+   "source": "https://www.runme.de/deutschland/eurawasser-waldlauf-laage/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 10:05 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:05"
+   }
+  },
+  {
+   "id": "neubrandenburger-frauenlauf-2027",
+   "type": "road",
+   "name": "Neubrandenburger Frauenlauf",
+   "place": "Neubrandenburg",
+   "bezirk": "Mecklenburgische Seenplatte",
+   "kreis": "Mecklenburgische Seenplatte",
+   "lat": 53.548,
+   "lon": 13.255,
+   "date": "2027-05-02",
+   "confirmed": false,
+   "distances": [
+    "6",
+    "9"
+   ],
+   "url": "https://hsv.hs-nb.de/",
+   "source": "https://www.runme.de/deutschland/neubrandenburger-frauenlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 10:15 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:15"
+   }
+  },
+  {
+   "id": "schweriner-sachsenhausen-gedenklauf-2027",
+   "type": "road",
+   "name": "Schweriner Sachsenhausen-Gedenklauf",
+   "place": "Schwerin",
+   "bezirk": "Schwerin",
+   "kreis": "Stadt Schwerin",
+   "lat": 53.599,
+   "lon": 11.404,
+   "date": "2027-05-02",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10",
+    "15",
+    "HM"
+   ],
+   "url": "http://www.fuenf-seen-lauf.de/",
+   "source": "https://www.runme.de/deutschland/schweriner-sachsenhausen-gedenklauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 10:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "10:00"
+  },
+  {
+   "id": "waldlauf-in-laage-2027",
+   "type": "trail",
+   "name": "Waldlauf in Laage",
+   "place": "Laage",
+   "bezirk": "Rostock",
+   "kreis": "LK Rostock",
+   "lat": 53.926,
+   "lon": 12.347,
+   "date": "2027-05-02",
+   "confirmed": false,
+   "distances": [
+    "12",
+    "6"
+   ],
+   "url": "https://www.hdsports.org/laufen/waldlauf-in-laage",
+   "source": "https://www.hdsports.org/laufen/waldlauf-in-laage",
+   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "recknitztallauf-2027",
+   "type": "road",
+   "name": "Recknitztallauf",
+   "place": "Bad Sülze",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Rügen",
+   "lat": 54.111,
+   "lon": 12.661,
+   "date": "2027-05-06",
+   "confirmed": false,
+   "distances": [
+    "21,5",
+    "10",
+    "5"
+   ],
+   "url": "https://www.hdsports.org/laufen/recknitztallauf",
+   "source": "https://www.hdsports.org/laufen/recknitztallauf",
+   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "baltic-x-coast-run-2027",
+   "type": "road",
+   "name": "Baltic X Coast Run",
+   "place": "Binz",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Rügen",
+   "lat": 54.4022152,
+   "lon": 13.606025,
+   "date": "2027-05-08",
+   "confirmed": false,
+   "distances": [
+    "23"
+   ],
+   "url": "https://running.life/de/termine/baltic-x-coast-run",
+   "anmeldung_url": "https://www.sportstiming.dk/event/18495",
+   "source": "https://running.life/de/termine/baltic-x-coast-run",
+   "info": "Termin und Strecken laut running.life/gotrail.run.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "schweriner-nachtlauf-2027",
+   "type": "road",
+   "name": "Schweriner Nachtlauf",
+   "place": "Schwerin",
+   "bezirk": "Schwerin",
+   "kreis": "Stadt Schwerin",
+   "lat": 53.644,
+   "lon": 11.41,
+   "date": "2027-05-08",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10",
+    "15",
+    "20"
+   ],
+   "url": "https://www.schwerin-nachtlauf.de/",
+   "source": "https://www.runme.de/deutschland/schweriner-nachtlauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (20 km um 18:30 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "18:30"
+  },
+  {
+   "id": "scn-energy-lauf-lc-nlc-2027",
+   "type": "road",
+   "name": "scn energy-Lauf (LC/NLC)",
+   "place": "Jatznick",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Greifswald",
+   "lat": 53.544,
+   "lon": 13.905,
+   "date": "2027-05-08",
+   "confirmed": false,
+   "distances": [
+    "7,5",
+    "11,3"
+   ],
+   "url": "http://sv-scn-energy-torgelow.de/",
+   "source": "https://www.runme.de/deutschland/scn-energy-lauf-jatznick-torgelow/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (7,5 km um 09:30 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:30"
+   }
+  },
+  {
+   "id": "ostseekuestenlauf-rerik-2027",
+   "type": "road",
+   "name": "Ostseeküstenlauf Rerik",
+   "place": "Rerik",
+   "bezirk": "Rostock",
+   "kreis": "LK Rostock",
+   "lat": 54.094,
+   "lon": 11.789,
+   "date": "2027-05-09",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10",
+    "HM"
+   ],
+   "url": "http://www.ostseekuestenlauf.de/",
+   "source": "https://www.runme.de/deutschland/ostseekuestenlauf-kuehlungsborn/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10 km um 10:15 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "10:15"
+  },
+  {
+   "id": "ueckermuender-bahnlauf-i-2027",
+   "type": "road",
+   "name": "Ueckermünder Bahnlauf I",
+   "place": "Ueckermünde",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Greifswald",
+   "lat": 53.738,
+   "lon": 14.045,
+   "date": "2027-05-12",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://uer-laufcup.de/",
+   "source": "https://www.runme.de/deutschland/ueckermuender-bahnlauf-i/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 17:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "17:00"
+   }
+  },
+  {
+   "id": "greifswalder-citylauf-2027",
+   "type": "road",
+   "name": "Greifswalder Citylauf",
+   "place": "Greifswald",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Greifswald",
+   "lat": 54.088,
+   "lon": 13.388,
+   "date": "2027-05-15",
+   "confirmed": false,
+   "distances": [
+    "10"
+   ],
+   "url": "https://www.citylauf-greifswald.de/",
+   "source": "https://www.runme.de/deutschland/greifswalder-citylauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 10:45 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:45"
+   }
+  },
+  {
+   "id": "neuklosterseelauf-2027",
+   "type": "road",
+   "name": "Neuklosterseelauf",
+   "place": "Neukloster",
+   "bezirk": "Schwerin",
+   "kreis": "Nordwestmecklenburg",
+   "lat": 53.956,
+   "lon": 11.77,
+   "date": "2027-05-21",
+   "confirmed": true,
+   "distances": [
+    "5,1",
+    "10,4"
+   ],
+   "url": "http://www.stadtlauf-grevesmuehlen.de",
+   "source": "https://www.runme.de/deutschland/neuklosterseelauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5,1 km um 18:30 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "18:30"
+  },
+  {
+   "id": "oetilloe-ruegen-germany-2027",
+   "type": "road",
+   "name": "ÖTILLÖ Rügen Germany",
+   "place": "Binz",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Rügen",
+   "lat": 54.4022152,
+   "lon": 13.606025,
+   "date": "2027-05-22",
+   "confirmed": false,
+   "distances": [
+    "7,2",
+    "46"
+   ],
+   "url": "https://running.life/de/termine/otillo-rugen-germany",
+   "anmeldung_url": "https://www.sportstiming.dk/event/19277",
+   "source": "https://running.life/de/termine/otillo-rugen-germany",
+   "info": "Termin und Strecken laut running.life/gotrail.run.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "rostocker-citylauf-2027",
+   "type": "road",
+   "name": "Rostocker Citylauf",
+   "place": "Rostock",
+   "bezirk": "Rostock",
+   "kreis": "Stadt Rostock",
+   "lat": 54.087,
+   "lon": 12.154,
+   "date": "2027-05-30",
+   "confirmed": true,
+   "distances": [
+    "6",
+    "10",
+    "HM"
+   ],
+   "url": "https://rostocker-citylauf.de/",
+   "source": "https://www.runme.de/deutschland/rostocker-e-on-edis-citylauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10 km um 10:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "10:00",
+   "pickup": "Organisationsbüro im Rathaus, 28. und 29.05.2027"
+  },
+  {
+   "id": "prosekener-abendlauf-2027",
+   "type": "road",
+   "name": "Prosekener Abendlauf",
+   "place": "Proseken",
+   "bezirk": "Schwerin",
+   "kreis": "Nordwestmecklenburg",
+   "lat": 53.867,
+   "lon": 11.373,
+   "date": "2027-06-04",
+   "confirmed": false,
+   "distances": [
+    "7",
+    "12"
+   ],
+   "url": "http://www.tsv-gaegelow.de/",
+   "source": "https://www.runme.de/deutschland/prosekener-abendlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (12 km um 18:10 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "18:10"
+   }
+  },
+  {
+   "id": "warnemuender-stapellauf-2027",
+   "type": "road",
+   "name": "Warnemünder Stapellauf",
+   "place": "Warnemünde",
+   "bezirk": "Rostock",
+   "kreis": "Stadt Rostock",
+   "lat": 54.083,
+   "lon": 12.133,
+   "date": "2027-06-04",
+   "confirmed": false,
+   "distances": [
+    "5,6",
+    "9,3"
+   ],
+   "url": "https://fiw.hs-wismar.de/",
+   "source": "https://www.runme.de/deutschland/warnemuender-stapellauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,55 km um 16:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "16:00"
+   }
+  },
+  {
+   "id": "stadtwerke-guestrow-inselseelauf-2027",
+   "type": "road",
+   "name": "Stadtwerke Güstrow Inselseelauf",
+   "place": "Güstrow",
+   "bezirk": "Rostock",
+   "kreis": "LK Rostock",
+   "lat": 53.797,
+   "lon": 12.173,
+   "date": "2027-06-05",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.trifun.de/",
+   "source": "https://www.runme.de/deutschland/inselseelauf-guestrow/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00",
+    "fee": "1,2 km 4 €, 2,4 km 6 €, 5 km 8 €, 10 km 12 € (bis 29.05.2026), danach 7 € / 9 € / 11 € / 15 €"
+   },
+   "showers": "Duschen und WCs am Wettkampfort",
+   "late_reg": "Nachmeldungen am Wettkampftag nicht möglich (Ausgabe 2026)"
+  },
+  {
+   "id": "usedom-beach-marathon-2027",
+   "type": "road",
+   "name": "Usedom Beach Marathon",
+   "place": "Heringsdorf",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Greifswald",
+   "lat": 53.891,
+   "lon": 14.139,
+   "date": "2027-06-05",
+   "confirmed": true,
+   "distances": [
+    "10",
+    "HM",
+    "M"
+   ],
+   "url": "https://usedom.de",
+   "source": "https://www.runme.de/deutschland/usedom-beach-marathon/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (42,195 km um 09:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "09:00"
+  },
+  {
+   "id": "albers-neuenkirchener-dorflauf-2027",
+   "type": "road",
+   "name": "Albers Neuenkirchener Dorflauf",
+   "place": "Neuenkirchen",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Greifswald",
+   "lat": 54.005,
+   "lon": 13.39,
+   "date": "2027-06-06",
+   "confirmed": false,
+   "distances": [
+    "6",
+    "12"
+   ],
+   "url": "http://www.dorflauf-neuenkirchen.de/",
+   "source": "https://www.runme.de/deutschland/albers-neuenkirchner-dorflaufalbers-neuenkirchner-dorflauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 13:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "13:00"
+   },
+   "parking": "Kostenlose Parkplätze am Möbelhaus Albers, Shuttlebus zum Gemeindezentrum"
+  },
+  {
+   "id": "tollenseseelauf-2027",
+   "type": "road",
+   "name": "Tollenseseelauf",
+   "place": "Neubrandenburg",
+   "bezirk": "Mecklenburgische Seenplatte",
+   "kreis": "Mecklenburgische Seenplatte",
+   "lat": 53.548,
+   "lon": 13.255,
+   "date": "2027-06-12",
+   "confirmed": true,
+   "distances": [
+    "10",
+    "HM",
+    "M"
+   ],
+   "url": "http://svturbine-neubrandenburg.de/",
+   "source": "https://www.runme.de/deutschland/tollensesee-lauf-neubrandenburg/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (42,195 km um 09:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "09:00"
+  },
+  {
+   "id": "zingster-deichlauf-2027",
+   "type": "road",
+   "name": "Zingster Deichlauf",
+   "place": "Zingst",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Rügen",
+   "lat": 54.436,
+   "lon": 12.689,
+   "date": "2027-06-12",
+   "confirmed": false,
+   "distances": [
+    "HM",
+    "10",
+    "5"
+   ],
+   "url": "https://www.hdsports.org/laufen/zingster-deichlauf",
+   "source": "https://www.hdsports.org/laufen/zingster-deichlauf",
+   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "ludwigsluster-schlossgartenlauf-2027",
+   "type": "road",
+   "name": "Ludwigsluster Schlossgartenlauf",
+   "place": "Ludwigslust",
+   "bezirk": "Schwerin",
+   "kreis": "Ludwigslust-Parchim",
+   "lat": 53.345,
+   "lon": 11.405,
+   "date": "2027-06-13",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10",
+    "15"
+   ],
+   "url": "http://www.schlossgartenlauf.de/",
+   "source": "https://www.runme.de/deutschland/ludwigsluster-schlossgartenlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (15 km um 09:45 Uhr). Online-Anmeldung laut Veranstalterseite voraussichtlich ab März 2027",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:45"
+   },
+   "parking": "Kostenfreie Parkplätze am Parkplatz Naumannallee",
+   "showers": "Umkleide- und Duschmöglichkeiten vorhanden"
+  },
+  {
+   "id": "fischland-darss-zingst-ultramarathon-fdzu-2027",
+   "type": "trail",
+   "name": "Fischland-Darss-Zingst-Ultramarathon (FDZU)",
+   "place": "Ribnitz-Damgarten",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Rügen",
+   "lat": 54.242,
+   "lon": 12.457,
+   "date": "2027-06-19",
+   "confirmed": true,
+   "distances": [
+    "100",
+    "117,4"
+   ],
+   "url": "https://www.fischland-darss-zingst-ultramarathon.eu/",
+   "source": "https://www.runme.de/deutschland/fischland-darss-zingst-ultramarathon-fdzu_2/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (117,4 km um 04:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "04:00"
+  },
+  {
+   "id": "ostseeweg-kuehlunsborn-seaborn-2027",
+   "type": "road",
+   "name": "Ostseeweg Kühlunsborn-Seaborn",
+   "place": "Kühlungsborn",
+   "bezirk": "Rostock",
+   "kreis": "LK Rostock",
+   "lat": 54.15,
+   "lon": 11.75,
+   "date": "2027-06-19",
+   "confirmed": false,
+   "distances": [
+    "25"
+   ],
+   "url": "https://www.hdsports.org/laufen/ostseeweg-seaborn",
+   "source": "https://www.hdsports.org/laufen/ostseeweg-seaborn",
+   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "torgelower-citylauf-2027",
+   "type": "road",
+   "name": "Torgelower Citylauf",
+   "place": "Torgelow",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Greifswald",
+   "lat": 53.601,
+   "lon": 13.98,
+   "date": "2027-06-19",
+   "confirmed": false,
+   "distances": [
+    "4,6",
+    "10,7"
+   ],
+   "url": "http://uer-laufcup.de/",
+   "source": "https://www.runme.de/deutschland/torgelower-citylauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10,7 km um 10:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "warener-sommerlauf-2027",
+   "type": "road",
+   "name": "Warener Sommerlauf",
+   "place": "Waren (Müritz)",
+   "bezirk": "Mecklenburgische Seenplatte",
+   "kreis": "Mecklenburgische Seenplatte",
+   "lat": 53.546,
+   "lon": 12.851,
+   "date": "2027-06-19",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10",
+    "15"
+   ],
+   "url": "https://sv-waren-09.de/",
+   "source": "https://www.runme.de/deutschland/sommerlauf-warenmueritz-lc-nlc/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 10:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "insellauf-der-aok-2027",
+   "type": "road",
+   "name": "Insellauf der AOK",
+   "place": "Insel Poel",
+   "bezirk": "Schwerin",
+   "kreis": "Nordwestmecklenburg",
+   "lat": 54,
+   "lon": 11.433,
+   "date": "2027-06-20",
+   "confirmed": false,
+   "distances": [
+    "5,3",
+    "11,4"
+   ],
+   "url": "https://www.poelersv.de/",
+   "source": "https://www.runme.de/deutschland/insellauf-der-aok-kirchdorf-kirchdorf-poel/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (11,4 km um 10:15 Uhr). Online-Anmeldung vom 02.04. bis 05.05.2027 laut Veranstalterseite",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:15"
+   },
+   "reg_open": "2027-04-02",
+   "reg_close": "2027-05-05",
+   "late_reg": "Nachmeldung am Veranstaltungstag von 08:30 bis 09:30 Uhr im geringen Umfang auf dem Sportplatz"
+  },
+  {
+   "id": "stadtlauf-grevesmuehlen-2027",
+   "type": "road",
+   "name": "Stadtlauf Grevesmühlen",
+   "place": "Grevesmühlen",
+   "bezirk": "Schwerin",
+   "kreis": "Nordwestmecklenburg",
+   "lat": 53.82,
+   "lon": 11.216,
+   "date": "2027-06-20",
+   "confirmed": false,
+   "distances": [
+    "6,6",
+    "10,9"
+   ],
+   "url": "http://www.stadtlauf-grevesmuehlen.de/",
+   "source": "https://www.runme.de/deutschland/stadtlauf-grevesmuehlen/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6,6 km um 10:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "goellnitz-schmooksberglauf-2027",
+   "type": "trail",
+   "name": "Göllnitz-Schmooksberglauf",
+   "place": "Diekhof (Laage)",
+   "bezirk": "Rostock",
+   "kreis": "LK Rostock",
+   "lat": 53.96,
+   "lon": 12.318,
+   "date": "2027-06-26",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10,5"
+   ],
+   "url": "https://www.sportclub-laage.de/",
+   "source": "https://www.runme.de/deutschland/goellnitz-schmooksberglauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "karl-august-baum-gedenklauf-2027",
+   "type": "road",
+   "name": "Karl-August Baum Gedenklauf",
+   "place": "Gadebusch",
+   "bezirk": "Schwerin",
+   "kreis": "Nordwestmecklenburg",
+   "lat": 53.749,
+   "lon": 11.183,
+   "date": "2027-06-27",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.runme.de/deutschland/karl-august-baum-gedenklauf/",
+   "source": "https://www.runme.de/deutschland/karl-august-baum-gedenklauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 14:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "14:00"
+   }
+  },
+  {
+   "id": "selliner-seebrueckenlauf-i-2027",
+   "type": "road",
+   "name": "Selliner Seebrückenlauf I",
+   "place": "Ostseebad Sellin",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Rügen",
+   "lat": 54.333,
+   "lon": 13.733,
+   "date": "2027-07-01",
+   "confirmed": false,
+   "distances": [
+    "8"
+   ],
+   "url": "https://www.sprintefix.de",
+   "source": "https://www.runme.de/deutschland/seebrueckenlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (8 km um 14:30 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "14:30"
+   }
+  },
+  {
+   "id": "moenkebuder-deichlauf-2027",
+   "type": "road",
+   "name": "Mönkebuder Deichlauf",
+   "place": "Mönkebude",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Greifswald",
+   "lat": 53.733,
+   "lon": 14.175,
+   "date": "2027-07-02",
+   "confirmed": false,
+   "distances": [
+    "6",
+    "12"
+   ],
+   "url": "https://www.eggesin.de/",
+   "source": "https://www.runme.de/deutschland/moenkebuder-deichlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 17:30 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "17:30"
+   }
+  },
+  {
+   "id": "fuenf-seen-lauf-schwerin-2027",
+   "type": "road",
+   "name": "Fünf Seen Lauf Schwerin",
+   "place": "Schwerin",
+   "bezirk": "Schwerin",
+   "kreis": "Stadt Schwerin",
+   "lat": 53.6355022,
+   "lon": 11.4012499,
+   "date": "2027-07-03",
+   "confirmed": false,
+   "distances": [
+    "15",
+    "10",
+    "5"
+   ],
+   "url": "https://www.fuenf-seen-lauf.de/ueber-uns/laufkalender/details?tx_news_pi1%5Baction%5D=detail&amp;tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Bnews%5D=7&amp;cHash=a8dfe42764aa0e15b7c0fe6f59ea80e6",
+   "source": "https://running.life/de/termine/funf-seen-lauf-schwerin",
+   "info": "Termin und Strecken laut running.life/gotrail.run.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "schweriner-fuenf-seen-lauf-2027",
+   "type": "road",
+   "name": "Schweriner Fünf-Seen-Lauf",
+   "place": "Schwerin",
+   "bezirk": "Schwerin",
+   "kreis": "Stadt Schwerin",
+   "lat": 53.631,
+   "lon": 11.409,
+   "date": "2027-07-03",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10",
+    "15",
+    "HM"
+   ],
+   "url": "https://www.fuenf-seen-lauf.de/",
+   "source": "https://www.runme.de/deutschland/schweriner-fuenf-seen-lauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10 km um 09:30 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "09:30"
+  },
+  {
+   "id": "karl-krull-gedenklauf-2027",
+   "type": "road",
+   "name": "Karl-Krull-Gedenklauf",
+   "place": "Steinhagen",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Rügen",
+   "lat": 54.282,
+   "lon": 13.031,
+   "date": "2027-07-04",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.runme.de/deutschland/karl-krull-gedenklauf-steinhagen/",
+   "source": "https://www.runme.de/deutschland/karl-krull-gedenklauf-steinhagen/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 10:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "city-sport-abendlauf-rostock-2027",
+   "type": "road",
+   "name": "City-Sport Abendlauf Rostock",
+   "place": "Rostock",
+   "bezirk": "Rostock",
+   "kreis": "Stadt Rostock",
+   "lat": 54.087,
+   "lon": 12.154,
+   "date": "2027-07-07",
+   "confirmed": false,
+   "distances": [
+    "10",
+    "7,5",
+    "5"
+   ],
+   "url": "https://www.hdsports.org/laufen/city-sport-abendlauf",
+   "source": "https://www.hdsports.org/laufen/city-sport-abendlauf",
+   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "run-dance-rostock-2027",
+   "type": "road",
+   "name": "Run & Dance Rostock",
+   "place": "Rostock",
+   "bezirk": "Rostock",
+   "kreis": "Stadt Rostock",
+   "lat": 54.0924406,
+   "lon": 12.0991466,
+   "date": "2027-07-16",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://running.life/de/termine/run-dance-rostock",
+   "anmeldung_url": "https://my.raceresult.com/430271/",
+   "source": "https://running.life/de/termine/run-dance-rostock",
+   "info": "Termin und Strecken laut running.life/gotrail.run.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "barther-flughafenlauf-2027",
+   "type": "road",
+   "name": "Barther Flughafenlauf",
+   "place": "Barth",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Rügen",
+   "lat": 54.378,
+   "lon": 12.674,
+   "date": "2027-07-18",
+   "confirmed": true,
+   "distances": [
+    "8",
+    "12",
+    "HM"
+   ],
+   "url": "https://flughafenlauf.com",
+   "source": "https://www.runme.de/deutschland/1-barther-flughafenlauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (8 km um 09:10 Uhr, frühester Lauf ab 5 km). Ausgabe 2026: Nachmeldung vor Ort möglich, 2 € Nachmeldegebühr für Wettbewerbe ab 4 km",
+   "checked": "2026-11-05",
+   "start_time": "09:10",
+   "parking": "Kostenfreier Parkplatz vor Ort",
+   "showers": "WCs im Terminalgebäude und mobile Toilettenkabinen"
+  },
+  {
+   "id": "ueckermuender-abendlauf-2027",
+   "type": "road",
+   "name": "Ueckermünder Abendlauf",
+   "place": "Ueckermünde",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Greifswald",
+   "lat": 53.738,
+   "lon": 14.045,
+   "date": "2027-07-24",
+   "confirmed": false,
+   "distances": [
+    "5,4",
+    "10,2",
+    "15"
+   ],
+   "url": "http://uer-laufcup.de/",
+   "source": "https://www.runme.de/deutschland/ueckermuender-abendlauf-ueckermuende/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,4 km um 18:15 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "18:15"
+   }
+  },
+  {
+   "id": "hella-marathon-nacht-rostock-2027",
+   "type": "road",
+   "name": "hella marathon nacht rostock",
+   "place": "Rostock",
+   "bezirk": "Rostock",
+   "kreis": "Stadt Rostock",
+   "lat": 54.0887,
+   "lon": 12.14,
+   "date": "2027-07-31",
+   "confirmed": true,
+   "distances": [
+    "7",
+    "HM",
+    "M"
+   ],
+   "url": "http://www.rostocker-marathon-nacht.com/",
+   "source": "https://www.runme.de/deutschland/hella-marathon-nacht-rostock-rostock/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (42,195 km um 18:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "18:00",
+   "fee": "Marathon 72 € (bis 20.07.2027), danach 77 €; Halbmarathon 60 € bzw. 65 €; Schülerlauf 5 € bzw. 6 €; Frühpreise: Marathon 50 € (bis 09.08.2026), 60 € (bis 31.12.2026), 64 € (bis 31.03.2027); Läufe zuzüglich 3 € Timing-Gebühr (entfällt mit BMS-Chip)",
+   "reg_close": "2027-07-20",
+   "late_reg": "Online-Nachmeldung mit Barzahlung vor Ort ab 21.07.2027 bis 30 Minuten vor dem Start, sofern kein Teilnahmelimit erreicht ist",
+   "pickup": "Veranstaltungszentrum Haedgehalbinsel, Rostocker Stadthafen, Freitag 30.07.2027 von 16:00 bis 19:00 Uhr",
+   "showers": "Duschen (begrenzte Anzahl), Sanitäranlagen und Umkleidemöglichkeiten"
+  },
+  {
+   "id": "selliner-seebrueckenlauf-lauf-ii-2027",
+   "type": "road",
+   "name": "Selliner Seebrückenlauf - Lauf II",
+   "place": "Sellin",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Rügen",
+   "lat": 54.379,
+   "lon": 13.674,
+   "date": "2027-08-05",
+   "confirmed": false,
+   "distances": [
+    "8"
+   ],
+   "url": "https://www.hdsports.org/laufen/selliner-seebrueckenlauf-lauf-ii",
+   "source": "https://www.hdsports.org/laufen/selliner-seebrueckenlauf-lauf-ii",
+   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "havelberge-lauf-2027",
+   "type": "road",
+   "name": "Havelberge Lauf",
+   "place": "Userin",
+   "bezirk": "Mecklenburgische Seenplatte",
+   "kreis": "Mecklenburgische Seenplatte",
+   "lat": 53.339,
+   "lon": 12.98,
+   "date": "2027-08-18",
+   "confirmed": false,
+   "distances": [
+    "5"
+   ],
+   "url": "https://www.haveltourist.de/",
+   "source": "https://www.runme.de/deutschland/havelberge-lauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 18:15 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "18:15"
+   }
+  },
+  {
+   "id": "prerower-fackellauf-2027",
+   "type": "road",
+   "name": "Prerower Fackellauf",
+   "place": "Ostseebad Prerow",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Rügen",
+   "lat": 54.427,
+   "lon": 12.547,
+   "date": "2027-08-21",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.prerowerfackellauf.de/",
+   "source": "https://www.runme.de/deutschland/prerower-fackellauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 20:45 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "20:45"
+   }
+  },
+  {
+   "id": "schwedenlauf-2027",
+   "type": "road",
+   "name": "Schwedenlauf",
+   "place": "Wismar",
+   "bezirk": "Schwerin",
+   "kreis": "Nordwestmecklenburg",
+   "lat": 53.892,
+   "lon": 11.464,
+   "date": "2027-08-22",
+   "confirmed": false,
+   "distances": [
+    "5,3",
+    "10,2"
+   ],
+   "url": "http://www.schwedenlauf.de/",
+   "source": "https://www.runme.de/deutschland/schwedenlauf-wismar-wismar/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10,2 km um 09:45 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:45"
+   }
+  },
+  {
+   "id": "herbstlauf-waren-mueritz-2027",
+   "type": "road",
+   "name": "Herbstlauf Waren (Müritz)",
+   "place": "Waren in Müritz",
+   "bezirk": "Mecklenburgische Seenplatte",
+   "kreis": "Mecklenburgische Seenplatte",
+   "lat": 53.514,
+   "lon": 12.6908,
+   "date": "2027-08-28",
+   "confirmed": false,
+   "distances": [
+    "10",
+    "5"
+   ],
+   "url": "https://www.hdsports.org/laufen/herbstlauf-waren",
+   "source": "https://www.hdsports.org/laufen/herbstlauf-waren",
+   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "lauf-rund-um-tiefwarensee-2027",
+   "type": "road",
+   "name": "Lauf rund um Tiefwarensee",
+   "place": "Waren (Müritz)",
+   "bezirk": "Mecklenburgische Seenplatte",
+   "kreis": "Mecklenburgische Seenplatte",
+   "lat": 53.546,
+   "lon": 12.851,
+   "date": "2027-08-28",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.mueritzer-lsv04.de/",
+   "source": "https://www.runme.de/deutschland/herbstlauf-waren-mueritz/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 10:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "buetzower-citylauf-2027",
+   "type": "road",
+   "name": "Bützower Citylauf",
+   "place": "Bützow",
+   "bezirk": "Rostock",
+   "kreis": "LK Rostock",
+   "lat": 53.844,
+   "lon": 11.924,
+   "date": "2027-08-29",
+   "confirmed": false,
+   "distances": [
+    "5,4",
+    "10,8"
+   ],
+   "url": "https://www.buetzow.de/",
+   "source": "https://www.runme.de/deutschland/buewo-citylauf-buetzow/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,4 km um 10:15 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:15"
+   }
+  },
+  {
+   "id": "citylauf-buetzow-2027",
+   "type": "road",
+   "name": "Citylauf Bützow",
+   "place": "Bützow",
+   "bezirk": "Rostock",
+   "kreis": "LK Rostock",
+   "lat": 53.848,
+   "lon": 11.983,
+   "date": "2027-08-29",
+   "confirmed": true,
+   "distances": [
+    "10",
+    "5"
+   ],
+   "url": "https://www.hdsports.org/laufen/buetzower-citylauf",
+   "source": "https://www.hdsports.org/laufen/buetzower-citylauf",
+   "info": "Termin und Strecken laut HDsports.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "frauenlauf-schwerin-2027",
+   "type": "road",
+   "name": "Frauenlauf Schwerin",
+   "place": "Schwerin",
+   "bezirk": "Schwerin",
+   "kreis": "Stadt Schwerin",
+   "lat": 53.599,
+   "lon": 11.404,
+   "date": "2027-09-04",
+   "confirmed": false,
+   "distances": [
+    "8"
+   ],
+   "url": "http://www.fuenf-seen-lauf.de/",
+   "source": "https://www.runme.de/deutschland/frauenlauf-schwerin_2/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (8 km um 10:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "tannen-cross-lauf-der-hansestadt-demmin-2027",
+   "type": "trail",
+   "name": "Tannen Cross-Lauf der Hansestadt Demmin",
+   "place": "Demmin",
+   "bezirk": "Mecklenburgische Seenplatte",
+   "kreis": "Mecklenburgische Seenplatte",
+   "lat": 53.908,
+   "lon": 13.031,
+   "date": "2027-09-04",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.demminersv91.de/",
+   "source": "https://www.runme.de/deutschland/tannen-cross-lauf-der-hansestadt-demmin/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 10:30 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:30"
+   }
+  },
+  {
+   "id": "usedom-marathon-34-halbmarathon-2027",
+   "type": "road",
+   "name": "Usedom Marathon & 34. Halbmarathon",
+   "place": "Wolgast",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Greifswald",
+   "lat": 54.053,
+   "lon": 13.772,
+   "date": "2027-09-04",
+   "confirmed": false,
+   "distances": [
+    "HM",
+    "M"
+   ],
+   "url": "http://usedom-marathon.de/",
+   "source": "https://www.runme.de/deutschland/usedom-marathon-swinoujsce/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (42,195 km um 09:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:00"
+   }
+  },
+  {
+   "id": "rostocker-frauenlauf-2027",
+   "type": "road",
+   "name": "Rostocker Frauenlauf",
+   "place": "Rostock",
+   "bezirk": "Rostock",
+   "kreis": "Stadt Rostock",
+   "lat": 54.087,
+   "lon": 12.106,
+   "date": "2027-09-05",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.rostocker-frauenlauf.de/",
+   "source": "https://www.runme.de/deutschland/rostocker-frauenlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "we-beat-cancer-wbc-run-neubrandenburg-2027",
+   "type": "road",
+   "name": "We Beat Cancer - WBC-Run Neubrandenburg",
+   "place": "Neubrandenburg",
+   "bezirk": "Mecklenburgische Seenplatte",
+   "kreis": "Mecklenburgische Seenplatte",
+   "lat": 53.548,
+   "lon": 13.255,
+   "date": "2027-09-05",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "8",
+    "12"
+   ],
+   "url": "https://www.bonhoefferstory.de/wbc-lauf/",
+   "source": "https://www.runme.de/deutschland/we-beat-cancer-wbc-run-neubrandenburg/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (12 km um 10:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "drk-hospizlauf-2027",
+   "type": "road",
+   "name": "DRK-Hospizlauf",
+   "place": "Neustrelitz",
+   "bezirk": "Mecklenburgische Seenplatte",
+   "kreis": "Mecklenburgische Seenplatte",
+   "lat": 53.361,
+   "lon": 13.073,
+   "date": "2027-09-11",
+   "confirmed": false,
+   "distances": [
+    "7",
+    "16",
+    "20",
+    "M",
+    "50,5"
+   ],
+   "url": "http://www.drk-msp.de/",
+   "source": "https://www.runme.de/deutschland/hospitzlauf-neustrelitz/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (50,5 km um 07:30 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "07:30"
+   }
+  },
+  {
+   "id": "ernst-moritz-arndt-lauf-2027",
+   "type": "road",
+   "name": "Ernst-Moritz-Arndt-Lauf",
+   "place": "Garz",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Rügen",
+   "lat": 54.318,
+   "lon": 13.351,
+   "date": "2027-09-11",
+   "confirmed": false,
+   "distances": [
+    "6",
+    "10"
+   ],
+   "url": "https://www.cjd-fachklinik-ruegen.de/",
+   "source": "https://www.runme.de/deutschland/ernst-moritz-arndt-lauf-garz/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 10:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "hospizlauf-in-neustrelitz-2027",
+   "type": "road",
+   "name": "Hospizlauf in Neustrelitz",
+   "place": "Neustrelitz",
+   "bezirk": "Mecklenburgische Seenplatte",
+   "kreis": "Mecklenburgische Seenplatte",
+   "lat": 53.361,
+   "lon": 13.073,
+   "date": "2027-09-11",
+   "confirmed": false,
+   "distances": [
+    "16",
+    "7"
+   ],
+   "url": "https://www.hdsports.org/laufen/dek-hospizlauf-in-neustrelitz",
+   "source": "https://www.hdsports.org/laufen/dek-hospizlauf-in-neustrelitz",
+   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "nationalparklauf-2027",
+   "type": "road",
+   "name": "Nationalparklauf",
+   "place": "Ostseebad Prerow",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Rügen",
+   "lat": 54.427,
+   "lon": 12.547,
+   "date": "2027-09-12",
+   "confirmed": false,
+   "distances": [
+    "10,5",
+    "HM"
+   ],
+   "url": "http://www.ostseebad-prerow.de/",
+   "source": "https://www.runme.de/deutschland/nationalparklauf-ostseebad-prerow/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10,5 km um 10:30 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:30"
+   }
+  },
+  {
+   "id": "spaetsommerlauf-kritzmow-2027",
+   "type": "road",
+   "name": "Spätsommerlauf Kritzmow",
+   "place": "Stäbelow",
+   "bezirk": "Rostock",
+   "kreis": "LK Rostock",
+   "lat": 54.041,
+   "lon": 12.023,
+   "date": "2027-09-12",
+   "confirmed": false,
+   "distances": [
+    "6",
+    "10"
+   ],
+   "url": "http://www.ssv-kritzmow.de/",
+   "source": "https://www.runme.de/deutschland/spaetsommerlauf-kritzmow/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 10:30 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:30"
+   }
+  },
+  {
+   "id": "baaber-heidelauf-2027",
+   "type": "road",
+   "name": "Baaber Heidelauf",
+   "place": "Baabe",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Rügen",
+   "lat": 54.333,
+   "lon": 13.733,
+   "date": "2027-09-18",
+   "confirmed": false,
+   "distances": [
+    "6",
+    "10",
+    "15"
+   ],
+   "url": "http://laufteam-ruegen.de/",
+   "source": "https://www.runme.de/deutschland/baaber-heidelauf-ostseebad-baabe/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 10:30 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:30"
+   }
+  },
+  {
+   "id": "klausdorfer-kranichlauf-2027",
+   "type": "road",
+   "name": "Klausdorfer Kranichlauf",
+   "place": "Klausdorf",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Rügen",
+   "lat": 54.404,
+   "lon": 13.013,
+   "date": "2027-09-18",
+   "confirmed": false,
+   "distances": [
+    "10",
+    "15"
+   ],
+   "url": "http://www.klausdorfer-sc.de/",
+   "source": "https://www.runme.de/deutschland/klausdorfer-kranichlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 10:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "ostseeweg-ruegen-2027",
+   "type": "road",
+   "name": "Ostseeweg Rügen",
+   "place": "Breege",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Rügen",
+   "lat": 54.615,
+   "lon": 13.363,
+   "date": "2027-09-18",
+   "confirmed": false,
+   "distances": [
+    "33"
+   ],
+   "url": "https://www.hdsports.org/laufen/ostseeweg-ruegen",
+   "source": "https://www.hdsports.org/laufen/ostseeweg-ruegen",
+   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "peenetal-crosslauf-2027",
+   "type": "trail",
+   "name": "Peenetal Crosslauf",
+   "place": "Gützkow",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Greifswald",
+   "lat": 53.939,
+   "lon": 13.409,
+   "date": "2027-09-18",
+   "confirmed": false,
+   "distances": [
+    "5,2",
+    "11,3"
+   ],
+   "url": "https://www.runme.de/deutschland/peenetal-crosslauf-2026/",
+   "anmeldung_url": "https://my.raceresult.com/386845/",
+   "source": "https://www.runme.de/deutschland/peenetal-crosslauf-2026/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,2 km um 11:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "11:00"
+   }
+  },
+  {
+   "id": "stadtlauf-triebsees-2027",
+   "type": "road",
+   "name": "Stadtlauf Triebsees",
+   "place": "Tribsees",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Rügen",
+   "lat": 54.15,
+   "lon": 12.754,
+   "date": "2027-09-18",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10",
+    "HM"
+   ],
+   "url": "https://www.tribseeser-sv.de/",
+   "source": "https://www.runme.de/deutschland/stadtlauf-triebsees/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 10:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "fishermanstrail-fmt-sommer-edition-2027",
+   "type": "trail",
+   "name": "Fishermanstrail (FMT) - Sommer-Edition",
+   "place": "Alt Schwerin",
+   "bezirk": "Mecklenburgische Seenplatte",
+   "kreis": "Mecklenburgische Seenplatte",
+   "lat": 53.513,
+   "lon": 12.346,
+   "date": "2027-09-25",
+   "confirmed": false,
+   "distances": [
+    "58"
+   ],
+   "url": "https://www.hdsports.org/laufen/fishermanstrail-fmt-sommer-edition",
+   "source": "https://www.hdsports.org/laufen/fishermanstrail-fmt-sommer-edition",
+   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "fleesenseelauf-2027",
+   "type": "road",
+   "name": "Fleesenseelauf",
+   "place": "Göhren-Lebbin",
+   "bezirk": "Mecklenburgische Seenplatte",
+   "kreis": "Mecklenburgische Seenplatte",
+   "lat": 53.479,
+   "lon": 12.511,
+   "date": "2027-09-25",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10",
+    "HM"
+   ],
+   "url": "http://www.kersten-friedrich-events.com/",
+   "source": "https://www.runme.de/deutschland/fleesenseelauf-goehren-lebbin/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 09:30 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:30"
+   }
+  },
+  {
+   "id": "burgenlauf-von-penzlin-nach-burg-stargard-2027",
+   "type": "road",
+   "name": "Burgenlauf von Penzlin nach Burg Stargard",
+   "place": "Burg Stargard",
+   "bezirk": "Mecklenburgische Seenplatte",
+   "kreis": "Mecklenburgische Seenplatte",
+   "lat": 53.5,
+   "lon": 13.022,
+   "date": "2027-09-26",
+   "confirmed": false,
+   "distances": [
+    "23,9"
+   ],
+   "url": "http://www.hsv.hs-nb.de/",
+   "source": "https://www.runme.de/deutschland/burgenlauf-von-penzlin-nach-burg-stargard-neubrandenburg/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (23,9 km um 08:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "08:00"
+   }
+  },
+  {
+   "id": "kap-arkona-lauf-2027",
+   "type": "road",
+   "name": "Kap Arkona Lauf",
+   "place": "Juliusruh",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Rügen",
+   "lat": 54.615,
+   "lon": 13.363,
+   "date": "2027-10-03",
+   "confirmed": false,
+   "distances": [
+    "10",
+    "HM"
+   ],
+   "url": "http://www.kap-arkona-lauf.com/",
+   "source": "https://www.runme.de/deutschland/kap-arkona-aquamaris-lauf-seebad-juliusruh/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 11:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "11:00"
+   }
+  },
+  {
+   "id": "rostock-10km-2027",
+   "type": "road",
+   "name": "Rostock 10km",
+   "place": "Rostock",
+   "bezirk": "Rostock",
+   "kreis": "Stadt Rostock",
+   "lat": 54.0924406,
+   "lon": 12.0991466,
+   "date": "2027-10-03",
+   "confirmed": false,
+   "distances": [
+    "10"
+   ],
+   "url": "https://running.life/de/termine/rostock-10km",
+   "anmeldung_url": "https://my.raceresult.com/427096/",
+   "source": "https://running.life/de/termine/rostock-10km",
+   "info": "Termin und Strecken laut running.life/gotrail.run.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "ruegenbruecken-marathon-2027",
+   "type": "road",
+   "name": "Rügenbrücken Marathon",
+   "place": "Stralsund",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Rügen",
+   "lat": 54.304,
+   "lon": 13.046,
+   "date": "2027-10-09",
+   "confirmed": false,
+   "distances": [
+    "6",
+    "10",
+    "HM",
+    "M"
+   ],
+   "url": "http://www.ruegenmarathon.de/",
+   "source": "https://www.runme.de/deutschland/ruegenbruecken-marathon-stralsund/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (42,195 km um 09:30 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:30",
+    "fee": "Marathon 40 € (bis 03.07.2026), 45 € (bis 27.09.2026); Halbmarathon 25 € bzw. 30 €"
+   },
+   "showers": "Duschmöglichkeiten in der Jahnsportstätte, Karl-Marx-Straße 11, von 10 bis 16 Uhr"
+  },
+  {
+   "id": "sebastian-fredrich-gedenklauf-2027",
+   "type": "road",
+   "name": "Sebastian Fredrich Gedenklauf",
+   "place": "Lubmin",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Greifswald",
+   "lat": 54.077,
+   "lon": 13.535,
+   "date": "2027-10-10",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.tri-hgwaii.de/",
+   "source": "https://www.runme.de/deutschland/sebastian-fredrich-gedenklauf-lubmin/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 11:12 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "11:12"
+   }
+  },
+  {
+   "id": "herbstcross-eggesin-karpin-2027",
+   "type": "trail",
+   "name": "Herbstcross Eggesin-Karpin",
+   "place": "Eggesin",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Greifswald",
+   "lat": 53.68,
+   "lon": 14.08,
+   "date": "2027-10-23",
+   "confirmed": false,
+   "distances": [
+    "5,2",
+    "10,4"
+   ],
+   "url": "https://www.ksbv-g.de/",
+   "source": "https://www.runme.de/deutschland/herbstcross-eggesin-karpin/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "stralsunder-hochschullauf-2027",
+   "type": "road",
+   "name": "Stralsunder Hochschullauf",
+   "place": "Stralsund",
+   "bezirk": "Vorpommern",
+   "kreis": "Vorpommern-Rügen",
+   "lat": 54.327,
+   "lon": 13.064,
+   "date": "2027-11-06",
+   "confirmed": false,
+   "distances": [
+    "16",
+    "8"
+   ],
+   "url": "https://www.hdsports.org/laufen/stralsunder-fachhochschullauf",
+   "source": "https://www.hdsports.org/laufen/stralsunder-fachhochschullauf",
+   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
    "checked": "2026-11-05"
   }
  ]
