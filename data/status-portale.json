@@ -1,35 +1,35 @@
 {
 "augsburger-winterlaufserie-2026": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "heiner-mayr-staffelberglauf-2026": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "hoglworther-seelauf-2026": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "hugelland-trailrun-2026": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "ronsberger-crosslauf-2026": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "frei"
 },
 "streutaltrail-2026": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "teufelsberg-crosslauf-2026": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "lauf-am-lech-rain-2026": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "hinweis_voll": false
 },
 "alzauenlauf-2026": {
@@ -38,7 +38,7 @@
 "id": "399295"
 },
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "frei"
 },
 "fackellauf-gerbrunn-2026": {
@@ -47,38 +47,38 @@
 "id": "423017"
 },
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "frei"
 },
 "feuchtwanger-crosslauf-2026": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "hinweis_voll": false
 },
 "herzowerketrail-2026": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "lauf-ich-lauf-mit-gegen-gewalt-2026": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "unklar"
 },
 "runfellows-vorwald-ultra-trail-2026": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "waldlauf-buchenbach-2026": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "zeiler-waldmarathon-2026": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "hinweis_voll": false
 },
 "hobby-crosslauf-jetzendorf-2026": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "nurnberger-winterlaufserie-2026": {
 "portal": {
@@ -86,20 +86,20 @@
 "id": "415981"
 },
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "frei"
 },
 "crosslauf-muhldorf-2026": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "kordigast-berglauf-2026": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "riedenburger-zwei-burgen-lauf-2026": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "citylauf-ansbach-2026": {
 "portal_gesucht": "2026-11-02",
@@ -107,7 +107,7 @@
 },
 "memmelsdorfer-schlosslauf-2026": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "grosskarolinenfelder-nikolauslauf-2026": {
 "portal": {
@@ -115,7 +115,7 @@
 "id": "422392"
 },
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "frei"
 },
 "hainberglauf-2026": {
@@ -124,69 +124,69 @@
 "id": "399160"
 },
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "frei"
 },
 "kuhsee-marathon-2026": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "voll",
 "warteliste": true
 },
 "forchheimer-nikolauslauf-2026": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "mountainman-nikolaus-trail-2026": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "nikolaus-waldlauf-weissenbrunn-2026": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "frei"
 },
 "nikolauslauf-immenstadt-2026": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "frei"
 },
 "winterlaufserie-munchen-2026": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "nikolauslauf-landsberg-2026": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "nikolauslauf-ochsenfurt-2026": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "frei"
 },
 "sport-tahedl-nikolauslauf-2026": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "nikolaus-waldlauf-arnstorf-2026": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "dinkelsbuhler-crosslauf-2026": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "frei"
 },
 "friedenslichtlauf-2026": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "ismaninger-winterlaufserie-2026": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "hinweis_voll": false
 },
 "x-mas-lauf-festival-brombachsee-2026": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "aschauer-vorsilvesterlauf-2026": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "teils"
 },
 "silvesterlauf-munchen-2026": {
@@ -195,7 +195,7 @@
 "url": "https://www.datasport.de/anmeldeservice/silvesterlaufmuenchen2026/"
 },
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "frei"
 },
 "silvesterlauf-kempten-2026": {
@@ -204,141 +204,141 @@
 "url": "https://www.datasport.de/anmeldeservice/silvesterlaufkempten2026/"
 },
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "frei"
 },
 "crossdogs-silvestertrail-2026": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "frei"
 },
 "finale-furioso-silvesterlauf-goggelsbuch-2026": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "hinweis_voll": false
 },
 "friedberger-silvesterlauf-2026": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "silvesterlauf-gersthofen-2026": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "seubersdorfer-silvesterlauf-2026": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "silvesterlauf-bogen-2026": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "frei"
 },
 "silvesterlauf-nurnberg-2026": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "silvesterlauf-pfaffenhofen-glonn-2026": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "silvesterlauf-sandharlanden-2026": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "theramed-adam-riese-silvesterlauf-2026": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "amberger-silvesterlauf-2026": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "dreikonigslauf-starnberger-see-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "aichacher-dreikonigslauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "dreikonigslauf-lauingen-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "sparkassen-neujahrs-teamlauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "three-kings-ultra-trail-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "spindellauf-im-dez-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "staustufenlauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "hinweis_voll": false
 },
 "crosslauf-der-arnstorfer-lg-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "dinkelsbuhler-stadtlauf-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "frei"
 },
 "dingolfinger-stadion-crosslauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "mountainman-winterloop-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "yeti-trail-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "johannesbad-thermen-marathon-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "lut-crosslauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "prellsteinrennen-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "frei"
 },
 "obertrubacher-crosslauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "bayerische-cross-meisterschaft-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "tb-fruehjahrslauf-weiden-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "durrwangener-lauf-zur-alten-kappel-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "frei"
 },
 "erlanger-winterwaldlauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "bad-windsheimer-weinturmlauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "ebersberger-seelauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "fruhjahrslauf-kitzinger-zehner-2027": {
 "portal": {
@@ -346,24 +346,24 @@
 "id": "271835"
 },
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "anderes Datum"
 },
 "halbmarathon-strasslach-dingharting-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "hinweis_voll": false
 },
 "mental-health-rocks-run-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "ottobeurer-halbmarathon-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "engelberglauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "wurzburger-gedachtnislauf-2027": {
 "portal": {
@@ -371,64 +371,64 @@
 "url": "https://www.datasport.de/anmeldeservice/489/3112/teilnehmer/11046/"
 },
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "anderes Datum"
 },
 "deggendorfer-halbmarathon-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "gogerltrail-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "iller-lauf-senden-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "frei"
 },
 "6h-von-kelheim-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "marktlauf-rund-um-ruhstorf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "3-seen-halbmarathon-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "wolfsfaehrte-trail-fuersteneck-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "hinweis_voll": false
 },
 "jurasteig-nonstop-ultratrail-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "unklar"
 },
 "altenmunster-halbmarathon-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "landshut-lauft-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "silberwaldlauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "forstenrieder-volkslauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "kallmunzer-fruhlingslauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "saaletal-marathon-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "frei"
 },
 "seenlandmarathon-2027": {
@@ -437,25 +437,25 @@
 "id": "374378"
 },
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "anderes Datum"
 },
 "halbmarathon-pfarrkirchen-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "obermain-marathon-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "hinweis_voll": false
 },
 "panorama-run-guntersleben-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "frei"
 },
 "andechs-trail-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "soul-trail-2027": {
 "portal": {
@@ -463,12 +463,12 @@
 "id": "367246"
 },
 "portal_gesucht": "2026-11-03",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "anderes Datum"
 },
 "augsburger-swa-strassenlauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "burgweintinger-nepal-lauf-2027": {
 "portal": {
@@ -476,93 +476,93 @@
 "id": "65383"
 },
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "anderes Datum"
 },
 "halbmarathon-munchen-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "roe-cross-fruhlingslauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "rosenheimer-citylauf-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "frei"
 },
 "wendelsteiner-panoramalauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "amberger-fruehlingslauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "djk-domlauf-passau-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "gapa-vertical-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "ultratrail-frankische-schweiz-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "frankischer-fischkerwalauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "hiro-run-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "los-ultra-nurnberg-eckental-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "frei"
 },
 "gapa-trail-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "rottaler-volksmarathon-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "skywalk-lauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "dreiburgenland-marathon-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "hinweis_voll": false
 },
 "mini-maus-lauf-mendorferbuch-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "geretsrieder-stadtlauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "nordschwabenlauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "walhallalauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "wurzburger-residenzlauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "bad-koetztinger-stadtlauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "last-legs-ultra-wuerzburg-2027": {
 "portal": {
@@ -570,35 +570,35 @@
 "id": "419750"
 },
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "frei"
 },
 "isarstauseelauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "buchental-crosslauf-steinfeld-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "bamberg-weltkulturerbelauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "traunsteiner-halbmarathon-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "insellauf-bad-abbach-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "rogatemarktlauf-ergoldsbach-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "mountainman-nesselwang-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "schliersee-lauf-2027": {
 "portal": {
@@ -606,17 +606,17 @@
 "id": "308141"
 },
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "anderes Datum"
 },
 "beratzhausener-ehrenfelslauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "hinweis_voll": false
 },
 "mitterteicher-volkslauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "halbmarathon-ingolstadt-2027": {
 "portal": {
@@ -624,15 +624,15 @@
 "url": "https://www.datasport.de/anmeldeservice/halbmarathoningolstadt2026/"
 },
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "anderes Datum"
 },
 "ipf-ries-halbmarathon-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "regensburg-marathon-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "teils"
 },
 "maisels-funrun-bayreuth-2027": {
@@ -641,23 +641,23 @@
 "id": "425451"
 },
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "anderes Datum"
 },
 "gapa-everesting-festival-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "ebermannsdorfer-jedermannslauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "weissenburger-altstadtlauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "gebirgstalerlauf-oberstdorf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "marathon-wurzburg-2027": {
 "portal": {
@@ -665,12 +665,12 @@
 "url": "https://www.datasport.de/anmeldeservice/489/3112/teilnehmer/11046/"
 },
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "anderes Datum"
 },
 "obermoegersheimer-koderlauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "runandfun-bad-kissingen-2027": {
 "portal": {
@@ -678,7 +678,7 @@
 "id": "238820"
 },
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "anderes Datum"
 },
 "maincityrun-2027": {
@@ -687,53 +687,53 @@
 "id": "372029"
 },
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "anderes Datum"
 },
 "hahnenkammlauf-edelsfeld-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "alpenstadt-city-trail-bad-reichenhall-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "herzogstadtlauf-straubing-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "lamer-woid-reim-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "freystaedter-volksfestlauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "altoettinger-siebzehnruebl-dultlauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "neunkirchner-sommerlauf-lindelberg-trail-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "ploessberger-weiherlauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "rats-run-bodenmais-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "breitenberg-bewegt-dich-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "hinweis_voll": false
 },
 "neutraublinger-stadtlauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "mainauenlauf-bayreuth-2027": {
 "portal": {
@@ -741,12 +741,12 @@
 "id": "370275"
 },
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "anderes Datum"
 },
 "zugspitz-ultra-trail-by-utmb-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "metropolmarathon-furth-2027": {
 "portal": {
@@ -754,21 +754,21 @@
 "id": "256200"
 },
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "anderes Datum"
 },
 "baerenlauf-grafenau-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "hinweis_voll": false
 },
 "pleysteiner-stadtlauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "altmuehlfrankenlauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "lions-12-stunden-lauf-lindenberg-2027": {
 "portal": {
@@ -776,7 +776,7 @@
 "id": "280023"
 },
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "anderes Datum"
 },
 "essinger-reiherlauf-2027": {
@@ -785,35 +785,35 @@
 "id": "381957"
 },
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "anderes Datum"
 },
 "schoenseer-johannislauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "chamer-stadtlauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "fichtelgebirgsmarathon-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "hoalfinger-sommerlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "vr-charity-lauf-rottal-inn-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "u-trail-lamer-winkel-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "kirchberger-kirwalauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "buscherl-trail-2027": {
 "portal": {
@@ -821,19 +821,19 @@
 "id": "322855"
 },
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "anderes Datum"
 },
 "sportscheck-run-munchen-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "neuendettelsauer-kirchweihlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "lauf-rund-um-die-veste-coburg-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "oberstdorfer-nebelhornberglauf-2027": {
 "portal": {
@@ -841,12 +841,12 @@
 "url": "https://www.datasport.de/anmeldeservice/nebelhornberglauf2027/"
 },
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "frei"
 },
 "waldnaabtal-crosslauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "vilstaler-halbmarathon-reisbacher-volksfestlauf-2027": {
 "portal": {
@@ -854,16 +854,16 @@
 "id": "331344"
 },
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "anderes Datum"
 },
 "eggenfeldener-stadtlauf-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "anderes Datum"
 },
 "illschwanger-dorflauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "dietfurter-7-taeler-lauf-2027": {
 "portal": {
@@ -871,7 +871,7 @@
 "id": "331314"
 },
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "anderes Datum"
 },
 "taubertal-trail-steinsfeld-2027": {
@@ -880,12 +880,12 @@
 "id": "369848"
 },
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "anderes Datum"
 },
 "hardy-s-stadtlauf-furstenfeldbruck-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "waldkirchner-kirchturmlauf-2027": {
 "portal": {
@@ -893,24 +893,24 @@
 "id": "427996"
 },
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "frei"
 },
 "gibacht-berglauf-furth-im-wald-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "regensburger-altstadtlauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "waldershofer-stadtlauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "heizomat-altmuhlseelauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "inzeller-falkensteinlauf-2027": {
 "portal": {
@@ -918,12 +918,12 @@
 "id": "375941"
 },
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "anderes Datum"
 },
 "landauer-sommernachtslauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "dreisessel-berglauf-2027": {
 "portal": {
@@ -931,15 +931,15 @@
 "id": "231044"
 },
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "anderes Datum"
 },
 "maintal-ultratrail-veitshoechheim-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "frei"
 },
 "3kings3hills-trail-music-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-02",
 "portal": {
 "typ": "rr",
@@ -948,15 +948,15 @@
 "zustand": "anderes Datum"
 },
 "muenchnerauer-abendlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "konigsschlosser-marathon-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "flossenbuerger-burglauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "crazy-runners-frankenwald-trail-2027": {
 "portal": {
@@ -964,19 +964,19 @@
 "url": "https://www.datasport.de/anmeldeservice/frankenwaldtrailrun2027/"
 },
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "frei"
 },
 "rainer-volkslauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "muppberg-trailrun-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "poerndorfer-sommernachtslauf-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-02",
 "portal": {
 "typ": "rr",
@@ -986,18 +986,18 @@
 },
 "velburger-burgberglauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "johanniter-blaulicht-lauf-regensburg-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "allgau-panorama-marathon-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "kelheimer-volksfestlauf-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-02",
 "portal": {
 "typ": "rr",
@@ -1007,37 +1007,37 @@
 },
 "staedtedreieckslauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "gauboden-volksfest-lauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "hirschenstein-berglauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "bonbrucker-volksfestlauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "schwarzwihrberglauf-roetz-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "hofmuhl-volksfest-halbmarathon-eichstaett-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "gremsdorfer-kerwalauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "frankische-schweiz-marathon-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "wurzburg-lauf-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-02",
 "portal": {
 "typ": "rr",
@@ -1046,22 +1046,22 @@
 "zustand": "anderes Datum"
 },
 "allgau-trail-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "frei"
 },
 "nightrun-and-beats-deggendorf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "tr-plast-lauf-hoermannsdorf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "freisinger-volksfestlauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "sri-chinmoy-peace-mile-6-stunden-lauf-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-02",
 "portal": {
 "typ": "rr",
@@ -1070,7 +1070,7 @@
 "zustand": "frei"
 },
 "friedberger-halbmarathon-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-02",
 "portal": {
 "typ": "rr",
@@ -1079,7 +1079,7 @@
 "zustand": "frei"
 },
 "landkreis-lauftag-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-02",
 "portal": {
 "typ": "rr",
@@ -1089,7 +1089,7 @@
 },
 "sindiso-benefizlauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "arberland-ultra-trail-2027": {
 "portal": {
@@ -1097,11 +1097,11 @@
 "url": "https://www.datasport.de/anmeldeservice/arberlandultratrail2026/ergebnisse/"
 },
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "anderes Datum"
 },
 "brauereienlauf-frankische-toskana-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-02",
 "portal": {
 "typ": "rr",
@@ -1110,7 +1110,7 @@
 "zustand": "anderes Datum"
 },
 "dr-selmayr-gedachtnislauf-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-02",
 "portal": {
 "typ": "rr",
@@ -1119,25 +1119,25 @@
 "zustand": "anderes Datum"
 },
 "kapuziner-kessellauf-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "geschlossen"
 },
 "ohetal-volkslauf-ringelai-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "hinweis_voll": false
 },
 "landkreislauf-regensburg-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "monte-kaolino-laufcup-hirschau-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "stadtlauf-schrobenhausen-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "schuster-tegernseelauf-2027": {
 "portal": {
@@ -1145,39 +1145,39 @@
 "url": "https://www.datasport.de/anmeldeservice/tegernseelauf2026/ergebnisse/"
 },
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "anderes Datum"
 },
 "dingolfinger-halbmarathon-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "omv-halbmarathon-altoetting-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "karlsfelder-seelauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "memminger-altstadtlauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "mountainman-reit-im-winkl-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "fischhoflauf-tirschenreuth-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "konig-ludwig-lauf-sommer-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "internationaler-hochfellnberglauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "kulmbach-trails-2027": {
 "portal": {
@@ -1185,24 +1185,24 @@
 "url": "https://www.datasport.de/anmeldeservice/kulmbachtrails2026/"
 },
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "anderes Datum"
 },
 "waldmeisterlauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "ruhstorfer-gelaendelauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "hinweis_voll": false
 },
 "ile-gaeubodenlauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "isar-lauf-bad-toelz-lenggries-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-02",
 "portal": {
 "typ": "rr",
@@ -1211,7 +1211,7 @@
 "zustand": "anderes Datum"
 },
 "oberaudorf-trail-festival-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-02",
 "portal": {
 "typ": "rr",
@@ -1221,22 +1221,22 @@
 },
 "labertal-lauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "backyard-ultra-vilstalsee-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "hardy-s-stadtlauf-landsberg-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "regensburger-leukaemielauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "aschaffenburger-sparkassen-halbmarathon-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-02",
 "portal": {
 "typ": "rr",
@@ -1246,10 +1246,10 @@
 },
 "schweiger-forstlauf-anzing-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "buxachtal-lauf-memmingen-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-02",
 "portal": {
 "typ": "rr",
@@ -1259,45 +1259,46 @@
 },
 "vejdacher-hidn-trail-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "intern-jennerberglauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "munchen-marathon-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "citylauf-schwabach-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "trail-lauf-im-paradies-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "berchtesgaden-alpine-trail-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "fichtelultra-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "pfettrachtaler-lauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "djk-crosslauf-passau-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05",
+"hinweis_voll": false
 },
 "pfaffenhofener-stadtlauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "chiemgau-trail-run-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-02",
 "portal": {
 "typ": "rr",
@@ -1307,120 +1308,120 @@
 },
 "freudenseelauf-hauzenberg-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "parsberger-hatzengruenlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "simssee-halbmarathon-riedering-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "crosslauf-burgkirchen-gendorf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "sportscheck-run-nurnberg-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "freisinger-strassenlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "frankenwaldlauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "halloween-run-brombachsee-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "muhlhausener-spendenlauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "oberhachinger-halloween-herbstlauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "stadtwerke-lichterlauf-rothenburg-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "eibsee-herbstlauf-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "isartal-halbmarathon-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "hinweis_voll": false
 },
 "wiesent-challenge-2027": {
 "portal_gesucht": "2026-11-02",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "goldbacher-winter-crosslaufserie-2026": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "ainringer-crosslauf-2026": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "nikolauslauf-beilngries-2026": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "frei"
 },
 "hubland-adventlauf-2026": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "silvesterlauf-neuburg-donau-2026": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "maintal-crosslauf-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "wendelstein-bahn-crosslauf-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "neuberglauf-kasing-koesching-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "crosslauf-neumarkt-st-veit-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "treuchtlinger-fruehjahrslauf-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "sonthofer-wonnemar-fruehlingslauf-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "frei"
 },
 "aok-strassenlauf-augsburg-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "kreichauf-bau-run-thalmaessing-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "weilersbacher-fruehjahrslauf-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "crosslauf-marktl-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "leiblachlauf-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-04",
 "portal": {
 "typ": "rr",
@@ -1430,14 +1431,14 @@
 },
 "steinachtal-lauf-stadtsteinach-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "lifeletics-run-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "frei"
 },
 "burgbernheimer-berglauf-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-04",
 "portal": {
 "typ": "rr",
@@ -1447,22 +1448,22 @@
 },
 "kolmberglauf-oberstreu-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "neuhauser-strassenlauf-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "hardy-s-run-gauting-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "frei"
 },
 "moosburger-drei-rosenlauf-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "weilheimer-aulauf-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-04",
 "portal": {
 "typ": "rr",
@@ -1472,10 +1473,10 @@
 },
 "dachauer-fruehjahrslauf-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "mailauf-marktredwitz-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-04",
 "portal": {
 "typ": "rr",
@@ -1484,7 +1485,7 @@
 "zustand": "anderes Datum"
 },
 "neuburger-fruehjahrswaldlauf-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-04",
 "portal": {
 "typ": "rr",
@@ -1494,18 +1495,18 @@
 },
 "lindwurmlauf-scheinfeld-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "wuelflinger-waessernachlauf-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "friedenfelser-crosslauf-waldlauf-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "muenchner-kindl-lauf-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-04",
 "portal": {
 "typ": "rr",
@@ -1514,7 +1515,7 @@
 "zustand": "anderes Datum"
 },
 "lauf-der-generationen-rottendorf-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-04",
 "portal": {
 "typ": "rr",
@@ -1524,87 +1525,87 @@
 },
 "stoisser-alm-berglauf-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "erbarun-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "wesslinger-seelauf-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "10-aindlinger-marktlauf-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "osterseenlauf-iffeldorf-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "ebermergener-dorflauf-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "mountainman-watz-berchtesgaden-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "citylauf-aschaffenburg-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "mettenheimer-alleelauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "panorama-baumwipfel-lauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "nesselwanger-seenlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "salomon-zugspitz-ultratrail-by-utmb-zut-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "hoegl-berglauf-ainring-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "roemerlauf-obernburg-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "altstadtfestlauf-lauf-an-der-pegnitz-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "sonnwendlauf-um-den-gruentensee-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "hofer-backyard-ultra-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "fuchsburg-lauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "geiersberglauf-waigolshausen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "schwandorfer-charity-stadtlauf-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "staffelseelauf-murnau-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "dorfener-stadtlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "wolfratshauser-stadtlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "sonthofer-akw-citylauf-2027": {
 "portal": {
@@ -1612,134 +1613,134 @@
 "url": "https://www.datasport.de/anmeldeservice/sonthoferakwcitylauf2026/ergebnisse/"
 },
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "anderes Datum"
 },
 "gruenwalder-burglauf-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "plankenfelser-waldlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "schwanberglauf-iphofen-castell-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "stadtlauf-bad-neustadt-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "sommernachtslauf-muenchen-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "sparkassen-adam-riese-nachtlauf-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "hinweis_voll": false
 },
 "augsburger-nachtlauf-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "rueckenwindlauf-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "altmuehl-jura-halbmarathon-im-naturpark-altmuehltal-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "jura-trail-schesslitz-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "oscheffer-tsg-lauf-mainaschaff-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "schwindegger-schlosslauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "kapellenlauf-vorra-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "stauseelauf-bad-woerishofen-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "woessner-halbmarathon-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "hochgrat-berglauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "ipsheimer-weinberglauf-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "run-of-hope-kronach-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "hellerberglauf-buxheim-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "herbstlauf-hollstadt-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "hoernle-berglauf-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "stadtlauf-erding-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "kuckuckslauf-kemmern-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "benefizlauf-aidhausen-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "stadtlauf-merkendorf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "moehrendorfer-karpfenweiherlauf-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "ochsenweiherlauf-emskirchen-2027": {
 "portal_gesucht": "2026-11-04",
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "gemeinsam-sind-wir-pink-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "buchdorfer-jedermannslauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "wein-berg-lauf-ramsthal-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "salzach-brueckenlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "altmuehltrail-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "bocksbeutel-lauf-thuengersheim-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "maurener-lauf-um-den-eisbrunn-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "rohrwanglauf-2026": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-04",
 "portal": {
 "typ": "rr",
@@ -1748,27 +1749,27 @@
 "zustand": "unklar"
 },
 "waldhaegenich-lauf-2026": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "riedlinger-misselauf-2026": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "hegau-bodensee-cross-meersburg-2026": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "internationaler-hohenzollernberglauf-2026": {
-"geprueft": "2026-11-04",
-"zustand": "unklar"
+"geprueft": "2026-11-05",
+"zustand": "frei"
 },
 "bibersfelder-herbstlauf-2026": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "obersulmer-volkslauf-2026": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-04",
 "portal": {
 "typ": "rr",
@@ -1777,23 +1778,23 @@
 "zustand": "frei"
 },
 "steinheimer-geologenlauf-2026": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "stirnlampenlauf-tuttlingen-2026": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "monnem-cross-2026": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "6-oder-12h-run-freudenstadt-gruental-14-15-november-2026": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "riegeler-crosslauf-2026": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-04",
 "portal": {
 "typ": "rr",
@@ -1802,7 +1803,7 @@
 "zustand": "frei"
 },
 "crosslauf-denzlingen-2026": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-04",
 "portal": {
 "typ": "rr",
@@ -1811,19 +1812,19 @@
 "zustand": "frei"
 },
 "ring-running-series-hockenheimring-halbmarathon-und-marathon-2026": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04",
 "portal": {
 "typ": "ds",
 "url": "https://www.datasport.de/anmeldeservice/ringrunningseries2025/ergebnisse/"
 },
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "anderes Datum"
 },
 "stadtwerke-night-run-sindelfingen-2026": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "boennigheimer-stromberglauf-2026": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-04",
 "portal": {
 "typ": "rr",
@@ -1832,7 +1833,7 @@
 "zustand": "frei"
 },
 "suessener-stadtlauf-2026": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-04",
 "portal": {
 "typ": "rr",
@@ -1841,22 +1842,22 @@
 "zustand": "anderes Datum"
 },
 "mittelbaden-nikolauslauf-2026": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "bernhard-marathon-2026": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "adventslauf-weiden-2026": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "nikolauslauf-schnaitheim-2026": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "frei"
 },
 "crosslaufserie-oberschwaben-blitzenreute-2026": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-04",
 "portal": {
 "typ": "rr",
@@ -1865,7 +1866,7 @@
 "zustand": "frei"
 },
 "laufwelt-nikolauslauf-der-rsg-ried-rastatt-2026": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-04",
 "portal": {
 "typ": "rr",
@@ -1874,23 +1875,23 @@
 "zustand": "frei"
 },
 "nikolauslauf-ilsfeld-2026": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-04"
 },
 "itdesign-nikolauslauf-tuebingen-2026": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "spiegelberger-raeuberweglauf-2026": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "hegau-bodensee-crosslaufserie-radolfzell-markelfingen-2026": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "crosslaufserie-oberschwaben-4-lauf-reute-bad-waldsee-2026": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-04",
 "portal": {
 "typ": "rr",
@@ -1899,42 +1900,42 @@
 "zustand": "anderes Datum"
 },
 "gruental-winterultra-2026": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "britzinger-silvesterlauf-2026": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "hohenloher-silvesterlauf-2026": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "bietigheimer-silvesterlauf-2026": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "silvesterlauf-tettnang-2026": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "silvesterlauf-fluorn-winzeln-2026": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "silvesterlauf-auf-die-burg-teck-2026": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "silvesterlauf-heddesheim-2026": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "mergelstetter-silvesterlauf-2026": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "backnanger-silvesterlauf-2026": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-04",
 "portal": {
 "typ": "rr",
@@ -1943,31 +1944,31 @@
 "zustand": "frei"
 },
 "forchheimer-silvesterlauf-2026": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "stuttgarter-silvesterlauf-weilimdorf-2026": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-04"
 },
 "silvesterlauf-sigmaringen-2026": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "frei"
 },
 "neujahrslauf-leinfelden-echterdingen-2027": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "brogginger-spendenlauf-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-04"
 },
 "optima-dreikoenigslauf-schwaebisch-hall-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-04"
 },
 "degerlocher-3-koenigslauf-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-04",
 "portal": {
 "typ": "rr",
@@ -1976,7 +1977,7 @@
 "zustand": "anderes Datum"
 },
 "herbolzheimer-dreikoenigslauf-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-04",
 "portal": {
 "typ": "rr",
@@ -1985,18 +1986,19 @@
 "zustand": "anderes Datum"
 },
 "heininger-drei-koenigs-lauf-2027": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "dreikoenigslauf-sperrfechter-freizeitpark-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
 },
 "dreikoenigslauf-grossweier-2027": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "dreikoenigslauf-dielheim-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-04",
 "portal": {
 "typ": "rr",
@@ -2005,7 +2007,7 @@
 "zustand": "anderes Datum"
 },
 "crosslaufserie-oberschwaben-vogt-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-04",
 "portal": {
 "typ": "rr",
@@ -2014,10 +2016,10 @@
 "zustand": "anderes Datum"
 },
 "alb-gold-winterlaufcup-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "teninger-allmendlauf-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-04",
 "portal": {
 "typ": "rr",
@@ -2026,11 +2028,11 @@
 "zustand": "anderes Datum"
 },
 "hegau-bodensee-crosslaufserie-stockach-2027": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "crosslaufserie-oberschwaben-birkenhard-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-04",
 "portal": {
 "typ": "rr",
@@ -2039,24 +2041,24 @@
 "zustand": "anderes Datum"
 },
 "winterlaufserie-djk-goeppingen-2-lauf-2027": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04",
 "portal": {
 "typ": "ds",
 "url": "https://www.datasport.de/anmeldeservice/djkwinterlauf2026/"
 },
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "anderes Datum"
 },
 "hegau-bodensee-crosslaufserie-konstanz-2027": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "hegau-bodensee-crosslaufserie-reichenau-2027": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "hawei-by-night-5-10-km-nachtlauf-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-04",
 "portal": {
 "typ": "rr",
@@ -2065,7 +2067,7 @@
 "zustand": "frei"
 },
 "ultralauf-hawei50-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-04",
 "portal": {
 "typ": "rr",
@@ -2074,995 +2076,995 @@
 "zustand": "anderes Datum"
 },
 "winterlaufserie-djk-goeppingen-3-lauf-2027": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04",
 "portal": {
 "typ": "ds",
 "url": "https://www.datasport.de/anmeldeservice/djkwinterlauf2026/"
 },
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "anderes Datum"
 },
 "neckarufer-marathon-stuttgart-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "mathaisemarktlauf-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-04"
 },
 "weinsberger-weibertreulauf-2027": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "tor-zur-welt-lauf-irslingen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "gmuender-stadtlauf-2027": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04",
 "portal": {
 "typ": "ds",
 "url": "https://www.datasport.de/anmeldeservice/gmuenderstadtlauf2026/ergebnisse/"
 },
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "anderes Datum"
 },
 "rheinfelder-lauftag-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-04"
 },
 "heini-langlotz-lauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "ellwanger-sparkassen-lauf-in-den-fruehling-2027": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "baerlauchlauf-reudern-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "internationaler-kaiserstuhllauf-2027": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "sulzburger-fruehlingslauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "essinger-panoramalaeufe-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "pleidelsheimer-suewag-lauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "fruehlingsultra-freudenstadt-gruental-2027": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "calwer-hermann-hesse-lauf-2027": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "lindenlauf-neuenstadt-2027": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04",
 "portal": {
 "typ": "ds",
 "url": "https://www.datasport.de/anmeldeservice/motormanrun2026/"
 },
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "anderes Datum"
 },
 "rissnertlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "stutenseer-stadtlauf-2027": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "gruettlauf-loerrach-2027": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "elztaler-volkslauf-auerbach-2027": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "oepfinger-osterlauf-2027": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "obersontheimer-osterlauf-rund-um-den-heerberg-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "stettener-volkslauf-2027": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "blaufelder-volkslauf-2027": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "hoehlenbaerenlauf-giengen-huerben-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "lofutrail-2027": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "solitudelauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "mein-freiburg-marathon-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "portal_gesucht": "2026-11-04"
 },
 "stadtlauf-bad-mergentheim-2027": {
-"geprueft": "2026-11-04",
-"portal_gesucht": "2026-11-04"
+"portal_gesucht": "2026-11-04",
+"geprueft": "2026-11-05"
 },
 "unterlandlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "schwetzinger-spargellauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "10-kilometer-stadtlauf-wiesloch-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "missio-cross-challenge-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "freiburg-trailrun-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "wiesenseelauf-hemsbach-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "bad-liebenzeller-paracelsuslauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "muenstertaler-panorama-lauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "unterkirnacher-weihermooslauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "vr-halbmarathon-geislingen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "liwa-laufevent-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "traeublelauf-des-tsv-weingarten-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "soprema-neckar-run-mannheim-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "remstal-lauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "neureuter-volkslauf-karlsruhe-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "rheinauenlauf-bad-bellingen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "kayher-kirschbluetenlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "kirnberglauf-tuebingen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "estelberglauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "albside-up-the-hill-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "fischbacher-halbmarathon-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "genusslauf-muellheim-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "fruehlingslauf-heidenheim-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "kapfenburg-panoramalauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "zabergaeu-lauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "moessinger-stadtlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "biberacher-strassenlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "gaildorfer-kocherlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "ditzinger-lebenslauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "trollinger-marathon-heilbronn-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "atos-halbmarathon-heidelberg-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "stadtlauf-oehringen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "riedlauf-weil-der-stadt-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "sulzbacher-finsterklingenlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "schoenbuch-trophy-kreissparkassen-trail-run-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "wiblinger-fruehlingslauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "lauf-in-den-mai-schwanau-ottenheim-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "1-mai-laeufle-leinfelden-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "kocher-cup-aalen-unterkochen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "waldmeisterlauf-leonberg-warmbronn-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "kandel-berglauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "badische-meile-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "sindelfinger-werkstadtlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "oberndorfer-lauftag-neckartal-halbmarathon-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "lauftag-offenburg-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "schluchseelauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "after-work-run-wangen-im-allgaeu-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "keibellauf-huchenfeld-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "gruentalultra-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "himmelfahrtslauf-woessingen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "sparkassenlauf-geislingen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "lichtenstein-trail-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "bad-waldseer-lauffieber-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "backyard-swub-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "gaeufelderlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "kuenzelsauer-stadtlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "rinken-trailrun-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "mahle-lauf-muehlacker-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "ipf-ries-halbmarathon-noerdlingen-bopfingen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "feuerbacher-volkslauf-rund-um-die-mammutbaeume-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "welzheimer-limeslaeufe-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "uhldinger-pfahlbau-halbmarathon-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "alb-traum-100-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "kandern-trail-masters-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "altstadtlauf-weinheim-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "stadtlauf-osterburken-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "bugginger-feierabendlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "wuermersheimer-speckkaelblelauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "neukircher-waelderlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "waescherinnenlauf-frauenlauf-karlsruhe-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "elpersheimer-pfingstlauf-um-den-energiezentrum-cup-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "ortenauer-laufnacht-willstaett-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "go-zap-laufevent-nussloch-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "freundschaftslauf-course-de-l-amiti-hartheim-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "steinacher-sommer-abend-lauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "holzgerlinger-waldtrail-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "eichberglauf-glottertal-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "stuttgart-lauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "halbmarathon-sigmaringen-schwaebische-zeitung-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "anderes Datum"
 },
 "hardtwaldlauf-karlsruhe-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "after-work-run-wangen-im-allgaeu-juni-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "ettlinger-altstadtlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "hohenloher-geniesserlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "mahlberglauf-gaggenau-freiolsheim-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "kehler-rheinuferlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "duenenlauf-sandhausen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "kieselbronner-gaisseschennerlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "nordheimlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "kirchenkirnberger-wald-und-wiesenlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "tve-sommerlauf-edingen-neckarhausen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "feuerwehrlauf-bad-mergentheim-loeffelstelzen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "verenalauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "hohenneuffen-berglauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "heidenheimer-stadtlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "heel-lauf-baden-baden-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "seelbach-schwarzwald-sonnwendlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "ochsenhausener-fuerstenwaldlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "sandhofer-strassenlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "24h-spendenlauf-backyard-for-charity-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "stuifenlaeufe-wissgoldingen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "huettlinger-muffigellauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "hirschauer-spitzberglauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "die-kleine-laufnacht-ulm-blaustein-outdoor-festival-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "sixdaysrun-freudenstadt-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "waiblinger-stadtlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "moeckmuehler-stadtlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "ksc-schlossparklauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "volksbank-ueberlingen-run-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "swp-citylauf-pforzheim-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "bietigheimer-fackellauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "bergdorfmeile-karlsruhe-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "x-trail-run-breitnau-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "crailsheimer-halbmarathon-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "neuensteiner-stadtlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "neuenbuerger-schloss-park-run-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "king-of-the-loop-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "ravensburger-stadtlauf-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "anderes Datum"
 },
 "mitternachtslauf-bad-krozingen-biengen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "citylauf-leonberg-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "assamstadter-volkslauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "zwiefalter-berglauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "schienerberglauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "lauf-in-die-sonne-leutenbach-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "eschelbronner-schreinerdorflauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "steps-for-life-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "wielemer-viertele-mittelstenweiler-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "brunnenfestlauf-bad-waldsee-reute-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "heuchelberg-trail-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "kinzigcross-gengenbach-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "auenwaldlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "st-georgener-stadtfestlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "reutlinger-altstadtlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "wangener-altstadtlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "spendenlauf-illerrieden-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "wilhelmsfelder-kerwelauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "esslinger-zeitung-lauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "eselsburger-tal-lauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "after-work-run-wangen-im-allgaeu-juli-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "siessener-teufelslauf-hoerenhausen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "burbacher-windecklauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "most-insane-psyland-backyard-ultra-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "bad-buchauer-stadtlauf-federsee-halbmarathon-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "panoramalauf-doeggingen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "tanzenhaider-weiherlauf-oberreichenbach-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "seefest-crosslauf-fichtenau-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "reischmann-bahnstadtlauf-heidelberg-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "nusslocher-wiesenlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "strahlenburgtrail-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "rosskopflauf-heuweiler-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "steinenberger-waldlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "metzinger-ermstal-marathon-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "ranntal-lauf-noettingen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "vierlaender-eck-lauf-boesingen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "kuelsheimer-trailrun-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "barocklauf-ludwigsburg-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "24h-lauf-dettenhausen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "stadtlauf-schrozberg-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "ultralauf-night52-kraichgau-citycup-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "herbolzheimer-gaenslauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "biosphaerenlauf-muensingen-auingen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "allgaeu-volkslauf-leutkirch-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "aalener-stadtlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "heumadener-volkslauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "jakob-scheuring-gedaechtnislauf-ottenau-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "wild-run-oberkollbach-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "mannheimer-frauenlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "altstadtlauf-bad-saeckingen-trompeterlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "klettgaulauf-weisweil-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "waldlauf-renquishausen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "spendenlauf-tsv-hoepfingen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "rechberghaeuser-sommernachtslauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "reichenbacher-citylauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "oberrieder-tote-mann-berglauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "gailinger-staffelwaldlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "weinheim-trails-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "kusterdinger-hornissenlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "mercaden-boeblingen-stadtlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "volkslauf-rund-um-pfohren-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "nordschwarzwald-trophy-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "swe-halbmarathon-ettlingen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "mehrstetter-crosslauf-rund-um-kahlenbuehl-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "laufwelt-extrem-cross-rastatt-wintersdorf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "wendlinger-zeitungslauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "muenzwaldlauf-und-volkslauf-lichtenau-ulm-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "hambruecker-lusshardtlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "sommer24hlauf-freudenstadt-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "umpfertallauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "rheinauer-volkslauf-mannheimer-strassenlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "weikersheimer-kaerwelauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "backyard-ultra-24h-wertheim-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "kraehbuckellauf-wiesenbach-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "charity-walk-run-freiburg-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "lauf-mit-isingen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "dagersheimer-waldlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "ebm-papst-marathon-hohenlohekreis-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "hahnenfalzhuetten-berglauf-bad-herrenalb-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "hechinger-panoramalauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "wehratallauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "ma-dame-run-frauenlauf-kehl-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "braunenberg-lauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "black-forest-ultra-trail-run-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "bodensee-marathon-kressbronn-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "aspacher-volkslauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "messelauf-etsv-04-lauda-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "baedleslauf-stuttgart-zuffenhausen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "schurwaldlauf-rommelshausen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "belchen-berglauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "baden-marathon-karlsruhe-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "stuttgarter-lebenslauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "trailmarathon-heidelberg-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "tuebinger-erbe-lauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "volkslauf-der-stadtwerke-karlsruhe-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "waielaender-waldlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "tuttlinger-tsf-backyard-ultra-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "spitzmueller-ag-night-run-gengenbach-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "remsecker-waldlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "friedrichshaller-runde-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "durlacher-turmberglauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "stadtlauf-ilshofen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "einstein-marathon-ulm-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "topibluetenlauf-staffort-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "klosterlauf-friesenheim-schuttern-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "wehinger-fossiliuslauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "weinheimer-herbstlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "kraichgau-lauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "esslinger-schurwaldlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "theodor-heuss-lauf-brackenheim-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "herbstlauf-oetigheim-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "12-oder-24-h-lauf-dornstetten-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "e2h10k-ultratrail-calw-100-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "trailrun21-zell-am-harmersbach-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "bergstrasse-odenwald-walk-trailrun-weinheim-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "djk-lauf-ludwigsburg-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "kirchertlauf-nuertingen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "wiernsheim-heckengaeu-volkslauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "staufener-altstadtlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "oestringer-fitnesslauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "odenwaelder-herbstlauf-mudau-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "crailsheimer-sparkassenlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "10-km-lauf-neuhuetten-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "black-forest-trailrun-masters-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "murr-backyard-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "moessinger-apfellauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "herbstlauf-niederwangen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "tvm-gehrenberglauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "schmellbackyard-leinfelden-echterdingen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "biberacher-herbstwaldlauf-burrenwald-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "schwarzwald-marathon-braeunlingen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "wertheimer-messelauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "lossburger-waldlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "muswiesenlauf-musdorf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "vulpius-gesundheitslauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "kuppinger-mondfaengerlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "herbstlauf-schutterwald-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "haertsfelder-panoramalauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "suedwestzipfel-lauf-grenzach-wyhlen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "giengener-stadtlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "walter-nordstadt-lauf-pforzheim-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "franklin-meilenlauf-mannheim-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "berglauf-geislingen-an-der-steige-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "filderstadt-halbmarathon-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "running-festival-mannheim-2027": {
-"geprueft": "2026-11-04",
+"geprueft": "2026-11-05",
 "zustand": "frei"
 },
 "vellberger-volkslauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "bolbergtrail-sonnenbuehl-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "schloss-cross-laupheim-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "nattheimer-maultaschenlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "ensinger-laufcup-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "oberwaldlauf-rueppurr-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "feudenheimer-herbstlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "biberacher-geniesserlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "keltenlauf-ditzingen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "rimsinger-tuniberg-panoramalauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "salacher-loewenlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "gosheimer-lemberglauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "ettenheimer-stadtlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "bottwartal-marathon-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "naturpark-schoenbuchlauf-hildrizhausen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "kirbe-lauf-nellingen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "crosslauf-endingen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "sparkassen-alb-marathon-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "starzachlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "friedrichstaler-waldlauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "pfinztallauf-pfinztal-berghausen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "bietlauf-muehlhausen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "loewensteiner-berglauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "kaeppele-lauf-nuertingen-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "hockenheimring-lauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "gaffenberglauf-2027": {
-"geprueft": "2026-11-04"
+"geprueft": "2026-11-05"
 },
 "karlsbader-volkslauf-langensteinbach-2027": {
 "geprueft": "2026-11-04"
@@ -3102,5 +3104,1206 @@
 },
 "silvesterlauf-ottenbach-2027": {
 "geprueft": "2026-11-04"
+},
+"pohlheimer-limes-winterlaufserie-2026": {
+"geprueft": "2026-11-05"
+},
+"rodgauer-winterlaufserie-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"schkoelener-stadtparklauf-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"karlsbader-volkslauf-langensteinbach-2026": {
+"geprueft": "2026-11-05"
+},
+"uderslebener-waldlauf-2026": {
+"geprueft": "2026-11-05"
+},
+"kerner-nachtlauf-2026": {
+"geprueft": "2026-11-05"
+},
+"sparkassen-cross-pforzheim-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"alten-busecker-winterlaufserie-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"landgrafenlauf-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"zeitzgrundlauf-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"eicut65-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"geislinger-volkslauf-2026": {
+"geprueft": "2026-11-05"
+},
+"offenbacher-behoerden-und-volkswaldlauf-2026": {
+"geprueft": "2026-11-05"
+},
+"nussdorflauf-eberdingen-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"rhaedenlauf-wildeck-obersuhl-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"seligenstaedter-winterlaufserie-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"winterlaufserie-tsv-blau-weiss-wolfhagen-ippinghausen-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"villmarer-dorflauf-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"adventslauf-giessen-2026": {
+"geprueft": "2026-11-05"
+},
+"pfungstaedter-advents-crosslauf-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"winterlauf-walkingserie-hofheim-lorsbach-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"5-10k-rainbow-run-frankfurt-am-main-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"melsunger-adventslauf-rund-um-die-koppe-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"nikolauslauf-bad-schoenborn-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"weiterstaedter-nikolauslauf-2026": {
+"geprueft": "2026-11-05"
+},
+"saalfelder-winterlauf-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"winterlauf-buehlerzell-2026": {
+"geprueft": "2026-11-05"
+},
+"jahresendlauf-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"adventslauf-reichelsheim-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"adventslauf-dornstetten-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"erfurter-heros-weihnachtslauf-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"heiligabend-lauf-thueringer-wald-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"gaensebratenvernichtungslauf-wiesbaden-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"silvesterlauf-wesertal-arenborn-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"silvesterlauf-schwaibach-2026": {
+"geprueft": "2026-11-05"
+},
+"tuttlinger-silvesterlauf-2026": {
+"geprueft": "2026-11-05"
+},
+"kisslegger-silvesterlauf-2026": {
+"geprueft": "2026-11-05"
+},
+"silvesterlauf-ottenbach-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"griesheimer-rewe-michael-weisbrod-silvesterlauf-2026": {
+"geprueft": "2026-11-05"
+},
+"spiridon-mainova-silvesterlauf-frankfurt-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05",
+"portal": {
+"typ": "ds",
+"url": "http://www.datasport.de/anmeldeservice/silvesterlauffrankfurt2026/"
+},
+"zustand": "unklar"
+},
+"oberrodenbacher-silvesterlauf-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"silvesterlauf-kaufungen-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"ziegenhainer-silvesterlauf-schwalmstadt-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"sparkasse-giessen-silvesterlauf-rund-um-den-schiffenberg-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"tg-biblis-silvesterlauf-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"apoldaer-silvesterlauf-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"geraer-silvesterlauf-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"erfurter-silvesterlauf-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"silvesterlauf-waldeck-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"tannaer-silvesterlauf-2026": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"eichsfelder-silvesterlauf-bernshausen-2026": {
+"geprueft": "2026-11-05"
+},
+"nordhaeuser-silvesterlauf-2026": {
+"geprueft": "2026-11-05"
+},
+"dittrichshuetter-neujahrslauf-2027": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"meininger-silvesterlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"dreikoenigs-benefizlauf-unterwurmbach-2027": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"neujahrslauf-in-muenchenbernsdorf-2027": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"crosslauf-2027": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"dreikoenigslauf-vfl-altenstadt-2027": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"drei-kirchen-neujahrslauf-2027": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"offenbacher-suppenschuessel-cross-2027": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"winterlaufserie-des-eisenacher-lv-in-creuzburg-2027": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"wintertrail-weissendorf-2027": {
+"geprueft": "2026-11-05"
+},
+"50km-ultramarathon-des-rlt-rodgau-2027": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"winterlaufserie-lg-dornburg-2027": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"fruehjahrslauf-gross-gerau-2027": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"moerfelder-winterlaufserie-2027": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"fuchsberglauf-2027": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"kristallmarathon-2027": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"spendenlauf-helauf-lauf-der-narren-2027": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"halbmarathon-moerfelden-2027": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"wallernhaeuser-wintercross-nidda-wallernhausen-2027": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"altweilnauer-wald-crosslauf-des-tus-weilnau-2027": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"albert-kuntz-lauf-2027": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"lahntallauf-marburg-2027": {
+"geprueft": "2026-11-05"
+},
+"auf-die-platte-fertig-los-2027": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"hofwiesenparklauf-1-osterland-cross-2027": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"lauf-in-den-fruehling-bad-berka-2027": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"soemmerdaer-hoffnungsroute-2027": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"offenbacher-rosenhoehe-waldlauf-2027": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"winterlaufserie-ahnatal-2027": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"fruehjahrslauf-durch-den-leinawald-2027": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"brechener-strassenlauf-2027": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"walter-eifert-crosslauftag-bad-soden-neuenhain-2027": {
+"geprueft": "2026-11-05",
+"portal_gesucht": "2026-11-05"
+},
+"eisenberger-muehltallauf-2027": {
+"geprueft": "2026-11-05"
+},
+"volkslauf-rund-um-den-winterstein-2027": {
+"geprueft": "2026-11-05"
+},
+"lauf-rund-um-die-leuchtberge-2027": {
+"geprueft": "2026-11-05"
+},
+"wickerstedter-marathon-2027": {
+"geprueft": "2026-11-05"
+},
+"heineparklauf-2027": {
+"geprueft": "2026-11-05"
+},
+"possenlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"veilsdorfer-waldlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"frankfurter-mainova-halbmarathon-2027": {
+"geprueft": "2026-11-05"
+},
+"zwei-huegel-crosslauf-darmstadt-wixhausen-2027": {
+"geprueft": "2026-11-05"
+},
+"dingelstaedter-fruehlingslauf-2027": {
+"geprueft": "2026-11-05"
+},
+"fruehjahrscrosslauf-im-steiger-2027": {
+"geprueft": "2026-11-05"
+},
+"koestritzer-fruehjahrscrosslauf-2027": {
+"geprueft": "2026-11-05"
+},
+"schneller-zehner-rodenbach-2027": {
+"geprueft": "2026-11-05"
+},
+"3-berge-lauf-haina-dodenhausen-2027": {
+"geprueft": "2026-11-05"
+},
+"osterlauf-des-lc-marathon-80-e-v-2027": {
+"geprueft": "2026-11-05"
+},
+"ilmenauer-osterlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"saalfelder-kulmberglauf-2027": {
+"geprueft": "2026-11-05"
+},
+"seligenstaedter-wasserlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"giessener-fruehjahrslauf-2027": {
+"geprueft": "2026-11-05"
+},
+"buedingen-cross-2027": {
+"geprueft": "2026-11-05"
+},
+"moorentallauf-2027": {
+"geprueft": "2026-11-05"
+},
+"kunigundenlauf-kaufungen-2027": {
+"geprueft": "2026-11-05"
+},
+"forstlauf-jena-2027": {
+"geprueft": "2026-11-05"
+},
+"weingarten-backyard-ultra-2027": {
+"geprueft": "2026-11-05"
+},
+"kyffhaeuser-berglauf-2027": {
+"geprueft": "2026-11-05"
+},
+"dorflauf-geiss-nidda-2027": {
+"geprueft": "2026-11-05"
+},
+"stadtlauf-in-nidda-2027": {
+"geprueft": "2026-11-05"
+},
+"winterlaufserie-der-triathletenschmiede-werratal-e-v-2027": {
+"geprueft": "2026-11-05"
+},
+"maarauelauf-mainz-kostheim-2027": {
+"geprueft": "2026-11-05"
+},
+"michelfelder-volkslauf-2027": {
+"geprueft": "2026-11-05"
+},
+"henkell-0-0-vinothon-wiesbaden-rheingau-genussmarathon-2027": {
+"geprueft": "2026-11-05"
+},
+"eichenzeller-fruehlingslauf-2027": {
+"geprueft": "2026-11-05"
+},
+"kurparklauf-bad-koenig-2027": {
+"geprueft": "2026-11-05"
+},
+"niederurffer-brueckenlauf-bad-zwesten-2027": {
+"geprueft": "2026-11-05"
+},
+"wettertallauf-bad-nauheim-2027": {
+"geprueft": "2026-11-05"
+},
+"heeresberglauf-2027": {
+"geprueft": "2026-11-05"
+},
+"staufenlauf-kelkheim-2027": {
+"geprueft": "2026-11-05"
+},
+"suewag-energie-feldberglauf-oberursel-2027": {
+"geprueft": "2026-11-05"
+},
+"hofgeismarer-volkslauf-2027": {
+"geprueft": "2026-11-05"
+},
+"griesheimer-jacobi-strassenlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"twistesee-lauf-bad-arolsen-2027": {
+"geprueft": "2026-11-05"
+},
+"breitunger-pless-berglauf-2027": {
+"geprueft": "2026-11-05"
+},
+"lange-bahn-lauf-2027": {
+"geprueft": "2026-11-05"
+},
+"altenlotheimer-dorflauf-frankenau-altenlotheim-2027": {
+"geprueft": "2026-11-05"
+},
+"koerler-volkslauf-2027": {
+"geprueft": "2026-11-05"
+},
+"froebellauf-2027": {
+"geprueft": "2026-11-05"
+},
+"arnstaedter-citylauf-2027": {
+"geprueft": "2026-11-05"
+},
+"gleichberglauf-2027": {
+"geprueft": "2026-11-05"
+},
+"track-meets-trail-talsperrenlauf-am-zeulenrodaer-meer-2027": {
+"geprueft": "2026-11-05"
+},
+"koenigsteiner-benefizlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"dillenburger-stadtlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"streuobstwiesenlauf-bad-homburg-kirdorf-2027": {
+"geprueft": "2026-11-05"
+},
+"frankfurter-lauf-2027": {
+"geprueft": "2026-11-05"
+},
+"villmarer-trail-run-2027": {
+"geprueft": "2026-11-05"
+},
+"i-lauf-lauf-fuer-inklusion-in-gelnhausen-2027": {
+"geprueft": "2026-11-05"
+},
+"3tuermelauf-2027": {
+"geprueft": "2026-11-05"
+},
+"rhoener-volkslauf-2027": {
+"geprueft": "2026-11-05"
+},
+"steiger-fruehjahrs-lauf-2027": {
+"geprueft": "2026-11-05"
+},
+"goethe-kultur-lauf-weimar-2027": {
+"geprueft": "2026-11-05"
+},
+"alteburglauf-2027": {
+"geprueft": "2026-11-05"
+},
+"mainuferlauf-ruesselsheim-2027": {
+"geprueft": "2026-11-05"
+},
+"voehler-abendlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"nieder-erlenbacher-volkslauf-frankfurt-2027": {
+"geprueft": "2026-11-05"
+},
+"beichlinger-schlossberglauf-2027": {
+"geprueft": "2026-11-05"
+},
+"hainich-lauf-7-werratalmarathon-2027": {
+"geprueft": "2026-11-05"
+},
+"kanonenbahnlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"stiefelburglauf-tonndorf-2027": {
+"geprueft": "2026-11-05"
+},
+"werratal-marathon-2027": {
+"geprueft": "2026-11-05"
+},
+"charity-walk-run-wiesbaden-2027": {
+"geprueft": "2026-11-05"
+},
+"moerlenbacher-volkslauf-2027": {
+"geprueft": "2026-11-05"
+},
+"harztorlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"sport-weiss-lauf-koenigsfeld-2027": {
+"geprueft": "2026-11-05"
+},
+"fischbachtal-lauf-2027": {
+"geprueft": "2026-11-05"
+},
+"beerfelder-stadtlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"emil-von-behring-gedaechtnislauf-marburg-2027": {
+"geprueft": "2026-11-05"
+},
+"schlosswaldlauf-alsfeld-altenburg-2027": {
+"geprueft": "2026-11-05"
+},
+"roehn-energie-challenge-fulda-2027": {
+"geprueft": "2026-11-05"
+},
+"volkslauf-willingen-2027": {
+"geprueft": "2026-11-05"
+},
+"wolfhager-volkslauf-rund-um-den-graner-berg-2027": {
+"geprueft": "2026-11-05"
+},
+"efzewiesenlauf-homberg-2027": {
+"geprueft": "2026-11-05"
+},
+"duensberglauf-biebertal-fellingshausen-2027": {
+"geprueft": "2026-11-05"
+},
+"gothaer-sparkassen-schlossparklauf-2027": {
+"geprueft": "2026-11-05"
+},
+"strassenlauf-riedstadt-wolfskehlen-2027": {
+"geprueft": "2026-11-05"
+},
+"idsteiner-stadtlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"sonneberger-night-run-2027": {
+"geprueft": "2026-11-05"
+},
+"berndorfer-volkslauf-twistetal-berndorf-2027": {
+"geprueft": "2026-11-05"
+},
+"dorfelder-skyline-run-niederdorfelden-2027": {
+"geprueft": "2026-11-05"
+},
+"schwanheimer-pfingstlauf-frankfurt-schwanheim-2027": {
+"geprueft": "2026-11-05"
+},
+"stockheimer-dorflauf-glauburg-2027": {
+"geprueft": "2026-11-05"
+},
+"suelzbacher-volkslauf-um-den-altenberg-2027": {
+"geprueft": "2026-11-05"
+},
+"pfingstlauf-des-tsv-krofdorf-gleiberg-2027": {
+"geprueft": "2026-11-05"
+},
+"ahnataler-abendvolkslauf-2027": {
+"geprueft": "2026-11-05"
+},
+"michelsberger-dorflauf-schwalmstadt-2027": {
+"geprueft": "2026-11-05"
+},
+"schlangen-trail-run-2027": {
+"geprueft": "2026-11-05"
+},
+"gutsmuths-rennsteiglauf-2027": {
+"geprueft": "2026-11-05"
+},
+"scharfensteinlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"wbg-zukunft-geraauelauf-2027": {
+"geprueft": "2026-11-05"
+},
+"brunnenfestlauf-oberursel-2027": {
+"geprueft": "2026-11-05"
+},
+"steinberger-wald-volkslauf-dietzenbach-steinberg-2027": {
+"geprueft": "2026-11-05"
+},
+"hoelleberglauf-trendelburg-langenthal-2027": {
+"geprueft": "2026-11-05"
+},
+"lauf-um-die-himmelsschaukel-bruendersen-2027": {
+"geprueft": "2026-11-05"
+},
+"loewenlauf-bad-zwesten-2027": {
+"geprueft": "2026-11-05"
+},
+"volkslauf-wacker-frohnhausen-gladenbach-frohnhausen-2027": {
+"geprueft": "2026-11-05"
+},
+"michelstaedter-stadtlauf-bienemarktlauf-odenwald-2027": {
+"geprueft": "2026-11-05"
+},
+"greifenstein-berglauf-ehringshausen-2027": {
+"geprueft": "2026-11-05"
+},
+"ohmrathon-2027": {
+"geprueft": "2026-11-05"
+},
+"erfurtshaeuser-lauf-amoeneburg-erfurtshausen-2027": {
+"geprueft": "2026-11-05"
+},
+"liederbacher-wachtelrun-2027": {
+"geprueft": "2026-11-05"
+},
+"schlossberglauf-altwildungen-2027": {
+"geprueft": "2026-11-05"
+},
+"brunnenfestlauf-bad-berka-2027": {
+"geprueft": "2026-11-05"
+},
+"kickelhahn-berglauf-2027": {
+"geprueft": "2026-11-05"
+},
+"leihgesterner-volkslauf-linden-2027": {
+"geprueft": "2026-11-05"
+},
+"giessener-frauenlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"wallauer-mittsommerlauf-hofheim-wallau-2027": {
+"geprueft": "2026-11-05"
+},
+"lingelbacher-windmuehlenlauf-alsfeld-lingelbach-2027": {
+"geprueft": "2026-11-05"
+},
+"himmelsleiterlauf-darmstadt-2027": {
+"geprueft": "2026-11-05"
+},
+"queckboerner-sommerlauf-gruenberg-2027": {
+"geprueft": "2026-11-05"
+},
+"jenaer-backyard-ultra-2027": {
+"geprueft": "2026-11-05"
+},
+"jenaer-lobdeburglauf-2027": {
+"geprueft": "2026-11-05"
+},
+"silberberglauf-2027": {
+"geprueft": "2026-11-05"
+},
+"kulpenberg-berglauf-2027": {
+"geprueft": "2026-11-05"
+},
+"pfingstlauf-willingen-usseln-2027": {
+"geprueft": "2026-11-05"
+},
+"brueder-grimm-lauf-hanau-2027": {
+"geprueft": "2026-11-05"
+},
+"mittsommerlauf-ruedersdorf-2027": {
+"geprueft": "2026-11-05"
+},
+"ketteler-lauf-lauf-dem-krebs-davon-2027": {
+"geprueft": "2026-11-05"
+},
+"bartenwetzer-volkslauf-melsungen-2027": {
+"geprueft": "2026-11-05"
+},
+"autohaus-lutz-nightrun-muehltal-traisa-2027": {
+"geprueft": "2026-11-05"
+},
+"gellershaeuser-abendlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"altenburger-skatstadtmarathon-2027": {
+"geprueft": "2026-11-05"
+},
+"eschathlon-der-eschborner-halbmarathon-2027": {
+"geprueft": "2026-11-05"
+},
+"kurt-roth-lauf-wersau-2027": {
+"geprueft": "2026-11-05"
+},
+"kefenroeder-dorflauf-2027": {
+"geprueft": "2026-11-05"
+},
+"lindwurmlauf-am-frankenstein-nieder-beerbach-2027": {
+"geprueft": "2026-11-05"
+},
+"melibokuslauf-mit-3-mountainbike-gipfelsprint-2027": {
+"geprueft": "2026-11-05"
+},
+"taunussteiner-waldlauf-30-7-2027": {
+"geprueft": "2026-11-05"
+},
+"kirschlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"drei-laender-volkslauf-2027": {
+"geprueft": "2026-11-05"
+},
+"heiligenroeder-abendlauf-niestetal-heiligenrode-2027": {
+"geprueft": "2026-11-05"
+},
+"sportpark-heppenheim-altstadtlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"heuchelheimer-mitternachtslauf-2027": {
+"geprueft": "2026-11-05"
+},
+"dieburger-stadtlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"feldbergfestlauf-grosser-feldberg-2027": {
+"geprueft": "2026-11-05"
+},
+"taunus-trailrun-selters-eisenbach-2027": {
+"geprueft": "2026-11-05"
+},
+"lauf-baunatal-rennt-2027": {
+"geprueft": "2026-11-05"
+},
+"loebichauer-haldenlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"messerpokallauf-steinbacher-messertrail-am-inselsberg-2027": {
+"geprueft": "2026-11-05"
+},
+"salamander-cross-werningshausen-2027": {
+"geprueft": "2026-11-05"
+},
+"wallernhaeuser-dorflauf-nidda-wallernhausen-2027": {
+"geprueft": "2026-11-05"
+},
+"apfellauf-der-kelterei-heil-2027": {
+"geprueft": "2026-11-05"
+},
+"sababurger-tierparklauf-hofgeismar-2027": {
+"geprueft": "2026-11-05"
+},
+"spessarthelden-laufen-gegen-gewalt-2027": {
+"geprueft": "2026-11-05"
+},
+"toepfermarktlauf-buergel-2027": {
+"geprueft": "2026-11-05"
+},
+"darmstaedter-stadtlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"apoldaer-stadtlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"ironman-nightrun-presented-by-helaba-2027": {
+"geprueft": "2026-11-05"
+},
+"burg-lauf-eppstein-2027": {
+"geprueft": "2026-11-05"
+},
+"city-marathon-wiesbaden-2027": {
+"geprueft": "2026-11-05"
+},
+"schwarzatallauf-2027": {
+"geprueft": "2026-11-05"
+},
+"silvesterlauf-sommer-edition-2027": {
+"geprueft": "2026-11-05"
+},
+"suedeichsfeldlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"kraftsolmser-dorflauf-2027": {
+"geprueft": "2026-11-05"
+},
+"schwalbacher-volkslauf-sport-gegen-armut-2027": {
+"geprueft": "2026-11-05"
+},
+"volkslauf-mackenzell-huenfeld-mackenzell-2027": {
+"geprueft": "2026-11-05"
+},
+"rotenburger-strandfestlauf-rotenburg-rennt-2027": {
+"geprueft": "2026-11-05"
+},
+"marburger-nachtmarathon-2027": {
+"geprueft": "2026-11-05"
+},
+"altstadtlauf-auf-der-goldspur-2027": {
+"geprueft": "2026-11-05"
+},
+"schneekopflauf-2027": {
+"geprueft": "2026-11-05"
+},
+"thueringen-ultra-2027": {
+"geprueft": "2026-11-05"
+},
+"panoramalauf-rothenberg-2027": {
+"geprueft": "2026-11-05"
+},
+"barigauerturmlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"vogelberglauf-bleicherode-2027": {
+"geprueft": "2026-11-05"
+},
+"sauerborner-laufabend-bad-soden-neuenhain-2027": {
+"geprueft": "2026-11-05"
+},
+"wickerstedter-crosslauf-2027": {
+"geprueft": "2026-11-05"
+},
+"dodenauer-volkslauf-battenberg-dodenau-2027": {
+"geprueft": "2026-11-05"
+},
+"vogelsberger-suedbahnlauf-birstein-unterreichenbach-2027": {
+"geprueft": "2026-11-05"
+},
+"gobertlauf-meinhard-hitzelrode-2027": {
+"geprueft": "2026-11-05"
+},
+"hausener-volks-waldlauf-tgs-hausen-obertshausen-2027": {
+"geprueft": "2026-11-05"
+},
+"rieslinglauf-und-17-rheingauer-halbmarathon-2027": {
+"geprueft": "2026-11-05"
+},
+"frankenwaldlauf-ossla-2027": {
+"geprueft": "2026-11-05"
+},
+"fischerfestlauf-gernsheim-2027": {
+"geprueft": "2026-11-05"
+},
+"edersee-abendlauf-hemfurth-2027": {
+"geprueft": "2026-11-05"
+},
+"guettersbacher-volkslauf-mossautal-2027": {
+"geprueft": "2026-11-05"
+},
+"glasmacherlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"karbener-stadtlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"see-mer-kerwelauf-seeheim-jugenheim-2027": {
+"geprueft": "2026-11-05"
+},
+"huettenfelder-volksbankkerwelauf-lampertheim-huettenfeld-2027": {
+"geprueft": "2026-11-05"
+},
+"werraquell-lauf-2027": {
+"geprueft": "2026-11-05"
+},
+"ortskernlauf-rossdorf-2027": {
+"geprueft": "2026-11-05"
+},
+"run-n-roll-for-help-2027": {
+"geprueft": "2026-11-05"
+},
+"kippfest-lauf-hetzbach-2027": {
+"geprueft": "2026-11-05"
+},
+"ahneparklauf-der-laufgemeinschaft-vellmar-2027": {
+"geprueft": "2026-11-05"
+},
+"sommernachtslauf-in-muenchenbernsdorf-2027": {
+"geprueft": "2026-11-05"
+},
+"michelsmarktlauf-reichelsheim-2027": {
+"geprueft": "2026-11-05"
+},
+"bottendorfer-volkslauf-2027": {
+"geprueft": "2026-11-05"
+},
+"arnstaedter-bach-ultra-2027": {
+"geprueft": "2026-11-05"
+},
+"citylauf-soemmerda-2027": {
+"geprueft": "2026-11-05"
+},
+"martinrodaer-sandhasenlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"florstadt-halbmarathon-2027": {
+"geprueft": "2026-11-05"
+},
+"breitunger-plesslauf-2027": {
+"geprueft": "2026-11-05"
+},
+"natur-erlebnislauf-frauensee-2027": {
+"geprueft": "2026-11-05"
+},
+"zweitalsperrenlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"floersheimer-lebenslauf-2027": {
+"geprueft": "2026-11-05"
+},
+"edersee-lauf-voehl-herzhausen-2027": {
+"geprueft": "2026-11-05"
+},
+"haineslauf-gemuenden-2027": {
+"geprueft": "2026-11-05"
+},
+"wixhaeuser-kerblauf-darmstadt-wixhausen-2027": {
+"geprueft": "2026-11-05"
+},
+"elstertal-lauf-2027": {
+"geprueft": "2026-11-05"
+},
+"muehlhaeuser-altstadtlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"s-run-sparkassenlauf-rund-um-das-duenkreuz-2027": {
+"geprueft": "2026-11-05"
+},
+"panoramalauf-niedernhausen-2027": {
+"geprueft": "2026-11-05"
+},
+"burgwald-maerchen-marathon-rauschenberg-2027": {
+"geprueft": "2026-11-05"
+},
+"koberstaedter-waldmarathon-egelsbach-2027": {
+"geprueft": "2026-11-05"
+},
+"lahnparklauf-wetzlar-2027": {
+"geprueft": "2026-11-05"
+},
+"oeko-run-waechtersbach-2027": {
+"geprueft": "2026-11-05"
+},
+"koenigseer-stadtwaldlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"after-work-run-bad-homburg-2027": {
+"geprueft": "2026-11-05"
+},
+"skylight-run-frankfurt-2027": {
+"geprueft": "2026-11-05"
+},
+"felsburglauf-2027": {
+"geprueft": "2026-11-05"
+},
+"ederauenlauf-edertal-2027": {
+"geprueft": "2026-11-05"
+},
+"spargellauf-run-den-damm-lampertheim-2027": {
+"geprueft": "2026-11-05"
+},
+"erfurter-nachtlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"heiligenstaedter-kurstadtlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"fulda-marathon-2027": {
+"geprueft": "2026-11-05"
+},
+"stadtallendorfer-stadtlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"breunaer-volkslauf-2027": {
+"geprueft": "2026-11-05"
+},
+"canyon-run-muehlheim-2027": {
+"geprueft": "2026-11-05"
+},
+"goelitztallauf-2027": {
+"geprueft": "2026-11-05"
+},
+"ruk-lauf-2027": {
+"geprueft": "2026-11-05"
+},
+"progesund-frauenlauf-jena-2027": {
+"geprueft": "2026-11-05"
+},
+"bahnlaeufe-des-kyffhaeuser-berglaufverein-e-v-2027": {
+"geprueft": "2026-11-05"
+},
+"niedermeiserer-dorflauf-liebenau-2027": {
+"geprueft": "2026-11-05"
+},
+"vorderrhoener-eiterfeld-2027": {
+"geprueft": "2026-11-05"
+},
+"erfurt-marathon-2027": {
+"geprueft": "2026-11-05"
+},
+"erfurter-zooparklauf-2027": {
+"geprueft": "2026-11-05"
+},
+"holzlandlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"suedthueringentrail-2027": {
+"geprueft": "2026-11-05"
+},
+"treffurter-stadtlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"unstrutlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"nordhaeuser-altstadtlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"erzhaeuser-heegbachlauf-erzhausen-2027": {
+"geprueft": "2026-11-05"
+},
+"hochrhoen-bergtrail-hilders-2027": {
+"geprueft": "2026-11-05"
+},
+"lauf-fuer-mehr-zeit-2027": {
+"geprueft": "2026-11-05"
+},
+"quellenlauf-bad-vilbel-2027": {
+"geprueft": "2026-11-05"
+},
+"tsg-altenhain-1900-e-v-wuzzelauf-altenhain-2027": {
+"geprueft": "2026-11-05"
+},
+"volkslauf-garbenteich-pohlheim-2027": {
+"geprueft": "2026-11-05"
+},
+"stadtlauf-hanau-staerke-zeigen-gemeinsam-gegen-gewalt-an-fra-2027": {
+"geprueft": "2026-11-05"
+},
+"altstadt-run-schwalmstadt-2027": {
+"geprueft": "2026-11-05"
+},
+"kessel-x-lauf-eichsfelder-kessel-benefiz-crosslauf-2027": {
+"geprueft": "2026-11-05"
+},
+"limberglauf-ranis-2027": {
+"geprueft": "2026-11-05"
+},
+"reichenauer-insellauf-2027": {
+"geprueft": "2026-11-05"
+},
+"internationaler-hugenottenlauf-neu-isenburg-2027": {
+"geprueft": "2026-11-05"
+},
+"preungesheimer-dorflauf-frankfurt-2027": {
+"geprueft": "2026-11-05"
+},
+"sparkassen-marathon-marburg-2027": {
+"geprueft": "2026-11-05"
+},
+"gickel-waldlauf-engenhahn-2027": {
+"geprueft": "2026-11-05"
+},
+"lauf-durch-das-thueringer-schiefergebirge-2027": {
+"geprueft": "2026-11-05"
+},
+"lauf-zur-grubenlampe-2027": {
+"geprueft": "2026-11-05"
+},
+"mommelsteinlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"sonneberger-spielzeuglauf-2027": {
+"geprueft": "2026-11-05"
+},
+"steiger-honig-lauf-2027": {
+"geprueft": "2026-11-05"
+},
+"entega-nightrun-darmstadt-2027": {
+"geprueft": "2026-11-05"
+},
+"rodheimer-volkslauf-rosbach-rodheim-v-d-h-2027": {
+"geprueft": "2026-11-05"
+},
+"schelder-berglauf-dillenburg-2027": {
+"geprueft": "2026-11-05"
+},
+"schottener-stauseelauf-2027": {
+"geprueft": "2026-11-05"
+},
+"hofheimer-volkslauf-lampertheim-2027": {
+"geprueft": "2026-11-05"
+},
+"beerfelder-waldlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"hohe-schrecke-waldlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"schleizer-wisentalauf-2027": {
+"geprueft": "2026-11-05"
+},
+"vr-bank-mitte-herbstlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"hoehlerfestlauf-gera-2027": {
+"geprueft": "2026-11-05"
+},
+"kurparklauf-bad-homburg-v-d-hoehe-2027": {
+"geprueft": "2026-11-05"
+},
+"lions-dietzenbacher-stadtlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"brauerschwender-basaltlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"geba-berglauf-2027": {
+"geprueft": "2026-11-05"
+},
+"kienberglauf-2027": {
+"geprueft": "2026-11-05"
+},
+"wartburglauf-2027": {
+"geprueft": "2026-11-05"
+},
+"kalbsvilla-run-ortenberg-2027": {
+"geprueft": "2026-11-05"
+},
+"ortsstrassenlauf-voehl-marienhagen-2027": {
+"geprueft": "2026-11-05"
+},
+"rodenbacher-lauftag-2027": {
+"geprueft": "2026-11-05"
+},
+"treiser-volkslauf-staufenberg-treis-2027": {
+"geprueft": "2026-11-05"
+},
+"ewr-stadtlauf-buerstadt-2027": {
+"geprueft": "2026-11-05"
+},
+"bismarckturmlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"cross-der-deutschen-einheit-2027": {
+"geprueft": "2026-11-05"
+},
+"rennsteig-trailrun-2027": {
+"geprueft": "2026-11-05"
+},
+"herbstcross-auf-dem-bergfried-2027": {
+"geprueft": "2026-11-05"
+},
+"auwald-lauf-dautphetal-2027": {
+"geprueft": "2026-11-05"
+},
+"weimarer-stadtlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"bad-hersfelder-lollslauf-2027": {
+"geprueft": "2026-11-05"
+},
+"laubacher-ramsberglauf-2027": {
+"geprueft": "2026-11-05"
+},
+"offenbacher-mainuferlauf-2027": {
+"geprueft": "2026-11-05"
+},
+"panoramalauf-niedenstein-2027": {
+"geprueft": "2026-11-05"
+},
+"jenaer-kernberglauf-2027": {
+"geprueft": "2026-11-05"
+},
+"vr-bank-lauf-wollbach-2027": {
+"geprueft": "2026-11-05"
+},
+"koestritzer-parklauf-2027": {
+"geprueft": "2026-11-05"
+},
+"treburer-crosslauf-2027": {
+"geprueft": "2026-11-05"
+},
+"internationaler-sondershaeuser-kristalllauf-2027": {
+"geprueft": "2026-11-05"
 }
 }

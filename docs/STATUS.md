@@ -1,72 +1,104 @@
 # Anmeldestatus der kommenden Läufe
 
-Stand: 04.11.2026 20:49 · 758 kommende Läufe · 79 Anmeldeseiten gelesen · 80 Veranstalterseiten nach einem Anmeldelink durchsucht · 0 Eintrag/Einträge in races.json geändert
+Stand: 05.11.2026 03:21 · 1122 kommende Läufe · 45 Anmeldeseiten gelesen · 80 Veranstalterseiten nach einem Anmeldelink durchsucht · 0 Eintrag/Einträge in races.json geändert
 
 ## Heute geändert
 
-- Keine Änderung.
+- **Internationaler Hohenzollernberglauf** (2026-11-08): wieder Plätze frei (vorher: unklar)
 
 ## Bitte von Hand prüfen
 
-- **Rohrwanglauf** (2026-11-07): keine Einzel-Anmeldung gefunden – bitte von Hand prüfen
-- **Internationaler Hohenzollernberglauf** (2026-11-08): Seite nennt Limit/ausgebucht, aber nicht eindeutig je Strecke – bitte von Hand prüfen
 - **Lauf „Ich lauf mit gegen Gewalt“** (2026-11-14): Seite nennt Limit/ausgebucht, aber nicht eindeutig je Strecke – bitte von Hand prüfen
+- **Spiridon Mainova Silvesterlauf Frankfurt** (2026-12-31): Seite nennt Limit/ausgebucht, aber nicht eindeutig je Strecke – bitte von Hand prüfen
 - **Halbmarathon Sigmaringen (Schwäbische Zeitung)** (2027-06-06): Anmeldeseite gehört zu einem anderen Datum (2026-06-07)
 - **Ravensburger Stadtlauf** (2027-06-26): Anmeldeseite gehört zu einem anderen Datum (2026-06-27)
 - **itdesign-Nikolauslauf Tübingen** (2026-12-06): bei uns steht "ausgebucht", aber keine Quellseite nennt es mehr – bitte prüfen, ob wieder Plätze frei sind (https://nikolauslauf-tuebingen.de)
+- **Sparkasse Gießen Silvesterlauf Rund um den Schiffenberg** (2026-12-31): bei uns steht "ausgebucht", aber keine Quellseite nennt es mehr – bitte prüfen, ob wieder Plätze frei sind (https://www.silvesterlauf-giessen.de/)
+- **OPTIMA Dreikönigslauf Schwäbisch Hall** (2027-01-06): bei uns steht "ausgebucht", aber keine Quellseite nennt es mehr – bitte prüfen, ob wieder Plätze frei sind (https://my.raceresult.com/426738/registration)
 
 ## Quelle nennt jetzt Angaben, die bei uns fehlen (nächste 6 Monate)
 
-- **Riedlinger Misselauf** (2026-11-08): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.tsv-riedlingen.com/
+- **Rodgauer Winterlaufserie** (2026-11-07): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://skgrodgau.de/
 - **Hegau-Bodensee Crosslaufserie – Meersburg** (2026-11-08): Startzeit (Seite nennt Uhrzeiten) – https://hegau-bodensee-cross.de
-- **Internationaler Hohenzollernberglauf** (2026-11-08): Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – https://www.anmeldungs-service.de/hohenzollernberglauf2026/
-- **Bibersfelder Herbstlauf** (2026-11-08): Startzeit (Seite nennt Uhrzeiten) – https://stadtwerke-hall.de
-- **Obersulmer Volkslauf** (2026-11-08): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – https://tsv-willsbach.de/volkslauf/info/
-- **Steinheimer Geologenlauf** (2026-11-08): Startzeit (Seite nennt Uhrzeiten) – https://geologenlauf.de
 - **6 oder 12h Run Freudenstadt-Grüntal (14./15. November)** (2026-11-14): Startzeit (Seite nennt Uhrzeiten) – https://neckarlauf.com/6hoder12h-run.html
-- **Bönnigheimer Stromberglauf** (2026-11-21): Startzeit (Seite nennt Uhrzeiten) – https://lgne-running.de/stromberglauf
-- **Süßener Stadtlauf (WMF BKK Herbstlauf)** (2026-11-22): Startzeit (Seite nennt Uhrzeiten) – https://www.suessener-stadtlauf.de/ausschreibung-wmf-bkk-herbstlauf-2026
+- **Kerner Nachtlauf** (2026-11-14): Startzeit (Seite nennt Uhrzeiten) – https://www.spvgg-rommelshausen.de/leichtathletik
+- **Alten-Busecker Winterlaufserie** (2026-11-14): Startzeit (Seite nennt Uhrzeiten) – https://www.tsg-alten-buseck.com/
+- **Zeitzgrundlauf** (2026-11-14): Startgeld (Seite nennt Beträge) – http://www.gruenweiss-stadtroda.de/
+- **eicut65** (2026-11-14): Startzeit (Seite nennt Uhrzeiten) – https://www.ltv-obereichsfeld.de/
+- **Geislinger Volkslauf** (2026-11-15): Startzeit (Seite nennt Uhrzeiten) – https://leichtathletik.tsv-geislingen.de/
+- **Nussdorflauf Eberdingen** (2026-11-21): Startzeit (Seite nennt Uhrzeiten) – https://www.nussdorf-lauf.de/
 - **Adventslauf Weiden** (2026-11-29): Startzeit (Seite nennt Uhrzeiten) – https://sportverein-weiden.de
+- **Winterlauf- & Walkingserie Hofheim-Lorsbach** (2026-11-29): Startzeit (Seite nennt Uhrzeiten) – https://tvlorsbach.de/
 - **Nikolauslauf der TSG Schnaitheim** (2026-12-05): Startzeit (Seite nennt Uhrzeiten) – https://tsg-leichtathletik-rasenkraftsport.heidenheim.com/
 - **Sport-Tahedl-Nikolauslauf** (2026-12-06): Startzeit (Seite nennt Uhrzeiten) – https://ladv.de/ausschreibung/detail/48822/Sport-Tahedl-Nikolauslauf-Regensburg.htm
-- **itdesign-Nikolauslauf Tübingen** (2026-12-06): Startzeit (Seite nennt Uhrzeiten) – https://nikolauslauf-tuebingen.de
+- **Nikolauslauf Bad Schönborn** (2026-12-06): Startzeit (Seite nennt Uhrzeiten) – https://www.sg-badschoenborn.de/nikolauslauf/
 - **Spiegelberger Räuberweglauf** (2026-12-13): Startzeit (Seite nennt Uhrzeiten) – https://ultras.prospectum.com/events/2026_06_raeuberweglauf/
-- **Hegau-Bodensee Crosslaufserie – Radolfzell-Markelfingen** (2026-12-13): Startzeit (Seite nennt Uhrzeiten) – https://hegau-bodensee-cross.de
+- **Erfurter HEROS Weihnachtslauf** (2026-12-20): Startgeld (Seite nennt Beträge) – https://spendenmarsch.org/
+- **Gänsebratenvernichtungslauf Wiesbaden** (2026-12-26): Startzeit (Seite nennt Uhrzeiten) – http://www.lcolympia.de/
+- **Silvesterlauf Wesertal-Arenborn** (2026-12-28): Startzeit (Seite nennt Uhrzeiten) – http://mtv-vernawahlshausen.de/
 - **Silvesterlauf Neuburg/Donau** (2026-12-31): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.tsv1862-neuburg.de/abteilungen/leichtathletik/ausschreibungen/
-- **Bietigheimer Silvesterlauf** (2026-12-31): Startzeit (Seite nennt Uhrzeiten) – https://lgne-running.de/silvesterlauf
-- **Silvesterlauf Tettnang** (2026-12-31): Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – https://tsv-tettnang.de
+- **Silvesterlauf Tettnang** (2026-12-31): Meldeschluss (Seite nennt das Wort) – https://tsv-tettnang.de
 - **Silvesterlauf auf die Burg Teck** (2026-12-31): Startzeit (Seite nennt Uhrzeiten) – https://vfl-kirchheim.de/lauftreff
-- **Backnanger Silvesterlauf** (2026-12-31): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://backnanger-silvesterlauf.de
+- **Backnanger Silvesterlauf** (2026-12-31): Startgeld (Seite nennt Beträge) – https://backnanger-silvesterlauf.de
 - **Forchheimer Silvesterlauf** (2026-12-31): Startzeit (Seite nennt Uhrzeiten) – https://www.sportfreunde-forchheim.de/
+- **Silvesterlauf Schwaibach** (2026-12-31): Startgeld (Seite nennt Beträge), Meldeschluss (Seite nennt das Wort) – http://schwaibach-lauf-mit.de/ausschreibung
+- **Tuttlinger Silvesterlauf** (2026-12-31): Startzeit (Seite nennt Uhrzeiten) – http://www.silvesterlauf-tuttlingen.de/
+- **Kisslegger Silvesterlauf** (2026-12-31): Meldeschluss (Seite nennt das Wort) – https://sg-kisslegg-de.jimdofree.com/silvesterlauf/
+- **TG Biblis Silvesterlauf** (2026-12-31): Startzeit (Seite nennt Uhrzeiten) – https://www.tg-biblis.de/lauftreff
+- **Apoldaer Silvesterlauf** (2026-12-31): Startzeit (Seite nennt Uhrzeiten) – http://www.apoldaer-lv.de
+- **Geraer Silvesterlauf** (2026-12-31): Startzeit (Seite nennt Uhrzeiten) – https://www.1-sv-gera.de/
+- **Erfurter Silvesterlauf** (2026-12-31): Startzeit (Seite nennt Uhrzeiten) – https://erfurtersilvesterlauf.de/
 - **Degerlocher 3-Königslauf** (2027-01-06): Startzeit (Seite nennt Uhrzeiten) – https://www.lac-degerloch.de/index.php/veranstaltungen/volkslauf-3-koenigslauf
 - **Crosslaufserie Oberschwaben – 2. Lauf Vogt** (2027-01-10): Startzeit (Seite nennt Uhrzeiten) – https://crosslaufserie-oberschwaben.de/veranstaltungsorte/10-01-2027-vogt/
-- **Teninger Allmendlauf** (2027-01-17): Startzeit (Seite nennt Uhrzeiten) – https://allmendlauf.de
-- **Hegau-Bodensee Crosslaufserie – Stockach** (2027-01-17): Startzeit (Seite nennt Uhrzeiten) – https://hegau-bodensee-cross.de
-- **Hegau-Bodensee Crosslaufserie – Konstanz** (2027-01-31): Startzeit (Seite nennt Uhrzeiten) – https://hegau-bodensee-cross.de
+- **Alb-Gold Winterlaufcup** (2027-01-16): Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – https://www.alb-gold.de/aktiv/alb-gold-winterlauf.html
+- **Crosslauf** (2027-01-16): Startzeit (Seite nennt Uhrzeiten) – http://www.ltv-obereichsfeld.de/
+- **Offenbacher Suppenschüssel Cross** (2027-01-23): Startzeit (Seite nennt Uhrzeiten) – http://www.offenbacher-lc.de/
+- **Winterlaufserie LG Dornburg** (2027-01-30): Startzeit (Seite nennt Uhrzeiten) – http://www.lg-dornburg.de
 - **Maintal-Crosslauf** (2027-02-07): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/maintal-crosslauf
+- **Spendenlauf Helauf - Lauf der Narren** (2027-02-14): Startzeit (Seite nennt Uhrzeiten) – https://www.vfb-oberweimar.de/
 - **Hegau-Bodensee Crosslaufserie – Reichenau** (2027-02-21): Startzeit (Seite nennt Uhrzeiten) – https://hegau-bodensee-cross.de/serie/reichenau/
 - **Ultralauf HaWei50** (2027-02-27): Startzeit (Seite nennt Uhrzeiten) – https://lsg-weiher.de/hawei50
+- **Lahntallauf Marburg** (2027-03-06): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://ultra-marburg.de/
+- **Auf die Platte - fertig - los** (2027-03-06): Startzeit (Seite nennt Uhrzeiten) – http://www.lcolympia.de
+- **Hofwiesenparklauf - 1. Osterland Cross** (2027-03-06): Startzeit (Seite nennt Uhrzeiten) – https://www.1-sv-gera.de/
+- **Sömmerdaer Hoffnungsroute** (2027-03-06): Startzeit (Seite nennt Uhrzeiten) – https://run4kids-soem.de/
 - **Weinsberger Weibertreulauf** (2027-03-07): Startzeit (Seite nennt Uhrzeiten) – https://www.tsv-weinsberg.de/
+- **Winterlaufserie Ahnatal** (2027-03-07): Startzeit (Seite nennt Uhrzeiten) – https://sportverein-weimar.de/
 - **Gmünder Stadtlauf** (2027-03-13): Startzeit (Seite nennt Uhrzeiten) – https://gmuender-stadtlauf.de
+- **Eisenberger Mühltallauf** (2027-03-13): Startzeit (Seite nennt Uhrzeiten) – http://www.muehltallauf.de/
+- **Mental Health Rocks Run** (2027-03-14): Startzeit (Seite nennt Uhrzeiten) – https://www.mentalhealthrocks.de/event-details/mental-health-rocks-run-2026
 - **Heini-Langlotz-Lauf** (2027-03-14): Startzeit (Seite nennt Uhrzeiten) – http://heini-langlotz-lauf.de/home.html
 - **Bärlauchlauf Reudern** (2027-03-14): Startzeit (Seite nennt Uhrzeiten) – http://www.tsv-beuren.de/TAeLESCUP/
+- **Volkslauf Rund um den Winterstein** (2027-03-14): Startzeit (Seite nennt Uhrzeiten) – https://asc-marathon-friedberg.jimdofree.com/
 - **Treuchtlinger Frühjahrslauf** (2027-03-20): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/treuchtlinger-fruehjahrslauf
 - **Essinger Panoramaläufe** (2027-03-20): Startzeit (Seite nennt Uhrzeiten) – https://lac-essingen.de/panoramalauf/
 - **Lindenlauf Neuenstadt** (2027-03-20): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – https://tsv-neuenstadt.de/lindenlauf/
+- **Heineparklauf** (2027-03-20): Startgeld (Seite nennt Beträge) – https://www.laufclub-rudolstadt.de/
+- **Veilsdorfer Waldlauf** (2027-03-20): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://veilsdorf.de/
 - **Deggendorfer Halbmarathon** (2027-03-21): Startzeit (Seite nennt Uhrzeiten) – https://www.lv-deggendorf.de
 - **6h von Kelheim** (2027-03-21): Startzeit (Seite nennt Uhrzeiten) – https://runandbike.info/6-h-lauf.html
 - **Marktlauf "Rund um Ruhstorf"** (2027-03-21): Startzeit (Seite nennt Uhrzeiten) – https://www.laruhstorf.de/veranstaltungen/
 - **AOK-Strassenlauf Augsburg** (2027-03-21): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/strassenlauf-augsburg
 - **Stutenseer Stadtlauf** (2027-03-21): Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – https://www.tsg-blankenloch.de/Veranstaltungen/StutenseerStadtlauf/
+- **Zwei-Hügel-Crosslauf Darmstadt-Wixhausen** (2027-03-21): Startzeit (Seite nennt Uhrzeiten) – https://leichtathletik-wixhausen.de/
 - **Obersontheimer Osterlauf Rund um den Heerberg** (2027-03-27): Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – http://www.obersontheim.com/
+- **Frühjahrscrosslauf im Steiger** (2027-03-27): Startzeit (Seite nennt Uhrzeiten) – http://www.asv-leichtathletik.de/
+- **Köstritzer Frühjahrscrosslauf** (2027-03-27): Startzeit (Seite nennt Uhrzeiten) – http://www.geraer-laufcup.de/
 - **Blaufelder Volkslauf** (2027-03-28): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://blaufelder-volkslauf.de
+- **Schneller Zehner Rodenbach** (2027-03-28): Startzeit (Seite nennt Uhrzeiten) – http://www.tgs-niederrodenbach.de/
+- **Osterlauf des LC- Marathon 80 e.V.** (2027-04-03): Startzeit (Seite nennt Uhrzeiten) – http://www.lc-marathon-rotenburg.de
+- **Saalfelder Kulmberglauf** (2027-04-03): Startzeit (Seite nennt Uhrzeiten) – http://www.saalfelder-lv.de
 - **Landshut Läuft** (2027-04-04): Startgeld (Seite nennt Beträge) – https://landshut-laeuft.de/
 - **Mein Freiburg Marathon** (2027-04-04): Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – https://www.mein-freiburgmarathon.de
+- **Seligenstädter Wasserlauf** (2027-04-04): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.seligenstadt-wasserlauf.de/
+- **Büdingen X Cross** (2027-04-04): Startzeit (Seite nennt Uhrzeiten) – https://laufprojektbuedingen.de/
 - **Stadtlauf Bad Mergentheim** (2027-04-10): Startzeit (Seite nennt Uhrzeiten) – https://www.stadtlauf-mgh.de/
 - **Halbmarathon Pfarrkirchen** (2027-04-11): Startzeit (Seite nennt Uhrzeiten) – https://halbmarathon.tus-pfarrkirchen.de/
 - **Weilersbacher Frühjahrslauf** (2027-04-11): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/weilersbacher-fruehjahrslauf
 - **Unterlandlauf** (2027-04-11): Startzeit (Seite nennt Uhrzeiten) – https://tsvschwaigern.de/ull
 - **10 Kilometer Stadtlauf Wiesloch** (2027-04-11): Startzeit (Seite nennt Uhrzeiten) – https://www.tsg-wiesloch.org/stadtlauf
+- **Stadtlauf in Nidda** (2027-04-11): Startzeit (Seite nennt Uhrzeiten) – http://www.tvnidda.com
+- **Winterlaufserie der Triathletenschmiede Werratal e.V.** (2027-04-11): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://triathletenschmiede.de/
 - **Crosslauf Marktl** (2027-04-17): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/crosslauf-marktl
 - **Leiblachlauf** (2027-04-17): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/leiblachlauf
 - **Steinachtal-Lauf Stadtsteinach** (2027-04-17): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/steinachtal-lauf
@@ -74,32 +106,55 @@ Stand: 04.11.2026 20:49 · 758 kommende Läufe · 79 Anmeldeseiten gelesen · 80
 - **Wiesenseelauf Hemsbach** (2027-04-17): Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – https://wiesenseelauf.de
 - **Bad Liebenzeller Paracelsuslauf** (2027-04-17): Startzeit (Seite nennt Uhrzeiten) – https://www.calwer-laeufe.de/Lbfp.html
 - **Münstertaler Panorama-Lauf** (2027-04-17): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – https://scmuenstertal.de/termine/27-muenstertaeler-panoramalauf-2026/
+- **Michelfelder Volkslauf** (2027-04-17): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://stadtwerke-hall.de/ueber-uns/wir-fuer-die-region/laufevents/michelfeld
+- **Kurparklauf Bad König** (2027-04-17): Startzeit (Seite nennt Uhrzeiten) – https://leichtathletik-badkoenig.jimdofree.com/
+- **Niederurffer Brückenlauf Bad Zwesten** (2027-04-17): Startzeit (Seite nennt Uhrzeiten) – https://tsvurfftal08.hpage.com/
+- **Wettertallauf Bad Nauheim** (2027-04-17): Startgeld (Seite nennt Beträge) – https://www.lsc-badnauheim.de/
+- **Heeresberglauf** (2027-04-17): Startzeit (Seite nennt Uhrzeiten) – https://www.geraer-laufcup.de/
 - **Burgbernheimer Berglauf** (2027-04-18): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/burgbernheimer-berglauf
 - **Liwa Laufevent** (2027-04-18): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://liwalauf.tsv-lichtenwald.de
 - **Träublelauf des TSV Weingarten** (2027-04-18): Startzeit (Seite nennt Uhrzeiten) – https://traeublelauf.de
 - **SOPREMA Neckar Run Mannheim** (2027-04-18): Startzeit (Seite nennt Uhrzeiten) – https://www.soprema-triathlon-team.de/soprema-neckar-run
 - **Neureuter Volkslauf Karlsruhe** (2027-04-18): Startzeit (Seite nennt Uhrzeiten) – https://tusneureut.de
 - **Kayher Kirschblütenlauf** (2027-04-18): Startzeit (Seite nennt Uhrzeiten) – https://kayher-kirschbluetenlauf.de
+- **Staufenlauf Kelkheim** (2027-04-18): Startzeit (Seite nennt Uhrzeiten) – http://www.skiclub-kelkheim.de
+- **Hofgeismarer Volkslauf** (2027-04-18): Startzeit (Seite nennt Uhrzeiten) – http://www.lauftreff-hofgeismar.de
+- **Griesheimer Jacobi-Straßenlauf** (2027-04-18): Startzeit (Seite nennt Uhrzeiten) – https://www.tusgriesheim.de/
+- **Twistesee Lauf Bad Arolsen** (2027-04-18): Startzeit (Seite nennt Uhrzeiten) – https://www.twistesee-lauf.de/
+- **Breitunger Pleß- Berglauf** (2027-04-18): Startzeit (Seite nennt Uhrzeiten) – http://www.plesslauf.de
+- **Lange-Bahn-Lauf** (2027-04-18): Startzeit (Seite nennt Uhrzeiten) – http://www.lange-bahn-lauf.de/
 - **SCOTT GaPa Vertical** (2027-04-23): Startzeit (Seite nennt Uhrzeiten) – https://gapavertical.de/
 - **Rottaler Volksmarathon** (2027-04-24): Startzeit (Seite nennt Uhrzeiten) – https://www.bad-griesbach.de/rottaler-volksmarathon
 - **Dreiburgenland-Marathon** (2027-04-24): Startgeld (Seite nennt Beträge) – https://www.hotel-schuerger.de
 - **Mini-Maus-Lauf mit Hobbylauf Mendorferbuch** (2027-04-24): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.landkreiscup.de?nav=Information&subnav=mendorferbuch
 - **Kolmberglauf Oberstreu** (2027-04-24): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/kolmberglauf-oberstreu
 - **Neuhauser Strassenlauf** (2027-04-24): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/neuhauser-strassenlauf
+- **Frühlingslauf Heidenheim** (2027-04-24): Startzeit (Seite nennt Uhrzeiten) – https://tsg-leichtathletik-rasenkraftsport.heidenheim.com/
 - **Kapfenburg Panoramalauf** (2027-04-24): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.sv-lippach.de/laufen/panoramalauf/
 - **Biberacher Straßenlauf** (2027-04-24): Startzeit (Seite nennt Uhrzeiten) – https://tv-biberach.de
 - **Gaildorfer Kocherlauf** (2027-04-24): Startzeit (Seite nennt Uhrzeiten) – https://tsv-gaildorf.de/kocherlauf-gaildorf
+- **Fröbellauf** (2027-04-24): Startgeld (Seite nennt Beträge) – https://www.laufclub-rudolstadt.de/
+- **Arnstädter Citylauf** (2027-04-24): Startzeit (Seite nennt Uhrzeiten) – http://www.lsvlokarnstadt.de/
+- **Gleichberglauf** (2027-04-24): Startzeit (Seite nennt Uhrzeiten) – https://www.wrc-hildburghausen.de/
 - **Bad Kötztinger Stadtlauf** (2027-04-25): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/bad-koetztinger-stadtlauf
 - **Moosburger Drei-Rosenlauf** (2027-04-25): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/moosburger-stadtlauf
 - **Trollinger Marathon Heilbronn** (2027-04-25): Startzeit (Seite nennt Uhrzeiten) – https://www.trollinger-marathon.de
 - **Stadtlauf Öhringen** (2027-04-25): Startzeit (Seite nennt Uhrzeiten) – https://stadtlauf-oehringen.de/
 - **Sulzbacher Finsterklingenlauf** (2027-04-25): Startzeit (Seite nennt Uhrzeiten) – https://www.johnny-d.de/hosting/tsv/tsv_wp/finsterklingenlauf/
+- **Schönbuch Trophy – Kreissparkassen Trail Run** (2027-04-25): Startzeit (Seite nennt Uhrzeiten) – https://www.eventservice-stahl.de/veranstaltungen/sch%C3%B6nbuch-trophy/kreissparkassen-trail-run/
 - **Wiblinger Frühlingslauf** (2027-04-25): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.lauf-ulm.de/
+- **Dillenburger Stadtlauf** (2027-04-25): Startzeit (Seite nennt Uhrzeiten) – https://asc-dillenburg.de/
+- **Streuobstwiesenlauf Bad Homburg-Kirdorf** (2027-04-25): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – http://www.kirdorfer-feld.de/
+- **Frankfurter Lauf** (2027-04-25): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – http://www.sgenkheim.de/
+- **i-Lauf, Lauf für Inklusion in Gelnhausen** (2027-04-25): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – http://www.lebenshilfe-gelnhausen.de/
+- **3TürmeLauf** (2027-04-25): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – https://www.tmp-online.de/dreituermelauf/
+- **Alteburglauf** (2027-04-29): Startzeit (Seite nennt Uhrzeiten) – http://www.sg-motor-arnstadt.de/
 - **Last Legs Ultra** (2027-04-30): Startzeit (Seite nennt Uhrzeiten) – https://lastlegsultra.de/
 - **Dachauer Frühjahrslauf** (2027-05-01): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/dachauer-fruehjahrslauf
 - **Mailauf Marktredwitz** (2027-05-01): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/mailauf-marktredwitz
 - **Neuburger Frühjahrswaldlauf** (2027-05-01): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/neuburger-fruehjahrswaldlauf
 - **Kocher-Cup Aalen-Unterkochen** (2027-05-01): Startzeit (Seite nennt Uhrzeiten) – https://www.kocher-cup.de/
+- **Nieder-Erlenbacher Volkslauf Frankfurt** (2027-05-01): Startzeit (Seite nennt Uhrzeiten) – https://tsg1888.de/
 - **Insellauf Bad Abbach** (2027-05-02): Startzeit (Seite nennt Uhrzeiten) – https://www.lauftreff-bad-abbach.de
 - **Rogatemarktlauf** (2027-05-02): Startzeit (Seite nennt Uhrzeiten) – https://www.tsv-ergoldsbach.de
 - **Lindwurmlauf Scheinfeld** (2027-05-02): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/lindwurmlauf
@@ -109,6 +164,9 @@ Stand: 04.11.2026 20:49 · 758 kommende Läufe · 79 Anmeldeseiten gelesen · 80
 - **Keibellauf Huchenfeld** (2027-05-05): Startzeit (Seite nennt Uhrzeiten) – https://keibellauf.de
 - **Wülflinger Wässernachlauf** (2027-05-06): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/wuelflinger-waessernachlauf
 - **Himmelfahrtslauf Wössingen** (2027-05-06): Startzeit (Seite nennt Uhrzeiten) – https://www.tv-w.de
+- **Beerfelder Stadtlauf zum Brunnenfest** (2027-05-06): Startzeit (Seite nennt Uhrzeiten) – https://www.skiclub-beerfelden.de
+- **Friedenfelser Crosslauf / Waldlauf** (2027-05-07): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/friedenfelser-waldlauf
+- **Sparkassenlauf Geislingen** (2027-05-07): Startzeit (Seite nennt Uhrzeiten) – https://www.tg-geislingen.de/
 
 ## Zeitgemäß-Anmeldungen (robots.txt verbietet automatisches Lesen, nur von Hand prüfbar)
 
@@ -122,21 +180,84 @@ Stand: 04.11.2026 20:49 · 758 kommende Läufe · 79 Anmeldeseiten gelesen · 80
 
 ## Nicht lesbar
 
+- rohrwanglauf-2026: RaceResult HTTP Error 404: Not Found
+- pohlheimer-limes-winterlaufserie-2026: RaceResult HTTP Error 404: Not Found
+- obersulmer-volkslauf-2026: RaceResult HTTP Error 404: Not Found
+- karlsbader-volkslauf-langensteinbach-2026: RaceResult HTTP Error 404: Not Found
+- alzauenlauf-2026: RaceResult HTTP Error 404: Not Found
+- fackellauf-gerbrunn-2026: RaceResult HTTP Error 404: Not Found
+- kerner-nachtlauf-2026: RaceResult HTTP Error 404: Not Found
+- nurnberger-winterlaufserie-2026: RaceResult HTTP Error 404: Not Found
+- riegeler-crosslauf-2026: RaceResult HTTP Error 404: Not Found
+- geislinger-volkslauf-2026: RaceResult HTTP Error 404: Not Found
+- offenbacher-behoerden-und-volkswaldlauf-2026: RaceResult HTTP Error 404: Not Found
+- crosslauf-denzlingen-2026: RaceResult HTTP Error 404: Not Found
+- stadtwerke-night-run-sindelfingen-2026: RaceResult HTTP Error 404: Not Found
+- boennigheimer-stromberglauf-2026: RaceResult HTTP Error 404: Not Found
+- suessener-stadtlauf-2026: RaceResult HTTP Error 404: Not Found
+- grosskarolinenfelder-nikolauslauf-2026: RaceResult HTTP Error 404: Not Found
+- hainberglauf-2026: RaceResult HTTP Error 404: Not Found
+- bernhard-marathon-2026: RaceResult HTTP Error 404: Not Found
+- kuhsee-marathon-2026: RaceResult HTTP Error 404: Not Found
+- adventslauf-giessen-2026: RaceResult HTTP Error 404: Not Found
+- nikolaus-waldlauf-weissenbrunn-2026: RaceResult HTTP Error 404: Not Found
+- nikolauslauf-immenstadt-2026: RaceResult HTTP Error 404: Not Found
+- nikolauslauf-beilngries-2026: RaceResult HTTP Error 404: Not Found
+- nikolauslauf-schnaitheim-2026: RaceResult HTTP Error 404: Not Found
+- nikolauslauf-ochsenfurt-2026: RaceResult HTTP Error 404: Not Found
+- crosslaufserie-oberschwaben-blitzenreute-2026: RaceResult HTTP Error 404: Not Found
+- laufwelt-nikolauslauf-der-rsg-ried-rastatt-2026: RaceResult HTTP Error 404: Not Found
+- nikolauslauf-ilsfeld-2026: RaceResult HTTP Error 404: Not Found
+- weiterstaedter-nikolauslauf-2026: RaceResult HTTP Error 404: Not Found
+- dinkelsbuhler-crosslauf-2026: RaceResult HTTP Error 404: Not Found
+- winterlauf-buehlerzell-2026: RaceResult HTTP Error 404: Not Found
+- crosslaufserie-oberschwaben-4-lauf-reute-bad-waldsee-2026: RaceResult HTTP Error 404: Not Found
+- aschauer-vorsilvesterlauf-2026: RaceResult HTTP Error 404: Not Found
+- crossdogs-silvestertrail-2026: RaceResult HTTP Error 404: Not Found
 - friedberger-silvesterlauf-2026: RaceResult HTTP Error 404: Not Found
+- silvesterlauf-bogen-2026: RaceResult HTTP Error 404: Not Found
+- silvesterlauf-neuburg-donau-2026: RaceResult HTTP Error 404: Not Found
+- mergelstetter-silvesterlauf-2026: RaceResult HTTP Error 404: Not Found
+- backnanger-silvesterlauf-2026: RaceResult HTTP Error 404: Not Found
+- stuttgarter-silvesterlauf-weilimdorf-2026: RaceResult HTTP Error 404: Not Found
+- silvesterlauf-schwaibach-2026: RaceResult HTTP Error 404: Not Found
+- tuttlinger-silvesterlauf-2026: RaceResult HTTP Error 404: Not Found
+- kisslegger-silvesterlauf-2026: RaceResult HTTP Error 404: Not Found
+- griesheimer-rewe-michael-weisbrod-silvesterlauf-2026: RaceResult HTTP Error 404: Not Found
+- brogginger-spendenlauf-2027: RaceResult HTTP Error 404: Not Found
+- meininger-silvesterlauf-2027: RaceResult HTTP Error 404: Not Found
+- optima-dreikoenigslauf-schwaebisch-hall-2027: RaceResult HTTP Error 404: Not Found
+- degerlocher-3-koenigslauf-2027: RaceResult HTTP Error 404: Not Found
+- herbolzheimer-dreikoenigslauf-2027: RaceResult HTTP Error 404: Not Found
+- dreikoenigslauf-dielheim-2027: RaceResult HTTP Error 404: Not Found
+- crosslaufserie-oberschwaben-vogt-2027: RaceResult HTTP Error 404: Not Found
+- alb-gold-winterlaufcup-2027: RaceResult HTTP Error 404: Not Found
+- dinkelsbuhler-stadtlauf-2027: RaceResult HTTP Error 404: Not Found
+- teninger-allmendlauf-2027: RaceResult HTTP Error 404: Not Found
+- crosslaufserie-oberschwaben-birkenhard-2027: RaceResult HTTP Error 404: Not Found
+- wintertrail-weissendorf-2027: RaceResult HTTP Error 404: Not Found
+- prellsteinrennen-2027: RaceResult HTTP Error 404: Not Found
+- hawei-by-night-5-10-km-nachtlauf-2027: RaceResult HTTP Error 404: Not Found
+- ultralauf-hawei50-2027: RaceResult HTTP Error 404: Not Found
+- mathaisemarktlauf-2027: RaceResult HTTP Error 404: Not Found
+- lahntallauf-marburg-2027: RaceResult HTTP Error 404: Not Found
+- durrwangener-lauf-zur-alten-kappel-2027: RaceResult HTTP Error 404: Not Found
+- tor-zur-welt-lauf-irslingen-2027: RaceResult HTTP Error 404: Not Found
+- eisenberger-muehltallauf-2027: RaceResult HTTP Error 404: Not Found
 - fruhjahrslauf-kitzinger-zehner-2027: RaceResult HTTP Error 404: Not Found
-- heini-langlotz-lauf-2027: RaceResult HTTP Error 404: Not Found
-- baerlauchlauf-reudern-2027: RaceResult HTTP Error 404: Not Found
-- sulzburger-fruehlingslauf-2027: RaceResult HTTP Error 404: Not Found
+- mental-health-rocks-run-2027: RaceResult HTTP Error 404: Not Found
+- rheinfelder-lauftag-2027: RaceResult HTTP Error 404: Not Found
 - essinger-panoramalaeufe-2027: RaceResult HTTP Error 404: Not Found
+- pleidelsheimer-suewag-lauf-2027: RaceResult HTTP Error 404: Not Found
 - iller-lauf-senden-2027: RaceResult HTTP Error 404: Not Found
 - rissnertlauf-2027: RaceResult HTTP Error 404: Not Found
-- obersontheimer-osterlauf-rund-um-den-heerberg-2027: RaceResult HTTP Error 404: Not Found
+- hoehlenbaerenlauf-giengen-huerben-2027: RaceResult HTTP Error 404: Not Found
 - jurasteig-nonstop-ultratrail-2027: RaceResult HTTP Error 404: Not Found
-- solitudelauf-2027: RaceResult HTTP Error 404: Not Found
+- mein-freiburg-marathon-2027: RaceResult HTTP Error 404: Not Found
+- buedingen-cross-2027: RaceResult HTTP Error 404: Not Found
 - saaletal-marathon-2027: RaceResult HTTP Error 404: Not Found
 - seenlandmarathon-2027: RaceResult HTTP Error 404: Not Found
 - panorama-run-guntersleben-2027: RaceResult HTTP Error 404: Not Found
-- unterlandlauf-2027: RaceResult HTTP Error 404: Not Found
 - soul-trail-2027: RaceResult HTTP Error 404: Not Found
 - leiblachlauf-2027: RaceResult HTTP Error 404: Not Found
 - burgweintinger-nepal-lauf-2027: RaceResult HTTP Error 404: Not Found
@@ -150,30 +271,52 @@ Stand: 04.11.2026 20:49 · 758 kommende Läufe · 79 Anmeldeseiten gelesen · 80
 - mailauf-marktredwitz-2027: RaceResult HTTP Error 404: Not Found
 - neuburger-fruehjahrswaldlauf-2027: RaceResult HTTP Error 404: Not Found
 - maisels-funrun-bayreuth-2027: RaceResult HTTP Error 404: Not Found
+- badische-meile-2027: RaceResult HTTP Error 404: Not Found
+- schluchseelauf-2027: RaceResult HTTP Error 404: Not Found
 - schliersee-lauf-2027: RaceResult HTTP Error 404: Not Found
 - muenchner-kindl-lauf-2027: RaceResult HTTP Error 404: Not Found
 - lauf-der-generationen-rottendorf-2027: RaceResult HTTP Error 404: Not Found
+- lichtenstein-trail-2027: RaceResult HTTP Error 404: Not Found
+- kandern-trail-masters-2027: RaceResult HTTP Error 404: Not Found
 - runandfun-bad-kissingen-2027: RaceResult HTTP Error 404: Not Found
 - maincityrun-2027: RaceResult HTTP Error 404: Not Found
+- jenaer-backyard-ultra-2027: RaceResult HTTP Error 404: Not Found
+- hardtwaldlauf-karlsruhe-2027: RaceResult HTTP Error 404: Not Found
 - panorama-baumwipfel-lauf-2027: RaceResult HTTP Error 404: Not Found
+- hohenloher-geniesserlauf-2027: RaceResult HTTP Error 404: Not Found
 - mainauenlauf-bayreuth-2027: RaceResult HTTP Error 404: Not Found
 - nesselwanger-seenlauf-2027: RaceResult HTTP Error 404: Not Found
 - metropolmarathon-furth-2027: RaceResult HTTP Error 404: Not Found
 - lions-12-stunden-lauf-lindenberg-2027: RaceResult HTTP Error 404: Not Found
+- 24h-spendenlauf-backyard-for-charity-2027: RaceResult HTTP Error 404: Not Found
+- moeckmuehler-stadtlauf-2027: RaceResult HTTP Error 404: Not Found
 - essinger-reiherlauf-2027: RaceResult HTTP Error 404: Not Found
 - fuchsburg-lauf-2027: RaceResult HTTP Error 404: Not Found
+- king-of-the-loop-2027: RaceResult HTTP Error 404: Not Found
+- city-marathon-wiesbaden-2027: RaceResult HTTP Error 404: Not Found
+- schienerberglauf-2027: RaceResult HTTP Error 404: Not Found
+- geiersberglauf-waigolshausen-2027: RaceResult HTTP Error 404: Not Found
+- heuchelberg-trail-2027: RaceResult HTTP Error 404: Not Found
 - buscherl-trail-2027: RaceResult HTTP Error 404: Not Found
+- burbacher-windecklauf-2027: RaceResult HTTP Error 404: Not Found
 - vilstaler-halbmarathon-reisbacher-volksfestlauf-2027: RaceResult HTTP Error 404: Not Found
 - eggenfeldener-stadtlauf-2027: RaceResult HTTP Error 404: Not Found
 - dietfurter-7-taeler-lauf-2027: RaceResult HTTP Error 404: Not Found
 - taubertal-trail-steinsfeld-2027: RaceResult HTTP Error 404: Not Found
 - waldkirchner-kirchturmlauf-2027: RaceResult HTTP Error 404: Not Found
+- nusslocher-wiesenlauf-2027: RaceResult HTTP Error 404: Not Found
+- steinenberger-waldlauf-2027: RaceResult HTTP Error 404: Not Found
 - inzeller-falkensteinlauf-2027: RaceResult HTTP Error 404: Not Found
 - dreisessel-berglauf-2027: RaceResult HTTP Error 404: Not Found
 - maintal-ultratrail-veitshoechheim-2027: RaceResult HTTP Error 404: Not Found
+- 24h-lauf-dettenhausen-2027: RaceResult HTTP Error 404: Not Found
+- wild-run-oberkollbach-2027: RaceResult HTTP Error 404: Not Found
 - 3kings3hills-trail-music-2027: RaceResult HTTP Error 404: Not Found
+- klettgaulauf-weisweil-2027: RaceResult HTTP Error 404: Not Found
+- weinheim-trails-2027: RaceResult HTTP Error 404: Not Found
 - poerndorfer-sommernachtslauf-2027: RaceResult HTTP Error 404: Not Found
 - kelheimer-volksfestlauf-2027: RaceResult HTTP Error 404: Not Found
+- see-mer-kerwelauf-seeheim-jugenheim-2027: RaceResult HTTP Error 404: Not Found
 - wurzburg-lauf-2027: RaceResult HTTP Error 404: Not Found
 - sri-chinmoy-peace-mile-6-stunden-lauf-2027: RaceResult HTTP Error 404: Not Found
 - friedberger-halbmarathon-2027: RaceResult HTTP Error 404: Not Found
@@ -182,9 +325,11 @@ Stand: 04.11.2026 20:49 · 758 kommende Läufe · 79 Anmeldeseiten gelesen · 80
 - dr-selmayr-gedachtnislauf-2027: RaceResult HTTP Error 404: Not Found
 - kapuziner-kessellauf-2027: RaceResult HTTP Error 404: Not Found
 - isar-lauf-bad-toelz-lenggries-2027: RaceResult HTTP Error 404: Not Found
+- kraichgau-lauf-2027: RaceResult HTTP Error 404: Not Found
 - oberaudorf-trail-festival-2027: RaceResult HTTP Error 404: Not Found
 - aschaffenburger-sparkassen-halbmarathon-2027: RaceResult HTTP Error 404: Not Found
 - buxachtal-lauf-memmingen-2027: RaceResult HTTP Error 404: Not Found
+- ewr-stadtlauf-buerstadt-2027: RaceResult HTTP Error 404: Not Found
 - chiemgau-trail-run-2027: RaceResult HTTP Error 404: Not Found
 - bocksbeutel-lauf-thuengersheim-2027: RaceResult HTTP Error 404: Not Found
 
@@ -197,6 +342,8 @@ Stand: 04.11.2026 20:49 · 758 kommende Läufe · 79 Anmeldeseiten gelesen · 80
 - 2026-12-06 · itdesign-Nikolauslauf Tübingen
 - 2026-12-13 · Spiegelberger Räuberweglauf
 - 2026-12-28 · Aschauer Vorsilvesterlauf (automatisch)
+- 2026-12-31 · Sparkasse Gießen Silvesterlauf Rund um den Schiffenberg
+- 2027-01-06 · OPTIMA Dreikönigslauf Schwäbisch Hall
 - 2027-01-09 · Spindellauf im DEZ
 - 2027-04-04 · Mein Freiburg Marathon
 - 2027-04-18 · Augsburger swa-Straßenlauf
