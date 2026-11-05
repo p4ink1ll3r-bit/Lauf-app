@@ -1,6 +1,6 @@
 {
  "updated": "2026-11-04",
- "region": "Bayern, Baden-Württemberg, Hessen, Thüringen, Sachsen",
+ "region": "Bayern, Baden-Württemberg, Hessen, Thüringen, Sachsen, Sachsen-Anhalt",
  "races": [
   {
    "id": "augsburger-winterlaufserie-2026",
@@ -34526,6 +34526,2404 @@
    "lat": 50.975,
    "lon": 14.276,
    "checked": "2026-11-06"
+  },
+  {
+   "id": "wernigeroeder-armeleuteberglauf-2026",
+   "type": "trail",
+   "name": "Wernigeröder Armeleuteberglauf",
+   "place": "Wernigerode",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Harz",
+   "lat": 51.903,
+   "lon": 10.843,
+   "date": "2026-11-08",
+   "confirmed": true,
+   "distances": [
+    "5,4",
+    "10"
+   ],
+   "url": "https://www.harz-gebirgslauf.de/",
+   "source": "https://www.runme.de/deutschland/armeleuteberglauf-wernigerode/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5,4 km um 10:30 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "10:30"
+  },
+  {
+   "id": "heidelauf-halle-2026",
+   "type": "trail",
+   "name": "Heidelauf Halle",
+   "place": "Halle",
+   "bezirk": "Halle",
+   "kreis": "Stadt Halle (Saale)",
+   "lat": 51.5,
+   "lon": 12,
+   "date": "2026-11-08",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "7,4",
+    "10",
+    "15"
+   ],
+   "url": "https://heidelauf-halle.de/",
+   "source": "https://www.runme.de/deutschland/heidelauf-heidelaufserie/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 10:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "10:00",
+   "fee": "Laufen 5, 10 und 15 km je 10 €, Walking 5 und 7,4 km je 10 €, Bambini (6 bis 9 Jahre) und Youngstars (10 bis 15 Jahre) kostenfrei",
+   "late_reg": "Nachmeldung am Veranstaltungstag möglich (Startgebühr plus 5 € Nachmeldegebühr)",
+   "pickup": "Startnummernausgabe am Veranstaltungstag von 9:00 bis 9:45 Uhr",
+   "start_place": "Parkplatz am Heidebad, 06126 Halle",
+   "showers": "Umkleidemöglichkeiten und Toiletten vor Ort"
+  },
+  {
+   "id": "nellschuetzer-silvesterlauf-2026",
+   "type": "road",
+   "name": "Nellschützer Silvesterlauf",
+   "place": "Lützen",
+   "bezirk": "Halle",
+   "kreis": "Burgenlandkreis",
+   "lat": 51.241,
+   "lon": 12.115,
+   "date": "2026-12-31",
+   "confirmed": true,
+   "distances": [
+    "10"
+   ],
+   "url": "https://sport-burgenland.de",
+   "source": "https://www.runme.de/deutschland/nellschuetzer-silvester-lauf-zorbau/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10 km um 10:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "10:00"
+  },
+  {
+   "id": "wernigeroeder-silvesterlauf-2026",
+   "type": "road",
+   "name": "Wernigeröder Silvesterlauf",
+   "place": "Wernigerode",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Harz",
+   "lat": 51.903,
+   "lon": 10.843,
+   "date": "2026-12-31",
+   "confirmed": true,
+   "distances": [
+    "8",
+    "18"
+   ],
+   "url": "http://www.hgl-la.de",
+   "source": "https://www.runme.de/deutschland/wernigeroeder-silvesterlauf-wernigerode/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (18 km um 10:15 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "10:15"
+  },
+  {
+   "id": "magdeburger-silvesterlauf-2026",
+   "type": "road",
+   "name": "Magdeburger Silvesterlauf",
+   "place": "Magdeburg",
+   "bezirk": "Magdeburg",
+   "kreis": "Stadt Magdeburg",
+   "lat": 52.133,
+   "lon": 11.617,
+   "date": "2026-12-31",
+   "confirmed": true,
+   "distances": [
+    "5,7",
+    "11"
+   ],
+   "url": "http://www.magdeburger-laufkultur.de/",
+   "source": "https://www.runme.de/deutschland/magdeburger-silvesterlauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5,7 km um 10:20 Uhr, frühester Lauf ab 5 km). Anmeldung online über race result bis 29.12.2026, 10 Uhr, mit SEPA-Lastschrift",
+   "checked": "2026-11-05",
+   "start_time": "10:20",
+   "fee": "5,5 km: 17 € (ab 20 Jahre) bzw. 14 € (bis U20), 11 km: 19 € bzw. 16 €, 1,5-km-Kinderlauf 6 €, 400-m-Bambinilauf kostenlos (Frühbucher bis 18.10.2026 waren 11 € / 9 € und 13 € / 11 €)",
+   "reg_open": "2026-09-25",
+   "reg_close": "2026-12-29",
+   "limit": "1000 Teilnehmende",
+   "pickup": "Startnummernausgabe am 30.12.2026 von 14:00 bis 19:00 Uhr bei Riecke Schuhe und Sport (Breiter Weg 173) und am 31.12.2026 von 8:30 bis 9:30 Uhr am Sportkomplex Seiler Wiesen",
+   "late_reg": "Nachmeldungen und Ummeldungen nur am 30.12.2026 von 14:00 bis 19:00 Uhr bei Riecke Schuhe und Sport, am Wettkampftag keine Nachmeldung",
+   "start_place": "Stadtpark Magdeburg, Sportkomplex Seiler Wiesen, Seilerweg 1 (Start Kreuzung Stadtparkstraße / Seilerweg)",
+   "parking": "Parkplätze an der Stadthalle und unter der Sternbrücke, Parken auf Rasenflächen verboten",
+   "showers": "Umkleiden, Duschen und Toiletten im Sportkomplex"
+  },
+  {
+   "id": "hasseler-silvesterlauf-2026",
+   "type": "road",
+   "name": "Hasseler Silvesterlauf",
+   "place": "Hassel",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Stendal",
+   "lat": 52.688,
+   "lon": 11.954,
+   "date": "2026-12-31",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.altmark-triathlon.com/",
+   "source": "https://www.runme.de/deutschland/hasseler-silvesterlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "merseburger-neujahrslauf-2027",
+   "type": "road",
+   "name": "Merseburger Neujahrslauf",
+   "place": "Merseburg",
+   "bezirk": "Halle",
+   "kreis": "Saalekreis",
+   "lat": 51.317,
+   "lon": 11.95,
+   "date": "2027-01-01",
+   "confirmed": false,
+   "distances": [
+    "5,1"
+   ],
+   "url": "https://www.kreissportbund-saalekreis.de/",
+   "source": "https://www.runme.de/deutschland/merseburger-neujahrslauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,1 km um 11:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "11:00"
+   }
+  },
+  {
+   "id": "weller-neujahrslauf-in-salzwedel-2027",
+   "type": "road",
+   "name": "Weller Neujahrslauf in Salzwedel",
+   "place": "Salzwedel",
+   "bezirk": "Magdeburg",
+   "kreis": "Altmarkkreis Salzwedel",
+   "lat": 52.85,
+   "lon": 11.233,
+   "date": "2027-01-03",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.sve-salzwedel.de",
+   "source": "https://www.runme.de/deutschland/salzwedeler-neujahrslauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 10:40 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "10:40"
+  },
+  {
+   "id": "flemmingen-wintercross-2027",
+   "type": "trail",
+   "name": "Flemmingen Wintercross",
+   "place": "Naumburg",
+   "bezirk": "Halle",
+   "kreis": "Burgenlandkreis",
+   "lat": 51.208,
+   "lon": 11.833,
+   "date": "2027-01-23",
+   "confirmed": true,
+   "distances": [
+    "8",
+    "15"
+   ],
+   "url": "https://www.lg-rudelsburg.de",
+   "source": "https://www.runme.de/deutschland/flemminger-wintercross/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (15 km um 10:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "10:00"
+  },
+  {
+   "id": "sueppling-cross-2027",
+   "type": "trail",
+   "name": "Süppling-Cross",
+   "place": "Demker",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Stendal",
+   "lat": 52.394,
+   "lon": 11.786,
+   "date": "2027-02-28",
+   "confirmed": false,
+   "distances": [
+    "5,8",
+    "10",
+    "HM"
+   ],
+   "url": "http://www.elbe-ohre-cup.de/",
+   "source": "https://www.runme.de/deutschland/sueppling-cross/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 10:15 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:15"
+   }
+  },
+  {
+   "id": "altmarklauf-osterburg-2027",
+   "type": "road",
+   "name": "Altmarklauf Osterburg",
+   "place": "Osterburg",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Stendal",
+   "lat": 52.793,
+   "lon": 12.005,
+   "date": "2027-03-06",
+   "confirmed": false,
+   "distances": [
+    "5,5",
+    "11"
+   ],
+   "url": "https://www.tf-obg.de/",
+   "source": "https://www.runme.de/deutschland/altmarklauf-osterburg/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (11 km um 09:30 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:30"
+   }
+  },
+  {
+   "id": "saaleradwanderweglauf-2027",
+   "type": "road",
+   "name": "Saaleradwanderweglauf",
+   "place": "Merseburg",
+   "bezirk": "Halle",
+   "kreis": "Saalekreis",
+   "lat": 51.317,
+   "lon": 11.95,
+   "date": "2027-03-07",
+   "confirmed": false,
+   "distances": [
+    "4,5",
+    "9,6"
+   ],
+   "url": "http://www.lg-merseburg.de",
+   "source": "https://www.runme.de/deutschland/saaleradwanderweglauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (9,6 km um 10:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "bismarckturmlauf-burg-2027",
+   "type": "road",
+   "name": "Bismarckturmlauf",
+   "place": "Burg",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Jerichower Land",
+   "lat": 52.267,
+   "lon": 11.863,
+   "date": "2027-03-14",
+   "confirmed": false,
+   "distances": [
+    "6",
+    "11"
+   ],
+   "url": "https://www.runme.de/deutschland/bismarckturmlauf/",
+   "source": "https://www.runme.de/deutschland/bismarckturmlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (11 km um 10:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "lauf-in-den-fruehling-zerbst-2027",
+   "type": "road",
+   "name": "Lauf in den Frühling",
+   "place": "Zerbst",
+   "bezirk": "Dessau",
+   "kreis": "LK Anhalt-Bitterfeld",
+   "lat": 51.966,
+   "lon": 12.085,
+   "date": "2027-03-17",
+   "confirmed": true,
+   "distances": [
+    "4,8"
+   ],
+   "url": "http://www.tsv-rot-weiss-zerbst.de/",
+   "source": "https://www.runme.de/deutschland/lauf-in-den-fruehling-zerbst/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (3,2 km um 16:25 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "16:25"
+  },
+  {
+   "id": "lauf-am-gallun-2027",
+   "type": "road",
+   "name": "Lauf Am Gallun",
+   "place": "Lutherstadt Wittenberg",
+   "bezirk": "Dessau",
+   "kreis": "LK Wittenberg",
+   "lat": 51.874,
+   "lon": 12.606,
+   "date": "2027-03-20",
+   "confirmed": false,
+   "distances": [
+    "7,5",
+    "10"
+   ],
+   "url": "https://xn--flminglauf-r5a.de/",
+   "source": "https://www.runme.de/deutschland/lauf-am-galun/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:15 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:15"
+   }
+  },
+  {
+   "id": "blankenburger-regensteinlauf-2027",
+   "type": "road",
+   "name": "Blankenburger Regensteinlauf",
+   "place": "Blankenburg (Harz)",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Harz",
+   "lat": 51.716,
+   "lon": 10.971,
+   "date": "2027-03-21",
+   "confirmed": true,
+   "distances": [
+    "5,5",
+    "9,5",
+    "13,9"
+   ],
+   "url": "http://leichtathletik-blankenburg.de/",
+   "source": "https://www.runme.de/deutschland/blankenburger-regensteinlauf-blankenburg-harz/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (13,9 km um 09:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "09:00"
+  },
+  {
+   "id": "herrenkrugparklauf-2027",
+   "type": "road",
+   "name": "HerrenKrugParkLauf",
+   "place": "Magdeburg",
+   "bezirk": "Magdeburg",
+   "kreis": "Stadt Magdeburg",
+   "lat": 52.133,
+   "lon": 11.617,
+   "date": "2027-03-21",
+   "confirmed": false,
+   "distances": [
+    "6",
+    "12",
+    "HM",
+    "31,7"
+   ],
+   "url": "https://www.runme.de/deutschland/herrenkrugparklauf-magdeburg/",
+   "source": "https://www.runme.de/deutschland/herrenkrugparklauf-magdeburg/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (31,65 km um 09:15 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:15"
+   }
+  },
+  {
+   "id": "osterlauf-ilsenburg-2027",
+   "type": "road",
+   "name": "Osterlauf Ilsenburg",
+   "place": "Ilsenburg (Harz)",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Harz",
+   "lat": 51.858,
+   "lon": 10.718,
+   "date": "2027-03-27",
+   "confirmed": true,
+   "distances": [
+    "8,7",
+    "16,5"
+   ],
+   "url": "http://www.brockenlauf.de/",
+   "source": "https://www.runme.de/deutschland/oster-ilsetallauf-ilsenburg/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (8,7 km um 10:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "10:00"
+  },
+  {
+   "id": "schlagenthiner-osterberglauf-2027",
+   "type": "trail",
+   "name": "Schlagenthiner Osterberglauf",
+   "place": "Schlagenthin",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Jerichower Land",
+   "lat": 52.465,
+   "lon": 12.28,
+   "date": "2027-03-27",
+   "confirmed": true,
+   "distances": [
+    "6",
+    "12"
+   ],
+   "url": "http://www.laufundtriathlonvereingenthin.de/",
+   "source": "https://www.runme.de/deutschland/schlagenthiner-osterberglauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "wittenberger-erdbeerlauf-2027",
+   "type": "road",
+   "name": "Wittenberger Erdbeerlauf",
+   "place": "Lutherstadt Wittenberg",
+   "bezirk": "Dessau",
+   "kreis": "LK Wittenberg",
+   "lat": 51.874,
+   "lon": 12.606,
+   "date": "2027-03-27",
+   "confirmed": true,
+   "distances": [
+    "6",
+    "9"
+   ],
+   "url": "https://www.ksb-wittenberg.de/",
+   "source": "https://www.runme.de/deutschland/wittenberger-erdbeerlauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (6 km um 10:30 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "10:30"
+  },
+  {
+   "id": "magdeburger-osterlauf-2027",
+   "type": "road",
+   "name": "Magdeburger Osterlauf",
+   "place": "Magdeburg",
+   "bezirk": "Magdeburg",
+   "kreis": "Stadt Magdeburg",
+   "lat": 52.124,
+   "lon": 11.632,
+   "date": "2027-04-03",
+   "confirmed": false,
+   "distances": [
+    "6,6",
+    "9,9"
+   ],
+   "url": "http://www.magdeburger-laufkultur.de/",
+   "source": "https://www.runme.de/deutschland/osterlauf-magdeburg/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6,6 km um 10:15 Uhr). Osterlauf ohne individuelle Zeitmessung, jeder Teilnehmer erhält eine Ostermedaille und einen Schokoladenosterhasen (Ausgabe 2026)",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:15",
+    "fee": "Jugendliche und Erwachsene 10 €, Kinder bis 13 Jahre 6 €, 400-m-Bambinilauf (bis 6 Jahre) kostenlos (Ausgabe 2026)"
+   },
+   "start_place": "Sportkomplex Seiler Wiesen, Seilerweg 1, Stadtpark, 39114 Magdeburg"
+  },
+  {
+   "id": "lauf-rund-um-das-schaubergwerk-roehrigschacht-2027",
+   "type": "road",
+   "name": "Lauf Rund um das Schaubergwerk Röhrigschacht",
+   "place": "Sangerhausen",
+   "bezirk": "Halle",
+   "kreis": "LK Mansfeld-Südharz",
+   "lat": 51.472,
+   "lon": 11.295,
+   "date": "2027-04-04",
+   "confirmed": true,
+   "distances": [
+    "5,1",
+    "14"
+   ],
+   "url": "http://www.asv-sangerhausen.de/",
+   "source": "https://www.runme.de/deutschland/rund-ums-schaubergwerk-roehringschacht/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (14 km um 10:30 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "10:30"
+  },
+  {
+   "id": "tangermuender-elbdeichmarathon-2027",
+   "type": "road",
+   "name": "Tangermünder Elbdeichmarathon",
+   "place": "Tangermünde",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Stendal",
+   "lat": 52.617,
+   "lon": 12,
+   "date": "2027-04-18",
+   "confirmed": true,
+   "distances": [
+    "10",
+    "HM",
+    "M"
+   ],
+   "url": "http://www.elbdeichmarathon.de/",
+   "source": "https://www.runme.de/deutschland/tangermuender-elbdeichmarathon/",
+   "info": "Termin 18.04.2027 laut Programm auf elbdeichmarathon.de (RUNME nannte als Prognose den 11.04.2027). Strecken laut RUNME.",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   },
+   "start_time": "10:00",
+   "reg_close": "2027-04-05",
+   "pickup": "Ausgabe der Startnummernunterlagen am Sonntag ab 8:00 Uhr (laut Programm)",
+   "late_reg": "Nachmeldung am Sonntag im Rahmen der Startnummernausgabe im Festzelt möglich, sofern freie Startplätze vorhanden sind",
+   "showers": "Umkleide, WC und Duschen im Start-/Zielbereich im Tangermünder Hafen"
+  },
+  {
+   "id": "naumburger-waldlauf-2027",
+   "type": "trail",
+   "name": "Naumburger Waldlauf",
+   "place": "Naumburg",
+   "bezirk": "Halle",
+   "kreis": "Burgenlandkreis",
+   "lat": 51.208,
+   "lon": 11.833,
+   "date": "2027-04-17",
+   "confirmed": true,
+   "distances": [
+    "4,5",
+    "11,1"
+   ],
+   "url": "http://www.ssv-eintracht-naumburg.de",
+   "source": "https://www.runme.de/deutschland/naumburger-waldlauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (11,1 km um 15:15 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "15:15"
+  },
+  {
+   "id": "einetallauf-aschersleben-2027",
+   "type": "road",
+   "name": "Einetallauf Aschersleben",
+   "place": "Aschersleben",
+   "bezirk": "Magdeburg",
+   "kreis": "Salzlandkreis",
+   "lat": 51.75,
+   "lon": 11.55,
+   "date": "2027-04-18",
+   "confirmed": true,
+   "distances": [
+    "7",
+    "12,5",
+    "HM"
+   ],
+   "url": "http://www.einetallauf.de/",
+   "source": "https://www.runme.de/deutschland/einetallauf-aschersleben/",
+   "info": "Termin 18.04.2027 laut Ausschreibung des Veranstalters. Strecken laut RUNME. Anmeldung online über race result ab 03.09.2026, bis 01.04.2027 mit personalisierter Startnummer.",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:30"
+   },
+   "fee": "21 km 17,50 €, 12,5 km 13,50 €, 7 km 9,50 €, 3,25 km 7 € bei Anmeldung bis 31.01.2027; danach bis 20.03.2027 19,50 / 15,50 / 11,50 / 8 €, bis 01.04.2027 21,50 / 17,50 / 13,50 / 9 €, am Starttag 25 / 21 / 17 / 11 €; Wanderstrecken 7 km 9,50 € und 12,5 km 13,50 € (Frühpreis)",
+   "reg_open": "2026-09-03",
+   "reg_close": "2027-04-15",
+   "limit": "Maximal 1000 Läuferinnen, Läufer und Wanderer",
+   "late_reg": "Nachmeldungen am Starttag möglich, solange die Gesamtteilnehmerzahl nicht erreicht ist",
+   "pickup": "Ausgabe der Startunterlagen am Sonntag, 18.04.2027, von 8:00 bis 10:00 Uhr, streckenweise nach Namen",
+   "parking": "Öffentlicher Parkplatz in der Oststraße (Nordseite Bahnhof, 400 m zum Start durch den Bahnhofstunnel)",
+   "showers": "Umkleide- und Duschmöglichkeiten in der Turnhalle im Bestehornpark (200 m vom Start)"
+  },
+  {
+   "id": "maigloeckchenlauf-2027",
+   "type": "road",
+   "name": "Maiglöckchenlauf",
+   "place": "Hohendodeleben",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Börde",
+   "lat": 52.07,
+   "lon": 11.366,
+   "date": "2027-04-18",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.maigloeckchenlauf.de/",
+   "source": "https://www.runme.de/deutschland/maigloeckchenlauf-hohendodeleben/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 09:55 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:55"
+   }
+  },
+  {
+   "id": "harzquerung-2027",
+   "type": "trail",
+   "name": "Harzquerung",
+   "place": "Wernigerode",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Harz",
+   "lat": 51.903,
+   "lon": 10.843,
+   "date": "2027-04-24",
+   "confirmed": true,
+   "distances": [
+    "26",
+    "30",
+    "53"
+   ],
+   "url": "https://harz-querung.de/",
+   "source": "https://www.runme.de/deutschland/harzquerung-wernigerode/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (26 km um 05:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "05:00",
+   "fee": "Laufen: 53 km 37 €, 26 und 30 km 27 € bei Meldung bis 31.12.2026; bis 29.03.2027 41 € bzw. 30 €, bis 10.04.2027 47 € bzw. 34 €. Wandern: 53 km 27 €, 26 und 30 km 23 € (bis 31.12.2026), später 29 € / 25 € und 32 € / 28 €. Rückfahrt mit dem Bus 16 €",
+   "reg_open": "2026-11-01",
+   "reg_close": "2027-04-10",
+   "late_reg": "Nachmeldung bei freien Startplätzen am Veranstaltungstag gegen Barzahlung möglich",
+   "start_place": "Wernigerode, Salzbergstraße 43 (53 und 26 km); Benneckenstein, Bruno-Ellinger-Weg 4 (30 km)",
+   "parking": "In Wernigerode teilweise kostenpflichtig: Contipark Parkhaus (HKK-Hotel), Parkplatz Ochsenteich, Schotterparkplatz Feldstraße",
+   "showers": "Duschen vorhanden in Nordhausen und Benneckenstein"
+  },
+  {
+   "id": "finnelauf-2027",
+   "type": "road",
+   "name": "Finnelauf",
+   "place": "Billroda",
+   "bezirk": "Halle",
+   "kreis": "Burgenlandkreis",
+   "lat": 51.222,
+   "lon": 11.41,
+   "date": "2027-04-24",
+   "confirmed": true,
+   "distances": [
+    "6",
+    "11,5",
+    "12,5",
+    "HM"
+   ],
+   "url": "http://www.finnelauf.de",
+   "source": "https://www.runme.de/deutschland/finnelauf-billroda-tauhardt/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (6 km um 10:15 Uhr, frühester Lauf ab 5 km). Meldeschluss 2026 war der 20.04.2026",
+   "checked": "2026-11-05",
+   "start_time": "10:15",
+   "late_reg": "Nachmeldungen am Veranstaltungstag ab 8:30 Uhr vor Ort, 5 € Nachmeldegebühr, Bambinilauf ohne Gebühr (Ausgabe 2026)"
+  },
+  {
+   "id": "gommeraner-seenlauf-2027",
+   "type": "road",
+   "name": "Gommeraner Seenlauf",
+   "place": "Gommern",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Jerichower Land",
+   "lat": 52.07,
+   "lon": 11.874,
+   "date": "2027-04-25",
+   "confirmed": true,
+   "distances": [
+    "6",
+    "9,8"
+   ],
+   "url": "http://www.eintracht-gommern.de/",
+   "source": "https://www.runme.de/deutschland/gommeraner-seenlauf-gommern/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (9,8 km um 10:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "10:00"
+  },
+  {
+   "id": "angeraner-krepe-cross-2027",
+   "type": "trail",
+   "name": "Angeraner Krepe-Cross",
+   "place": "Angern",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Börde",
+   "lat": 52.218,
+   "lon": 11.52,
+   "date": "2027-05-01",
+   "confirmed": false,
+   "distances": [
+    "5,9",
+    "10,7"
+   ],
+   "url": "http://www.svangern.de/",
+   "source": "https://www.runme.de/deutschland/angeraner-krepe-cross/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10,7 km um 09:45 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:45"
+   }
+  },
+  {
+   "id": "flaeminglauf-2027",
+   "type": "road",
+   "name": "Fläminglauf",
+   "place": "Lutherstadt Wittenberg",
+   "bezirk": "Dessau",
+   "kreis": "LK Wittenberg",
+   "lat": 51.874,
+   "lon": 12.606,
+   "date": "2027-05-01",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "11",
+    "22"
+   ],
+   "url": "https://xn--flminglauf-r5a.de/",
+   "source": "https://www.runme.de/deutschland/flaeminglauf-flaeminggehen-lutherstadt-wittenberg/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:15 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:15"
+   }
+  },
+  {
+   "id": "goitzsche-marathon-2027",
+   "type": "road",
+   "name": "Goitzsche-Marathon",
+   "place": "Bitterfeld-Wolfen",
+   "bezirk": "Dessau",
+   "kreis": "LK Anhalt-Bitterfeld",
+   "lat": 51.648,
+   "lon": 12.366,
+   "date": "2027-05-02",
+   "confirmed": false,
+   "distances": [
+    "10",
+    "HM",
+    "M"
+   ],
+   "url": "https://www.goitzsche-marathon.eu/kontakt",
+   "source": "https://www.runme.de/deutschland/goitzsche-marathon-bitterfeld/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 09:30 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:30"
+   }
+  },
+  {
+   "id": "scharnhorstlauf-2027",
+   "type": "road",
+   "name": "Scharnhorstlauf",
+   "place": "Großgörschen",
+   "bezirk": "Halle",
+   "kreis": "Burgenlandkreis",
+   "lat": 51.241,
+   "lon": 12.115,
+   "date": "2027-05-02",
+   "confirmed": false,
+   "distances": [
+    "6",
+    "9"
+   ],
+   "url": "https://www.sport-burgenland.de/",
+   "source": "https://www.runme.de/deutschland/scharnhorstlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 10:00 Uhr). Meldeschluss 2026 war der 30.04.2026",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   },
+   "late_reg": "Nachmeldungen bis 1 Stunde vor Wettkampfbeginn, 5 € Nachmeldegebühr (Ausgabe 2026)",
+   "parking": "Kostenlose Parkplätze ca. 400 m vom Start/Ziel entfernt",
+   "showers": "Dusch- und Umkleidemöglichkeiten auf dem Sportplatz bzw. im Denkmalbereich",
+   "start_place": "Großgörschen, Scharnhorstdenkmal"
+  },
+  {
+   "id": "altstadtlauf-halberstadt-2027",
+   "type": "road",
+   "name": "Altstadtlauf Halberstadt",
+   "place": "Halberstadt",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Harz",
+   "lat": 51.896,
+   "lon": 11.056,
+   "date": "2027-05-05",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://altstadtlauf-halberstadt.de/",
+   "source": "https://www.runme.de/deutschland/altstadtlauf-halberstadt/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (9,3 km um 10:30 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:30",
+    "fee": "Altstadtlauf 9,6 km 10 € (ab 10.03. 15 €), Fitnesslauf 4,8 km 10 € (ab 15.02. 12 €, ab 10.03. 15 €), Einsteigerlauf 2,3 km 8 €, Kinderläufe 5 €, Walken 4,8 km 10 € (Ausgabe 2026)"
+   },
+   "start_place": "Domplatz Halberstadt",
+   "parking": "Im Ort auf den ausgeschriebenen Plätzen, z. B. Düsterngraben oder Klein Blankenburg, Franziskanerstraße",
+   "showers": "Umkleiden im Gymnasium Martineum (Eingang Böttcherstraße, 300 m) und in der Hochschule Harz (100 m), Toiletten vorhanden"
+  },
+  {
+   "id": "huy-burgen-lauf-2027",
+   "type": "road",
+   "name": "Huy-Burgen-Lauf",
+   "place": "Schlanstedt",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Harz",
+   "lat": 52.012,
+   "lon": 11.031,
+   "date": "2027-05-08",
+   "confirmed": true,
+   "distances": [
+    "10",
+    "24"
+   ],
+   "url": "http://www.huy-burgen-lauf.de",
+   "source": "https://www.runme.de/deutschland/huy-burgen-lauf-schlanstedt/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (20,5 km um 10:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "10:00"
+  },
+  {
+   "id": "elbe-bruecken-lauf-2027",
+   "type": "road",
+   "name": "Elbe-Brücken-Lauf",
+   "place": "Magdeburg",
+   "bezirk": "Magdeburg",
+   "kreis": "Stadt Magdeburg",
+   "lat": 52.133,
+   "lon": 11.617,
+   "date": "2027-05-09",
+   "confirmed": false,
+   "distances": [
+    "5,8",
+    "10,2",
+    "HM"
+   ],
+   "url": "https://magdeburger-laufkultur.de/",
+   "source": "https://www.runme.de/deutschland/elbe-bruecken-lauf-magdeburg/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 10:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "quedlinburger-waldlauf-landescup-7-2027",
+   "type": "trail",
+   "name": "Quedlinburger Waldlauf - Landescup 7",
+   "place": "Quedlinburg",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Harz",
+   "lat": 51.833,
+   "lon": 11.2,
+   "date": "2027-05-09",
+   "confirmed": false,
+   "distances": [
+    "5,6",
+    "12",
+    "HM"
+   ],
+   "url": "http://www.leichtathletik-quedlinburg.de",
+   "source": "https://www.runme.de/deutschland/quedlinburger-waldlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 09:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:00"
+   }
+  },
+  {
+   "id": "weinathlon-2027",
+   "type": "road",
+   "name": "Weinathlon",
+   "place": "Mücheln (Geiseltal)",
+   "bezirk": "Halle",
+   "kreis": "Saalekreis",
+   "lat": 51.3,
+   "lon": 11.8,
+   "date": "2027-05-15",
+   "confirmed": false,
+   "distances": [
+    "8,5"
+   ],
+   "url": "https://www.sport-im-geiseltal.de/",
+   "source": "https://www.runme.de/deutschland/weinathlon/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-05-08. Startzeit der letzten Ausgabe laut RUNME (8,5 km um 11:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "11:00"
+   }
+  },
+  {
+   "id": "konradsburglauf-2027",
+   "type": "road",
+   "name": "Konradsburglauf",
+   "place": "Ermsleben",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Harz",
+   "lat": 51.759,
+   "lon": 11.353,
+   "date": "2027-05-22",
+   "confirmed": false,
+   "distances": [
+    "7,6",
+    "11",
+    "HM"
+   ],
+   "url": "http://www.lgkonradsburg90.de/",
+   "source": "https://www.runme.de/deutschland/konradsburglauf-ermsleben/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 09:00 Uhr). Ausgabe 2026 am Pfingstsamstag, 23.05.2026; Kinder und Jugendliche zahlen keine Startgebühr",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:00"
+   },
+   "start_place": "Ludwig-Gleim-Schule, Konradsburger Straße 32, 06463 Ermsleben",
+   "showers": "Turnhalle der Ludwig-Gleim-Schule: WC und Umkleide"
+  },
+  {
+   "id": "gerstewitzer-muehlentaglauf-2027",
+   "type": "road",
+   "name": "Gerstewitzer Mühlentaglauf",
+   "place": "Lützen",
+   "bezirk": "Halle",
+   "kreis": "Burgenlandkreis",
+   "lat": 51.241,
+   "lon": 12.115,
+   "date": "2027-05-24",
+   "confirmed": false,
+   "distances": [
+    "6",
+    "10"
+   ],
+   "url": "http://www.sport-burgenland.de/",
+   "source": "https://www.runme.de/deutschland/gerstewitzer-muehlentag-lauf-zorbau/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 10:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "stassfurter-salzland-lauf-2027",
+   "type": "road",
+   "name": "Staßfurter Salzland-Lauf",
+   "place": "Staßfurt",
+   "bezirk": "Magdeburg",
+   "kreis": "Salzlandkreis",
+   "lat": 51.852,
+   "lon": 11.585,
+   "date": "2027-05-28",
+   "confirmed": true,
+   "distances": [
+    "6",
+    "10"
+   ],
+   "url": "https://www.gaensefurther-sportbewegung.de/",
+   "source": "https://www.runme.de/deutschland/stassfurter-salzland-lauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (6 km um 10:50 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "10:50"
+  },
+  {
+   "id": "pretzscher-heimatfestlauf-2027",
+   "type": "road",
+   "name": "Pretzscher Heimatfestlauf",
+   "place": "Bad Schmiedeberg",
+   "bezirk": "Dessau",
+   "kreis": "LK Wittenberg",
+   "lat": 51.672,
+   "lon": 12.75,
+   "date": "2027-06-04",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "7,8",
+    "11"
+   ],
+   "url": "https://laeuferteam-pretzsch.de/",
+   "source": "https://www.runme.de/deutschland/heimatfestlauf-pretzsch-elbe/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (7,8 km um 10:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "harzgeroeder-klippenlauf-2027",
+   "type": "trail",
+   "name": "Harzgeröder Klippenlauf",
+   "place": "Harzgerode",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Harz",
+   "lat": 51.656,
+   "lon": 11.162,
+   "date": "2027-06-06",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "15",
+    "HM"
+   ],
+   "url": "https://www.klippenlauf.de/",
+   "source": "https://www.runme.de/deutschland/harzgeroeder-klippenlauf-harzgerode/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (21,0975 km um 09:30 Uhr, frühester Lauf ab 5 km). Meldeschluss 2026 war der 28.05.2026; Startnummernband 5 € bei der Ausgabe, Sicherheitsnadeln nicht mehr zugelassen",
+   "checked": "2026-11-05",
+   "start_time": "09:30",
+   "parking": "Öffentlicher Parkplatz in Start-/Zielnähe, auch Parkplatz des EDEKA-Supermarkts nutzbar",
+   "showers": "Pavillons zum Umziehen auf dem Gelände, Gepäckaufbewahrung",
+   "start_place": "Gelände des Hundeplatzes in Harzgerode (Start, Ziel, Organisationsbüro und Startnummernausgabe)",
+   "limit": "600 Teilnehmende (Ausgabe 2026)",
+   "late_reg": "Am Veranstaltungstag keine Nachmeldungen (Ausgabe 2026)",
+   "prev": {
+    "fee": "5 km 11 €, 15 km 13 €, Halbmarathon 19 € (frühe Anmeldung), ab 1. März 2026 höher: 17 € / 19 € / 23 € (Ausgabe 2026)"
+   }
+  },
+  {
+   "id": "berggrenzlauf-2027",
+   "type": "road",
+   "name": "Berggrenzlauf",
+   "place": "Hettstedt",
+   "bezirk": "Halle",
+   "kreis": "LK Mansfeld-Südharz",
+   "lat": 51.665,
+   "lon": 11.527,
+   "date": "2027-06-06",
+   "confirmed": true,
+   "distances": [
+    "7",
+    "13"
+   ],
+   "url": "https://www.hafenbar-hettstedt.de/berggrenzlauf/",
+   "source": "https://www.runme.de/deutschland/berggrenzlauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Starts liegen laut Veranstalter zwischen 9:30 und 11:00 Uhr (Ausgabe 2026 am 07.06.2026)",
+   "checked": "2026-11-05",
+   "start_place": "Hafenbar Hettstedt, Berggrenze 2a, 06333 Hettstedt",
+   "parking": "Kostenfreie Parkplätze"
+  },
+  {
+   "id": "hopfengarten-pokallauf-2027",
+   "type": "road",
+   "name": "Hopfengarten-Pokallauf",
+   "place": "Magdeburg",
+   "bezirk": "Magdeburg",
+   "kreis": "Stadt Magdeburg",
+   "lat": 52.082,
+   "lon": 11.621,
+   "date": "2027-06-06",
+   "confirmed": false,
+   "distances": [
+    "5,1",
+    "10,1"
+   ],
+   "url": "http://www.hsvmedizin.de/",
+   "source": "https://www.runme.de/deutschland/hopfengarten-pokallauf-magdeburg-hopfengarten/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,1 km um 09:50 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:50"
+   }
+  },
+  {
+   "id": "sudenburg-lauf-der-lauf-mit-dem-laecheln-2027",
+   "type": "road",
+   "name": "Sudenburg-Lauf - der Lauf mit dem Lächeln",
+   "place": "Magdeburg",
+   "bezirk": "Magdeburg",
+   "kreis": "Stadt Magdeburg",
+   "lat": 52.11,
+   "lon": 11.601,
+   "date": "2027-06-12",
+   "confirmed": true,
+   "distances": [
+    "4,8",
+    "11,4"
+   ],
+   "url": "http://www.sudenburg-lauf.de/",
+   "source": "https://www.runme.de/deutschland/sudenburg-lauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (11,4 km um 10:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "10:00"
+  },
+  {
+   "id": "himmelswegelauf-2027",
+   "type": "road",
+   "name": "Himmelswegelauf",
+   "place": "Nebra (Unstrut)",
+   "bezirk": "Halle",
+   "kreis": "Burgenlandkreis",
+   "lat": 51.248,
+   "lon": 11.461,
+   "date": "2027-06-12",
+   "confirmed": true,
+   "distances": [
+    "10",
+    "HM",
+    "M"
+   ],
+   "url": "https://www.himmelswegelauf.de/",
+   "source": "https://www.runme.de/deutschland/himmelswegelauf-nebra/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (42,195 km um 09:00 Uhr, frühester Lauf ab 5 km). Anmeldeschluss 30.05.2027, 23:59 Uhr; Startzeiten 12.06.2027: Marathon 9:00, Halbmarathon 10:00, Himmelsscheibenlauf 10:05 Uhr",
+   "checked": "2026-11-05",
+   "start_time": "09:00",
+   "fee": "Marathon 50 €, Halbmarathon 40 €, Himmelsscheibenlauf (10 km) 25 € bei Anmeldung bis 30.11.2026; bis 28.02.2027 60 € / 45 € / 30 €, bis 30.05.2027 70 € / 50 € / 35 €; Nachmeldung 75 € / 55 € / 40 €",
+   "reg_close": "2027-05-30",
+   "start_place": "Marathon: Sonnenobservatorium Goseck, Halbmarathon: Laucha, Ziel: Arche Nebra in Wangen"
+  },
+  {
+   "id": "kalimandscharolauf-2027",
+   "type": "road",
+   "name": "Kalimandscharolauf",
+   "place": "Zielitz",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Börde",
+   "lat": 52.218,
+   "lon": 11.52,
+   "date": "2027-06-12",
+   "confirmed": false,
+   "distances": [
+    "12"
+   ],
+   "url": "https://www.kpluss.com/de-de/",
+   "source": "https://www.runme.de/deutschland/kalimandscharolauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (12 km um 08:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "08:00"
+   }
+  },
+  {
+   "id": "schackenslebener-hopfenlauf-2027",
+   "type": "road",
+   "name": "Schackenslebener Hopfenlauf",
+   "place": "Schackensleben",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Börde",
+   "lat": 52.262,
+   "lon": 11.254,
+   "date": "2027-06-13",
+   "confirmed": false,
+   "distances": [
+    "6",
+    "10,8"
+   ],
+   "url": "http://www.lghopfen.de",
+   "source": "https://www.runme.de/deutschland/schackenslebener-hopfenlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 10:15 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:15"
+   }
+  },
+  {
+   "id": "biesenroeder-schwertlauf-2027",
+   "type": "road",
+   "name": "Biesenröder Schwertlauf",
+   "place": "Mansfeld",
+   "bezirk": "Halle",
+   "kreis": "LK Mansfeld-Südharz",
+   "lat": 51.599,
+   "lon": 11.432,
+   "date": "2027-06-19",
+   "confirmed": false,
+   "distances": [
+    "6",
+    "11",
+    "HM"
+   ],
+   "url": "https://www.sg-biesenrode.de/",
+   "source": "https://www.runme.de/deutschland/biesenroeder-schwertlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 09:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:00"
+   }
+  },
+  {
+   "id": "globus-theissen-lauf-2027",
+   "type": "road",
+   "name": "Globus-Theißen-Lauf",
+   "place": "Theißen",
+   "bezirk": "Halle",
+   "kreis": "Burgenlandkreis",
+   "lat": 51.087,
+   "lon": 12.107,
+   "date": "2027-06-20",
+   "confirmed": true,
+   "distances": [
+    "7",
+    "14"
+   ],
+   "url": "https://www.la-club-theissen.de/",
+   "source": "https://www.runme.de/deutschland/globus-theissen-lauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (7 km um 09:30 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "09:30"
+  },
+  {
+   "id": "besenbinder-lauf-rund-um-hainrode-2027",
+   "type": "road",
+   "name": "Besenbinder Lauf - Rund um Hainrode",
+   "place": "Hainrode",
+   "bezirk": "Halle",
+   "kreis": "LK Mansfeld-Südharz",
+   "lat": 51.456,
+   "lon": 11.007,
+   "date": "2027-06-26",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "15,5"
+   ],
+   "url": "https://www.asv-sangerhausen.de/",
+   "source": "https://www.runme.de/deutschland/besenbinder-lauf-rund-um-hainrode/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "lubaster-waldlauf-2027",
+   "type": "trail",
+   "name": "Lubaster Waldlauf",
+   "place": "Kemberg",
+   "bezirk": "Dessau",
+   "kreis": "LK Wittenberg",
+   "lat": 51.783,
+   "lon": 12.711,
+   "date": "2027-06-26",
+   "confirmed": false,
+   "distances": [
+    "6,5"
+   ],
+   "url": "http://www.laeuferteam-pretzsch.de/",
+   "source": "https://www.runme.de/deutschland/lubaster-waldlauf_2/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6,5 km um 10:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "eickendorfer-feldmarklauf-2027",
+   "type": "road",
+   "name": "Eickendorfer Feldmarklauf",
+   "place": "Bördeland",
+   "bezirk": "Magdeburg",
+   "kreis": "Salzlandkreis",
+   "lat": 51.95,
+   "lon": 11.7,
+   "date": "2027-06-27",
+   "confirmed": false,
+   "distances": [
+    "7",
+    "13"
+   ],
+   "url": "http://www.laufgruppe-eickendorf.de/",
+   "source": "https://www.runme.de/deutschland/feldmarklauf-eickendorf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (7 km um 10:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "hochkippenlauf-2027",
+   "type": "road",
+   "name": "Hochkippenlauf",
+   "place": "Profen",
+   "bezirk": "Halle",
+   "kreis": "Burgenlandkreis",
+   "lat": 51.088,
+   "lon": 12.261,
+   "date": "2027-07-03",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://running.life/de/termine/hochkippenlauf",
+   "source": "https://www.runme.de/deutschland/hochkippenlauf-profen/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 10:00 Uhr, frühester Lauf ab 5 km). Ausrichter SV Eintracht Profen; Ausgabe 2026 am 04.07.2026 mit Strecken von 400 m bis 10 km, Meldung bis 01.07.2026, Nachmeldung vor Ort gegen Gebühr (laut running.life). Die frühere Webseite des Laufs ist nicht mehr erreichbar.",
+   "checked": "2026-11-05",
+   "start_time": "10:00"
+  },
+  {
+   "id": "lauf-um-den-hain-giersleben-2027",
+   "type": "road",
+   "name": "Lauf um den Hain Giersleben",
+   "place": "Giersleben",
+   "bezirk": "Magdeburg",
+   "kreis": "Salzlandkreis",
+   "lat": 51.75,
+   "lon": 11.55,
+   "date": "2027-07-04",
+   "confirmed": false,
+   "distances": [
+    "5,7",
+    "9,8",
+    "13,6"
+   ],
+   "url": "https://solvaycup.de/",
+   "source": "https://www.runme.de/deutschland/lauf-um-den-hain-giersleben/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,7 km um 10:15 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:15"
+   }
+  },
+  {
+   "id": "glaeserner-moench-lauf-2027",
+   "type": "road",
+   "name": "Gläserner Mönch Lauf",
+   "place": "Halberstadt",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Harz",
+   "lat": 51.855,
+   "lon": 10.988,
+   "date": "2027-07-10",
+   "confirmed": false,
+   "distances": [
+    "4,5",
+    "5",
+    "10",
+    "15"
+   ],
+   "url": "http://moenchlauf.de/",
+   "source": "https://www.runme.de/deutschland/lauf-ueber-den-glaesernen-moench-halberstadt/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "ottonenlauf-2027",
+   "type": "road",
+   "name": "Ottonenlauf",
+   "place": "Stiege (Harz)",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Harz",
+   "lat": 51.687,
+   "lon": 10.786,
+   "date": "2027-07-31",
+   "confirmed": false,
+   "distances": [
+    "26",
+    "45",
+    "69"
+   ],
+   "url": "https://www.ottonenlauf.info/",
+   "source": "https://www.runme.de/deutschland/ottonenlauf-stiege/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (45 km um 07:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "07:00"
+   }
+  },
+  {
+   "id": "zerbster-heimat-und-schuetzenfestlauf-2027",
+   "type": "road",
+   "name": "Zerbster Heimat - und Schützenfestlauf",
+   "place": "Zerbst",
+   "bezirk": "Dessau",
+   "kreis": "LK Anhalt-Bitterfeld",
+   "lat": 51.966,
+   "lon": 12.085,
+   "date": "2027-08-06",
+   "confirmed": true,
+   "distances": [
+    "4,5",
+    "9"
+   ],
+   "url": "https://tsv-rot-weiss-zerbst.de/",
+   "source": "https://www.runme.de/deutschland/heimat-und-schuetzenfestlauf-zerbst/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (9 km um 18:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "18:00"
+  },
+  {
+   "id": "schierker-sommerlauf-2027",
+   "type": "road",
+   "name": "Schierker Sommerlauf",
+   "place": "Schierke",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Harz",
+   "lat": 51.764,
+   "lon": 10.662,
+   "date": "2027-08-14",
+   "confirmed": true,
+   "distances": [
+    "8",
+    "16"
+   ],
+   "url": "https://www.schierker-sommerlauf.de/",
+   "source": "https://www.runme.de/deutschland/schierker-sommerlauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (16 km um 10:00 Uhr, frühester Lauf ab 5 km). Termin 14.08.2027 laut Veranstalterseite; 2026 gab es 475 Meldungen (16 km Winterbergtrail, 8 km Hauptlauf, 4 km Sommerlauf, 1 km Kurparklauf)",
+   "checked": "2026-11-05",
+   "start_time": "10:00",
+   "late_reg": "Nachmeldungen bis 1 Stunde vor dem jeweiligen Start vor Ort möglich, Nachmeldegebühr 5 € (Ausgabe 2026)",
+   "parking": "Parkhaus Am Winterbergtor in Schierke (1 € pro Stunde, ca. 5 Minuten zu Fuß)",
+   "showers": "Umkleide und Duschmöglichkeiten in der Schierker Feuersteinarena",
+   "start_place": "Schierker Feuersteinarena (Start, Ziel und Startnummernausgabe)"
+  },
+  {
+   "id": "tangermuender-lichterlauf-2027",
+   "type": "road",
+   "name": "Tangermünder Lichterlauf",
+   "place": "Tangermünde",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Stendal",
+   "lat": 52.617,
+   "lon": 12,
+   "date": "2027-08-20",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.lichterlauf-tangermuende.de/",
+   "source": "https://www.runme.de/deutschland/tangermuender-lichterlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 19:30 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "19:30"
+   },
+   "showers": "Zwei Umkleidezelte am Start/Ziel-Bereich (getrennt nach Geschlecht), Toiletten vor Ort"
+  },
+  {
+   "id": "jahn-gedenklauf-2027",
+   "type": "road",
+   "name": "Jahn-Gedenklauf",
+   "place": "Freyburg (Unstrut)",
+   "bezirk": "Halle",
+   "kreis": "Burgenlandkreis",
+   "lat": 51.236,
+   "lon": 11.829,
+   "date": "2027-08-21",
+   "confirmed": true,
+   "distances": [
+    "6",
+    "12,2"
+   ],
+   "url": "http://www.sport-burgenland.de",
+   "source": "https://www.runme.de/deutschland/jahngedenklauf-freyburg/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (6 km um 10:00 Uhr, frühester Lauf ab 5 km).",
+   "checked": "2026-11-05",
+   "start_time": "10:00"
+  },
+  {
+   "id": "leunaer-saaleanlagenlauf-2027",
+   "type": "road",
+   "name": "Leunaer Saaleanlagenlauf",
+   "place": "Leuna",
+   "bezirk": "Halle",
+   "kreis": "Saalekreis",
+   "lat": 51.294,
+   "lon": 12.023,
+   "date": "2027-08-27",
+   "confirmed": false,
+   "distances": [
+    "4,8",
+    "9,6"
+   ],
+   "url": "http://www.lg-merseburg.de/",
+   "source": "https://www.runme.de/deutschland/leunaer-saaleanlagenlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "karlis-haertetest-2027",
+   "type": "road",
+   "name": "Karlis Härtetest",
+   "place": "Bad Schmiedeberg",
+   "bezirk": "Dessau",
+   "kreis": "LK Wittenberg",
+   "lat": 51.672,
+   "lon": 12.75,
+   "date": "2027-08-28",
+   "confirmed": false,
+   "distances": [
+    "5,2"
+   ],
+   "url": "https://laeuferteam-pretzsch.de/",
+   "source": "https://www.runme.de/deutschland/karlis-haertetest/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,2 km um 10:15 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:15"
+   }
+  },
+  {
+   "id": "stolberger-schloss-lauf-2027",
+   "type": "road",
+   "name": "Stolberger Schloss-Lauf",
+   "place": "Stolberg (Harz)",
+   "bezirk": "Halle",
+   "kreis": "LK Mansfeld-Südharz",
+   "lat": 51.456,
+   "lon": 11.007,
+   "date": "2027-08-28",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10",
+    "HM"
+   ],
+   "url": "https://www.stolberger-schloss-lauf.de/",
+   "source": "https://www.runme.de/deutschland/1-stolberger-schloss-lauf/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (21,0975 km um 11:00 Uhr, frühester Lauf ab 5 km). Im Startgeld sind 5 bis 10 Euro für ein regionales Projekt enthalten",
+   "checked": "2026-11-05",
+   "start_time": "11:00",
+   "start_place": "Schloss Stolberg, Stolberg (Harz)",
+   "parking": "Parkplätze an der Thyragrotte, am Bahnhof und im Kalten Tal; Straßensperrungen am Veranstaltungstag beachten"
+  },
+  {
+   "id": "zeitzer-stadtlauf-im-schlosspark-2027",
+   "type": "road",
+   "name": "Zeitzer Stadtlauf im Schlosspark",
+   "place": "Zeitz",
+   "bezirk": "Halle",
+   "kreis": "Burgenlandkreis",
+   "lat": 50.977,
+   "lon": 12.195,
+   "date": "2027-08-28",
+   "confirmed": false,
+   "distances": [
+    "5,4",
+    "10,8"
+   ],
+   "url": "https://www.sg-chemie-zeitz.de/",
+   "source": "https://www.runme.de/deutschland/schlossparklauf-zeitz/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,4 km um 10:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "arendsee-event-2027",
+   "type": "road",
+   "name": "Arendsee-Event",
+   "place": "Arendsee",
+   "bezirk": "Magdeburg",
+   "kreis": "Altmarkkreis Salzwedel",
+   "lat": 52.865,
+   "lon": 11.435,
+   "date": "2027-08-29",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "9,2",
+    "HM",
+    "31,7"
+   ],
+   "url": "http://www.kersten-friedrich-events.com/",
+   "source": "https://www.runme.de/deutschland/lauf-um-den-arendsee/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (7,5 km um 10:25 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:25"
+   }
+  },
+  {
+   "id": "brockenlauf-2027",
+   "type": "trail",
+   "name": "Brockenlauf",
+   "place": "Ilsenburg (Harz)",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Harz",
+   "lat": 51.858,
+   "lon": 10.718,
+   "date": "2027-09-04",
+   "confirmed": false,
+   "distances": [
+    "9,6",
+    "26,2"
+   ],
+   "url": "http://www.brockenlauf.de/",
+   "source": "https://www.runme.de/deutschland/brockenlauf-ilsenburg-harz-/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "noerdlicher-saale-kreislauf-2027",
+   "type": "road",
+   "name": "Nördlicher Saale-Kreislauf",
+   "place": "Morl",
+   "bezirk": "Halle",
+   "kreis": "Saalekreis",
+   "lat": 51.547,
+   "lon": 11.972,
+   "date": "2027-09-05",
+   "confirmed": false,
+   "distances": [
+    "6",
+    "10"
+   ],
+   "url": "https://www.saalekreislauf.de/",
+   "source": "https://www.runme.de/deutschland/saale-kreislauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 10:25 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:25"
+   },
+   "showers": "Umkleidemöglichkeiten und Toiletten vor Ort, Kleiderabgabe möglich",
+   "parking": "Verschiedene Parkmöglichkeiten in unmittelbarer Nähe"
+  },
+  {
+   "id": "parchener-fiener-cross-2027",
+   "type": "trail",
+   "name": "Parchener Fiener Cross",
+   "place": "Parchen",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Jerichower Land",
+   "lat": 52.426,
+   "lon": 12.182,
+   "date": "2027-09-05",
+   "confirmed": false,
+   "distances": [
+    "6,3",
+    "11,7",
+    "HM"
+   ],
+   "url": "https://www.elbe-ohre-cup.de/",
+   "source": "https://www.runme.de/deutschland/parchener-fiener-cross/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (11,7 km um 10:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "kannenstieglauf-2027",
+   "type": "road",
+   "name": "Kannenstieglauf",
+   "place": "Magdeburg",
+   "bezirk": "Magdeburg",
+   "kreis": "Stadt Magdeburg",
+   "lat": 52.162,
+   "lon": 11.617,
+   "date": "2027-09-10",
+   "confirmed": false,
+   "distances": [
+    "6"
+   ],
+   "url": "https://www.mlv-einheit.de/",
+   "source": "https://www.runme.de/deutschland/stadtteillauf-in-kannenstieg-magdeburg/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 18:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "18:00"
+   }
+  },
+  {
+   "id": "lauf-der-bildung-aschersleben-2027",
+   "type": "road",
+   "name": "Lauf der Bildung Aschersleben",
+   "place": "Aschersleben",
+   "bezirk": "Magdeburg",
+   "kreis": "Salzlandkreis",
+   "lat": 51.75,
+   "lon": 11.55,
+   "date": "2027-09-10",
+   "confirmed": false,
+   "distances": [
+    "4,6",
+    "9,2"
+   ],
+   "url": "https://kvhs.salzlandkreis.de/",
+   "source": "https://www.runme.de/deutschland/lauf-der-bildung-aschersleben/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (9,2 km um 18:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "18:00"
+   }
+  },
+  {
+   "id": "rudelsburglauf-2027",
+   "type": "road",
+   "name": "Rudelsburglauf",
+   "place": "Bad Kösen",
+   "bezirk": "Halle",
+   "kreis": "Burgenlandkreis",
+   "lat": 51.08,
+   "lon": 11.719,
+   "date": "2027-09-11",
+   "confirmed": false,
+   "distances": [
+    "6,4",
+    "10,8"
+   ],
+   "url": "http://www.lg-rudelsburg.de",
+   "source": "https://www.runme.de/deutschland/rudelsburglauf-bad-koesen/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-09-18. Startzeit der letzten Ausgabe laut RUNME (5,5 km um 10:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "spiegelsbergelauf-2027",
+   "type": "trail",
+   "name": "Spiegelsbergelauf",
+   "place": "Halberstadt",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Harz",
+   "lat": 51.896,
+   "lon": 11.056,
+   "date": "2027-09-11",
+   "confirmed": false,
+   "distances": [
+    "8",
+    "14"
+   ],
+   "url": "https://www.spiegelsbergelauf.de/",
+   "source": "https://www.runme.de/deutschland/spiegelsbergelauf-halberstadt/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (14 km um 09:30 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:30"
+   }
+  },
+  {
+   "id": "dessauer-rathaus-center-city-run-2027",
+   "type": "road",
+   "name": "Dessauer Rathaus-Center City RUN",
+   "place": "Dessau-Roßlau",
+   "bezirk": "Dessau",
+   "kreis": "Stadt Dessau-Roßlau",
+   "lat": 51.8428278,
+   "lon": 12.2303935,
+   "date": "2027-09-12",
+   "confirmed": false,
+   "distances": [
+    "10"
+   ],
+   "url": "https://anhalt-sport.de/events/27-dessauer-rathaus-center-cityrun-2026.html",
+   "source": "https://running.life/de/termine/dessauer-rathaus-center-city-run",
+   "info": "Dessauer Rathaus-Center CityRUN: Innenstadt-Rundkurse mit Läufen über 1, 2, 4 und 10 km sowie einem Firmenlauf (Angaben laut running.life, Stand 2026). Ausgabe 2026 am 13.09.2026: 10-km-Pokallauf 11:30 Uhr, 4-km-Lauf 10:15 Uhr, 2-km-Jedermannlauf 11:00 Uhr; Anmeldung über strassenlauf.org, Termin 2027 noch nicht bestätigt",
+   "checked": "2026-11-05",
+   "prev_date": "2026-09-13",
+   "start_place": "Rathaus-Center, Zerbster Straße 4, Dessau-Roßlau (Start und Ziel)",
+   "prev": {
+    "fee": "10-km-Pokallauf 15 € inklusive Finisher-Medaille, 4-km-Lauf 7 €, Kinder- und Jedermannlauf (2 km) kostenlos, Firmenlauf 25 € pro Team (Ausgabe 2026)",
+    "start_time": "11:30"
+   }
+  },
+  {
+   "id": "othaler-gutshof-lauf-2027",
+   "type": "road",
+   "name": "Othaler Gutshof Lauf",
+   "place": "Allstedt",
+   "bezirk": "Halle",
+   "kreis": "LK Mansfeld-Südharz",
+   "lat": 51.442,
+   "lon": 11.398,
+   "date": "2027-09-12",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10",
+    "HM"
+   ],
+   "url": "http://www.asv-sangerhausen.de/",
+   "source": "https://www.runme.de/deutschland/othaler-gutshof-lauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 09:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:00"
+   }
+  },
+  {
+   "id": "parklauf-tangerhuette-2027",
+   "type": "road",
+   "name": "Parklauf Tangerhütte",
+   "place": "Tangerhütte",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Stendal",
+   "lat": 52.394,
+   "lon": 11.786,
+   "date": "2027-09-12",
+   "confirmed": false,
+   "distances": [
+    "5,4",
+    "10,3"
+   ],
+   "url": "https://www.elbe-ohre-cup.de/",
+   "source": "https://www.runme.de/deutschland/parklauf-tangerhuette/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,4 km um 10:45 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:45"
+   }
+  },
+  {
+   "id": "bernburger-halbmarathon-2027",
+   "type": "road",
+   "name": "Bernburger Halbmarathon",
+   "place": "Bernburg",
+   "bezirk": "Magdeburg",
+   "kreis": "Salzlandkreis",
+   "lat": 51.795,
+   "lon": 11.74,
+   "date": "2027-09-18",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "12",
+    "HM"
+   ],
+   "url": "https://psv-bernburg.de/",
+   "source": "https://www.runme.de/deutschland/bernburger-brueckenlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 10:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "altstadtlauf-salzwedel-2027",
+   "type": "road",
+   "name": "Altstadtlauf Salzwedel",
+   "place": "Salzwedel",
+   "bezirk": "Magdeburg",
+   "kreis": "Altmarkkreis Salzwedel",
+   "lat": 52.85,
+   "lon": 11.233,
+   "date": "2027-09-19",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10",
+    "HM"
+   ],
+   "url": "https://www.altstadtlauf-salzwedel.de/",
+   "source": "https://www.runme.de/deutschland/altstadtlauf-salzwedel/",
+   "info": "Termin 19.09.2027 laut Veranstalter (Triathlonfüchse Osterburg e. V.). Strecken laut RUNME.",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:30"
+   },
+   "reg_open": "2027-01-01",
+   "reg_close": "2027-09-12",
+   "late_reg": "Nachmeldungen vor Ort möglich (Voranmeldung wird empfohlen)",
+   "parking": "Parkplatzempfehlungen: Nicolaiplatz 24 und Am Chüdenwall 3, Salzwedel",
+   "showers": "Umkleiden und Duschen vor Ort nicht möglich"
+  },
+  {
+   "id": "bergzeitlauf-brockenheroes-2027",
+   "type": "trail",
+   "name": "Bergzeitlauf Brockenheroes",
+   "place": "Schierke",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Harz",
+   "lat": 51.764,
+   "lon": 10.662,
+   "date": "2027-09-25",
+   "confirmed": false,
+   "distances": [
+    "11,2",
+    "24"
+   ],
+   "url": "https://brockenheroes.de",
+   "source": "https://www.runme.de/deutschland/brockenheroes/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (11,2 km um 09:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:00"
+   }
+  },
+  {
+   "id": "schoenebecker-drei-bruecken-lauf-2027",
+   "type": "road",
+   "name": "Schönebecker Drei-Brücken-Lauf",
+   "place": "Schönebeck",
+   "bezirk": "Magdeburg",
+   "kreis": "Salzlandkreis",
+   "lat": 52.018,
+   "lon": 11.724,
+   "date": "2027-09-26",
+   "confirmed": false,
+   "distances": [
+    "6,9",
+    "13,7"
+   ],
+   "url": "http://xn--drei-brcken-lauf-pzb.de/",
+   "source": "https://www.runme.de/deutschland/schoenebecker-brueckenlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (13,74 km um 10:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "geiseltalseelauf-2027",
+   "type": "road",
+   "name": "Geiseltalseelauf",
+   "place": "Braunsbedra",
+   "bezirk": "Halle",
+   "kreis": "Saalekreis",
+   "lat": 51.297,
+   "lon": 11.844,
+   "date": "2027-10-03",
+   "confirmed": false,
+   "distances": [
+    "6,5",
+    "11,5",
+    "HM"
+   ],
+   "url": "http://www.geiseltalseelauf.de",
+   "source": "https://www.runme.de/deutschland/geiseltalseelauf-braunsbedra/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6,5 km um 09:45 Uhr). Ausgabe 2026: Online-Anmeldeschluss 25.09., Teilnehmerlimit wegen begrenzter Kapazität der Marina",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:45",
+    "fee": "Halbmarathon 24 € (bis 31.08.), danach 29 €; 11,5 km 10 €; 7 km 10 €; 3 km (AK 12-15) 5 €; Walking 5 € (jeweils inklusive 2 € Mehrwegbecher-Pfand); Kinderläufe bis AK 11 ohne Gebühr (Ausgabe 2026)"
+   },
+   "start_place": "Marina Braunsbedra, 06242 Braunsbedra",
+   "parking": "Parkplätze kostenpflichtig und in begrenzter Zahl, Fahrgemeinschaften empfohlen",
+   "late_reg": "Nachmeldung am Wettkampftag bis 1 Stunde vor dem Start im Wettkampfbüro (Besucherzentrum) möglich (Ausgabe 2026)"
+  },
+  {
+   "id": "magdeburg-marathon-2027",
+   "type": "road",
+   "name": "Magdeburg Marathon",
+   "place": "Magdeburg",
+   "bezirk": "Magdeburg",
+   "kreis": "Stadt Magdeburg",
+   "lat": 52.124,
+   "lon": 11.632,
+   "date": "2027-10-03",
+   "confirmed": false,
+   "distances": [
+    "10",
+    "HM",
+    "M"
+   ],
+   "url": "http://www.magdeburg-marathon.eu/",
+   "source": "https://www.runme.de/deutschland/magdeburg-marathon/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (42,195 km um 09:10 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:10"
+   },
+   "start_place": "Elbauenpark Magdeburg (Messehallen)",
+   "showers": "Umkleidemöglichkeiten, Duschen und Massagen in der Messehalle 3"
+  },
+  {
+   "id": "mitteldeutscher-marathon-2027",
+   "type": "road",
+   "name": "Mitteldeutscher Marathon",
+   "place": "Halle (Saale)",
+   "bezirk": "Halle",
+   "kreis": "Stadt Halle (Saale)",
+   "lat": 51.483,
+   "lon": 11.972,
+   "date": "2027-10-17",
+   "confirmed": true,
+   "distances": [
+    "10",
+    "HM",
+    "M"
+   ],
+   "url": "https://www.mitteldeutscher-marathon.de/",
+   "source": "https://www.runme.de/deutschland/mitteldeutscher-marathon-halle-saale/",
+   "info": "Termin 17.10.2027 laut Veranstalter (24. Mitteldeutscher Marathon; RUNME nannte als Prognose den 03.10.2027). Strecken laut RUNME. Startzeiten 17.10.2027: Marathon 9:00 Uhr, Halbmarathon 11:00 Uhr",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:00"
+   },
+   "start_time": "09:00",
+   "reg_close": "2027-10-04",
+   "fee": "Marathon 50 €, Halbmarathon (Händellauf) 40 € bei Anmeldung bis 28.02.2027; bis 30.06.2027 60 € / 45 €, bis 04.10.2027 70 € / 50 €; Nachmeldung 75 € / 55 €",
+   "start_place": "Marathon: Leipzig, Elsterflutbecken Höhe Sportforum; Ziel Halle (Saale), Marktplatz",
+   "showers": "Umkleiden in der Friedrich-List-Schule (bis 15:00 Uhr), Duschen im Zielbereich"
+  },
+  {
+   "id": "harz-gebirgslauf-2027",
+   "type": "trail",
+   "name": "Harz-Gebirgslauf",
+   "place": "Wernigerode",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Harz",
+   "lat": 51.903,
+   "lon": 10.843,
+   "date": "2027-10-09",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "11",
+    "HM",
+    "M"
+   ],
+   "url": "http://www.harz-gebirgslauf.de",
+   "source": "https://www.runme.de/deutschland/harz-gebirgslauf-wernigerode/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (11 km um 08:15 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "08:15"
+   }
+  },
+  {
+   "id": "solvay-lauf-2027",
+   "type": "road",
+   "name": "Solvay Lauf",
+   "place": "Bernburg",
+   "bezirk": "Magdeburg",
+   "kreis": "Salzlandkreis",
+   "lat": 51.795,
+   "lon": 11.74,
+   "date": "2027-10-09",
+   "confirmed": false,
+   "distances": [
+    "5,7"
+   ],
+   "url": "https://lauf.psv-bernburg.de/",
+   "source": "https://www.runme.de/deutschland/solvay-lauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,7 km um 10:00 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "rolandlauf-burg-2027",
+   "type": "road",
+   "name": "Rolandlauf Burg",
+   "place": "Burg",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Jerichower Land",
+   "lat": 52.267,
+   "lon": 11.863,
+   "date": "2027-10-10",
+   "confirmed": false,
+   "distances": [
+    "5,4",
+    "10,3"
+   ],
+   "url": "https://www.elbe-ohre-cup.de/",
+   "source": "https://www.runme.de/deutschland/burger-rolandlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10,3 km um 10:20 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:20"
+   }
+  },
+  {
+   "id": "kaisersteinlauf-2027",
+   "type": "road",
+   "name": "Kaisersteinlauf",
+   "place": "Letzlingen",
+   "bezirk": "Magdeburg",
+   "kreis": "Altmarkkreis Salzwedel",
+   "lat": 52.525,
+   "lon": 11.395,
+   "date": "2027-03-28",
+   "confirmed": false,
+   "distances": [
+    "6,5",
+    "11,3"
+   ],
+   "url": "https://www.elbe-ohre-cup.de",
+   "source": "https://www.runme.de/deutschland/kaisersteinlauf/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6,5 km um 09:35 Uhr).",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "09:35"
+   }
+  },
+  {
+   "id": "kulkiathlon-markranstaedt-2027",
+   "type": "road",
+   "name": "Kulkiathlon Markranstädt",
+   "place": "Markranstädt",
+   "bezirk": "Leipzig",
+   "kreis": "LK Leipzig",
+   "lat": 51.3046156,
+   "lon": 12.2211256,
+   "date": "2027-05-30",
+   "confirmed": false,
+   "prev_date": "2026-06-07",
+   "distances": [
+    "7,2",
+    "22",
+    "44",
+    "72"
+   ],
+   "url": "https://gotrail.run/de/termine/kulkiathlon-markranstadt",
+   "source": "https://gotrail.run/de/termine/kulkiathlon-markranstadt",
+   "info": "Rundenlauf um den Kulkwitzer See (Runde ca. 7,2 km, etwa je zur Hälfte Asphalt und Waldwege), privat organisiert. Termin 2027 noch nicht bestätigt, Ausgabe 2026 war am 07.06.2026. Angaben laut gotrail.run/running.life.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "pokallauf-rossbach-2026",
+   "type": "road",
+   "name": "Pokallauf Roßbach",
+   "place": "Braunsbedra",
+   "bezirk": "Halle",
+   "kreis": "Saalekreis",
+   "lat": 51.297,
+   "lon": 11.844,
+   "date": "2026-11-07",
+   "confirmed": true,
+   "distances": [
+    "12",
+    "6,5"
+   ],
+   "url": "https://www.hdsports.org/laufen/pokallauf-rossbach-braunsbedra",
+   "source": "https://www.hdsports.org/laufen/pokallauf-rossbach-braunsbedra",
+   "info": "Termin und Strecken laut HDsports. Start beim Sportplatz Roßbach, seit 1993, Veranstalter Manfred Pippel; 2027 laut HDsports am 06.11.2027.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "riesenpfannkuchenlauf-2027",
+   "type": "road",
+   "name": "Riesenpfannkuchenlauf",
+   "place": "Sandau (Elbe)",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Stendal",
+   "lat": 52.583,
+   "lon": 12.033,
+   "date": "2027-01-06",
+   "confirmed": false,
+   "prev_date": "2026-01-06",
+   "distances": [
+    "8,3",
+    "5"
+   ],
+   "url": "https://www.hdsports.org/laufen/riesenpfannkuchenlauf",
+   "source": "https://www.hdsports.org/laufen/riesenpfannkuchenlauf",
+   "info": "Termin und Strecken laut HDsports (Termin 2027 noch nicht bestätigt, Prognose aus dem letzten Termin am 06.01.2026). Anmeldung laut HDsports über die Webseite des Veranstalters.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "silvesterlauf-oranienbaum-2027",
+   "type": "road",
+   "name": "Silvesterlauf Oranienbaum",
+   "place": "Oranienbaum-Wörlitz",
+   "bezirk": "Dessau",
+   "kreis": "LK Wittenberg",
+   "lat": 51.799,
+   "lon": 12.406,
+   "date": "2027-01-10",
+   "confirmed": false,
+   "prev_date": "2026-01-11",
+   "distances": [
+    "10"
+   ],
+   "url": "https://www.hdsports.org/laufen/silvesterlauf-oranienbaum",
+   "source": "https://www.hdsports.org/laufen/silvesterlauf-oranienbaum",
+   "info": "Termin und Strecken laut HDsports (Termin 2027 noch nicht bestätigt, Prognose aus dem letzten Termin am 11.01.2026).",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "heidelauf-halle-1-lauf-2027",
+   "type": "trail",
+   "name": "Heidelauf Halle 1. Lauf",
+   "place": "Halle (Saale)",
+   "bezirk": "Halle",
+   "kreis": "Stadt Halle (Saale)",
+   "lat": 51.512,
+   "lon": 11.905,
+   "date": "2027-02-28",
+   "confirmed": false,
+   "prev_date": "2026-03-01",
+   "distances": [
+    "15",
+    "10",
+    "5"
+   ],
+   "url": "https://www.hdsports.org/laufen/heidelaufserie-1-heidelauf",
+   "source": "https://www.hdsports.org/laufen/heidelaufserie-1-heidelauf",
+   "info": "Termin und Strecken laut HDsports (Termin 2027 noch nicht bestätigt, Prognose aus dem letzten Termin am 01.03.2026). Teil der Heidelaufserie in der Dölauer Heide, Laufnummer zählt fortlaufend; Nachmeldung am Lauftag laut HDsports möglich.",
+   "checked": "2026-11-05",
+   "start_place": "Parkplatz am Heidebad, 06126 Halle",
+   "prev": {
+    "fee": "Laufen 5, 10 und 15 km je 10 €, Walking je 10 €, Kinder bis 15 Jahre kostenfrei, Nachmeldung am Veranstaltungstag plus 5 € (Ausschreibung der Heidelaufserie)"
+   }
+  },
+  {
+   "id": "heidelauf-halle-2-lauf-2027",
+   "type": "trail",
+   "name": "Heidelauf Halle 2. Lauf",
+   "place": "Halle (Saale)",
+   "bezirk": "Halle",
+   "kreis": "Stadt Halle (Saale)",
+   "lat": 51.512,
+   "lon": 11.905,
+   "date": "2027-05-16",
+   "confirmed": false,
+   "prev_date": "2026-05-17",
+   "distances": [
+    "15",
+    "10",
+    "5"
+   ],
+   "url": "https://www.hdsports.org/laufen/heidelaufserie-2-heidelauf",
+   "source": "https://www.hdsports.org/laufen/heidelaufserie-2-heidelauf",
+   "info": "Termin und Strecken laut HDsports (Termin 2027 noch nicht bestätigt, Prognose aus dem letzten Termin am 17.05.2026). Teil der Heidelaufserie in der Dölauer Heide.",
+   "checked": "2026-11-05",
+   "start_place": "Parkplatz am Heidebad, 06126 Halle",
+   "prev": {
+    "fee": "Laufen 5, 10 und 15 km je 10 €, Walking je 10 €, Kinder bis 15 Jahre kostenfrei, Nachmeldung am Veranstaltungstag plus 5 € (Ausschreibung der Heidelaufserie)"
+   }
+  },
+  {
+   "id": "heidelauf-halle-3-lauf-2027",
+   "type": "trail",
+   "name": "Heidelauf Halle 3. Lauf",
+   "place": "Halle (Saale)",
+   "bezirk": "Halle",
+   "kreis": "Stadt Halle (Saale)",
+   "lat": 51.512,
+   "lon": 11.905,
+   "date": "2027-09-19",
+   "confirmed": false,
+   "prev_date": "2026-09-20",
+   "distances": [
+    "15",
+    "10",
+    "5"
+   ],
+   "url": "https://www.hdsports.org/laufen/heidelaufserie-3-heidelauf",
+   "source": "https://www.hdsports.org/laufen/heidelaufserie-3-heidelauf",
+   "info": "Termin und Strecken laut HDsports (Termin 2027 noch nicht bestätigt, Prognose aus dem letzten Termin am 20.09.2026). Teil der Heidelaufserie in der Dölauer Heide.",
+   "checked": "2026-11-05",
+   "start_place": "Parkplatz am Heidebad, 06126 Halle",
+   "prev": {
+    "fee": "Laufen 5, 10 und 15 km je 10 €, Walking je 10 €, Kinder bis 15 Jahre kostenfrei, Nachmeldung am Veranstaltungstag plus 5 € (Ausschreibung der Heidelaufserie)"
+   }
+  },
+  {
+   "id": "crosslauf-in-den-fruehling-kalbe-2027",
+   "type": "trail",
+   "name": "Crosslauf in den Frühling Kalbe",
+   "place": "Kalbe (Milde)",
+   "bezirk": "Magdeburg",
+   "kreis": "Altmarkkreis Salzwedel",
+   "lat": 52.704,
+   "lon": 11.29,
+   "date": "2027-03-21",
+   "confirmed": false,
+   "prev_date": "2026-03-22",
+   "distances": [
+    "11,8",
+    "6"
+   ],
+   "url": "https://www.hdsports.org/laufen/crosslauf-in-den-fruehling",
+   "source": "https://www.hdsports.org/laufen/crosslauf-in-den-fruehling",
+   "info": "Termin und Strecken laut HDsports (Termin 2027 noch nicht bestätigt, Prognose aus dem letzten Termin am 22.03.2026).",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "stadtfelder-schrotelauf-2027",
+   "type": "road",
+   "name": "Stadtfelder Schrotelauf",
+   "place": "Magdeburg",
+   "bezirk": "Magdeburg",
+   "kreis": "Stadt Magdeburg",
+   "lat": 52.133,
+   "lon": 11.617,
+   "date": "2027-05-15",
+   "confirmed": false,
+   "prev_date": "2026-05-16",
+   "distances": [
+    "11,5",
+    "4,5"
+   ],
+   "url": "https://www.hdsports.org/laufen/stadtfelder-schrotelauf",
+   "source": "https://www.hdsports.org/laufen/stadtfelder-schrotelauf",
+   "info": "Termin und Strecken laut HDsports (Termin 2027 noch nicht bestätigt, Prognose aus dem letzten Termin am 16.05.2026). Veranstalter Bürger für Stadtfeld e.V., laut HDsports Teilnehmerlimit 400.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "tangerhuetter-tangerlauf-2027",
+   "type": "road",
+   "name": "Tangerhütter Tangerlauf",
+   "place": "Tangerhütte",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Stendal",
+   "lat": 52.394,
+   "lon": 11.786,
+   "date": "2027-05-30",
+   "confirmed": false,
+   "prev_date": "2026-05-31",
+   "distances": [
+    "HM",
+    "10,5",
+    "5,3"
+   ],
+   "url": "https://www.hdsports.org/laufen/tangerhuetter-tangerlauf",
+   "source": "https://www.hdsports.org/laufen/tangerhuetter-tangerlauf",
+   "info": "Termin und Strecken laut HDsports (Termin 2027 noch nicht bestätigt, Prognose aus dem letzten Termin am 31.05.2026). Lauf zum Gedenken an Gerd Engel (Tangerlauf mit Laufengel).",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "kreuzhorst-ultra-backyard-2027",
+   "type": "trail",
+   "name": "Kreuzhorst Ultra (Backyard)",
+   "place": "Magdeburg",
+   "bezirk": "Magdeburg",
+   "kreis": "Stadt Magdeburg",
+   "lat": 52.133,
+   "lon": 11.617,
+   "date": "2027-09-05",
+   "confirmed": false,
+   "prev_date": "2026-09-06",
+   "distances": [
+    "Backyard"
+   ],
+   "url": "https://www.hdsports.org/laufen/kreuzhorst-ultra-backyard",
+   "source": "https://www.hdsports.org/laufen/kreuzhorst-ultra-backyard",
+   "info": "Termin und Strecken laut HDsports (Termin 2027 noch nicht bestätigt, Prognose aus dem letzten Termin am 06.09.2026). Backyard-Format: Runde von 6,706 km, jede Stunde ein Start.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "heidelauf-uchtspringe-2027",
+   "type": "trail",
+   "name": "Heidelauf Uchtspringe",
+   "place": "Stendal",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Stendal",
+   "lat": 52.607,
+   "lon": 11.859,
+   "date": "2027-09-25",
+   "confirmed": false,
+   "prev_date": "2026-09-26",
+   "distances": [
+    "12",
+    "6"
+   ],
+   "url": "https://www.hdsports.org/laufen/heidelauf-uchtspringe",
+   "source": "https://www.hdsports.org/laufen/heidelauf-uchtspringe",
+   "info": "Termin und Strecken laut HDsports (Termin 2027 noch nicht bestätigt, Prognose aus dem letzten Termin am 26.09.2026).",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "bismarck-gedenklauf-schoenhausen-2027",
+   "type": "road",
+   "name": "Bismarck-Gedenklauf Schönhausen",
+   "place": "Schönhausen (Elbe)",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Stendal",
+   "lat": 52.583,
+   "lon": 12.033,
+   "date": "2027-10-03",
+   "confirmed": false,
+   "prev_date": "2026-10-03",
+   "distances": [
+    "13",
+    "6,5"
+   ],
+   "url": "https://www.hdsports.org/laufen/bismarck-gedenklauf-schoenhausen",
+   "source": "https://www.hdsports.org/laufen/bismarck-gedenklauf-schoenhausen",
+   "info": "Termin und Strecken laut HDsports (Termin 2027 noch nicht bestätigt, Prognose aus dem letzten Termin am 03.10.2026).",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "zerbster-rolandlauf-2027",
+   "type": "road",
+   "name": "Zerbster Rolandlauf",
+   "place": "Zerbst",
+   "bezirk": "Dessau",
+   "kreis": "LK Anhalt-Bitterfeld",
+   "lat": 51.966,
+   "lon": 12.085,
+   "date": "2027-10-24",
+   "confirmed": true,
+   "distances": [
+    "10",
+    "5"
+   ],
+   "url": "https://www.hdsports.org/laufen/zerbster-rolandlauf",
+   "source": "https://www.hdsports.org/laufen/zerbster-rolandlauf",
+   "info": "Termin und Strecken laut HDsports. Termin laut HDsports vom Veranstalter bestätigt.",
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "harzlauf-thale-2027",
+   "type": "trail",
+   "name": "Harzlauf Thale",
+   "place": "Thale",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Harz",
+   "lat": 51.749,
+   "lon": 11.041,
+   "date": "2027-10-31",
+   "confirmed": true,
+   "distances": [
+    "22,6",
+    "11,3",
+    "5,7"
+   ],
+   "url": "https://www.hdsports.org/laufen/harzlauf",
+   "source": "https://www.hdsports.org/laufen/harzlauf",
+   "info": "Termin und Strecken laut HDsports. Termin laut HDsports vom Veranstalter bestätigt.",
+   "checked": "2026-11-05"
   }
  ]
 }
