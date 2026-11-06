@@ -5972,7 +5972,7 @@
    "date": "2027-06-17",
    "end": "2027-06-19",
    "confirmed": true,
-   "prev_date": null,
+   "prev_date": "2026-06-18",
    "distances": [
     "16",
     "29",
@@ -5996,7 +5996,6 @@
    "reg_open": "2026-10-05",
    "reg_close": null,
    "fee": "ZUT100 386 € (inkl. Bearbeitungsgebühr und MwSt.); übrige Distanzen nicht angegeben",
-   "start_time": "20:00",
    "checked": "2026-11-01",
    "source": "https://zugspitz.utmb.world/runners/schedule",
    "start_place": "Richard-Strauss-Platz, Garmisch-Partenkirchen (Ziel)",
@@ -6025,10 +6024,10 @@
    "gpx": null,
    "limit": null,
    "sold_out": null,
-   "cutoff": null,
+   "cutoff": "ZUT100: maximal 27 Stunden",
    "included": null,
    "late_reg": null,
-   "info": "Anmeldung 2027 erstmals per Lotterie (05.–12.10.2026), allgemeiner Verkauf ab 27.10.2026. Stand 01.11.2026: Garmisch-Partenkirchen Trail und Grainau Trail ausgebucht; Ultratrail, Ehrwald, Leutasch und Mittenwald Trail nur noch Special Entries. Zeitplan 2027 laut Veranstalter noch vorläufig (Stand 2026): ZUT100 Do 20:00, GaPa Trail Fr 10:00, Ultratrail Fr 22:00, Ehrwald Fr 23:00, Mittenwald Sa 07:00, Leutasch Sa 09:00, Grainau Sa 18:00",
+   "info": "Anmeldung 2027 erstmals per Lotterie (05.–12.10.2026), allgemeiner Verkauf ab 27.10.2026. Stand 01.11.2026: Garmisch-Partenkirchen Trail und Grainau Trail ausgebucht; Ultratrail, Ehrwald, Leutasch und Mittenwald Trail nur noch Special Entries. Zeitplan 2027 laut Veranstalter noch vorläufig (Stand 2026): ZUT100 Do 20:00, GaPa Trail Fr 10:00, Ultratrail Fr 22:00, Ehrwald Fr 23:00, Mittenwald Sa 07:00, Leutasch Sa 09:00, Grainau Sa 18:00. Veranstaltungswoche 17.–19.06.2027 in Garmisch-Partenkirchen. Das ZUT100 startet laut vorläufigem Zeitplan am Donnerstag um 20:00 Uhr, der 107-km-Ultratrail am Freitag 18.06.2027 um 22:00 Uhr (Check-in 21:15), Zeitplan noch vorläufig.",
    "bezirk": "Oberbayern",
    "kreis": "LK Garmisch-Partenkirchen",
    "gear_levels": [
@@ -6069,7 +6068,12 @@
     }
    ],
    "gear_stand": "Veranstalterseite, Mandatory Gear (für 2027)",
-   "gear_warn": "Bei fehlender Pflichtausrüstung drohen Strafen bis zur Disqualifikation. Bei Wetterumschwung kann die Organisation das Tragen der Zusatzkleidung vorschreiben. Stöcke sind empfohlen."
+   "gear_warn": "Bei fehlender Pflichtausrüstung drohen Strafen bis zur Disqualifikation. Bei Wetterumschwung kann die Organisation das Tragen der Zusatzkleidung vorschreiben. Stöcke sind empfohlen.",
+   "prev": {
+    "start_time": "20:00"
+   },
+   "gear_open": "nicht geprüft",
+   "start_time": "20:00"
   },
   {
    "id": "metropolmarathon-furth-2027",
@@ -12662,40 +12666,6 @@
    "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
    "bezirk": "Schwaben",
    "checked": "2026-11-03"
-  },
-  {
-   "id": "salomon-zugspitz-ultratrail-by-utmb-zut-2027",
-   "type": "trail",
-   "name": "Salomon Zugspitz Ultratrail by UTMB (ZUT)",
-   "place": "Grainau",
-   "lat": 47.452,
-   "lon": 11.01,
-   "date": "2027-06-17",
-   "end": "2027-06-20",
-   "confirmed": true,
-   "prev_date": "2026-06-18",
-   "distances": [
-    "16",
-    "29",
-    "44",
-    "69",
-    "86",
-    "107"
-   ],
-   "url": "https://zugspitz.utmb.world/",
-   "source": "https://zugspitz.utmb.world/races/ultratrail",
-   "kreis": "LK Garmisch-Partenkirchen",
-   "prev": {
-    "start_time": "20:00"
-   },
-   "info": "ZUT100 Ultratrail: 107 km mit 5.280 m Aufstieg, Start Freitag 18.06.2027 22:00 Uhr in Garmisch-Partenkirchen (Check-in 21:15), Siegerehrung Samstag 19.06.; Anmeldung über zugspitz.utmb.world, für den ZUT100 ist eine Qualifikation nötig; weitere Strecken z. B. Grainau Trail und Ehrwald Trail; 2026 war der Lauf ausverkauft (Startgebühren 2026 laut Suchergebnissen 60 € bis 320 €, nicht geprüft); Startgebühren 2027 und Teilnehmerlimit noch nicht geprüft",
-   "gear_open": "nicht geprüft",
-   "bezirk": "Oberbayern",
-   "checked": "2026-11-03",
-   "start_place": "Garmisch-Partenkirchen (Richard-Strauss-Platz), Grainau und Ehrwald (Tirol)",
-   "start_time": "22:00",
-   "cutoff": "ZUT100: maximal 27 Stunden",
-   "note": "UTMB-World-Series-Event vom 17. bis 20.06.2027 in Garmisch-Partenkirchen, Grainau und Ehrwald (Tirol); mehrere Strecken von 16 bis über 100 km"
   },
   {
    "id": "hoegl-berglauf-ainring-2027",
@@ -40012,8 +39982,8 @@
   {
    "id": "badekappenlauf-2027",
    "type": "road",
-   "name": "Badekappenlauf",
-   "place": "Cottbus",
+   "name": "OSTSEE RUN by ROTEC (ehemals Badekappenlauf)",
+   "place": "Cottbus-Willmersdorf",
    "bezirk": "Lausitz-Spreewald",
    "kreis": "Stadt Cottbus",
    "lat": 51.767,
@@ -40024,10 +39994,13 @@
     "5",
     "10"
    ],
-   "url": "http://www.ostsee-sportspiele.de/",
+   "url": "https://ostsee-sportspiele.de/",
    "source": "https://www.runme.de/deutschland/badekappenlauf_2/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-05"
+   "info": "Laut Veranstalterseite 7. OSTSEE Sportspiele in Cottbus-Willmersdorf am 12. und 13. Juni 2027 (Save the Date); der frühere Badekappenlauf heißt seit 2026 OSTSEE RUN by ROTEC; Tag des Laufs und Startzeit noch nicht veröffentlicht. Strecken laut RUNME.",
+   "checked": "2026-11-05",
+   "prev": {
+    "start_time": "10:00"
+   }
   },
   {
    "id": "lauf-um-den-senftenberger-see-2027",
@@ -40100,30 +40073,6 @@
    "checked": "2026-11-05",
    "prev": {
     "start_time": "15:30"
-   }
-  },
-  {
-   "id": "ostsee-badekappenlauf-2027",
-   "type": "road",
-   "name": "OSTSEE Badekappenlauf",
-   "place": "Willmersdorf",
-   "bezirk": "Lausitz-Spreewald",
-   "kreis": "Stadt Cottbus",
-   "lat": 51.767,
-   "lon": 14.333,
-   "date": "2027-06-12",
-   "confirmed": false,
-   "distances": [
-    "5",
-    "10",
-    "HM"
-   ],
-   "url": "https://www.ostsee-sportspiele.de",
-   "source": "https://www.runme.de/deutschland/ostsee-badekappenlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 10:00 Uhr).",
-   "checked": "2026-11-05",
-   "prev": {
-    "start_time": "10:00"
    }
   },
   {
@@ -79534,6 +79483,66 @@
    "source": "https://www.hdsports.org/laufen/stralsunder-fachhochschullauf",
    "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
    "checked": "2026-11-05"
+  },
+  {
+   "id": "oettinger-stadtlauf-2027",
+   "type": "road",
+   "name": "Oettinger Stadtlauf",
+   "place": "Oettingen in Bayern",
+   "bezirk": "Schwaben",
+   "kreis": "LK Donau-Ries",
+   "lat": 48.952,
+   "lon": 10.602,
+   "date": "2027-08-07",
+   "confirmed": false,
+   "distances": [
+    "7"
+   ],
+   "url": "https://running.life/de/termine/oettinger-stadtlauf",
+   "source": "https://running.life/de/termine/oettinger-stadtlauf",
+   "info": "Termin und Strecke (rund 7 km Hauptlauf, dazu Kinder- und Jugendläufe, Stadtmeisterschaft, Firmenwertung) laut running.life; Anmeldeseite des Veranstalters noch nicht veröffentlicht, Veranstalterseite nicht gefunden.",
+   "checked": "2026-11-06"
+  },
+  {
+   "id": "altkoenig-lauf-kronberg-2027",
+   "type": "road",
+   "name": "Altkönig-Lauf",
+   "place": "Kronberg im Taunus",
+   "bezirk": "Darmstadt",
+   "kreis": "Hochtaunuskreis",
+   "lat": 50.179,
+   "lon": 8.513,
+   "date": "2027-09-26",
+   "confirmed": true,
+   "distances": [
+    "10",
+    "HM"
+   ],
+   "url": "https://mtv-kronberg.de/events/altkoenig-lauf/",
+   "source": "https://mtv-kronberg.de/events/altkoenig-lauf/",
+   "start_time": "09:30",
+   "start_place": "MTV-Sportanlage Kronberg, Schülerwiesen 1 (Start und Ziel)",
+   "info": "47. Altkönig-Lauf am Sonntag 26.09.2027 laut Veranstalterseite des MTV Kronberg. Startzeiten: Halbmarathon 09:30 Uhr, 10 km und 10 km Walking/Nordic Walking 09:40 Uhr, Schülerläufe ab 12:00 Uhr (300 m und 1.000 m). Der Halbmarathon ist der 3. Wertungslauf der Taunus-Lauf Challenge. Medaille für alle Finisher.",
+   "checked": "2026-11-06"
+  },
+  {
+   "id": "messkircher-stadtlauf-2027",
+   "type": "road",
+   "name": "Meßkircher Stadtlauf",
+   "place": "Meßkirch",
+   "bezirk": "Tübingen",
+   "kreis": "LK Sigmaringen",
+   "lat": 47.995,
+   "lon": 9.115,
+   "date": "2027-07-10",
+   "confirmed": true,
+   "distances": [
+    "10"
+   ],
+   "url": "https://www.messkirch-bewegt-sich.de",
+   "source": "https://my.raceresult.com/424286/",
+   "info": "Meßkircher Stadtlauf des TV Meßkirch (Abteilung Leichtathletik) am 10.07.2027 laut Anmeldeportal RaceResult; Strecke 10 km laut Portal, weitere Angaben (Startzeit, Startgeld, Fristen) noch nicht veröffentlicht.",
+   "checked": "2026-11-06"
   }
  ]
 }
