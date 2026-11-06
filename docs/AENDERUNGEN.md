@@ -1,30 +1,135 @@
 # Änderungen auf Veranstalterseiten
 
-Stand: 05.11.2026 03:07 · 1054 Seiten geprüft · 7 geändert · 626 unverändert · 353 neu im Bestand · 52 nicht abrufbar · 16 per robots.txt gesperrt
+Stand: 06.11.2026 03:27 · 3060 Seiten geprüft · 42 geändert · 928 unverändert · 1884 neu im Bestand · 164 nicht abrufbar · 42 per robots.txt gesperrt
 
 ## Geändert
 
+- **streutaltrail-2026** – https://streutaltrail.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 2025
+  - weg: –
+- **lauf-ich-lauf-mit-gegen-gewalt-2026** – https://www.datasport.de/anmeldeservice/ichlaufmitgegengewalt2026  (nennt jetzt das Jahr des Laufs)
+  - neu: 23:59uhr
+  - weg: –
+- **djk-domlauf-passau-2027** – https://djk.domlauf.bistum-passau.de/
+  - neu: 2027
+  - weg: 02.11.2026, 15.november
 - **hiro-run-2027** – https://www.hiro-run.de/  (nennt jetzt das Jahr des Laufs)
   - neu: –
-  - weg: 3.november2026
-- **halbmarathon-ingolstadt-2027** – https://www.halbmarathon-ingolstadt.net  (nennt jetzt das Jahr des Laufs)
-  - neu: 15.12.2026, 8.mai2027, 2027, anmeldung ab
-  - weg: 9.mai2026
-- **internationaler-hohenzollernberglauf-2026** – https://www.anmeldungs-service.de/hohenzollernberglauf2026/  (nennt jetzt das Jahr des Laufs)
-  - neu: 23:59uhr
-  - weg: startplätze, 23:59
+  - weg: 4.november2026
+- **rogatemarktlauf-ergoldsbach-2027** – https://www.tsv-ergoldsbach.de
+  - neu: –
+  - weg: 02.november2026
+- **freystaedter-volksfestlauf-2027** – https://leichtathletik-freystadt.de/volksfestlauf/  (nennt jetzt das Jahr des Laufs)
+  - neu: 24.mai2027, 30.mai2027, anmeldung ab
+  - weg: 1.juni2026, 7.juni2026, 11:00uhr, 18:00uhr
+- **oberstdorfer-nebelhornberglauf-2027** – https://gotrail.run/de/termine/nebelhorn-berglauf
+  - neu: –
+  - weg: 07.mai, 08.mai2027
+- **gemeinsam-sind-wir-pink-2027** – https://gemeinsam-sind-wir-pink.de/
+  - neu: 3.10.
+  - weg: 3.oktober2024
+- **goldbacher-winter-crosslaufserie-2026** – https://www.tv-goldbach.de/wintercross/content/mainstart.php  (nennt jetzt das Jahr des Laufs)
+  - neu: 08.11.2026
+  - weg: 30.09.2026
 - **bibersfelder-herbstlauf-2026, vellberger-volkslauf-2027** – https://stadtwerke-hall.de  (nennt jetzt das Jahr des Laufs)
-  - neu: 17:30uhr
-  - weg: 21:00uhr
+  - neu: 21:00uhr, 23:00uhr
+  - weg: 29.oktober, 17:30uhr, 22:00uhr
+- **ring-running-series-hockenheimring-halbmarathon-und-marathon-2026** – https://ringrunningseries.com/en/  (nennt jetzt das Jahr des Laufs)
+  - neu: 10:00, 16:00
+  - weg: 08:00, 19:00
 - **spiegelberger-raeuberweglauf-2026** – https://ultras.prospectum.com/events/2026_06_raeuberweglauf/  (nennt jetzt das Jahr des Laufs)
-  - neu: 11.11.
+  - neu: 12.11.
   - weg: –
-- **sparkassenlauf-geislingen-2027** – https://www.tg-geislingen.de/
-  - neu: 02.11.2026, 12:13, 19:24, 28:20, 34:30
-  - weg: 06.10.2026, 23.09.2026, 19:38, 28:23, 30:20, 30:22
-- **allgaeu-volkslauf-leutkirch-2027** – https://www.tsg-leutkirch.de/skilaeuferzunft/
-  - neu: 09.12.2026
+- **teninger-allmendlauf-2027** – https://allmendlauf.de  (nennt jetzt das Jahr des Laufs)
+  - neu: –
+  - weg: 17.1.2027
+- **weinsberger-weibertreulauf-2027** – https://www.tsv-weinsberg.de/
+  - neu: 20.11.
+  - weg: 19:30
+- **lofutrail-2027** – https://lofutrail.de  (nennt jetzt das Jahr des Laufs)
+  - neu: 30.03.2027, 2028, ausgebucht
+  - weg: 29.03.2027
+- **lichtenstein-trail-2027** – https://lichtenstein-trail.de  (nennt jetzt das Jahr des Laufs)
+  - neu: –
+  - weg: 24.10.2026
+- **kerner-nachtlauf-2026** – https://www.spvgg-rommelshausen.de/leichtathletik  (nennt jetzt das Jahr des Laufs)
+  - neu: 03.10., 03.10.2026, 13.07.2026, 14.07.2026, 18.07.2026, 19.09.2026, 24.07.2026, 26.09.2026, 10:00uhr
   - weg: –
+- **einstein-marathon-ulm-2027** – https://einsteinmarathon.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 13.dezember2026, 13.märz2027, 222eur, 10:00uhr
+  - weg: 500euro
+- **schluchseelauf-2027** – https://www.schluchseelauf.com/  (nennt jetzt das Jahr des Laufs)
+  - neu: 2026, 2028
+  - weg: –
+- **himmelfahrtslauf-woessingen-2027** – https://www.tv-w.de
+  - neu: 23.oktober
+  - weg: 11.00uhr
+- **halbmarathon-sigmaringen-schwaebische-zeitung-2027** – https://www.sig-run.de/halbmarathon/  (nennt jetzt das Jahr des Laufs)
+  - neu: 1.1.2027, 2027, anmeldung geöffnet
+  - weg: –
+- **stuifenlaeufe-wissgoldingen-2027** – https://www.tv-wissgoldingen.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 19.juni2027, 2027
+  - weg: 20.juni2026, 341euro, 500euro, 16:07, 1:01, 2:58, 3:09, 40:59, 43:53, 45:37, 46:04, 47:18, 54:44, 6:06, 6:07
+- **esslinger-zeitung-lauf-2027** – https://www.esslinger-zeitung.de/sport/ez-lauf/infos-und-anmeldung
+  - neu: 14.november, 22.november, 35:29
+  - weg: 8.november, 2028
+- **steinenberger-waldlauf-2027** – https://www.sportfreunde-steinenberg.de/
+  - neu: –
+  - weg: 31.mai, anmeldung geöffnet
+- **heumadener-volkslauf-2027** – https://www.tsv-heumaden.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 13.11.2026
+  - weg: 08.10.2026, 26.10.2026
+- **spendenlauf-tsv-hoepfingen-2027** – https://www.tsv-hoepfingen.de/
+  - neu: –
+  - weg: 03.oktober2026
+- **schurwaldlauf-rommelshausen-2027** – https://www.leichtathletik-kernen.de/
+  - neu: 03.10., 03.10.2026, 13.07.2026, 14.07.2026, 18.07.2026, 19.09.2026, 24.07.2026, 26.09.2026, 10:00uhr
+  - weg: –
+- **volkslauf-der-stadtwerke-karlsruhe-2027** – https://www.stadtwerke-karlsruhe.de/de/miteinander/ausgaben/2025-2-sommer-engagement/news-volkslauf.php
+  - neu: 2026
+  - weg: –
+- **black-forest-trailrun-masters-2027** – https://trailrun-masters.de  (nennt jetzt das Jahr des Laufs)
+  - neu: 2.10., 3.10.2027, 2027
+  - weg: 3.10., 4.10.2026
+- **gaensebratenvernichtungslauf-wiesbaden-2026** – http://www.lcolympia.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 18:15
+  - weg: 20:15
+- **auf-die-platte-fertig-los-2027** – http://www.lcolympia.de
+  - neu: 18:15
+  - weg: 20:15
+- **idsteiner-stadtlauf-2027** – http://www.tv1844idstein.de/
+  - neu: –
+  - weg: 03.11.
+- **ahnataler-abendvolkslauf-2027** – https://www.ftsv-heckershausen.de
+  - neu: 13.oktober, 30.april, 7.dezember2026, 17.00uhr
+  - weg: –
+- **himmelsleiterlauf-darmstadt-2027** – http://www.tg07-eberstadt.de
+  - neu: 16.november, 16.november2026, 19:00, 20:00uhr
+  - weg: 11.oktober2026
+- **brueder-grimm-lauf-hanau-2027** – https://www.mkk.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 11.dezember, 20.november
+  - weg: –
+- **taunussteiner-waldlauf-30-7-2027** – https://www.tvhahn.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 14:30, 17:00, 19:00
+  - weg: 10:00, 15:00, 15:30, 16:45, 17:15, 18:15, 18:45, 19:15, 19:30, 19:45, 21:30, 22:00, 9:00
+- **kurparklauf-bad-homburg-v-d-hoehe-2027** – https://www.bad-homburg.de/
+  - neu: 09:00uhr, 17:00uhr, 18:00uhr
+  - weg: 02.11.2026, 19:00uhr
+- **heineparklauf-2027, froebellauf-2027** – https://www.laufclub-rudolstadt.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 9:30uhr
+  - weg: –
+- **stiefelburglauf-tonndorf-2027** – https://www.sv70tonndorf.de/
+  - neu: –
+  - weg: 21.08.2026
+- **vogelberglauf-bleicherode-2027** – http://www.bleicherode.de/
+  - neu: 13.11.2026, 17:30, 22:00
+  - weg: 16:30
+- **treffurter-stadtlauf-2027** – https://treffurt.de/
+  - neu: 11.11.2026, 13.11.2026, 13.november, 16:30uhr
+  - weg: 08.11.2026
+- **steiger-honig-lauf-2027** – http://www.ltv-erfurt.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 30.10., 16:00, 18:00
+  - weg: 20.08., 29.10., 30.03., 13:00, 15:00, 17:30, 18:30, 19:00, 20:00, 20:30, 21:00
 
 ## Nicht abrufbar
 
@@ -33,13 +138,21 @@ Stand: 05.11.2026 03:07 · 1054 Seiten geprüft · 7 geändert · 626 unverände
 - https://www.forstenriedersc.de/forstenrieder-volkslauf/ – http 403
 - https://isarstauseelauf.jimdosite.com – http 403
 - https://www.djk-falkenberg.de/ski – http 403
-- https://www.hdsports.org/laufen/sonnwendlauf-um-den-gruentensee – fehler IncompleteRead(64239 bytes read)
 - https://www.waldhaegenich-lauf.de/ – fehler <urlopen error [Errno 101] Network is unreachable>
+- https://neckarlauf.com/6hoder12h-run.html – fehler <urlopen error [Errno 101] Network is unreachable>
+- https://neckarlauf.com – fehler <urlopen error [Errno 101] Network is unreachable>
 - https://stuttgarter-silvesterlauf.de – fehler <urlopen error timed out>
 - https://www.pascal-schucker.de/Spendenaktionen/Spendenlauf-Broggingen – http 404
+- https://neckarlauf.com/fr-hlingsultra.html – fehler <urlopen error [Errno 101] Network is unreachable>
+- https://neckarlauf.com/schwarzwaldultra-backyard.html – fehler <urlopen error [Errno 101] Network is unreachable>
+- https://gaeufelderlauf.de – fehler <urlopen error [Errno 101] Network is unreachable>
 - https://www.hohenlohe-geniesserlauf.de – fehler <urlopen error [Errno -2] Name or service not known>
+- https://neckarlauf.com/sixdaysrun.html – fehler <urlopen error [Errno 101] Network is unreachable>
+- https://insane-backyard-ultra.com – fehler <urlopen error [Errno 101] Network is unreachable>
 - https://www.weinheimtrails.de – http 403
+- https://neckarlauf.com/sommer24hlauf.html – fehler <urlopen error [Errno 101] Network is unreachable>
 - https://braunenberg-lauf.de – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid f
+- https://neckarlauf.com/geh-heim-lauf.html – fehler <urlopen error [Errno 101] Network is unreachable>
 - http://www.svbadbuchau.de/html/stadtlauf.html – http 404
 - https://www.neuenbuerg.de/freizeit-erlebnis/veranstaltungskalender/2199/schlosspark-run – http 404
 - https://gruettlauf.de – fehler <urlopen error timed out>
@@ -54,6 +167,8 @@ Stand: 05.11.2026 03:07 · 1054 Seiten geprüft · 7 geändert · 626 unverände
 - https://sommernachtslauf.net/ – http 403
 - https://www.tv-rheinau-mannheim.de/news – fehler <urlopen error [Errno -2] Name or service not known>
 - https://www.stuttgarter-lebenslauf.de/ – fehler <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1018)>
+- https://www.roadrunners-suedbaden.de/night-run – http 429
+- https://www.schurwaldlauf.de/ – http 500
 - https://www.schoenbuch-cup.de/kuppingen – http 403
 - https://www.tsg-salach.de/veranstaltungen/471-loewenlauf.html – http 404
 - https://turnverein-dornstetten.de/adventslauf-2.html – fehler <urlopen error [Errno 101] Network is unreachable>
@@ -65,21 +180,123 @@ Stand: 05.11.2026 03:07 · 1054 Seiten geprüft · 7 geändert · 626 unverände
 - http://www.benefizlauf-königstein.de/ – http 404
 - https://www.rhoenenergie-challenge.de/ – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid f
 - https://www.bründersen.de/ – http 400
+- https://loewenlauf-badzwesten.de/ – http 500
 - http://lg-dill.de – http 444
 - http://www.ksv-baunatal.de/abteilungen/marathon/baunatal-rennt.html – http 404
 - https://www.vfl-eiterfeld.de/ – http 403
 - http://www.mpz-sport-bad-vilbel.de – http 403
 - http://www.hugenottenlauf.de/ – fehler <urlopen error timed out>
 - http://laufundwalkingtreff-treis.de/ – fehler <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1018)>
-- https://www.sv-1924.de/ – fehler The read operation timed out
 - http://www.kyffhaeuser-berglauf.de/ – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.
+- https://www.wrc-hildburghausen.de/ – fehler <urlopen error [Errno 101] Network is unreachable>
 - https://lobdeburglauf.jimdosite.com/ – http 403
 - https://www.kyffhaeuser-laufcup.de/ – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.
-- http://www.haldenlauf.de – fehler <urlopen error [Errno 111] Connection refused>
+- https://www.tsv1880ruedersdorf.de/fussball/mittsommerlauf.html – fehler <urlopen error timed out>
+- http://www.haldenlauf.de – fehler <urlopen error timed out>
 - https://suedeichsfeldlauf.de/ – fehler <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1018)>
 - http://wickerstedter-crosslauf.jimdo.com – fehler <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1018)>
+- http://www.leichtathletik-soemmerda.de/ – fehler <urlopen error [Errno 101] Network is unreachable>
 - https://www.kyffhaeuser-berglauf.de – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.
 - http://www.gymnasium-dingelstaedt.de/joomla/ – http 404
+- http://www.geba-berglauf.de/ – fehler <urlopen error [Errno 101] Network is unreachable>
+- https://www.sparkassen-paddle-run.de/ – fehler <urlopen error [Errno -2] Name or service not known>
+- https://www.triathlonchemnitz.de/ – http 403
+- http://neujahrsberglauf.de/ – fehler <urlopen error timed out>
+- http://www.wasser-stadt-leipzig.de/index.asp – http 404
+- https://www.ksb-nordsachsen.de/veranstaltungen/torgauer-city-nachtlauf – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid f
+- http://ssv1846scheibenberg.de – http 403
+- https://www.gassenlauf.com/ – http 403
+- http://www.stadtlaufbautzen.de/ – http 500
+- http://www.doebelner-landschaftslauf.de/ – fehler <urlopen error [Errno -2] Name or service not known>
+- http://www.drei-talsperren-marathon.de/ – fehler The read operation timed out
+- http://www.hoywojcitylauf.sportclub-hoyerswerda.de/ – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid f
+- https://www.sparkassen-teichelauf.de/ – http 404
+- https://www.leichtathletik-scdhfk.de/ – fehler <urlopen error [Errno -2] Name or service not known>
+- http://leichtathletik-blankenburg.de/ – fehler <urlopen error [Errno 101] Network is unreachable>
+- http://www.lghopfen.de – fehler <urlopen error [Errno 101] Network is unreachable>
+- https://kvhs.salzlandkreis.de/ – fehler <urlopen error timed out>
+- http://www.magdeburg-marathon.eu/ – fehler <urlopen error [Errno 101] Network is unreachable>
+- http://www.harri-schlegel.com/ – fehler <urlopen error timed out>
+- http://www.sg-rauen1951.de – http 403
+- http://www.temnitzer-heide-lauf.de/ – http 403
+- http://www.uferbahnlauf.de/ – fehler <urlopen error [Errno 101] Network is unreachable>
+- http://www.bisttal-runners.de – fehler <urlopen error [Errno -2] Name or service not known>
+- http://fc-selbach.de/lauftreff/start.html – fehler <urlopen error [Errno -2] Name or service not known>
+- http://www.tv-maikammer.de – http 404
+- https://lc-hassloch.de/ – fehler <urlopen error [Errno 101] Network is unreachable>
+- http://www.baerenfelslauf.de/ – fehler <urlopen error [Errno -2] Name or service not known>
+- http://www.tus-waldboeckelheim.de – http 403
+- http://302510.webhosting47.1blu.de/nahecross/ – http 404
+- http://www.deichlauf.de/ – http 404
+- https://traylrunner.jimdosite.com/ – http 403
+- https://www.svneroth.de/enzenbueschlauf/ – fehler <urlopen error [Errno 101] Network is unreachable>
+- http://www.eifelmarathon.com/ – http 403
+- http://www.sv-gerolstein.de/sportevents/ – http 404
+- https://www.tus-ahrweiler.de/ – http 429
+- http://www.fc-neuhof.de/ – fehler <urlopen error [Errno -2] Name or service not known>
+- http://www.tus-platten.de/ – fehler <urlopen error [Errno -2] Name or service not known>
+- http://www.hsc-gamlen-eifel-coc.magix.net/ – fehler <urlopen error [Errno -2] Name or service not known>
+- https://www.svneroth.de/ – fehler <urlopen error [Errno 101] Network is unreachable>
+- https://www.damscheid.de/ – http 403
+- http://www.schwebebahn-lauf.de/home/ – http 404
+- https://lauftreff.viktoria-rietberg.de/ – fehler <urlopen error [Errno 111] Connection refused>
+- http://veranstaltungen.sca-ausdauersport.de/index.php – fehler <urlopen error [Errno -2] Name or service not known>
+- https://lg-gm.de/ – fehler <urlopen error [Errno 101] Network is unreachable>
+- http://www.tv-vreden.de – http 403
+- https://www.alstaetter-sandhasenlauf.de/ – fehler <urlopen error [Errno -2] Name or service not known>
+- http://www.tg-werste.de/WWL.html – http 404
+- http://www.lg-gummersbach.de/ – fehler <urlopen error [Errno 101] Network is unreachable>
+- https://www.laufag.de/ – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)>
+- https://www.bergstadtmarathon-ruethen.de/ – fehler <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1018)>
+- https://www.sv-kollerbeck.de/ – fehler <urlopen error [Errno 101] Network is unreachable>
+- http://www.lg-alpen.net/ – fehler <urlopen error [Errno 101] Network is unreachable>
+- http://www.tv-schwafheim.net/volkslauf – http 404
+- http://www.citylauf.borken.de/ – fehler <urlopen error [Errno -2] Name or service not known>
+- https://www.leverkusen-halbmarathon.de/home/ – http 404
+- http://www.horremer-abendlauf.de/index.html – http 404
+- https://www.runme.de/deutschland/Mittsommer-Lauf Düsseldorf/ – fehler URL can't contain control characters. '/deutschland/Mittsommer-Lauf Düsseldorf/' (found at least ' ')
+- https://www.benkhauser-schlosslauf.de – http 403
+- http://www.veltins-eisarena.de/bobbahnrun/ – http 404
+- https://www.gravel-run.com/events/ruhrgebiet-2026/ – http 404
+- http://www.parkrun.com.de/kemnadersee – http 405
+- http://info@tsv-viktoria.de/ – fehler <urlopen error [Errno -2] Name or service not known>
+- https://www.asv-koeln.de/events/bruckenlauf – http 404
+- http://www.lh-lauf.de/ – http 404
+- http://www.leichtahtletik-in-engelskirchen.de – fehler <urlopen error [Errno -2] Name or service not known>
+- http://www.bickendorf-lauf.de/ – http 403
+- http://lg-gummersbach.de – fehler <urlopen error [Errno 101] Network is unreachable>
+- http://www.karneval-marathon.de – http 429
+- https://www.pol-tuslinnich.de/index.php – http 403
+- http://www.Blumensaatlauf.de – fehler timed out
+- https://tsvlelm.de – fehler <urlopen error [Errno 101] Network is unreachable>
+- https://www.lgnordheide.de/lgn/index.php/de/ – fehler <urlopen error [Errno 101] Network is unreachable>
+- https://www.psvlehrte.de/home – http 404
+- http://www.mtv-lauftreff.de/index.php – http 403
+- https://sv-herbrum.de/ – http 403
+- http://www.hvv-martfeld.de/index.php – http 404
+- https://tsg-bergedorf.de/bergedorfer-citylauf/ – http 404
+- http://www.tsv-hittfeld.de – http 403
+- https://www.mtv-rethmar.de/laufen/abend-kanallauf/ – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid f
+- http://www.emder-lg.de/matjeslauf – http 404
+- https://tsv-lemke.de/ – http 403
+- https://www.skigemeinschaft-nordschaumburg.de/kurparklauf/ – http 403
+- http://www.volkslaufisernhagen.de – http 401
+- http://windmuehlenlauf.jimdo.com/ – fehler <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1018)>
+- https://www.norderney-lauf.de/ – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1018)>
+- http://www.mottencastle.de – fehler <urlopen error [Errno 111] Connection refused>
+- https://www.ralfsmarathonseite.de – fehler <urlopen error [Errno -3] Temporary failure in name resolution>
+- http://www.deister-crossing.de/ – fehler <urlopen error [Errno -2] Name or service not known>
+- http://www.tus-altwarmbüchen.de – http 400
+- http://südenseelauf.de/ – http 400
+- https://www.businessrun-zippels.de/kiel/ – http 404
+- http://www.stadtwerke-lauf-niebüll.de – fehler <urlopen error [Errno -2] Name or service not known>
+- https://www.sachsenwaldlauf.de/ – http 403
+- https://ts-schenefeld.de/ – fehler <urlopen error [Errno 101] Network is unreachable>
+- https://www.sggreifswald.de/ – fehler <urlopen error [Errno -2] Name or service not known>
+- http://www.nb-silvesterlauf.de/ – fehler <urlopen error [Errno -2] Name or service not known>
+- http://www.mein-moenchgut.de/ – fehler <urlopen error [Errno 101] Network is unreachable>
+- https://www.fuenf-seen-lauf.de/ueber-uns/laufkalender/details?tx_news_pi1%5Baction%5D=detail&amp;tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Bnews%5D=1&amp;cHash=da16ec58accef2c8fd08c8ae6cadf6d6 – http 404
+- http://www.schlossgartenlauf.de/ – fehler <urlopen error [Errno 101] Network is unreachable>
 
 ## Per robots.txt gesperrt (nicht abgerufen)
 
@@ -99,6 +316,32 @@ Stand: 05.11.2026 03:07 · 1054 Seiten geprüft · 7 geändert · 626 unverände
 - https://www.odenwaelderherbstlauf.de/
 - http://www.silvesterlauf-tanna.de
 - https://toepfermarktlauf-buergel.de/toepfermarktlauf-uebersicht
+- http://www.hetz-run.de
+- https://www.ddv-mediengruppe.de
+- https://www.tf-obg.de/
+- http://www.schneeglocke.de/
+- http://www.kreissportbund-opr.de/sport/
+- http://www.ev-gs-luebben.de/
+- http://www.seenland100.de
+- http://www.spvgg-mitlosheim.de
+- https://ellscheid-vulkaneifel.de/
+- https://www.bertlicher-sl.de/
+- https://www.facebook.com/events/bachtal-lennep/sledgehammer-marathon-challenge-2027/1432490828952630/
+- http://www.sus-bertlich.de/la
+- https://sgm-leichtathletik.com/
+- http://www.weyher-lauftreff.de
+- https://www.tsg-emmerthal.de/
+- http://www.w-lauf.de
+- http://www.junkernhof-lauf.de/
+- https://vfl-bueckeburg.de/
+- https://www.mtv-goslar.de/
+- http://www.syker-hachelauf.de
+- http://www.rw-wohldenberg.de/
+- https://www.ihk-oldenburg.de/
+- http://www.ostseelauf.com/
+- https://fehmarn-marathon.de/
+- http://www.insel-sylt.de/jaehrliche-highlights/jaehrliche-highlights-sportveranstaltungen/run-ums-rantumbecken/
+- http://www.mueritzer-lsv04.de/
 
 ## Termin noch geschätzt, Seite nennt aber schon das Jahr
 
@@ -106,11 +349,10 @@ Stand: 05.11.2026 03:07 · 1054 Seiten geprüft · 7 geändert · 626 unverände
 - dreiburgenland-marathon-2027 – https://www.hotel-schuerger.de
 - walhallalauf-2027 – https://www.walhallalauf.de/
 - beratzhausener-ehrenfelslauf-2027 – https://tsv-beratzhausen.de/ehrenfelslauf-2025/
+- freystaedter-volksfestlauf-2027 – https://leichtathletik-freystadt.de/volksfestlauf/
 - intern-jennerberglauf-2027 – https://www.skberchtesgaden.de/
-- halbmarathon-ingolstadt-2027 – https://www.halbmarathon-ingolstadt.net
 - aschaffenburger-sparkassen-halbmarathon-2027 – https://hm-ab.de
 - buxachtal-lauf-memmingen-2027 – https://triathlon.tv-memmingen.de/buxachtallauf/
-- crazy-runners-frankenwald-trail-2027 – https://www.crazyrunners-frankenwaldtrail.de/
 - last-legs-ultra-wuerzburg-2027 – https://lastlegsultra.de/
 - taubertal-trail-steinsfeld-2027 – https://www.taubertal-trail.de/
 - lions-12-stunden-lauf-lindenberg-2027 – https://12stundenlauf-lindenberg.de/
@@ -122,10 +364,7 @@ Stand: 05.11.2026 03:07 · 1054 Seiten geprüft · 7 geändert · 626 unverände
 - hegau-bodensee-cross-meersburg-2026 – https://hegau-bodensee-cross.de
 - hegau-bodensee-crosslaufserie-radolfzell-markelfingen-2026 – https://hegau-bodensee-cross.de
 - vellberger-volkslauf-2027 – https://stadtwerke-hall.de
-- gruentalultra-2027 – https://neckarlauf.com
 - alb-gold-winterlaufcup-2027 – https://www.alb-gold.de/aktiv/alb-gold-winterlauf.html
-- ultralauf-hawei50-2027 – https://lsg-weiher.de/hawei50
-- solitudelauf-2027 – https://solitudelauf.de
 - vr-halbmarathon-geislingen-2027 – https://leichtathletik.tsv-geislingen.de/
 - wiesenseelauf-hemsbach-2027 – https://wiesenseelauf.de
 - liwa-laufevent-2027 – https://liwalauf.tsv-lichtenwald.de
@@ -133,25 +372,23 @@ Stand: 05.11.2026 03:07 · 1054 Seiten geprüft · 7 geändert · 626 unverände
 - ditzinger-lebenslauf-2027 – https://ditzinger-lebenslauf.de
 - trollinger-marathon-heilbronn-2027 – https://www.trollinger-marathon.de
 - lichtenstein-trail-2027 – https://lichtenstein-trail.de
-- backyard-swub-2027 – https://neckarlauf.com/schwarzwaldultra-backyard.html
-- gaeufelderlauf-2027 – https://gaeufelderlauf.de
 - eichberglauf-glottertal-2027 – https://eichberglauf.de
-- sixdaysrun-freudenstadt-2027 – https://neckarlauf.com/sixdaysrun.html
 - kuelsheimer-trailrun-2027 – https://12stundenrennen.de/kuelsheimer-trailrun/
 - 24h-lauf-dettenhausen-2027 – https://www.vfl-dettenhausen.de/laufen_und_walken/24h-lauf
-- sommer24hlauf-freudenstadt-2027 – https://neckarlauf.com/sommer24hlauf.html
 - waielaender-waldlauf-2027 – https://www.waldlauf-inzlingen.de/
-- 12-oder-24-h-lauf-dornstetten-2027 – https://neckarlauf.com/geh-heim-lauf.html
 - e2h10k-ultratrail-calw-100-2027 – https://e2h10k.simdif.com
 - schwarzwald-marathon-braeunlingen-2027 – https://schwarzwaldmarathon.de
 - crosslauf-endingen-2027 – https://www.turnverein-endingen.com/crosslaufseite/
 - sparkassen-alb-marathon-2027 – https://albmarathon.de
 - baden-marathon-karlsruhe-2027 – https://www.badenmarathon.de
 - bodensee-marathon-kressbronn-2027 – https://www.bodensee-marathon.de
+- winterlaufserie-djk-goeppingen-2-lauf-2027 – http://www.djk-winterlaufserie.de/
+- winterlaufserie-djk-goeppingen-3-lauf-2027 – http://www.djk-winterlaufserie.de/
 - stadtlauf-oehringen-2027 – https://stadtlauf-oehringen.de/
 - welzheimer-limeslaeufe-2027 – https://www.tsfwelzheim.de/abteilungen/welzheimer-limeslauf/
 - elpersheimer-pfingstlauf-um-den-energiezentrum-cup-2027 – https://sv-elpersheim.de/pfingstlauf/
-- huettlinger-muffigellauf-2027 – https://www.muffigellauf.de/
+- halbmarathon-sigmaringen-schwaebische-zeitung-2027 – https://www.sig-run.de/halbmarathon/
+- stuifenlaeufe-wissgoldingen-2027 – https://www.tv-wissgoldingen.de/
 - kinzigcross-gengenbach-2027 – https://kinzigcross.de
 - reutlinger-altstadtlauf-2027 – https://www.igl-reutlingen.de/
 - wangener-altstadtlauf-2027 – https://www.mtg-wangen.de/leichtathletik/altstadtlauf
@@ -159,7 +396,7 @@ Stand: 05.11.2026 03:07 · 1054 Seiten geprüft · 7 geändert · 626 unverände
 - heumadener-volkslauf-2027 – https://www.tsv-heumaden.de/
 - jakob-scheuring-gedaechtnislauf-ottenau-2027 – https://www.spvgg-ottenau.de/leichtathletik/
 - lauf-mit-isingen-2027 – https://www.lauf-mit.com/
-- esslinger-schurwaldlauf-2027 – https://www.schurwaldlauf.de/
+- black-forest-trailrun-masters-2027 – https://trailrun-masters.de
 - lossburger-waldlauf-2027 – https://www.skiclub-lossburg.de/
 - muswiesenlauf-musdorf-2027 – https://www.muswiesenlauf.de/
 - ensinger-laufcup-2027 – https://ensinger-laufcup.de
@@ -180,7 +417,6 @@ Stand: 05.11.2026 03:07 · 1054 Seiten geprüft · 7 geändert · 626 unverände
 - apoldaer-stadtlauf-2027 – http://www.apoldaer-lv.de
 - drei-kirchen-neujahrslauf-2027 – http://sv-guenthersleben.de/
 - fruehjahrscrosslauf-im-steiger-2027 – http://www.asv-leichtathletik.de/
-- lange-bahn-lauf-2027 – http://www.lange-bahn-lauf.de/
 - kanonenbahnlauf-2027 – https://www.kanonenbahnlauf.org
 - werratal-marathon-2027 – https://www.werratal-marathon.de/
 - heiligenstaedter-kurstadtlauf-2027 – https://www.volksbank-mitte-kurstadtlauf.de/
@@ -191,4 +427,223 @@ Stand: 05.11.2026 03:07 · 1054 Seiten geprüft · 7 geändert · 626 unverände
 - vr-bank-mitte-herbstlauf-2027 – https://vr-bankmitte-herbstlauf.de/
 - bismarckturmlauf-2027 – https://fsv-neustadt-orla.de/
 - jenaer-kernberglauf-2027 – http://www.kernberglauf.de
+- sommerabendlauf-am-auensee-2027 – http://www.lc-auensee-leipzig.de/
+- wilischlauf-2027 – http://www.wilischlauf.de/
+- lauf-durch-die-roederaue-2027 – https://www.svelbland.de/
+- muldentallauf-nossen-2027 – https://www.svelbland.de/
+- eierweglauf-seerhausen-2027 – https://www.svelbland.de/
+- glaubitzer-waldlauf-2027 – https://www.svelbland.de/
+- werdauer-waldlauf-2027 – http://www.werdauer-waldlauf.de
+- raschuetzlauf-lampertswalde-2027 – http://www.sv-lampertswalde.de/
+- zittauer-gebirgslauf-wandertreff-2027 – http://www.zittauer-gebirgslauf.de/
+- oederaner-lauftag-2027 – https://www.oederaner-lauftag.de/2026/
+- aschberglauf-2027 – https://vsc-klingenthal.de/
+- sparkassen-vogtlandlauf-2027 – https://vsc-klingenthal.de/
+- herbst-kammlauf-2027 – https://vsc-klingenthal.de/
+- lausitzer-bluetenlauf-kamenz-2027 – http://www.lausitzer-bluetenlauf.de
+- brauerei-cross-2027 – https://www.europamarathon.de/
+- oberlausitztrail-2027 – https://www.oberlausitztrail.de/de/index.html
+- vsb-dresdner-nachtlauf-2027 – http://www.dresdner-nachtlauf.de/
+- stadtwerkelauf-delitzsch-2027 – https://stadtwerkelauf-delitzsch.de/
+- sparkassen-knappenman-2027 – http://www.knappenman.de
+- sparkassen-tauchscher-stadtlauf-2027 – http://www.stadtlauf-taucha.de/
+- tharandter-wald-lauf-2027 – http://www.tharandterwald-lauf.de
+- dresdenhalf-2027 – https://dresden-half.com/
+- geithainer-herbstlauf-2027 – http://laufen-in-geithain.de/
+- schwarzenberglauf-2027 – https://schwarzenberglauf.de
+- wgp-citylauf-pirna-2027 – https://www.wg-pirna.de/
+- magdeburger-osterlauf-2027 – http://www.magdeburger-laufkultur.de/
+- hasseler-silvesterlauf-2026 – https://www.altmark-triathlon.com/
+- bismarckturmlauf-burg-2027 – https://www.runme.de/deutschland/bismarckturmlauf/
+- herrenkrugparklauf-2027 – https://www.runme.de/deutschland/herrenkrugparklauf-magdeburg/
+- othaler-gutshof-lauf-2027 – http://www.asv-sangerhausen.de/
+- scharnhorstlauf-2027 – https://www.sport-burgenland.de/
+- altstadtlauf-halberstadt-2027 – http://altstadtlauf-halberstadt.de/
+- gerstewitzer-muehlentaglauf-2027 – http://www.sport-burgenland.de/
+- besenbinder-lauf-rund-um-hainrode-2027 – https://www.asv-sangerhausen.de/
+- arendsee-event-2027 – http://www.kersten-friedrich-events.com/
+- fleesenseelauf-2027 – http://www.kersten-friedrich-events.com/
+- spiegelsbergelauf-2027 – https://www.spiegelsbergelauf.de/
+- dessauer-rathaus-center-city-run-2027 – https://anhalt-sport.de/events/27-dessauer-rathaus-center-cityrun-2026.html
+- bergzeitlauf-brockenheroes-2027 – https://brockenheroes.de
+- harz-gebirgslauf-2027 – http://www.harz-gebirgslauf.de
+- solvay-lauf-2027 – https://lauf.psv-bernburg.de/
+- forster-osterlauf-2027 – http://ltsv.de/
+- fruehlingslauf-ludwigsfelde-2027 – http://www.llv-ludwigsfelde.de
+- beetzseelauf-2027 – http://www.vfl-brandenburg.de
+- the-last-light-backyard-ultra-2027 – https://thelastlight.phexora.ai/
+- gaudilauf-14-27-2027 – https://www.elsterlauf.de/
+- badekappenlauf-2027 – http://www.ostsee-sportspiele.de/
+- ostsee-badekappenlauf-2027 – https://www.ostsee-sportspiele.de
+- ostsee-sparkassen-halbmarathon-2027 – https://ostsee-sportspiele.de/
+- haasower-waldlauf-2027 – https://www.berlin-timing.de/Haasower-Waldlauf
+- mad-chicken-run-2027 – https://mad-chicken-run.de/
+- wutzseelauf-2027 – https://www.esab-ausbildung.de/
+- strausseelauf-2027 – https://www.strausseelauf.de/
+- burgenlauf-bad-belzig-2027 – http://www.burgenlauf.de
+- storkower-see-lauf-2027 – http://www.tv-fuerstenwalde.org
+- prignitzer-moormeile-2027 – http://www.moormeile.de
+- klosterlauf-panschwitz-kuckau-2027 – https://lausitzer-sportevents.de/marathon/termine/
+- diabetes-lauf-2027 – https://diabeteskongress.de/
+- borsig-halbmarathon-2027 – https://borsighalbmarathon.de/
+- great-10k-berlin-2027 – http://www.berlin-laeuft.de/
+- sportscheck-run-berlin-2027 – https://www.sportscheck.com/
+- sportscheck-run-hamburg-2027 – https://www.sportscheck.com/
+- sportscheck-run-hannover-2027 – https://www.sportscheck.com/
+- 100meilenberlin-der-mauerweglauf-2027 – https://www.runme.de/deutschland/100meilenberlin-der-mauerweglauf/
+- sparkassen-altstadtlauf-2027 – http://www.tvo-leichtathletik.de/
+- ferraro-gutsweiherlauf-2027 – http://www.vfa-neunkirchen.de/
+- talsperre-nonnweiler-panoramalauf-2027 – https://www.runme.de/deutschland/talsperren-halbmarathon/
+- garten-reden-haldenlauf-event-2027 – http://www.garten-reden-haldenlauf-event.net
+- cross-against-cancer-2027 – http://www.miteinander-gegen-krebs.de/
+- sparkassen-saarathon-2027 – http://www.westspangenlauf.de
+- winterlaufserie-rheinzabern-2-lauf-2027 – https://winterlauf.tv-rheinzabern.de/
+- zitronenkraemerlauf-2027 – http://bekond.wordpress.com/
+- deadly-trail-pirmasens-2027 – https://www.deadlydozen.de/event/trail-pirmasens
+- edith-luecke-frauenlauf-trier-2027 – http://silvesterlauf.de/
+- hoellenberg-trail-trophy-2027 – https://www.htt-spirkelbach.de/
+- kondelwaldlauf-rund-um-bengel-und-springiersbach-2027 – http://www.tusbengel05.de/
+- baerenfels-sommer-trail-neubruecke-2027 – https://baerenfelsteam.de/
+- ring-of-feier-hermeskeiler-city-lauf-2027 – https://www.teba-radweglauf.de
+- lautrer-lebenslauf-2027 – https://www.fck-running.de/lebenslauf/allgemeines/
+- ruppertslauf-2027 – https://www.runme.de/deutschland/ruppertslauf/
+- zfs-muenster-city-run-2027 – https://www.lsf-muenster.de/
+- parkleuchten-run-2027 – https://parkleuchten-run.de/
+- asv-duisburg-winterlaufserie-1-lauf-2027 – https://www.asv-winterlaufserie.de/ausschreibung/
+- asv-duisburg-winterlaufserie-2-lauf-2027 – https://www.asv-winterlaufserie.de/ausschreibung/
+- asv-duisburg-winterlaufserie-3-lauf-2027 – https://www.asv-winterlaufserie.de/ausschreibung/
+- monschauer-treppenlauf-2027 – https://tv-konzen.de/
+- ibbenbuerener-klippenlauf-2027 – https://www.ibbenbuerener-klippenlauf.de/
+- beueler10er-2027 – http://www.beueler10er.de/
+- zoolauf-muenster-2027 – https://wasser-freizeit.de/veranstaltungen/zoolauf-muenster
+- apfelbluetenlauf-2027 – https://www.apfelbluetenlauf.de
+- ruhrseen-halbmarathon-2027 – https://ruhrseen-halbmarathon.de/
+- salvus-teekottenlauf-2027 – http://www.teekottenlauf.de/
+- lauf-zum-alten-vom-muessenberg-vb-sauerland-lauf-cup-2027 – http://www.lac-veltins-hochsauerland.de
+- dauerlauf-im-severinsviertel-2027 – http://www.dauerlauf.de
+- herz-kreislauf-essen-2027 – http://www.herz-kreislauf-essen.de/
+- bbs-altstadtlauf-lippstadt-49-laufveranstaltung-2027 – https://www.altstadtlauf-lippstadt.de/
+- kottenforst10er-2027 – https://www.beueler10er.de/
+- bruehler-stadtlauf-2027 – http://www.btv-leichtathletik.de
+- koelner-leselauf-2027 – https://leselauf.de/
+- paul-panoramasteig-ultralauf-2027 – https://paul-ultralauf.de
+- muetzenicher-vennlauf-2027 – https://www.tv-muetzenich.de/vennlauf/
+- volksbank-muenster-marathon-2027 – https://www.volksbank-muenster-marathon.de/
+- maxilauf-2027 – https://www.maxilauf.de/
+- one-moor-ultra-2027 – https://onemoorultra.de/
+- la-sportiva-sauerland-trailrun-2027 – https://sauerland-trailrun.de/
+- unilauf-volksbank-koeln-bonn-2027 – http://www.unilauf.de/
+- pferd-werkzeuge-lauf-2027 – http://www.pferd-werkzeuge-lauf.de/
+- werner-volksbank-stadtlauf-20-team-firmenlauf-2027 – https://tvwerne.de/sportarten/leichtathletik/
+- volksbank-stadtlauf-selm-2027 – http://www.fokus-selm.de/
+- tiergartenlauf-2027 – https://www.sf-nordvelen.de/tgl/
+- leonardo-campus-run-2027 – https://www.uni-muenster.de/Leonardo-Campus-Run/ausschreibung/index.shtml
+- sommerabendlauf-2027 – http://www.susgwamecke.de/
+- tippkoetter-sommerlauf-in-rheine-2027 – https://www.lg-rheine-elte.de/de/veranstaltungen/sommerlauf/
+- stoppelfeld-ultra-2027 – https://www.svblatzheim.de/events/stoppelfeld-ultra-2027/
+- duelmener-wasserlauf-2027 – https://www.tsg-duelmen.de/
+- josef-kaderhandt-waldlauf-2027 – http://www.menden-waldlauf.de/
+- seven-summits-siegen-2027 – https://www.seven-summits-siegen.de/
+- forensik-lauf-2027 – https://www.lwl-forensik-lippstadt.de
+- p-weg-marathon-plettenberg-2027 – https://p-weg.de/
+- klosterlauf-wiedenbrueck-2027 – https://kloster-wiedenbrueck.de/
+- pink-5k-run-duisburg-gemeinsam-gegen-brustkrebs-2027 – https://pink-5k.de/
+- appelhuelsener-landlauf-2027 – https://www.appelhuelsener-landlauf.de/
+- volksbank-citylauf-telgte-2027 – https://www.citylauf-telgte.de/
+- roentgenlauf-remscheid-2027 – https://www.roentgenlauf.de
+- der-formtest-2027 – https://www.marathon-hannover.de/
+- wilscher-fun-run-2027 – http://www.vfr-wilsche-neubokel.de
+- intern-steinhuder-meer-lauf-2027 – http://www.tsv-poggenhagen1946.de/
+- sve-steinwiesenlauf-2027 – https://lauftreff.sve-hamburg.de/
+- silvesterlauf-soegel-2026 – https://www.sigiltra.de/
+- abf-run-2027 – https://www.abf-hannover.de/
+- gretel-hilft-2027 – https://www.gretel-bergmann-schule.de
+- gaussturm-cross-2027 – http://www.hasenmelker-lauf.de
+- aok-winterlaufserie-bremen-2027 – https://bremer-winterlaufserie.com/
+- winterlaufserie-stadthagen-2027 – http://www.tsv-eintracht-bueckeberge.de
+- langeooger-osterlauf-2027 – https://www.langeoog.de/
+- langeooger-sanddornlauf-2027 – https://www.langeoog.de/
+- osnabruecker-piesberg-ultra-marathon-pum-2027 – https://www.piesbergultra.de/
+- doerpener-nordland-lauf-2027 – https://www.runme.de/deutschland/doerpener-nordland-lauf/
+- hexenstieg-ultramarathon-2027 – https://www.feinerlauf.de/hexenstieg-ultramarathon-17-19-04-2026/
+- herzberger-juessee-lauf-2027 – https://mtvherzberg.de/juessee-lauf/
+- gesmolder-bifurkationslauf-2027 – http://www.laufen-os.de
+- rahlstedter-wandselauf-2027 – http://www.wandselauf.de
+- oderpark-seelauf-2027 – http://www.tvg-hattorf.de
+- heidi-222-2027 – https://www.feinerlauf.de/heidi-222/
+- endmoraenenlauf-2027 – https://www.laufen-os.de/wettkaempfe/2-endmoraenenlauf-kroge-ehrendorf-2027
+- lg-backyard-ultra-2027 – https://lg-backyard-ultra.de/faqs.html
+- goettinger-fruehjahrs-volkslauf-2027 – http://www.goettinger-fruehjahrs-volkslauf.de
+- hellmich-recycling-parkhauslauf-2027 – https://parkhauslauf.hellmich-recycling.de/
+- waldlauf-eckernworth-2027 – https://www.tvjahn-walsrode.de/
+- az-abendvolkslauf-2027 – http://www.az-abendvolkslauf.de
+- drebber-marathon-2027 – http://www.drebber-marathon.de
+- laatzen-leinelauf-2027 – http://www.leinelauf.de
+- ewe-nordseelauf-2027 – https://nordseelauf.com/
+- filsum-loeppt-2027 – https://filsumloeppt.de/
+- osnabruecker-mittsommernachtslauf-2027 – https://www.laufen-os.de/
+- benefizlauf-fuer-den-landkreis-helmstedt-jubilaeumslauf-2027 – http://www.stadt-helmstedt.de/
+- goettinger-altstadtlauf-2027 – https://www.goettinger-altstadtlauf.de/
+- wiesenlauf-volks-und-strassenlauf-2027 – http://www.wiesenlauf.de/
+- gehnberg-marathon-2027 – https://racetimer-app.de/event_details.php?id=71
+- barsseler-hafenfestlauf-2027 – https://www.hafenfestlauf.de/
+- rp-ultralauf-3-tuerme-lauf-2027 – https://running-paule.de/26-rp-ultralauf/
+- middenmang-loop-2-emder-vielfaltslauf-2027 – http://www.obw-emden.de/
+- raffinerielauf-salzbergen-2027 – https://www.sva-salzbergen.de/sportarten/raffinerielauf/
+- blankeneser-heldenlauf-2027 – https://www.heldenlauf.de/
+- wildman-harz-2027 – https://wildman-harz.de/
+- glomb-city-marathon-bremerhaven-2027 – http://www.bremerhaven-marathon.de/
+- int-airport-race-2027 – http://www.airportrace.de/
+- freimarktslauf-2027 – http://www.freimarktslauf.de
+- citylauf-leer-2027 – http://www.citylauf-leer.de/
+- hiddestorfer-ruebenlauf-2027 – http://www.ruebenlauf.de/
+- kuestenmarathon-otterndorf-2027 – https://kuestenmarathon.de/
+- twinfitlauf-2027 – https://www.twinfit.de/twinfitlauf
+- northeimer-stadtlauf-2027 – http://www.northeimer-stadtlauf.de/
+- burgdorfer-spargel-lauf-2027 – http://www.vvvburgdorf.de/
+- duemmerlauf-2027 – https://sw-osterfeine.de/
+- koehlbrandbrueckenlauf-2027 – https://www.koehlbrandbrueckenlauf.de/
+- ultra-bremerhaven-bremen-nord-2027 – https://www.runme.de/deutschland/ultra-bremen-nord/
+- h-21-hannover-2027 – https://www.halbmarathon-hannover.de/
+- bremer-zeitsprung-marathon-2027 – https://www.runme.de/deutschland/bremer-zeitsprung-marathon/
+- elm-peaks-challenge-2027 – https://epc-run.de/
+- fruehjahrswaldlauf-um-den-eulepokal-2027 – http://www.lgpeinerland.de/
+- holcim-silvesterlauf-laegerdorf-2026 – http://www.silvesterlauf-laegerdorf.de
+- silvesterlauf-st-peter-ording-2026 – https://www.st-peter-ording.de/spo/
+- winterlaufserie-drelsdorf-2027 – https://sportinhusum.de/sportangebot/outdoor/lav/veranstaltungen/winterstrassenlaufserie-drelsdorf/
+- winterlauf-des-ratzeburger-ruderclubs-2027 – https://www.stgk.de/Veranstaltung_Detail.asp?Code=21
+- cross-und-waldlaufserie-im-kreisforst-weddingstedt-2027 – https://www.runme.de/deutschland/cross-und-waldlaufserie-kreisforst-weddingstedt/
+- winterlaufserie-eckernfoerde-2027 – https://www.runme.de/deutschland/winterlaufserie-eckernfoerde/
+- cross-und-waldlaufserie-in-burg-2027 – https://www.runme.de/deutschland/cross-und-waldlaufserie-in-burg/
+- kieler-crosslauf-2027 – https://kieler-tb.de/
+- osterlauf-st-peter-ording-2027 – https://www.st-peter-ording.de/
+- north-sea-ultra-2027 – https://www.northseaultra.com/
+- groemitzer-sun-run-2027 – https://www.groemitz.de/
+- balzburg-marathon-2027 – https://www.runme.de/deutschland/balzburg-marathon/
+- barsbuetteler-volkslauf-2027 – https://volkslauf-bsv.de/
+- handewitter-sommerlauf-2027 – http://www.handewittersommerlauf.de/
+- hohner-see-lauf-2027 – https://www.hohner-see-lauf.de/
+- breiholzer-sportwochenlauf-2027 – http://www.tsv-breiholz.de/
+- diekseelauf-2027 – http://www.diekseelauf.de/
+- hamburg-airport-abendlauf-2027 – https://norderstedt-abendlauf.de/
+- suedseitenlauf-2027 – http://www.suedseitenlauf.de/
+- oldenburger-hospizlauf-2027 – https://oldenburger-hospizlauf.de/
+- kiel-lauf-2027 – http://www.kiellauf.de/
+- devil-s-loop-langenberg-backyard-ultramarathon-2027 – https://devils-loop.de
+- insellauf-rund-um-amrum-2027 – https://www.amrum.de/
+- bordesholmer-seelauf-see-run-2027 – http://www.see-and-run.de/
+- elmshorner-stadtlauf-2027 – https://www.elmshorner-stadtlauf.de/
+- marner-kohltagelauf-2027 – https://marner-kohltagelauf.com/
+- idstedt-marathon-2027 – https://www.runme.de/deutschland/idstedt-marathon/
+- stadtlauf-grevesmuehlen-2027 – http://www.stadtlauf-grevesmuehlen.de/
+- primellauf-2027 – https://primellauf.de/
+- start-in-den-fruehling-2027 – http://www.xn--rostocker-frhlingslauf-3lc.de/
+- darss-marathon-2027 – http://www.darss-marathon.de/
+- frauenlauf-schwerin-2027 – http://www.fuenf-seen-lauf.de/
+- albers-neuenkirchener-dorflauf-2027 – http://www.dorflauf-neuenkirchen.de/
+- karl-august-baum-gedenklauf-2027 – https://www.runme.de/deutschland/karl-august-baum-gedenklauf/
+- karl-krull-gedenklauf-2027 – https://www.runme.de/deutschland/karl-krull-gedenklauf-steinhagen/
+- rostocker-frauenlauf-2027 – http://www.rostocker-frauenlauf.de/
+- peenetal-crosslauf-2027 – https://www.runme.de/deutschland/peenetal-crosslauf-2026/
+- ruegenbruecken-marathon-2027 – http://www.ruegenmarathon.de/
 
