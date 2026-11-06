@@ -15609,13 +15609,16 @@
     "HM"
    ],
    "source": "https://haid.app/en/events/bad-waldseer-lauffieber-muey7ebs",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "lat": 47.92,
    "lon": 9.755,
    "url": "https://www.badwaldseer-lauffieber.de",
    "start_place": "Altstadt Bad Waldsee, Wettkampfbüro im Haus am Stadtsee",
    "late_reg": "Nachmeldung im Wettkampfbüro, solange Startplätze frei (meist nur bar)",
-   "info": "25. Auflage, DLV-genehmigt. Halbmarathon, 10 km, Altstadt-Teamlauf, Bambini-/Kidsläufe und Swim and Run. Anmeldung online. Termin 08.05.2027 laut Veranstalterseite. 2026-Zeitplan: Kinderläufe 11:00, Halbmarathon 12:00, Teamlauf 12:15, 10 km 15:00 Uhr."
+   "info": "25. Auflage, DLV-genehmigt. Halbmarathon, 10 km, Altstadt-Teamlauf, Bambini-/Kidsläufe und Swim and Run. Anmeldung online. Termin 08.05.2027 laut Veranstalterseite. 2026-Zeitplan: Kinderläufe 11:00, Halbmarathon 12:00, Teamlauf 12:15, 10 km 15:00 Uhr. Startzeit der letzten Ausgabe laut Veranstalterseite (automatisch erkannt, Hauptlauf) (10:00 Uhr)",
+   "prev": {
+    "start_time": "10:00"
+   }
   },
   {
    "id": "backyard-swub-2027",
@@ -15748,7 +15751,7 @@
     "10,4"
    ],
    "source": "https://gotrail.run/de/termine/eichberglauf-glottertal",
-   "checked": "2026-11-04",
+   "checked": "2026-11-05",
    "lat": 48.051,
    "lon": 7.963,
    "elevation": [
@@ -15761,7 +15764,10 @@
    "url": "https://eichberglauf.de",
    "start_place": "Eichbergstadion/Sportplatz Glottertal",
    "aid": "Zwei Wasserstellen",
-   "info": "Hauptstrecke von 10,4 km durch Reben und Wald über Wissereck, Schlossdobel und Sonnenbühl. Chip in der Startnummer (eigene Chips nicht erlaubt). Straße in den ersten 2 km gesperrt. Online-Anmeldung bis 03.06. 18 Uhr."
+   "info": "Hauptstrecke von 10,4 km durch Reben und Wald über Wissereck, Schlossdobel und Sonnenbühl. Chip in der Startnummer (eigene Chips nicht erlaubt). Straße in den ersten 2 km gesperrt. Online-Anmeldung bis 03.06. 18 Uhr. Startzeit der letzten Ausgabe laut Veranstalterseite (automatisch erkannt, Hauptlauf) (10:00 Uhr)",
+   "prev": {
+    "start_time": "10:00"
+   }
   },
   {
    "id": "24h-spendenlauf-backyard-for-charity-2027",
@@ -16243,8 +16249,11 @@
    "reg_close": "2027-10-10",
    "late_reg": "Nachmeldung ab 11.10. bis zum Wettkampftag",
    "start_place": "Maimarktgelände Mannheim",
-   "info": "15.–17.10.2027. Marathon (auch Staffel), Halbmarathon, 10 km, 5 km, Mini-Marathon 4,2 km, Kids-Cup. Flacher Kurs über Maimarktgelände, Quadrate und Luisenpark. Startgeld gestaffelt nach Anmeldezahl. Umbuchung bis 15.10.2027 kostenlos. Termin 16.–17.10.2027 vom Veranstalter bestätigt. Samstag: 5 km 10:00, 10 km 11:00, Kids-Cup 12:30, Mini-Marathon 13:00. Sonntag: Halbmarathon 9:00, Marathon 9:45, Staffel 10:15 Uhr. Meldeschluss 10.10.2027 laut Veranstalterseite",
-   "fee": "ab: Marathon 110 €, Staffel 160 € pro Team, Halbmarathon 65 €, 10 km 29 €, 5 km 20 €, Mini-Marathon 10 €, Kids-Cup frei (steigt mit den Anmeldephasen)"
+   "info": "15.–17.10.2027. Marathon (auch Staffel), Halbmarathon, 10 km, 5 km, Mini-Marathon 4,2 km, Kids-Cup. Flacher Kurs über Maimarktgelände, Quadrate und Luisenpark. Startgeld gestaffelt nach Anmeldezahl. Umbuchung bis 15.10.2027 kostenlos. Termin 16.–17.10.2027 vom Veranstalter bestätigt. Samstag: 5 km 10:00, 10 km 11:00, Kids-Cup 12:30, Mini-Marathon 13:00. Sonntag: Halbmarathon 9:00, Marathon 9:45, Staffel 10:15 Uhr. Meldeschluss 10.10.2027 laut Veranstalterseite. Startzeit der letzten Ausgabe laut Veranstalterseite (automatisch erkannt, Hauptlauf) (09:00 Uhr)",
+   "fee": "ab: Marathon 110 €, Staffel 160 € pro Team, Halbmarathon 65 €, 10 km 29 €, 5 km 20 €, Mini-Marathon 10 €, Kids-Cup frei (steigt mit den Anmeldephasen)",
+   "prev": {
+    "start_time": "09:00"
+   }
   },
   {
    "id": "crosslauf-endingen-2027",
@@ -16770,11 +16779,14 @@
    "start_place": "Waldparkplatz am Familienbewegungspfad, gegenüber dem Hundesportplatz, Pforzheim-Huchenfeld",
    "showers": "Keine Duschen",
    "late_reg": "Nachmeldegebühr ab dem Montag vor dem Lauf",
-   "info": "Mittwochabendlauf im Wald. Zahlung nur per Lastschrift. Verpflegung vom Hundesportverein Huchenfeld. Erlöse gehen an Pforzheimer Schulen (Schulsonderpreis, Teil des Sparkassen Cross Pforzheim).",
-   "checked": "2026-11-04",
+   "info": "Mittwochabendlauf im Wald. Zahlung nur per Lastschrift. Verpflegung vom Hundesportverein Huchenfeld. Erlöse gehen an Pforzheimer Schulen (Schulsonderpreis, Teil des Sparkassen Cross Pforzheim). Startzeit der letzten Ausgabe laut Veranstalterseite (automatisch erkannt, Hauptlauf) (18:00 Uhr)",
+   "checked": "2026-11-05",
    "bezirk": "Karlsruhe",
    "lat": 48.887,
-   "lon": 8.698
+   "lon": 8.698,
+   "prev": {
+    "start_time": "18:00"
+   }
   },
   {
    "id": "silvesterlauf-sigmaringen-2026",
@@ -16866,11 +16878,14 @@
    "source": "https://running.life/de/termine/hegau-bodensee-crosslaufserie-reichenau",
    "parking": "Parkplatz Reichenau Gemüse EG",
    "showers": "Keine Duschen oder Umkleiden in diesem Jahr, Toiletten in der Feuerwehr",
-   "info": "Veranstalter SV Reichenau. Hauptlauf ca. 6,6 km. Zugleich Kreismeisterschaft für Kinder und Jugend bis U16. Handzeitmessung. Siegerehrung in der Inselhalle am Beurenhorn. Startgeld und Startzeit nicht angegeben. Start und Ziel können noch geringfügig verlegt werden",
+   "info": "Veranstalter SV Reichenau. Hauptlauf ca. 6,6 km. Zugleich Kreismeisterschaft für Kinder und Jugend bis U16. Handzeitmessung. Siegerehrung in der Inselhalle am Beurenhorn. Startgeld und Startzeit nicht angegeben. Start und Ziel können noch geringfügig verlegt werden. Startzeit der letzten Ausgabe laut Veranstalterseite (automatisch erkannt, Hauptlauf) (11:00 Uhr)",
    "checked": "2026-11-05",
    "bezirk": "Freiburg",
    "lat": 47.689,
-   "lon": 9.063
+   "lon": 9.063,
+   "prev": {
+    "start_time": "11:00"
+   }
   },
   {
    "id": "crosslaufserie-oberschwaben-vogt-2027",
@@ -17088,10 +17103,13 @@
     "10"
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 28.02.). Strecken laut hdsports. Teil einer Winterlaufserie. Veranstalterseite nur per http erreichbar. Drei Läufe, einer vor und zwei nach dem Jahreswechsel, 5 km und 10 km sowie Kinder- und Jugendläufe",
+   "checked": "2026-11-05",
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 28.02.). Strecken laut hdsports. Teil einer Winterlaufserie. Veranstalterseite nur per http erreichbar. Drei Läufe, einer vor und zwei nach dem Jahreswechsel, 5 km und 10 km sowie Kinder- und Jugendläufe. Startzeit der letzten Ausgabe laut Veranstalterseite (automatisch erkannt, Hauptlauf) (14:45 Uhr)",
    "url": "http://www.djk-winterlaufserie.de/",
-   "start_place": "DJK Sportanlage Bürgerhölzle, 73033 Göppingen"
+   "start_place": "DJK Sportanlage Bürgerhölzle, 73033 Göppingen",
+   "prev": {
+    "start_time": "14:45"
+   }
   },
   {
    "id": "hawei-by-night-5-10-km-nachtlauf-2027",
@@ -17257,10 +17275,13 @@
     "10"
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 01.05.). Strecken laut hdsports. 20. Kochercup am 01.05.2027 laut Veranstalterseite. Hobbylauf 5 km um 12:15 Uhr, PALM Stundenlauf (800-m-Runde, Zweierteam, 25 €) um 14:15 Uhr, Bambini- und Schülerläufe ab 11:00 Uhr",
+   "checked": "2026-11-05",
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 01.05.). Strecken laut hdsports. 20. Kochercup am 01.05.2027 laut Veranstalterseite. Hobbylauf 5 km um 12:15 Uhr, PALM Stundenlauf (800-m-Runde, Zweierteam, 25 €) um 14:15 Uhr, Bambini- und Schülerläufe ab 11:00 Uhr. Startzeit der letzten Ausgabe laut Veranstalterseite (automatisch erkannt, Hauptlauf) (12:15 Uhr)",
    "url": "https://www.kocher-cup.de/",
-   "fee": "Hauptlauf ab 10 €; Hobbylauf 5 km 7 € (bis 31.03.), 10 € (bis 30.04.), 14 € Nachmeldung; Kinder- und Jugendläufe 3–5 €"
+   "fee": "Hauptlauf ab 10 €; Hobbylauf 5 km 7 € (bis 31.03.), 10 € (bis 30.04.), 14 € Nachmeldung; Kinder- und Jugendläufe 3–5 €",
+   "prev": {
+    "start_time": "12:15"
+   }
   },
   {
    "id": "gruettlauf-loerrach-2027",
@@ -17834,11 +17855,12 @@
     "10"
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 26.04.). Strecken laut hdsports. Teil des Schönbuch-Cups. 2026 auch 12-km-Firmen- und Vereinsstaffel (40 €).",
+   "checked": "2026-11-05",
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 26.04.). Strecken laut hdsports. Teil des Schönbuch-Cups. 2026 auch 12-km-Firmen- und Vereinsstaffel (40 €). Startzeit der letzten Ausgabe laut Veranstalterseite (automatisch erkannt, Hauptlauf) (15:00 Uhr)",
    "url": "https://schoenbuch-cup.de/weil-der-stadt",
    "prev": {
-    "fee": "5 km 15 €, 10 km 15 €, 5 km Walking 15 € (Ausgabe 2026)"
+    "fee": "5 km 15 €, 10 km 15 €, 5 km Walking 15 € (Ausgabe 2026)",
+    "start_time": "15:00"
    },
    "start_place": "Merklingen (Weil der Stadt)"
   },
@@ -19114,9 +19136,12 @@
     "10"
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 21.06.). Strecken laut hdsports. 54. Auflage war 2026 (VfL Waiblingen und Stadt Waiblingen): 10 km, ca. 6 km Einsteigerlauf, ca. 6 km Walking, Kinderläufe.",
-   "url": "https://www.waiblinger-stadtlauf.de/"
+   "checked": "2026-11-05",
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 21.06.). Strecken laut hdsports. 54. Auflage war 2026 (VfL Waiblingen und Stadt Waiblingen): 10 km, ca. 6 km Einsteigerlauf, ca. 6 km Walking, Kinderläufe. Startzeit der letzten Ausgabe laut Veranstalterseite (automatisch erkannt, Hauptlauf) (18:00 Uhr)",
+   "url": "https://www.waiblinger-stadtlauf.de/",
+   "prev": {
+    "start_time": "18:00"
+   }
   },
   {
    "id": "moeckmuehler-stadtlauf-2027",
@@ -20130,14 +20155,15 @@
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
    "checked": "2026-11-05",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 19.07.). Strecken laut hdsports. Rundkurs durch die Innenstadt: 10 km = 9 Runden, 4,5 km = 4 Runden, dazu Kinder-, Jugend- und Teamläufe, Aalener Stadtmeisterschaft und Stadt-Land-Fluss-Cup. Ausgabe 2026 (19.07.2026): Meldeschluss Freitag 10.07.2026, danach nur Nachmeldung ohne Namen auf der Startnummer",
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 19.07.). Strecken laut hdsports. Rundkurs durch die Innenstadt: 10 km = 9 Runden, 4,5 km = 4 Runden, dazu Kinder-, Jugend- und Teamläufe, Aalener Stadtmeisterschaft und Stadt-Land-Fluss-Cup. Ausgabe 2026 (19.07.2026): Meldeschluss Freitag 10.07.2026, danach nur Nachmeldung ohne Namen auf der Startnummer. Startzeit der letzten Ausgabe laut Veranstalterseite (automatisch erkannt, Hauptlauf) (10:10 Uhr)",
    "url": "https://aalener-stadtlauf.de",
    "start_place": "Sparkassenplatz Aalen",
    "late_reg": "Nachmeldung bis 60 Minuten vor dem Start gegen Aufpreis",
    "showers": "Umkleidemöglichkeiten in begrenzter Anzahl vor Ort (Ausgabe 2026)",
    "prev": {
     "fee": "Sparkassen-Hauptlauf 18 € bei Anmeldung bis 10.07.2026, Nachmeldung 22 €",
-    "pickup": "Startnummernausgabe Samstag von 10 bis 14 Uhr bei Intersport Schoell in der Aalener Innenstadt und Sonntag ab 8:30 Uhr im Wettkampfbüro"
+    "pickup": "Startnummernausgabe Samstag von 10 bis 14 Uhr bei Intersport Schoell in der Aalener Innenstadt und Sonntag ab 8:30 Uhr im Wettkampfbüro",
+    "start_time": "10:10"
    }
   },
   {
@@ -20512,10 +20538,13 @@
     "10,3"
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-04",
-   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 01.08.). Strecken laut hdsports. Veranstalter WSV Mehrstetten, Crosslauf im Rahmen der Sportwoche. Früher Strecken über etwa 10,3 km und 6,8 km, dazu Schüler- und Bambinilauf. Vereinsseite verweist auf den 9. Mehrstetter Crosslauf 2026",
+   "checked": "2026-11-05",
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 01.08.). Strecken laut hdsports. Veranstalter WSV Mehrstetten, Crosslauf im Rahmen der Sportwoche. Früher Strecken über etwa 10,3 km und 6,8 km, dazu Schüler- und Bambinilauf. Vereinsseite verweist auf den 9. Mehrstetter Crosslauf 2026. Startzeit der letzten Ausgabe laut Veranstalterseite (automatisch erkannt, Hauptlauf) (17:30 Uhr)",
    "url": "https://www.wsv-mehrstetten.de/",
-   "start_place": "Sportgelände Mehrstetten"
+   "start_place": "Sportgelände Mehrstetten",
+   "prev": {
+    "start_time": "17:30"
+   }
   },
   {
    "id": "wendlinger-zeitungslauf-2027",
@@ -21335,9 +21364,12 @@
     "11,2"
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 27.09.). Strecken laut hdsports. Veranstalter SC Wehingen, Silberdistel-Albcup. 40. Fossiliuslauf war Ende September 2026: Hauptlauf ca. 11,2 km auf Schotterwegen im Wald mit mehreren Anstiegen, Jedermannlauf ca. 6 km, Walking, Kinderläufe, Start an der Skihütte. Keine eigene Veranstalterseite gefunden",
-   "url": "http://www.fossiliuslauf.sc-wehingen.de/"
+   "checked": "2026-11-05",
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 27.09.). Strecken laut hdsports. Veranstalter SC Wehingen, Silberdistel-Albcup. 40. Fossiliuslauf war Ende September 2026: Hauptlauf ca. 11,2 km auf Schotterwegen im Wald mit mehreren Anstiegen, Jedermannlauf ca. 6 km, Walking, Kinderläufe, Start an der Skihütte. Keine eigene Veranstalterseite gefunden. Startzeit der letzten Ausgabe laut Veranstalterseite (automatisch erkannt, Hauptlauf) (11:00 Uhr)",
+   "url": "http://www.fossiliuslauf.sc-wehingen.de/",
+   "prev": {
+    "start_time": "11:00"
+   }
   },
   {
    "id": "weinheimer-herbstlauf-2027",
@@ -21381,14 +21413,15 @@
     "M"
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 27.09.). Strecken laut hdsports. 27. Kraichgau-Lauf, SV 1927 Rohrbach. Termin 26.09.2027 laut Veranstalterseite. Strecken laut Seite: kurze Straßenläufe, 5 km, 10 km, Halbmarathon und Marathon (hdsports nannte 30 km).",
+   "checked": "2026-11-05",
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 27.09.). Strecken laut hdsports. 27. Kraichgau-Lauf, SV 1927 Rohrbach. Termin 26.09.2027 laut Veranstalterseite. Strecken laut Seite: kurze Straßenläufe, 5 km, 10 km, Halbmarathon und Marathon (hdsports nannte 30 km). Startzeit der letzten Ausgabe laut Veranstalterseite (automatisch erkannt, Hauptlauf) (08:30 Uhr)",
    "anmeldung_url": "https://my.raceresult.com/431310/",
    "reg_close": "2027-09-22",
    "start_place": "Kreuzgrundhalle, Bruchstraße, Sinsheim",
    "url": "https://www.kraichgaulauf.de/",
    "prev": {
-    "fee": "Marathon 45 €, Halbmarathon 15 € (Ausgabe 2026)"
+    "fee": "Marathon 45 €, Halbmarathon 15 € (Ausgabe 2026)",
+    "start_time": "08:30"
    }
   },
   {
@@ -21899,13 +21932,14 @@
     "10"
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 10.10.). Strecken laut hdsports. Veranstalter Lauftreff TSV Kuppingen. 2026 am Samstag 10.10.: 10 km (leicht welliger Rundkurs auf Asphalt durch den beleuchteten Ortskern), Jedermann- und Juniorlauf 6,7 km, Schüler- und Bambinilauf. Keine eigene Veranstalterseite gefunden",
+   "checked": "2026-11-05",
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 10.10.). Strecken laut hdsports. Veranstalter Lauftreff TSV Kuppingen. 2026 am Samstag 10.10.: 10 km (leicht welliger Rundkurs auf Asphalt durch den beleuchteten Ortskern), Jedermann- und Juniorlauf 6,7 km, Schüler- und Bambinilauf. Keine eigene Veranstalterseite gefunden. Startzeit der letzten Ausgabe laut Veranstalterseite (automatisch erkannt, Hauptlauf) (19:00 Uhr)",
    "start_place": "Karl-Bissinger-Gemeindehalle, Raiffeisenstraße 40, Herrenberg-Kuppingen",
    "url": "https://www.schoenbuch-cup.de/kuppingen",
    "pickup": "Karl-Bissinger-Gemeindehalle, Raiffeisenstraße 40, Kuppingen",
    "prev": {
-    "fee": "Hauptlauf und Jedermannlauf 15 € bei Voranmeldung, 18 € Nachmeldung online (Ausgabe 2026)"
+    "fee": "Hauptlauf und Jedermannlauf 15 € bei Voranmeldung, 18 € Nachmeldung online (Ausgabe 2026)",
+    "start_time": "19:00"
    }
   },
   {
@@ -22423,9 +22457,12 @@
     "50"
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 18.10.). Strecken laut hdsports. Anmeldung für 2027 laut Veranstalterseite ab April 2027",
-   "url": "https://www.bottwartal-marathon.de/"
+   "checked": "2026-11-05",
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 18.10.). Strecken laut hdsports. Anmeldung für 2027 laut Veranstalterseite ab April 2027. Startzeit der letzten Ausgabe laut Veranstalterseite (automatisch erkannt, Hauptlauf) (08:00 Uhr)",
+   "url": "https://www.bottwartal-marathon.de/",
+   "prev": {
+    "start_time": "08:00"
+   }
   },
   {
    "id": "naturpark-schoenbuchlauf-hildrizhausen-2027",
@@ -22470,11 +22507,14 @@
     "HM"
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-04",
-   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 18.10.). Strecken laut hdsports. 2026 mit den Baden-Württembergischen Halbmarathon-Meisterschaften, 2025 über 500 Finisher (Rekord). Dazu Staffel, Schüler- und Bambinilauf.",
+   "checked": "2026-11-05",
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 18.10.). Strecken laut hdsports. 2026 mit den Baden-Württembergischen Halbmarathon-Meisterschaften, 2025 über 500 Finisher (Rekord). Dazu Staffel, Schüler- und Bambinilauf. Startzeit der letzten Ausgabe laut Veranstalterseite (automatisch erkannt, Hauptlauf) (10:00 Uhr)",
    "url": "https://filderstadt-halbmarathon.de",
    "start_place": "Bürgerzentrum Bernhausen, Bernhäuser Hauptstraße 2, Filderstadt-Bernhausen",
-   "late_reg": "Nachmeldung bis 30 Minuten vor dem Start im Bürgerzentrum"
+   "late_reg": "Nachmeldung bis 30 Minuten vor dem Start im Bürgerzentrum",
+   "prev": {
+    "start_time": "10:00"
+   }
   },
   {
    "id": "loewensteiner-berglauf-2027",
@@ -51505,13 +51545,14 @@
    ],
    "url": "http://www.silvesterlauf.com/",
    "source": "https://www.runme.de/deutschland/silvesterlauf-werl-soest/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (15 km um 11:00 Uhr, frühester Lauf ab 5 km). Meldeschluss 22.12.2026 laut Veranstalterseite",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (15 km um 11:00 Uhr, frühester Lauf ab 5 km). Meldeschluss 22.12.2026 laut Veranstalterseite. Organisationsbeitrag Einzelanmeldung 15 km laut Veranstalterseite; weitere Strecken nicht erfasst",
    "checked": "2026-11-05",
    "start_time": "11:00",
    "reg_close": "2026-12-22",
    "start_place": "Stadthalle Werl, 59457 Werl",
    "pickup": "Am 31.12.2026 Startunterlagen für die 5 km nur in der Schützenhalle Ampen, 10:00 bis 13:00 Uhr",
-   "late_reg": "Nachmeldungen für die 15 km an der Stadthalle Werl am 30.12.2026 von 12:00 bis 18:00 Uhr und am 31.12.2026 ab 9:00 Uhr"
+   "late_reg": "Nachmeldungen für die 15 km an der Stadthalle Werl am 30.12.2026 von 12:00 bis 18:00 Uhr und am 31.12.2026 ab 9:00 Uhr",
+   "fee": "15 km 22 € (bis 30.11.2026), 25 € (bis 22.12.2026)"
   },
   {
    "id": "aachener-silvesterlauf-presented-by-j-j-medtech-2026",
@@ -52844,8 +52885,11 @@
    ],
    "url": "https://lg-hamm.de/index.php/leichtathletik/veranstaltungen/winterlaufserie",
    "source": "https://running.life/de/termine/hammer-winterlaufserie/2027-02-28",
-   "info": "Termin laut Veranstaltungskalender des Leichtathletik-Verbands Nordrhein (beim Verband angemeldet). Strecken laut running.life.",
-   "checked": "2026-11-05"
+   "info": "Termin laut Veranstaltungskalender des Leichtathletik-Verbands Nordrhein (beim Verband angemeldet). Strecken laut running.life. Halbmarathon am 28.02.2027 um 11:00 Uhr, Meldungen bis 20.12.2026 laut Veranstalterseite",
+   "checked": "2026-11-05",
+   "start_time": "11:00",
+   "reg_close": "2026-12-20",
+   "fee": "10 km 12 €, 15 km 15 € (Meldung bis 20.12.2026); Serie komplett 36 €"
   },
   {
    "id": "arnsberger-eichholzcup-2027",
