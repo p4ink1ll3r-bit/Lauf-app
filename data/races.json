@@ -507,7 +507,8 @@
    "info": "5 und 10 km 12:00, Kinderläufe 11:15 (Anmeldung Kinderläufe auch am Lauftag vor Ort)",
    "bezirk": "Oberbayern",
    "kreis": "LK München",
-   "sold_out": "5 km und 10 km: Teilnehmerlimit erreicht, keine Anmeldung mehr möglich (laut Anmeldeportal, Stand 03.11.2026). Kinderläufe sind kostenlos und am Lauftag vor Ort anmeldbar."
+   "sold_out": "5 km und 10 km: Teilnehmerlimit erreicht, keine Anmeldung mehr möglich (laut Anmeldeportal, Stand 03.11.2026). Kinderläufe sind kostenlos und am Lauftag vor Ort anmeldbar.",
+   "charity": "Benefizlauf gegen Gewalt"
   },
   {
    "id": "runfellows-vorwald-ultra-trail-2026",
@@ -720,7 +721,8 @@
    "info": "Start Lauf 3 (07.02.2027) 08:30; Meldeschluss Einzellauf jeweils Freitag vor dem Lauf (13.11./15.01./05.02.); 2 € je Teilnehmer an Engelein e.V.; Umkleiden und Siegerehrung im Gutmann am Dutzendteich; keine Rückerstattung",
    "bezirk": "Mittelfranken",
    "kreis": "Stadt Nürnberg",
-   "showers": "Umkleiden im Gutmann am Dutzendteich"
+   "showers": "Umkleiden im Gutmann am Dutzendteich",
+   "charity": "2 € je Teilnehmer gehen an Engelein e.V."
   },
   {
    "id": "crosslauf-muhldorf-2026",
@@ -1454,7 +1456,8 @@
    "bezirk": "Unterfranken",
    "kreis": "LK Aschaffenburg",
    "showers": "Duschen/Umkleiden an der TV-Turnhalle Trennfurt (Ziel)",
-   "fee": "kostenlos (Spendenlauf zugunsten des Ambulanten Kinder- und Jugendhospizdienstes Miltenberg, laut Bericht 2025)"
+   "fee": "kostenlos (Spendenlauf zugunsten des Ambulanten Kinder- und Jugendhospizdienstes Miltenberg, laut Bericht 2025)",
+   "charity": "Spendenlauf zugunsten des ambulanten Kinder- und Jugendhospizdienstes Kleinheubach"
   },
   {
    "id": "ismaninger-winterlaufserie-2026",
@@ -3024,7 +3027,8 @@
    },
    "bezirk": "Mittelfranken",
    "kreis": "LK Neustadt a.d.Aisch-Bad Windsheim",
-   "showers": "Duschen (Kiliani Klinik) (Stand 2026)"
+   "showers": "Duschen (Kiliani Klinik) (Stand 2026)",
+   "charity": "Benefizlauf von Rotary Uffenheim und TV 1860 Bad Windsheim"
   },
   {
    "id": "ebersberger-seelauf-2027",
@@ -3669,7 +3673,8 @@
     "aid": "Etwa alle 2,5 km Obst, Iso, Wasser; im Ziel Wasser, alkoholfreies Weißbier, Apfelschorle, Obst, Gebäck; Pasta-Party Sa"
    },
    "bezirk": "Niederbayern",
-   "kreis": "Stadt Landshut"
+   "kreis": "Stadt Landshut",
+   "charity": "Erlöse für Kinder- und Jugendprojekte in der Region"
   },
   {
    "id": "silberwaldlauf-2027",
@@ -5054,7 +5059,8 @@
    ],
    "bezirk": "Oberpfalz",
    "kreis": "LK Regensburg",
-   "showers": "Keine Duschen (laut Veranstalter)"
+   "showers": "Keine Duschen (laut Veranstalter)",
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "wurzburger-residenzlauf-2027",
@@ -5434,7 +5440,8 @@
    "bezirk": "Oberpfalz",
    "checked": "2026-11-07",
    "gear_open": "nicht geprüft (kurzer Lauf)",
-   "info": "Termin laut BLV-Laufkalender (Stand 07.11.2026)"
+   "info": "Termin laut BLV-Laufkalender (Stand 07.11.2026)",
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "mitterteicher-volkslauf-2027",
@@ -6381,7 +6388,8 @@
     "limit": "Kein festes Limit; Anmeldung kann bei hoher Nachfrage früher schließen"
    },
    "bezirk": "Niederbayern",
-   "checked": "2026-11-01"
+   "checked": "2026-11-01",
+   "charity": "Benefizlauf der Volksbanken Raiffeisenbanken im Landkreis Rottal-Inn"
   },
   {
    "id": "u-trail-lamer-winkel-2027",
@@ -7623,7 +7631,8 @@
    },
    "bezirk": "Unterfranken",
    "kreis": "Stadt Würzburg",
-   "showers": "Duschen und Toiletten im LIFESTYLE Fitnessclub (Sauna gegen 10 € Aufpreis)"
+   "showers": "Duschen und Toiletten im LIFESTYLE Fitnessclub (Sauna gegen 10 € Aufpreis)",
+   "charity": "1 € je Anmeldung geht an World Bicycle Relief"
   },
   {
    "id": "nightrun-and-beats-deggendorf-2027",
@@ -7798,7 +7807,8 @@
    },
    "bezirk": "Oberpfalz",
    "checked": "2026-11-01",
-   "gear_open": "nicht geprüft (kurzer Lauf)"
+   "gear_open": "nicht geprüft (kurzer Lauf)",
+   "charity": "Benefizlauf des Sindiso e.V."
   },
   {
    "id": "arberland-ultra-trail-2027",
@@ -8544,7 +8554,8 @@
    },
    "bezirk": "Niederbayern",
    "checked": "2026-11-03",
-   "info": "Vorjahr (7. ILE-Gäubodenlauf, 27.09.2026 in Oberschneiding): 10 km und 5 km (Lauf und Walk) 10:00 Uhr, 2 km Schülerlauf 11:30, 1 km Bambini 12:00; 5 km/10 km je 20 € inkl. Funktionsshirt, Kinderläufe kostenfrei; Anmeldeschluss 2026: 26.07. (mit Shirt), 01.09. (ohne Shirt), Nachmeldung am Lauftag ab 8:30 Uhr bis 1 Std. vor Start; Benefizlauf zugunsten regionaler Vereine. Ort und Termin 2027 noch offen"
+   "info": "Vorjahr (7. ILE-Gäubodenlauf, 27.09.2026 in Oberschneiding): 10 km und 5 km (Lauf und Walk) 10:00 Uhr, 2 km Schülerlauf 11:30, 1 km Bambini 12:00; 5 km/10 km je 20 € inkl. Funktionsshirt, Kinderläufe kostenfrei; Anmeldeschluss 2026: 26.07. (mit Shirt), 01.09. (ohne Shirt), Nachmeldung am Lauftag ab 8:30 Uhr bis 1 Std. vor Start; Benefizlauf zugunsten regionaler Vereine. Ort und Termin 2027 noch offen",
+   "charity": "Benefizlauf zugunsten regionaler Vereine"
   },
   {
    "id": "oberaudorf-trail-festival-2027",
@@ -8758,7 +8769,8 @@
    "url": "https://www.leukaemiehilfe-ostbayern.de/leukaemielauf",
    "source": "https://www.leukaemiehilfe-ostbayern.de/leukaemielauf",
    "bezirk": "Oberpfalz",
-   "checked": "2026-11-01"
+   "checked": "2026-11-01",
+   "charity": "Benefizlauf der Leukämiehilfe Ostbayern"
   },
   {
    "id": "vejdacher-hidn-trail-2027",
@@ -9553,7 +9565,8 @@
    },
    "bezirk": "Niederbayern",
    "kreis": "LK Kelheim",
-   "gear_open": "nicht geprüft (kurzer Lauf)"
+   "gear_open": "nicht geprüft (kurzer Lauf)",
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "oberhachinger-halloween-herbstlauf-2027",
@@ -10679,7 +10692,8 @@
    "url": "https://triathlon.tv-memmingen.de/buxachtallauf/",
    "source": "https://running.life/de/termine/buxachtal-lauf",
    "checked": "2026-11-02",
-   "gear_open": "nicht geprüft (kurzer Lauf)"
+   "gear_open": "nicht geprüft (kurzer Lauf)",
+   "charity": "Der Erlös geht an den Mukoviszidose e.V."
   },
   {
    "id": "crazy-runners-frankenwald-trail-2027",
@@ -11041,7 +11055,8 @@
    "note": "4. Auflage laut Kalender am Samstag 19.06.2027, Bestätigung unklar. Wohltätigkeitslauf über 12 Stunden, Veranstalter Lions Club Oberstaufen-Westallgäu. Rundenlänge, Startzeit und Startgeld nicht angegeben, weitere Infos laut Seite folgen",
    "url": "https://12stundenlauf-lindenberg.de/",
    "source": "https://gotrail.run/de/termine/lions-12-stunden-lauf-lindenberg",
-   "checked": "2026-11-02"
+   "checked": "2026-11-02",
+   "charity": "Wohltätigkeitslauf des Lions Club Oberstaufen-Westallgäu"
   },
   {
    "id": "hofer-backyard-ultra-2027",
@@ -11330,7 +11345,8 @@
    "end": null,
    "checked": "2026-11-03",
    "reg_close": "2027-05-06",
-   "start_time": "11:30"
+   "start_time": "11:30",
+   "charity": "1 € je Starter geht an das Münchner-Kindl-Heim"
   },
   {
    "type": "road",
@@ -11556,7 +11572,8 @@
    "bezirk": "Oberbayern",
    "end": null,
    "checked": "2026-11-05",
-   "late_reg": "Nachmeldung vor Ort möglich, sofern Plätze frei sind (Ausgabe 2026)"
+   "late_reg": "Nachmeldung vor Ort möglich, sofern Plätze frei sind (Ausgabe 2026)",
+   "charity": "Benefizlauf der LG Staffelsee Murnau"
   },
   {
    "type": "road",
@@ -11689,7 +11706,8 @@
    "end": null,
    "confirmed": true,
    "prev_date": null,
-   "checked": "2026-11-03"
+   "checked": "2026-11-03",
+   "charity": "Benefizlauf zugunsten der Elterninitiative krebskranke Kinder München"
   },
   {
    "type": "road",
@@ -11844,7 +11862,8 @@
    "lon": 9.79,
    "bezirk": "Unterfranken",
    "end": null,
-   "checked": "2026-11-03"
+   "checked": "2026-11-03",
+   "charity": "Charity-Lauf zugunsten von Brustkrebs Deutschland"
   },
   {
    "type": "road",
@@ -11902,7 +11921,8 @@
    "bezirk": "Oberpfalz",
    "end": null,
    "prev_date": null,
-   "checked": "2026-11-03"
+   "checked": "2026-11-03",
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "goldbacher-winter-crosslaufserie-2026",
@@ -13174,7 +13194,8 @@
    "info": "Termin 11.09.2027 laut hdsports bestätigt (racepeak nennt ihn „unbestätigt“); der Verein kündigt den Run of Hope 2027 an, Ausschreibung und Anmeldung folgen. Startgeld und Startzeit noch nicht veröffentlicht",
    "bezirk": "Oberfranken",
    "checked": "2026-11-03",
-   "note": "Benefizlauf des Vereins Gemeinsam gegen Krebs e.V. in Kronach; 2026 am 12.09.; Läufe über 4 km, 10,5 km und Halbmarathon, dazu Nordic Walking und Hobbylauf"
+   "note": "Benefizlauf des Vereins Gemeinsam gegen Krebs e.V. in Kronach; 2026 am 12.09.; Läufe über 4 km, 10,5 km und Halbmarathon, dazu Nordic Walking und Hobbylauf",
+   "charity": "Benefizlauf des Vereins Gemeinsam gegen Krebs e.V."
   },
   {
    "id": "hellerberglauf-buxheim-2027",
@@ -13307,7 +13328,8 @@
    },
    "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
    "bezirk": "Unterfranken",
-   "checked": "2026-11-03"
+   "checked": "2026-11-03",
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "stadtlauf-merkendorf-2027",
@@ -14554,7 +14576,8 @@
    "info": "Marathon, Halbmarathon, 10 km, 5 km und Bambinilauf. Anmeldung über RaceResult. Termin 03.01.2027 vom Veranstalter bestätigt. Startzeiten: Marathon 10:00, Halbmarathon 11:00, 10 km 12:00, 5 km 13:00, Bambini 14:00 Uhr.",
    "fee": "ab 15 €",
    "url": "https://www.pascal-schucker.de/Spendenaktionen/Spendenlauf-Broggingen",
-   "reg_open": "2026-09-14"
+   "reg_open": "2026-09-14",
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "optima-dreikoenigslauf-schwaebisch-hall-2027",
@@ -14794,7 +14817,8 @@
    "showers": "Umkleiden, Duschen, WC in der Schulturnhalle",
    "info": "31. Auflage, TV 1883 Schriesheim. Rundkurs durch die Altstadt, 10 km vermessen, Netto-Zeitmessung. Best Water Run (6 km): Sponsor BWT spendet pro Teilnehmer für Trinkwasserbrunnen in Afrika.",
    "reg_open": "2026-04-01",
-   "reg_close": "2027-03-03"
+   "reg_close": "2027-03-03",
+   "charity": "Beim 6-km-Lauf spendet ein Sponsor je Teilnehmer für Trinkwasserbrunnen in Afrika"
   },
   {
    "id": "weinsberger-weibertreulauf-2027",
@@ -15255,7 +15279,8 @@
    "showers": "Duschen im Ziel in Schwaigern",
    "aid": "Verpflegung alle 5 km",
    "info": "Spendenlauf der Liebenzeller Mission von Bad Liebenzell nach Schwaigern, 80 km, einzelne Abschnitte wählbar. Läufer und Radfahrer teilen sich weite Teile der Strecke. Kostenloser Rücktransport für Läufer (Missio-Cross-Taxi). Navigation über die Outdooractive-App. Samstag 17.04.2027, Startpfiff für Läufer um 09:00 Uhr am Missionsberg in Bad Liebenzell laut Veranstalterseite",
-   "start_time": "09:00"
+   "start_time": "09:00",
+   "charity": "Spendenlauf der Liebenzeller Mission"
   },
   {
    "id": "freiburg-trailrun-2027",
@@ -15480,7 +15505,8 @@
    "lat": 48.827,
    "lon": 9.067,
    "info": "Spendenlauf des Mukoviszidose Landesverband Baden-Württemberg am 25.04.2027. Strecken, Startgeld und Anmeldung noch nicht veröffentlicht (laut Kalender 5 km).",
-   "url": "https://ditzinger-lebenslauf.de"
+   "url": "https://ditzinger-lebenslauf.de",
+   "charity": "Spendenlauf des Mukoviszidose Landesverbands Baden-Württemberg"
   },
   {
    "id": "trollinger-marathon-heilbronn-2027",
@@ -15788,7 +15814,8 @@
    "url": "https://www.eintracht-seekirch.com/backyard-for-charity",
    "prev": {
     "fee": "40 €, davon 10 € als Spende (Ausgabe 2026)"
-   }
+   },
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "sixdaysrun-freudenstadt-2027",
@@ -18334,7 +18361,8 @@
    "url": "https://stadtlauf-osterburken.jimdosite.com/",
    "showers": "Umkleiden und Duschen im Sportheim des SV Osterburken",
    "aid": "Verpflegungsstellen auf der Strecke und im Ziel",
-   "late_reg": "Nachmeldung am Lauftag bis eine Stunde vor dem Start"
+   "late_reg": "Nachmeldung am Lauftag bis eine Stunde vor dem Start",
+   "charity": "Die Startgelder gehen an die Lebenshilfe Buchen"
   },
   {
    "id": "schluchseelauf-2027",
@@ -18496,7 +18524,8 @@
    "cutoff": "22 Stunden (115 km), 17 Stunden (60 km)",
    "showers": "Duschen und kostenlose Matratzen-Schlafhalle am Start/Ziel",
    "aid": "8 Verpflegungsstellen (115 km), 3 (60 km)",
-   "late_reg": "Keine Nachmeldung, Plätze begrenzt"
+   "late_reg": "Keine Nachmeldung, Plätze begrenzt",
+   "charity": "Charity-Ultratrail zugunsten sozialer Projekte im Landkreis Göppingen"
   },
   {
    "id": "neukircher-waelderlauf-2027",
@@ -19459,7 +19488,8 @@
     250
    ],
    "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 28.06.). Strecken laut hdsports. Veranstalter SV Würtingen. 2026 (20. Auflage) lief eine virtuelle Phase vom 19. bis 27.06. (4, 8 oder 15 km frei wählbar) und der Renntag am 28.06. mit 15-km-Rennen (Altersklassenwertung), 4 und 8 km Hobbylauf und Kinderläufen. Sponsoren zahlen je gelaufenen Kilometer, der Erlös geht an ein Kinderhaus-Projekt",
-   "url": "https://sv-wuertingen.de/steps-for-life/"
+   "url": "https://sv-wuertingen.de/steps-for-life/",
+   "charity": "Sponsoren zahlen je gelaufenen Kilometer, der Erlös geht an ein Kinderhaus-Projekt"
   },
   {
    "id": "wielemer-viertele-mittelstenweiler-2027",
@@ -19620,7 +19650,8 @@
    "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 05.07.). Strecken laut hdsports. Veranstalter Sportfreunde Illerrieden ('Riada rennt'), 5 km und 10 km, ab 14 Jahren, Teilnehmerbegrenzung 300. 3. Auflage war am 06.07.2025",
    "url": "https://www.spendenlauf-illerrieden.de/",
    "fee": "Startgelder werden vollständig gespendet",
-   "start_place": "Stadion Illerrieden"
+   "start_place": "Stadion Illerrieden",
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "wilhelmsfelder-kerwelauf-2027",
@@ -19899,7 +19930,8 @@
    "checked": "2026-11-04",
    "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 12.07.). Strecken laut hdsports. Benefizlauf der SG Nußloch zugunsten des Nußlocher Kinderhilfsfonds, 10 km DLV-vermessen. Nächste Ausgabe laut Seite im sanierten Max-Berk-Stadion.",
    "anmeldung_url": "https://my.raceresult.com/397765/",
-   "url": "https://www.nusslocher-wiesenlauf.de/wordpress/"
+   "url": "https://www.nusslocher-wiesenlauf.de/wordpress/",
+   "charity": "Benefizlauf zugunsten des Nußlocher Kinderhilfsfonds"
   },
   {
    "id": "strahlenburgtrail-2027",
@@ -19975,7 +20007,8 @@
    "checked": "2026-11-04",
    "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 12.07.). Strecken laut hdsports. 39. Auflage war 2026. Spendet 1 € je Starter an das Kinderhospiz Stuttgart.",
    "anmeldung_url": "https://my.raceresult.com/379479/",
-   "url": "https://www.sportfreunde-steinenberg.de/"
+   "url": "https://www.sportfreunde-steinenberg.de/",
+   "charity": "1 € je Starter geht an das Kinderhospiz Stuttgart"
   },
   {
    "id": "metzinger-ermstal-marathon-2027",
@@ -20047,7 +20080,8 @@
    "url": "https://www.tsv-schrozberg.de/hakro-stadtlauf/",
    "late_reg": "Nachmeldung bis eine Stunde vor dem Start gegen 3 € Aufschlag",
    "showers": "Umkleide- und Duschmöglichkeiten in der Stadthalle Schrozberg (Ausgabe 2026)",
-   "start_place": "Vor dem Jacobi-Festzelt in Schrozberg (Start und Ziel)"
+   "start_place": "Vor dem Jacobi-Festzelt in Schrozberg (Start und Ziel)",
+   "charity": "Ein Sponsor spendet 5 € je Teilnehmer an die St.-Raphael-Jugendhilfe"
   },
   {
    "id": "ultralauf-night52-kraichgau-citycup-2027",
@@ -20365,7 +20399,8 @@
    "checked": "2026-11-04",
    "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 25.07.). Strecken laut hdsports. Veranstalter TSV Höpfingen im Rahmen des Sportfests. 2026 am 25.07. mit 336 Läufern: Schülerlauf 1 km, 5 km und 10 km, Spendenerlös 2026 9.999 €",
    "url": "https://www.tsv-hoepfingen.de/",
-   "fee": "Startgeld 10 €, wird zu 100 % gespendet (Schülerlauf frei, laut Ausgabe 2026)"
+   "fee": "Startgeld 10 €, wird zu 100 % gespendet (Schülerlauf frei, laut Ausgabe 2026)",
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "rechberghaeuser-sommernachtslauf-2027",
@@ -20704,7 +20739,8 @@
     "start_time": "17:15"
    },
    "start_place": "Marktplatz Weikersheim",
-   "late_reg": "Nachmeldung vor Ort bis eine Stunde vor dem jeweiligen Start (2026)"
+   "late_reg": "Nachmeldung vor Ort bis eine Stunde vor dem jeweiligen Start (2026)",
+   "charity": "Wohltätiger Lauf im Rahmen der Kärwe"
   },
   {
    "id": "backyard-ultra-24h-wertheim-2027",
@@ -20772,7 +20808,8 @@
    "prev": {
     "fee": "Erwachsene 15 € plus 5 € Pfand für den Transponder, Kinder bis 12 Jahre frei (Ausgabe 2026)"
    },
-   "start_place": "Seepark, Freiburg"
+   "start_place": "Seepark, Freiburg",
+   "charity": "Erlös an den Förderverein für krebskranke Kinder Freiburg und Humanity First"
   },
   {
    "id": "lauf-mit-isingen-2027",
@@ -20892,7 +20929,8 @@
    "url": "https://www.wehratallauf.de/",
    "prev": {
     "start_time": "10:30"
-   }
+   },
+   "charity": "Die Startgelder gehen an den Förderverein für krebskranke Kinder Freiburg"
   },
   {
    "id": "ma-dame-run-frauenlauf-kehl-2027",
@@ -20916,7 +20954,8 @@
    "prev": {
     "start_time": "18:30"
    },
-   "start_place": "Rheinstadion Kehl, Stadionstraße 1"
+   "start_place": "Rheinstadion Kehl, Stadionstraße 1",
+   "charity": "Frauenlauf gegen Brustkrebs"
   },
   {
    "id": "aspacher-volkslauf-2027",
@@ -21063,7 +21102,8 @@
    "checked": "2026-11-04",
    "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 20.09.). Strecken laut hdsports. Veranstalter Abseitz Stuttgart e.V., Erlös für die AIDS-Hilfe Stuttgart. 20. LebenSlauf war am 20.09.2026 auf der Waldau (Strecken 5,5 km und 9,5 km, dazu tus|kids Kinderlauf). Anmeldung über die Abseitz-Seite",
    "url": "https://www.stuttgarter-lebenslauf.de/",
-   "start_place": "Waldau, Stuttgart"
+   "start_place": "Waldau, Stuttgart",
+   "charity": "Der Erlös geht an die AIDS-Hilfe Stuttgart"
   },
   {
    "id": "trailmarathon-heidelberg-2027",
@@ -21924,7 +21964,8 @@
    "prev": {
     "start_time": "10:00"
    },
-   "start_place": "Vulpius Klinik, Vulpiusstraße 29, 74906 Bad Rappenau"
+   "start_place": "Vulpius Klinik, Vulpiusstraße 29, 74906 Bad Rappenau",
+   "charity": "Benefizlauf der Vulpius Klinik, der Erlös geht jedes Jahr an ein anderes Projekt"
   },
   {
    "id": "kuppinger-mondfaengerlauf-2027",
@@ -22673,7 +22714,8 @@
    "checked": "2026-11-04",
    "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 25.10.). Strecken laut hdsports. Veranstalter LV Biet, Erlös für einen wohltätigen Zweck. 25. Bietlauf war am 19.10.2025 mit über 130 Läufern: Hauptlauf ca. 9–11 km an der Würm entlang, Freizeitlauf 5 km, Schülerlauf",
    "url": "https://www.lvbiet.de/veranstaltungen/bietlauf/",
-   "start_place": "Würmtalhalle, Tiefenbronn-Mühlhausen"
+   "start_place": "Würmtalhalle, Tiefenbronn-Mühlhausen",
+   "charity": "Der Erlös geht an einen wohltätigen Zweck"
   },
   {
    "id": "gaffenberglauf-2027",
@@ -23436,7 +23478,8 @@
    "source": "https://svunterwurmbach.com/dreikoenigs-benefizlauf/",
    "fee": "Kein Startgeld, Spenden für regionale Einrichtungen",
    "info": "Findet traditionell am 6. Januar statt, ohne Zeitnahme und ohne Anmeldung (2025: 5,4 / 7,8 / 10,4 km, auch Nordic Walking). Termin 2027 noch nicht ausdrücklich bestätigt.",
-   "checked": "2026-11-04"
+   "checked": "2026-11-04",
+   "charity": "Spenden für regionale Einrichtungen"
   },
   {
    "id": "offenbacher-behoerden-und-volkswaldlauf-2026",
@@ -24988,7 +25031,8 @@
    "checked": "2026-11-04",
    "url": "http://www.benefizlauf-königstein.de/",
    "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Laut Presse: 11. Auflage im Frühjahr 2024 mit über 1.100 Läufern, darunter mehr als 400 Kinder; die Vereinsseite ist nicht erreichbar. Startzeit laut RUNME (5 km um 14:15 Uhr, frühester Lauf ab 5 km).",
-   "start_time": "14:15"
+   "start_time": "14:15",
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "dillenburger-stadtlauf-2027",
@@ -25190,7 +25234,8 @@
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 12:00 Uhr).",
    "prev": {
     "start_time": "12:00"
-   }
+   },
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "fischbachtal-lauf-2027",
@@ -26022,7 +26067,8 @@
    "checked": "2026-11-04",
    "url": "http://www.ketteler-krankenhaus.de",
    "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Startzeit laut RUNME (5 km um 15:00 Uhr, frühester Lauf ab 5 km).",
-   "start_time": "15:00"
+   "start_time": "15:00",
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "bartenwetzer-volkslauf-melsungen-2027",
@@ -26481,7 +26527,8 @@
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 12:00 Uhr).",
    "prev": {
     "start_time": "12:00"
-   }
+   },
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "darmstaedter-stadtlauf-2027",
@@ -27630,7 +27677,8 @@
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 17:00 Uhr).",
    "prev": {
     "start_time": "17:00"
-   }
+   },
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "altstadt-run-schwalmstadt-2027",
@@ -28766,7 +28814,8 @@
    "start_time": "09:00",
    "fee": "Kein Startgeld, Spenden für die Jugendarbeit des WSV Schmiedefeld und das Kinderhospiz Tambach-Dietharz",
    "start_place": "Sportplatz Schmiedefeld am Rennsteig",
-   "late_reg": "Keine Voranmeldung nötig, Anmeldung vor Ort von 8:00 bis 8:45 Uhr"
+   "late_reg": "Keine Voranmeldung nötig, Anmeldung vor Ort von 8:00 bis 8:45 Uhr",
+   "charity": "Spenden für die Jugendarbeit des WSV Schmiedefeld und das Kinderhospiz Tambach-Dietharz"
   },
   {
    "id": "apoldaer-silvesterlauf-2026",
@@ -29109,7 +29158,8 @@
    "checked": "2026-11-05",
    "start_time": "10:00",
    "fee": "5 km 22,22 €, 10 km 33,33 € (Spendenlauf)",
-   "anmeldung_url": "https://my.raceresult.com/428056/registration"
+   "anmeldung_url": "https://my.raceresult.com/428056/registration",
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "albert-kuntz-lauf-2027",
@@ -29202,7 +29252,8 @@
    "source": "https://running.life/de/termine/sommerdaer-hoffnungsroute",
    "info": "1. Sömmerdaer Hoffnungsroute, Benefizlauf von Run4Kids Sömmerda e. V.: 25 km für Erwachsene, 8 km Kinderstrecke mit Begleitung; Onlineanmeldung, Teilnehmerlimit möglich; Teilnehmer stimmen über das unterstützte Kinder-/Jugendprojekt ab.",
    "fee": "25 km 35 €",
-   "checked": "2026-11-05"
+   "checked": "2026-11-05",
+   "charity": "Benefizlauf von Run4Kids Sömmerda e.V."
   },
   {
    "id": "fruehjahrslauf-durch-den-leinawald-2027",
@@ -31060,7 +31111,8 @@
    "prev": {
     "start_time": "09:00",
     "fee": "Halbmarathon 28 bis 43 €, Marathon 34 bis 49 € je nach Anmeldezeitraum (Ausgabe 2026, laut Terminkalender)"
-   }
+   },
+   "charity": "Erlöse für wechselnde regionale Projekte"
   },
   {
    "id": "erfurter-zooparklauf-2027",
@@ -31205,7 +31257,8 @@
    "start_place": "Sportplatz Deuna",
    "prev": {
     "start_time": "09:30"
-   }
+   },
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "limberglauf-ranis-2027",
@@ -38055,7 +38108,8 @@
    "source": "https://gotrail.run/de/termine/frau-holle-marchenland-ultra",
    "start_place": "Parkplatz Am Kalkbrunnen, Hessisch Lichtenau (Ausgabe 2026)",
    "info": "Trailrunde über 57 km mit rund 1.500 Hm, zwei Verpflegungsstellen, Spendenlauf zugunsten Kilometer für Kinder. Termin 2027 laut Kalenderportal, Ausgabe 2026 war am 22.03.2026. Angaben laut gotrail.run, Veranstalterseite nicht gefunden.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-05",
+   "charity": "Spendenlauf zugunsten von Kilometer für Kinder"
   },
   {
    "id": "niedermeiserer-dorflauf-2027",
@@ -43512,7 +43566,8 @@
    "pickup": "Startunterlagen am Samstag ab 15:00 Uhr im Schlosstheater Ottweiler; dort auch Siegerehrung ab 18:45 Uhr",
    "start_place": "In der Nähe des Schlosstheaters Ottweiler (Rundkurs 2,5 km durch die Stadt, Fackelbeleuchtung)",
    "showers": "Umkleiden und Duschen in den Sporthallen „Im Alten Weiher“ und „Seminarstraße“",
-   "anmeldung_url": "https://my.raceresult.com/424101/registration"
+   "anmeldung_url": "https://my.raceresult.com/424101/registration",
+   "charity": "1 € je Teilnehmer geht an das Kinderhospiz- und Palliativteam Saar"
   },
   {
    "id": "x-mas-trail-weiskirchen-2026",
@@ -44419,7 +44474,8 @@
    "checked": "2026-11-05",
    "prev": {
     "start_time": "15:30"
-   }
+   },
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "saaraltarmlauf-2027",
@@ -44969,7 +45025,8 @@
    "url": "https://atleta.cc/e/yzea1HAzSLFw",
    "source": "https://running.life/de/termine/advents-charity-run-salmtal",
    "info": "Termin und Strecken laut running.life/gotrail.run.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-05",
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "argenthaler-quarzit-adventstrail-2026",
@@ -46728,7 +46785,8 @@
    "url": "http://chiplauf.de/",
    "source": "https://www.runme.de/deutschland/charity-run-lauf-in-den-mai/",
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-05",
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "lehwaldlauf-2027",
@@ -47174,7 +47232,8 @@
    "url": "https://traylrunner.jimdosite.com/",
    "source": "https://running.life/de/termine/charity-trail-mannebach",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin und Strecken laut running.life/gotrail.run.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-05",
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "enzenbueschlauf-2027",
@@ -47727,7 +47786,8 @@
    "source": "https://www.runme.de/deutschland/feierabendlauf/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 18:40 Uhr, frühester Lauf ab 5 km).",
    "checked": "2026-11-05",
-   "start_time": "18:40"
+   "start_time": "18:40",
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "lauf-lauf-durch-den-sportpark-koblenz-2027",
@@ -48314,7 +48374,8 @@
    "checked": "2026-11-05",
    "prev": {
     "start_time": "11:15"
-   }
+   },
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "baerenkopplauf-mit-3-baerchenlauf-2027",
@@ -48431,7 +48492,8 @@
    "prev": {
     "start_time": "09:00"
    },
-   "late_reg": "Nachmeldung am Lauftag bis 30 Minuten vor dem Lauf mit 5 € Zuschlag vor Ort (Ausgabe 2026)"
+   "late_reg": "Nachmeldung am Lauftag bis 30 Minuten vor dem Lauf mit 5 € Zuschlag vor Ort (Ausgabe 2026)",
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "brohlbachtal-lauf-mit-halbmarathon-und-walking-2027",
@@ -48818,7 +48880,8 @@
    "checked": "2026-11-05",
    "prev": {
     "start_time": "13:00"
-   }
+   },
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "suedpfalzlauf-september-2027",
@@ -51945,7 +52008,8 @@
    "source": "https://www.runme.de/deutschland/neujahrslauf-lsv-porz-koeln/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 11:00 Uhr, frühester Lauf ab 5 km).",
    "checked": "2026-11-05",
-   "start_time": "11:00"
+   "start_time": "11:00",
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "die-ha-a-rd-winter-2027",
@@ -54144,7 +54208,8 @@
     "start_time": "11:00"
    },
    "start_time": "11:00",
-   "start_place": "Waldbühne Hamm-Heessen, Gebrüder-Funke-Weg 3, 59073 Hamm-Heessen"
+   "start_place": "Waldbühne Hamm-Heessen, Gebrüder-Funke-Weg 3, 59073 Hamm-Heessen",
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "hennesee-panoramalauf-2027",
@@ -54190,7 +54255,8 @@
    "info": "Termin und Strecken laut running.life/gotrail.run.",
    "checked": "2026-11-07",
    "reg_open": "2026-09-19",
-   "reg_close": "2027-04-15"
+   "reg_close": "2027-04-15",
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "lauf-rund-um-den-allwetterzoo-muenster-2027",
@@ -56071,7 +56137,8 @@
    "source": "https://www.runme.de/deutschland/gemeinsam-gegen-den-brustkrebs-kaempfen-sponsorenlauf-in-dorsten/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 10:10 Uhr, frühester Lauf ab 5 km).",
    "checked": "2026-11-05",
-   "start_time": "10:10"
+   "start_time": "10:10",
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "ra-h-ser-run-2027",
@@ -57460,7 +57527,8 @@
    "url": "http://www.rotary-spendenlauf.de",
    "source": "https://www.runme.de/deutschland/rotary-benefizlauf-sportpark-suechtelner-hoehen-laufen-nordic-walking-kid-race/",
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-05",
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "sauerland-hoehenflug-trailrun-2027",
@@ -58195,7 +58263,8 @@
    "source": "https://www.runme.de/deutschland/benefizlauf-aachen/",
    "info": "Termin laut Veranstaltungskalender des Leichtathletik-Verbands Nordrhein (beim Verband angemeldet). Strecken laut RUNME. Kalender nannte zuerst den 2027-06-27. Startzeit laut RUNME (5 km um 12:00 Uhr, frühester Lauf ab 5 km).",
    "checked": "2026-11-05",
-   "start_time": "12:00"
+   "start_time": "12:00",
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "enorm-in-form-in-steckenborn-2027",
@@ -59243,7 +59312,8 @@
    "checked": "2026-11-05",
    "prev": {
     "start_time": "12:00"
-   }
+   },
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "duelmener-wasserlauf-2027",
@@ -59414,7 +59484,8 @@
    "source": "https://www.runme.de/deutschland/muensterland-sternlauf/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (76,7 km um 07:45 Uhr, frühester Lauf ab 5 km).",
    "checked": "2026-11-05",
-   "start_time": "07:45"
+   "start_time": "07:45",
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "detmolder-residenzlauf-2027",
@@ -61103,7 +61174,8 @@
    "checked": "2026-11-05",
    "prev": {
     "start_time": "10:15"
-   }
+   },
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "seidenraupen-cross-2027",
@@ -61956,7 +62028,8 @@
    "url": "https://www.hdsports.org/laufen/pink-5k-dortmund",
    "source": "https://www.hdsports.org/laufen/pink-5k-dortmund",
    "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
-   "checked": "2026-11-05"
+   "checked": "2026-11-05",
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "porta-strassen-volkslauf-2027",
@@ -62176,7 +62249,8 @@
    "url": "https://www.hdsports.org/laufen/pink-5k-duesseldorf",
    "source": "https://www.hdsports.org/laufen/pink-5k-duesseldorf",
    "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
-   "checked": "2026-11-05"
+   "checked": "2026-11-05",
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "internationaler-halbmarathon-57-internationaler-volkslauf-2027",
@@ -62278,7 +62352,8 @@
    "url": "https://www.hdsports.org/laufen/pink-5k-koeln",
    "source": "https://www.hdsports.org/laufen/pink-5k-koeln",
    "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
-   "checked": "2026-11-05"
+   "checked": "2026-11-05",
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "drachenlauf-2027",
@@ -63225,7 +63300,8 @@
    "start_time": "14:00",
    "fee": "5 km 5 €",
    "reg_open": "2026-04-01",
-   "reg_close": "2026-11-25"
+   "reg_close": "2026-11-25",
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "winterserie-post-sv-lehrte-4-lauf-2026",
@@ -63513,7 +63589,8 @@
    "info": "Termin und Strecken laut running.life/gotrail.run.",
    "checked": "2026-11-07",
    "fee": "4 € pro Erwachsenem, Kinder kostenlos",
-   "reg_close": "2026-12-05"
+   "reg_close": "2026-12-05",
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "goettinger-cross-serie-lauf-2-2026",
@@ -69113,7 +69190,8 @@
    "checked": "2026-11-05",
    "prev": {
     "start_time": "18:45"
-   }
+   },
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "isernhagener-volkslauf-2027",
@@ -69728,7 +69806,8 @@
    "checked": "2026-11-05",
    "prev": {
     "start_time": "10:00"
-   }
+   },
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "fischerhuder-sommerlauf-2027",
@@ -69993,7 +70072,8 @@
    "checked": "2026-11-05",
    "prev": {
     "start_time": "10:30"
-   }
+   },
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "rissen-laeuft-2027",
@@ -70412,7 +70492,8 @@
    "checked": "2026-11-05",
    "prev": {
     "start_time": "16:00"
-   }
+   },
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "gifhorner-friedhofslauf-2027",
@@ -72213,7 +72294,8 @@
    "checked": "2026-11-05",
    "prev": {
     "start_time": "10:30"
-   }
+   },
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "volkslauf-tsv-adendorf-2027",
@@ -72491,7 +72573,8 @@
    "checked": "2026-11-05",
    "prev": {
     "start_time": "11:00"
-   }
+   },
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "ziegeleilauf-2027",
@@ -72560,7 +72643,8 @@
    "checked": "2026-11-05",
    "prev": {
     "start_time": "10:00"
-   }
+   },
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "citylauf-leer-2027",
@@ -76831,7 +76915,8 @@
    "reg_close": "2027-09-04",
    "late_reg": "Nachmeldung nach dem 04.09.2027 weiterhin über die Onlineanmeldung oder vor Ort bis eine Stunde vor dem Start",
    "pickup": "Freitag 10.09.2027 von 15:00 bis 18:00 Uhr und am Veranstaltungstag",
-   "showers": "Dusch- und Umkleidemöglichkeiten auf der Sportanlage"
+   "showers": "Dusch- und Umkleidemöglichkeiten auf der Sportanlage",
+   "charity": "Benefizlauf zugunsten des Hospizes"
   },
   {
    "id": "scanafeld-lauf-2027",
@@ -79251,7 +79336,8 @@
    "checked": "2026-11-05",
    "prev": {
     "start_time": "07:30"
-   }
+   },
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
    "id": "ernst-moritz-arndt-lauf-2027",
@@ -80480,7 +80566,8 @@
    "info": "2. Lauf der Nürnberger Winterlaufserie (10 und 15 km). Meldeschluss Einzellauf Freitag, 15.01.2027; 2 € je Teilnehmer an Engelein e.V.; Umkleiden und Siegerehrung im Gutmann am Dutzendteich.",
    "bezirk": "Mittelfranken",
    "kreis": "Stadt Nürnberg",
-   "showers": "Umkleiden im Gutmann am Dutzendteich"
+   "showers": "Umkleiden im Gutmann am Dutzendteich",
+   "charity": "2 € je Teilnehmer gehen an Engelein e.V."
   },
   {
    "id": "nurnberger-winterlaufserie-3-lauf-2027",
@@ -80511,7 +80598,8 @@
    "info": "3. Lauf der Nürnberger Winterlaufserie (10 und 20 km), Start 08:30 Uhr. Meldeschluss Einzellauf Freitag, 05.02.2027; 2 € je Teilnehmer an Engelein e.V.; Umkleiden und Siegerehrung im Gutmann am Dutzendteich.",
    "bezirk": "Mittelfranken",
    "kreis": "Stadt Nürnberg",
-   "showers": "Umkleiden im Gutmann am Dutzendteich"
+   "showers": "Umkleiden im Gutmann am Dutzendteich",
+   "charity": "2 € je Teilnehmer gehen an Engelein e.V."
   },
   {
    "id": "rothseelauf-2027",

@@ -1,6 +1,6 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
-const APP_VERSION="v79"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+const APP_VERSION="v80"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
 const DATA_DIR="data/";
 const REPORT_URL="https://gbaoxnsytnzcuxbkdrwc.supabase.co/rest/v1/reports";
 const REPORT_KEY="sb_publishable_iuxJbdN94igdsBQ5-dtm5g_OxWYWGH9";   // öffentlicher Schlüssel: darf nur Meldungen anlegen
@@ -45,7 +45,7 @@ const IC={
 const HEART=IC.heart;
 
 // Läufe-Datei in das interne Format übersetzen und Merkmale ableiten
-function prepare(list){const x0={};list.forEach(x=>x0[x.id]=x);R=list.map(x=>({id:x.id,t:x.type,n:x.name,o:x.place,la:x.lat,lo:x.lon,d:x.date,e:x.end,ok:x.confirmed,prev:x.prev_date,k:x.distances||[],hm:x.elevation,note:x.note,u:x.url,checked:x.checked,fee:x.fee,ro:x.reg_open,rc:x.reg_close,st:x.start_time,info:x.info,src:x.source,sp:x.start_place,pick:x.pickup,park:x.parking,aid:x.aid,course:x.course,extras:x.extras,showers:x.showers,gear:x.gear,gearNote:x.gear_note,gl:x.gear_levels,gs:x.gear_stand,gw:x.gear_warn,prof:x.profile,gpx:x.gpx,limit:x.limit,soldout:x.sold_out===true,soldPart:typeof x.sold_out==="string"?x.sold_out:"",cutoff:x.cutoff,incl:x.included,late:x.late_reg}));
+function prepare(list){const x0={};list.forEach(x=>x0[x.id]=x);R=list.map(x=>({id:x.id,t:x.type,n:x.name,o:x.place,la:x.lat,lo:x.lon,d:x.date,e:x.end,ok:x.confirmed,prev:x.prev_date,k:x.distances||[],hm:x.elevation,note:x.note,u:x.url,checked:x.checked,fee:x.fee,ro:x.reg_open,rc:x.reg_close,st:x.start_time,info:x.info,src:x.source,sp:x.start_place,pick:x.pickup,park:x.parking,aid:x.aid,course:x.course,extras:x.extras,showers:x.showers,gear:x.gear,gearNote:x.gear_note,gl:x.gear_levels,gs:x.gear_stand,gw:x.gear_warn,prof:x.profile,gpx:x.gpx,limit:x.limit,soldout:x.sold_out===true,soldPart:typeof x.sold_out==="string"?x.sold_out:"",cutoff:x.cutoff,incl:x.included,late:x.late_reg,gz:x.charity||""}));
 R.forEach(r=>{
   r.oldId=r.n.toLowerCase().replace(/[^a-z0-9äöüß]+/g,"-")+"-"+r.d.slice(0,4);
   const kms=r.k.map(k=>k==="HM"||/bis HM/.test(k)?21.1:k==="M"?42.2:k==="Backyard"?60:parseFloat(String(k).replace(",",".")));
@@ -73,13 +73,13 @@ function priceFrom(fee){if(!fee)return null;const raw=String(fee);
   const v=Math.min(...vals);return{v:Number.isInteger(v)?v:v.toFixed(2).replace(".",","),prev:/vorjahr/i.test(raw)}}
 function priceTxt(p){return p.free?"kostenlos":"ab "+p.v+" €"}
 
-let state={tab:"road",radius:100,home:null,dists:[],time:"all",hm:"all",stat:"all",moreF:false,favs:[],packed:{},reg:[],view:"list",cal:null,calDay:null,remind:7};
+let state={tab:"road",radius:100,home:null,dists:[],time:"all",hm:"all",stat:"all",gz:"all",moreF:false,favs:[],packed:{},reg:[],view:"list",cal:null,calDay:null,remind:7};
 try{const s=JSON.parse(localStorage.getItem("strail2")||"{}");Object.assign(state,s)}catch(e){}
 if(state.dist&&state.dist!=="all"&&!state.dists.length)state.dists=[state.dist];delete state.dist;   // alte Einzelauswahl der Strecke übernehmen
 try{const o=JSON.parse(localStorage.getItem("strail")||"{}");if(Array.isArray(o.favs)&&!state.favs.length)state.favs=o.favs}catch(e){}
 function save(){try{localStorage.setItem("strail2",JSON.stringify(state))}catch(e){}}
 if(["road","trail","fav"].includes(state.start))state.tab=state.start;   // Einstellung „Startseite beim Öffnen“
-const SEL=["time","stat","hm"];
+const SEL=["time","stat","hm","gz"];
 const DNAME={"5":"5 km","10":"10 km","hm":"Halbmarathon","m":"Marathon","ultra":"Ultra","o":"Andere Strecken"};
 const DORDER=["5","10","hm","m","ultra","o"];
 function buildFilters(){SEL.forEach(k=>$("f-"+k).addEventListener("change",e=>{state[k]=e.target.value;save();animNext=true;render()}))}
@@ -89,7 +89,7 @@ function syncFilters(){
 // Schnellauswahl über der Liste: Sortierung, häufige Filter, „Mehr Filter“ klappt die Dropdowns auf
 // Zeile über der Liste: welche Strecken gelten ("x von y Läufen"), „Mehr Filter“ klappt die Dropdowns auf
 function renderQuick(shown,total){const q=$("quick"),show=state.tab!=="fav"&&state.view!=="cal";q.hidden=!show;if(!show)return;
-  const adv=(state.time!=="all"?1:0)+(state.stat!=="all"?1:0)+(state.tab==="trail"&&state.hm!=="all"?1:0),ds=DORDER.filter(k=>state.dists.includes(k));
+  const adv=(state.time!=="all"?1:0)+(state.stat!=="all"?1:0)+(state.gz!=="all"?1:0)+(state.tab==="trail"&&state.hm!=="all"?1:0),ds=DORDER.filter(k=>state.dists.includes(k));
   const info=ds.length?'<b>'+shown+'</b> von '+total+(total===1?" Lauf":" Läufen")+' · '+ds.map(k=>DNAME[k]).join(", ")+' <button type="button" class="qlink" data-alld>Alle Strecken zeigen</button>':
     'Alle Strecken <button type="button" class="qlink" data-dsel>Strecke wählen</button>';
   q.innerHTML='<span class="qinfo">'+info+'</span><button type="button" class="qchip more" data-more aria-pressed="'+!!state.moreF+'">Mehr Filter'+(adv?" ("+adv+")":"")+'</button>'}
@@ -110,6 +110,7 @@ function passFilters(r,skipDist){
   if(state.time==="weekend"){const[a,b]=weekendRange();if(!(dt(r.d)<=b&&dt(r.e||r.d)>=a))return false}
   else if(state.time!=="all"){const lim=new Date(TODAY);if(state.time==="month")lim.setDate(lim.getDate()+30);else if(state.time==="q")lim.setMonth(lim.getMonth()+3);else lim.setFullYear(lim.getFullYear()+1);if(dt(r.d)>lim)return false}
   if(r.t==="trail"&&state.hm!=="all"&&!r.profs.has(state.hm))return false;
+  if(state.gz==="yes"&&!r.gz)return false;
   if(state.stat==="ok"&&!r.ok)return false;
   if(state.stat==="open"&&r.ok)return false;
   return true;}
@@ -144,7 +145,7 @@ function card(r,favView){
     dateBox='<div class="ringd '+r.t+'"><div class="rg"><svg viewBox="0 0 58 58" aria-hidden="true"><circle class="bgc" cx="29" cy="29" r="25"/><circle class="fgc" cx="29" cy="29" r="25" stroke-dasharray="'+(C*f).toFixed(1)+' '+C.toFixed(1)+'"/></svg>'+
       '<span class="in"><span class="d'+(end?" range":"")+'">'+day+'</span><span class="m">'+mon+'</span></span></div><span class="left'+(days<=14?" near":"")+'">'+(days<=0?"Heute":days===1?"morgen":"noch "+days+" T.")+'</span></div>'}
   else dateBox='<div class="leaf '+r.t+(r.ok?"":" est")+'"><span class="m">'+mon+(d.getFullYear()!==TODAY.getFullYear()?" "+String(d.getFullYear()).slice(2):"")+'</span><span class="d'+(end?" range":"")+'">'+day+'</span><span class="w">'+wd+'</span></div>';
-  return '<article class="card'+(r.t==="trail"?" trail":"")+'" data-card="'+r.id+'">'+dateBox+
+  return '<article class="card'+(r.t==="trail"?" trail":"")+(r.gz?" gz":"")+'" data-card="'+r.id+'">'+(r.gz?'<span class="gzband" title="'+esc(r.gz)+'">Guter Zweck</span>':"")+dateBox+
     '<div class="info"><h3><button class="open" type="button" data-open="'+r.id+'">'+esc(r.n)+'</button></h3>'+
     '<div class="meta"><span>'+esc(r.o)+'</span>'+(r.dist==null?"":'<span><b>'+r.dist+' km</b> entfernt</span>')+'</div>'+
     '<div class="chips">'+chips+'</div>'+cardNote(r)+
@@ -331,6 +332,7 @@ function openDetail(id){const r=R.find(x=>x.id===id);if(!r)return;if($("detail")
      '<button type="button" class="regbtn" data-reg="'+r.id+'" aria-pressed="'+reg+'">'+(reg?"✓ Angemeldet":"Ich bin angemeldet")+'</button>'+
      '<span class="reghint">Schon angemeldet? Hake es hier ab, dann steht der Lauf unter „Meine Läufe“.</span></div>'+
    '<div class="stats">'+tiles+'</div>'+
+   (r.gz?'<section class="box gzbox"><h3>Guter Zweck</h3><div>'+esc(r.gz)+'.</div><span class="gzsrc">Laut Veranstalter</span></section>':"")+
    '<section class="box"><h3>'+IC.route+'Strecke</h3>'+(r.course?'<div>'+esc(r.course)+'</div>':"")+(r.cutoff?'<div><b>Zeitlimit:</b> '+esc(r.cutoff)+'</div>':"")+'<div class="legs">'+legs+'</div>'+profileSVG(r)+
      (r.gpx?'<div class="btns"><a class="btn" href="'+esc(r.gpx)+'" target="_blank" rel="noopener">GPX-Track '+IC.ext+'</a></div>':"")+'</section>'+
    '<section class="box"><h3>'+IC.euro+'Anmeldung &amp; Kosten'+flagBtn(r.id,"Kosten oder Fristen falsch")+'</h3>'+(plist?plist+(r.prevF.has("fee")?'<span class="vj">Vorjahr</span>':""):"")+kvRows(regRows)+missLine(regMiss,r.id)+'</section>'+
@@ -630,7 +632,7 @@ function render(){
   document.querySelector(".nav .in").dataset.i=["road","trail","fav"].indexOf(state.tab);
   syncFilters();
   document.body.className="mode-"+state.tab+($("detail").hidden&&$("report").hidden&&$("backdrop").hidden?"":" locked");
-  const active=["time","stat"].filter(k=>state[k]!=="all").length+(state.tab==="trail"&&state.hm!=="all"?1:0);
+  const active=["time","stat","gz"].filter(k=>state[k]!=="all").length+(state.tab==="trail"&&state.hm!=="all"?1:0);
   $("reset").hidden=!active;
   let list,favView=state.tab==="fav";
   if(favView)list=live.filter(r=>state.favs.includes(r.id));
