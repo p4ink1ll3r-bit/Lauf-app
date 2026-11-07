@@ -13547,7 +13547,7 @@
    "parking": "Sporthalle/Schulzentrum, Stuttgarter Straße 17 (ca. 15 Min. Fußweg)",
    "showers": "Sporthalle Stuttgarter Straße (ca. 15 Min. Fußweg)",
    "info": "Reiner Wiesen-Cross. Männer-Hauptlauf 8,15 km, Frauen 4,4 km. Spikes mit langen Nägeln empfohlen. Meldeschluss Donnerstag 19.11.2026 laut Veranstalterseite",
-   "checked": "2026-11-05",
+   "checked": "2026-11-07",
    "lat": 48.067,
    "lon": 7.883
   },
@@ -31930,7 +31930,7 @@
    "url": "http://www.atsv-info.de/",
    "source": "https://www.runme.de/deutschland/wurzellauf-marienberg-gelobtland/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 10:00 Uhr, frühester Lauf ab 5 km). Laut Ausschreibung Meldeschluss 05.11.2026 18:00 Uhr. Meldeschluss 05.11.2026, 18:00 Uhr",
-   "checked": "2026-11-05",
+   "checked": "2026-11-07",
    "start_time": "10:00",
    "reg_close": "2026-11-05",
    "late_reg": "Nachmeldung bis 9:00 Uhr am Wettkampftag, Gebühr 2 €",
@@ -44739,7 +44739,7 @@
    "url": "https://deulux-lauf.de/",
    "source": "https://www.runme.de/deutschland/deulux-lauf-langsur/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10 km um 15:00 Uhr, frühester Lauf ab 5 km). Anmeldeschluss für die 10 km Rheinland-Pfalz-Meisterschaft schon am Samstag, 07.11.2026; die Läufe der Kinder und Jugend sind startgeldfrei",
-   "checked": "2026-11-05",
+   "checked": "2026-11-07",
    "start_time": "15:00",
    "reg_close": "2026-11-11",
    "late_reg": "Keine Nachmeldungen möglich, auch nicht am Veranstaltungstag",
@@ -44763,8 +44763,8 @@
    ],
    "url": "https://www.mabithon.de",
    "source": "https://running.life/de/termine/mabithon",
-   "info": "Termin und Strecken laut running.life/gotrail.run. Laternenlauf mit Herbstfest zugunsten des Abiturjahrgangs 2028: 15:00 Uhr 800 m, 15:20 Uhr 2.028 m, 16:00 Uhr 5 km und 10 km",
-   "checked": "2026-11-05",
+   "info": "Termin und Strecken laut running.life/gotrail.run. Laternenlauf mit Herbstfest zugunsten des Abiturjahrgangs 2028: 15:00 Uhr 800 m, 15:20 Uhr 2.028 m, 16:00 Uhr 5 km und 10 km. Weitere Starts: 800 m um 15:00 Uhr, 2.028 m um 15:20 Uhr",
+   "checked": "2026-11-07",
    "start_time": "16:00",
    "fee": "5 km und 10 km je 10 €, 2.028 m und 800 m je 5 €",
    "start_place": "Stadion im Blumengarten Ingelheim (Start und Ziel aller Läufe)"
@@ -62585,7 +62585,7 @@
    "url": "http://sv-gross-hesepe.de/",
    "source": "https://www.runme.de/deutschland/heseper-martinslauf/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (8,87 km um 14:45 Uhr, frühester Lauf ab 5 km). Online-Meldungen bis 31.10.2026, 23:59 Uhr",
-   "checked": "2026-11-05",
+   "checked": "2026-11-07",
    "start_time": "14:45",
    "reg_close": "2026-10-31"
   },
@@ -62826,8 +62826,8 @@
    ],
    "url": "https://www.spass-mit-sport.de/veranstaltungen/1-stadtlandzufuss-halbmarathon/",
    "source": "https://running.life/de/termine/stadtlandzufuss-halbmarathon",
-   "info": "Termin und Strecken laut running.life/gotrail.run. Halbmarathon 10:00 Uhr (Walker 9:30 Uhr) laut Veranstalterseite",
-   "checked": "2026-11-05",
+   "info": "Termin und Strecken laut running.life/gotrail.run. Halbmarathon 10:00 Uhr (Walker 9:30 Uhr) laut Veranstalterseite. Walker ohne Zeitnahme starten um 9:30 Uhr",
+   "checked": "2026-11-07",
    "fee": "Halbmarathon 25 €",
    "start_place": "Sportplatz, Hauptstraße 113, 26826 Weener",
    "start_time": "10:00"
@@ -62850,7 +62850,7 @@
    "url": "http://www.lggoettingen.de",
    "source": "https://www.runme.de/deutschland/goettinger-cross-serie-lauf1/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 13:50 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
+   "checked": "2026-11-07",
    "start_time": "13:50",
    "reg_close": "2026-11-10"
   },
@@ -62891,10 +62891,11 @@
    "url": "https://kuhcross.de/",
    "source": "https://www.runme.de/deutschland/buntentor-kuh-cross-bremen/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (8 km um 12:15 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
+   "checked": "2026-11-07",
    "start_time": "12:15",
    "reg_close": "2026-11-11",
-   "start_place": "Sportanlage Kuhhirten Wiese (ATS Buntentor), Bremen"
+   "start_place": "Sportanlage Kuhhirten Wiese (ATS Buntentor), Bremen",
+   "fee": "4.000 m und 8.000 m je 10 €, 2.000 m Jugendlauf und 1.000 m Kinderlauf je 5 €"
   },
   {
    "id": "kanal-marathon-hespe-2026",
@@ -62913,7 +62914,8 @@
    "url": "https://jobst-von-palombini.webnode.page/ausschreibungen/",
    "source": "https://running.life/de/termine/kanal-marathon-hespe",
    "info": "Termin und Strecken laut running.life/gotrail.run.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-07",
+   "start_time": "10:00"
   },
   {
    "id": "bad-gandersheimer-seeparklauf-2026",
@@ -63062,7 +63064,8 @@
    "url": "https://jobst-von-palombini.webnode.page/ausschreibungen/",
    "source": "https://running.life/de/termine/gevatterseemarathon/2026-11-23",
    "info": "Termin und Strecken laut running.life/gotrail.run.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-07",
+   "start_time": "10:00"
   },
   {
    "id": "orange-day-hannover-2026",
@@ -63560,7 +63563,8 @@
    "url": "https://jobst-von-palombini.webnode.page/ausschreibungen/",
    "source": "https://running.life/de/termine/gevatterseemarathon/2026-12-13",
    "info": "Termin und Strecken laut running.life/gotrail.run.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-07",
+   "start_time": "10:00"
   },
   {
    "id": "osc-vorsilvesterlauf-2026",
