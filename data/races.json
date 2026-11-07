@@ -694,15 +694,15 @@
   {
    "id": "nurnberger-winterlaufserie-2026",
    "type": "road",
-   "name": "Nürnberger Winterlaufserie",
+   "name": "Nürnberger Winterlaufserie, 1. Lauf",
    "place": "Nürnberg (Dutzendteich)",
    "lat": 49.431,
    "lon": 11.116,
    "date": "2026-11-15",
    "confirmed": true,
    "distances": [
-    "10",
-    "5"
+    "5",
+    "10"
    ],
    "note": "Serie mit 3 Läufen: 15.11.2026 5/10 km, 17.01.2027 10/15 km, 07.02.2027 10/20 km; Cup-Wertung groß (10/15/20) und klein (5/10/10); Veranstalter runningConcepts",
    "url": "https://runningconcepts.de/nuernberger-winterlaufserie",
@@ -1459,7 +1459,7 @@
   {
    "id": "ismaninger-winterlaufserie-2026",
    "type": "road",
-   "name": "Ismaninger Winterlaufserie",
+   "name": "Ismaninger Winterlaufserie, 1. Lauf (13 km)",
    "place": "Ismaning",
    "lat": 48.226,
    "lon": 11.676,
@@ -1468,9 +1468,7 @@
    "confirmed": true,
    "prev_date": null,
    "distances": [
-    "13",
-    "17",
-    "HM"
+    "13"
    ],
    "elevation": null,
    "note": "Serie bis Februar",
@@ -3403,8 +3401,8 @@
    "kreis": "LK Passau",
    "lat": 48.433,
    "lon": 13.334,
-   "date": "2027-03-21",
-   "confirmed": false,
+   "date": "2027-04-04",
+   "confirmed": true,
    "prev_date": "2026-03-29",
    "distances": [
     "5,2",
@@ -3420,7 +3418,8 @@
     "parking": "Am Start/Ziel, Badstraße und an der Niederbayernhalle"
    },
    "bezirk": "Niederbayern",
-   "checked": "2026-11-01"
+   "checked": "2026-11-07",
+   "info": "Termin laut BLV-Laufkalender (Stand 07.11.2026)"
   },
   {
    "id": "3-seen-halbmarathon-2027",
@@ -5417,8 +5416,8 @@
    "kreis": "LK Regensburg",
    "lat": 49.095,
    "lon": 11.809,
-   "date": "2027-05-08",
-   "confirmed": false,
+   "date": "2027-05-01",
+   "confirmed": true,
    "prev_date": "2026-05-09",
    "distances": [
     "5",
@@ -5433,8 +5432,9 @@
     "start_place": "Essenbügl an der Laberbrücke, Beratzhausen"
    },
    "bezirk": "Oberpfalz",
-   "checked": "2026-11-01",
-   "gear_open": "nicht geprüft (kurzer Lauf)"
+   "checked": "2026-11-07",
+   "gear_open": "nicht geprüft (kurzer Lauf)",
+   "info": "Termin laut BLV-Laufkalender (Stand 07.11.2026)"
   },
   {
    "id": "mitterteicher-volkslauf-2027",
@@ -5808,8 +5808,8 @@
    "kreis": "LK Cham",
    "lat": 49.196,
    "lon": 13.051,
-   "date": "2027-06-06",
-   "confirmed": false,
+   "date": "2027-05-30",
+   "confirmed": true,
    "prev_date": "2026-06-07",
    "distances": [
     "7,2",
@@ -5823,7 +5823,8 @@
     "start_place": "Ortsteil Lambach"
    },
    "bezirk": "Oberpfalz",
-   "checked": "2026-11-01"
+   "checked": "2026-11-07",
+   "info": "Termin laut BLV-Laufkalender (Stand 07.11.2026)"
   },
   {
    "id": "freystaedter-volksfestlauf-2027",
@@ -6248,7 +6249,7 @@
    "kreis": "LK Cham",
    "lat": 49.221,
    "lon": 12.665,
-   "date": "2027-06-27",
+   "date": "2027-09-26",
    "confirmed": true,
    "distances": [
     "7,3",
@@ -6263,7 +6264,8 @@
     "start_place": "Further Str. 13, Cham"
    },
    "bezirk": "Oberpfalz",
-   "checked": "2026-11-01"
+   "checked": "2026-11-07",
+   "info": "Termin laut BLV-Laufkalender (Stand 07.11.2026); 2026 wurde der Lauf wegen Hitze vom Juni auf den 27.09.2026 verschoben, 2027 ist er im September angesetzt (25. Stadtlauf mit 23. Halbmarathon)"
   },
   {
    "id": "fichtelgebirgsmarathon-2027",
@@ -7371,8 +7373,8 @@
    "kreis": "LK Schwandorf",
    "lat": 49.2,
    "lon": 12.093,
-   "date": "2027-08-14",
-   "confirmed": false,
+   "date": "2027-08-21",
+   "confirmed": true,
    "prev_date": "2026-08-15",
    "distances": [
     "5",
@@ -7388,7 +7390,8 @@
     "pickup": "Wettkampftag ab 13:00 bis 30 min vor Start am jeweiligen Startort"
    },
    "bezirk": "Oberpfalz",
-   "checked": "2026-11-01"
+   "checked": "2026-11-07",
+   "info": "Termin laut BLV-Laufkalender (Stand 07.11.2026). 2026 gab es am Freizeitgelände Naabauen keine Duschen, Umkleiden im Freien; Meldeschluss war eine Woche vorher"
   },
   {
    "id": "gauboden-volksfest-lauf-2027",
@@ -8647,8 +8650,8 @@
    "kreis": "LK Straubing-Bogen",
    "lat": 48.826,
    "lon": 12.395,
-   "date": "2027-10-02",
-   "confirmed": false,
+   "date": "2027-10-03",
+   "confirmed": true,
    "prev_date": "2026-10-03",
    "distances": [
     "5",
@@ -8661,7 +8664,8 @@
     "pickup": "Sportheim Hirschling"
    },
    "bezirk": "Niederbayern",
-   "checked": "2026-11-01"
+   "checked": "2026-11-07",
+   "info": "Termin laut BLV-Laufkalender (Stand 07.11.2026)"
   },
   {
    "id": "backyard-ultra-vilstalsee-2027",
@@ -10474,9 +10478,9 @@
    "place": "Bayreuth",
    "lat": 49.936,
    "lon": 11.585,
-   "date": "2027-06-13",
+   "date": "2027-06-06",
    "end": null,
-   "confirmed": false,
+   "confirmed": true,
    "prev_date": "2026-06-14",
    "distances": [
     "5",
@@ -10490,13 +10494,16 @@
    "reg_close": null,
    "fee": null,
    "start_time": "10:20",
-   "checked": "2026-11-01",
+   "checked": "2026-11-07",
    "source": "https://www.festivalsindeutschland.de/festival/mainauenlauf-bayreuth",
    "start_place": "Gelände der ehemaligen Landesgartenschau (Wilhelminenaue), Grünes Kabinett, 95448 Bayreuth",
-   "info": "Veranstalter: MaliCrew e.V. Startzeit gilt für den Halbmarathon 2026 (5 km 10:10, 10 km 11:20). 2026 Online-Anmeldeschluss 01.06., Nachmeldung vor Ort gegen 5 € Aufpreis. Startgebühren laut Ausschreibung auf mainauenlauf.de. Datum 2027 geschätzt",
+   "info": "Veranstalter: MaliCrew e.V. Startzeit gilt für den Halbmarathon 2026 (5 km 10:10, 10 km 11:20). 2026 Online-Anmeldeschluss 01.06., Nachmeldung vor Ort gegen 5 € Aufpreis. Startgebühren laut Ausschreibung auf mainauenlauf.de. Datum 2027 geschätzt. Termin laut BLV-Laufkalender (Stand 07.11.2026). Ausschreibung 2026: Halbmarathon 10:20 Uhr, 10 km (Meinauenlauf) 11:20 Uhr, Hobbylauf 5 km 10:10 Uhr, Staffeln 4 x 5 km 10:25 Uhr; Anmeldeschluss zwei Wochen vorher, Nachmeldung bis zum Lauftag 9:00 Uhr (+5 €); Duschen im Zielbereich",
    "na": [],
    "bezirk": "Oberfranken",
-   "kreis": "Stadt Bayreuth"
+   "kreis": "Stadt Bayreuth",
+   "prev": {
+    "start_time": "11:20"
+   }
   },
   {
    "id": "aschaffenburger-sparkassen-halbmarathon-2027",
@@ -11905,7 +11912,7 @@
    "lat": 50.006,
    "lon": 9.175,
    "date": "2026-11-08",
-   "end": "2027-01-17",
+   "end": null,
    "confirmed": true,
    "prev_date": null,
    "distances": [
@@ -11916,7 +11923,7 @@
    "kreis": "LK Aschaffenburg",
    "start_place": "Edelweißkapelle, 63773 Goldbach",
    "start_time": "09:30",
-   "info": "Veranstalter: TV 1897 Goldbach. Die App zeigt den ersten Lauf (08.11.2026); jeder Sonntag ist einzeln startbar. Zusatzwertungen: Team, Familie, Mixed, Long Distance (80 km)",
+   "info": "Veranstalter: TV 1897 Goldbach. 1. von 9 Läufen der 43. Serie (Cross on Edelweiss); die weiteren Sonntage stehen als eigene Einträge in der App. Zusatzwertungen: Team, Familie, Mixed, Long Distance (80 km)",
    "gear_open": "nicht geprüft",
    "bezirk": "Unterfranken",
    "checked": "2026-11-03",
@@ -12003,9 +12010,9 @@
    "place": "Kemmern",
    "lat": 49.953,
    "lon": 10.874,
-   "date": "2027-02-07",
+   "date": "2027-01-31",
    "end": null,
-   "confirmed": false,
+   "confirmed": true,
    "prev_date": "2026-02-08",
    "distances": [
     "3,7",
@@ -12018,10 +12025,10 @@
    "prev": {
     "start_time": "10:00"
    },
-   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht. Termin laut BLV-Laufkalender (Stand 07.11.2026)",
    "gear_open": "nicht geprüft",
    "bezirk": "Oberfranken",
-   "checked": "2026-11-03"
+   "checked": "2026-11-07"
   },
   {
    "id": "neuberglauf-kasing-koesching-2027",
@@ -12190,9 +12197,9 @@
    "place": "Hergensweiler",
    "lat": 47.617,
    "lon": 9.779,
-   "date": "2027-04-17",
+   "date": "2027-04-03",
    "end": null,
-   "confirmed": false,
+   "confirmed": true,
    "prev_date": "2026-04-18",
    "distances": [
     "7,5",
@@ -12204,9 +12211,9 @@
    "prev": {
     "start_time": "15:00"
    },
-   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht. Termin laut BLV-Laufkalender (Stand 07.11.2026)",
    "bezirk": "Schwaben",
-   "checked": "2026-11-03"
+   "checked": "2026-11-07"
   },
   {
    "id": "steinachtal-lauf-stadtsteinach-2027",
@@ -12241,9 +12248,9 @@
    "place": "Burgbernheim",
    "lat": 49.461,
    "lon": 10.313,
-   "date": "2027-04-18",
+   "date": "2027-04-25",
    "end": null,
-   "confirmed": false,
+   "confirmed": true,
    "prev_date": "2026-04-19",
    "distances": [
     "5,2",
@@ -12256,10 +12263,10 @@
    "prev": {
     "start_time": "09:45"
    },
-   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht. Termin laut BLV-Laufkalender (Stand 07.11.2026)",
    "gear_open": "nicht geprüft",
    "bezirk": "Mittelfranken",
-   "checked": "2026-11-03"
+   "checked": "2026-11-07"
   },
   {
    "id": "kolmberglauf-oberstreu-2027",
@@ -12664,9 +12671,9 @@
    "place": "Harburg",
    "lat": 48.787,
    "lon": 10.689,
-   "date": "2027-05-21",
+   "date": "2027-05-28",
    "end": null,
-   "confirmed": false,
+   "confirmed": true,
    "prev_date": "2026-05-22",
    "distances": [
     "5,03"
@@ -12679,9 +12686,9 @@
     "start_time": "19:15",
     "fee": "€ 6"
    },
-   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht. Termin laut BLV-Laufkalender (Stand 07.11.2026)",
    "bezirk": "Schwaben",
-   "checked": "2026-11-03"
+   "checked": "2026-11-07"
   },
   {
    "id": "hoegl-berglauf-ainring-2027",
@@ -13335,7 +13342,7 @@
    "place": "Möhrendorf",
    "lat": 49.643,
    "lon": 10.993,
-   "date": "2027-09-26",
+   "date": "2027-09-25",
    "end": null,
    "confirmed": true,
    "prev_date": "2026-09-27",
@@ -13356,9 +13363,9 @@
     "parking": "Parkplatz am Sportheim des ASV Möhrendorf",
     "aid": "Drei Versorgungsstellen (Wasser und Mineraldrinks, beim Halbmarathon in Runde 2 zusätzlich Bananen und Gel); im Ziel Gebäck und Getränk gegen Rückgabe der Startnummer"
    },
-   "info": "Veranstalter: ASV Möhrendorf, Triathlon. Die Ausschreibung für 2027 ist noch nicht veröffentlicht; Werte aus der Ausschreibung 2026 (Vorjahr): Meldeschluss war Mittwoch vor dem Lauf 23:59 Uhr oder bei Erreichen der Höchstgrenze, gestaffelte Gebühren (ab 01.02. / 01.07. / 01.09.), Anmeldung nur online",
+   "info": "Veranstalter: ASV Möhrendorf, Triathlon. Die Ausschreibung für 2027 ist noch nicht veröffentlicht; Werte aus der Ausschreibung 2026 (Vorjahr): Meldeschluss war Mittwoch vor dem Lauf 23:59 Uhr oder bei Erreichen der Höchstgrenze, gestaffelte Gebühren (ab 01.02. / 01.07. / 01.09.), Anmeldung nur online. Termin laut BLV-Laufkalender (Stand 07.11.2026)",
    "bezirk": "Mittelfranken",
-   "checked": "2026-11-03",
+   "checked": "2026-11-07",
    "anmeldung_url": "https://www.karpfenweiherlauf.de",
    "limit": "300 Athleten insgesamt (2025 schlossen zwei Klassen vorzeitig)",
    "showers": "Kabinen im ASV-Heim Möhrendorf (Ausschreibung 2026)",
@@ -13450,9 +13457,9 @@
    "place": "Harburg",
    "lat": 48.787,
    "lon": 10.689,
-   "date": "2027-10-24",
+   "date": "2027-12-12",
    "end": null,
-   "confirmed": false,
+   "confirmed": true,
    "prev_date": "2026-10-25",
    "distances": [
     "10"
@@ -13461,9 +13468,9 @@
    "source": "https://www.hdsports.org/laufen/maurener-lauf-um-den-eisbrunn",
    "kreis": "LK Donau-Ries",
    "start_place": "Reinbergstr. 1, 86655 Harburg (Adresse laut hdsports)",
-   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht",
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports); Startgeld, Anmeldung und Zeiten folgen, sobald der Veranstalter sie veröffentlicht. Termin laut BLV-Laufkalender (Stand 07.11.2026): Der Termin 24.10.2027 (1. Lauf der Jedermannserie) ist dort als abgesagt markiert, der Lauf steht stattdessen am 12.12.2027 als 5. Lauf der Serie",
    "bezirk": "Schwaben",
-   "checked": "2026-11-03"
+   "checked": "2026-11-07"
   },
   {
    "id": "riedlinger-misselauf-2026",
@@ -79854,8 +79861,9 @@
    "url": "https://wsv-zellerreit.de/zellerreiter-herbstwaldlauf/",
    "source": "https://wsv-zellerreit.de/zellerreiter-herbstwaldlauf/",
    "start_place": "Vereinsheim des WSV Zellerreit, Pfaffingerstraße 8, 83561 Ramerberg",
-   "info": "Einer der ältesten Volksläufe im Chiemgau mit Rundkursen durch die Zellerreiter Wälder: Crosslauf, Fitnesslauf, Walking und Schülerläufe. Termin laut Veranstalter; Streckenlängen (bis 7,5 km) laut running.life.",
-   "checked": "2026-11-07"
+   "info": "Einer der ältesten Volksläufe im Chiemgau mit Rundkursen durch die Zellerreiter Wälder: Crosslauf, Fitnesslauf, Walking und Schülerläufe. Termin laut Veranstalter; Streckenlängen (bis 7,5 km) laut running.life. 2026: Anmeldeschluss am Tag vor dem Lauf, Nachmeldung vor Ort bis eine halbe Stunde vor dem Start (+2 €), Verpflegung im Ziel",
+   "checked": "2026-11-07",
+   "showers": "Umkleiden und Duschen direkt vor Ort im Vereinsheim Zellerreit (Stand 2026)"
   },
   {
    "id": "sportingwomen-run-augsburg-2027",
@@ -79877,7 +79885,7 @@
    "start_place": "TV Augsburg, Gabelsbergerstr. 64, 86199 Augsburg",
    "info": "Community Run nur für Frauen entlang der Wertach; Walken, Joggen und Laufen erlaubt. Teilnehmer-Shirt und Goodie-Bag im Startpreis.",
    "checked": "2026-11-07",
-   "fee": "44,90 € bei Anmeldung bis 31.12.2026, danach 49,90 € (inkl. Shirt und Goodie-Bag)"
+   "fee": "44,90 € bei Anmeldung bis 31.12.2026, 49,90 € bis 28.02.2027, danach 54,90 € (inkl. Shirt und Goodie-Bag)"
   },
   {
    "id": "gravel-marathon-schliersee-thiersee-2027",
@@ -79996,6 +80004,1361 @@
    "aid": "Läufe 1–3: Tee, Wasser und Kuchenbuffet im Ziel; Lauf 4 zusätzlich Glühwein und Kinderpunsch",
    "gear_open": "nicht geprüft (kurzer Lauf)",
    "showers": "Keine Umkleiden/Duschen"
+  },
+  {
+   "id": "riespanoramalauf-noerdlingen-2026",
+   "type": "trail",
+   "name": "Riespanoramalauf (Jedermannlaufserie Donau-Ries)",
+   "place": "Nördlingen",
+   "bezirk": "Schwaben",
+   "kreis": "LK Donau-Ries",
+   "lat": 48.851,
+   "lon": 10.489,
+   "date": "2026-11-22",
+   "confirmed": true,
+   "distances": [
+    "10"
+   ],
+   "url": "https://www.lg-donau-ries.de/",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "3. Lauf der 49. Jedermannslaufserie der LG Donau-Ries (5 Läufe). Hauptstrecke ca. 10 km, dazu Kurz- und Hobbystrecken; laut Stadt Rain ist auch eine Anmeldung nur für den Einzellauf möglich. Termin laut BLV-Laufkalender. Laut LG Donau-Ries startet die Langstrecke (ca. 10 km) wie gewohnt um 10:00 Uhr, Kurzstrecke (3 km) und Walker (7 km) etwa 5 Minuten später",
+   "checked": "2026-11-07",
+   "fee": "Erwachsene 10 km: Einzelanmeldung 12 €; ganze Serie online 30 € (bei Anmeldung am ersten Lauf 35 €)",
+   "start_time": "10:00"
+  },
+  {
+   "id": "schloesslelauf-donauwoerth-2026",
+   "type": "trail",
+   "name": "Schlößlelauf (Jedermannlaufserie Donau-Ries)",
+   "place": "Donauwörth",
+   "bezirk": "Schwaben",
+   "kreis": "LK Donau-Ries",
+   "lat": 48.718,
+   "lon": 10.779,
+   "date": "2026-11-29",
+   "confirmed": true,
+   "distances": [
+    "10"
+   ],
+   "url": "https://www.lg-donau-ries.de/",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "4. Lauf der 49. Jedermannslaufserie der LG Donau-Ries (5 Läufe). Hauptstrecke ca. 10 km, dazu Kurz- und Hobbystrecken; laut Stadt Rain ist auch eine Anmeldung nur für den Einzellauf möglich. Termin laut BLV-Laufkalender. Laut LG Donau-Ries startet die Langstrecke (ca. 10 km) wie gewohnt um 10:00 Uhr, Kurzstrecke (3 km) und Walker (7 km) etwa 5 Minuten später",
+   "checked": "2026-11-07",
+   "fee": "Erwachsene 10 km: Einzelanmeldung 12 €; ganze Serie online 30 € (bei Anmeldung am ersten Lauf 35 €)",
+   "start_time": "10:00"
+  },
+  {
+   "id": "lauf-am-weissen-kreuz-oettingen-2026",
+   "type": "trail",
+   "name": "Lauf am Weißen Kreuz (Jedermannlaufserie Donau-Ries)",
+   "place": "Oettingen in Bayern",
+   "bezirk": "Schwaben",
+   "kreis": "LK Donau-Ries",
+   "lat": 48.953,
+   "lon": 10.605,
+   "date": "2026-12-13",
+   "confirmed": true,
+   "distances": [
+    "10"
+   ],
+   "url": "https://www.lg-donau-ries.de/",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "5. Lauf der 49. Jedermannslaufserie der LG Donau-Ries (5 Läufe). Hauptstrecke ca. 10 km, dazu Kurz- und Hobbystrecken; laut Stadt Rain ist auch eine Anmeldung nur für den Einzellauf möglich. Termin laut BLV-Laufkalender. Laut LG Donau-Ries startet die Langstrecke (ca. 10 km) wie gewohnt um 10:00 Uhr, Kurzstrecke (3 km) und Walker (7 km) etwa 5 Minuten später",
+   "checked": "2026-11-07",
+   "fee": "Erwachsene 10 km: Einzelanmeldung 12 €; ganze Serie online 30 € (bei Anmeldung am ersten Lauf 35 €)",
+   "start_time": "10:00"
+  },
+  {
+   "id": "kunstweglauf-rednitzhembach-2026",
+   "type": "road",
+   "name": "Kunstweglauf Rednitzhembach",
+   "place": "Rednitzhembach",
+   "bezirk": "Mittelfranken",
+   "kreis": "LK Roth",
+   "lat": 49.301,
+   "lon": 11.08,
+   "date": "2026-11-21",
+   "confirmed": true,
+   "distances": [
+    "10"
+   ],
+   "url": "https://www.kunstweg-rednitzhembach.de/",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "21. Kunstweglauf. Termin laut BLV-Laufkalender; Strecke (10 km, dazu Kinderlauf) laut Terminportal TrainerDay, entlang des Kunstwegs mit Kunstinstallationen.",
+   "checked": "2026-11-07"
+  },
+  {
+   "id": "goldbacher-winter-crosslaufserie-2-lauf-2026",
+   "type": "trail",
+   "name": "Goldbacher Winter Crosslaufserie, 2. Lauf",
+   "place": "Goldbach",
+   "lat": 50.006,
+   "lon": 9.175,
+   "date": "2026-11-15",
+   "end": null,
+   "confirmed": true,
+   "prev_date": null,
+   "distances": [
+    "10"
+   ],
+   "url": "https://www.tv-goldbach.de/wintercross/content/mainstart.php",
+   "source": "https://www.tv-goldbach.de/wintercross/content/newsansicht.php?parent=news&id=10",
+   "kreis": "LK Aschaffenburg",
+   "start_place": "Edelweißkapelle, 63773 Goldbach",
+   "start_time": "09:30",
+   "info": "Veranstalter: TV 1897 Goldbach. 2. von 9 Läufen der 43. Serie (Cross on Edelweiss), jeder Sonntag einzeln startbar. Einzelstart nur per E-Mail bis Samstag 12:00 Uhr vor dem Lauf. Zusatzwertungen: Team, Familie, Mixed, Long Distance (80 km)",
+   "gear_open": "nicht geprüft",
+   "bezirk": "Unterfranken",
+   "checked": "2026-11-07",
+   "elevation": [
+    250
+   ],
+   "fee": "Einzelstart 14 € (Schüler/Jugendliche 12 €) pro Lauf; Serie aller 9 Läufe 55 € (Schüler/Jugendliche 45 €), mit Langarm-Shirt 65 € (55 €) bei Meldung bis 20.10.2026",
+   "reg_close": "2026-11-14",
+   "late_reg": "Keine Anmeldung oder Nachmeldung an den Laufsonntagen; Einzelstart nur per E-Mail bis Samstag 12:00 Uhr vor dem Lauf, Serie über das Online-Tool",
+   "pickup": "Serien-Startnummern an Service-Days im Vereinsheim (12.–24.10.2026) oder am Laufsonntag bis 09:00 Uhr am Start/Ziel; Einzel-Startnummern bis 09:00 Uhr (Walking bis 08:30 Uhr)",
+   "parking": "Begrenzt an der Edelweißkapelle; empfohlen: Parkplatz am Goldbacher Waldschwimmbad (kurzer Fußweg) sowie TV-Sportpark Westseite; nur ortseinwärts am Straßenrand parken, absolutes Halteverbot Richtung Kapelle",
+   "aid": "Zielgetränk „Cross on Edelweiss Tee“ im Mehrwegbecher; Imbiss, Kuchen und Kaffee im TV-Vereinsheim (après cross)",
+   "showers": "Umkleide und Duschen in der TV-Sporthalle, Mühlstraße 18",
+   "note": "43. Serie mit 9 Läufen (08.11., 15.11., 22.11., 29.11., 06.12., 13.12.2026, 03.01., 10.01., 17.01.2027), jeweils 10 km; ca. 250 Hm, Waldwege, Pfade und kleine Trailpassagen; Wanderer ab 07:30, Walking 08:40, Hauptlauf 09:30, Zielschluss 11:00; Hunde nicht erlaubt; Wertung aus den besten 5 Zeiten"
+  },
+  {
+   "id": "goldbacher-winter-crosslaufserie-3-lauf-2026",
+   "type": "trail",
+   "name": "Goldbacher Winter Crosslaufserie, 3. Lauf",
+   "place": "Goldbach",
+   "lat": 50.006,
+   "lon": 9.175,
+   "date": "2026-11-22",
+   "end": null,
+   "confirmed": true,
+   "prev_date": null,
+   "distances": [
+    "10"
+   ],
+   "url": "https://www.tv-goldbach.de/wintercross/content/mainstart.php",
+   "source": "https://www.tv-goldbach.de/wintercross/content/newsansicht.php?parent=news&id=10",
+   "kreis": "LK Aschaffenburg",
+   "start_place": "Edelweißkapelle, 63773 Goldbach",
+   "start_time": "09:30",
+   "info": "Veranstalter: TV 1897 Goldbach. 3. von 9 Läufen der 43. Serie (Cross on Edelweiss), jeder Sonntag einzeln startbar. Einzelstart nur per E-Mail bis Samstag 12:00 Uhr vor dem Lauf. Zusatzwertungen: Team, Familie, Mixed, Long Distance (80 km)",
+   "gear_open": "nicht geprüft",
+   "bezirk": "Unterfranken",
+   "checked": "2026-11-07",
+   "elevation": [
+    250
+   ],
+   "fee": "Einzelstart 14 € (Schüler/Jugendliche 12 €) pro Lauf; Serie aller 9 Läufe 55 € (Schüler/Jugendliche 45 €), mit Langarm-Shirt 65 € (55 €) bei Meldung bis 20.10.2026",
+   "reg_close": "2026-11-21",
+   "late_reg": "Keine Anmeldung oder Nachmeldung an den Laufsonntagen; Einzelstart nur per E-Mail bis Samstag 12:00 Uhr vor dem Lauf, Serie über das Online-Tool",
+   "pickup": "Serien-Startnummern an Service-Days im Vereinsheim (12.–24.10.2026) oder am Laufsonntag bis 09:00 Uhr am Start/Ziel; Einzel-Startnummern bis 09:00 Uhr (Walking bis 08:30 Uhr)",
+   "parking": "Begrenzt an der Edelweißkapelle; empfohlen: Parkplatz am Goldbacher Waldschwimmbad (kurzer Fußweg) sowie TV-Sportpark Westseite; nur ortseinwärts am Straßenrand parken, absolutes Halteverbot Richtung Kapelle",
+   "aid": "Zielgetränk „Cross on Edelweiss Tee“ im Mehrwegbecher; Imbiss, Kuchen und Kaffee im TV-Vereinsheim (après cross)",
+   "showers": "Umkleide und Duschen in der TV-Sporthalle, Mühlstraße 18",
+   "note": "43. Serie mit 9 Läufen (08.11., 15.11., 22.11., 29.11., 06.12., 13.12.2026, 03.01., 10.01., 17.01.2027), jeweils 10 km; ca. 250 Hm, Waldwege, Pfade und kleine Trailpassagen; Wanderer ab 07:30, Walking 08:40, Hauptlauf 09:30, Zielschluss 11:00; Hunde nicht erlaubt; Wertung aus den besten 5 Zeiten"
+  },
+  {
+   "id": "goldbacher-winter-crosslaufserie-4-lauf-2026",
+   "type": "trail",
+   "name": "Goldbacher Winter Crosslaufserie, 4. Lauf",
+   "place": "Goldbach",
+   "lat": 50.006,
+   "lon": 9.175,
+   "date": "2026-11-29",
+   "end": null,
+   "confirmed": true,
+   "prev_date": null,
+   "distances": [
+    "10"
+   ],
+   "url": "https://www.tv-goldbach.de/wintercross/content/mainstart.php",
+   "source": "https://www.tv-goldbach.de/wintercross/content/newsansicht.php?parent=news&id=10",
+   "kreis": "LK Aschaffenburg",
+   "start_place": "Edelweißkapelle, 63773 Goldbach",
+   "start_time": "09:30",
+   "info": "Veranstalter: TV 1897 Goldbach. 4. von 9 Läufen der 43. Serie (Cross on Edelweiss), jeder Sonntag einzeln startbar. Einzelstart nur per E-Mail bis Samstag 12:00 Uhr vor dem Lauf. Zusatzwertungen: Team, Familie, Mixed, Long Distance (80 km)",
+   "gear_open": "nicht geprüft",
+   "bezirk": "Unterfranken",
+   "checked": "2026-11-07",
+   "elevation": [
+    250
+   ],
+   "fee": "Einzelstart 14 € (Schüler/Jugendliche 12 €) pro Lauf; Serie aller 9 Läufe 55 € (Schüler/Jugendliche 45 €), mit Langarm-Shirt 65 € (55 €) bei Meldung bis 20.10.2026",
+   "reg_close": "2026-11-28",
+   "late_reg": "Keine Anmeldung oder Nachmeldung an den Laufsonntagen; Einzelstart nur per E-Mail bis Samstag 12:00 Uhr vor dem Lauf, Serie über das Online-Tool",
+   "pickup": "Serien-Startnummern an Service-Days im Vereinsheim (12.–24.10.2026) oder am Laufsonntag bis 09:00 Uhr am Start/Ziel; Einzel-Startnummern bis 09:00 Uhr (Walking bis 08:30 Uhr)",
+   "parking": "Begrenzt an der Edelweißkapelle; empfohlen: Parkplatz am Goldbacher Waldschwimmbad (kurzer Fußweg) sowie TV-Sportpark Westseite; nur ortseinwärts am Straßenrand parken, absolutes Halteverbot Richtung Kapelle",
+   "aid": "Zielgetränk „Cross on Edelweiss Tee“ im Mehrwegbecher; Imbiss, Kuchen und Kaffee im TV-Vereinsheim (après cross)",
+   "showers": "Umkleide und Duschen in der TV-Sporthalle, Mühlstraße 18",
+   "note": "43. Serie mit 9 Läufen (08.11., 15.11., 22.11., 29.11., 06.12., 13.12.2026, 03.01., 10.01., 17.01.2027), jeweils 10 km; ca. 250 Hm, Waldwege, Pfade und kleine Trailpassagen; Wanderer ab 07:30, Walking 08:40, Hauptlauf 09:30, Zielschluss 11:00; Hunde nicht erlaubt; Wertung aus den besten 5 Zeiten"
+  },
+  {
+   "id": "goldbacher-winter-crosslaufserie-5-lauf-2026",
+   "type": "trail",
+   "name": "Goldbacher Winter Crosslaufserie, 5. Lauf",
+   "place": "Goldbach",
+   "lat": 50.006,
+   "lon": 9.175,
+   "date": "2026-12-06",
+   "end": null,
+   "confirmed": true,
+   "prev_date": null,
+   "distances": [
+    "10"
+   ],
+   "url": "https://www.tv-goldbach.de/wintercross/content/mainstart.php",
+   "source": "https://www.tv-goldbach.de/wintercross/content/newsansicht.php?parent=news&id=10",
+   "kreis": "LK Aschaffenburg",
+   "start_place": "Edelweißkapelle, 63773 Goldbach",
+   "start_time": "09:30",
+   "info": "Veranstalter: TV 1897 Goldbach. 5. von 9 Läufen der 43. Serie (Cross on Edelweiss), jeder Sonntag einzeln startbar. Einzelstart nur per E-Mail bis Samstag 12:00 Uhr vor dem Lauf. Zusatzwertungen: Team, Familie, Mixed, Long Distance (80 km)",
+   "gear_open": "nicht geprüft",
+   "bezirk": "Unterfranken",
+   "checked": "2026-11-07",
+   "elevation": [
+    250
+   ],
+   "fee": "Einzelstart 14 € (Schüler/Jugendliche 12 €) pro Lauf; Serie aller 9 Läufe 55 € (Schüler/Jugendliche 45 €), mit Langarm-Shirt 65 € (55 €) bei Meldung bis 20.10.2026",
+   "reg_close": "2026-12-05",
+   "late_reg": "Keine Anmeldung oder Nachmeldung an den Laufsonntagen; Einzelstart nur per E-Mail bis Samstag 12:00 Uhr vor dem Lauf, Serie über das Online-Tool",
+   "pickup": "Serien-Startnummern an Service-Days im Vereinsheim (12.–24.10.2026) oder am Laufsonntag bis 09:00 Uhr am Start/Ziel; Einzel-Startnummern bis 09:00 Uhr (Walking bis 08:30 Uhr)",
+   "parking": "Begrenzt an der Edelweißkapelle; empfohlen: Parkplatz am Goldbacher Waldschwimmbad (kurzer Fußweg) sowie TV-Sportpark Westseite; nur ortseinwärts am Straßenrand parken, absolutes Halteverbot Richtung Kapelle",
+   "aid": "Zielgetränk „Cross on Edelweiss Tee“ im Mehrwegbecher; Imbiss, Kuchen und Kaffee im TV-Vereinsheim (après cross)",
+   "showers": "Umkleide und Duschen in der TV-Sporthalle, Mühlstraße 18",
+   "note": "43. Serie mit 9 Läufen (08.11., 15.11., 22.11., 29.11., 06.12., 13.12.2026, 03.01., 10.01., 17.01.2027), jeweils 10 km; ca. 250 Hm, Waldwege, Pfade und kleine Trailpassagen; Wanderer ab 07:30, Walking 08:40, Hauptlauf 09:30, Zielschluss 11:00; Hunde nicht erlaubt; Wertung aus den besten 5 Zeiten"
+  },
+  {
+   "id": "goldbacher-winter-crosslaufserie-6-lauf-2026",
+   "type": "trail",
+   "name": "Goldbacher Winter Crosslaufserie, 6. Lauf",
+   "place": "Goldbach",
+   "lat": 50.006,
+   "lon": 9.175,
+   "date": "2026-12-13",
+   "end": null,
+   "confirmed": true,
+   "prev_date": null,
+   "distances": [
+    "10"
+   ],
+   "url": "https://www.tv-goldbach.de/wintercross/content/mainstart.php",
+   "source": "https://www.tv-goldbach.de/wintercross/content/newsansicht.php?parent=news&id=10",
+   "kreis": "LK Aschaffenburg",
+   "start_place": "Edelweißkapelle, 63773 Goldbach",
+   "start_time": "09:30",
+   "info": "Veranstalter: TV 1897 Goldbach. 6. von 9 Läufen der 43. Serie (Cross on Edelweiss), jeder Sonntag einzeln startbar. Einzelstart nur per E-Mail bis Samstag 12:00 Uhr vor dem Lauf. Zusatzwertungen: Team, Familie, Mixed, Long Distance (80 km)",
+   "gear_open": "nicht geprüft",
+   "bezirk": "Unterfranken",
+   "checked": "2026-11-07",
+   "elevation": [
+    250
+   ],
+   "fee": "Einzelstart 14 € (Schüler/Jugendliche 12 €) pro Lauf; Serie aller 9 Läufe 55 € (Schüler/Jugendliche 45 €), mit Langarm-Shirt 65 € (55 €) bei Meldung bis 20.10.2026",
+   "reg_close": "2026-12-12",
+   "late_reg": "Keine Anmeldung oder Nachmeldung an den Laufsonntagen; Einzelstart nur per E-Mail bis Samstag 12:00 Uhr vor dem Lauf, Serie über das Online-Tool",
+   "pickup": "Serien-Startnummern an Service-Days im Vereinsheim (12.–24.10.2026) oder am Laufsonntag bis 09:00 Uhr am Start/Ziel; Einzel-Startnummern bis 09:00 Uhr (Walking bis 08:30 Uhr)",
+   "parking": "Begrenzt an der Edelweißkapelle; empfohlen: Parkplatz am Goldbacher Waldschwimmbad (kurzer Fußweg) sowie TV-Sportpark Westseite; nur ortseinwärts am Straßenrand parken, absolutes Halteverbot Richtung Kapelle",
+   "aid": "Zielgetränk „Cross on Edelweiss Tee“ im Mehrwegbecher; Imbiss, Kuchen und Kaffee im TV-Vereinsheim (après cross)",
+   "showers": "Umkleide und Duschen in der TV-Sporthalle, Mühlstraße 18",
+   "note": "43. Serie mit 9 Läufen (08.11., 15.11., 22.11., 29.11., 06.12., 13.12.2026, 03.01., 10.01., 17.01.2027), jeweils 10 km; ca. 250 Hm, Waldwege, Pfade und kleine Trailpassagen; Wanderer ab 07:30, Walking 08:40, Hauptlauf 09:30, Zielschluss 11:00; Hunde nicht erlaubt; Wertung aus den besten 5 Zeiten"
+  },
+  {
+   "id": "goldbacher-winter-crosslaufserie-7-lauf-2027",
+   "type": "trail",
+   "name": "Goldbacher Winter Crosslaufserie, 7. Lauf",
+   "place": "Goldbach",
+   "lat": 50.006,
+   "lon": 9.175,
+   "date": "2027-01-03",
+   "end": null,
+   "confirmed": true,
+   "prev_date": null,
+   "distances": [
+    "10"
+   ],
+   "url": "https://www.tv-goldbach.de/wintercross/content/mainstart.php",
+   "source": "https://www.tv-goldbach.de/wintercross/content/newsansicht.php?parent=news&id=10",
+   "kreis": "LK Aschaffenburg",
+   "start_place": "Edelweißkapelle, 63773 Goldbach",
+   "start_time": "09:30",
+   "info": "Veranstalter: TV 1897 Goldbach. 7. von 9 Läufen der 43. Serie (Cross on Edelweiss), jeder Sonntag einzeln startbar. Einzelstart nur per E-Mail bis Samstag 12:00 Uhr vor dem Lauf. Zusatzwertungen: Team, Familie, Mixed, Long Distance (80 km)",
+   "gear_open": "nicht geprüft",
+   "bezirk": "Unterfranken",
+   "checked": "2026-11-07",
+   "elevation": [
+    250
+   ],
+   "fee": "Einzelstart 14 € (Schüler/Jugendliche 12 €) pro Lauf; Serie aller 9 Läufe 55 € (Schüler/Jugendliche 45 €), mit Langarm-Shirt 65 € (55 €) bei Meldung bis 20.10.2026",
+   "reg_close": "2027-01-02",
+   "late_reg": "Keine Anmeldung oder Nachmeldung an den Laufsonntagen; Einzelstart nur per E-Mail bis Samstag 12:00 Uhr vor dem Lauf, Serie über das Online-Tool",
+   "pickup": "Serien-Startnummern an Service-Days im Vereinsheim (12.–24.10.2026) oder am Laufsonntag bis 09:00 Uhr am Start/Ziel; Einzel-Startnummern bis 09:00 Uhr (Walking bis 08:30 Uhr)",
+   "parking": "Begrenzt an der Edelweißkapelle; empfohlen: Parkplatz am Goldbacher Waldschwimmbad (kurzer Fußweg) sowie TV-Sportpark Westseite; nur ortseinwärts am Straßenrand parken, absolutes Halteverbot Richtung Kapelle",
+   "aid": "Zielgetränk „Cross on Edelweiss Tee“ im Mehrwegbecher; Imbiss, Kuchen und Kaffee im TV-Vereinsheim (après cross)",
+   "showers": "Umkleide und Duschen in der TV-Sporthalle, Mühlstraße 18",
+   "note": "43. Serie mit 9 Läufen (08.11., 15.11., 22.11., 29.11., 06.12., 13.12.2026, 03.01., 10.01., 17.01.2027), jeweils 10 km; ca. 250 Hm, Waldwege, Pfade und kleine Trailpassagen; Wanderer ab 07:30, Walking 08:40, Hauptlauf 09:30, Zielschluss 11:00; Hunde nicht erlaubt; Wertung aus den besten 5 Zeiten"
+  },
+  {
+   "id": "goldbacher-winter-crosslaufserie-8-lauf-2027",
+   "type": "trail",
+   "name": "Goldbacher Winter Crosslaufserie, 8. Lauf",
+   "place": "Goldbach",
+   "lat": 50.006,
+   "lon": 9.175,
+   "date": "2027-01-10",
+   "end": null,
+   "confirmed": true,
+   "prev_date": null,
+   "distances": [
+    "10"
+   ],
+   "url": "https://www.tv-goldbach.de/wintercross/content/mainstart.php",
+   "source": "https://www.tv-goldbach.de/wintercross/content/newsansicht.php?parent=news&id=10",
+   "kreis": "LK Aschaffenburg",
+   "start_place": "Edelweißkapelle, 63773 Goldbach",
+   "start_time": "09:30",
+   "info": "Veranstalter: TV 1897 Goldbach. 8. von 9 Läufen der 43. Serie (Cross on Edelweiss), jeder Sonntag einzeln startbar. Einzelstart nur per E-Mail bis Samstag 12:00 Uhr vor dem Lauf. Zusatzwertungen: Team, Familie, Mixed, Long Distance (80 km)",
+   "gear_open": "nicht geprüft",
+   "bezirk": "Unterfranken",
+   "checked": "2026-11-07",
+   "elevation": [
+    250
+   ],
+   "fee": "Einzelstart 14 € (Schüler/Jugendliche 12 €) pro Lauf; Serie aller 9 Läufe 55 € (Schüler/Jugendliche 45 €), mit Langarm-Shirt 65 € (55 €) bei Meldung bis 20.10.2026",
+   "reg_close": "2027-01-09",
+   "late_reg": "Keine Anmeldung oder Nachmeldung an den Laufsonntagen; Einzelstart nur per E-Mail bis Samstag 12:00 Uhr vor dem Lauf, Serie über das Online-Tool",
+   "pickup": "Serien-Startnummern an Service-Days im Vereinsheim (12.–24.10.2026) oder am Laufsonntag bis 09:00 Uhr am Start/Ziel; Einzel-Startnummern bis 09:00 Uhr (Walking bis 08:30 Uhr)",
+   "parking": "Begrenzt an der Edelweißkapelle; empfohlen: Parkplatz am Goldbacher Waldschwimmbad (kurzer Fußweg) sowie TV-Sportpark Westseite; nur ortseinwärts am Straßenrand parken, absolutes Halteverbot Richtung Kapelle",
+   "aid": "Zielgetränk „Cross on Edelweiss Tee“ im Mehrwegbecher; Imbiss, Kuchen und Kaffee im TV-Vereinsheim (après cross)",
+   "showers": "Umkleide und Duschen in der TV-Sporthalle, Mühlstraße 18",
+   "note": "43. Serie mit 9 Läufen (08.11., 15.11., 22.11., 29.11., 06.12., 13.12.2026, 03.01., 10.01., 17.01.2027), jeweils 10 km; ca. 250 Hm, Waldwege, Pfade und kleine Trailpassagen; Wanderer ab 07:30, Walking 08:40, Hauptlauf 09:30, Zielschluss 11:00; Hunde nicht erlaubt; Wertung aus den besten 5 Zeiten"
+  },
+  {
+   "id": "goldbacher-winter-crosslaufserie-9-lauf-2027",
+   "type": "trail",
+   "name": "Goldbacher Winter Crosslaufserie, 9. Lauf",
+   "place": "Goldbach",
+   "lat": 50.006,
+   "lon": 9.175,
+   "date": "2027-01-17",
+   "end": null,
+   "confirmed": true,
+   "prev_date": null,
+   "distances": [
+    "10"
+   ],
+   "url": "https://www.tv-goldbach.de/wintercross/content/mainstart.php",
+   "source": "https://www.tv-goldbach.de/wintercross/content/newsansicht.php?parent=news&id=10",
+   "kreis": "LK Aschaffenburg",
+   "start_place": "Edelweißkapelle, 63773 Goldbach",
+   "start_time": "09:30",
+   "info": "Veranstalter: TV 1897 Goldbach. 9. von 9 Läufen der 43. Serie (Cross on Edelweiss), jeder Sonntag einzeln startbar. Einzelstart nur per E-Mail bis Samstag 12:00 Uhr vor dem Lauf. Zusatzwertungen: Team, Familie, Mixed, Long Distance (80 km)",
+   "gear_open": "nicht geprüft",
+   "bezirk": "Unterfranken",
+   "checked": "2026-11-07",
+   "elevation": [
+    250
+   ],
+   "fee": "Einzelstart 14 € (Schüler/Jugendliche 12 €) pro Lauf; Serie aller 9 Läufe 55 € (Schüler/Jugendliche 45 €), mit Langarm-Shirt 65 € (55 €) bei Meldung bis 20.10.2026",
+   "reg_close": "2027-01-16",
+   "late_reg": "Keine Anmeldung oder Nachmeldung an den Laufsonntagen; Einzelstart nur per E-Mail bis Samstag 12:00 Uhr vor dem Lauf, Serie über das Online-Tool",
+   "pickup": "Serien-Startnummern an Service-Days im Vereinsheim (12.–24.10.2026) oder am Laufsonntag bis 09:00 Uhr am Start/Ziel; Einzel-Startnummern bis 09:00 Uhr (Walking bis 08:30 Uhr)",
+   "parking": "Begrenzt an der Edelweißkapelle; empfohlen: Parkplatz am Goldbacher Waldschwimmbad (kurzer Fußweg) sowie TV-Sportpark Westseite; nur ortseinwärts am Straßenrand parken, absolutes Halteverbot Richtung Kapelle",
+   "aid": "Zielgetränk „Cross on Edelweiss Tee“ im Mehrwegbecher; Imbiss, Kuchen und Kaffee im TV-Vereinsheim (après cross)",
+   "showers": "Umkleide und Duschen in der TV-Sporthalle, Mühlstraße 18",
+   "note": "43. Serie mit 9 Läufen (08.11., 15.11., 22.11., 29.11., 06.12., 13.12.2026, 03.01., 10.01., 17.01.2027), jeweils 10 km; ca. 250 Hm, Waldwege, Pfade und kleine Trailpassagen; Wanderer ab 07:30, Walking 08:40, Hauptlauf 09:30, Zielschluss 11:00; Hunde nicht erlaubt; Wertung aus den besten 5 Zeiten"
+  },
+  {
+   "id": "ismaninger-winterlaufserie-2-lauf-2027",
+   "type": "road",
+   "name": "Ismaninger Winterlaufserie, 2. Lauf (17 km)",
+   "place": "Ismaning",
+   "lat": 48.226,
+   "lon": 11.676,
+   "date": "2027-01-17",
+   "end": null,
+   "confirmed": true,
+   "prev_date": null,
+   "distances": [
+    "17"
+   ],
+   "elevation": null,
+   "note": "Serie bis Februar",
+   "url": "https://www.sas-online.net/eventportal_bs/840/",
+   "reg_open": null,
+   "reg_close": null,
+   "fee": "13 km 29 € · Speed-/Schülerlauf 11 € · Serie 3 Läufe 69 € · 2 Läufe 58 € · Schüler-/Speedlauf-Serie 24 € (2 Läufe 22 €)",
+   "start_time": "10:00",
+   "checked": "2026-11-07",
+   "source": "https://running.life/de/termine/ismaninger-winterlaufserie/2026-12-13",
+   "start_place": "Sportpark Ismaning, Grünfleckstraße 1, 85737 Ismaning",
+   "aid": "Faltbecher gratis bei der Startnummernausgabe (für Zielverpflegung)",
+   "course": "Vermessene Strecke entlang der Isar und des Isar-Radwegs, Start und Ziel am Sportstadion Ismaning",
+   "pickup": "Ab 08:15 Uhr in der Stockschützenhalle direkt am Veranstaltungsgelände",
+   "parking": "Kostenloser Shuttlebus ab S-Bahn Ismaning; Parkplätze vor Ort; erster Shuttle 08:02 für S-Bahn aus München (Stand 2025)",
+   "gear": null,
+   "gear_note": null,
+   "profile": null,
+   "gpx": null,
+   "limit": null,
+   "sold_out": null,
+   "cutoff": null,
+   "included": "Professionelle Fotos, Chipgebühr, Verpflegung (Wasser, Tee, Snacks) an Versorgungsstellen und im Ziel; Langarmshirt bei Serienanmeldung bis 31.10.2026",
+   "late_reg": "Möglich, vor Ort gegen Bargeld; Aufschlag nicht angegeben (Stand 2025)",
+   "info": "2. Lauf der Ismaninger Winterlaufserie über 17 km, Start 10:00 Uhr; Termin auch laut BLV-Laufkalender.",
+   "bezirk": "Oberbayern",
+   "kreis": "LK München",
+   "showers": "Umkleidekabinen vorhanden, aber klein (Stand 2025)"
+  },
+  {
+   "id": "ismaninger-winterlaufserie-3-lauf-2027",
+   "type": "road",
+   "name": "Ismaninger Winterlaufserie, 3. Lauf (Halbmarathon)",
+   "place": "Ismaning",
+   "lat": 48.226,
+   "lon": 11.676,
+   "date": "2027-02-21",
+   "end": null,
+   "confirmed": true,
+   "prev_date": null,
+   "distances": [
+    "HM"
+   ],
+   "elevation": null,
+   "note": "Serie bis Februar",
+   "url": "https://www.sas-online.net/eventportal_bs/840/",
+   "reg_open": null,
+   "reg_close": null,
+   "fee": "13 km 29 € · Speed-/Schülerlauf 11 € · Serie 3 Läufe 69 € · 2 Läufe 58 € · Schüler-/Speedlauf-Serie 24 € (2 Läufe 22 €)",
+   "start_time": "10:00",
+   "checked": "2026-11-07",
+   "source": "https://running.life/de/termine/ismaninger-winterlaufserie/2026-12-13",
+   "start_place": "Sportpark Ismaning, Grünfleckstraße 1, 85737 Ismaning",
+   "aid": "Faltbecher gratis bei der Startnummernausgabe (für Zielverpflegung)",
+   "course": "Vermessene Strecke entlang der Isar und des Isar-Radwegs, Start und Ziel am Sportstadion Ismaning",
+   "pickup": "Ab 08:15 Uhr in der Stockschützenhalle direkt am Veranstaltungsgelände",
+   "parking": "Kostenloser Shuttlebus ab S-Bahn Ismaning; Parkplätze vor Ort; erster Shuttle 08:02 für S-Bahn aus München (Stand 2025)",
+   "gear": null,
+   "gear_note": null,
+   "profile": null,
+   "gpx": null,
+   "limit": null,
+   "sold_out": null,
+   "cutoff": null,
+   "included": "Professionelle Fotos, Chipgebühr, Verpflegung (Wasser, Tee, Snacks) an Versorgungsstellen und im Ziel; Langarmshirt bei Serienanmeldung bis 31.10.2026",
+   "late_reg": "Möglich, vor Ort gegen Bargeld; Aufschlag nicht angegeben (Stand 2025)",
+   "info": "3. Lauf der Ismaninger Winterlaufserie über die Halbmarathondistanz, Start 10:00 Uhr; Termin auch laut BLV-Laufkalender.",
+   "bezirk": "Oberbayern",
+   "kreis": "LK München",
+   "showers": "Umkleidekabinen vorhanden, aber klein (Stand 2025)"
+  },
+  {
+   "id": "nurnberger-winterlaufserie-2-lauf-2027",
+   "type": "road",
+   "name": "Nürnberger Winterlaufserie, 2. Lauf",
+   "place": "Nürnberg (Dutzendteich)",
+   "lat": 49.431,
+   "lon": 11.116,
+   "date": "2027-01-17",
+   "confirmed": true,
+   "distances": [
+    "10",
+    "15"
+   ],
+   "note": "Serie mit 3 Läufen: 15.11.2026 5/10 km, 17.01.2027 10/15 km, 07.02.2027 10/20 km; Cup-Wertung groß (10/15/20) und klein (5/10/10); Veranstalter runningConcepts",
+   "url": "https://runningconcepts.de/nuernberger-winterlaufserie",
+   "source": "https://runningconcepts.de/nuernberger-winterlaufserie",
+   "checked": "2026-11-07",
+   "fee": "Lauf 1: 10 km 22 €, 5 km 12 €; Lauf 2: 15 km 23 €, 10 km 22 €; Lauf 3: 20 km 25 €, 10 km 22 €; Serie groß 65 €, klein 55 € (nur vor Lauf 1 buchbar); Nachmeldung +5 €",
+   "reg_close": "2027-01-15",
+   "start_time": null,
+   "start_place": "Gutmann am Dutzendteich, Bayernstr. 150, Nürnberg",
+   "pickup": "Vortag (Sa) 11:00–15:00 im Café Pure Food, Reichstr. 10, Nürnberg; am Lauftag ab 07:00 bis 30 min vor Start am Start",
+   "parking": "An der großen Straße",
+   "aid": "Tee, Wasser und Energieriegel im Start-/Zielbereich",
+   "course": "5-km-Runde um Dutzendteich und Silbersee auf Schotter- und teils asphaltierten Wegen; im Winter evtl. Eis/Schnee, nicht vollständig geräumt",
+   "late_reg": "Nur persönlich bei der Startnummernausgabe oder vor Ort bis 45 min vor Start, +5 €",
+   "info": "2. Lauf der Nürnberger Winterlaufserie (10 und 15 km). Meldeschluss Einzellauf Freitag, 15.01.2027; 2 € je Teilnehmer an Engelein e.V.; Umkleiden und Siegerehrung im Gutmann am Dutzendteich.",
+   "bezirk": "Mittelfranken",
+   "kreis": "Stadt Nürnberg",
+   "showers": "Umkleiden im Gutmann am Dutzendteich"
+  },
+  {
+   "id": "nurnberger-winterlaufserie-3-lauf-2027",
+   "type": "road",
+   "name": "Nürnberger Winterlaufserie, 3. Lauf",
+   "place": "Nürnberg (Dutzendteich)",
+   "lat": 49.431,
+   "lon": 11.116,
+   "date": "2027-02-07",
+   "confirmed": true,
+   "distances": [
+    "10",
+    "20"
+   ],
+   "note": "Serie mit 3 Läufen: 15.11.2026 5/10 km, 17.01.2027 10/15 km, 07.02.2027 10/20 km; Cup-Wertung groß (10/15/20) und klein (5/10/10); Veranstalter runningConcepts",
+   "url": "https://runningconcepts.de/nuernberger-winterlaufserie",
+   "source": "https://runningconcepts.de/nuernberger-winterlaufserie",
+   "checked": "2026-11-07",
+   "fee": "Lauf 1: 10 km 22 €, 5 km 12 €; Lauf 2: 15 km 23 €, 10 km 22 €; Lauf 3: 20 km 25 €, 10 km 22 €; Serie groß 65 €, klein 55 € (nur vor Lauf 1 buchbar); Nachmeldung +5 €",
+   "reg_close": "2027-02-05",
+   "start_time": "08:30",
+   "start_place": "Gutmann am Dutzendteich, Bayernstr. 150, Nürnberg",
+   "pickup": "Vortag (Sa) 11:00–15:00 im Café Pure Food, Reichstr. 10, Nürnberg; am Lauftag ab 07:00 bis 30 min vor Start am Start",
+   "parking": "An der großen Straße",
+   "aid": "Tee, Wasser und Energieriegel im Start-/Zielbereich",
+   "course": "5-km-Runde um Dutzendteich und Silbersee auf Schotter- und teils asphaltierten Wegen; im Winter evtl. Eis/Schnee, nicht vollständig geräumt",
+   "late_reg": "Nur persönlich bei der Startnummernausgabe oder vor Ort bis 45 min vor Start, +5 €",
+   "info": "3. Lauf der Nürnberger Winterlaufserie (10 und 20 km), Start 08:30 Uhr. Meldeschluss Einzellauf Freitag, 05.02.2027; 2 € je Teilnehmer an Engelein e.V.; Umkleiden und Siegerehrung im Gutmann am Dutzendteich.",
+   "bezirk": "Mittelfranken",
+   "kreis": "Stadt Nürnberg",
+   "showers": "Umkleiden im Gutmann am Dutzendteich"
+  },
+  {
+   "id": "rothseelauf-2027",
+   "type": "road",
+   "name": "Rothseelauf",
+   "place": "Roth-Birkach",
+   "bezirk": "Mittelfranken",
+   "kreis": "LK Roth",
+   "lat": 49.26,
+   "lon": 11.146,
+   "date": "2027-03-07",
+   "confirmed": true,
+   "distances": [
+    "5,2",
+    "10,4"
+   ],
+   "url": "https://runningconcepts.de/rothseelauf",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "34. Rothseelauf um den kleinen Rothsee, Teil des BLV-Läufercups. Termin laut BLV-Laufkalender; Strecken laut running.life (Ausgabe 2026). Im März kann die Strecke noch Eis- oder Schneereste haben. Werte 2026: Hobbylauf 5,2 km 09:30 Uhr, Hauptlauf 10,4 km 10:30 Uhr, Online-Anmeldung bis zum Vortag",
+   "checked": "2026-11-07",
+   "start_place": "Strandhaus Birkach, Uferweg 2, 91154 Roth",
+   "showers": "Umkleiden beim Strandhaus Birkach, keine Duschen (Stand 2026)",
+   "prev": {
+    "fee": "Hauptlauf 10,4 km 15 €, Hobbylauf 5,2 km 10 € (Nachmeldung +5 €)",
+    "start_time": "10:30",
+    "parking": "Am Rothsee, den Parkschildern folgen",
+    "pickup": "Am Lauftag ab 8:00 Uhr im Start-/Zielbereich Strandhaus Birkach (Sicherheitsnadeln mitbringen)"
+   }
+  },
+  {
+   "id": "ampermarathon-2027",
+   "type": "road",
+   "name": "Ampermarathon",
+   "place": "Olching",
+   "bezirk": "Oberbayern",
+   "kreis": "LK Fürstenfeldbruck",
+   "lat": 48.2,
+   "lon": 11.333,
+   "date": "2027-04-25",
+   "confirmed": true,
+   "distances": [
+    "14",
+    "28",
+    "M"
+   ],
+   "url": "https://www.schwaigfeld.de/gemeinsam-aktiv-nachbarschaft/ampermarathon/",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "6. Ampermarathon auf einem GPS-vermessenen Rundkurs (ca. 14 km) entlang der Amper Richtung Dachau und zurück. Termin laut BLV-Laufkalender; 2026 war der Lauf mit 400 Plätzen ausgebucht.",
+   "checked": "2026-11-07",
+   "start_place": "Vor dem Amperverband, Josef-Kistler-Weg, Olching",
+   "prev": {
+    "limit": "400 Teilnehmende"
+   }
+  },
+  {
+   "id": "indersdorfer-strassenlauf-2027",
+   "type": "road",
+   "name": "Indersdorfer Straßenlauf",
+   "place": "Markt Indersdorf",
+   "bezirk": "Oberbayern",
+   "kreis": "LK Dachau",
+   "lat": 48.361,
+   "lon": 11.378,
+   "date": "2027-07-31",
+   "confirmed": true,
+   "distances": [
+    "10"
+   ],
+   "url": "https://running.life/de/termine/indersdorfer-strassenlauf",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "32. Indersdorfer Straßenlauf der SG Indersdorf, 10 km für Jugendliche und Erwachsene sowie Kinderläufe. Termin laut BLV-Laufkalender.",
+   "checked": "2026-11-07",
+   "start_place": "Marktplatz Markt Indersdorf"
+  },
+  {
+   "id": "olympiaberg-cross-muenchen-2027",
+   "type": "trail",
+   "name": "Olympiaberg-Cross München",
+   "place": "München (Olympiapark)",
+   "bezirk": "Oberbayern",
+   "kreis": "Stadt München",
+   "lat": 48.179,
+   "lon": 11.562,
+   "date": "2027-10-24",
+   "confirmed": true,
+   "distances": [
+    "7",
+    "8"
+   ],
+   "url": "https://olympiaberg-cross-muenchen.de/",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "13. Olympiaberg-Cross mit Deutschem Cross-Cup: Runde von ca. 1,1 km am Olympiaberg mit Steigungen und Strohballen. Termin laut BLV-Laufkalender; Strecken laut running.life. 2026: Meldeschluss am Dienstag vor dem Lauf, danach Online-Nachmeldung bis 60 Minuten vor dem Start",
+   "checked": "2026-11-07",
+   "showers": "Keine Duschen am Veranstaltungsort; in der Olympia-Schwimmhalle gegen Eintritt (Stand 2026)",
+   "start_place": "Freifläche am Olympiaberg, Olympiapark München (Runde ca. 1,1 km)",
+   "prev": {
+    "fee": "Männer/Frauen 18 €, Jugend, Kinder und Barfußlauf je 8 € (nach Meldeschluss +7 €)",
+    "parking": "Kostenpflichtig: Parkhaus Olympiazentrum (Helene-Mayer-Ring 3), Parkhaus BMW Welt (Lerchenauer Straße), Parkplatz am Olympia-Eisstadion",
+    "pickup": "Am Veranstaltungstag am Veranstaltungsort"
+   }
+  },
+  {
+   "id": "ruhpoldinger-meile-2027",
+   "type": "road",
+   "name": "Ruhpoldinger Meile",
+   "place": "Ruhpolding",
+   "bezirk": "Oberbayern",
+   "kreis": "LK Traunstein",
+   "lat": 47.767,
+   "lon": 12.65,
+   "date": "2027-04-24",
+   "confirmed": true,
+   "distances": [
+    "7,2"
+   ],
+   "url": "https://www.runnersworld.de/laufkalender/ruhpoldinger-meile/",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "Volkslauf über die „Bayerische Meile“ (7,2 km, Rundkurs), dazu die Rauschbergmeile (1 Meile) und Kinderläufe; Veranstalter SV Ruhpolding. Termin laut BLV-Laufkalender; Strecken laut Ausschreibung 2024.",
+   "checked": "2026-11-07",
+   "prev": {
+    "start_place": "Hauptstraße in Höhe Café Chiemgau im Ortskern von Ruhpolding"
+   }
+  },
+  {
+   "id": "wallenstein-halbmarathon-2027",
+   "type": "road",
+   "name": "Wallenstein-Halbmarathon",
+   "place": "Altdorf bei Nürnberg",
+   "bezirk": "Mittelfranken",
+   "kreis": "LK Nürnberger Land",
+   "lat": 49.386,
+   "lon": 11.357,
+   "date": "2027-07-25",
+   "confirmed": true,
+   "distances": [
+    "HM"
+   ],
+   "url": "https://blv-sport.de/laufsport/laufkalender",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "38. Wallenstein-Halbmarathon. Termin und Strecke laut BLV-Laufkalender; weitere Angaben folgen.",
+   "checked": "2026-11-07"
+  },
+  {
+   "id": "suedries-kesseltal-halbmarathon-2027",
+   "type": "road",
+   "name": "Südries-Kesseltal-Halbmarathon",
+   "place": "Mönchsdeggingen",
+   "bezirk": "Schwaben",
+   "kreis": "LK Donau-Ries",
+   "lat": 48.776,
+   "lon": 10.58,
+   "date": "2027-09-18",
+   "confirmed": true,
+   "distances": [
+    "HM"
+   ],
+   "url": "https://blv-sport.de/laufsport/laufkalender",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "2. Südries-Kesseltal-Halbmarathon (mit Philipp Pflieger). Termin laut BLV-Laufkalender; weitere Angaben folgen.",
+   "checked": "2026-11-07"
+  },
+  {
+   "id": "lauf-zum-plossen-moenchsdeggingen-2027",
+   "type": "trail",
+   "name": "Mönchsdegginger Lauf zum Plossen (Jedermannlaufserie Donau-Ries)",
+   "place": "Mönchsdeggingen",
+   "bezirk": "Schwaben",
+   "kreis": "LK Donau-Ries",
+   "lat": 48.776,
+   "lon": 10.58,
+   "date": "2027-10-24",
+   "confirmed": true,
+   "distances": [
+    "10"
+   ],
+   "url": "https://www.lg-donau-ries.de/",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "1. Lauf der Jedermannlaufserie 2027/28 der LG Donau-Ries; Hauptstrecke der Serie ca. 10 km, dazu Kurz- und Hobbystrecken. Termin laut BLV-Laufkalender. Werte der Serie 2026/27 als Vorjahr: Langstrecke 10:00 Uhr, Kurzstrecke und Walker kurz danach",
+   "checked": "2026-11-07",
+   "prev": {
+    "fee": "Erwachsene 10 km: Einzelanmeldung 12 €; ganze Serie online 30 €",
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "lauf-zum-maerchenwald-wemding-2027",
+   "type": "trail",
+   "name": "Lauf zum Märchenwald (Jedermannlaufserie Donau-Ries)",
+   "place": "Wemding",
+   "bezirk": "Schwaben",
+   "kreis": "LK Donau-Ries",
+   "lat": 48.875,
+   "lon": 10.725,
+   "date": "2027-11-21",
+   "confirmed": true,
+   "distances": [
+    "10"
+   ],
+   "url": "https://www.lg-donau-ries.de/",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "Lauf der Jedermannlaufserie 2027/28 der LG Donau-Ries; Hauptstrecke der Serie ca. 10 km, dazu Kurz- und Hobbystrecken. Termin laut BLV-Laufkalender. Werte der Serie 2026/27 als Vorjahr: Langstrecke 10:00 Uhr, Kurzstrecke und Walker kurz danach",
+   "checked": "2026-11-07",
+   "prev": {
+    "fee": "Erwachsene 10 km: Einzelanmeldung 12 €; ganze Serie online 30 €",
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "waldlauf-buchenbach-2027",
+   "type": "trail",
+   "name": "Waldlauf Büchenbach",
+   "place": "Büchenbach (Lkr. Roth)",
+   "lat": 49.267,
+   "lon": 11.059,
+   "date": "2027-02-20",
+   "confirmed": true,
+   "distances": [
+    "3,6",
+    "11"
+   ],
+   "note": "96. Waldlauf des TV 21 Büchenbach; kleine und große Waldrunde",
+   "url": "https://ladv.de/ausschreibung/detail/48864/96.-Waldlauf-B%C3%BCchenbach.htm",
+   "source": "https://ladv.de/ausschreibung/detail/48864/96.-Waldlauf-B%C3%BCchenbach.htm",
+   "checked": "2026-11-07",
+   "start_place": "Fußballplatz TV 21 Büchenbach",
+   "bezirk": "Mittelfranken",
+   "kreis": "LK Roth",
+   "gear_open": "nicht geprüft (kurzer Lauf)",
+   "pickup": "Ausgabe ab 11:00 Uhr im Sportheim",
+   "showers": "Umkleide-, Wasch- und Duschmöglichkeit",
+   "late_reg": "Nachmeldung möglich, +2 € Aufschlag",
+   "info": "97. Waldlauf (der Lauf findet zweimal im Jahr statt). Termin laut BLV-Laufkalender und running.life; Startzeit und Startgeld als Vorjahr vom Herbstlauf übernommen.",
+   "prev": {
+    "start_time": "14:00",
+    "fee": "Erwachsene 8 €, Jugend 5 €, Schüler 4 €; Nachmeldung +2 €"
+   }
+  },
+  {
+   "id": "herzorun-2027",
+   "type": "road",
+   "name": "HerzoRun",
+   "place": "Herzogenaurach",
+   "bezirk": "Mittelfranken",
+   "kreis": "LK Erlangen-Höchstadt",
+   "lat": 49.568,
+   "lon": 10.886,
+   "date": "2027-05-01",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.tsherzogenaurach.de/own_pages/view/12",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "9. HerzoRun der Turnerschaft Herzogenaurach: 10-km-Hauptlauf, 5 km, Nordic Walking, Kinder- und Jugendläufe und Familienstaffel. Termin laut BLV-Laufkalender; Strecken laut running.life (herzorun). 2026: Meldeschluss am Montag vor dem Lauf (23:59 Uhr), Nachmeldung bis eine Stunde vor dem Start",
+   "checked": "2026-11-07",
+   "start_place": "Sportgelände der Turnerschaft Herzogenaurach, Adalbert-Stifter-Str. 50",
+   "showers": "Duschen und Umkleiden im Start-/Zielbereich (Stand 2026)",
+   "prev": {
+    "fee": "Hauptlauf 10 km 15 €, Firmen-/Hobbylauf 9 €, Jugend U14/U16 6 €",
+    "start_time": "10:00",
+    "pickup": "Ab 7:00 Uhr im Wettkampfbüro im TSH-Gebäude"
+   }
+  },
+  {
+   "id": "moritzberglauf-2027",
+   "type": "trail",
+   "name": "Moritzberglauf",
+   "place": "Lauf an der Pegnitz",
+   "bezirk": "Mittelfranken",
+   "kreis": "LK Nürnberger Land",
+   "lat": 49.514,
+   "lon": 11.283,
+   "date": "2027-05-01",
+   "confirmed": true,
+   "distances": [
+    "10"
+   ],
+   "url": "https://skiclub-lauf.de/ausdauersport/moritzberglauf/",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "Berglauf am 1. Mai über rund 10 km mit etwa 365 Höhenmetern auf den Moritzberg; Veranstalter Skiclub Lauf. Termin laut BLV-Laufkalender; Strecken laut running.life (moritzberglauf). Ausschreibung 2025: Start in Lauf-Schönberg, Ziel auf dem Moritzberg; Meldeschluss eine Woche vorher, Nachmeldung bis 9:00 Uhr",
+   "checked": "2026-11-07",
+   "elevation": [
+    365
+   ],
+   "showers": "Umkleiden und Duschen am Startgelände im FSV-Sportheim Schönberg (Stand 2025)",
+   "prev": {
+    "fee": "12 € (Nachmeldung +3 €)",
+    "start_time": "10:00",
+    "start_place": "Lauf-Schönberg, FSV-Sportheim",
+    "pickup": "Sportheim des FSV Schönberg, Nessenmühlstraße 100, am Lauftag ab 8:30 Uhr"
+   }
+  },
+  {
+   "id": "altstadtrun-trostberg-2027",
+   "type": "road",
+   "name": "Trostberger AltstadtRUN",
+   "place": "Trostberg",
+   "bezirk": "Oberbayern",
+   "kreis": "LK Traunstein",
+   "lat": 48.017,
+   "lon": 12.535,
+   "date": "2027-06-12",
+   "confirmed": true,
+   "distances": [
+    "5"
+   ],
+   "url": "https://www.altstadtrun.de/",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "5-km-Hauptrun durch die Altstadt, dazu Jugend-, Kids- und Zwergerlrun. Termin laut BLV-Laufkalender; Strecken laut running.life (altstadtrun-trostberg).",
+   "checked": "2026-11-07"
+  },
+  {
+   "id": "retzbachlauf-gaimersheim-2027",
+   "type": "road",
+   "name": "Retzbachlauf Gaimersheim",
+   "place": "Gaimersheim",
+   "bezirk": "Oberbayern",
+   "kreis": "LK Eichstätt",
+   "lat": 48.807,
+   "lon": 11.368,
+   "date": "2027-06-25",
+   "confirmed": true,
+   "distances": [
+    "6,4",
+    "9,6"
+   ],
+   "url": "https://www.radsport-gaimersheim.de/retzbachlauf",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "Flache Rundkurse auf Schotterwegen im Retzbachpark (Am Steinbruck); Veranstalter TSV Gaimersheim, Abteilung Radsport; Teil des Sport IN Laufcups. Termin laut BLV-Laufkalender; Strecken laut running.life (retzbachlauf-gaimersheim). 2026: Anmeldeschluss am Dienstag vor dem Lauf, Nachmeldung bis 30 Minuten vor dem Start; wegen Hitze wurde 2026 alles um eine Stunde verschoben (Hauptlauf 20:00 Uhr)",
+   "checked": "2026-11-07",
+   "start_place": "Retzbachpark Gaimersheim, Am Steinbruck",
+   "prev": {
+    "fee": "Erwachsene 14 € (Nachmeldung +3 €), Schüler und Jugendliche 5 € (+1 €), Bambini frei",
+    "parking": "Turnhalle, TSV-Sportstätte, Aquamarin, Parkplatz Angermühle, Friedhof, ab 15 Uhr Mittelschule; nicht auf dem Edeka-Parkplatz",
+    "pickup": "Ab 17:00 Uhr am Start/Ziel"
+   }
+  },
+  {
+   "id": "hochstrassenlauf-weisendorf-2027",
+   "type": "road",
+   "name": "Hochstraßenlauf",
+   "place": "Weisendorf",
+   "bezirk": "Mittelfranken",
+   "kreis": "LK Erlangen-Höchstadt",
+   "lat": 49.623,
+   "lon": 10.825,
+   "date": "2027-07-03",
+   "confirmed": true,
+   "distances": [
+    "10"
+   ],
+   "url": "https://www.hochstrassenlauf.de/ausschreibung-2/",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "41. Hochstraßenlauf des Heimatvereins Weisendorf: 10-km-Hauptlauf, 7,5 km Walking und Läufe ab Bambini. Termin laut BLV-Laufkalender; Strecken laut running.life (hochstrassenlauf). 2026: Meldeschluss am Vortag 18 Uhr, Nachmeldung bis eine Stunde vor dem Start (+2 €); Walking 7,5 km um 10:00 Uhr",
+   "checked": "2026-11-07",
+   "start_place": "Museum des Heimatvereins Weisendorf, Reuther Weg 16",
+   "showers": "Umkleiden und Duschen in der Ballsporthalle hinter der Mehrzweckhalle, Reuther Weg 6 (ca. 0,6 km, Stand 2026)",
+   "prev": {
+    "pickup": "Am Freitag vor dem Lauf 16 bis 18 Uhr im Vereinsheim, mit Zahlung der Startgebühr"
+   }
+  },
+  {
+   "id": "hilpoltsteiner-burgfestlauf-2027",
+   "type": "road",
+   "name": "Hilpoltsteiner Burgfestlauf",
+   "place": "Hilpoltstein",
+   "bezirk": "Mittelfranken",
+   "kreis": "LK Roth",
+   "lat": 49.191,
+   "lon": 11.191,
+   "date": "2027-08-01",
+   "confirmed": true,
+   "distances": [
+    "7,6"
+   ],
+   "url": "https://tv-hip.de/burgfestlauf-2026/",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "25. Burgfestlauf am Burgfestsonntag mit Strecken von 600 m bis 7,6 km; Start und Ziel in der Marktstraße; 2026 gab es bis 1. Juli vergünstigte Startgebühren. Termin laut BLV-Laufkalender; Strecken laut running.life (hilpoltsteiner-burgfestlauf).",
+   "checked": "2026-11-07",
+   "start_place": "Marktstraße Hilpoltstein",
+   "prev": {
+    "pickup": "Marktstraße (bei Start und Ziel)"
+   }
+  },
+  {
+   "id": "gaissacher-berglauf-2027",
+   "type": "trail",
+   "name": "Gaißacher Berglauf",
+   "place": "Gaißach",
+   "bezirk": "Oberbayern",
+   "kreis": "LK Bad Tölz-Wolfratshausen",
+   "lat": 47.75,
+   "lon": 11.583,
+   "date": "2027-09-11",
+   "confirmed": true,
+   "distances": [
+    "4,5"
+   ],
+   "url": "https://www.scgaissach.de/",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "48. Gaißacher Berglauf am Lehener Berg, Teil der Raiffeisen Oberland Challenge; Veranstalter Ski-Club Gaißach. Streckenlänge 4,5 km laut TrainerDay (Ausgabe 2026). Termin laut BLV-Laufkalender; Strecken laut running.life (gaissacher-berglauf).",
+   "checked": "2026-11-07"
+  },
+  {
+   "id": "wemdinger-stadtlauf-2027",
+   "type": "road",
+   "name": "Wemdinger Stadtlauf",
+   "place": "Wemding",
+   "bezirk": "Schwaben",
+   "kreis": "LK Donau-Ries",
+   "lat": 48.875,
+   "lon": 10.725,
+   "date": "2027-09-12",
+   "confirmed": true,
+   "distances": [
+    "7"
+   ],
+   "url": "https://lg-maerchenwald.de/ausschreibung",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "8. Wemdinger Stadtlauf des TSV Wemding (LG Märchenwald / LG Donau-Ries), Rundkurse durch die Altstadt; Start und Ziel am Marktplatz. 2026: Parken am Johannisweiher, Duschen in der Stadthalle. Termin laut BLV-Laufkalender; Strecken laut running.life (wemdinger-stadtlauf). 2026: Online-Anmeldung bis zwei Tage vorher, Kinderlauf ab 15:00 Uhr",
+   "checked": "2026-11-07",
+   "start_place": "Marktplatz Wemding",
+   "showers": "Stadthalle Wemding, Polsinger Weg 5 (Stand 2026)",
+   "prev": {
+    "parking": "Parkplatz am Johannisweiher, Zufahrt über Wolferstädter Straße",
+    "pickup": "Am Lauftag bis 30 Minuten vor dem Start im Wettkampfbüro in der Geopark-Infostelle"
+   }
+  },
+  {
+   "id": "emmertinger-herbstfestlauf-2027",
+   "type": "road",
+   "name": "Emmertinger Herbstfestlauf",
+   "place": "Emmerting",
+   "bezirk": "Oberbayern",
+   "kreis": "LK Altötting",
+   "lat": 48.2,
+   "lon": 12.767,
+   "date": "2027-09-25",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://djk-emmerting.de/abteilungen/lauftreff/",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "11. Emmertinger Herbstfestlauf des SV DJK Emmerting (Lauftreff) auf befestigten Waldwegen rund um den Sportplatz, mit Nordic Walking. Termin laut BLV-Laufkalender; Strecken laut running.life (emmertinger-herbstfestlauf).",
+   "checked": "2026-11-07",
+   "start_place": "Sportplatz Emmerting, Alte Poststr. 28, 84547 Emmerting"
+  },
+  {
+   "id": "zabelstein-run-2027",
+   "type": "trail",
+   "name": "Zabelstein-Run",
+   "place": "Knetzgau-Oberschwappach",
+   "bezirk": "Unterfranken",
+   "kreis": "LK Haßberge",
+   "lat": 49.983,
+   "lon": 10.55,
+   "date": "2027-10-03",
+   "confirmed": true,
+   "distances": [
+    "9,2",
+    "18"
+   ],
+   "url": "https://my.raceresult.com/327905/",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "Lauf im Knetzgauer Ortsteil Oberschwappach. 2025: Meldeschluss eine Woche vorher, Nachmeldung am Vortag und am Lauftag gegen 5 € Gebühr, Teilnehmerlimit für den Hauptlauf. Termin laut BLV-Laufkalender; Strecken laut running.life (zabelstein-run). Werte 2025 laut Anmeldeportal: Hauptlauf 18 km um 10:15 Uhr, Hobbylauf und Nordic Walking 9,2 km um 10:45 Uhr, Schülerlauf 2,6 km um 09:15 Uhr",
+   "checked": "2026-11-07",
+   "prev": {
+    "fee": "Hauptlauf 18 km 20 € (Nachmeldung 25 €), Hobbylauf 9,2 km 15 € (20 €), Nordic Walking 9,2 km 10 € (15 €), Schülerlauf 6 € (11 €)",
+    "start_time": "10:15"
+   }
+  },
+  {
+   "id": "gilching-laeuft-2027",
+   "type": "road",
+   "name": "Gilching Läuft",
+   "place": "Gilching",
+   "bezirk": "Oberbayern",
+   "kreis": "LK Starnberg",
+   "lat": 48.108,
+   "lon": 11.294,
+   "date": "2027-10-03",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://gilching-laeuft.de/",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "10 km Martin-Kropf-Gedächtnislauf, 5 km Waldlauf, dazu kleiner Waldlauf, Schüler- und Zwergerllauf. Termin laut BLV-Laufkalender; Strecken laut running.life (gilching-lauft).",
+   "checked": "2026-11-07"
+  },
+  {
+   "id": "fsv-lauf-erlangen-2027",
+   "type": "road",
+   "name": "FSV-Lauf",
+   "place": "Erlangen-Bruck",
+   "bezirk": "Mittelfranken",
+   "kreis": "Stadt Erlangen",
+   "lat": 49.55,
+   "lon": 11.004,
+   "date": "2027-10-31",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://fsvlauf.de/",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "Lauf in der Brucker Lache mit Strecken von 400 m bis 10 km; 2026 gingen je Startgebühr 2 € an die Erlanger Tafel. Termin laut BLV-Laufkalender; Strecken laut running.life (fsv-lauf).",
+   "checked": "2026-11-07",
+   "start_place": "Anschützstraße, Erlangen-Bruck (Brucker Lache)",
+   "showers": "Umkleiden in der Grundschule an der Brucker Lache; Duschen werden nicht genannt (Stand 2026)",
+   "prev": {
+    "fee": "10 km 12 €, 5 km 7 €",
+    "start_time": "13:00",
+    "parking": "Rund um den Veranstaltungsort und am Gelände des FSV Erlangen-Bruck",
+    "pickup": "Wettkampfbüro in der Grundschule an der Brucker Lache, Zeißstraße 51, am Lauftag ab 9 Uhr"
+   }
+  },
+  {
+   "id": "sonnefelder-wald-cross-lauf-2027",
+   "type": "trail",
+   "name": "Sonnefelder Wald-Cross-Lauf",
+   "place": "Sonnefeld",
+   "bezirk": "Oberfranken",
+   "kreis": "LK Coburg",
+   "lat": 50.217,
+   "lon": 11.133,
+   "date": "2027-05-27",
+   "confirmed": true,
+   "distances": [
+    "8"
+   ],
+   "url": "https://tsv-sonnefeld-laufteam.jimdofree.com/",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "6. Sonnefelder Wald-Cross-Lauf des Laufteams TSV Sonnefeld mit drei Strecken und Nordic Walking; 2026 mit Duschen und Verpflegung vor Ort und Meldeschluss zwei Tage vorher. Termin laut BLV-Laufkalender; Strecken laut running.life (sonnefelder-wald-cross-lauf).",
+   "checked": "2026-11-07"
+  },
+  {
+   "id": "sonnwendlauf-grossostheim-2027",
+   "type": "road",
+   "name": "Sonnwendlauf Großostheim",
+   "place": "Großostheim",
+   "bezirk": "Unterfranken",
+   "kreis": "LK Aschaffenburg",
+   "lat": 49.92,
+   "lon": 9.076,
+   "date": "2027-06-13",
+   "confirmed": true,
+   "distances": [
+    "6",
+    "10"
+   ],
+   "url": "https://sonnwendlauf-grossostheim.de/",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "3. Sonnwendlauf: 10 km, 6 km Hobbylauf, Einsteiger-, Jugend- und Schülerläufe. Termin laut BLV-Laufkalender; Strecken laut running.life (sonnwendlauf-grossostheim). 2026: 10 km und 6-km-Hobbylauf um 09:00 Uhr, Schülerläufe 10:45 bis 12:00 Uhr",
+   "checked": "2026-11-07",
+   "prev": {
+    "start_time": "09:00"
+   }
+  },
+  {
+   "id": "obernzenner-seelauf-2027",
+   "type": "road",
+   "name": "Obernzenner Seelauf",
+   "place": "Obernzenn",
+   "bezirk": "Mittelfranken",
+   "kreis": "LK Neustadt a.d.Aisch-Bad Windsheim",
+   "lat": 49.452,
+   "lon": 10.467,
+   "date": "2027-09-18",
+   "confirmed": true,
+   "distances": [
+    "11"
+   ],
+   "url": "https://www.tsvobernzenn.de/",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "32. Obernzenner Seelauf des TSV Obernzenn am Sportplatz; 2026 begann die Anmeldung am 1. Mai. Termin laut BLV-Laufkalender; Strecken laut running.life (obernzenner-seelauf). 2026: Start um 10:00 Uhr am Sportplatz des TSV Obernzenn",
+   "checked": "2026-11-07",
+   "start_place": "Sportplatz TSV Obernzenn",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "weissenhorner-altstadtlauf-2027",
+   "type": "road",
+   "name": "Weißenhorner Altstadtlauf",
+   "place": "Weißenhorn",
+   "bezirk": "Schwaben",
+   "kreis": "LK Neu-Ulm",
+   "lat": 48.305,
+   "lon": 10.161,
+   "date": "2027-10-17",
+   "confirmed": true,
+   "distances": [
+    "8,4"
+   ],
+   "url": "https://my.raceresult.com/395780/",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "33. Weißenhorner Altstadtlauf des TSV 1847 Weißenhorn durch Altstadt und Stadtpark, Hauptlauf 8,4 km, mit Stadtmeisterschaft. Termin laut BLV-Laufkalender; Strecken laut running.life (weissenhorner-altstadtlauf). Werte 2026 laut Anmeldeportal: Hauptlauf, Hobbylauf, Walking und Jugend um 15:30 Uhr, Schülerläufe ab 13:30 Uhr, Bambini ab 12:30 Uhr; Anmeldung bis zwei Tage vorher",
+   "checked": "2026-11-07",
+   "prev": {
+    "fee": "Hauptlauf 10 € (Nachmeldung 12 €), Hobbylauf, Walking und Jugend 8 € (10 €), Schülerläufe 7 € (9 €), Bambini frei",
+    "start_time": "15:30"
+   }
+  },
+  {
+   "id": "reischacher-holzlandlauf-2027",
+   "type": "road",
+   "name": "Reischacher Holzlandlauf",
+   "place": "Reischach",
+   "bezirk": "Oberbayern",
+   "kreis": "LK Altötting",
+   "lat": 48.291,
+   "lon": 12.726,
+   "date": "2027-04-25",
+   "confirmed": true,
+   "distances": [
+    "5,6",
+    "11,2"
+   ],
+   "url": "https://holzlandlauf.tsv-reischach.de/",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "Holzlandlauf des TSV Reischach mit Hobbylauf, Walking, Staffel und Kinderläufen; alle bekommen ein Holzlandlauf-Shirt. Strecken laut TrainerDay (Ausgabe 2026, damals im September); Nachmeldung am Lauftag möglich. Termin laut BLV-Laufkalender.",
+   "checked": "2026-11-07"
+  },
+  {
+   "id": "ippesheimer-weinparadieslauf-2027",
+   "type": "trail",
+   "name": "Ippesheimer Weinparadieslauf",
+   "place": "Ippesheim",
+   "bezirk": "Mittelfranken",
+   "kreis": "LK Neustadt a.d.Aisch-Bad Windsheim",
+   "lat": 49.602,
+   "lon": 10.226,
+   "date": "2027-05-29",
+   "confirmed": true,
+   "distances": [
+    "5,8",
+    "9,2"
+   ],
+   "url": "https://www.runnersworld.de/laufkalender/ippesheimer-weinparadieslauf/",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "3. Ippesheimer Weinparadieslauf durch Weinberge, Wald und Wiesen bis zum Bullenheimer Berg, Start am ASV-Sportheim. Strecken laut TrainerDay (Ausgabe 2026). Termin laut BLV-Laufkalender.",
+   "checked": "2026-11-07",
+   "start_place": "ASV-Sportheim Ippesheim"
+  },
+  {
+   "id": "strassenlauf-gollhofen-2027",
+   "type": "road",
+   "name": "Straßenlauf Gollhofen",
+   "place": "Gollhofen",
+   "bezirk": "Mittelfranken",
+   "kreis": "LK Neustadt a.d.Aisch-Bad Windsheim",
+   "lat": 49.581,
+   "lon": 10.125,
+   "date": "2027-06-12",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://haid.app/en/events/gollhofer-strassenlauf-mq8yy6nf",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "27. Straßenlauf Gollhofen mit 10-km-Hauptlauf, 5-km-Hobbylauf, Schüler- und Bambinilauf (2026 zugleich Mittelfränkische Meisterschaft über 10 km). Strecken laut haid.app. Termin laut BLV-Laufkalender.",
+   "checked": "2026-11-07"
+  },
+  {
+   "id": "hirschbachschleiferl-kirchdorf-2027",
+   "type": "road",
+   "name": "Hirschbachschleiferl (Kirchdorfer Bürgerlauf)",
+   "place": "Kirchdorf an der Amper",
+   "bezirk": "Oberbayern",
+   "kreis": "LK Freising",
+   "lat": 48.467,
+   "lon": 11.65,
+   "date": "2027-08-01",
+   "confirmed": true,
+   "distances": [
+    "6,8",
+    "9,7"
+   ],
+   "url": "https://www.runnersworld.de/laufkalender/shirschbachschleiferlkirchdorf/",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "26. Hirschbachschleiferl des SC Kirchdorf: Runde von ca. 9,7 km mit rund 100 Höhenmetern entlang des Hirschbachs, Start am Rathausplatz; dazu Kinder- und Schülerläufe. Strecken laut Runner's World und TrainerDay. Termin laut BLV-Laufkalender.",
+   "checked": "2026-11-07",
+   "start_place": "Rathausplatz, 85414 Kirchdorf an der Amper"
+  },
+  {
+   "id": "schuhbraeualmlauf-raubling-2027",
+   "type": "trail",
+   "name": "Berglauf zur Schuhbräualm",
+   "place": "Raubling-Großholzhausen",
+   "bezirk": "Oberbayern",
+   "kreis": "LK Rosenheim",
+   "lat": 47.791,
+   "lon": 12.111,
+   "date": "2027-08-04",
+   "confirmed": true,
+   "distances": [
+    "7,5"
+   ],
+   "url": "https://gotrail.run/de/termine/schuhbraualmlauf",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "42. Berglauf zur Schuhbräualm des ASV Großholzhausen, traditionell am ersten Mittwoch im August; ca. 7,5 km mit rund 680 Höhenmetern (laut Laufkalendern). Termin laut BLV-Laufkalender.",
+   "checked": "2026-11-07",
+   "elevation": [
+    678
+   ]
+  },
+  {
+   "id": "lauf-in-den-herbst-putzbrunn-2027",
+   "type": "road",
+   "name": "Lauf in den Herbst Putzbrunn",
+   "place": "Putzbrunn",
+   "bezirk": "Oberbayern",
+   "kreis": "LK München",
+   "lat": 48.076,
+   "lon": 11.716,
+   "date": "2027-09-11",
+   "confirmed": true,
+   "distances": [
+    "5,3",
+    "10,7"
+   ],
+   "url": "https://running.life/de/termine/putzbrunner-herbstlauf",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "21. Lauf in den Herbst in Putzbrunn. Strecken laut running.life (dort als Putzbrunner Herbstlauf geführt, 600 m bis 10,7 km); laut Runner's World Start bei der Dreifachturnhalle des PSV, Hohenbrunner Str. 5. Termin laut BLV-Laufkalender.",
+   "checked": "2026-11-07"
+  },
+  {
+   "id": "schwarzenbacher-ausdauertag-2027",
+   "type": "road",
+   "name": "Schwarzenbacher Ausdauertag",
+   "place": "Schwarzenbach an der Saale",
+   "bezirk": "Oberfranken",
+   "kreis": "LK Hof",
+   "lat": 50.223,
+   "lon": 11.935,
+   "date": "2027-09-11",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10",
+    "HM"
+   ],
+   "url": "https://www.runnersworld.de/laufkalender/schwarzenbacher-ausdauertag/",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "24. Schwarzenbacher Ausdauertag mit Halbmarathon, 10 km, 5 km und Kinderläufen. Strecken laut Runner's World und TrainerDay (Ausgabe 2026). Termin laut BLV-Laufkalender.",
+   "checked": "2026-11-07"
+  },
+  {
+   "id": "doebraberglauf-2027",
+   "type": "trail",
+   "name": "Döbraberglauf (Dr.-Heinz-Laubmann-Gedächtnislauf)",
+   "place": "Schwarzenbach am Wald (Döbraberg)",
+   "bezirk": "Oberfranken",
+   "kreis": "LK Hof",
+   "lat": 50.285,
+   "lon": 11.625,
+   "date": "2027-10-17",
+   "confirmed": true,
+   "distances": [
+    "9",
+    "15",
+    "23"
+   ],
+   "url": "https://gotrail.run/de/termine/doebraberglauf",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "57. Döbraberglauf. Strecken 9, 15 und 23 km laut gotrail.run (Ausgabe 2026). Termin laut BLV-Laufkalender.",
+   "checked": "2026-11-07"
+  },
+  {
+   "id": "flechtkulturlauf-obermain-2027",
+   "type": "road",
+   "name": "Hofmann Flechtkulturlauf Obermain",
+   "place": "Lichtenfels",
+   "bezirk": "Oberfranken",
+   "kreis": "LK Lichtenfels",
+   "lat": 50.146,
+   "lon": 11.059,
+   "date": "2027-06-19",
+   "confirmed": true,
+   "distances": [
+    "5,3",
+    "10,5"
+   ],
+   "url": "https://www.flechtkulturlauf.de/",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "15. Flechtkulturlauf, Start und Ziel auf dem Marktplatz Lichtenfels; Lauf und Nordic Walking über ca. 5,3 und 10,5 km (laut Festivals in Deutschland, Ausgabe 2026). Termin laut BLV-Laufkalender. 2026 starteten alle Lauf- und Walkingstrecken um 16:30 Uhr am Marktplatz",
+   "checked": "2026-11-07",
+   "start_place": "Marktplatz Lichtenfels",
+   "showers": "Duschen und Umkleiden in der Berufsschule (14 bis 20 Uhr)",
+   "parking": "Parkhäuser „Innenstadt“ und „Schützenanger“",
+   "pickup": "Vor dem Alten Rathaus am Marktplatz Lichtenfels, am Wettkampftag ab 14:00 Uhr",
+   "prev": {
+    "start_time": "16:30"
+   }
+  },
+  {
+   "id": "xaver-hoeger-gedaechtnislauf-2027",
+   "type": "road",
+   "name": "Xaver-Höger-Gedächtnislauf",
+   "place": "Bad Grönenbach",
+   "bezirk": "Schwaben",
+   "kreis": "LK Unterallgäu",
+   "lat": 47.877,
+   "lon": 10.222,
+   "date": "2027-07-30",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.trainerday.com/events/de/10-xaver-hoger-gedachtnislauf",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "11. Xaver-Höger-Gedächtnislauf (früher Waldlauf) der Leichtathletik des TV Bad Grönenbach am Freitagabend, Start und Ziel am Waldstadion; 5 km (1 Runde) und 10 km (2 Runden) laut TrainerDay. Termin laut BLV-Laufkalender.",
+   "checked": "2026-11-07",
+   "start_place": "Waldstadion Bad Grönenbach"
+  },
+  {
+   "id": "rother-kirchweihlauf-2027",
+   "type": "road",
+   "name": "Rother Kirchweihlauf",
+   "place": "Roth",
+   "bezirk": "Mittelfranken",
+   "kreis": "LK Roth",
+   "lat": 49.26,
+   "lon": 11.146,
+   "date": "2027-08-08",
+   "confirmed": true,
+   "distances": [
+    "10"
+   ],
+   "url": "https://www.tsg08-roth.de/kirchweihlauf/",
+   "source": "https://www.tsg08-roth.de/_cache/downloads/4588-37de9dcf02/cms/Ausschreibung-Text-gesamt.pdf",
+   "info": "25. Rother Kirchweihlauf der TSG 08 Roth auf einer flachen, asphaltierten 2-km-Runde am Stadtpark (DLV-vermessen); 10-km-Hauptlauf, 4-km-Hobbylauf, Schüler-, Kinder- und Bambinilauf. Werte 2026 als Vorjahr: Meldeschluss Freitag vor dem Lauf 18 Uhr, Nachmeldung bis 60 Minuten vor dem Start +3 €. Termin laut BLV-Laufkalender.",
+   "checked": "2026-11-07",
+   "prev": {
+    "fee": "10 km 13 €, Hobbylauf (4 km) 8 €, Schüler-/Kinderlauf 5 €",
+    "start_time": "10:00",
+    "start_place": "Festplatz Roth, Am Stadtpark, 91154 Roth"
+   }
   }
  ]
 }
