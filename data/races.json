@@ -32753,7 +32753,7 @@
    "kreis": "LK Görlitz",
    "lat": 51.533,
    "lon": 14.667,
-   "date": "2027-03-07",
+   "date": "2027-03-14",
    "confirmed": false,
    "distances": [
     "5",
@@ -32761,8 +32761,8 @@
    ],
    "url": "https://laufbewegung-wsw.de/",
    "source": "https://www.runme.de/deutschland/schlossparklauf-bad-muskau/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 10:20 Uhr). Ausgabe 2026: Voranmeldung über Baer-Service, Nachmeldung vor Ort 6 €. Ausgabe 2026: Online-Voranmeldung über Baer-Service bis 06.03.2026, 23:59 Uhr",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 10:20 Uhr). Ausgabe 2026: Voranmeldung über Baer-Service, Nachmeldung vor Ort 6 €. Ausgabe 2026: Online-Voranmeldung über Baer-Service bis 06.03.2026, 23:59 Uhr. Termin noch nicht endgültig: so in der vorläufigen Terminvorschau des Niederlausitz-Cups 2027 (niederlausitzcup.de).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:20"
    },
@@ -33671,7 +33671,7 @@
    "kreis": "LK Görlitz",
    "lat": 51.533,
    "lon": 14.667,
-   "date": "2027-05-22",
+   "date": "2027-05-15",
    "confirmed": false,
    "distances": [
     "5,4",
@@ -33679,8 +33679,8 @@
    ],
    "url": "https://laufbewegung-wsw.de/",
    "source": "https://www.runme.de/deutschland/kromlauer-pfingstlauf-kromlau-gablenz/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10,8 km um 09:45 Uhr). Ausgabe 2026 (16. Kromlauer Pfingstlauf) laut Baer-Service: 10,8 km 09:45 Uhr, 5,4 km 09:55 Uhr, Kinder 1,6 km 09:30 Uhr",
-   "checked": "2026-11-06",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10,8 km um 09:45 Uhr). Ausgabe 2026 (16. Kromlauer Pfingstlauf) laut Baer-Service: 10,8 km 09:45 Uhr, 5,4 km 09:55 Uhr, Kinder 1,6 km 09:30 Uhr. Termin noch nicht endgültig: so in der vorläufigen Terminvorschau des Niederlausitz-Cups 2027 (niederlausitzcup.de).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "09:45",
     "fee": "10,8 km 16 € bei Anmeldung bis 21.05.2026, danach 22 €; 5,4 km 10 € bzw. 16 €; Kinderlauf 1,6 km 7 € bzw. 13 € (Ausgabe 2026 laut Baer-Service, damals ausgebucht)"
@@ -34963,8 +34963,8 @@
    ],
    "url": "https://laufbewegung-wsw.de/",
    "source": "https://www.runme.de/deutschland/kristall-lauf-weisswasser/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 10:10 Uhr).",
-   "checked": "2026-11-06",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 10:10 Uhr). Termin noch nicht endgültig: so in der vorläufigen Terminvorschau des Niederlausitz-Cups 2027 (niederlausitzcup.de).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:10"
    }
@@ -35826,9 +35826,11 @@
    ],
    "url": "https://sport-burgenland.de",
    "source": "https://www.runme.de/deutschland/nellschuetzer-silvester-lauf-zorbau/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10 km um 10:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "10:00"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10 km um 10:00 Uhr, frühester Lauf ab 5 km). Meldeschluss laut Verbandskalender 30.12.2026.",
+   "checked": "2026-11-08",
+   "start_time": "10:00",
+   "reg_close": "2026-12-30",
+   "start_place": "Kirche Nellschuetz, Lützen"
   },
   {
    "id": "wernigeroeder-silvesterlauf-2026",
@@ -35847,9 +35849,11 @@
    ],
    "url": "http://www.hgl-la.de",
    "source": "https://www.runme.de/deutschland/wernigeroeder-silvesterlauf-wernigerode/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (18 km um 10:15 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "10:15"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (18 km um 10:15 Uhr, frühester Lauf ab 5 km). Meldeschluss laut Verbandskalender 28.12.2026.",
+   "checked": "2026-11-08",
+   "start_time": "10:15",
+   "reg_close": "2026-12-28",
+   "start_place": "Marstall, Schlosschaussee, Am Lustgarten, Wernigerode"
   },
   {
    "id": "magdeburger-silvesterlauf-2026",
@@ -35943,9 +35947,11 @@
    ],
    "url": "http://www.sve-salzwedel.de",
    "source": "https://www.runme.de/deutschland/salzwedeler-neujahrslauf/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 10:40 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "10:40"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 10:40 Uhr, frühester Lauf ab 5 km). Meldeschluss laut Verbandskalender 01.01.2027.",
+   "checked": "2026-11-08",
+   "start_time": "10:40",
+   "reg_close": "2027-01-01",
+   "start_place": "Comenius-Ganztagsschule, Salzwedel"
   },
   {
    "id": "flemmingen-wintercross-2027",
@@ -35965,11 +35971,12 @@
    "url": "https://www.lg-rudelsburg.de",
    "source": "https://www.runme.de/deutschland/flemminger-wintercross/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (15 km um 10:00 Uhr, frühester Lauf ab 5 km). Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden)",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "start_time": "10:00",
    "parking": "Parkplätze am Start- und Zielgelände",
    "showers": "Toiletten und Umkleidemöglichkeiten, keine Duschen",
-   "late_reg": "Nachmeldung vor Ort möglich (mit Nachmeldegebühr)"
+   "late_reg": "Nachmeldung vor Ort möglich (mit Nachmeldegebühr)",
+   "start_place": "Naumburger Stahl- und Metallhandel, Naumburg"
   },
   {
    "id": "sueppling-cross-2027",
@@ -36080,9 +36087,11 @@
    ],
    "url": "http://www.tsv-rot-weiss-zerbst.de/",
    "source": "https://www.runme.de/deutschland/lauf-in-den-fruehling-zerbst/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (3,2 km um 16:25 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "16:25"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (3,2 km um 16:25 Uhr, frühester Lauf ab 5 km). Meldeschluss laut Verbandskalender 10.03.2027.",
+   "checked": "2026-11-08",
+   "start_time": "16:25",
+   "reg_close": "2027-03-10",
+   "start_place": "Jahn-Stadion, Zerbst"
   },
   {
    "id": "lauf-am-gallun-2027",
@@ -36125,9 +36134,11 @@
    ],
    "url": "http://leichtathletik-blankenburg.de/",
    "source": "https://www.runme.de/deutschland/blankenburger-regensteinlauf-blankenburg-harz/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (13,9 km um 09:00 Uhr, frühester Lauf ab 5 km). Rekordteilnehmerzahl 2026: 728 Teilnehmer laut Veranstalter",
-   "checked": "2026-11-05",
-   "start_time": "09:00"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (13,9 km um 09:00 Uhr, frühester Lauf ab 5 km). Rekordteilnehmerzahl 2026: 728 Teilnehmer laut Veranstalter Meldeschluss laut Verbandskalender 17.03.2027.",
+   "checked": "2026-11-08",
+   "start_time": "09:00",
+   "reg_close": "2027-03-17",
+   "start_place": "Sportforum, Blankenburg (Harz)"
   },
   {
    "id": "herrenkrugparklauf-2027",
@@ -36139,7 +36150,7 @@
    "lat": 52.133,
    "lon": 11.617,
    "date": "2027-03-21",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "6",
     "12",
@@ -36148,8 +36159,8 @@
    ],
    "url": "https://www.runme.de/deutschland/herrenkrugparklauf-magdeburg/",
    "source": "https://www.runme.de/deutschland/herrenkrugparklauf-magdeburg/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (31,65 km um 09:15 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (31,65 km um 09:15 Uhr). Laut Veranstalter (KFE-Team) 19. Herrenkrugparklauf am 21.03.2027.",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "09:15"
    }
@@ -36172,8 +36183,12 @@
    "url": "http://www.brockenlauf.de/",
    "source": "https://www.runme.de/deutschland/oster-ilsetallauf-ilsenburg/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (8,7 km um 10:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "10:00"
+   "checked": "2026-11-08",
+   "start_time": "10:00",
+   "pickup": "Ab ca. 8 Uhr im Rathaus am Marktplatz Ilsenburg",
+   "parking": "Schulhof der Prinzess-Ilse-Grundschule Ilsenburg",
+   "showers": "Kleines Zelt auf dem Marktplatz; Umkleiden zu Hause empfohlen, begrenzte Duschmöglichkeit in der Harzlandhalle Ilsenburg",
+   "start_place": "Marktplatz Ilsenburg"
   },
   {
    "id": "schlagenthiner-osterberglauf-2027",
@@ -36256,11 +36271,19 @@
     "5,1",
     "14"
    ],
-   "url": "http://www.asv-sangerhausen.de/",
-   "source": "https://www.runme.de/deutschland/rund-ums-schaubergwerk-roehringschacht/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (14 km um 10:30 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "10:30"
+   "url": "https://steigerschleife.de/",
+   "source": "https://steigerschleife.de/ausschreibung",
+   "info": "Laut Ausschreibung 17. Lauf rund ums Schaubergwerk am Sonntag 04.04.2027 (Anmeldung über RaceResult); 14 km „Steigerschleife“ um 10:30 Uhr, 5,1 km um 11:05 Uhr. Teil der Liebe-Gruppe-Laufcup-Serie 2027.",
+   "checked": "2026-11-08",
+   "start_time": "10:30",
+   "fee": "14 km 11 €, 5,1 km 8 € (Nordic Walking/Wandern gleich), Kinderstrecken 3–5 €; Nachmeldung +3 €",
+   "reg_open": "2026-10-15",
+   "reg_close": "2027-03-31",
+   "late_reg": "Am Veranstaltungstag bis 09:30 Uhr, Nachmeldegebühr 3 €",
+   "pickup": "Ausgabe der Wettkampfunterlagen ab 08:30 Uhr",
+   "parking": "Ausreichend kostenfreie Parkplätze direkt am Schaubergwerk (200 m bis Start und Ziel)",
+   "aid": "Wasser und Obst im Start-/Zielbereich, Getränkestellen bei km 5 und km 10",
+   "start_place": "ErlebnisZentrum Bergbau Röhrigschacht, Lehde 17, 06526 Sangerhausen OT Wettelrode"
   },
   {
    "id": "tangermuender-elbdeichmarathon-2027",
@@ -36281,7 +36304,7 @@
    "url": "http://www.elbdeichmarathon.de/",
    "source": "https://www.runme.de/deutschland/tangermuender-elbdeichmarathon/",
    "info": "Termin 18.04.2027 laut Programm auf elbdeichmarathon.de (RUNME nannte als Prognose den 11.04.2027). Strecken laut RUNME. Sonntag 18.04.2027: Startnummernausgabe 9:00 Uhr, Begrüßung 9:30 Uhr, Start 10:00 Uhr; Online-Meldeschluss spätestens 05.04.2027",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:00"
    },
@@ -36289,7 +36312,9 @@
    "reg_close": "2027-04-05",
    "pickup": "Ausgabe der Startnummernunterlagen am Sonntag ab 8:00 Uhr (laut Programm)",
    "late_reg": "Nachmeldung am Sonntag im Rahmen der Startnummernausgabe im Festzelt möglich, sofern freie Startplätze vorhanden sind",
-   "showers": "Umkleide, WC und Duschen im Start-/Zielbereich im Tangermünder Hafen"
+   "showers": "Umkleide, WC und Duschen im Start-/Zielbereich im Tangermünder Hafen",
+   "reg_open": "2026-07-01",
+   "fee": "Marathon 40 € bis 11.01.2027, 45 € bis 09.03., 50 € bis 07.04., 55 € bis 18.04.2027; Halbmarathon 35 / 40 / 45 / 50 €; 10 km 20 / 25 / 30 / 40 €; 4,2 km 10 / 12 / 16 €"
   },
   {
    "id": "naumburger-waldlauf-2027",
@@ -36308,9 +36333,11 @@
    ],
    "url": "http://www.ssv-eintracht-naumburg.de",
    "source": "https://www.runme.de/deutschland/naumburger-waldlauf/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (11,1 km um 15:15 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "15:15"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (11,1 km um 15:15 Uhr, frühester Lauf ab 5 km). Meldeschluss laut Verbandskalender 09.04.2027.",
+   "checked": "2026-11-08",
+   "start_time": "15:15",
+   "reg_close": "2027-04-09",
+   "start_place": "Bürgergarten (Waldschlosswiese), Naumburg"
   },
   {
    "id": "einetallauf-aschersleben-2027",
@@ -36386,7 +36413,7 @@
    "url": "https://harz-querung.de/",
    "source": "https://www.runme.de/deutschland/harzquerung-wernigerode/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (26 km um 05:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "start_time": "05:00",
    "fee": "Laufen: 53 km 37 €, 26 und 30 km 27 € bei Meldung bis 31.12.2026; bis 29.03.2027 41 € bzw. 30 €, bis 10.04.2027 47 € bzw. 34 €. Wandern: 53 km 27 €, 26 und 30 km 23 € (bis 31.12.2026), später 29 € / 25 € und 32 € / 28 €. Rückfahrt mit dem Bus 16 €",
    "reg_open": "2026-11-01",
@@ -36394,7 +36421,8 @@
    "late_reg": "Nachmeldung bei freien Startplätzen am Veranstaltungstag gegen Barzahlung möglich",
    "start_place": "Wernigerode, Salzbergstraße 43 (53 und 26 km); Benneckenstein, Bruno-Ellinger-Weg 4 (30 km)",
    "parking": "In Wernigerode teilweise kostenpflichtig: Contipark Parkhaus (HKK-Hotel), Parkplatz Ochsenteich, Schotterparkplatz Feldstraße",
-   "showers": "Duschen vorhanden in Nordhausen und Benneckenstein"
+   "showers": "Duschen vorhanden in Nordhausen und Benneckenstein",
+   "pickup": "Freitag 23.04.2027 17–20 Uhr (alle Strecken) und Samstag 24.04.2027 4:50–8 Uhr (53 und 26 km) in der Grundschule „Diesterweg“ (Zugang Unter den Zindeln, Wernigerode); 30 km Samstag 9–10:45 Uhr in der Turnhalle im Startbereich Benneckenstein"
   },
   {
    "id": "finnelauf-2027",
@@ -36415,10 +36443,12 @@
    ],
    "url": "http://www.finnelauf.de",
    "source": "https://www.runme.de/deutschland/finnelauf-billroda-tauhardt/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (6 km um 10:15 Uhr, frühester Lauf ab 5 km). Meldeschluss 2026 war der 20.04.2026. Ausgabe 2026: Meldeschluss 20.04.2026, kostenloser Bustransfer von den Parkplätzen zum Gelände",
-   "checked": "2026-11-05",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (6 km um 10:15 Uhr, frühester Lauf ab 5 km). Meldeschluss 2026 war der 20.04.2026. Ausgabe 2026: Meldeschluss 20.04.2026, kostenloser Bustransfer von den Parkplätzen zum Gelände Meldeschluss laut Verbandskalender 19.04.2027.",
+   "checked": "2026-11-08",
    "start_time": "10:15",
-   "late_reg": "Nachmeldungen am Veranstaltungstag ab 8:30 Uhr vor Ort, 5 € Nachmeldegebühr, Bambinilauf ohne Gebühr (Ausgabe 2026)"
+   "late_reg": "Nachmeldungen am Veranstaltungstag ab 8:30 Uhr vor Ort, 5 € Nachmeldegebühr, Bambinilauf ohne Gebühr (Ausgabe 2026)",
+   "reg_close": "2027-04-19",
+   "start_place": "Sportgelände Tauhardt, Billroda"
   },
   {
    "id": "gommeraner-seenlauf-2027",
@@ -36437,9 +36467,11 @@
    ],
    "url": "http://www.eintracht-gommern.de/",
    "source": "https://www.runme.de/deutschland/gommeraner-seenlauf-gommern/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (9,8 km um 10:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "10:00"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (9,8 km um 10:00 Uhr, frühester Lauf ab 5 km). Meldeschluss laut Verbandskalender 23.04.2027.",
+   "checked": "2026-11-08",
+   "start_time": "10:00",
+   "reg_close": "2027-04-23",
+   "start_place": "Sportplatz am Volkshaus (Am Kulk), Gommern"
   },
   {
    "id": "angeraner-krepe-cross-2027",
@@ -36451,18 +36483,20 @@
    "lat": 52.218,
    "lon": 11.52,
    "date": "2027-05-01",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5,9",
     "10,7"
    ],
    "url": "http://www.svangern.de/",
    "source": "https://www.runme.de/deutschland/angeraner-krepe-cross/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10,7 km um 09:45 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10,7 km um 09:45 Uhr). Termin laut Laufkalender des Leichtathletik-Verbands Sachsen-Anhalt (Stand 08.11.2026). Meldeschluss laut Verbandskalender 28.04.2027.",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "09:45"
-   }
+   },
+   "reg_close": "2027-04-28",
+   "start_place": "Sportplatz Angern, Angern"
   },
   {
    "id": "flaeminglauf-2027",
@@ -36498,19 +36532,27 @@
    "lat": 51.648,
    "lon": 12.366,
    "date": "2027-05-02",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "10",
     "HM",
     "M"
    ],
    "url": "https://www.goitzsche-marathon.eu/kontakt",
-   "source": "https://www.runme.de/deutschland/goitzsche-marathon-bitterfeld/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 09:30 Uhr).",
-   "checked": "2026-11-05",
+   "source": "https://www.goitzsche-marathon.eu/strecken/marathon",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 09:30 Uhr). Laut Veranstalterseite Sonntag 02.05.2027, Marathon-Start 09:35 Uhr im Bitterfelder Stadthafen, Halbmarathon 10:30 Uhr in Pouch.",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "09:30"
-   }
+   },
+   "start_time": "09:35",
+   "fee": "Marathon 40 € bis 31.12.2026, 45 € bis 31.01.2027, 50 € bis 28.02., 55 € bis 31.03., 60 € bis 18.04.2027, Nachmeldung 65 €; Halbmarathon 35 / 40 / 45 / 50 / 55 €, Nachmeldung 60 €",
+   "reg_close": "2027-04-18",
+   "late_reg": "Nachmeldung möglich (Marathon 65 €, Halbmarathon 60 € inkl. Nachmeldegebühr)",
+   "pickup": "Samstag 01.05.2027 von 15 bis 19 Uhr im Meldebüro Stadthafen (nahe Ziel), Sonntag ab 7 Uhr bis spätestens 1 Stunde vor dem jeweiligen Start",
+   "start_place": "Marathon: Bitterfelder Stadthafen; Halbmarathon: Pouch, Zur Agora, 06774 Muldestausee (Shuttlebus ab Stadthafen)",
+   "showers": "Umkleiden (getrennt) im Zielbereich neben dem Meldebüro, Duschen auf dem Veranstaltungsgelände",
+   "parking": "Ca. 100 m vom Ziel an der Berliner Straße (400 Plätze) und ca. 500 m vom Ziel am Sportpark Süd, Niemegker Straße (ca. 300 Plätze)"
   },
   {
    "id": "scharnhorstlauf-2027",
@@ -36522,15 +36564,15 @@
    "lat": 51.241,
    "lon": 12.115,
    "date": "2027-05-02",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "6",
     "9"
    ],
    "url": "https://www.sport-burgenland.de/",
    "source": "https://www.runme.de/deutschland/scharnhorstlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 10:00 Uhr). Meldeschluss 2026 war der 30.04.2026. Ausgabe 2026 (03.05.2026): Beginn 09:15 Uhr, Meldeschluss 30.04.2026",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 10:00 Uhr). Meldeschluss 2026 war der 30.04.2026. Ausgabe 2026 (03.05.2026): Beginn 09:15 Uhr, Meldeschluss 30.04.2026. Termin laut Laufkalender des Leichtathletik-Verbands Sachsen-Anhalt (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:00"
    },
@@ -36548,23 +36590,24 @@
    "kreis": "LK Harz",
    "lat": 51.896,
    "lon": 11.056,
-   "date": "2027-05-05",
+   "date": "2027-04-18",
    "confirmed": false,
    "distances": [
     "5",
     "10"
    ],
    "url": "http://altstadtlauf-halberstadt.de/",
-   "source": "https://www.runme.de/deutschland/altstadtlauf-halberstadt/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (9,3 km um 10:30 Uhr).",
-   "checked": "2026-11-05",
+   "source": "https://altstadtlauf-halberstadt.de/",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (9,3 km um 10:30 Uhr). Laut Veranstalterseite findet der 4. Halberstädter Altstadtlauf am 18. oder 21. April 2027 statt (noch nicht festgelegt); 2026 war er am 10.05.",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:30",
     "fee": "Altstadtlauf 9,6 km 10 € (ab 10.03. 15 €), Fitnesslauf 4,8 km 10 € (ab 15.02. 12 €, ab 10.03. 15 €), Einsteigerlauf 2,3 km 8 €, Kinderläufe 5 €, Walken 4,8 km 10 € (Ausgabe 2026)"
    },
    "start_place": "Domplatz Halberstadt",
    "parking": "Im Ort auf den ausgeschriebenen Plätzen, z. B. Düsterngraben oder Klein Blankenburg, Franziskanerstraße",
-   "showers": "Umkleiden im Gymnasium Martineum (Eingang Böttcherstraße, 300 m) und in der Hochschule Harz (100 m), Toiletten vorhanden"
+   "showers": "Umkleiden im Gymnasium Martineum (Eingang Böttcherstraße, 300 m) und in der Hochschule Harz (100 m), Toiletten vorhanden",
+   "prev_date": "2026-05-10"
   },
   {
    "id": "huy-burgen-lauf-2027",
@@ -36621,7 +36664,7 @@
    "lat": 51.833,
    "lon": 11.2,
    "date": "2027-05-09",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5,6",
     "12",
@@ -36629,11 +36672,13 @@
    ],
    "url": "http://www.leichtathletik-quedlinburg.de",
    "source": "https://www.runme.de/deutschland/quedlinburger-waldlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 09:00 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 09:00 Uhr). Termin laut Laufkalender des Leichtathletik-Verbands Sachsen-Anhalt (Stand 08.11.2026). Meldeschluss laut Verbandskalender 03.05.2027.",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "09:00"
-   }
+   },
+   "reg_close": "2027-05-03",
+   "start_place": "Hüttenweg, Quedlinburg"
   },
   {
    "id": "weinathlon-2027",
@@ -36692,19 +36737,21 @@
    "kreis": "Burgenlandkreis",
    "lat": 51.241,
    "lon": 12.115,
-   "date": "2027-05-24",
-   "confirmed": false,
+   "date": "2027-05-17",
+   "confirmed": true,
    "distances": [
     "6",
     "10"
    ],
    "url": "http://www.sport-burgenland.de/",
-   "source": "https://www.runme.de/deutschland/gerstewitzer-muehlentag-lauf-zorbau/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 10:00 Uhr).",
-   "checked": "2026-11-05",
+   "source": "https://www.lvsa.de/index.php?article_id=1452",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 10:00 Uhr). Termin laut Laufkalender des Leichtathletik-Verbands Sachsen-Anhalt (Stand 08.11.2026). Meldeschluss laut Verbandskalender 15.05.2027.",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:00"
-   }
+   },
+   "reg_close": "2027-05-15",
+   "start_place": "Sportplatz Nellschuetz, Lützen"
   },
   {
    "id": "stassfurter-salzland-lauf-2027",
@@ -36722,10 +36769,18 @@
     "10"
    ],
    "url": "https://www.gaensefurther-sportbewegung.de/",
-   "source": "https://www.runme.de/deutschland/stassfurter-salzland-lauf/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (6 km um 10:50 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "10:50"
+   "source": "https://www.gaensefurther-sportbewegung.de/files/ausschreibung_8._stassfurter_salzland-lauf.pdf",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Meldeschluss laut Verbandskalender 25.05.2027. Ausgabe 2026 laut Ausschreibung: Freitag ab 14 Uhr Startnummernausgabe, 10 km um 18:45 Uhr, 6 km und Walking um 18:50 Uhr.",
+   "checked": "2026-11-08",
+   "reg_close": "2027-05-25",
+   "prev": {
+    "start_time": "18:45",
+    "fee": "10 km 12 € (bis Dienstag vor dem Lauf), 14 € (bis Donnerstag), 17 € am Lauftag; 6 km 8 / 10 / 13 €",
+    "start_place": "Salzland-Sporthalle, Gänsefurther Straße 24, 39418 Staßfurt",
+    "parking": "Parkplatz Am Schütz 5 (Berufsförderungswerk), dann ca. 500 m zu Fuß; an der Salzland-Sporthalle kein Parken",
+    "limit": "1500 Teilnehmende"
+   },
+   "showers": "Umkleide, WC und Duschen in der Salzland-Sporthalle (Ausgabe 2026)"
   },
   {
    "id": "pretzscher-heimatfestlauf-2027",
@@ -36770,7 +36825,7 @@
    "url": "https://www.klippenlauf.de/",
    "source": "https://www.runme.de/deutschland/harzgeroeder-klippenlauf-harzgerode/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (21,0975 km um 09:30 Uhr, frühester Lauf ab 5 km). Meldeschluss 2026 war der 28.05.2026; Startnummernband 5 € bei der Ausgabe, Sicherheitsnadeln nicht mehr zugelassen",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "start_time": "09:30",
    "parking": "Öffentlicher Parkplatz in Start-/Zielnähe, auch Parkplatz des EDEKA-Supermarkts nutzbar",
    "showers": "Pavillons zum Umziehen auf dem Gelände, Gepäckaufbewahrung",
@@ -36844,7 +36899,7 @@
    "url": "http://www.sudenburg-lauf.de/",
    "source": "https://www.runme.de/deutschland/sudenburg-lauf/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (11,4 km um 10:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "start_time": "10:00"
   },
   {
@@ -36866,7 +36921,7 @@
    "url": "https://www.himmelswegelauf.de/",
    "source": "https://www.runme.de/deutschland/himmelswegelauf-nebra/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (42,195 km um 09:00 Uhr, frühester Lauf ab 5 km). Anmeldeschluss 30.05.2027, 23:59 Uhr; Startzeiten 12.06.2027: Marathon 9:00, Halbmarathon 10:00, Himmelsscheibenlauf 10:05 Uhr",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "start_time": "09:00",
    "fee": "Marathon 50 €, Halbmarathon 40 €, Himmelsscheibenlauf (10 km) 25 € bei Anmeldung bis 30.11.2026; bis 28.02.2027 60 € / 45 € / 30 €, bis 30.05.2027 70 € / 50 € / 35 €; Nachmeldung 75 € / 55 € / 40 €",
    "reg_close": "2027-05-30",
@@ -36904,18 +36959,19 @@
    "lat": 52.262,
    "lon": 11.254,
    "date": "2027-06-13",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "6",
     "10,8"
    ],
    "url": "http://www.lghopfen.de",
    "source": "https://www.runme.de/deutschland/schackenslebener-hopfenlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 10:15 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 10:15 Uhr). Termin laut Laufkalender des Leichtathletik-Verbands Sachsen-Anhalt (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:15"
-   }
+   },
+   "start_place": "Sportplatz, Schackensleben"
   },
   {
    "id": "biesenroeder-schwertlauf-2027",
@@ -36958,9 +37014,11 @@
    ],
    "url": "https://www.la-club-theissen.de/",
    "source": "https://www.runme.de/deutschland/globus-theissen-lauf/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (7 km um 09:30 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "09:30"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (7 km um 09:30 Uhr, frühester Lauf ab 5 km). Meldeschluss laut Verbandskalender 13.06.2027.",
+   "checked": "2026-11-08",
+   "start_time": "09:30",
+   "reg_close": "2027-06-13",
+   "start_place": "Stadion der Bergarbeiter - Theißen, Theißen"
   },
   {
    "id": "besenbinder-lauf-rund-um-hainrode-2027",
@@ -36972,15 +37030,17 @@
    "lat": 51.456,
    "lon": 11.007,
    "date": "2027-06-26",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "15,5"
    ],
    "url": "https://www.asv-sangerhausen.de/",
    "source": "https://www.runme.de/deutschland/besenbinder-lauf-rund-um-hainrode/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-05"
+   "info": "Strecken laut RUNME. Termin laut Laufkalender des Leichtathletik-Verbands Sachsen-Anhalt (Stand 08.11.2026). Meldeschluss laut Verbandskalender 23.06.2027.",
+   "checked": "2026-11-08",
+   "reg_close": "2027-06-23",
+   "start_place": "Hainröder Hauptstraße 60A, OT Hainrode, Südharz"
   },
   {
    "id": "lubaster-waldlauf-2027",
@@ -37013,19 +37073,17 @@
    "kreis": "Salzlandkreis",
    "lat": 51.95,
    "lon": 11.7,
-   "date": "2027-06-27",
-   "confirmed": false,
+   "date": "2027-10-01",
+   "confirmed": true,
    "distances": [
     "7",
     "13"
    ],
    "url": "http://www.laufgruppe-eickendorf.de/",
-   "source": "https://www.runme.de/deutschland/feldmarklauf-eickendorf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (7 km um 10:00 Uhr). Laut Laufgruppe Eickendorf gibt es am 01.10.2027 wieder eine Nachtedition des Feldmarklaufs.",
+   "source": "http://www.laufgruppe-eickendorf.de/",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (7 km um 10:00 Uhr). Laut Laufgruppe Eickendorf gibt es am 01.10.2027 wieder eine Nachtedition des Feldmarklaufs. Laut Laufgruppe Eickendorf wieder als Nachtedition am Freitag 01.10.2027 (2026 ebenfalls im Oktober); Strecken und Startzeit der Nachtedition noch nicht veröffentlicht, die Angaben stammen von der Sommerausgabe.",
    "checked": "2026-11-08",
-   "prev": {
-    "start_time": "10:00"
-   }
+   "prev": {}
   },
   {
    "id": "hochkippenlauf-2027",
@@ -37045,8 +37103,9 @@
    "url": "https://running.life/de/termine/hochkippenlauf",
    "source": "https://www.runme.de/deutschland/hochkippenlauf-profen/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 10:00 Uhr, frühester Lauf ab 5 km). Ausrichter SV Eintracht Profen; Ausgabe 2026 am 04.07.2026 mit Strecken von 400 m bis 10 km, Meldung bis 01.07.2026, Nachmeldung vor Ort gegen Gebühr (laut running.life). Die frühere Webseite des Laufs ist nicht mehr erreichbar.",
-   "checked": "2026-11-05",
-   "start_time": "10:00"
+   "checked": "2026-11-08",
+   "start_time": "10:00",
+   "start_place": "Stadion des Friedens, Profen"
   },
   {
    "id": "lauf-um-den-hain-giersleben-2027",
@@ -37138,9 +37197,11 @@
    ],
    "url": "https://tsv-rot-weiss-zerbst.de/",
    "source": "https://www.runme.de/deutschland/heimat-und-schuetzenfestlauf-zerbst/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (9 km um 18:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "18:00"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (9 km um 18:00 Uhr, frühester Lauf ab 5 km). Meldeschluss laut Verbandskalender 04.08.2027.",
+   "checked": "2026-11-08",
+   "start_time": "18:00",
+   "reg_close": "2027-08-04",
+   "start_place": "Schlossgarten Stadthalle, Zerbst"
   },
   {
    "id": "schierker-sommerlauf-2027",
@@ -37159,13 +37220,14 @@
    ],
    "url": "https://www.schierker-sommerlauf.de/",
    "source": "https://www.runme.de/deutschland/schierker-sommerlauf/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (16 km um 10:00 Uhr, frühester Lauf ab 5 km). Termin 14.08.2027 laut Veranstalterseite; 2026 gab es 475 Meldungen (16 km Winterbergtrail, 8 km Hauptlauf, 4 km Sommerlauf, 1 km Kurparklauf). 25. Schierker Sommerlauf am 14.08.2027 laut Veranstalterseite",
-   "checked": "2026-11-05",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (16 km um 10:00 Uhr, frühester Lauf ab 5 km). Termin 14.08.2027 laut Veranstalterseite; 2026 gab es 475 Meldungen (16 km Winterbergtrail, 8 km Hauptlauf, 4 km Sommerlauf, 1 km Kurparklauf). 25. Schierker Sommerlauf am 14.08.2027 laut Veranstalterseite Meldeschluss laut Verbandskalender 08.08.2027.",
+   "checked": "2026-11-08",
    "start_time": "10:00",
    "late_reg": "Nachmeldungen bis 1 Stunde vor dem jeweiligen Start vor Ort möglich, Nachmeldegebühr 5 € (Ausgabe 2026)",
    "parking": "Parkhaus Am Winterbergtor in Schierke (1 € pro Stunde, ca. 5 Minuten zu Fuß)",
    "showers": "Umkleide und Duschmöglichkeiten in der Schierker Feuersteinarena",
-   "start_place": "Schierker Feuersteinarena (Start, Ziel und Startnummernausgabe)"
+   "start_place": "Schierker Feuersteinarena (Start, Ziel und Startnummernausgabe)",
+   "reg_close": "2027-08-08"
   },
   {
    "id": "tangermuender-lichterlauf-2027",
@@ -37208,9 +37270,11 @@
    ],
    "url": "http://www.sport-burgenland.de",
    "source": "https://www.runme.de/deutschland/jahngedenklauf-freyburg/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (6 km um 10:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "10:00"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (6 km um 10:00 Uhr, frühester Lauf ab 5 km). Meldeschluss laut Verbandskalender 14.08.2027.",
+   "checked": "2026-11-08",
+   "start_time": "10:00",
+   "reg_close": "2027-08-14",
+   "start_place": "Stadion Freyburg, Freyburg (Unstrut)"
   },
   {
    "id": "leunaer-saaleanlagenlauf-2027",
@@ -37273,10 +37337,11 @@
    "url": "https://www.stolberger-schloss-lauf.de/",
    "source": "https://www.runme.de/deutschland/1-stolberger-schloss-lauf/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (21,0975 km um 11:00 Uhr, frühester Lauf ab 5 km). Im Startgeld sind 5 bis 10 Euro für ein regionales Projekt enthalten",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "start_time": "11:00",
    "start_place": "Schloss Stolberg, Stolberg (Harz)",
-   "parking": "Parkplätze an der Thyragrotte, am Bahnhof und im Kalten Tal; Straßensperrungen am Veranstaltungstag beachten"
+   "parking": "Parkplätze an der Thyragrotte, am Bahnhof und im Kalten Tal; Straßensperrungen am Veranstaltungstag beachten",
+   "charity": "5 bis 10 € je Startgebühr (je nach Disziplin) gehen an ein regionales Projekt in und um Stolberg (Harz); 2026 an die Gemeinde Südharz für überdachte Sitzgelegenheiten in Stolberg und Rottleberode, 2025 an die Bibliothek Rottleberode und ein Theaterprojekt in Stolberg"
   },
   {
    "id": "zeitzer-stadtlauf-im-schlosspark-2027",
@@ -37288,18 +37353,20 @@
    "lat": 50.977,
    "lon": 12.195,
    "date": "2027-08-28",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5,4",
     "10,8"
    ],
    "url": "https://www.sg-chemie-zeitz.de/",
    "source": "https://www.runme.de/deutschland/schlossparklauf-zeitz/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,4 km um 10:00 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,4 km um 10:00 Uhr). Termin laut Laufkalender des Leichtathletik-Verbands Sachsen-Anhalt (Stand 08.11.2026). Meldeschluss laut Verbandskalender 25.08.2027.",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:00"
-   }
+   },
+   "reg_close": "2027-08-25",
+   "start_place": "Schlosspark, Zeitz"
   },
   {
    "id": "arendsee-event-2027",
@@ -37336,15 +37403,15 @@
    "lat": 51.858,
    "lon": 10.718,
    "date": "2027-09-04",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "9,6",
     "26,2"
    ],
    "url": "http://www.brockenlauf.de/",
    "source": "https://www.runme.de/deutschland/brockenlauf-ilsenburg-harz-/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-05"
+   "info": "Strecken laut RUNME. Laut Veranstalterseite Brockenlauf am 04.09.2027.",
+   "checked": "2026-11-08"
   },
   {
    "id": "noerdlicher-saale-kreislauf-2027",
@@ -37449,19 +37516,20 @@
    "kreis": "Burgenlandkreis",
    "lat": 51.08,
    "lon": 11.719,
-   "date": "2027-09-11",
-   "confirmed": false,
+   "date": "2027-09-18",
+   "confirmed": true,
    "distances": [
     "6,4",
     "10,8"
    ],
    "url": "http://www.lg-rudelsburg.de",
-   "source": "https://www.runme.de/deutschland/rudelsburglauf-bad-koesen/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-09-18. Startzeit der letzten Ausgabe laut RUNME (5,5 km um 10:00 Uhr).",
-   "checked": "2026-11-05",
+   "source": "https://www.lvsa.de/index.php?article_id=1452",
+   "info": "Strecken laut RUNME. running.life nennt dafür den 2027-09-18. Startzeit der letzten Ausgabe laut RUNME (5,5 km um 10:00 Uhr). Termin laut Laufkalender des Leichtathletik-Verbands Sachsen-Anhalt (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:00"
-   }
+   },
+   "start_place": "Parkplatz am Campingplatz, Bad Kösen (Naumburg)"
   },
   {
    "id": "spiegelsbergelauf-2027",
@@ -37473,18 +37541,19 @@
    "lat": 51.896,
    "lon": 11.056,
    "date": "2027-09-11",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "8",
     "14"
    ],
    "url": "https://www.spiegelsbergelauf.de/",
    "source": "https://www.runme.de/deutschland/spiegelsbergelauf-halberstadt/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (14 km um 09:30 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (14 km um 09:30 Uhr). Laut Veranstalterseite Spiegelsbergelauf 2027 am 11.09.2027 (14 km, 8 km, 4 km).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "09:30"
-   }
+   },
+   "reg_close": "2027-09-07"
   },
   {
    "id": "dessauer-rathaus-center-city-run-2027",
@@ -37496,14 +37565,14 @@
    "lat": 51.8428278,
    "lon": 12.2303935,
    "date": "2027-09-12",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "10"
    ],
    "url": "https://anhalt-sport.de/events/27-dessauer-rathaus-center-cityrun-2026.html",
    "source": "https://running.life/de/termine/dessauer-rathaus-center-city-run",
-   "info": "Dessauer Rathaus-Center CityRUN: Innenstadt-Rundkurse mit Läufen über 1, 2, 4 und 10 km sowie einem Firmenlauf (Angaben laut running.life, Stand 2026). Ausgabe 2026 am 13.09.2026: 10-km-Pokallauf 11:30 Uhr, 4-km-Lauf 10:15 Uhr, 2-km-Jedermannlauf 11:00 Uhr; Anmeldung über strassenlauf.org, Termin 2027 noch nicht bestätigt",
-   "checked": "2026-11-05",
+   "info": "Dessauer Rathaus-Center CityRUN: Innenstadt-Rundkurse mit Läufen über 1, 2, 4 und 10 km sowie einem Firmenlauf (Angaben laut running.life, Stand 2026). Ausgabe 2026 am 13.09.2026: 10-km-Pokallauf 11:30 Uhr, 4-km-Lauf 10:15 Uhr, 2-km-Jedermannlauf 11:00 Uhr; Anmeldung über strassenlauf.org, Termin 2027 noch nicht bestätigt. Termin laut Laufkalender des Leichtathletik-Verbands Sachsen-Anhalt (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev_date": "2026-09-13",
    "start_place": "Rathaus-Center, Zerbster Straße 4, Dessau-Roßlau (Start und Ziel)",
    "prev": {
@@ -37521,7 +37590,7 @@
    "lat": 51.442,
    "lon": 11.398,
    "date": "2027-09-12",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10",
@@ -37529,11 +37598,13 @@
    ],
    "url": "http://www.asv-sangerhausen.de/",
    "source": "https://www.runme.de/deutschland/othaler-gutshof-lauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 09:00 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 09:00 Uhr). Termin laut Laufkalender des Leichtathletik-Verbands Sachsen-Anhalt (Stand 08.11.2026). Meldeschluss laut Verbandskalender 09.09.2027.",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "09:00"
-   }
+   },
+   "reg_close": "2027-09-09",
+   "start_place": "Gutshof Othal, Allstedt OT Othal"
   },
   {
    "id": "parklauf-tangerhuette-2027",
@@ -37568,7 +37639,7 @@
    "lat": 51.795,
    "lon": 11.74,
    "date": "2027-09-18",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "12",
@@ -37576,11 +37647,12 @@
    ],
    "url": "https://psv-bernburg.de/",
    "source": "https://www.runme.de/deutschland/bernburger-brueckenlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 10:00 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 10:00 Uhr). Termin laut Laufkalender des Leichtathletik-Verbands Sachsen-Anhalt (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:00"
-   }
+   },
+   "start_place": "Am Rosenhag, 06406 Bernburg, Bernburg"
   },
   {
    "id": "altstadtlauf-salzwedel-2027",
@@ -37601,7 +37673,7 @@
    "url": "https://www.altstadtlauf-salzwedel.de/",
    "source": "https://www.runme.de/deutschland/altstadtlauf-salzwedel/",
    "info": "Termin 19.09.2027 laut Veranstalter (Triathlonfüchse Osterburg e. V.). Strecken laut RUNME.",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "09:30"
    },
@@ -37609,7 +37681,10 @@
    "reg_close": "2027-09-12",
    "late_reg": "Nachmeldungen vor Ort möglich (Voranmeldung wird empfohlen)",
    "parking": "Parkplatzempfehlungen: Nicolaiplatz 24 und Am Chüdenwall 3, Salzwedel",
-   "showers": "Umkleiden und Duschen vor Ort nicht möglich"
+   "showers": "Umkleiden und Duschen vor Ort nicht möglich",
+   "fee": "5 km und 10 km 12 €, Halbmarathon 20 € (ab Jahrgang 2009); Jahrgang 2010 und jünger 5 €; Nachmeldung ab 12.09.2027 +5 €",
+   "pickup": "Ausgabe der Startunterlagen ab 08:30 Uhr",
+   "start_place": "Marktplatz am Bürgercenter, Am Schulwall 1, 29410 Salzwedel"
   },
   {
    "id": "bergzeitlauf-brockenheroes-2027",
@@ -37644,18 +37719,20 @@
    "lat": 52.018,
    "lon": 11.724,
    "date": "2027-09-26",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "6,9",
     "13,7"
    ],
    "url": "http://xn--drei-brcken-lauf-pzb.de/",
    "source": "https://www.runme.de/deutschland/schoenebecker-brueckenlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (13,74 km um 10:00 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (13,74 km um 10:00 Uhr). Termin laut Laufkalender des Leichtathletik-Verbands Sachsen-Anhalt (Stand 08.11.2026). Meldeschluss laut Verbandskalender 22.09.2027.",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:00"
-   }
+   },
+   "reg_close": "2027-09-22",
+   "start_place": "Schönebeck, Salineinsel (Barbyer Straße), Schönebeck"
   },
   {
    "id": "geiseltalseelauf-2027",
@@ -37667,7 +37744,7 @@
    "lat": 51.297,
    "lon": 11.844,
    "date": "2027-10-03",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "6,5",
     "11,5",
@@ -37675,15 +37752,16 @@
    ],
    "url": "http://www.geiseltalseelauf.de",
    "source": "https://www.runme.de/deutschland/geiseltalseelauf-braunsbedra/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6,5 km um 09:45 Uhr). Ausgabe 2026: Online-Anmeldeschluss 25.09., Teilnehmerlimit wegen begrenzter Kapazität der Marina",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6,5 km um 09:45 Uhr). Ausgabe 2026: Online-Anmeldeschluss 25.09., Teilnehmerlimit wegen begrenzter Kapazität der Marina. Termin laut Laufkalender des Leichtathletik-Verbands Sachsen-Anhalt (Stand 08.11.2026). Meldeschluss laut Verbandskalender 21.09.2027.",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "09:45",
     "fee": "Halbmarathon 24 € (bis 31.08.), danach 29 €; 11,5 km 10 €; 7 km 10 €; 3 km (AK 12-15) 5 €; Walking 5 € (jeweils inklusive 2 € Mehrwegbecher-Pfand); Kinderläufe bis AK 11 ohne Gebühr (Ausgabe 2026)"
    },
    "start_place": "Marina Braunsbedra, 06242 Braunsbedra",
    "parking": "Parkplätze kostenpflichtig und in begrenzter Zahl, Fahrgemeinschaften empfohlen",
-   "late_reg": "Nachmeldung am Wettkampftag bis 1 Stunde vor dem Start im Wettkampfbüro (Besucherzentrum) möglich (Ausgabe 2026)"
+   "late_reg": "Nachmeldung am Wettkampftag bis 1 Stunde vor dem Start im Wettkampfbüro (Besucherzentrum) möglich (Ausgabe 2026)",
+   "reg_close": "2027-09-21"
   },
   {
    "id": "magdeburg-marathon-2027",
@@ -37730,7 +37808,7 @@
    "url": "https://www.mitteldeutscher-marathon.de/",
    "source": "https://www.runme.de/deutschland/mitteldeutscher-marathon-halle-saale/",
    "info": "Termin 17.10.2027 laut Veranstalter (24. Mitteldeutscher Marathon; RUNME nannte als Prognose den 03.10.2027). Strecken laut RUNME. Startzeiten 17.10.2027: Marathon 9:00 Uhr, Halbmarathon 11:00 Uhr",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "09:00"
    },
@@ -37750,7 +37828,7 @@
    "lat": 51.903,
    "lon": 10.843,
    "date": "2027-10-09",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "11",
@@ -37759,8 +37837,8 @@
    ],
    "url": "http://www.harz-gebirgslauf.de",
    "source": "https://www.runme.de/deutschland/harz-gebirgslauf-wernigerode/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (11 km um 08:15 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (11 km um 08:15 Uhr). Laut Veranstalterseite 49. Harz-Gebirgslauf am 09.10.2027.",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "08:15"
    }
@@ -37819,19 +37897,21 @@
    "kreis": "Altmarkkreis Salzwedel",
    "lat": 52.525,
    "lon": 11.395,
-   "date": "2027-03-28",
-   "confirmed": false,
+   "date": "2027-04-04",
+   "confirmed": true,
    "distances": [
     "6,5",
     "11,3"
    ],
    "url": "https://www.elbe-ohre-cup.de",
-   "source": "https://www.runme.de/deutschland/kaisersteinlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6,5 km um 09:35 Uhr).",
-   "checked": "2026-11-05",
+   "source": "https://www.lvsa.de/index.php?article_id=1452",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6,5 km um 09:35 Uhr). Termin laut Laufkalender des Leichtathletik-Verbands Sachsen-Anhalt (Stand 08.11.2026). Meldeschluss laut Verbandskalender 01.04.2027.",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "09:35"
-   }
+   },
+   "reg_close": "2027-04-01",
+   "start_place": "Sportplatz Letzlingen, Letzlingen"
   },
   {
    "id": "kulkiathlon-markranstaedt-2027",
@@ -38149,8 +38229,10 @@
    ],
    "url": "https://www.hdsports.org/laufen/zerbster-rolandlauf",
    "source": "https://www.hdsports.org/laufen/zerbster-rolandlauf",
-   "info": "Termin und Strecken laut HDsports. Termin laut HDsports vom Veranstalter bestätigt.",
-   "checked": "2026-11-05"
+   "info": "Termin und Strecken laut HDsports. Termin laut HDsports vom Veranstalter bestätigt. Meldeschluss laut Verbandskalender 22.10.2027.",
+   "checked": "2026-11-08",
+   "reg_close": "2027-10-22",
+   "start_place": "Jahn-Stadion, Zerbst"
   },
   {
    "id": "harzlauf-thale-2027",
@@ -38608,11 +38690,12 @@
    "url": "https://www.lausitzer-sportevents.de/anmeldung/anm.php?N=2026121",
    "source": "https://running.life/de/termine/nikolaus-lauf-senftenberg",
    "info": "Termin und Strecken laut running.life/gotrail.run. Strecken laut Anmeldeseite: 2,5 km (10:30), 17,5 km um den Senftenberger See (11:00), 6,6 km am Senftenberger See und an der Schwarzen Elster (11:10 Uhr)",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "start_time": "11:00",
    "fee": "2,5 km 7 €, 6,6 km 14 € (auch Walken), 17,5 km 20 € bei Anmeldung bis 03.12.2026",
    "reg_close": "2026-12-03",
-   "showers": "Abholung der Startnummern, Umkleiden und Duschen in der Sporthalle Steigerstraße"
+   "showers": "Abholung der Startnummern, Umkleiden und Duschen in der Sporthalle Steigerstraße",
+   "start_place": "Vor der Grundschule am See, Senftenberg"
   },
   {
    "id": "michendorfer-nikolauslauf-2026",
@@ -38653,7 +38736,7 @@
    ],
    "url": "http://www.neptun08-finsterwalde.de",
    "source": "https://www.runme.de/deutschland/nikolauslauf-finsterwalde/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (42,195 km um 09:55 Uhr, frühester Lauf ab 5 km).",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (42,195 km um 09:55 Uhr, frühester Lauf ab 5 km). Die Laufserie Elbe-Elster nennt für den 06.12.2026 einen Nikolauslauf in Finsterwalde/Nehesdorf um 10:30 Uhr mit 0,4 bis 10 km; ob Halbmarathon und Marathon angeboten werden, ist nicht geklärt.",
    "checked": "2026-11-05",
    "start_time": "09:55"
   },
@@ -38732,14 +38815,14 @@
    "lat": 51.518,
    "lon": 13.395,
    "date": "2027-01-01",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "8",
     "5"
    ],
    "url": "https://www.hdsports.org/laufen/neujahrslauf-bad-liebenwerda",
-   "source": "https://www.hdsports.org/laufen/neujahrslauf-bad-liebenwerda",
-   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr). Ausgabe 2026 (01.01.2026): Strecken 8 km, 5 km und 3 km, Start 11:00 Uhr ",
+   "source": "https://www.elsterlauf.de/laufserie-elbe-elster/",
+   "info": "Ausgabe 2026 (01.01.2026): Strecken 8 km, 5 km und 3 km, Start 11:00 Uhr. Termin laut Laufserie Elbe-Elster: Freitag 01.01.2027, 11 Uhr im Kurpark Bad Liebenwerda (3, 5 und 11 km).",
    "checked": "2026-11-08",
    "prev": {
     "fee": "3 € Teilnahmegebühr, Anmeldung auch am Wettkampftag vor Ort",
@@ -38787,7 +38870,7 @@
    ],
    "url": "http://www.frostwiese.de",
    "source": "https://www.runme.de/deutschland/frostwiesenlauf-burg-kauper/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:00 Uhr). 25. Frostwiesenlauf am 23. und 24.01.2027: Samstag 13, 10 und 3,6 km, Sonntag 30, 21, 10 und 5 km (Termine laut Lausitz-Laufserie (lausitzer-sportevents.de))",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:00 Uhr). 25. Frostwiesenlauf am 23. und 24.01.2027: Samstag 13, 10 und 3,6 km, Sonntag 30, 21, 10 und 5 km (Termine laut Lausitz-Laufserie (lausitzer-sportevents.de)). Termin laut Terminliste der Lausitzer Sportevents/Lausitz-Laufserie (Stand 08.11.2026).",
    "checked": "2026-11-08",
    "prev": {
     "start_time": "10:00"
@@ -38807,15 +38890,15 @@
    "kreis": "Stadt Cottbus",
    "lat": 51.761,
    "lon": 14.354,
-   "date": "2027-02-13",
-   "confirmed": false,
+   "date": "2027-02-06",
+   "confirmed": true,
    "distances": [
     "8,4"
    ],
    "url": "http://www.cpl-ev.de/html/verein.htm",
-   "source": "https://www.runme.de/deutschland/pfannkuchenlauf-cottbus/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (8,4 km um 10:00 Uhr).",
-   "checked": "2026-11-05",
+   "source": "https://www.cpl-ev.de/html/veranstaltungen.htm",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (8,4 km um 10:00 Uhr). Termin laut Veranstaltungsliste 2027 der Cottbuser Parkläufer. Samstag 10 Uhr im Branitzer Park gegenüber dem Tierparkeingang, 4,2 und 8,4 km ohne Anmeldung, Gebühren und Wertung.",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:00"
    }
@@ -38872,8 +38955,8 @@
    "kreis": "LK Dahme-Spreewald",
    "lat": 52.133,
    "lon": 13.95,
-   "date": "2027-02-21",
-   "confirmed": false,
+   "date": "2027-02-28",
+   "confirmed": true,
    "distances": [
     "6",
     "13",
@@ -38881,8 +38964,8 @@
    ],
    "url": "http://www.tsgluebben.de",
    "source": "https://www.runme.de/deutschland/krausnicker-berge-lauf-luebben/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-02-28. Startzeit der letzten Ausgabe laut RUNME (6 km um 10:00 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. running.life nennt dafür den 2027-02-28. Startzeit der letzten Ausgabe laut RUNME (6 km um 10:00 Uhr). Termin laut Wettkampfliste des Zeitnehmers Berlin-Timing (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:00"
    }
@@ -38945,19 +39028,20 @@
    "lat": 52.3472237,
    "lon": 14.5505673,
    "date": "2027-03-06",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "Backyard"
    ],
    "url": "https://thelastlight.phexora.ai/",
    "source": "https://running.life/de/termine/the-last-light-backyard-ultra/2027-03-06",
-   "info": "Backyard Ultra mit Runden von 6,7 km im Rosengarten bei Frankfurt (Oder), Winter- und Sommerausgabe 2027. Termin noch nicht bestätigt. Winter Edition am 06.03.2027, Start 8:00 Uhr; Anmeldung und Zahlung bis 26.02.2027, laut Seite noch nicht geöffnet (Stand 05.11.2026); zusätzlich Sommerausgabe 2027 mit eigenen Preisen",
-   "checked": "2026-11-05",
+   "info": "Backyard Ultra mit Runden von 6,7 km im Rosengarten bei Frankfurt (Oder), Winter- und Sommerausgabe 2027.Winter Edition am 06.03.2027, Start 8:00 Uhr; Anmeldung und Zahlung bis 26.02.2027, laut Seite noch nicht geöffnet (Stand 05.11.2026); zusätzlich Sommerausgabe 2027 mit eigenen Preisen. Laut Veranstalterseite Winter Edition am 06.03.2027, Start 8 Uhr (Check-in 6–7 Uhr), höchstens 30 Teilnehmende und 15 Runden; das Original folgt am 25.06.2027.",
+   "checked": "2026-11-08",
    "start_time": "08:00",
    "fee": "35 € (Winter Edition am 06.03.2027)",
    "limit": "30 Startplätze, maximal 15 Runden (Winter Edition)",
    "reg_close": "2027-02-26",
-   "pickup": "Check-in von 6:00 bis 7:00 Uhr"
+   "pickup": "Check-in von 6:00 bis 7:00 Uhr",
+   "start_place": "Stadtwald Rosengarten, Fürstenwalder Poststraße 129, 15234 Frankfurt (Oder)"
   },
   {
    "id": "frauenseelauf-2027",
@@ -39025,8 +39109,8 @@
    ],
    "url": "http://www.luckauer-laeuferbund.de/",
    "source": "https://www.runme.de/deutschland/teufelsteinlauf-bornsdorf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (9,4 km um 11:00 Uhr). 35. Teufelssteinlauf am 07.03.2027: Start 11:00 Uhr 2,5 km, 11:03 Uhr 4,7, 9,4 und 14,1 km (Termine laut Lausitz-Laufserie (lausitzer-sportevents.de))",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (9,4 km um 11:00 Uhr). 35. Teufelssteinlauf am 07.03.2027: Start 11:00 Uhr 2,5 km, 11:03 Uhr 4,7, 9,4 und 14,1 km (Termine laut Lausitz-Laufserie (lausitzer-sportevents.de)). Termin laut Terminliste der Lausitzer Sportevents/Lausitz-Laufserie (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "11:00"
    },
@@ -39070,16 +39154,16 @@
    "kreis": "Stadt Cottbus",
    "lat": 51.741,
    "lon": 14.357,
-   "date": "2027-03-20",
-   "confirmed": false,
+   "date": "2027-03-13",
+   "confirmed": true,
    "distances": [
     "10",
     "5"
    ],
    "url": "https://www.hdsports.org/laufen/branitzer-parklauf",
-   "source": "https://www.hdsports.org/laufen/branitzer-parklauf",
-   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr). Der Cottbuser Parkläufer e. V. richtet den Branitzer Parklauf zweimal im Jahr aus (Frühjahr und Herbst); Ausgabe Frühjahr 2026 war am 21.03.2026.",
-   "checked": "2026-11-05"
+   "source": "https://www.cpl-ev.de/html/veranstaltungen.htm",
+   "info": "Der Cottbuser Parkläufer e. V. richtet den Branitzer Parklauf zweimal im Jahr aus (Frühjahr und Herbst); Ausgabe Frühjahr 2026 war am 21.03.2026. Termin laut Veranstaltungsliste 2027 der Cottbuser Parkläufer. 72. Branitzer Parklauf am Samstag ab 10 Uhr, Sportplatz Branitz, Pückler Str. 53.",
+   "checked": "2026-11-08"
   },
   {
    "id": "fruehlingslauf-ludwigsfelde-2027",
@@ -39113,16 +39197,16 @@
    "kreis": "LK Oberhavel",
    "lat": 52.636,
    "lon": 13.204,
-   "date": "2027-03-20",
+   "date": "2027-03-13",
    "confirmed": false,
    "distances": [
     "5",
     "10"
    ],
    "url": "http://www.emb-cup.de/",
-   "source": "https://www.runme.de/deutschland/metallarbeiterlauf-hennigsdorf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 11:30 Uhr).",
-   "checked": "2026-11-05",
+   "source": "https://emb-cup.de/veranstaltungen/",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 11:30 Uhr). Termin noch nicht endgültig: laut vorläufigem Terminplan des EMB Energie-Cups Oberhavel 2027 (Termine „dienen zur Orientierung“, Änderungen möglich).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "11:30"
    }
@@ -39146,8 +39230,8 @@
    ],
    "url": "http://www.schneeglocke.de/",
    "source": "https://www.runme.de/deutschland/schneegloeckchen-lauf-ortrand/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:05 Uhr). 17. Schneeglöckchen-Lauf am 20.03.2027 (Kinderläufe am 19.03., Radrennen am 21.03.): Laufen 30, 15, 10, 5, 2 und 0,5 km, neu Run & Bike 30 km (Termine laut Lausitz-Laufserie (lausitzer-sportevents.de))",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:05 Uhr). 17. Schneeglöckchen-Lauf am 20.03.2027 (Kinderläufe am 19.03., Radrennen am 21.03.): Laufen 30, 15, 10, 5, 2 und 0,5 km, neu Run & Bike 30 km (Termine laut Lausitz-Laufserie (lausitzer-sportevents.de)). Termin laut Terminliste der Lausitzer Sportevents/Lausitz-Laufserie (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:05"
    },
@@ -39272,15 +39356,15 @@
    "kreis": "Stadt Cottbus",
    "lat": 51.7563,
    "lon": 14.3329,
-   "date": "2027-04-03",
-   "confirmed": false,
+   "date": "2027-03-27",
+   "confirmed": true,
    "distances": [
     "8,4"
    ],
    "url": "http://www.cpl-ev.de/",
-   "source": "https://www.runme.de/deutschland/eierlauf-cottbus/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-04-10. Startzeit der letzten Ausgabe laut RUNME (8,4 km um 10:00 Uhr).",
-   "checked": "2026-11-05",
+   "source": "https://www.cpl-ev.de/html/veranstaltungen.htm",
+   "info": "Strecken laut RUNME. running.life nennt dafür den 2027-04-10. Startzeit der letzten Ausgabe laut RUNME (8,4 km um 10:00 Uhr). Termin laut Veranstaltungsliste 2027 der Cottbuser Parkläufer. Samstag 10 Uhr im Branitzer Park gegenüber dem Tierparkeingang, 4,2 und 8,4 km ohne Anmeldung, Gebühren und Wertung.",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:00"
    }
@@ -39358,16 +39442,16 @@
    "kreis": "LK Prignitz",
    "lat": 53.242,
    "lon": 12.158,
-   "date": "2027-04-11",
-   "confirmed": false,
+   "date": "2027-04-18",
+   "confirmed": true,
    "distances": [
     "10,1",
     "HM"
    ],
    "url": "https://prignitz-cup.de/",
    "source": "https://www.runme.de/deutschland/1-meyenburger-2-laender-lauf-2025/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,25 km um 10:00 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,25 km um 10:00 Uhr). Termin laut Wettkampfliste des Zeitnehmers Berlin-Timing (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:00"
    }
@@ -39381,7 +39465,7 @@
    "kreis": "LK Oder-Spree",
    "lat": 52.4,
    "lon": 14.267,
-   "date": "2027-04-17",
+   "date": "2027-04-10",
    "confirmed": true,
    "distances": [
     "5",
@@ -39390,14 +39474,12 @@
     "30"
    ],
    "url": "http://www.sg-rauen1951.de",
-   "source": "https://www.runme.de/deutschland/fontane-lauf-durch-die-rauener-berge/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-04-10. Startzeit der letzten Ausgabe laut RUNME (30 km um 10:00 Uhr). Termin 17.04.2027 laut Ausschreibung des Veranstalters, Anmeldung vom 01.01. bis 13.04.2027",
-   "checked": "2026-11-05",
+   "source": "https://www.berlin-timing.de/wettkaempfe",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (30 km um 10:00 Uhr). 45. Fontane-Lauf durch die Rauener Berge am 10.04.2027 laut Wettkampfliste des Zeitnehmers Berlin-Timing und running.life. (Früher stand hier der 17.04.2027 mit Anmeldung bis 13.04.; das gehört zum Fürstenwalder Cross-Duathlon am selben Sportplatz.)",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:00"
    },
-   "reg_open": "2027-01-01",
-   "reg_close": "2027-04-13",
    "start_place": "Sportplatz der SG Rauen, Schulstraße 1, Rauen"
   },
   {
@@ -39432,16 +39514,16 @@
    "kreis": "LK Oberhavel",
    "lat": 53.067,
    "lon": 13.1,
-   "date": "2027-04-18",
+   "date": "2027-04-17",
    "confirmed": false,
    "distances": [
     "7",
     "11"
    ],
    "url": "http://www.loewenberger-sv.de/",
-   "source": "https://www.runme.de/deutschland/loewenberger-lankelauf-loewenberger-land-ot-liebenberg/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (7 km um 10:20 Uhr).",
-   "checked": "2026-11-05",
+   "source": "https://emb-cup.de/veranstaltungen/",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (7 km um 10:20 Uhr). Termin noch nicht endgültig: laut vorläufigem Terminplan des EMB Energie-Cups Oberhavel 2027 (Termine „dienen zur Orientierung“, Änderungen möglich).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:20"
    }
@@ -39484,10 +39566,11 @@
    ],
    "url": "https://www.spreewaldmarathon.de/",
    "source": "https://www.runme.de/deutschland/spreewald-marathon-burg-spreewald/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. running.life nennt dafür den 2027-05-01. Startzeit laut RUNME (200 km um 07:30 Uhr, frühester Lauf ab 5 km). 25. Spreewald-Marathon: Veranstaltung vom 22. bis 25. April 2027 in Burg, Lübbenau und Straupitz mit 14 Sportarten; die Läufe finden laut Kalender am Sonntag, 25.04.2027 statt (RUNME nannte als Prognose den 23.04.). Laufwettbewerbe am Sonntag, 25.04.2027 in Burg: 42, 21, 10, 5, 2 und 0,5 km (Termine laut Lausitz-Laufserie (lausitzer-sportevents.de))",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. running.life nennt dafür den 2027-05-01. Startzeit laut RUNME (200 km um 07:30 Uhr, frühester Lauf ab 5 km). 25. Spreewald-Marathon: Veranstaltung vom 22. bis 25. April 2027 in Burg, Lübbenau und Straupitz mit 14 Sportarten; die Läufe finden laut Kalender am Sonntag, 25.04.2027 statt (RUNME nannte als Prognose den 23.04.). Laufwettbewerbe am Sonntag, 25.04.2027 in Burg: 42, 21, 10, 5, 2 und 0,5 km (Termine laut Lausitz-Laufserie (lausitzer-sportevents.de)). Termin laut Terminliste der Lausitzer Sportevents/Lausitz-Laufserie (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "start_time": "07:30",
-   "late_reg": "Keine Nachmeldungen möglich"
+   "late_reg": "Keine Nachmeldungen möglich",
+   "start_place": "Festplatz in Burg (Spreewald), nahe der Touristinformation"
   },
   {
    "id": "lauf-rund-um-die-roemerschanze-rangsdorf-2027",
@@ -39551,8 +39634,8 @@
    ],
    "url": "https://www.lausitzer-sportevents.de/",
    "source": "https://www.runme.de/deutschland/motzener-fruehlingslauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,5 km um 09:50 Uhr). 25. Frühlingslauf Motzen am Samstag, 10.04.2027 (RUNME nannte als Prognose den 24.04.): 9:50 Uhr 1 km, 9:52 Uhr 3,5 km, 10:05 Uhr 5,5 und 8,5 km (Termine laut Lausitz-Laufserie (lausitzer-sportevents.de))",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,5 km um 09:50 Uhr). 25. Frühlingslauf Motzen am Samstag, 10.04.2027 (RUNME nannte als Prognose den 24.04.): 9:50 Uhr 1 km, 9:52 Uhr 3,5 km, 10:05 Uhr 5,5 und 8,5 km (Termine laut Lausitz-Laufserie (lausitzer-sportevents.de)). Termin laut Terminliste der Lausitzer Sportevents/Lausitz-Laufserie (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "09:50"
    },
@@ -39568,16 +39651,16 @@
    "kreis": "LK Potsdam-Mittelmark",
    "lat": 52.327,
    "lon": 12.662,
-   "date": "2027-04-24",
-   "confirmed": false,
+   "date": "2027-05-08",
+   "confirmed": true,
    "distances": [
     "6,7",
     "HM"
    ],
    "url": "http://insellauf-toeplitz.de/",
-   "source": "https://www.runme.de/deutschland/toeplitzer-insellauf-werder-ot-toeplitz/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,2 km um 09:30 Uhr).",
-   "checked": "2026-11-05",
+   "source": "https://insellauf-toeplitz.de/anmeldung/",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,2 km um 09:30 Uhr). Laut Veranstalterseite nächster Termin 8. Mai 2027 am Sportplatz Töplitz.",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "09:30"
    }
@@ -39712,8 +39795,8 @@
    ],
    "url": "https://www.hdsports.org/laufen/ilsee-see-lauf",
    "source": "https://www.hdsports.org/laufen/ilsee-see-lauf",
-   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr). 23. Ilse-See Lauf am Samstag, 01.05.2027, Start 10:00 Uhr: 3,8, 6 und 10,4 km (Termine laut Lausitz-Laufserie (lausitzer-sportevents.de))",
-   "checked": "2026-11-05",
+   "info": "23. Ilse-See Lauf am Samstag, 01.05.2027, Start 10:00 Uhr: 3,8, 6 und 10,4 km (Termine laut Lausitz-Laufserie (lausitzer-sportevents.de)). Termin laut Terminliste der Lausitzer Sportevents/Lausitz-Laufserie (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "start_time": "10:00",
    "start_place": "Pestalozzi-Grundschule, Werner-Seelenbinder-Str. 3, 01983 Großräschen"
   },
@@ -39793,15 +39876,15 @@
    "kreis": "LK Oberhavel",
    "lat": 52.762,
    "lon": 13.025,
-   "date": "2027-05-02",
+   "date": "2027-05-09",
    "confirmed": false,
    "distances": [
     "10"
    ],
    "url": "https://www.kremmen.de/",
-   "source": "https://www.runme.de/deutschland/kremmen-laeuft/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 10:40 Uhr).",
-   "checked": "2026-11-05",
+   "source": "https://emb-cup.de/veranstaltungen/",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 10:40 Uhr). Termin noch nicht endgültig: laut vorläufigem Terminplan des EMB Energie-Cups Oberhavel 2027 (Termine „dienen zur Orientierung“, Änderungen möglich).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:40"
    }
@@ -39823,8 +39906,8 @@
    ],
    "url": "https://www.berlin-timing.de/Ostsee-Cross-Teichland",
    "source": "https://running.life/de/termine/ostsee-cross-teichland",
-   "info": "Termin und Strecken laut running.life/gotrail.run. Ausschreibung 2027 beim Zeitnehmer berlin-timing.de, Start ab 10:00 Uhr, Online-Anmeldung bis 29.04.2027; Strecken 2,5, 5 und 10 km",
-   "checked": "2026-11-05",
+   "info": "Termin und Strecken laut running.life/gotrail.run. Ausschreibung 2027 beim Zeitnehmer berlin-timing.de, Start ab 10:00 Uhr, Online-Anmeldung bis 29.04.2027; Strecken 2,5, 5 und 10 km. Termin laut Wettkampfliste des Zeitnehmers Berlin-Timing (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "anmeldung_url": "https://www.berlin-timing.de/Ostsee-Cross-Teichland",
    "start_time": "10:00",
    "fee": "10 km 12 €, 5 km und 5 km Nordic Walking je 7 €, 2,5 km Schnuppercross 5 €, Kinder bis 9 Jahre (2,5 km) kostenlos",
@@ -39871,7 +39954,7 @@
    "url": "https://running.life/de/termine/wurzelwerk-backyard-ultra",
    "anmeldung_url": "https://my.raceresult.com/425008/",
    "source": "https://running.life/de/termine/wurzelwerk-backyard-ultra",
-   "info": "Backyard Ultra mit Runden von 6,706 km auf wurzeligen Trails, Last-Person-Standing-Format. Termin noch nicht bestätigt. Anmeldung 2027 schon ausgebucht, Warteliste mit 44 Plätzen (laut Anmeldeportal RaceResult am 05.11.2026); 1 € jeder Startgebühr geht an den Verein running4nature e. V. Ausgebucht, Anmeldung auf die Warteliste über das Anmeldeportal möglich (Stand 08.11.2026).",
+   "info": "Backyard Ultra mit Runden von 6,706 km auf wurzeligen Trails, Last-Person-Standing-Format. Termin noch nicht bestätigt. Anmeldung 2027 schon ausgebucht, Warteliste mit 44 Plätzen (laut Anmeldeportal RaceResult am 05.11.2026); 1 € jeder Startgebühr geht an den Verein running4nature e. V. Ausgebucht, Anmeldung auf die Warteliste über das Anmeldeportal möglich (Stand 08.11.2026). Laut Anmeldeportal (RaceResult) sind die Einzelplätze vergeben, offen ist nur noch die Warteliste (Stand 08.11.2026).",
    "checked": "2026-11-08",
    "fee": "95 € (Event-Shirt optional 30 €)",
    "start_time": "12:00",
@@ -39893,8 +39976,8 @@
    ],
    "url": "http://www.lausitz-marathon.de/",
    "source": "https://www.runme.de/deutschland/lausitz-marathon-klettwitz/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5,8 km um 09:00 Uhr, frühester Lauf ab 5 km). 26. Lausitz-Marathon am 08.05.2027: Laufen 5,7, 2 und 0,4 km, dazu Radfahren, Skaten und weitere Disziplinen (Termine laut Lausitz-Laufserie (lausitzer-sportevents.de)). Nachmeldungen sind laut Veranstalter zu allen Wettbewerben vor Ort möglich",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit laut RUNME (5,8 km um 09:00 Uhr, frühester Lauf ab 5 km). 26. Lausitz-Marathon am 08.05.2027: Laufen 5,7, 2 und 0,4 km, dazu Radfahren, Skaten und weitere Disziplinen (Termine laut Lausitz-Laufserie (lausitzer-sportevents.de)). Nachmeldungen sind laut Veranstalter zu allen Wettbewerben vor Ort möglich. Termin laut Terminliste der Lausitzer Sportevents/Lausitz-Laufserie (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "start_time": "09:00",
    "start_place": "DEKRA-Lausitzring (Testoval), Klettwitz",
    "late_reg": "Nachmeldungen am Samstag, 08.05.2027 bis 70 Minuten vor dem jeweiligen Start möglich"
@@ -39987,8 +40070,8 @@
    ],
    "url": "https://www.hdsports.org/laufen/naturparklauf-friedersdorf",
    "source": "https://www.hdsports.org/laufen/naturparklauf-friedersdorf",
-   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
-   "checked": "2026-11-05"
+   "info": "Termin noch nicht endgültig: so in der vorläufigen Terminvorschau des Niederlausitz-Cups 2027 (niederlausitzcup.de).",
+   "checked": "2026-11-08"
   },
   {
    "id": "stechlinseelauf-2027",
@@ -39999,16 +40082,16 @@
    "kreis": "LK Oberhavel",
    "lat": 53.067,
    "lon": 13.1,
-   "date": "2027-05-09",
+   "date": "2027-05-17",
    "confirmed": false,
    "distances": [
     "9,2",
     "15,2"
    ],
    "url": "http://www.laufpark-stechlin.de",
-   "source": "https://www.runme.de/deutschland/stechlinseelauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (9,2 km um 10:30 Uhr).",
-   "checked": "2026-11-05",
+   "source": "https://emb-cup.de/veranstaltungen/",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (9,2 km um 10:30 Uhr). Termin noch nicht endgültig: laut vorläufigem Terminplan des EMB Energie-Cups Oberhavel 2027 (Termine „dienen zur Orientierung“, Änderungen möglich).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:30"
    }
@@ -40022,16 +40105,16 @@
    "kreis": "Stadt Cottbus",
    "lat": 51.741,
    "lon": 14.357,
-   "date": "2027-05-16",
-   "confirmed": false,
+   "date": "2027-05-23",
+   "confirmed": true,
    "distances": [
     "8,8",
     "6,6"
    ],
    "url": "https://www.hdsports.org/laufen/branitzer-pyramidenlauf",
-   "source": "https://www.hdsports.org/laufen/branitzer-pyramidenlauf",
-   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
-   "checked": "2026-11-05"
+   "source": "https://www.cpl-ev.de/html/veranstaltungen.htm",
+   "info": "Termin laut Veranstaltungsliste 2027 der Cottbuser Parkläufer. 11. Branitzer Pyramidenlauf am Sonntag um 9:30 Uhr im Branitzer Park am Torhaus.",
+   "checked": "2026-11-08"
   },
   {
    "id": "altstadtlauf-gransee-2027",
@@ -40092,9 +40175,9 @@
     "11,9"
    ],
    "url": "http://www.bruchpiloten-leegebruch.de",
-   "source": "https://www.runme.de/deutschland/leegebrucher-strassenlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (11,9 km um 10:45 Uhr).",
-   "checked": "2026-11-05",
+   "source": "https://emb-cup.de/veranstaltungen/",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (11,9 km um 10:45 Uhr). Termin noch nicht endgültig: laut vorläufigem Terminplan des EMB Energie-Cups Oberhavel 2027 (Termine „dienen zur Orientierung“, Änderungen möglich).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:45"
    }
@@ -40139,10 +40222,13 @@
    "url": "https://www.elsterlauf.de/",
    "source": "https://www.runme.de/deutschland/elsterlauf-bad-liebenwerda/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (22,5 km um 08:05 Uhr, frühester Lauf ab 5 km). Voranmeldung über Baer-Service bis 28.05.2027, 22:00 Uhr (laut Veranstalterseite elsterlauf.de)",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "start_time": "08:05",
    "reg_close": "2027-05-28",
-   "pickup": "Nachmeldung und Ausgabe der Startunterlagen am 29.05.2027 von 13:00 bis 16:00 Uhr"
+   "pickup": "Nachmeldung und Ausgabe der Startunterlagen am 29.05.2027 von 13:00 bis 16:00 Uhr",
+   "showers": "Umkleiden und Duschen im Grundschulzentrum Bad Liebenwerda, Riesaer Str. 5-7 (Gepäckaufbewahrung 7–14:30 Uhr)",
+   "parking": "Ausgewiesene Parkplätze im Stadtgebiet",
+   "start_place": "Markt Bad Liebenwerda (ca. 300 m vom Grundschulzentrum)"
   },
   {
    "id": "below-gedenk-und-heidelauf-wittstock-2027",
@@ -40290,15 +40376,15 @@
    "lat": 51.767,
    "lon": 14.333,
    "date": "2027-06-12",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
    "url": "https://ostsee-sportspiele.de/",
    "source": "https://www.runme.de/deutschland/badekappenlauf_2/",
-   "info": "Laut Veranstalterseite 7. OSTSEE Sportspiele in Cottbus-Willmersdorf am 12. und 13. Juni 2027 (Save the Date); der frühere Badekappenlauf heißt seit 2026 OSTSEE RUN by ROTEC; Tag des Laufs und Startzeit noch nicht veröffentlicht. Strecken laut RUNME.",
-   "checked": "2026-11-05",
+   "info": "Laut Veranstalterseite 7. OSTSEE Sportspiele in Cottbus-Willmersdorf am 12. und 13. Juni 2027 (Save the Date); der frühere Badekappenlauf heißt seit 2026 OSTSEE RUN by ROTEC; Tag des Laufs und Startzeit noch nicht veröffentlicht. Strecken laut RUNME. Termin laut Veranstalter („Save the Date: 12.–13. Juni 2027, 7. OSTSEE Sportspiele in Cottbus-Willmersdorf“) und Terminvorschau des Niederlausitz-Cups 2027 (12.06.).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:00"
    }
@@ -40321,8 +40407,8 @@
    ],
    "url": "http://www.lscgrosskoschen.de",
    "source": "https://www.runme.de/deutschland/seelauf-um-den-senftenberger-see/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,4 km um 09:00 Uhr). 50. Lauf Rund um den Senftenberger See am Samstag, 19.06.2027 (RUNME nannte als Prognose den 12.06.): 9:00 Uhr 17,7, 10 und 5,4 km, 9:05 Uhr 3,2 km (Termine laut Lausitz-Laufserie (lausitzer-sportevents.de)). Ausgabe 2026 (13.06.2026): Online-Nachmeldung von Freitag 18:00 Uhr bis Samstag 9:00 Uhr, Nachmeldegebühr 2 €",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,4 km um 09:00 Uhr). 50. Lauf Rund um den Senftenberger See am Samstag, 19.06.2027 (RUNME nannte als Prognose den 12.06.): 9:00 Uhr 17,7, 10 und 5,4 km, 9:05 Uhr 3,2 km (Termine laut Lausitz-Laufserie (lausitzer-sportevents.de)). Ausgabe 2026 (13.06.2026): Online-Nachmeldung von Freitag 18:00 Uhr bis Samstag 9:00 Uhr, Nachmeldegebühr 2 €. Termin laut Terminliste der Lausitzer Sportevents/Lausitz-Laufserie (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "09:00"
    },
@@ -40386,7 +40472,7 @@
    "lat": 51.767,
    "lon": 14.333,
    "date": "2027-06-12",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10",
@@ -40394,8 +40480,8 @@
    ],
    "url": "https://ostsee-sportspiele.de/",
    "source": "https://www.runme.de/deutschland/badekappenlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:00 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:00 Uhr). Termin laut Veranstalter („Save the Date: 12.–13. Juni 2027, 7. OSTSEE Sportspiele in Cottbus-Willmersdorf“) und Terminvorschau des Niederlausitz-Cups 2027 (12.06.).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:00"
    }
@@ -40549,9 +40635,9 @@
     "5"
    ],
    "url": "https://stahl-hennigsdorf.de/",
-   "source": "https://www.runme.de/deutschland/hennigsdorfer-feuerwehr-und-bahnenlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (3 km um 10:30 Uhr).",
-   "checked": "2026-11-05",
+   "source": "https://emb-cup.de/veranstaltungen/",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (3 km um 10:30 Uhr). Termin noch nicht endgültig: laut vorläufigem Terminplan des EMB Energie-Cups Oberhavel 2027 (Termine „dienen zur Orientierung“, Änderungen möglich).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:30"
    }
@@ -40663,8 +40749,8 @@
    ],
    "url": "http://www.ev-gs-luebben.de/",
    "source": "https://www.runme.de/deutschland/schlossinsellauf-luebben/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 11:00 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 11:00 Uhr). Termin noch nicht endgültig: so in der vorläufigen Terminvorschau des Niederlausitz-Cups 2027 (niederlausitzcup.de).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "11:00"
    }
@@ -40900,15 +40986,15 @@
    "lat": 51.679675,
    "lon": 14.4150027,
    "date": "2027-07-31",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
    "url": "https://www.berlin-timing.de/Haasower-Waldlauf",
    "source": "https://running.life/de/termine/haasower-waldlauf",
-   "info": "Termin und Strecken laut running.life/gotrail.run.",
-   "checked": "2026-11-05"
+   "info": "Termin und Strecken laut running.life/gotrail.run. Termin laut Wettkampfliste des Zeitnehmers Berlin-Timing (Stand 08.11.2026).",
+   "checked": "2026-11-08"
   },
   {
    "id": "semliner-3-seen-lauf-2027",
@@ -40950,8 +41036,8 @@
    ],
    "url": "https://www.niederlausitzcup.de/",
    "source": "https://www.runme.de/deutschland/spowo-lauf-des-sv-glueck-auf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10,5 km um 10:30 Uhr). 13. SpoWo-Lauf des SV Glück Auf Kleinleipisch am Sonntag, 01.08.2027: 10:30 Uhr 10,5 km, 10:40 Uhr 7 km, 10:50 Uhr 3,6 km (Termine laut Lausitz-Laufserie (lausitzer-sportevents.de))",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10,5 km um 10:30 Uhr). 13. SpoWo-Lauf des SV Glück Auf Kleinleipisch am Sonntag, 01.08.2027: 10:30 Uhr 10,5 km, 10:40 Uhr 7 km, 10:50 Uhr 3,6 km (Termine laut Lausitz-Laufserie (lausitzer-sportevents.de)). Termin laut Terminliste der Lausitzer Sportevents/Lausitz-Laufserie (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:30"
    },
@@ -40976,8 +41062,8 @@
    ],
    "url": "https://www.hdsports.org/laufen/peitz-bewegt-sich",
    "source": "https://www.hdsports.org/laufen/peitz-bewegt-sich",
-   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
-   "checked": "2026-11-05"
+   "info": "Termin noch nicht endgültig: so in der vorläufigen Terminvorschau des Niederlausitz-Cups 2027 (niederlausitzcup.de).",
+   "checked": "2026-11-08"
   },
   {
    "id": "rund-um-den-weinberg-2027",
@@ -41143,8 +41229,8 @@
    ],
    "url": "https://www.niederlausitzcup.de/",
    "source": "https://www.runme.de/deutschland/senftenberger-citylauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:00 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:00 Uhr). Termin noch nicht endgültig: so in der vorläufigen Terminvorschau des Niederlausitz-Cups 2027 (niederlausitzcup.de).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:00"
    }
@@ -41368,14 +41454,17 @@
    ],
    "url": "https://asv-zeuthen.de/",
    "source": "https://www.runme.de/deutschland/zeuthener-jedermannslauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-09-19. Startzeit der letzten Ausgabe laut RUNME (5 km um 12:00 Uhr). Jedermannslauf am Sonntag, 19.09.2027 (RUNME nannte als Prognose den 12.09.), Anmeldung öffnet laut Veranstalter voraussichtlich am 01.12.2026",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. running.life nennt dafür den 2027-09-19. Startzeit der letzten Ausgabe laut RUNME (5 km um 12:00 Uhr). Jedermannslauf am Sonntag, 19.09.2027 (RUNME nannte als Prognose den 12.09.), Anmeldung öffnet laut Veranstalter voraussichtlich am 01.12.2026. Termin laut Wettkampfliste des Zeitnehmers Berlin-Timing (Stand 08.11.2026). Laut Veranstalterseite öffnet die Anmeldung voraussichtlich am 01.12.2026; 5 km und 10 km starten um 11 Uhr.",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "12:00"
    },
    "reg_open": "2026-12-01",
    "pickup": "Ausgabe der Startnummern am Samstag, 18.09.2027, 16:00 bis 18:00 Uhr vor dem REWE Zeuthen, Goethestr. 37",
-   "start_place": "Miersdorfer Chaussee 13 am S-Bahnhof Zeuthen"
+   "start_place": "Miersdorfer Chaussee 13 am S-Bahnhof Zeuthen",
+   "start_time": "11:00",
+   "fee": "10 km 11 € bis 30.06.2027, 13 € ab 01.07.2027, Nachmeldung 16 €; 5 km 9 € bzw. 11 €, Nachmeldung 14 €; U20 auf 5 und 10 km 5 € (Nachmeldung 10 €)",
+   "showers": "Duschen und Umkleiden im SPOX, Schulstraße (ca. 300 m entfernt), Kleiderabgabe vor Ort"
   },
   {
    "id": "loofen-schwoofe-2027",
@@ -41410,7 +41499,7 @@
    "lat": 51.75,
    "lon": 14.25,
    "date": "2027-09-18",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "10",
     "HM",
@@ -41418,11 +41507,17 @@
    ],
    "url": "https://mad-chicken-run.de/",
    "source": "https://www.runme.de/deutschland/mad-chicken-run/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 10:30 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 10:30 Uhr). Laut Veranstalterseite achter 24h Mad Chicken Run am 18.09.2027 um 10 Uhr, Startunterlagen Freitag 17.09.2027 15–21 Uhr.",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:30"
-   }
+   },
+   "start_time": "10:00",
+   "fee": "42 km 60 €, 22 km 40 €, 10 km 25 €; 24h Solo 115 €, 24h-5er-Team 109 € je Teammitglied, 6h-3er-Team 70 € je Teammitglied; Kids Run 2 km 5 € (bar vor Ort)",
+   "pickup": "Freitag 17.09.2027 15–21 Uhr und Samstag 18.09.2027 ab 7 Uhr",
+   "start_place": "Am Clubhaus des MSC Hänchen e.V. (ausgeschildert)",
+   "parking": "Kostenfreie Parkplätze direkt am Laufgelände, Zelten und Campen möglich",
+   "showers": "Duschen im Start- und Zielbereich (derzeit nur im Herrenbereich, eine Lösung für alle ist angekündigt)"
   },
   {
    "id": "regionalparklauf-barnimer-feldmark-2027",
@@ -41456,8 +41551,8 @@
    "kreis": "LK Ostprignitz-Ruppin",
    "lat": 52.933,
    "lon": 12.967,
-   "date": "2027-09-18",
-   "confirmed": false,
+   "date": "2027-09-11",
+   "confirmed": true,
    "distances": [
     "8",
     "14",
@@ -41465,8 +41560,8 @@
    ],
    "url": "https://www.esab-ausbildung.de/",
    "source": "https://www.runme.de/deutschland/wutzseelauf-lindow/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-09-11. Startzeit der letzten Ausgabe laut RUNME (22 km um 09:30 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. running.life nennt dafür den 2027-09-11. Startzeit der letzten Ausgabe laut RUNME (22 km um 09:30 Uhr). Termin 11.09.2027 laut Veranstaltungskalender Lindow und Terminplan des EMB Energie-Cups Oberhavel 2027.",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "09:30"
    }
@@ -41569,16 +41664,16 @@
    "kreis": "LK Oberhavel",
    "lat": 52.683,
    "lon": 13.283,
-   "date": "2027-09-26",
+   "date": "2027-09-19",
    "confirmed": false,
    "distances": [
     "5,7",
     "8,6"
    ],
    "url": "https://gruen-weiss-birkenwerder.de",
-   "source": "https://www.runme.de/deutschland/crosslauf-birkenwerder/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,7 km um 12:20 Uhr).",
-   "checked": "2026-11-05",
+   "source": "https://emb-cup.de/veranstaltungen/",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,7 km um 12:20 Uhr). Termin noch nicht endgültig: laut vorläufigem Terminplan des EMB Energie-Cups Oberhavel 2027 (Termine „dienen zur Orientierung“, Änderungen möglich).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "12:20"
    }
@@ -41729,15 +41824,15 @@
    "kreis": "LK Spree-Neiße",
    "lat": 51.73,
    "lon": 14.598,
-   "date": "2027-10-03",
-   "confirmed": false,
+   "date": "2027-10-10",
+   "confirmed": true,
    "distances": [
     "5"
    ],
    "url": "https://www.hdsports.org/laufen/forster-rosengartenlauf",
    "source": "https://www.hdsports.org/laufen/forster-rosengartenlauf",
-   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
-   "checked": "2026-11-05"
+   "info": "Laut Veranstalter am 10. Oktober 2027 (10 Jahre Rosengartenlauf).",
+   "checked": "2026-11-08"
   },
   {
    "id": "gaudilauf-14-27-2027",
@@ -41749,15 +41844,15 @@
    "lat": 51.517,
    "lon": 13.333,
    "date": "2027-10-03",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "14",
     "27"
    ],
    "url": "https://www.elsterlauf.de/",
    "source": "https://www.runme.de/deutschland/gaudilauf-schweinfurth-bali-muenchen-muenchen-an-der-elster/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (27 km um 08:45 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (27 km um 08:45 Uhr). Laut Veranstalterseite 21. Gaudilauf am 03.10.2027.",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "08:45"
    }
@@ -41772,15 +41867,15 @@
    "lat": 52.579,
    "lon": 13.887,
    "date": "2027-10-03",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "9,2",
     "HM"
    ],
    "url": "https://www.strausseelauf.de/",
    "source": "https://www.runme.de/deutschland/strausseelauf-strausberg/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 09:00 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 09:00 Uhr). Laut Veranstalterseite Strausseelauf am 03. Oktober 2027.",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "09:00"
    }
@@ -41794,16 +41889,16 @@
    "kreis": "LK Oberhavel",
    "lat": 52.687,
    "lon": 13.184,
-   "date": "2027-10-03",
+   "date": "2027-09-26",
    "confirmed": false,
    "distances": [
     "8",
     "12"
    ],
    "url": "https://run.teamwork-sportevents.de/",
-   "source": "https://www.runme.de/deutschland/velten-laeuft-city/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (8 km um 11:00 Uhr).",
-   "checked": "2026-11-05",
+   "source": "https://emb-cup.de/veranstaltungen/",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (8 km um 11:00 Uhr). Termin noch nicht endgültig: laut vorläufigem Terminplan des EMB Energie-Cups Oberhavel 2027 (Termine „dienen zur Orientierung“, Änderungen möglich).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "11:00"
    }
@@ -41909,7 +42004,7 @@
    "lat": 52.117,
    "lon": 12.677,
    "date": "2027-10-10",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "8",
     "25",
@@ -41917,15 +42012,17 @@
    ],
    "url": "http://www.burgenlauf.de",
    "source": "https://www.runme.de/deutschland/burgenlauf-bad-belzig/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (50 km um 07:30 Uhr). Ausgabe 2026 am 11.10.2026: 50 km 7:30, 25 km 9:50, 8 km 10:10 Uhr (Termine laut Lausitz-Laufserie (lausitzer-sportevents.de)); Online-Meldeschluss 6. Oktober 2027 laut Veranstalterseite",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (50 km um 07:30 Uhr). Ausgabe 2026 am 11.10.2026: 50 km 7:30, 25 km 9:50, 8 km 10:10 Uhr (Termine laut Lausitz-Laufserie (lausitzer-sportevents.de)); Online-Meldeschluss 6. Oktober 2027 laut Veranstalterseite. Laut Veranstalterseite 49. Burgenlauf am Sonntag 10.10.2027, Start und Ziel an der Burg Eisenhardt.",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "07:30"
    },
    "reg_close": "2027-10-06",
    "late_reg": "Nachmeldung Samstag 15:00 bis 17:00 Uhr, Sonntag 8:00 bis 9:30 Uhr gegen 5 € Nachmeldegebühr",
    "pickup": "Startunterlagen am Samstag von 15:00 bis 17:00 Uhr",
-   "start_place": "Burg Eisenhardt, Wittenberger Str. 14, 14806 Bad Belzig"
+   "start_place": "Burg Eisenhardt, Wittenberger Str. 14, 14806 Bad Belzig",
+   "showers": "Umkleidezelte auf dem Burghof, Duschen in der Sporthalle Karl-Liebknecht-Straße; kleine unbewachte Gepäckablage im Torweg",
+   "parking": "Nicht bis vor die Burg fahren; kostenfreie Parkplätze Richtung Innenstadt, Bahnhof und Bergholz (vom Bahnhof ca. 500 m zu Fuß)"
   },
   {
    "id": "herbstlauf-finsterwalde-2027",
@@ -41944,8 +42041,8 @@
    ],
    "url": "https://niederlausitzcup.de/",
    "source": "https://www.runme.de/deutschland/herbstlauf-finsterwalde/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (8,6 km um 10:10 Uhr). Ausgabe 2026 am 11.10.2026: 10:10 Uhr 8,6 und 16,5 km (Termine laut Lausitz-Laufserie (lausitzer-sportevents.de))",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (8,6 km um 10:10 Uhr). Ausgabe 2026 am 11.10.2026: 10:10 Uhr 8,6 und 16,5 km (Termine laut Lausitz-Laufserie (lausitzer-sportevents.de)). Termin noch nicht endgültig: so in der vorläufigen Terminvorschau des Niederlausitz-Cups 2027 (niederlausitzcup.de).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:10"
    },
@@ -42053,15 +42150,15 @@
    "lat": 53.013,
    "lon": 12.028,
    "date": "2027-10-16",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "7,8",
     "12,4"
    ],
    "url": "http://www.moormeile.de",
    "source": "https://www.runme.de/deutschland/prignitzer-moormeile-bad-wilsnack/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (12,4 km um 10:20 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (12,4 km um 10:20 Uhr). Laut Veranstalterseite 27. Moormeile Bad Wilsnack am 16. Oktober 2027.",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:20"
    }
@@ -42142,15 +42239,15 @@
    "lat": 51.741,
    "lon": 14.357,
    "date": "2027-10-23",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
    "url": "http://www.cpl-ev.de/",
-   "source": "https://www.runme.de/deutschland/branitzer-parklauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:00 Uhr). Der Cottbuser Parkläufer e. V. richtet den Branitzer Parklauf zweimal im Jahr aus (Frühjahr und Herbst); die 71. Ausgabe war am 24.10.2026 am Sportplatz Branitz, Pückler Straße 53.",
-   "checked": "2026-11-05",
+   "source": "https://www.cpl-ev.de/html/veranstaltungen.htm",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:00 Uhr). Der Cottbuser Parkläufer e. V. richtet den Branitzer Parklauf zweimal im Jahr aus (Frühjahr und Herbst); die 71. Ausgabe war am 24.10.2026 am Sportplatz Branitz, Pückler Straße 53. Termin laut Veranstaltungsliste 2027 der Cottbuser Parkläufer. 73. Branitzer Parklauf am Samstag ab 10 Uhr, Sportplatz Branitz, Pückler Str. 53.",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:00"
    }
@@ -84201,6 +84298,218 @@
     "start_place": "Kirche, Dorfplatz, 04779 Collm"
    },
    "info": "32. Kirchenfrühjahrslauf der Ev.-Luth. Kirchgemeinde Oschatzer Land und des SV Fortschritt Oschatz, Lauf der Mittelsächsischen Lauftour. Ausgabe 2026: 2,5, 5 und 10 km um 10:10 Uhr, Voranmeldung bis zum Vortag 18 Uhr, Nachmeldung am Lauftag bis 15 Minuten vor dem Start, keine Meldegebühr (Spenden erwünscht), Parkplätze in Collm ausreichend. Termin laut Terminliste der Mittelsächsischen Lauftour 2027 (Stand 08.11.2026)."
+  },
+  {
+   "id": "elbelauf-grieben-2027",
+   "type": "trail",
+   "name": "Elbelauf Grieben",
+   "place": "Grieben",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Stendal",
+   "lat": 52.437,
+   "lon": 11.961,
+   "date": "2027-05-09",
+   "confirmed": false,
+   "prev_date": "2026-05-10",
+   "distances": [
+    "6,3",
+    "12,6"
+   ],
+   "url": "https://www.elbe-ohre-cup.de/veranstaltungen/elbelauf/",
+   "source": "https://www.elbe-ohre-cup.de/veranstaltungen/elbelauf/",
+   "checked": "2026-11-08",
+   "prev": {
+    "start_time": "10:20"
+   },
+   "info": "Lauf des SV Grieben 47 im Waldgebiet am Sportplatz Grieben (Tangerhütte) auf einer 6-km-Runde, Wertungslauf im Elbe-Ohre-Cup. Ausgabe 2026 am Sonntag 10.05.2026: 6,3 km und 12,6 km um 10:20 Uhr, dazu Kinderläufe. Termin 2027 noch nicht veröffentlicht, geschätzt nach dem Vorjahr (gleicher Wochentag)."
+  },
+  {
+   "id": "wald-und-wiesenlauf-hassel-2027",
+   "type": "trail",
+   "name": "Wald- und Wiesenlauf Hassel",
+   "place": "Hassel",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Stendal",
+   "lat": 52.639,
+   "lon": 11.926,
+   "date": "2027-06-19",
+   "confirmed": false,
+   "prev_date": "2026-06-20",
+   "distances": [
+    "6,8",
+    "10"
+   ],
+   "url": "https://www.elbe-ohre-cup.de/veranstaltungen/21-wald-und-wiesenlauf-hassel/",
+   "source": "https://www.elbe-ohre-cup.de/veranstaltungen/21-wald-und-wiesenlauf-hassel/",
+   "checked": "2026-11-08",
+   "prev": {
+    "start_time": "10:15"
+   },
+   "info": "Lauf des Hasselaner Triathlonclubs auf Wald- und Wiesenwegen zwischen Chausseehaus Hassel und Waldbad Wischer, Wertungslauf im Elbe-Ohre-Cup. Ausgabe 2026 am Samstag 20.06.2026: 10 km um 10:15 Uhr, 6,8 km um 10:25 Uhr, 3,4 km für Kinder und Jugendliche. Termin 2027 noch nicht veröffentlicht, geschätzt nach dem Vorjahr (gleicher Wochentag)."
+  },
+  {
+   "id": "uchtspringer-heidelauf-2027",
+   "type": "trail",
+   "name": "Uchtspringer Heidelauf",
+   "place": "Uchtspringe",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Stendal",
+   "lat": 52.54,
+   "lon": 11.6,
+   "date": "2027-09-25",
+   "confirmed": false,
+   "prev_date": "2026-09-26",
+   "distances": [
+    "6",
+    "12"
+   ],
+   "url": "https://www.elbe-ohre-cup.de/veranstaltungen/uchtspringer-heidelauf/",
+   "source": "https://www.elbe-ohre-cup.de/veranstaltungen/uchtspringer-heidelauf/",
+   "checked": "2026-11-08",
+   "prev": {
+    "start_time": "11:00"
+   },
+   "info": "Lauf des Vereins Medizin Uchtspringe durch Heide und Wald nördlich von Uchtspringe, Wertungslauf im Elbe-Ohre-Cup. Ausgabe 2026 am Samstag 26.09.2026: 12 km und 6 km um 11:00 Uhr, 1,5 km für Kinder. Termin 2027 noch nicht veröffentlicht, geschätzt nach dem Vorjahr (gleicher Wochentag)."
+  },
+  {
+   "id": "tangerpokallauf-demker-2027",
+   "type": "road",
+   "name": "Tangerpokallauf Demker",
+   "place": "Demker",
+   "bezirk": "Magdeburg",
+   "kreis": "LK Stendal",
+   "lat": 52.508,
+   "lon": 11.851,
+   "date": "2027-10-31",
+   "confirmed": false,
+   "prev_date": "2026-11-01",
+   "distances": [
+    "5,8",
+    "12"
+   ],
+   "url": "https://www.elbe-ohre-cup.de/veranstaltungen/tangerpokallauf/",
+   "source": "https://www.elbe-ohre-cup.de/veranstaltungen/tangerpokallauf/",
+   "checked": "2026-11-08",
+   "prev": {
+    "start_time": "10:25"
+   },
+   "info": "Flacher Lauf durch die Tangerniederung zwischen Demker und Weißewarte, Saisonabschluss des Elbe-Ohre-Cups. Ausgabe 2026 am Sonntag 01.11.2026: 12 km um 10:25 Uhr, 5,8 km um 10:30 Uhr, 1,2 km für Kinder. Termin 2027 noch nicht veröffentlicht, geschätzt nach dem Vorjahr (gleicher Wochentag)."
+  },
+  {
+   "id": "baaseelauf-bad-freienwalde-2027",
+   "type": "trail",
+   "name": "Baaseelauf",
+   "place": "Bad Freienwalde",
+   "bezirk": "Oderland-Spree",
+   "kreis": "LK Märkisch-Oderland",
+   "lat": 52.787,
+   "lon": 14.03,
+   "date": "2027-05-01",
+   "confirmed": true,
+   "distances": [
+    "4,5",
+    "12,5"
+   ],
+   "url": "https://athleticon1997.de/baaseelauf.php",
+   "source": "https://athleticon1997.de/baaseelauf.php",
+   "checked": "2026-11-08",
+   "start_place": "Jahnstadion Bad Freienwalde",
+   "showers": "Umkleide- und Duschmöglichkeiten im Vereinsgebäude des Stadions",
+   "parking": "Waldstadt am Ortseingang (aus Richtung Berlin), kurzer Fußweg zum Stadion",
+   "aid": "Im Stadion und am Baasee: Mineralwasser und Obst, im Ziel weitere Angebote",
+   "info": "Lauf von Athleticon 1997 über Waldwege im Bad Freienwalder Waldkomplex, durch Kurpark und Brunnental zum Baasee und über den Siebenhügelweg zurück ins Jahnstadion. Findet laut Veranstalter immer am 1. Mai statt (2027 ein Samstag); 12,5 km und 4,5 km, dazu 9 km Walking und Kinderläufe. Startzeit und Startgeld 2027 noch nicht veröffentlicht."
+  },
+  {
+   "id": "the-last-light-backyard-ultra-original-2027",
+   "type": "trail",
+   "name": "The Last Light Backyard Ultra (Original)",
+   "place": "Frankfurt (Oder)",
+   "bezirk": "Oderland-Spree",
+   "kreis": "Stadt Frankfurt (Oder)",
+   "lat": 52.3472237,
+   "lon": 14.5505673,
+   "date": "2027-06-25",
+   "confirmed": true,
+   "distances": [
+    "Backyard"
+   ],
+   "url": "https://thelastlight.phexora.ai/",
+   "source": "https://running.life/de/termine/the-last-light-backyard-ultra/2027-03-06",
+   "info": "Backyard Ultra im Stadtwald Rosengarten, Fürstenwalder Poststraße 129, Frankfurt (Oder): 6,7-km-Runde, jede Stunde ein Start, ohne zeitliche Begrenzung. Laut Veranstalterseite am 25.06.2027 um 13 Uhr (Check-in 11–12:45 Uhr, am Vortag 16–18 Uhr).",
+   "checked": "2026-11-08",
+   "start_time": "13:00",
+   "pickup": "Check-in von 6:00 bis 7:00 Uhr",
+   "limit": "70 Teilnehmende",
+   "start_place": "Stadtwald Rosengarten, Fürstenwalder Poststraße 129, 15234 Frankfurt (Oder)"
+  },
+  {
+   "id": "weihnachtslauf-elsterwerda-2026",
+   "type": "road",
+   "name": "Weihnachtslauf Elsterwerda",
+   "place": "Elsterwerda",
+   "bezirk": "Lausitz-Spreewald",
+   "kreis": "LK Elbe-Elster",
+   "lat": 51.46,
+   "lon": 13.52,
+   "date": "2026-12-26",
+   "confirmed": true,
+   "distances": [
+    "6",
+    "11"
+   ],
+   "start_time": "10:00",
+   "start_place": "Holzhof Elsterwerda",
+   "url": "https://www.elsterlauf.de/laufserie-elbe-elster/",
+   "source": "https://www.elsterlauf.de/laufserie-elbe-elster/",
+   "checked": "2026-11-08",
+   "info": "Wertungslauf der Laufserie Elbe-Elster am 2. Weihnachtsfeiertag, Samstag 26.12.2026 um 10 Uhr am Holzhof Elsterwerda: 2, 6 und 11 km."
+  },
+  {
+   "id": "neujahrslauf-finsterwalde-2027",
+   "type": "road",
+   "name": "Neujahrslauf Finsterwalde",
+   "place": "Finsterwalde",
+   "bezirk": "Lausitz-Spreewald",
+   "kreis": "LK Elbe-Elster",
+   "lat": 51.634,
+   "lon": 13.707,
+   "date": "2027-01-01",
+   "confirmed": true,
+   "distances": [
+    "6",
+    "10"
+   ],
+   "start_time": "11:00",
+   "start_place": "FitIn Finsterwalde",
+   "url": "https://www.elsterlauf.de/laufserie-elbe-elster/",
+   "source": "https://www.elsterlauf.de/laufserie-elbe-elster/",
+   "checked": "2026-11-08",
+   "info": "Lauf der Laufserie Elbe-Elster am Neujahrstag, Freitag 01.01.2027 um 11 Uhr am FitIn Finsterwalde: 3, 6 und 10 km."
+  },
+  {
+   "id": "kiebitzlauf-falkenberg-2027",
+   "type": "road",
+   "name": "Kiebitzlauf Falkenberg",
+   "place": "Falkenberg/Elster",
+   "bezirk": "Lausitz-Spreewald",
+   "kreis": "LK Elbe-Elster",
+   "lat": 51.587,
+   "lon": 13.236,
+   "date": "2027-07-31",
+   "confirmed": false,
+   "prev_date": "2026-08-01",
+   "distances": [
+    "6,6",
+    "9,9"
+   ],
+   "prev": {
+    "start_time": "09:30",
+    "start_place": "Kiebitzsee Falkenberg"
+   },
+   "url": "https://www.elsterlauf.de/laufserie-elbe-elster/",
+   "source": "https://www.elsterlauf.de/laufserie-elbe-elster/",
+   "checked": "2026-11-08",
+   "info": "Lauf am Kiebitzsee in Falkenberg/Elster, Wertungslauf der Laufserie Elbe-Elster. Ausgabe 2026 (19. Kiebitzlauf) am Samstag 01.08.2026 um 09:30 Uhr mit 3,3, 6,6 und 9,9 km. Termin 2027 noch nicht veröffentlicht, geschätzt nach dem Vorjahr (gleicher Wochentag)."
   }
  ]
 }
