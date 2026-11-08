@@ -32284,14 +32284,16 @@
     "5",
     "10"
    ],
-   "url": "http://www.tsg-la-wsw.de/",
+   "url": "https://laufbewegung-wsw.de/braunsteichlauf-weisswasser/",
    "source": "https://www.runme.de/deutschland/braunsteichlauf/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10 km um 10:20 Uhr, frühester Lauf ab 5 km). Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden)",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "start_time": "10:20",
    "late_reg": "Nachmeldung vor Ort möglich, solange Startplätze frei sind, Aufschlag 6 € (laut Terminkalender)",
    "start_place": "Meldebüro im KieZ am Braunsteich, Am Braunsteich 6, 02943 Weißwasser",
-   "fee": "5 km 10 €, 3 km 7 €, 800 m 5 € (Organisationsbeitrag)"
+   "fee": "5 km 10 €, 3 km 7 €, 800 m 5 € (Organisationsbeitrag)",
+   "showers": "Umkleiden und kostenloses Duschen im KiEZ Weißwasser (Start/Ziel direkt davor)",
+   "charity": "Benefizlauf laut Veranstalter: Spenden (mind. 1 €) für Schwimmkurse benachteiligter Kinder der AWO Weißwasser („Wir lernen schwimmen!“)"
   },
   {
    "id": "freiberger-adventslauf-2026",
@@ -32437,7 +32439,8 @@
    },
    "showers": "Umkleiden vorhanden, keine Dusche",
    "parking": "Ausreichend Parkplätze direkt auf der Görlitzer Straße und auf dem Parkplatz am Start",
-   "late_reg": "Nachmeldung am Veranstaltungstag ab 16:30 Uhr bis 15 Minuten vor dem Start (Ausgabe 2026: Nachmeldegebühr 5 €)"
+   "late_reg": "Nachmeldung am Veranstaltungstag ab 16:30 Uhr bis 15 Minuten vor dem Start (Ausgabe 2026: Nachmeldegebühr 5 €)",
+   "charity": "Spendenlauf: alle Startgebühren, Spenden und Sponsorengelder gehen an ein regionales Projekt (zuletzt Eissport Weißwasser e.V. – Jungfüchse)"
   },
   {
    "id": "silvesterlauf-des-lc-auensee-leipzig-2026",
@@ -32677,10 +32680,12 @@
    "url": "https://www.europamarathon.de/lauf/winterseelauf/",
    "anmeldung_url": "https://my.raceresult.com/430897/",
    "source": "https://running.life/de/termine/gorlitzer-winterseelauf",
-   "info": "WinterSeeLauf am Nordstrand des Berzdorfer Sees mit Strecken von 1 km bis 12 km sowie 6 km Walking (Strecken laut Plan von 2026). Ausgabe 2026 laut Europamarathon-Seite: 13:00 Uhr Kinder 1 km, 13:30 Uhr Schüler 3 km und 6 km, Nachmeldegebühr 10 €; 2027 noch nicht veröffentlicht. Laut Anmeldeseite 4. Görlitzer WinterSeeLauf am 31.01.2027: 13:00 Uhr 1 km, 13:10 Uhr 3 km, 13:30 Uhr 6 km, 12 km und 6 km Walken",
-   "checked": "2026-11-07",
+   "info": "WinterSeeLauf am Nordstrand des Berzdorfer Sees mit Strecken von 1 km bis 12 km sowie 6 km Walking (Strecken laut Plan von 2026). Ausgabe 2026 laut Europamarathon-Seite: 13:00 Uhr Kinder 1 km, 13:30 Uhr Schüler 3 km und 6 km, Nachmeldegebühr 10 €; 2027 noch nicht veröffentlicht. Laut Anmeldeseite 4. Görlitzer WinterSeeLauf am 31.01.2027: 13:00 Uhr 1 km, 13:10 Uhr 3 km, 13:30 Uhr 6 km, 12 km und 6 km Walken. Ausgabe 2026: Umziehen und Sachen unterbringen im Zelt möglich, Toiletten am Nordstrand.",
+   "checked": "2026-11-08",
    "prev": {
-    "start_time": "13:00"
+    "start_time": "13:00",
+    "start_place": "Nordstrand am Berzdorfer See, Görlitz (DRK-Gebäude/Sicherheitstrakt)",
+    "parking": "Entlang der Zufahrtsstraße zum Nordstrand (Parkrecht beachten)"
    },
    "start_time": "13:30",
    "fee": "1 km 2 €, 3 km 3 €, 6 km 6 €, 12 km 10 €, 6 km Walken 6 €",
@@ -32866,18 +32871,20 @@
    "kreis": "LK Nordsachsen",
    "lat": 51.383,
    "lon": 13.133,
-   "date": "2027-03-21",
-   "confirmed": false,
+   "date": "2027-03-14",
+   "confirmed": true,
    "distances": [
     "8,1",
     "10,5"
    ],
    "url": "http://www.mittelsaechsische-lauftour.com/",
-   "source": "https://www.runme.de/deutschland/oschatzer-stadtlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (8,1 km um 10:00 Uhr).",
-   "checked": "2026-11-06",
+   "source": "https://mittelsaechsische-lauftour.com/wettkaempfe.html",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (8,1 km um 10:00 Uhr). Termin laut Terminliste der Mittelsächsischen Lauftour 2027 (Stand 08.11.2026). 2027 als „Autohaus Hirth Stadtlauf“ angekündigt. Ausgabe 2026: Start 3,5, 8,1 und 10,5 km um 10:00 Uhr, Umkleideräume mit Duschen und WC in der Rosentalhalle, Parkplätze in unmittelbarer Nähe.",
+   "checked": "2026-11-08",
    "prev": {
-    "start_time": "10:00"
+    "start_time": "10:00",
+    "fee": "Erwachsene 5 €, Schüler und Jugend 3 €, Bambini und 1,8 km frei; Nachmeldung +3 €",
+    "start_place": "Rosentalhalle, Berufsschulstraße 20, 04758 Oschatz"
    }
   },
   {
@@ -32889,15 +32896,15 @@
    "kreis": "LK Mittelsachsen",
    "lat": 51.077,
    "lon": 12.907,
-   "date": "2027-03-27",
-   "confirmed": false,
+   "date": "2027-04-10",
+   "confirmed": true,
    "distances": [
     "8,8"
    ],
    "url": "http://www.lwv-geringswalde.de/",
-   "source": "https://www.runme.de/deutschland/geringswalder-schlossberglauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (23 km um 10:15 Uhr).",
-   "checked": "2026-11-06",
+   "source": "https://mittelsaechsische-lauftour.com/wettkaempfe.html",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (23 km um 10:15 Uhr). Termin laut Terminliste der Mittelsächsischen Lauftour 2027 (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:15"
    }
@@ -33119,17 +33126,18 @@
    "lat": 50.972,
    "lon": 13.867,
    "date": "2027-04-17",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "9,2",
     "26,8"
    ],
    "url": "http://www.wilischlauf.de/",
    "source": "https://www.runme.de/deutschland/wilischlauf-dohna-ot-roehrsdorf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (9,2 km um 11:00 Uhr). Ausgabe 2026 (18.04.2026): Online-Meldeschluss 17.04.2026, 12 Uhr, Startnummern ab 8:30 Uhr; längste Strecke 26,8 km, Start 11:00 Uhr",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (9,2 km um 11:00 Uhr). Ausgabe 2026 (18.04.2026): Online-Meldeschluss 17.04.2026, 12 Uhr, Startnummern ab 8:30 Uhr; längste Strecke 26,8 km, Start 11:00 Uhr. Termin laut Veranstalterseite (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
-    "start_time": "11:00"
+    "start_time": "11:00",
+    "parking": "Wenige Parkplätze: Fahrgemeinschaften oder ÖPNV empfohlen (Haltestelle „Am Landgut (Röhrsdorf)“)"
    },
    "start_place": "Schloss Röhrsdorf, Hauptstraße 3, 01809 Dohna (OT Röhrsdorf)",
    "pickup": "Startnummernausgabe am Wettkampftag ab 8:30 Uhr (Ausgabe 2026)",
@@ -33176,11 +33184,17 @@
     "M"
    ],
    "url": "http://www.leipzigmarathon.de/",
-   "source": "https://www.runme.de/deutschland/stadtwerke-leipzig-marathon-leipzig/",
+   "source": "https://leipzigmarathon.de/49-leipzig-marathon-2027/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. 49. Leipzig Marathon am 18.04.2027; Anmeldung gestaffelt, Marathon 70 € bei Anmeldung bis 22.11.2026, 80 € bis 24.01.2027, danach teurer. Startzeit laut RUNME (42,195 km um 09:30 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-06",
+   "checked": "2026-11-08",
    "pickup": "Startunterlagenausgabe Samstag 17.04.2027 von 10 bis 19 Uhr auf dem Marathon-Campus (dort auch Nachmeldung)",
-   "start_time": "09:30"
+   "start_time": "09:30",
+   "fee": "Marathon 70 € (bis 22.11.2026), 80 € (bis 24.01.2027), 90 € (bis 29.03.2027), 99 € (ab 30.03.2027); Halbmarathon 60/65/75/85 €; 10 km 33/38/43/50 €; 4 km 17/20/24/29 €",
+   "reg_close": "2027-03-28",
+   "late_reg": "Ab 29.03.2027 Nachmeldungen möglich",
+   "start_place": "Am Sportforum, 04109 Leipzig",
+   "showers": "Umkleiden, Duschen und Kleideraufbewahrung auf dem Marathon-Campus",
+   "parking": "Am Start/Ziel (Sportforum) und am Marathon-Campus keine Parkplätze; kostenlose P+R-Plätze der Stadt Leipzig, Anreise mit öffentlichen Verkehrsmitteln empfohlen"
   },
   {
    "id": "werdauer-waldlauf-2027",
@@ -33262,7 +33276,7 @@
    "lat": 50.873,
    "lon": 14.77,
    "date": "2027-04-24",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "7,5",
     "17",
@@ -33270,12 +33284,14 @@
     "50"
    ],
    "url": "http://www.zittauer-gebirgslauf.de/",
-   "source": "https://www.runme.de/deutschland/zittauer-gebirgslauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (50 km um 07:00 Uhr).",
-   "checked": "2026-11-06",
-   "prev": {
-    "start_time": "07:00"
-   }
+   "source": "https://www.zittauer-gebirgslauf.de/laufen/informationen",
+   "info": "Strecken laut RUNME. Laut Veranstalterseite Lauf und Wandertreff am 24./25.04.2027; Startunterlagen „Laufen“ ab Freitag 23.04., die Laufstrecken starten am Samstag 24.04.2027 (Stand 08.11.2026). Starts 2027: 50 km 7:00 Uhr, 35 km 8:45 Uhr, 17 km 10:25 Uhr, 7,5 km 10:47 Uhr; Zielschluss 14:30 Uhr.",
+   "checked": "2026-11-08",
+   "start_time": "07:00",
+   "fee": "7,5 km 6 € (bis 31.01.), 9 € (bis 04.04.), 14 € (bis 18.04.), 25 € (19.–24.04.); 17 km 10/16/22/30 €; 35 km 20/30/45/55 €; 50 km 40/50/70/80 €; Laufgruppen ab 20 Personen 20 % Rabatt online",
+   "pickup": "Freitag 23.04.2027 15–18 Uhr und am Lauftag ab 6:30 Uhr im Sportzentrum Olbersdorf",
+   "start_place": "Sportzentrum Olbersdorf",
+   "late_reg": "Nachmeldung bei der Startunterlagenausgabe bis Meldeschluss (50 km 6:30 Uhr, 35 km 8:00 Uhr, übrige Strecken 10:00 Uhr), solange der Vorrat reicht"
   },
   {
    "id": "vvo-oberelbe-marathon-2027",
@@ -33316,16 +33332,16 @@
    "kreis": "LK Sächsische Schweiz-Osterzgebirge",
    "lat": 50.972,
    "lon": 13.867,
-   "date": "2027-05-01",
-   "confirmed": false,
+   "date": "2027-05-08",
+   "confirmed": true,
    "distances": [
     "7",
     "14"
    ],
    "url": "http://borthenerbluetenfest.de/",
    "source": "https://www.runme.de/deutschland/bluetenfestlauf-borthen-roehrsdorf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (7 km um 11:00 Uhr).",
-   "checked": "2026-11-06",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (7 km um 11:00 Uhr). Termin laut Veranstalterseite (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "11:00"
    }
@@ -33340,15 +33356,15 @@
    "lat": 51.433,
    "lon": 12.683,
    "date": "2027-05-01",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
    "url": "http://www.hohburger-sportverein.de",
-   "source": "https://www.runme.de/deutschland/hohburger-steinbruchlauf-lossatal-ot-hohburg/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:30 Uhr).",
-   "checked": "2026-11-06",
+   "source": "https://mittelsaechsische-lauftour.com/wettkaempfe.html",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:30 Uhr). Termin laut Terminliste der Mittelsächsischen Lauftour 2027 (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:30"
    }
@@ -33363,15 +33379,15 @@
    "lat": 50.826,
    "lon": 13.211,
    "date": "2027-05-01",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
    "url": "https://www.oederaner-lauftag.de/2026/",
    "source": "https://www.runme.de/deutschland/oederaner-lauftag/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 11:30 Uhr).",
-   "checked": "2026-11-06",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 11:30 Uhr). Termin laut Veranstalterseite (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "11:30"
    }
@@ -33394,12 +33410,13 @@
    "url": "http://www.leipzigerfrauenlauf.de/",
    "source": "https://www.runme.de/deutschland/leipziger-volksbank-frauenlauf/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Veranstalterseite Sonntag 02.05.2027 im Clara-Zetkin-Park: 10-km-Lauf 09:45 Uhr, 5-km-Lauf 11:45 Uhr, 5-km-Walking 11:50 Uhr (Startzeiten vorläufig). Meldebüro im Vereinsgebäude des BSV AOK Leipzig (Bruckner-Allee 1, 04229 Leipzig), Zeiten laut Veranstalter für 2027",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "start_time": "09:45",
    "pickup": "Meldebüro am 01.05.2027 von 13:00 bis 18:00 Uhr und am 02.05.2027 ab 08:30 Uhr",
    "late_reg": "Nachmeldung Samstag 13:00 bis 18:00 Uhr, Sonntag ab 08:30 Uhr bis 30 Minuten vor dem jeweiligen Start",
    "parking": "Keine Parkplätze direkt am Veranstaltungsort, Anreise mit der Straßenbahn",
-   "showers": "Umkleidebereich im Vereinsgebäude des BSV AOK Leipzig"
+   "showers": "Umkleidebereich im Vereinsgebäude des BSV AOK Leipzig",
+   "charity": "Der Erlös kommt den Gewaltschutzprojekten des Frauen für Frauen e.V. Leipzig zugute"
   },
   {
    "id": "aschberglauf-2027",
@@ -33461,7 +33478,7 @@
    "lat": 51.268,
    "lon": 14.094,
    "date": "2027-05-02",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "6",
     "10",
@@ -33469,8 +33486,8 @@
    ],
    "url": "http://www.lausitzer-bluetenlauf.de",
    "source": "https://www.runme.de/deutschland/kamenzer-bluetenlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (80 km um 10:30 Uhr).",
-   "checked": "2026-11-06",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (80 km um 10:30 Uhr). Termin laut Veranstalterseite (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:30",
     "fee": "6 km 6 €, 10 km 13 €, 15 km 13 €, 10 km Walking 13 €, Kinderläufe 3 € (Ausgabe 2026 laut Baer-Service)"
@@ -33608,7 +33625,7 @@
    "anmeldung_url": "https://my.raceresult.com/421517/",
    "source": "https://running.life/de/termine/adelsberg-backyard-ultra",
    "info": "Backyard Ultra in Chemnitz: Runde von 6,71 km mit rund 150 Hm, jede Stunde ein Start, Last-Person-Standing-Format. Laut Veranstalterseite Start Samstag 15.05.2027 um 10:00 Uhr, höchstens 48 Stunden. Laut Anmeldeseite 15. bis 17.05.2027 (2. Adelsberg Backyard Ultra), Anmeldung geschlossen und ausgebucht (Stand 06.11.2026); bei Nichtteilnahme keine Rückerstattung",
-   "checked": "2026-11-06",
+   "checked": "2026-11-08",
    "start_time": "10:00",
    "start_place": "Gelände am Adelsbergturm, Am Adelsbergturm 1, Chemnitz",
    "pickup": "Startnummernausgabe ab 08:00 Uhr, Briefing 09:30 Uhr",
@@ -33616,7 +33633,9 @@
    "sold_out": true,
    "fee": "48 € bei Anmeldung bis 31.03.2027, 58 € vom 01.04. bis 14.05.2027",
    "late_reg": "Warteliste per E-Mail mit Betreff „Warteliste ABU 2027“ an adelsberg-backyard-ultra@gmx.de",
-   "parking": "Kostenlose Parkplätze für PKW"
+   "parking": "Kostenlose Parkplätze für PKW",
+   "reg_open": "2026-10-10",
+   "reg_close": "2027-05-14"
   },
   {
    "id": "pfingstrennen-am-baerwalder-see-2027",
@@ -33676,8 +33695,8 @@
    "kreis": "Erzgebirgskreis",
    "lat": 50.671,
    "lon": 12.951,
-   "date": "2027-05-22",
-   "confirmed": false,
+   "date": "2027-05-15",
+   "confirmed": true,
    "distances": [
     "5",
     "10",
@@ -33685,8 +33704,8 @@
    ],
    "url": "http://www.lsv-waldfrieden-thum.de",
    "source": "https://www.runme.de/deutschland/thumer-pfingstlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 11:00 Uhr).",
-   "checked": "2026-11-06",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 11:00 Uhr). Termin laut Veranstalterseite (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "11:00"
    }
@@ -33813,7 +33832,7 @@
    "lat": 51.142,
    "lon": 14.357,
    "date": "2027-06-05",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "9,5",
     "16",
@@ -33823,8 +33842,8 @@
    ],
    "url": "https://www.oberlausitztrail.de/de/index.html",
    "source": "https://www.runme.de/deutschland/oberlausitz-trail/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (62 km um 07:00 Uhr).",
-   "checked": "2026-11-06",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (62 km um 07:00 Uhr). Termin laut Veranstalterseite (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "07:00"
    }
@@ -33897,8 +33916,11 @@
    "url": "http://www.europamarathon.de/",
    "source": "https://www.runme.de/deutschland/europamarathon-goerlitz-zgorzelec/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Veranstalterseite Sonntag 06.06.2027, erster Start 09:00 Uhr in Görlitz und Zgorzelec",
-   "checked": "2026-11-06",
-   "start_time": "09:00"
+   "checked": "2026-11-08",
+   "start_time": "09:00",
+   "prev": {
+    "start_place": "Startbereich Elisabethstraße, 02826 Görlitz"
+   }
   },
   {
    "id": "muldentallauf-nossen-2027",
@@ -33987,14 +34009,18 @@
     "21,5"
    ],
    "url": "http://www.sachsenlauf.de/",
-   "source": "https://www.runme.de/deutschland/sachsenlauf-coswig/",
+   "source": "https://www.sachsenlauf.de/ausschreibung/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Veranstalterseite Meldebeginn 01.12.2026, erhöhte Startgebühren ab 01.06.2027 und am Starttag, Meldeschluss online 19.06.2027 21:00 Uhr. Startzeit laut RUNME (10 km um 08:00 Uhr, frühester Lauf ab 5 km). 47. Sachsenlauf, Meldebeginn 01.12.2026, erhöhte Startgebühren ab 01.06.2027 und am Starttag, Online-Meldeschluss 19.06.2027, 21:00 Uhr (Baer-Service)",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "reg_open": "2026-12-01",
    "reg_close": "2027-06-19",
    "pickup": "Startnummernausgabe am Lauftag (Sonntag 20.06.2027) von 07:00 bis 10:00 Uhr im Meldebüro Förderschulzentrum „Peter Rosegger“, Platanenweg 1",
    "start_time": "08:00",
-   "late_reg": "Nachmeldungen und Startnummernausgabe am Sonntag 20.06.2027 im Meldebüro (Förderschulzentrum „Peter Rosegger“, Platanenweg 1), erhöhte Startgebühr am Starttag"
+   "late_reg": "Nachmeldungen und Startnummernausgabe am Sonntag 20.06.2027 im Meldebüro (Förderschulzentrum „Peter Rosegger“, Platanenweg 1), erhöhte Startgebühr am Starttag",
+   "fee": "Erwachsene bis 31.05.2027: 21,5 km 22 €, 11,8 km 12 €, 5 km 10 €; ab 01.06.2027 25 / 16 / 12 €; am Starttag 30 / 20 / 15 € (nur bar); Jugendliche U8–U20 günstiger, Bambinilauf kostenlos",
+   "start_place": "Friedewaldstraße Ecke Sachsenlaufweg, Coswig (Ziel auf dem Sachsenlaufweg)",
+   "showers": "Wasch- und Umkleidemöglichkeiten im Sanitärtrakt der benachbarten Spitzgrund-Sporthalle",
+   "parking": "Zufahrten zum Start und zum Parkplatz sind ausgeschildert"
   },
   {
    "id": "meerathon-2027",
@@ -34049,18 +34075,22 @@
    "kreis": "LK Leipzig",
    "lat": 51.267,
    "lon": 12.5,
-   "date": "2027-06-20",
+   "date": "2027-06-27",
    "confirmed": false,
    "distances": [
     "5",
     "10"
    ],
-   "url": "http://www.lfv-oberholz.de",
-   "source": "https://www.runme.de/deutschland/stoermthaler-seelauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:15 Uhr). Ausgabe 2026: Nachmeldungen am Veranstaltungstag von 9:00 bis 12:00 Uhr im Meldebüro",
-   "checked": "2026-11-06",
+   "url": "https://lfv-oberholz.de/cms/ssl/",
+   "source": "https://lfv-oberholz.de/cms/termine/",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:15 Uhr). Laut Terminplanung 2027 des LFV Oberholz am 27.06.2027, Termin abhängig vom Störmthaler Dorf- und Vereinsfest (noch nicht fest, Stand 08.11.2026). Ausgabe 2026: im Rahmen des Dorf- und Vereinsfests, Start 2 km 10:00 Uhr, 5 und 10 km ca. 10:15 Uhr, Voranmeldung online bis Donnerstag vor dem Lauf 8 Uhr, Nachmeldung am Lauftag 8:00–9:30 Uhr.",
+   "checked": "2026-11-08",
    "prev": {
-    "start_time": "10:15"
+    "start_time": "10:15",
+    "fee": "10 km 5 €, 5 km Erwachsene 4 € (Nachmeldung +2 €)",
+    "pickup": "Am Lauftag 8:00–9:45 Uhr im Meldebüro",
+    "start_place": "Festwiese Sportplatz Störmthal, Rosengang 2, 04463 Großpösna (OT Störmthal)",
+    "parking": "Nur ausgewiesene Parkflächen nutzen, ggf. eigener Teilnehmerparkplatz"
    },
    "start_place": "Am Schloss Störmthal, Rosengang 3, 04463 Großpösna (OT Störmthal)"
   },
@@ -34149,12 +34179,18 @@
     "Backyard"
    ],
    "url": "https://o-see-backyard.de/",
-   "anmeldung_url": "https://my.raceresult.com/412250/",
+   "anmeldung_url": "https://my.raceresult.com/412250/registration",
    "source": "https://running.life/de/termine/o-see-backyard-ultra",
-   "info": "Backyard Ultra am Olbersdorfer See bei Zittau, 10. bis 13. Juli 2027: Runde von 6,7056 km, jede Stunde ein Start, auf 200 Teilnehmende begrenzt.",
-   "checked": "2026-11-06",
+   "info": "Backyard Ultra am Olbersdorfer See bei Zittau, 10. bis 13. Juli 2027: Runde von 6,7056 km, jede Stunde ein Start, auf 200 Teilnehmende begrenzt. Laut Anmeldeportal Einzel- und 3er-Team-Anmeldung ausgebucht (Stand 08.11.2026); wer eine Backyard-Bestleistung ab 40 Runden hat, kann sich beim Veranstalter melden.",
+   "checked": "2026-11-08",
    "start_place": "Westparkstadion Zittau/Pethau",
-   "showers": "Duschen, WC und Umkleidekabinen direkt neben dem Startbereich"
+   "showers": "Duschen, WC und Umkleidekabinen direkt neben dem Startbereich",
+   "fee": "119 € bis 30.09.2026, 129 € bis 31.12.2026, 139 € bis 30.04.2027, 149 € im Mai, 159 € ab 01.06.2027",
+   "start_time": "10:00",
+   "reg_open": "2026-09-11",
+   "reg_close": "2027-07-09",
+   "sold_out": true,
+   "limit": "200 Teilnehmende"
   },
   {
    "id": "pobershauer-schwarzwassertallauf-2027",
@@ -34173,9 +34209,12 @@
    "url": "https://www.trans-miriquidi.de/modx/schwarzwassertallauf.html",
    "source": "https://running.life/de/termine/pobershauer-schwarzwassertallauf",
    "info": "Lauf- und Walkingtreff in Pobershau mit Strecken bis zum Halbmarathon, beschilderte Waldroute, Verpflegung bei Kühnhaide, Teilnahme auf eigenes Risiko. Laut Veranstalterseite Start 08:00 Uhr (bei Bedarf gestaffelt), Voranmeldung bis Sonntag 27.06.2027 20:00 Uhr",
-   "checked": "2026-11-06",
+   "checked": "2026-11-08",
    "start_time": "08:00",
-   "reg_close": "2027-06-27"
+   "reg_close": "2027-06-27",
+   "prev": {
+    "start_place": "Start/Ziel am Kinder- und Jugendzentrum Haus Pobershau, Hinterer Grund"
+   }
   },
   {
    "id": "waldheimer-eichberglauf-2027",
@@ -34186,17 +34225,17 @@
    "kreis": "LK Mittelsachsen",
    "lat": 51.073,
    "lon": 13.02,
-   "date": "2027-07-31",
-   "confirmed": false,
+   "date": "2027-08-07",
+   "confirmed": true,
    "distances": [
     "5",
     "12",
     "14"
    ],
    "url": "http://www.mittelsaechsische-lauftour.com",
-   "source": "https://www.runme.de/deutschland/waldheimer-eichberglauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (12 km um 09:00 Uhr).",
-   "checked": "2026-11-06",
+   "source": "https://mittelsaechsische-lauftour.com/wettkaempfe.html",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (12 km um 09:00 Uhr). Termin laut Terminliste der Mittelsächsischen Lauftour 2027 (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "09:00"
    }
@@ -34277,16 +34316,16 @@
    "kreis": "Stadt Dresden",
    "lat": 51.055,
    "lon": 13.727,
-   "date": "2027-08-13",
-   "confirmed": false,
+   "date": "2027-08-20",
+   "confirmed": true,
    "distances": [
     "6,2",
     "11,5"
    ],
    "url": "http://www.dresdner-nachtlauf.de/",
    "source": "https://www.runme.de/deutschland/centrum-galerie-dresdner-nachtlauf-dresden/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6,2 km um 20:00 Uhr).",
-   "checked": "2026-11-06",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6,2 km um 20:00 Uhr). Termin laut Veranstalterseite (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "20:00"
    },
@@ -34377,16 +34416,16 @@
    "lat": 51.243,
    "lon": 13.214,
    "date": "2027-08-20",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "4,8",
     "6",
     "14"
    ],
    "url": "https://www.svelbland.de/",
-   "source": "https://www.runme.de/deutschland/eierwegelauf-seerhausen/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 18:00 Uhr).",
-   "checked": "2026-11-06",
+   "source": "https://mittelsaechsische-lauftour.com/wettkaempfe.html",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 18:00 Uhr). Termin laut Terminliste der Mittelsächsischen Lauftour 2027 (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "18:00"
    }
@@ -34424,16 +34463,16 @@
    "kreis": "LK Nordsachsen",
    "lat": 51.465,
    "lon": 12.268,
-   "date": "2027-08-21",
-   "confirmed": false,
+   "date": "2027-08-28",
+   "confirmed": true,
    "distances": [
     "6",
     "10"
    ],
    "url": "https://stadtwerkelauf-delitzsch.de/",
    "source": "https://www.runme.de/deutschland/stadtwerkelauf-delitzsch/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-08-28. Ausgabe 2026 (22.08.2026): Teilnehmerlimit 500 Startplätze je Strecke, Startunterlagen ab 8:30 Uhr auf dem Veranstaltungsgelände",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Ausgabe 2026 (22.08.2026): Teilnehmerlimit 500 Startplätze je Strecke, Startunterlagen ab 8:30 Uhr auf dem Veranstaltungsgelände. Termin laut Veranstalterseite (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "start_place": "Roßplatz, Delitzsch",
    "showers": "Umkleide vorhanden, keine Duschen",
    "prev": {
@@ -34543,7 +34582,7 @@
   {
    "id": "sparkassen-knappenman-2027",
    "type": "road",
-   "name": "Sparkassen KnappenMan",
+   "name": "KnappenMan-Charity-Lauf",
    "place": "Lohsa",
    "bezirk": "Dresden",
    "kreis": "LK Bautzen",
@@ -34554,10 +34593,11 @@
    "distances": [
     "8"
    ],
-   "url": "http://www.knappenman.de",
-   "source": "https://www.runme.de/deutschland/sparkassen-knappenman/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-06"
+   "url": "https://www.knappenman.com/knappenman-charity-lauf/",
+   "source": "https://www.knappenman.com/knappenman-charity-lauf/",
+   "info": "Lauf- und Walkingveranstaltung des KnappenMan e.V. am Freitagabend vor dem KnappenMan-Triathlon (letztes Augustwochenende) im Lausitzer Seenland, 2026 erstmals ausgetragen: 2, 4 und 8 km, ohne Wertung und Platzierung, Finishermedaille. Termin 2027 abgeleitet (Triathlon laut Veranstalter am letzten Augustwochenende 2027, Charity-Lauf am Freitag davor), vom Veranstalter für 2027 noch nicht bestätigt.",
+   "checked": "2026-11-08",
+   "charity": "2026 „Laufend gegen Krebs“ zugunsten der Sächsischen Krebsgesellschaft e.V. (Ausgabe 2026)"
   },
   {
    "id": "sparkassen-tauchscher-stadtlauf-2027",
@@ -34569,15 +34609,15 @@
    "lat": 51.383,
    "lon": 12.483,
    "date": "2027-08-27",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
    "url": "http://www.stadtlauf-taucha.de/",
    "source": "https://www.runme.de/deutschland/tauchscher-stadtlauf-taucha-mehrzweckhalle/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 18:00 Uhr).",
-   "checked": "2026-11-06",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 18:00 Uhr). Termin laut Veranstalterseite (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "18:00",
     "fee": "10 km 12 € (Frühbucher bis 01.05.2026), 16 € bis 26.08., 20 € am Wettkampftag; 5 km Fitnesslauf 10/14/18 €; Kinderläufe ab 2,50 € (Ausgabe 2026 laut Baer-Service)"
@@ -34726,15 +34766,15 @@
    "kreis": "Stadt Dresden",
    "lat": 51.055,
    "lon": 13.727,
-   "date": "2027-09-04",
-   "confirmed": false,
+   "date": "2027-09-05",
+   "confirmed": true,
    "distances": [
     "5"
    ],
    "url": "https://dresden-half.com/",
-   "source": "https://www.runme.de/deutschland/dresdenhalf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 09:00 Uhr).",
-   "checked": "2026-11-06",
+   "source": "https://dresden-half.com/",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 09:00 Uhr). Termin laut Veranstalterseite (Stand 08.11.2026). Halbmarathon am Sonntag, am Samstag 04.09.2027 Dresden5K und Kinderlauf. Anmeldung für 2027 geöffnet (erste Meldestaffel mit Early-Bird-Preis, Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "09:00"
    }
@@ -34749,20 +34789,20 @@
    "lat": 51.055,
    "lon": 12.697,
    "date": "2027-09-05",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "7",
     "17"
    ],
    "url": "http://laufen-in-geithain.de/",
-   "source": "https://www.runme.de/deutschland/geithainer-herbstlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (17 km um 10:00 Uhr).",
-   "checked": "2026-11-06",
-   "prev": {
-    "start_time": "10:00"
-   },
+   "source": "http://laufen-in-geithain.de/",
+   "info": "Strecken laut RUNME. Termin laut Veranstalterseite und Terminliste der Mittelsächsischen Lauftour 2027 (Stand 08.11.2026). Laut Ausschreibung 2027 und Anmeldeportal: 10-Meilen-Landschaftslauf (17 km) 10:00 Uhr, Genusslauf 7 km 10:02 Uhr; Spenden gehen an eine regionale Sache, über die vorangemeldete Teilnehmer mitentscheiden.",
+   "checked": "2026-11-08",
    "showers": "Umkleiden mit Duschmöglichkeit im Stadion Geithain",
-   "start_place": "Geithainer Stadion"
+   "start_place": "Geithainer Stadion",
+   "start_time": "10:00",
+   "fee": "Keine Startgebühr, Spenden erwünscht",
+   "anmeldung_url": "https://my.raceresult.com/422184/"
   },
   {
    "id": "herbstcrosslauf-2027",
@@ -34821,15 +34861,15 @@
    "lat": 51.182,
    "lon": 14.429,
    "date": "2027-09-11",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
    "url": "http://www.stadtlaufbautzen.de/",
    "source": "https://www.runme.de/deutschland/stadtlauf-bautzen/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 14:15 Uhr).",
-   "checked": "2026-11-06",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 14:15 Uhr). Termin laut Veranstalterseite (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "14:15"
    }
@@ -35018,13 +35058,14 @@
    "url": "http://www.drei-talsperren-marathon.de/",
    "source": "https://www.runme.de/deutschland/drei-talsperren-marathon-der-erzgebirgsmarathon-eibenstock/",
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (100 km um 09:30 Uhr). Ausgabe 2026: Meldeschluss 13.09.2026; Anmeldung und Zahlung ausschließlich online",
-   "checked": "2026-11-06",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "09:30"
    },
    "start_place": "Bretschneider Sportstätte, Bühlstraße 12, 08309 Eibenstock (Meldebüro am Festplatz, Ludwig-Jahn-Straße 12)",
    "showers": "Umkleidezelte auf der Wettkampfstätte",
-   "late_reg": "Ausgabe 2026: Nachmeldung online bis Donnerstag vor dem Lauf 17:00 Uhr (7 €), am Freitag im Festzelt 7 €, am Lauftag 10 € Aufschlag"
+   "late_reg": "Ausgabe 2026: Nachmeldung online bis Donnerstag vor dem Lauf 17:00 Uhr (7 €), am Freitag im Festzelt 7 €, am Lauftag 10 € Aufschlag",
+   "charity": "1 € jeder Startgebühr geht an die Bürgerstiftung „Zu Hause am Auersberg“ (Ausgabe 2026)"
   },
   {
    "id": "dresden-frauenlauf-2027",
@@ -35106,16 +35147,16 @@
    "lat": 51.56,
    "lon": 12.996,
    "date": "2027-09-19",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "6",
     "10"
    ],
    "url": "http://www.mittelsaechsische-lauftour.com/",
-   "source": "https://www.runme.de/deutschland/schildberglauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 10:25 Uhr).",
-   "checked": "2026-11-06",
+   "source": "https://mittelsaechsische-lauftour.com/wettkaempfe.html",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 10:25 Uhr). Termin laut Terminliste der Mittelsächsischen Lauftour 2027 (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:25"
    }
@@ -35130,15 +35171,15 @@
    "lat": 51.2,
    "lon": 14.05,
    "date": "2027-09-19",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
    "url": "https://schwarzenberglauf.de",
    "source": "https://www.runme.de/deutschland/schwarzenberglauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 12:15 Uhr).",
-   "checked": "2026-11-06",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 12:15 Uhr). Termin laut Veranstalterseite (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "12:15"
    }
@@ -35203,17 +35244,21 @@
    "lat": 51.267,
    "lon": 12.5,
    "date": "2027-09-26",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
-   "url": "http://lfv-oberholz.de/cms/",
-   "source": "https://www.runme.de/deutschland/oberholzer-volkssportlauf-grosspoesna/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:15 Uhr).",
-   "checked": "2026-11-06",
+   "url": "https://lfv-oberholz.de/cms/ovl/",
+   "source": "https://lfv-oberholz.de/cms/termine/",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:15 Uhr). Termin laut Terminplanung 2027 des LFV Oberholz (Stand 08.11.2026). Ausgabe 2026: Start 5 km 10:15 Uhr, 10 km 10:30 Uhr; Voranmeldung online bis Mittwoch vor dem Lauf, Nachmeldung bis 9:30 Uhr vor Ort.",
+   "checked": "2026-11-08",
    "prev": {
-    "start_time": "10:15"
+    "start_time": "10:15",
+    "fee": "10 km 8 €, 5 km 5 € (Nachmeldung 12 € bzw. 8 €)",
+    "pickup": "Meldebüro im Holzhaus des Botanischen Gartens Großpösna, 8:00–9:45 Uhr",
+    "start_place": "Botanischer Garten, Störmthaler Weg 2, 04463 Großpösna (OT Oberholz)",
+    "parking": "Empfehlung: Parkplatz SCONTO-Möbel/PösnaPark (ca. 1 km Fußweg), Rudolf-Breitscheid-Straße und Nebenstraßen"
    }
   },
   {
@@ -35233,10 +35278,11 @@
    ],
    "url": "http://www.basaltlauf.org/",
    "source": "https://www.runme.de/deutschland/basaltlauf-stolpen/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,3 km um 11:00 Uhr). Laut Veranstalterseite Sonntag 26.09.2027, erster Start 9:30 Uhr; Anmeldung ab Februar 2027 über Baer-Service, Anmeldeschluss Samstag 25.09.2027 23:59 Uhr, Startgeld folgt mit Anmeldestart",
-   "checked": "2026-11-06",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,3 km um 11:00 Uhr). Laut Veranstalterseite Sonntag 26.09.2027, erster Start 9:30 Uhr; Anmeldung ab Februar 2027 über Baer-Service, Anmeldeschluss Samstag 25.09.2027 23:59 Uhr, Startgeld folgt mit Anmeldestart. Startgeld wird mit dem Anmeldestart bekannt gegeben, Anmeldung online bei Baer-Service ab Februar 2027. Ausgabe 2026: Umkleiden in zwei Zelten am Markt, Duschen in der Schulturnhalle Pirnaer Landstraße 1.",
+   "checked": "2026-11-08",
    "prev": {
-    "start_time": "11:00"
+    "start_time": "11:00",
+    "parking": "Kostenlos auf dem unteren Teil der „Vogelwiese“ (unterhalb des Parkplatzes an der Bushaltestelle Schützenhausstraße), an der Schule/Turnhalle Pirnaer Landstraße 1 und auf dem Firmenparkplatz Ernst-Uhlemann-Straße 4; ca. 20 Minuten Fußweg bergauf zum Markt"
    },
    "start_time": "09:30",
    "reg_close": "2027-09-25",
@@ -35325,8 +35371,8 @@
    "kreis": "LK Meißen",
    "lat": 51.165,
    "lon": 13.486,
-   "date": "2027-10-03",
-   "confirmed": false,
+   "date": "2027-10-09",
+   "confirmed": true,
    "distances": [
     "10",
     "12",
@@ -35335,8 +35381,8 @@
    ],
    "url": "http://www.elbtal-weinlauf.de/",
    "source": "https://www.runme.de/deutschland/elbtal-weinlauf-meissen/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (17 km um 09:15 Uhr). Ausgabe 2026: Startunterlagen am Freitag vor dem Lauf von 15:00 bis 19:00 Uhr",
-   "checked": "2026-11-06",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (17 km um 09:15 Uhr). Ausgabe 2026: Startunterlagen am Freitag vor dem Lauf von 15:00 bis 19:00 Uhr. Termin laut Veranstalterseite (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "09:15",
     "fee": "10 km 50 €, 12 km 50 €, 17 km 55 € (inkl. Buspendel und Fähre), 30 km 55 € (Ausgabe 2026)"
@@ -35380,14 +35426,14 @@
    "lat": 50.933,
    "lon": 14.017,
    "date": "2027-10-08",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "10"
    ],
    "url": "https://www.wg-pirna.de/",
    "source": "https://www.runme.de/deutschland/wgp-citylauf-pirna-4044/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 19:00 Uhr).",
-   "checked": "2026-11-06",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 19:00 Uhr). Termin laut Veranstalterseite (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "19:00"
    }
@@ -35448,16 +35494,16 @@
    "kreis": "LK Mittelsachsen",
    "lat": 51.199,
    "lon": 12.956,
-   "date": "2027-10-10",
-   "confirmed": false,
+   "date": "2027-10-03",
+   "confirmed": true,
    "distances": [
     "8",
     "12"
    ],
    "url": "http://www.mittelsaechsische-lauftour.com/",
-   "source": "https://www.runme.de/deutschland/burglauf-leisnig-5466/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (8 km um 09:30 Uhr).",
-   "checked": "2026-11-06",
+   "source": "https://mittelsaechsische-lauftour.com/wettkaempfe.html",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (8 km um 09:30 Uhr). Termin laut Terminliste der Mittelsächsischen Lauftour 2027 (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "09:30"
    }
@@ -35472,7 +35518,7 @@
    "lat": 50.85,
    "lon": 14.75,
    "date": "2027-10-16",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5,9",
     "16",
@@ -35483,10 +35529,11 @@
    ],
    "url": "http://www.o-see-ultratrail.de/",
    "source": "https://www.runme.de/deutschland/o-see-ultra-trail-mit-kids-und-cross-races/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (100 km um 04:00 Uhr).",
-   "checked": "2026-11-06",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (100 km um 04:00 Uhr). Termin laut Veranstalterseite (Stand 08.11.2026). Veranstaltung 15. bis 17.10.2027; Anmeldung für 2027 öffnet voraussichtlich Anfang 2027.",
+   "checked": "2026-11-08",
    "prev": {
-    "start_time": "04:00"
+    "start_time": "04:00",
+    "start_place": "Kurort Oybin"
    }
   },
   {
@@ -35498,17 +35545,17 @@
    "kreis": "LK Meißen",
    "lat": 51.273,
    "lon": 13.417,
-   "date": "2027-10-23",
-   "confirmed": false,
+   "date": "2027-10-16",
+   "confirmed": true,
    "distances": [
     "5,1",
     "9,7",
     "14,3"
    ],
    "url": "https://www.svelbland.de/",
-   "source": "https://www.runme.de/deutschland/glaubitzer-waldlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,1 km um 10:00 Uhr).",
-   "checked": "2026-11-06",
+   "source": "https://mittelsaechsische-lauftour.com/wettkaempfe.html",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,1 km um 10:00 Uhr). Termin laut Terminliste der Mittelsächsischen Lauftour 2027 (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:00"
    }
@@ -84077,6 +84124,83 @@
    "prev": {
     "start_time": "17:00"
    }
+  },
+  {
+   "id": "weesensteiner-rundenlauf-2027",
+   "type": "trail",
+   "name": "Weesensteiner Rundenlauf",
+   "place": "Dohna-Weesenstein",
+   "bezirk": "Dresden",
+   "kreis": "LK Sächsische Schweiz-Osterzgebirge",
+   "lat": 50.956,
+   "lon": 13.858,
+   "date": "2027-07-10",
+   "confirmed": false,
+   "distances": [
+    "1 h",
+    "4 h",
+    "6 h"
+   ],
+   "url": "https://www.msv-meusegast.de/veranstaltungen/stundenlauf/",
+   "source": "https://running.life/de/termine/weesensteiner-rundenlauf",
+   "checked": "2026-11-08",
+   "start_place": "Meldebüro am Kaiserstüble Weesenstein",
+   "prev_date": "2026-05-31",
+   "prev": {
+    "start_time": "12:00"
+   },
+   "info": "Rundenlauf des MSV Meusegast mit Stadt Dohna und Gemeinde Müglitztal auf einem exakt vermessenen, flachen 460-m-Rundkurs über Wald- und Fußwege: 1, 4 und 6 Stunden (dazu 30 Minuten und Walking). Termin 2027 laut running.life, vom Veranstalter noch nicht bestätigt. 2026 Start 6-Stundenlauf 12 Uhr, 4 Stunden 14 Uhr, 1 Stunde 16 Uhr."
+  },
+  {
+   "id": "kreischaer-berglauf-2027",
+   "type": "trail",
+   "name": "Kreischaer Berglauf",
+   "place": "Oschatz-Thalheim",
+   "bezirk": "Leipzig",
+   "kreis": "LK Nordsachsen",
+   "lat": 51.3,
+   "lon": 13.11,
+   "date": "2027-04-10",
+   "confirmed": true,
+   "distances": [
+    "6,6",
+    "10"
+   ],
+   "url": "https://mittelsaechsische-lauftour.com/wettkaempfe/kreischaer-berglauf.html",
+   "source": "https://mittelsaechsische-lauftour.com/wettkaempfe/kreischaer-berglauf.html",
+   "checked": "2026-11-08",
+   "start_time": "10:30",
+   "fee": "Erwachsene 8 €, Jugend 4 €, Schüler 2 €, Bambini frei; Nachmeldung +2 €",
+   "reg_close": "2027-04-09",
+   "late_reg": "Nachmeldung am Lauftag bis 15 Minuten vor dem Start (+2 €)",
+   "start_place": "Bürgerhaus Thalheim, Leubener Str. 5, 04758 Oschatz (OT Thalheim)",
+   "parking": "In unmittelbarer Nähe begrenzt vorhanden",
+   "info": "17. Kreischaer Berglauf des Heimatvereins Thalheim, Lauf der Mittelsächsischen Lauftour: 1 große Runde 6,6 km oder 3 Runden 10 km (dazu 3,3 km und Bambini), Start 10:30 Uhr. Voranmeldung bis 09.04.2027, 18 Uhr; Zeitmessung per Transponder; Toiletten im Bürgerhaus. Termin laut Terminliste der Mittelsächsischen Lauftour 2027 (Stand 08.11.2026)."
+  },
+  {
+   "id": "kirchenfruehjahrslauf-collm-2027",
+   "type": "road",
+   "name": "Kirchenfrühjahrslauf (Uli-Korbel-Gedenklauf)",
+   "place": "Wermsdorf-Collm",
+   "bezirk": "Leipzig",
+   "kreis": "LK Nordsachsen",
+   "lat": 51.283,
+   "lon": 12.95,
+   "date": "2027-04-24",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://mittelsaechsische-lauftour.com/wettkaempfe/kirchenfruhjahrslauf.html",
+   "source": "https://mittelsaechsische-lauftour.com/wettkaempfe.html",
+   "checked": "2026-11-08",
+   "prev": {
+    "start_time": "10:10",
+    "fee": "Keine Meldegebühr, Spenden erwünscht",
+    "start_place": "Kirche, Dorfplatz, 04779 Collm"
+   },
+   "info": "32. Kirchenfrühjahrslauf der Ev.-Luth. Kirchgemeinde Oschatzer Land und des SV Fortschritt Oschatz, Lauf der Mittelsächsischen Lauftour. Ausgabe 2026: 2,5, 5 und 10 km um 10:10 Uhr, Voranmeldung bis zum Vortag 18 Uhr, Nachmeldung am Lauftag bis 15 Minuten vor dem Start, keine Meldegebühr (Spenden erwünscht), Parkplätze in Collm ausreichend. Termin laut Terminliste der Mittelsächsischen Lauftour 2027 (Stand 08.11.2026)."
   }
  ]
 }
