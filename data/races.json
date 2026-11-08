@@ -12011,7 +12011,7 @@
    "start_place": "Flachslandenstr. 25, 86633 Neuburg an der Donau (Adresse laut hdsports)",
    "info": "Veranstalter: TSV 1862 Neuburg, Leichtathletik. Die Ausschreibung für 2026 ist noch nicht veröffentlicht; Startgeld, Zeiten und Parken stammen aus der Ausschreibung 2025 (Vorjahr). Anmeldung 2025 über RaceResult bis 29.12., Nachmeldung bis 60 Minuten vor dem Start. 2025: Bambini 10:00, Schüler 10:15, Hauptlauf 6 km 11:00 Uhr; 50. Auflage 2026",
    "bezirk": "Oberbayern",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "anmeldung_url": "https://my.raceresult.com/368733/",
    "prev": {
     "fee": "Erwachsene 12 €, Jugend und Schüler 4 €, Bambini frei; Nachmeldung +5 € (Erwachsene) bzw. +3 € (Jugend/Schüler)",
@@ -13939,7 +13939,7 @@
     "12 h"
    ],
    "source": "https://neckarlauf.com/6hoder12h-run.html",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "end": "2026-11-15",
    "url": "https://neckarlauf.com/6hoder12h-run.html",
    "fee": "6 h oder 12 h: 45 € für einen Lauftag, 80 € für beide Tage",
@@ -13947,7 +13947,8 @@
    "late_reg": "Nachmeldung am Renntag möglich",
    "info": "Wendepunktstrecke 2.236 m mit ca. 20 m Anstieg, nur volle Runden zählen. Verpflegung, Frühstücksbuffet und Urkunde inklusive. Teile der Strecke unbeleuchtet, Stirnlampe empfohlen. Weitere Läufe der Serie bis 06.02.2027.",
    "lat": 48.467,
-   "lon": 8.414
+   "lon": 8.414,
+   "start_time": "08:00"
   },
   {
    "id": "ring-running-series-hockenheimring-halbmarathon-und-marathon-2026",
@@ -14151,14 +14152,14 @@
     "HM"
    ],
    "source": "https://haid.app/en/events/itdesign-nikolauslauf-tubingen-mrsn2j44",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "url": "https://nikolauslauf-tuebingen.de",
    "lat": 48.527,
    "lon": 9.05,
    "elevation": [
     300
    ],
-   "sold_out": "Halbmarathon ausgebucht (Stand 05.11.2026)",
+   "sold_out": "Halbmarathon ausgebucht, Startplatztausch möglich (Stand 08.11.2026)",
    "start_place": "Tübingen, Schönbuch (Strecke durch den Naturpark)",
    "info": "Termin und Meldeschluss laut Veranstalter und Anmeldeportal. Präsenzlauf ist der Halbmarathon (Start 10:00 Uhr, Meldeschluss 16.11.2026 oder bis zum Limit, laut Portal am 05.11.2026 ausgebucht); der 10-km-Wettbewerb wird nur virtuell angeboten (Meldeschluss 06.12.2026). Keine Nachmeldungen, nach Meldeschluss nur Tausch möglich.",
    "start_time": "10:00",
@@ -14417,13 +14418,13 @@
     "18"
    ],
    "source": "https://gotrail.run/de/termine/silvesterlauf-auf-die-burg-teck",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "url": "https://vfl-kirchheim.de/lauftreff",
    "fee": "kostenlos, Spenden willkommen",
    "elevation": [
     459
    ],
-   "info": "Kein Wettkampf, gemeinsames Ankommen (17,84 km). Veranstalter Lauftreff Kirchheim. Keine Anmeldung nötig. Kleiderablage am Rathaus. Haupt-Start 15:00 Uhr, optional Frühstart 14:30 Uhr, Ankunft am Gaiserplatz mit Fackelläufern gegen 17:00 Uhr; finale Startzeit sollte bis 01.11.26 entschieden werden",
+   "info": "Kein Wettkampf, gemeinsames Ankommen (17,84 km). Veranstalter Lauftreff Kirchheim. Keine Anmeldung nötig. Kleiderablage am Rathaus. Haupt-Start 15:00 Uhr, optional Frühstart 14:30 Uhr, Ankunft am Gaiserplatz mit Fackelläufern gegen 17:00 Uhr; finale Startzeit sollte bis 01.11.26 entschieden werden. Start laut Veranstalter jeweils am 31.12. um 14:30 und 15:00 Uhr.",
    "lat": 48.647,
    "lon": 9.454,
    "start_place": "Rathaus Kirchheim unter Teck, Marktstraße 14",
@@ -14609,7 +14610,7 @@
     "10"
    ],
    "source": "https://haid.app/en/events/optima-dreikonigslauf-in-schwabisch-hall-mq94j2e2",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "lat": 49.111,
    "lon": 9.739,
    "url": "https://3koenigslauf.de/",
@@ -14618,7 +14619,7 @@
    "info": "41. OPTIMA Dreikönigslauf am 06.01.2027, Anmeldung seit 01.10.2026. 2026 war der Lauf ausgebucht (über 3.200 Läufer). 10 km in zwei Runden durch die Altstadt, Veranstalter TSG Schwäbisch Hall. Startzeiten laut Anmeldeseite: 10 km (VR Bank Hauptlauf) 14:20 Uhr, 5 km (Röwisch Wohnbau Cup) 13:20 Uhr; Startnummer kommt ab 30.12.2026 per E-Mail. 41. Optima Dreikönigslauf am 06.01.2027; Startnummer per E-Mail ab 30.12.2026, Anmeldung über RaceResult (SEPA-Lastschrift)",
    "reg_close": "2026-12-20",
    "start_place": "Startunterlagen in der Blendstatthalle, Blendstatt 6, 74523 Schwäbisch Hall (ab 10:00 Uhr, zusätzlich 04.01. bei Intersport Schoell)",
-   "sold_out": "10-km-Hauptlauf ausgebucht (laut Anmeldeseite, Stand 05.11.2026); 5 km sowie Jugend- und Kinderläufe noch frei",
+   "sold_out": "10-km-Hauptlauf ausgebucht (laut Anmeldeportal, Stand 08.11.2026); 5 km noch 28 Plätze, Jugend- und Kinderläufe frei",
    "start_time": "14:20",
    "pickup": "Startunterlagen Montag 04.01.2027 von 10 bis 18 Uhr bei Intersport Schoell (Stuttgarter Str. 157, Schwäbisch Hall) oder am Lauftag ab 10 Uhr in der Blendstatthalle"
   },
@@ -22974,7 +22975,7 @@
     "10"
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 15.11.). Strecken laut hdsports. Veranstalter TSV Geislingen. 39. Volkslauf war am 15.11.2026 (Meldeschluss 11.11.): Hauptlauf 10,5 km, Schülerläufe und Integrationslauf, Start 2025 um 10:30 Uhr",
    "url": "https://leichtathletik.tsv-geislingen.de/",
    "prev": {
@@ -23123,11 +23124,12 @@
     "10"
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 31.12.). Strecken laut hdsports. Veranstalter SSV Schwaibach 1963. 2026 am 31.12. um 14:00 Uhr, 26. Auflage war 2025: 2 km, 5 km und 10 km sowie ein unzeitgemessener 7-km-Walking-Lauf, Kinder bis 10 Jahre frei, Anmeldung über RaceResult. Veranstalterseite nur per http erreichbar. Das Teilnehmerlimit stammt aus der Ausschreibung 2025; für 2026 liegt noch keine neue Ausschreibung vor",
    "url": "http://schwaibach-lauf-mit.de/ausschreibung",
    "prev": {
-    "start_time": "14:00"
+    "start_time": "14:00",
+    "fee": "5 und 10 km 8 € (Schüler bis 17 Jahre 4 €), 2 km 6 €; Nachmeldung +4 €"
    },
    "start_place": "Sportgelände SSV Schwaibach, Gengenbach",
    "limit": "400 Läufer (Ausschreibung 2025)",
@@ -23606,12 +23608,16 @@
     "6"
    ],
    "source": "https://www.runme.de/deutschland/offenbacher-behoerdenwaldlauf/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "url": "http://www.behoerdenwaldlauf.de/",
    "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME.",
    "fee": "Erwachsene 7 €, Walking/Nordic Walking 4 €, Jugendliche U18/U20 4 €",
    "start_time": "10:00",
-   "start_place": "AWO-Gelände, Waldstraße 353, Offenbach"
+   "start_place": "AWO-Gelände, Waldstraße 353, Offenbach",
+   "showers": "Dusch- und Umkleidemöglichkeiten auf dem Walderholungsgelände der Arbeiterwohlfahrt",
+   "parking": "Parkplatz am Nassen Dreieck gegenüber der Stadthalle",
+   "reg_open": "2026-04-18",
+   "reg_close": "2026-11-12"
   },
   {
    "id": "rhaedenlauf-wildeck-obersuhl-2026",
@@ -23829,27 +23835,29 @@
    "id": "silvesterlauf-wesertal-arenborn-2026",
    "type": "road",
    "name": "Silvesterlauf Wesertal-Arenborn",
-   "place": "Wesertal-Arenborn",
+   "place": "Wesertal-Lippoldsberg",
    "bezirk": "Kassel",
    "kreis": "LK Kassel",
    "lat": 51.583,
    "lon": 9.567,
-   "date": "2026-12-28",
-   "confirmed": false,
+   "date": "2027-01-03",
+   "confirmed": true,
    "distances": [
     "5",
-    "13,5",
-    "21,5"
+    "13",
+    "21"
    ],
-   "source": "https://www.runme.de/deutschland/neujahrslauf/",
-   "checked": "2026-11-04",
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "checked": "2026-11-08",
    "url": "http://mtv-vernawahlshausen.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 12:00 Uhr).",
+   "info": "Silvester-/Neujahrslauf des MTV Vernawahlshausen am 03.01.2027 (Beginn 11:30 Uhr): Jogginglauf 5 km, Hauptlauf 13 km, Langstrecke 21 km und Walking. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
    "fee": "6 €",
-   "start_place": "Klinik- und Rehabilitationszentrum Lippoldsberg, Birkenallee 1, 34399 Wesertal",
+   "start_place": "Klinik- und Rehabilitationszentrum Lippoldsberg, Birkenallee 1",
    "prev": {
     "start_time": "12:00"
-   }
+   },
+   "showers": "Umkleide- und Duschmöglichkeiten vor Ort",
+   "parking": "Ausgeschilderte Parkplätze vor Ort"
   },
   {
    "id": "griesheimer-rewe-michael-weisbrod-silvesterlauf-2026",
@@ -23867,7 +23875,7 @@
     "10"
    ],
    "source": "https://www.runme.de/deutschland/griesheimer-silvesterlauf/",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "url": "https://www.tusgriesheim.de/de/vereinssport/sportarten/leichtathletik/31-griesheimer-rewe-michael-weisbrod-silvesterlauf/",
    "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden). Online-Voranmeldung bis Montag 28.12.2026, 20 Uhr; bei Voranmeldung wird das Startgeld erst nach der Veranstaltung per Lastschrift abgebucht. Start 10:30 Uhr Schülerlauf, 10:45 Uhr 10 km, 12:00 Uhr 5 km (laut Anmeldeportal RaceResult am 05.11.2026)",
    "start_time": "10:45",
@@ -23880,7 +23888,8 @@
    "reg_close": "2026-12-28",
    "start_place": "Waldspielplatz, Goethestraße 99, Griesheim",
    "parking": "Parkplätze direkt an Start/Ziel auf dem Parkplatz der Gerhart-Hauptmann-Schule und auf dem Großparkplatz",
-   "fee": "10 km 15 € bzw. 12 €, 5 km und 5 km Walken 12 € bzw. 10 €, Schülerlauf 1,2 km 5 €, Bambinilauf kostenlos; Einzel-Nachmeldung 10 km 20 € bzw. 17 €, 5 km 17 €"
+   "fee": "10 km 15 € bzw. 12 €, 5 km und 5 km Walken 12 € bzw. 10 €, Schülerlauf 1,2 km 5 €, Bambinilauf kostenlos; Einzel-Nachmeldung 10 km 20 € bzw. 17 €, 5 km 17 €",
+   "reg_open": "2026-09-25"
   },
   {
    "id": "spiridon-mainova-silvesterlauf-frankfurt-2026",
@@ -24001,7 +24010,7 @@
     "HM"
    ],
    "source": "https://www.runme.de/deutschland/int-giessener-silvester-volkslauf-rund-um-den-schiffenberg/",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "url": "https://www.silvesterlauf-giessen.de/",
    "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Halbmarathon 10:00, 10 km 10:45, 5 km 11:10, Schülerlauf 09:45 Uhr; 2 € Startnummernpfand; Anmeldung über RaceResult. Laut Veranstalter (Stand 05.11.2026): alle 2.000 Startplätze vergeben, Anmeldung geschlossen; bei Abmeldungen wird sie wieder geöffnet (Hinweis auf der Homepage und Instagram). Keine Warteliste, keine Startplatzübertragung. Siegerehrung nur für Streckensieger ca. 12:00 Uhr. 70 % Waldwege beim Halbmarathon, 80 % beim 10 km",
    "start_time": "10:45",
@@ -24014,7 +24023,8 @@
    "cutoff": "13:00 Uhr (Zielschluss)",
    "late_reg": "Keine Nachmeldung am Veranstaltungstag; Ummeldung auf andere Distanz bis zum Lauftag kostenlos",
    "parking": "Rund um die Sporthalle Ost; Parkflächen am Philosophikum I (Otto-Behaghel-Straße, Uni-Bibliothek, Mensa)",
-   "showers": "Umkleiden, Duschen und Toiletten in der Sporthalle Ost"
+   "showers": "Umkleiden, Duschen und Toiletten in der Sporthalle Ost",
+   "fee": "Halbmarathon 16–20 €, 10 km 13–17 € (je nach Kategorie, laut Anmeldeportal)"
   },
   {
    "id": "dreikoenigslauf-vfl-altenstadt-2027",
@@ -24063,7 +24073,7 @@
   {
    "id": "alten-busecker-winterlaufserie-2026",
    "type": "road",
-   "name": "Alten-Busecker Winterlaufserie",
+   "name": "Alten-Busecker Winterlaufserie, 1. Lauf",
    "place": "Alten Buseck",
    "bezirk": "Gießen",
    "kreis": "LK Gießen",
@@ -24078,9 +24088,9 @@
     "HM"
    ],
    "source": "https://www.runme.de/deutschland/winterlauf-serie-alten-buseck/",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "url": "https://www.tsg-alten-buseck.com/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Termine der Serie: 14.11.2026, 12.12.2026, 23.01.2027. Winterlaufserie mit Start jeweils ab 14:00 Uhr (2- und 5-km-Lauf im Anschluss); Online-Anmeldung ab 01.10.2026 bis jeweils am Tag des Laufes um 12:00 Uhr",
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Winterlaufserie mit Start jeweils ab 14:00 Uhr (2- und 5-km-Lauf im Anschluss); Online-Anmeldung ab 01.10.2026 bis jeweils am Tag des Laufes um 12:00 Uhr. 1. Lauf der Serie. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
    "fee": "5 km 8 €, 10/15 und 21 km 10 € (pro Lauf)",
    "late_reg": "Meldung auch am Lauftag bis 12:00 Uhr möglich",
    "start_time": "14:00",
@@ -24092,7 +24102,7 @@
   {
    "id": "winterlauf-walkingserie-hofheim-lorsbach-2026",
    "type": "road",
-   "name": "Winterlauf- & Walkingserie Hofheim-Lorsbach",
+   "name": "Lorsbacher Winterlauf- und Walkingserie, 1. Lauf",
    "place": "Hofheim-Lorsbach",
    "bezirk": "Darmstadt",
    "kreis": "Main-Taunus-Kreis",
@@ -24105,9 +24115,9 @@
     "20"
    ],
    "source": "https://www.runme.de/deutschland/winterlauf-und-walkingserie-lorsbach/",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "url": "https://tvlorsbach.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Termine der Serie: 29.11.2026, 20.12.2026, 10.01.2027, 24.01.2027, 14.02.2027. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden). Startzeit der letzten Ausgabe laut RUNME (10 km um 08:00 Uhr).",
+   "info": "Strecken laut RUNME. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden). Startzeit der letzten Ausgabe laut RUNME (10 km um 08:00 Uhr). 1. Lauf der Serie. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
    "fee": "Gebührenfrei, Spenden freiwillig",
    "showers": "Umkleidemöglichkeiten in der Sporthalle",
    "prev": {
@@ -24238,7 +24248,7 @@
   {
    "id": "winterlaufserie-tsv-blau-weiss-wolfhagen-ippinghausen-2026",
    "type": "road",
-   "name": "Winterlaufserie TSV Blau-Weiß Wolfhagen-Ippinghausen",
+   "name": "Winterlaufserie TSV Blau-Weiß Ippinghausen, 1. Lauf",
    "place": "Wolfhagen-Ippinghausen",
    "bezirk": "Kassel",
    "kreis": "LK Kassel",
@@ -24251,19 +24261,21 @@
     "15"
    ],
    "source": "https://www.runme.de/deutschland/winterlaufserie-tsv-ippinghausen-3564/",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "url": "http://www.wila-ippinghausen.de",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Termine der Serie: 22.11.2026, 13.02.2027. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden). Startzeit der letzten Ausgabe laut RUNME (15 km um 14:15 Uhr).",
+   "info": "Strecken laut RUNME. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden). Startzeit der letzten Ausgabe laut RUNME (15 km um 14:15 Uhr). 1. Lauf der Serie. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
    "late_reg": "Nachmeldung am Lauftag gegen 2 € Gebühr möglich",
    "fee": "Frauen und Männer 7 €, Schüler und Jugend 4 €, Bambini 2 €",
    "prev": {
     "start_time": "14:15"
-   }
+   },
+   "parking": "Am Sportplatz, Waldecker Straße und Vor dem Busche (möglichst nicht an der Bundesstraße)",
+   "start_place": "Weidelsburgstadion/Sportplatz, Korbacher Straße 25, Wolfhagen-Ippinghausen"
   },
   {
    "id": "seligenstaedter-winterlaufserie-2026",
    "type": "road",
-   "name": "Seligenstädter Winterlaufserie",
+   "name": "Seligenstädter Winterlaufserie, 1. Lauf",
    "place": "Seligenstadt",
    "bezirk": "Darmstadt",
    "kreis": "LK Offenbach",
@@ -24276,9 +24288,9 @@
     "10"
    ],
    "source": "https://www.runme.de/deutschland/seligenstaedter-winterlaufserie-seligenstadt/",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "url": "https://www.tria-seligenstadt.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Termine der Serie: 21.11.2026, 19.12.2026, 16.01.2027, 20.02.2027. Samstage 21.11., 19.12., 16.01. und 20.02. laut Veranstalter, Anmeldung für die Serie und einzelne Läufe geöffnet. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden)",
+   "info": "Strecken laut RUNME. Samstage 21.11., 19.12., 16.01. und 20.02. laut Veranstalter, Anmeldung für die Serie und einzelne Läufe geöffnet. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden). 1. Lauf der Serie. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
    "start_time": "13:30",
    "prev": {
     "fee": "10 km Einzellauf 10 € bei Vorauszahlung (Serie 2025/26: 1 km 10 €, 5 km 26 €, 10 km 32 €)"
@@ -24288,26 +24300,27 @@
   {
    "id": "winterlaufserie-lg-dornburg-2027",
    "type": "road",
-   "name": "Winterlaufserie LG Dornburg",
+   "name": "Winterlaufserie LG Dornburg, 1. Lauf",
    "place": "Dornburg-Frickhofen",
    "bezirk": "Gießen",
    "kreis": "LK Limburg-Weilburg",
    "lat": 50.517,
    "lon": 8.017,
    "date": "2027-01-30",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
    "source": "https://www.runme.de/deutschland/winterlaufserie-lg-dornburg-frickhofen/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "url": "http://www.lg-dornburg.de",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Termine der Serie: 30.01.2027, 20.02.2027, 06.03.2027. Startzeit der letzten Ausgabe laut RUNME (5 km um 14:15 Uhr).",
+   "info": "Strecken laut RUNME. Termine der Serie: 30.01.2027, 20.02.2027, 06.03.2027. Startzeit der letzten Ausgabe laut RUNME (5 km um 14:15 Uhr). Termin laut HLV-Laufkalender (Stand 08.11.2026).",
    "late_reg": "Nachmeldung bis etwa 1 Stunde vor dem Start gegen 2 € Gebühr",
    "prev": {
     "start_time": "14:15"
-   }
+   },
+   "start_place": "Sportzentrum Dornburg-Frickhofen, Sportplatzweg 1"
   },
   {
    "id": "halbmarathon-moerfelden-2027",
@@ -24391,7 +24404,7 @@
     "50"
    ],
    "source": "https://www.runme.de/deutschland/lahntallauf-marburg/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "url": "https://ultra-marburg.de/",
    "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Startzeit laut RUNME (30 km um 10:00 Uhr, frühester Lauf ab 5 km).",
    "pickup": "Startnummernausgabe Samstag 06.03.2027 von 8:00 bis 9:30 Uhr im Georg-Gaßmann-Stadion, keine Nachmeldung vor Ort",
@@ -24400,7 +24413,8 @@
    "prev": {
     "fee": "10 km 15 €, Halbmarathon 25 €, 30 km 30 €, Marathon 35 € (Angabe der Veranstalterseite, Jahr unsicher)"
    },
-   "start_time": "10:00"
+   "start_time": "10:00",
+   "parking": "Navi: Adolf-Reichwein-Schule, Weintrautstraße 33, Marburg (300 m ausgeschilderter Fußweg zum Unistadion)"
   },
   {
    "id": "auf-die-platte-fertig-los-2027",
@@ -24452,22 +24466,22 @@
   {
    "id": "winterlaufserie-ahnatal-2027",
    "type": "road",
-   "name": "Winterlaufserie Ahnatal",
+   "name": "Winterlaufserie Ahnatal, 2. Wertungslauf",
    "place": "Ahnatal",
    "bezirk": "Kassel",
    "kreis": "LK Kassel",
    "lat": 51.35,
    "lon": 9.383,
-   "date": "2027-03-07",
-   "confirmed": false,
+   "date": "2026-12-06",
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
-   "source": "https://www.runme.de/deutschland/winterlaufserie-ahnatal-weimar/",
-   "checked": "2026-11-04",
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "checked": "2026-11-08",
    "url": "https://sportverein-weimar.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 09:45 Uhr).",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 09:45 Uhr). 2. Wertungslauf der 51. Winterlaufserie des SV Weimar 06 Ahnatal (Sportheim Triftstraße). Termin laut HLV-Laufkalender (Stand 08.11.2026).",
    "prev": {
     "start_time": "09:45"
    }
@@ -24489,7 +24503,7 @@
     "HM"
    ],
    "source": "https://www.runme.de/deutschland/brechener-strassen-und-volkslauf-brechen/",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "url": "http://www.lgbrechen.de",
    "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Online-Anmeldung bis Freitag 12.03.2027, 20:00 Uhr, laut Ausschreibung 2027 der LG Brechen. Startzeit laut RUNME (21,0975 km um 14:00 Uhr, frühester Lauf ab 5 km).",
    "reg_close": "2027-03-12",
@@ -24498,7 +24512,8 @@
    "pickup": "Startnummernausgabe in der Emstalhalle: Freitag 12.03.2027 von 19:00 bis 20:00 Uhr und am Wettkampftag ab 11:15 Uhr bis spätestens 1 Stunde vor dem jeweiligen Start",
    "parking": "Parkmöglichkeiten an der Emstalhalle und am TSG-Vereinsheim reichlich vorhanden",
    "start_place": "Denkmalsplatz / Brunnen, Oberbrechen (Frankfurter Straße 52)",
-   "start_time": "14:00"
+   "start_time": "14:00",
+   "showers": "Umkleiden und Duschen in der Emstalhalle (ca. 500 m von Start und Ziel)"
   },
   {
    "id": "walter-eifert-crosslauftag-bad-soden-neuenhain-2027",
@@ -24541,13 +24556,14 @@
     "M"
    ],
    "source": "https://www.runme.de/deutschland/rund-um-den-winterstein-friedberg/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "url": "https://asc-marathon-friedberg.jimdofree.com/",
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Laut Veranstalter: 49. Volkslauf am 14.03.2027, die Konditionen bleiben Stand jetzt wie 2026; Strecken 5 km, 10 km, 30 km und Marathon. Startzeit der letzten Ausgabe laut RUNME (30 km um 09:30 Uhr).",
    "prev_date": "2026-03-15",
    "prev": {
     "start_time": "09:30"
-   }
+   },
+   "charity": "Teilnahme kostenlos, erbeten wird eine Spende an die Lebenshilfe Wetterau"
   },
   {
    "id": "frankfurter-mainova-halbmarathon-2027",
@@ -24564,7 +24580,7 @@
     "HM"
    ],
    "source": "https://www.runme.de/deutschland/frankfurter-halbmarathon/",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "url": "https://www.frankfurter-halbmarathon.de/",
    "start_time": "10:05",
    "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Elitelauf und DM 10:00 Uhr, Hauptlauf 10:05 Uhr; Meldeschluss 31.01.2027, sofern das Teilnehmerlimit nicht früher erreicht ist. Ausschreibung 2027 (Stand 18.09.2026): Meldeschluss 31.01.2027, Versand der Startnummern ab 15.02.2027, nicht angekommene Startunterlagen am 20.03.2027 vor dem Deutsche Bank Park",
@@ -24573,7 +24589,10 @@
    "pickup": "Startunterlagen werden den Teilnehmenden zugeschickt",
    "fee": "55 € bei Anmeldung bis 31.01.2027, danach Online-Nachmeldung 60 € (solange das Teilnehmerlimit nicht erreicht ist)",
    "late_reg": "Nach dem 31.01.2027 Online-Nachmeldung möglich, solange das Teilnehmerlimit nicht erreicht ist",
-   "showers": "Dusch- und Umkleidemöglichkeiten in begrenzter Anzahl, Frauen in der Wintersporthalle"
+   "showers": "Dusch- und Umkleidemöglichkeiten in begrenzter Anzahl, Frauen in der Wintersporthalle",
+   "prev": {
+    "parking": "Waldparkplatz und Parkplatz am Gleisdreieck (ab 7:15 Uhr), Parkgebühr 10 € bar"
+   }
   },
   {
    "id": "zwei-huegel-crosslauf-darmstadt-wixhausen-2027",
@@ -24584,16 +24603,16 @@
    "kreis": "Stadt Darmstadt",
    "lat": 49.911,
    "lon": 8.657,
-   "date": "2027-03-21",
-   "confirmed": false,
+   "date": "2027-03-06",
+   "confirmed": true,
    "distances": [
     "7",
     "10"
    ],
    "source": "https://www.runme.de/deutschland/zwei-huegel-crosslauf-wixhausen/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "url": "https://leichtathletik-wixhausen.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (7 km um 13:45 Uhr).",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (7 km um 13:45 Uhr). Termin laut HLV-Laufkalender (Stand 08.11.2026).",
    "prev": {
     "start_time": "13:45"
    }
@@ -24656,17 +24675,17 @@
    "kreis": "LK Hersfeld-Rotenburg",
    "lat": 50.996,
    "lon": 9.728,
-   "date": "2027-04-03",
-   "confirmed": false,
+   "date": "2027-03-27",
+   "confirmed": true,
    "distances": [
     "5",
     "10",
     "18"
    ],
    "source": "https://www.runme.de/deutschland/osterlauf-rotenburg-a-d-fulda/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "url": "http://www.lc-marathon-rotenburg.de",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (18 km um 14:45 Uhr).",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (18 km um 14:45 Uhr). Termin laut HLV-Laufkalender (Stand 08.11.2026).",
    "start_place": "Bernhard-Faust-Sporthalle, Braacher Straße 13, Rotenburg a. d. Fulda",
    "prev": {
     "start_time": "14:45"
@@ -24689,11 +24708,15 @@
     "HM"
    ],
    "source": "https://www.runme.de/deutschland/seligenstaedter-evo-wasserlauf-seligenstadt/",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "url": "https://www.seligenstadt-wasserlauf.de/",
    "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Ausgabe 2026: Online-Voranmeldung bis 08.04.2026, 23:59 Uhr. Startzeit laut RUNME (5 km um 08:45 Uhr, frühester Lauf ab 5 km).",
    "showers": "Umkleide- und Duschräume in der TGS-Turnhalle (Ausgabe 2026)",
-   "start_time": "08:45"
+   "start_time": "08:45",
+   "start_place": "Festplatz am Mainufer (ca. 400 m vom Wettkampfbüro in der TGS-Turnhalle, Grabenstraße 48)",
+   "prev": {
+    "pickup": "Ab 7:30 Uhr in der TGS-Turnhalle, Grabenstraße 48"
+   }
   },
   {
    "id": "giessener-fruehjahrslauf-2027",
@@ -24761,14 +24784,17 @@
     "HM"
    ],
    "source": "https://www.runme.de/deutschland/crosslauf-des-laufprojekt-buedingen/",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "url": "https://laufprojektbuedingen.de/",
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Laut Veranstalter: 2. Büdingen X Cross am 04.04.2027, Anmeldung geöffnet, Meldeschluss Donnerstag 01.04.2027. Online-Anmeldung bis 01.04.2027, 23:59 Uhr; Startzeiten: 5,2 km 9:00, 12 km und 21,1 km 10:00 Uhr (laut Anmeldeportal RaceResult am 05.11.2026)",
    "reg_close": "2027-04-01",
    "anmeldung_url": "https://my.raceresult.com/414147",
    "fee": "12 km Crosslauf 12 €, 21,1 km Crosslauf 17 €, 5,2 km Crosslauf 7 €, Schülerlauf 1,5 km 3 €, Bambinilauf ohne Anmeldung",
    "late_reg": "Nachmeldung vor Ort am Sonntag bis 45 Minuten vor dem jeweiligen Lauf",
-   "start_time": "09:00"
+   "start_time": "09:00",
+   "showers": "Umkleiden in der Schützenhalle",
+   "parking": "Parkplätze „Am Hain“ (für Frühanreisende) und am Büdinger Freibad mit Shuttle-Service",
+   "reg_open": "2026-08-16"
   },
   {
    "id": "dorflauf-geiss-nidda-2027",
@@ -24861,11 +24887,12 @@
     "M"
    ],
    "source": "https://www.runme.de/deutschland/henkell-0-0-vinothon-wiesbaden-rheingau-genussmarathon/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "url": "https://vinothon-genussmarathon.de/",
    "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Marathonstart 12:00 Uhr an der Abtei St. Hildegard, Shuttle ab Schloss Henkell ca. 10:45 Uhr",
    "start_time": "12:00",
-   "pickup": "Startunterlagen am Samstag 17.04.2027 im Schloss Henkell (Wiesbaden)"
+   "pickup": "Startunterlagen am Samstag 17.04.2027 im Schloss Henkell (Wiesbaden)",
+   "showers": "Duschen, Umkleide und Garderobe im Schloss Henkell"
   },
   {
    "id": "eichenzeller-fruehlingslauf-2027",
@@ -24924,16 +24951,16 @@
    "kreis": "Schwalm-Eder-Kreis",
    "lat": 51.05,
    "lon": 9.183,
-   "date": "2027-04-17",
-   "confirmed": false,
+   "date": "2027-04-10",
+   "confirmed": true,
    "distances": [
     "6",
     "10"
    ],
    "source": "https://www.runme.de/deutschland/brueckenlauf-bad-zwesten-niederurff/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "url": "https://tsvurfftal08.hpage.com/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 15:30 Uhr).",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 15:30 Uhr). Termin laut HLV-Laufkalender (Stand 08.11.2026).",
    "prev": {
     "start_time": "15:30"
    }
@@ -25021,10 +25048,14 @@
     "18,3"
    ],
    "source": "https://www.runme.de/deutschland/volkslauf-hofgeismar/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "url": "http://www.lauftreff-hofgeismar.de",
    "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Startzeit laut RUNME (18,3 km um 10:30 Uhr, frühester Lauf ab 5 km).",
-   "start_time": "10:30"
+   "start_time": "10:30",
+   "showers": "Umkleiden und Duschen bis 12:30 Uhr, danach nur im Angerstadion",
+   "parking": "Großer Parkplatz am Angerstadion",
+   "pickup": "Startnummernausgabe in der Sporthalle (Bestätigungsmail mitbringen)",
+   "late_reg": "Keine Anmeldung nach Anmeldeschluss"
   },
   {
    "id": "griesheimer-jacobi-strassenlauf-2027",
@@ -25376,15 +25407,15 @@
    "kreis": "LK Marburg-Biedenkopf",
    "lat": 50.803,
    "lon": 8.762,
-   "date": "2027-05-07",
-   "confirmed": false,
+   "date": "2027-06-04",
+   "confirmed": true,
    "distances": [
     "6"
    ],
    "source": "https://www.runme.de/deutschland/emil-von-behring-gedaechtnislauf-marburg/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "url": "https://www.behringwerke.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 17:00 Uhr).",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 17:00 Uhr). Termin laut HLV-Laufkalender (Stand 08.11.2026).",
    "prev": {
     "start_time": "17:00"
    }
@@ -25461,17 +25492,17 @@
    "kreis": "LK Kassel",
    "lat": 51.326,
    "lon": 9.17,
-   "date": "2027-05-08",
-   "confirmed": false,
+   "date": "2027-06-05",
+   "confirmed": true,
    "distances": [
     "5",
     "10",
     "19"
    ],
    "source": "https://www.runme.de/deutschland/volkslauf-rund-um-den-graner-berg-wolfhagen/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "url": "http://www.laufteam-woh.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 15:30 Uhr).",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 15:30 Uhr). Termin laut HLV-Laufkalender (Stand 08.11.2026).",
    "prev": {
     "start_time": "15:30"
    }
@@ -25556,15 +25587,15 @@
    "kreis": "Rheingau-Taunus-Kreis",
    "lat": 50.218,
    "lon": 8.267,
-   "date": "2027-05-14",
-   "confirmed": false,
+   "date": "2027-05-07",
+   "confirmed": true,
    "distances": [
     "5"
    ],
    "source": "https://www.runme.de/deutschland/idsteiner-stadtlauf/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "url": "http://www.tv1844idstein.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 18:00 Uhr).",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 18:00 Uhr). Termin laut HLV-Laufkalender (Stand 08.11.2026).",
    "prev": {
     "start_time": "18:00"
    }
@@ -25690,17 +25721,17 @@
    "kreis": "LK Kassel",
    "lat": 51.35,
    "lon": 9.383,
-   "date": "2027-05-21",
-   "confirmed": false,
+   "date": "2027-05-14",
+   "confirmed": true,
    "distances": [
     "5",
     "10",
     "18,4"
    ],
    "source": "https://www.runme.de/deutschland/abendvolkslauf-rund-um-den-stahlberg-ahnatal-heckershausen/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "url": "https://www.ftsv-heckershausen.de",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (18,4 km um 18:15 Uhr).",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (18,4 km um 18:15 Uhr). Termin laut HLV-Laufkalender (Stand 08.11.2026).",
    "prev": {
     "start_time": "18:15"
    }
@@ -25831,17 +25862,16 @@
    "kreis": "LK Kassel",
    "lat": 51.326,
    "lon": 9.17,
-   "date": "2027-05-23",
-   "confirmed": false,
+   "date": "2027-08-15",
+   "confirmed": true,
    "distances": [
-    "5",
     "10",
-    "20"
+    "HM"
    ],
    "source": "https://www.runme.de/deutschland/bruenderser-lauf-um-die-himmelsschaukel/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "url": "https://www.bründersen.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Laut hdsports Veranstalter TSV Bründersen 1967: 20 km, 10 km, 5 km, 2 km, 1 km, 0,4 km; Voranmeldung online oder am Lauftag; frühere Ausgaben 16.04.2023, 02.06.2024, 25.05.2025 (Preise laut hdsports, Jahr unklar: Erwachsene 6 €, Halbmarathon 8 €, Kinder 4 €). Startzeit der letzten Ausgabe laut RUNME (10 km um 10:40 Uhr).",
+   "info": "Strecken laut RUNME. Laut hdsports Veranstalter TSV Bründersen 1967: 20 km, 10 km, 5 km, 2 km, 1 km, 0,4 km; Voranmeldung online oder am Lauftag; frühere Ausgaben 16.04.2023, 02.06.2024, 25.05.2025 (Preise laut hdsports, Jahr unklar: Erwachsene 6 €, Halbmarathon 8 €, Kinder 4 €). Startzeit der letzten Ausgabe laut RUNME (10 km um 10:40 Uhr). Termin laut HLV-Laufkalender (Stand 08.11.2026).",
    "prev": {
     "start_time": "10:40"
    }
@@ -25903,16 +25933,16 @@
    "kreis": "Odenwaldkreis",
    "lat": 49.676,
    "lon": 9.004,
-   "date": "2027-05-28",
-   "confirmed": false,
+   "date": "2027-05-21",
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
    "source": "https://www.runme.de/deutschland/michelstaedter-bienenmarkt-stadtlauf-michelstadt-odenwald-/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "url": "http://www.tsv-wg.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 19:00 Uhr).",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 19:00 Uhr). Termin laut HLV-Laufkalender (Stand 08.11.2026).",
    "prev": {
     "start_time": "19:00"
    }
@@ -25926,15 +25956,15 @@
    "kreis": "Lahn-Dill-Kreis",
    "lat": 50.6,
    "lon": 8.383,
-   "date": "2027-05-29",
-   "confirmed": false,
+   "date": "2027-05-22",
+   "confirmed": true,
    "distances": [
     "5,3"
    ],
    "source": "https://www.runme.de/deutschland/greifenstein-berglauf/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "url": "http://lg-dill.de",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,3 km um 17:00 Uhr).",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,3 km um 17:00 Uhr). Termin laut HLV-Laufkalender (Stand 08.11.2026).",
    "prev": {
     "start_time": "17:00"
    }
@@ -25971,16 +26001,16 @@
    "kreis": "Main-Taunus-Kreis",
    "lat": 50.118,
    "lon": 8.489,
-   "date": "2027-05-30",
-   "confirmed": false,
+   "date": "2027-05-23",
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
    "source": "https://www.runme.de/deutschland/wachtelrun-liederbach/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "url": "https://www.tsg-niederhofheim.de/wachtel-run",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 09:30 Uhr).",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 09:30 Uhr). Termin laut HLV-Laufkalender (Stand 08.11.2026).",
    "prev": {
     "start_time": "09:30"
    }
@@ -25994,16 +26024,16 @@
    "kreis": "LK Gießen",
    "lat": 50.537,
    "lon": 8.65,
-   "date": "2027-06-03",
-   "confirmed": false,
+   "date": "2027-05-27",
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
    "source": "https://www.runme.de/deutschland/leihgesterner-volkslauf-linden-leihgestern/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "url": "https://www.tsg-leihgestern.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 09:00 Uhr).",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 09:00 Uhr). Termin laut HLV-Laufkalender (Stand 08.11.2026).",
    "prev": {
     "start_time": "09:00"
    }
@@ -26126,16 +26156,16 @@
    "kreis": "LK Waldeck-Frankenberg",
    "lat": 51.3,
    "lon": 8.617,
-   "date": "2027-06-07",
-   "confirmed": false,
+   "date": "2027-05-17",
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
    "source": "https://www.runme.de/deutschland/volks-und-erlebnislauf-rund-um-usseln-willingen-usseln/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "url": "http://www.skiclub-usseln.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+   "info": "Strecken laut RUNME. Termin laut HLV-Laufkalender (Stand 08.11.2026)."
   },
   {
    "id": "brueder-grimm-lauf-hanau-2027",
@@ -26349,16 +26379,16 @@
    "kreis": "Rheingau-Taunus-Kreis",
    "lat": 50.138,
    "lon": 8.134,
-   "date": "2027-06-13",
-   "confirmed": false,
+   "date": "2027-06-06",
+   "confirmed": true,
    "distances": [
     "5",
     "15"
    ],
    "source": "https://www.runme.de/deutschland/taunussteiner-waldlauf-taunusstein-hahn/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "url": "https://www.tvhahn.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (15 km um 09:00 Uhr).",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (15 km um 09:00 Uhr). Termin laut HLV-Laufkalender (Stand 08.11.2026).",
    "start_place": "Gesamtschule Obere Aar, Pestalozzistraße 3, 65232 Taunusstein",
    "prev": {
     "start_time": "09:00"
@@ -26448,13 +26478,18 @@
     "10"
    ],
    "source": "https://www.runme.de/deutschland/dieburger-stadtlauf/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "url": "https://dieburger-stadtlauf.de/",
    "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Startzeit laut RUNME (10 km um 17:30 Uhr, frühester Lauf ab 5 km).",
    "start_place": "Marktplatz Dieburg",
    "pickup": "Ab 14 Uhr im Pater-Delp-Haus (nahe Rathaus/Marktplatz)",
    "late_reg": "Nachmeldung, solange Startplätze verfügbar sind, bis 16 Uhr am Veranstaltungstag",
-   "start_time": "17:30"
+   "start_time": "17:30",
+   "showers": "Keine Duschen und Umkleiden in der Nähe von Start und Ziel",
+   "prev": {
+    "fee": "10 km 12 € (früh), 14 €, 16 €; 4 km 7/9/11 €",
+    "start_time": "17:30"
+   }
   },
   {
    "id": "feldbergfestlauf-grosser-feldberg-2027",
@@ -26506,7 +26541,7 @@
    "kreis": "Stadt Wiesbaden",
    "lat": 50.082,
    "lon": 8.239,
-   "date": "2027-06-26",
+   "date": "2027-06-19",
    "confirmed": true,
    "distances": [
     "5",
@@ -26515,9 +26550,9 @@
     "M"
    ],
    "source": "https://www.runme.de/deutschland/city-marathon-wiesbaden/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "url": "http://www.wiesbaden-marathon.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 18:55 Uhr).",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 18:55 Uhr). Termin laut HLV-Laufkalender (Stand 08.11.2026). Beginn laut HLV 19:00 Uhr.",
    "prev": {
     "fee": "5 bis 96 € je nach Distanz (Ausgabe 2026)",
     "start_time": "18:55"
@@ -26533,17 +26568,17 @@
    "kreis": "LK Kassel",
    "lat": 51.252,
    "lon": 9.408,
-   "date": "2027-06-19",
-   "confirmed": false,
+   "date": "2027-05-22",
+   "confirmed": true,
    "distances": [
     "5",
     "10",
     "18,6"
    ],
    "source": "https://www.runme.de/deutschland/baunatal-rennt-abendlauf-ksv-baunatal/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "url": "http://www.ksv-baunatal.de/abteilungen/marathon/baunatal-rennt.html",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Ausgabe 2026 am Samstag 20.06. (41. Abendlauf des KSV Baunatal, Anmeldung über RaceResult); die frühere Vereinsadresse ist nicht mehr erreichbar. Startzeit der letzten Ausgabe laut RUNME (18,6 km um 14:40 Uhr).",
+   "info": "Strecken laut RUNME. Ausgabe 2026 am Samstag 20.06. (41. Abendlauf des KSV Baunatal, Anmeldung über RaceResult); die frühere Vereinsadresse ist nicht mehr erreichbar. Startzeit der letzten Ausgabe laut RUNME (18,6 km um 14:40 Uhr). Termin laut HLV-Laufkalender (Stand 08.11.2026).",
    "start_place": "Parkstadion Baunatal",
    "prev_date": "2026-06-20",
    "prev": {
@@ -26601,20 +26636,21 @@
    "kreis": "LK Kassel",
    "lat": 51.496,
    "lon": 9.385,
-   "date": "2027-06-20",
-   "confirmed": false,
+   "date": "2027-06-06",
+   "confirmed": true,
    "distances": [
     "5",
     "10",
     "HM"
    ],
    "source": "https://www.runme.de/deutschland/sababurger-tierparklauf-hofgeismar-sababurg/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "url": "http://www.tierparklauf.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 09:00 Uhr).",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 09:00 Uhr). Termin laut HLV-Laufkalender (Stand 08.11.2026).",
    "prev": {
     "start_time": "09:00"
-   }
+   },
+   "charity": "2026 als Spendenlauf für die geplante AmphibienWelt im Tierpark Sababurg"
   },
   {
    "id": "spessarthelden-laufen-gegen-gewalt-2027",
@@ -26696,14 +26732,15 @@
     "7,8"
    ],
    "source": "https://www.runme.de/deutschland/eppsteiner-burg-lauf/",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "url": "http://www.eppsteiner-burglauf.de/",
    "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Laut Veranstalter: Freitag 25.06.2027, Anmeldung ab März 2027. 40. Burg-Lauf am 25.06.2027, Hauptlauf 19:30 Uhr; Online-Anmeldung laut Veranstalter ab März 2027",
    "start_time": "19:30",
    "start_place": "Sportplatz „Am Bienroth“, Auf dem Wingertsberg 2.1, 65817 Eppstein",
    "pickup": "Am 25.06.2027 von 17 bis 19 Uhr am Sportplatz „Am Bienroth“",
    "late_reg": "Nachmeldung am Veranstaltungstag ab 17:00 Uhr bis eine halbe Stunde vor dem Start",
-   "fee": "15 € inklusive Apfelweinglas 2027, Nachmeldung 18 € (inklusive 3 € Nachmeldegebühr); Schülerstaffel (3 Läufer) 15 € pro Staffel"
+   "fee": "15 € inklusive Apfelweinglas 2027, Nachmeldung 18 € (inklusive 3 € Nachmeldegebühr); Schülerstaffel (3 Läufer) 15 € pro Staffel",
+   "showers": "Umkleiden und Duschen: Frauen im TSG-Vereinsheim „Bienroth“, Männer in der Freiherr-vom-Stein-Schule"
   },
   {
    "id": "kraftsolmser-dorflauf-2027",
@@ -27111,29 +27148,6 @@
    }
   },
   {
-   "id": "run-n-roll-for-help-2027",
-   "type": "road",
-   "name": "Run´n Roll for Help",
-   "place": "Gießen",
-   "bezirk": "Gießen",
-   "kreis": "LK Gießen",
-   "lat": 50.585,
-   "lon": 8.674,
-   "date": "2027-08-15",
-   "confirmed": false,
-   "distances": [
-    "5",
-    "10"
-   ],
-   "source": "https://www.runme.de/deutschland/run-n-roll-for-help-giessener-stadtlauf-/",
-   "checked": "2026-11-04",
-   "url": "https://www.runandrollforhelp.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 15:30 Uhr).",
-   "prev": {
-    "start_time": "15:30"
-   }
-  },
-  {
    "id": "ahneparklauf-der-laufgemeinschaft-vellmar-2027",
    "type": "road",
    "name": "Ahneparklauf der Laufgemeinschaft Vellmar",
@@ -27142,17 +27156,17 @@
    "kreis": "LK Kassel",
    "lat": 51.358,
    "lon": 9.48,
-   "date": "2027-08-20",
-   "confirmed": false,
+   "date": "2027-08-27",
+   "confirmed": true,
    "distances": [
     "5",
     "10",
     "17,3"
    ],
    "source": "https://www.runme.de/deutschland/ahnepark-lauf-der-laufgemeinschaft-vellmar/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "url": "http://www.lgvellmar.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (17,3 km um 18:15 Uhr).",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (17,3 km um 18:15 Uhr). Termin laut HLV-Laufkalender (Stand 08.11.2026).",
    "prev": {
     "start_time": "18:15"
    }
@@ -27537,17 +27551,17 @@
    "kreis": "LK Kassel",
    "lat": 51.416,
    "lon": 9.185,
-   "date": "2027-09-05",
-   "confirmed": false,
+   "date": "2027-06-27",
+   "confirmed": true,
    "distances": [
     "5,2",
     "10",
     "HM"
    ],
    "source": "https://www.runme.de/deutschland/breunaer-volkslauf-malsburglauf/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "url": "http://www.tsv-breuna.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 08:50 Uhr).",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 08:50 Uhr). Termin laut HLV-Laufkalender (Stand 08.11.2026).",
    "prev": {
     "start_time": "08:50"
    }
@@ -27569,37 +27583,16 @@
     "HM"
    ],
    "source": "https://www.runme.de/deutschland/canyon-run-muehlheim/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "url": "https://canyon-run.de/",
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Laut Veranstalter: Startzeiten Halbmarathon 09:15, 5 km 09:30, 10 km 12:00 Uhr; Online-Anmeldung bis Samstag 04.09.2027 16 Uhr",
    "start_time": "12:00",
    "reg_close": "2027-09-04",
    "start_place": "Sportgelände Dietesheim, Am Wingertsweg 5, 63165 Mühlheim",
-   "pickup": "Am Veranstaltungstag ab 7:45 Uhr auf dem Laufgelände"
-  },
-  {
-   "id": "niedermeiserer-dorflauf-liebenau-2027",
-   "type": "road",
-   "name": "Niedermeiserer Dorflauf Liebenau",
-   "place": "Liebenau",
-   "bezirk": "Kassel",
-   "kreis": "LK Kassel",
-   "lat": 51.497,
-   "lon": 9.282,
-   "date": "2027-09-11",
-   "confirmed": false,
-   "distances": [
-    "5",
-    "10",
-    "18"
-   ],
-   "source": "https://www.runme.de/deutschland/niedermeiser-dorflauf/",
-   "checked": "2026-11-04",
-   "url": "https://lauftreff-hofgeismar.de",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 16:30 Uhr).",
-   "prev": {
-    "start_time": "16:30"
-   }
+   "pickup": "Am Veranstaltungstag ab 7:45 Uhr auf dem Laufgelände",
+   "showers": "Umkleide- und Duschräume auf der Sportanlage",
+   "parking": "Entlang der Straßen an den Zugängen und am Südring, kleine Parkplätze am Wingertsweg 5, an der Sporthalle Dietesheim und am Parkplatz zum See; Anreise mit der S-Bahn empfohlen",
+   "charity": "Pro Läufer mindestens 1 € an die Lebenshilfe Offenbach, das Theresien Kinder- und Jugendhilfezentrum und den St. Josephshaus e.V."
   },
   {
    "id": "vorderrhoener-eiterfeld-2027",
@@ -27639,12 +27632,16 @@
     "6,4"
    ],
    "source": "https://www.runme.de/deutschland/erzhaeuser-heegbachlauf/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "url": "http://www.die-kaltduscher.de/",
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6,4 km um 14:05 Uhr).",
    "prev": {
     "start_time": "14:05"
-   }
+   },
+   "reg_close": "2027-09-12",
+   "late_reg": "Nachmeldung bis 30 Minuten vor dem Start im Meldebüro",
+   "pickup": "Samstag 11.09.2027 16–18 Uhr und Sonntag 12.09.2027 ab 10 Uhr im Sportheim Erzhausen (großer Saal)",
+   "parking": "P1 (Einfahrt bis 12:30 Uhr, Ausfahrt ab 16 Uhr) und P2 am Bahnhof"
   },
   {
    "id": "hochrhoen-bergtrail-hilders-2027",
@@ -27664,12 +27661,13 @@
     "M"
    ],
    "source": "https://www.runme.de/deutschland/hochrhoen-bergtrail/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "url": "https://beck-bergtrail.de/",
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Laut Veranstalter: 6. BECK HochRhön-BergTrail am 12.09.2027, 29 km und 42 km um 9:30 Uhr, 7 km und 15 km um 10:45 Uhr",
    "start_time": "09:30",
    "start_place": "Sportgelände TSV Hilders",
-   "pickup": "Am Wettkampftag im Feuerwehrstützpunkt Hilders (neben dem Sportgelände)"
+   "pickup": "Am Wettkampftag im Feuerwehrstützpunkt Hilders (neben dem Sportgelände)",
+   "charity": "Ein Teil der Startgelder geht an einen guten Zweck (2026: 2.500 € an die Kinderonkologie des Universitätsklinikums Frankfurt)"
   },
   {
    "id": "lauf-fuer-mehr-zeit-2027",
@@ -27687,14 +27685,15 @@
     "10"
    ],
    "source": "https://www.runme.de/deutschland/lauf-fuer-mehr-zeit-frankfurt-am-main/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "url": "https://www.lauf-fuer-mehr-zeit.de/",
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
    "start_place": "Opernplatz, Frankfurt",
    "prev": {
     "fee": "5 km und 10 km je 19 €, Kinderläufe 5 € (Ausgabe 2026)",
     "start_time": "17:00"
-   }
+   },
+   "charity": "Benefizlauf: Der Erlös geht vollständig an die Projekte der Aids-Hilfe Frankfurt"
   },
   {
    "id": "quellenlauf-bad-vilbel-2027",
@@ -27736,12 +27735,13 @@
     "HM"
    ],
    "source": "https://www.runme.de/deutschland/arque-wuzzelauf-bad-soden-altenhain/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "url": "https://tsg-altenhain.de/",
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,5 km um 09:00 Uhr).",
    "prev": {
     "start_time": "09:00"
-   }
+   },
+   "charity": "Der Erlös geht an lokale und karitative Projekte (2025: 38.000 € Spenden)"
   },
   {
    "id": "volkslauf-garbenteich-pohlheim-2027",
@@ -28015,12 +28015,13 @@
     "10"
    ],
    "source": "https://www.runme.de/deutschland/lions-dietzenbacher-stadtlauf/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "url": "http://www.dietzenbacher-stadtlauf.de/",
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 11:00 Uhr).",
    "prev": {
     "start_time": "11:00"
-   }
+   },
+   "charity": "Der Reinerlös kommt Dietzenbacher Schulen und Vereinen für Jugendbildung und Jugendsport zugute"
   },
   {
    "id": "kalbsvilla-run-ortenberg-2027",
@@ -28173,17 +28174,17 @@
    "kreis": "Stadt Offenbach am Main",
    "lat": 50.123,
    "lon": 8.792,
-   "date": "2027-10-10",
-   "confirmed": false,
+   "date": "2027-10-17",
+   "confirmed": true,
    "distances": [
     "5",
     "10",
     "HM"
    ],
    "source": "https://www.runme.de/deutschland/offenbacher-mainuferlauf/",
-   "checked": "2026-11-04",
+   "checked": "2026-11-08",
    "url": "https://www.offenbacher-lc.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 09:00 Uhr).",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 09:00 Uhr). Termin laut HLV-Laufkalender (Stand 08.11.2026).",
    "prev": {
     "start_time": "09:00"
    }
@@ -28299,7 +28300,7 @@
     "10"
    ],
    "source": "https://www.runme.de/deutschland/moerlenbacher-erinnerungs-volkslauf/",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "url": "https://moerlenbacher-volkslauf.de",
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Laut Veranstalter: Sonntag 02.05.2027, Start aller Läufe um 10:00 Uhr, Online-Voranmeldung bis Samstag 01.05.2027 um 20:30 Uhr. Sonntag 02.05.2027, 10:00 Uhr laut Veranstalter; Online-Voranmeldung bis Samstag 01.05.2027, 20:30 Uhr; die Online-Anmeldung selbst ist kostenlos",
    "start_time": "10:00",
@@ -28308,7 +28309,8 @@
    "late_reg": "Nachmeldung am Lauftag bis 30 Minuten vor dem Start",
    "pickup": "Startnummernausgabe am Lauftag ab 9:00 Uhr im Stadion",
    "parking": "Parkplätze vor dem Stadion in begrenzter Zahl",
-   "showers": "Duschen vorhanden"
+   "showers": "Duschen vorhanden",
+   "fee": "Kein Startgeld (ohne Zeitmessung)"
   },
   {
    "id": "gobertlauf-meinhard-hitzelrode-2027",
@@ -28476,7 +28478,9 @@
    "pickup": "Samstag 17:00 bis 18:00 Uhr und Sonntag ab 07:00 Uhr bis 30 Minuten vor dem Start in der Sporthalle",
    "late_reg": "Nachmeldung bis 30 Minuten vor dem Start gegen 2 € Zuschlag",
    "info": "Veranstalter SG Rothenberg 1946; Startzeiten laut Ausschreibung: Halbmarathon (22 km) 09:00, 10 km und 5 km 09:15, Jugendlauf 1 km 11:45, 400 m 12:00 Uhr; zählt zum Odenwald-Cup 2027.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "showers": "Umkleiden und Duschen in der Sporthalle Rothenberg",
+   "parking": "An der Sporthalle Rothenberg (100 m zum Start/Ziel)"
   },
   {
    "id": "brauerschwender-basaltlauf-2027",
@@ -28680,16 +28684,16 @@
    "kreis": "LK Waldeck-Frankenberg",
    "lat": 51.159,
    "lon": 9.092,
-   "date": "2027-07-31",
-   "confirmed": false,
+   "date": "2027-08-07",
+   "confirmed": true,
    "prev_date": "2026-08-01",
    "distances": [
     "5",
     "10"
    ],
    "source": "https://kassel.hlv.de/fileadmin/kreise/waldeck-frankenberg/Termine/2026_Terminuebersicht_Mit_Anhang.pdf",
-   "info": "Veranstalter TSV 08 Hemfurth-Edersee; 38. Auflage am Samstag 01.08.2026; 10 km (ca. 106 Hm), 5 km und Kinderläufe, zugleich Feuerwehrlauf Waldeck-Frankenberg; zählt zum Laufcup. Termin 2027 noch nicht veröffentlicht.",
-   "checked": "2026-11-05"
+   "info": "Veranstalter TSV 08 Hemfurth-Edersee; 38. Auflage am Samstag 01.08.2026; 10 km (ca. 106 Hm), 5 km und Kinderläufe, zugleich Feuerwehrlauf Waldeck-Frankenberg; zählt zum Laufcup. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "checked": "2026-11-08"
   },
   {
    "id": "bottendorfer-volkslauf-2027",
@@ -32425,7 +32429,7 @@
    "url": "http://speckweglauf.com/",
    "source": "https://www.runme.de/deutschland/speck-weg-lauf-rothenburg/",
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Ausgabe laut Veranstalterseite: Kids-Run 1 km um 17:45 Uhr, danach 1, 3, 6 und 12 km Lauf oder Walk ab 18:00 Uhr, Start und Ziel vor dem Rathaus Rothenburg/OL",
-   "checked": "2026-11-06",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "18:00",
     "fee": "6 km 6 €, 12 km 12 € (Ausgabe laut Veranstalterseite, Nachmeldung vor Ort +5 €)"
@@ -36969,8 +36973,8 @@
    ],
    "url": "http://www.laufgruppe-eickendorf.de/",
    "source": "https://www.runme.de/deutschland/feldmarklauf-eickendorf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (7 km um 10:00 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (7 km um 10:00 Uhr). Laut Laufgruppe Eickendorf gibt es am 01.10.2027 wieder eine Nachtedition des Feldmarklaufs.",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:00"
    }
@@ -37845,7 +37849,10 @@
    "url": "https://www.hdsports.org/laufen/riesenpfannkuchenlauf",
    "source": "https://www.hdsports.org/laufen/riesenpfannkuchenlauf",
    "info": "Termin und Strecken laut HDsports (Termin 2027 noch nicht bestätigt, Prognose aus dem letzten Termin am 06.01.2026). Anmeldung laut HDsports über die Webseite des Veranstalters.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "prev": {
+    "start_time": "14:00"
+   }
   },
   {
    "id": "silvesterlauf-oranienbaum-2027",
@@ -37865,7 +37872,10 @@
    "url": "https://www.hdsports.org/laufen/silvesterlauf-oranienbaum",
    "source": "https://www.hdsports.org/laufen/silvesterlauf-oranienbaum",
    "info": "Termin und Strecken laut HDsports (Termin 2027 noch nicht bestätigt, Prognose aus dem letzten Termin am 11.01.2026).",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "prev": {
+    "start_time": "10:15"
+   }
   },
   {
    "id": "heidelauf-halle-1-lauf-2027",
@@ -38018,16 +38028,19 @@
    "kreis": "Stadt Magdeburg",
    "lat": 52.133,
    "lon": 11.617,
-   "date": "2027-09-05",
-   "confirmed": false,
+   "date": "2027-09-25",
+   "confirmed": true,
    "prev_date": "2026-09-06",
    "distances": [
     "Backyard"
    ],
    "url": "https://www.hdsports.org/laufen/kreuzhorst-ultra-backyard",
    "source": "https://www.hdsports.org/laufen/kreuzhorst-ultra-backyard",
-   "info": "Termin und Strecken laut HDsports (Termin 2027 noch nicht bestätigt, Prognose aus dem letzten Termin am 06.09.2026). Backyard-Format: Runde von 6,706 km, jede Stunde ein Start.",
-   "checked": "2026-11-05"
+   "info": "Termin 25.09.2027 laut HDsports (Angabe von der Veranstalterseite); 2026 am 06.09. mit Start 8:00 Uhr. Backyard-Format: Runde von 6,706 km, jede Stunde ein Start.",
+   "checked": "2026-11-08",
+   "prev": {
+    "start_time": "08:00"
+   }
   },
   {
    "id": "heidelauf-uchtspringe-2027",
@@ -38154,7 +38167,9 @@
    "limit": "75 Plätze Ultra (mit Warteliste), 15 Plätze Tunnelweglauf",
    "start_place": "Am Sande 20, Witzenhausen (Start und Ziel); Treffpunkt Parkplatz der DEULA",
    "info": "Trailveranstaltung mit 45,6 km Ultra (ca. 1.400 Hm) und 11,5 km Tunnelweglauf, Strecken unmarkiert. Anmeldung über Race Result, laut Kalenderportal bis 3 Tage vor der Veranstaltung, solange das Limit nicht erreicht ist. Angaben laut gotrail.run/running.life, Veranstalterseite nicht gefunden; Distanzen weichen je nach Portal leicht ab (46 und 12 km).",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "reg_close": "2027-02-02",
+   "start_time": "09:00"
   },
   {
    "id": "haferberg-hasenmuehle-ultratrail-2027",
@@ -38177,7 +38192,9 @@
    "cutoff": "8 Stunden (bei Schnee oder Eis verlängerbar)",
    "showers": "Keine Toiletten und Duschen",
    "info": "Winterlicher Ultratrail über 45 km und rund 1.200 Hm im Kaufunger Wald, drei markierte Runden, Verpflegung bei km 25 und 34, Handzeitnahme, Rückerstattung von 10 € bei Absage bis 10.01.2027 auf Anfrage. Angaben laut gotrail.run.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "reg_close": "2027-02-02",
+   "start_time": "09:00"
   },
   {
    "id": "meissner-marathon-doppeldecker-2027",
@@ -38197,7 +38214,10 @@
    "url": "https://running.life/de/termine/meissner-marathon-doppeldecker",
    "source": "https://running.life/de/termine/meissner-marathon-doppeldecker",
    "info": "Zweiteiliger Marathon über zwei Tage (je rund 42,2 km, zwischen Kleinalmerode und dem Meißnerhaus, 1.460 Hm am ersten und 1.160 Hm am zweiten Tag), begrenzte Startplätze, Übernachtung im Naturfreundehaus, Einzelstart einer Etappe laut Portal möglich. Angaben laut running.life, Veranstalterseite nicht gefunden.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "reg_close": "2027-02-17",
+   "start_time": "09:00",
+   "fee": "Meißner Doppeldecker 129 € (ohne Übernachtung 60 €), Marathon einzeln je Tag 30 €"
   },
   {
    "id": "frau-holle-maerchenland-ultra-2027",
@@ -38218,8 +38238,12 @@
    "source": "https://gotrail.run/de/termine/frau-holle-marchenland-ultra",
    "start_place": "Parkplatz Am Kalkbrunnen, Hessisch Lichtenau (Ausgabe 2026)",
    "info": "Trailrunde über 57 km mit rund 1.500 Hm, zwei Verpflegungsstellen, Spendenlauf zugunsten Kilometer für Kinder. Termin 2027 laut Kalenderportal, Ausgabe 2026 war am 22.03.2026. Angaben laut gotrail.run, Veranstalterseite nicht gefunden.",
-   "checked": "2026-11-05",
-   "charity": "Spendenlauf zugunsten von Kilometer für Kinder"
+   "checked": "2026-11-08",
+   "charity": "Spendenlauf zugunsten von Kilometer für Kinder",
+   "reg_open": "2026-09-14",
+   "reg_close": "2027-03-14",
+   "start_time": "07:00",
+   "fee": "20 €"
   },
   {
    "id": "niedermeiserer-dorflauf-2027",
@@ -38231,16 +38255,19 @@
    "lat": 51.4973299,
    "lon": 9.2814945,
    "date": "2027-05-08",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10",
     "18"
    ],
    "url": "https://running.life/de/termine/niedermeiserer-dorflauf",
-   "source": "https://running.life/de/termine/niedermeiserer-dorflauf",
-   "info": "Breitensportlauf in Niedermeiser mit 5, 10 und 18 km sowie Walking und Nordic Walking, offene Anmeldung für alle. Termin und Strecken laut running.life, noch nicht vom Veranstalter bestätigt.",
-   "checked": "2026-11-05"
+   "source": "https://my.raceresult.com/422872/",
+   "info": "Breitensportlauf in Niedermeiser mit 5, 10 und 18 km sowie Walking und Nordic Walking. Termin 08.05.2027 laut Anmeldeportal: 18 km 16:00 Uhr, 10 km 16:30 Uhr, 5 km 16:35 Uhr.",
+   "checked": "2026-11-08",
+   "reg_open": "2027-02-01",
+   "start_time": "16:00",
+   "fee": "8 € (laut Anmeldeportal teils 4 €)"
   },
   {
    "id": "neckarcross-ultra-race-2027",
@@ -38260,7 +38287,11 @@
    "url": "https://gotrail.run/de/termine/dav-neckarcross-ultra-race",
    "source": "https://gotrail.run/de/termine/dav-neckarcross-ultra-race",
    "info": "Trailrun über 59 km und rund 2.300 Hm als Einzel, Duo-Staffel oder Wanderung, drei Verpflegungsstellen (km 15, 26 und 45) mit Zeitlimits, GPX-Track nach der Anmeldung, Pflichtausrüstung (GPS-Gerät, Handy, 0,5 l Flüssigkeit, Rettungsdecke). Termin 2027 noch nicht bestätigt, Ausgabe 2026 war am 10.05.2026; Startgeld je nach Portal 75 € bzw. 60 € (widersprüchlich), deshalb nicht eingetragen.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "reg_open": "2026-05-31",
+   "reg_close": "2027-05-01",
+   "start_time": "08:00",
+   "fee": "59 km 75 €, Vertigo-Trail 21 km 40 €, Duo-Staffel 90 € (ab 2027 100 €)"
   },
   {
    "id": "sommernachtslauf-limburg-2027",
@@ -38435,13 +38466,15 @@
    ],
    "url": "https://www.strassenlauf.org/va_details.php?id=973",
    "source": "https://running.life/de/termine/crosslauf-in-den-ravensbergen",
-   "info": "Termin und Strecken laut running.life/gotrail.run. Online-Meldeschluss 11.11.2026, 23:55 Uhr",
-   "checked": "2026-11-07",
+   "info": "Termin und Strecken laut running.life/gotrail.run. Online-Meldeschluss 11.11.2026, 23:55 Uhr. Allgemeiner Lauf (offen für alle) 5,4 km um 9:45 Uhr im Rahmen der Deutschen Polizeimeisterschaften im Crosslauf.",
+   "checked": "2026-11-08",
    "reg_close": "2026-11-11",
    "pickup": "Orga-Büro öffnet um 8:00 Uhr",
    "start_place": "Potsdamer Waldgebiet Ravensberge, Ravensbergweg",
    "parking": "Vor Ort keine Parkmöglichkeiten (Wohngebiet)",
-   "fee": "Erwachsene 10 €, Schüler/Jugend bis U18 5 €"
+   "fee": "Erwachsene 10 €, Schüler/Jugend bis U18 5 €",
+   "start_time": "09:45",
+   "limit": "100 Teilnehmer (Allgemeiner Lauf)"
   },
   {
    "id": "teltowkanalhalbmarathon-2026",
@@ -38659,7 +38692,7 @@
    "url": "https://www.hdsports.org/laufen/neujahrslauf-bad-liebenwerda",
    "source": "https://www.hdsports.org/laufen/neujahrslauf-bad-liebenwerda",
    "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr). Ausgabe 2026 (01.01.2026): Strecken 8 km, 5 km und 3 km, Start 11:00 Uhr ",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "prev": {
     "fee": "3 € Teilnahmegebühr, Anmeldung auch am Wettkampftag vor Ort",
     "start_time": "11:00"
@@ -38707,12 +38740,15 @@
    "url": "http://www.frostwiese.de",
    "source": "https://www.runme.de/deutschland/frostwiesenlauf-burg-kauper/",
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:00 Uhr). 25. Frostwiesenlauf am 23. und 24.01.2027: Samstag 13, 10 und 3,6 km, Sonntag 30, 21, 10 und 5 km (Termine laut Lausitz-Laufserie (lausitzer-sportevents.de))",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:00"
    },
    "end": "2027-01-24",
-   "start_place": "Burg (Spreewald): Samstag Bootshaus Leineweber, Sonntag Landhotel"
+   "start_place": "Burg (Spreewald): Samstag Bootshaus Leineweber, Sonntag Landhotel",
+   "reg_close": "2027-01-20",
+   "pickup": "Samstag 9–13 Uhr im Bootshaus Leineweber, Samstag 14–19 Uhr und Sonntag 6:30–12:30 Uhr im Landhotel",
+   "late_reg": "Nachmeldungen möglich"
   },
   {
    "id": "pfannkuchenlauf-cottbus-2027",
@@ -39787,8 +39823,8 @@
    "url": "https://running.life/de/termine/wurzelwerk-backyard-ultra",
    "anmeldung_url": "https://my.raceresult.com/425008/",
    "source": "https://running.life/de/termine/wurzelwerk-backyard-ultra",
-   "info": "Backyard Ultra mit Runden von 6,706 km auf wurzeligen Trails, Last-Person-Standing-Format. Termin noch nicht bestätigt. Anmeldung 2027 schon ausgebucht, Warteliste mit 44 Plätzen (laut Anmeldeportal RaceResult am 05.11.2026); 1 € jeder Startgebühr geht an den Verein running4nature e. V.",
-   "checked": "2026-11-05",
+   "info": "Backyard Ultra mit Runden von 6,706 km auf wurzeligen Trails, Last-Person-Standing-Format. Termin noch nicht bestätigt. Anmeldung 2027 schon ausgebucht, Warteliste mit 44 Plätzen (laut Anmeldeportal RaceResult am 05.11.2026); 1 € jeder Startgebühr geht an den Verein running4nature e. V. Ausgebucht, Anmeldung auf die Warteliste über das Anmeldeportal möglich (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "fee": "95 € (Event-Shirt optional 30 €)",
    "start_time": "12:00",
    "sold_out": true
@@ -43698,7 +43734,7 @@
    "url": "https://www.hartfuessler.de",
    "source": "https://www.runme.de/deutschland/x-mas-trail/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (46,82 km um 08:00 Uhr, frühester Lauf ab 5 km). Strecken laut Anmeldeportal: Brian Trail 14 km (500 Hm, Start 11:00), Ruprecht Trail 32 km (1.190 Hm, 09:30), X-Mas Trail 46 km (1.700 Hm, 08:00); Stand 05.11.2026 noch 64 Plätze (32 km) und 119 (46 km) frei",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "start_time": "08:00",
    "elevation": [
     500,
@@ -43706,7 +43742,7 @@
     1700
    ],
    "reg_close": "2026-12-11",
-   "sold_out": "Brian Trail 14 km ausgebucht (Stand 05.11.2026)",
+   "sold_out": "Brian Trail 14 km ausgebucht (laut Anmeldeportal, Stand 08.11.2026); 32 und 46 km noch frei",
    "fee": "Ruprecht Trail 32 km 36 € (46 € am 12. und 13.12.), X-Mas Trail 46 km 48 € (58 €), Brian Trail 14 km 20 € (30 €)"
   },
   {
@@ -44941,8 +44977,9 @@
    "anmeldung_url": "https://my.raceresult.com/432430/",
    "source": "https://running.life/de/termine/alzeyer-kunst-und-kultur-ultra",
    "info": "Termin und Strecken laut running.life/gotrail.run.",
-   "checked": "2026-11-07",
-   "reg_close": "2026-11-11"
+   "checked": "2026-11-08",
+   "reg_close": "2026-11-11",
+   "limit": "20"
   },
   {
    "id": "int-deulux-lauf-2026",
@@ -45092,7 +45129,7 @@
    "anmeldung_url": "https://my.raceresult.com/374075/",
    "source": "https://running.life/de/termine/lauf-der-nahe-crosslauf-serie-in-schwollen",
    "info": "Termin und Strecken laut running.life/gotrail.run. Start Lauf 4 (Mittelstrecke) 14:15 Uhr, Lauf 5 (Langstrecke) 15:00 Uhr; Startgeld laut Anmeldeportal RaceResult am 05.11.2026",
-   "checked": "2026-11-07",
+   "checked": "2026-11-08",
    "fee": "Mittelstrecke 8 €, Kinder U8 4 €",
    "reg_close": "2026-11-18"
   },
@@ -45177,12 +45214,13 @@
    "url": "https://runtix.com/sts/10021/3242",
    "source": "https://running.life/de/termine/flonheimer-adventslauf",
    "info": "Termin und Strecken laut running.life/gotrail.run. Strecken 2,5 km, 5,1 km und 9,6 km; Online-Anmeldung über br-timing.de; Veranstalter kann das Teilnehmerfeld bei Bedarf begrenzen. Meldeschluss 28.11.2026 laut Veranstalterseite",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "reg_close": "2026-11-28",
    "fee": "Erwachsene (ab 18 Jahren) 10 €, Kinder und Jugendliche bis 17 Jahre 3 € (per Bankeinzug)",
    "late_reg": "Keine Nachmeldungen am Veranstaltungstag, nach Meldeschluss keine Teilnahme mehr",
    "start_place": "Marktplatz / Rathaus Flonheim",
-   "showers": "Umkleiden in der Schulgasse (Pavillon in der Nähe des Marktplatzes)"
+   "showers": "Umkleiden in der Schulgasse (Pavillon in der Nähe des Marktplatzes)",
+   "start_time": "11:00"
   },
   {
    "id": "weihnachtsmarktlauf-landstuhl-2026",
@@ -45287,8 +45325,8 @@
    ],
    "url": "https://www.tv-rheinzabern.de/",
    "source": "https://www.runme.de/deutschland/winterlaufserie-rheinzabern/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laufserie des TV Rheinzabern mit drei Läufen über 10 km (13.12.2026), 15 km (10.01.2027) und 20 km (07.02.2027); der 10-km-Lauf ist laut Veranstalter ausgebucht (Stand 05.11.2026). Startgeld laut Anmeldeportal RaceResult am 05.11.2026",
-   "checked": "2026-11-05",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laufserie des TV Rheinzabern mit drei Läufen über 10 km (13.12.2026), 15 km (10.01.2027) und 20 km (07.02.2027); der 10-km-Lauf ist laut Veranstalter ausgebucht (Stand 05.11.2026). Startgeld laut Anmeldeportal RaceResult am 05.11.2026. 10-km-Lauf ausgebucht; die letzten 100 Startplätze werden laut Veranstalter am 30.11.2026 um 10 Uhr online freigeschaltet, keine Nachmeldung vor Ort.",
+   "checked": "2026-11-08",
    "start_time": "10:50",
    "limit": "Max. 1.500 Teilnehmer je Lauf",
    "late_reg": "Keine Nachmeldung vor Ort am Tag des Laufes",
@@ -45633,7 +45671,11 @@
    "url": "https://www.hdsports.org/laufen/crosslauf-mehren",
    "source": "https://www.hdsports.org/laufen/crosslauf-mehren",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin und Strecken laut HDsports.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "prev": {
+    "start_time": "14:00",
+    "fee": "Erwachsene 5 €, Kinder und Jugendliche 2 €"
+   }
   },
   {
    "id": "winterlaufserie-rheinzabern-2-lauf-2027",
@@ -45676,7 +45718,10 @@
    "url": "https://www.hdsports.org/laufen/crosslaufserie-kreis-bernkastel-wittlich",
    "source": "https://www.hdsports.org/laufen/crosslaufserie-kreis-bernkastel-wittlich",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin und Strecken laut HDsports.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "prev": {
+    "start_time": "13:30"
+   }
   },
   {
    "id": "eifellauf-dahlem-2027",
@@ -45718,7 +45763,10 @@
    "url": "https://www.hdsports.org/laufen/3b-rhoihessecross-lauf",
    "source": "https://www.hdsports.org/laufen/3b-rhoihessecross-lauf",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin und Strecken laut HDsports.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "prev": {
+    "start_time": "12:00"
+   }
   },
   {
    "id": "asdorflauf-wehbach-2027",
@@ -45826,7 +45874,10 @@
    "url": "https://www.hdsports.org/laufen/freinsheimer-volkslauf-rund-um-den-oschelkopf",
    "source": "https://www.hdsports.org/laufen/freinsheimer-volkslauf-rund-um-den-oschelkopf",
    "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "prev": {
+    "start_time": "09:30"
+   }
   },
   {
    "id": "eifellauf-ralingen-2027",
@@ -50262,8 +50313,9 @@
    "anmeldung_url": "https://my.raceresult.com/432680/",
    "source": "https://running.life/de/termine/ladbergen-marathon/2026-11-13",
    "info": "Termin und Strecken laut running.life/gotrail.run. Start Marathon und 26 km jeweils 08:00 Uhr laut Anmeldeportal",
-   "checked": "2026-11-05",
-   "start_time": "08:00"
+   "checked": "2026-11-08",
+   "start_time": "08:00",
+   "reg_close": "2026-11-12"
   },
   {
    "id": "steverlauf-2026",
@@ -50415,12 +50467,14 @@
    "url": "https://www.laufen-im-rheinland.de/kottenforst-halbmarathon/",
    "source": "https://running.life/de/termine/kottenforst-halbmarathon",
    "info": "Termin und Strecken laut running.life/gotrail.run. Laut Veranstalterseite am 05.11.2026 ausgebucht (Teilnehmerlimit 600)",
-   "checked": "2026-11-07",
+   "checked": "2026-11-08",
    "sold_out": true,
    "limit": "600 Teilnehmer",
    "showers": "Keine Umkleiden und Duschen, gesicherte Taschenabgabe möglich",
    "parking": "Parken vor Ort für ca. 60 bis 70 Fahrzeuge, nur für PKW mit mindestens zwei Insassen (Fahrgemeinschaften bilden)",
-   "fee": "12 € (Barzahlung am Veranstaltungstag)"
+   "fee": "12 € (Barzahlung am Veranstaltungstag)",
+   "start_time": "10:00",
+   "start_place": "Nachtigallenweg 86 (Uni-Sportgelände), Bonn"
   },
   {
    "id": "mauritz-lindenweg-marathon-2026",
@@ -50441,11 +50495,12 @@
    "anmeldung_url": "https://my.raceresult.com/372747/",
    "source": "https://running.life/de/termine/mauritz-lindenweg-marathon",
    "info": "Termin und Strecken laut running.life/gotrail.run. Start Marathon 09:00 Uhr, Halbmarathon 10:00 Uhr; beide Strecken laut Anmeldeportal RaceResult am 05.11.2026 ausgebucht",
-   "checked": "2026-11-07",
+   "checked": "2026-11-08",
    "start_time": "09:00",
    "sold_out": true,
    "reg_open": "2026-04-01",
-   "reg_close": "2026-11-07"
+   "reg_close": "2026-11-07",
+   "fee": "Kein Startgeld, Spende ab 5 € möglich"
   },
   {
    "id": "paderborn-lippstadt-airport-run-2026",
@@ -50486,9 +50541,10 @@
    ],
    "url": "https://www.alfterer-sc.de/?pageID=48",
    "source": "https://running.life/de/termine/winterlaufserie-alfter/2026-11-15",
-   "info": "Termin und Strecken laut running.life/gotrail.run.",
-   "checked": "2026-11-07",
-   "fee": "Tageskarte 5 €, ganze Serie mit Urkunde 20 €"
+   "info": "Termin und Strecken laut running.life/gotrail.run. Start ab 8:00 Uhr zu beliebiger Zeit, kein gemeinsamer Start.",
+   "checked": "2026-11-08",
+   "fee": "Tageskarte 5 €, ganze Serie mit Urkunde 20 €",
+   "start_time": "08:00"
   },
   {
    "id": "finnensturm-2026",
@@ -50683,11 +50739,12 @@
    "url": "https://www.gluehweinlauf-marienhagen.de/",
    "source": "https://www.runme.de/deutschland/gluehweinlauf-wiehl-marienhagen/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (7,3 km um 12:20 Uhr, frühester Lauf ab 5 km). Meldeschluss 21.11.2026 laut Veranstalterseite",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "start_time": "12:20",
    "reg_close": "2026-11-21",
    "limit": "1500 Starter insgesamt über alle Disziplinen",
-   "late_reg": "Nachmeldungen nur online von Montag 23.11. (18 Uhr) bis Freitag 27.11.2026 (12 Uhr), solange Startnummern verfügbar sind"
+   "late_reg": "Nachmeldungen nur online von Montag 23.11. (18 Uhr) bis Freitag 27.11.2026 (12 Uhr), solange Startnummern verfügbar sind",
+   "fee": "Hauptlauf 10 km 17 €, Jedermannlauf 5 km 17 €"
   },
   {
    "id": "froendenberger-bahnmarathon-2026",
@@ -50753,7 +50810,8 @@
    "url": "https://www.hdsports.org/laufen/kobolt",
    "source": "https://www.hdsports.org/laufen/kobolt",
    "info": "Termin und Strecken laut HDsports.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "start_time": "11:00"
   },
   {
    "id": "bertlicher-strassenlaeufe-2026",
@@ -51122,9 +51180,10 @@
    "anmeldung_url": "https://my.raceresult.com/424009/",
    "source": "https://running.life/de/termine/bergbaurundweg-witten-marathon/2026-12-06",
    "info": "Termin und Strecken laut running.life/gotrail.run. Start Marathon und Halbmarathon (26 km) jeweils 08:30 Uhr laut Anmeldeportal",
-   "checked": "2026-11-07",
+   "checked": "2026-11-08",
    "start_time": "08:30",
-   "reg_close": "2026-12-05"
+   "reg_close": "2026-12-05",
+   "fee": "Kein Startgeld, Spende von 5 € möglich"
   },
   {
    "id": "bonner-nikolauslauf-2026",
@@ -51185,10 +51244,11 @@
    "url": "https://ellewicker-adventslauf.de/",
    "source": "https://www.runme.de/deutschland/ellewicker-adventslauf/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 15:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "start_time": "15:00",
    "late_reg": "Nachmeldung bis kurz vor dem Start gegen 2 € Nachmeldegebühr (nur Barzahlung)",
-   "showers": "Duschen und Umkleiden beim ASV Ellewick-Crosewick"
+   "showers": "Duschen und Umkleiden beim ASV Ellewick-Crosewick",
+   "fee": "5 km 7 €, Kinderlauf 4 €; Nachmeldung +2 €"
   },
   {
    "id": "schnadegang-rund-um-ennepetal-2026",
@@ -51937,7 +51997,7 @@
    "url": "http://www.hernersilvesterlauf.de",
    "source": "https://www.runme.de/deutschland/silvesterlauf-herne/",
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 11:00 Uhr). Startzeit der letzten Ausgabe laut Veranstalterseite (12:30 Uhr)",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "11:00"
    }
@@ -52186,7 +52246,10 @@
    "url": "https://www.hdsports.org/laufen/phoenix-neujahrslauf",
    "source": "https://www.hdsports.org/laufen/phoenix-neujahrslauf",
    "info": "Termin und Strecken laut HDsports.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "prev": {
+    "start_time": "09:30"
+   }
   },
   {
    "id": "oelder-crosslauf-2027",
@@ -52526,18 +52589,19 @@
    "lat": 51.4344079,
    "lon": 6.7623293,
    "date": "2027-01-23",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
-    "HM",
+    "5",
     "10"
    ],
    "url": "https://www.asv-winterlaufserie.de/ausschreibung/",
-   "source": "https://running.life/de/termine/winterlaufserie-des-asv-duisburg/2027-01-23",
-   "info": "Termin und Strecken laut running.life/gotrail.run.",
-   "checked": "2026-11-05",
+   "source": "https://www.asv-winterlaufserie.de/ausschreibung/",
+   "info": "Termin und Strecken laut running.life/gotrail.run. 1. Lauf am 23.01.2027: 5 km um 14:00 Uhr (Startfeld 2 um 14:30 Uhr), 10 km um 15:00 Uhr. Strecken und Startzeiten laut Ausschreibung des ASV Duisburg; Meldeschluss für die Gesamtserie 24.12.2026.",
+   "checked": "2026-11-08",
    "parking": "Kostenlose Parkplätze in Ziel-/Startnähe, ausreichend vorhanden",
    "showers": "Duschen und Umkleiden in Ziel-/Startnähe",
-   "start_place": "Sportpark Duisburg: Start Margarethenstraße (vor der Schauinsland-Reisen-Arena), Ziel im Leichtathletik-Stadion"
+   "start_place": "Sportpark Duisburg: Start Margarethenstraße (vor der Schauinsland-Reisen-Arena), Ziel im Leichtathletik-Stadion",
+   "start_time": "14:00"
   },
   {
    "id": "tusem-westdeutsche-waldlaufserie-2027",
@@ -52556,7 +52620,10 @@
    "url": "https://www.hdsports.org/laufen/westdeutsche-waldlaufserie-2",
    "source": "https://www.hdsports.org/laufen/westdeutsche-waldlaufserie-2",
    "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "prev": {
+    "start_time": "12:45"
+   }
   },
   {
    "id": "welver-crosslauf-2027",
@@ -52626,7 +52693,11 @@
    "url": "https://www.hdsports.org/laufen/jungbornparklauf-moers",
    "source": "https://www.hdsports.org/laufen/jungbornparklauf-moers",
    "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "prev": {
+    "start_time": "14:30",
+    "fee": "10 km 10 €, 5 km 5 €"
+   }
   },
   {
    "id": "weezer-crosslauf-2027",
@@ -52897,18 +52968,19 @@
    "lat": 51.4344079,
    "lon": 6.7623293,
    "date": "2027-02-13",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
-    "HM",
-    "10"
+    "7,5",
+    "15"
    ],
    "url": "https://www.asv-winterlaufserie.de/ausschreibung/",
-   "source": "https://running.life/de/termine/winterlaufserie-des-asv-duisburg/2027-02-13",
-   "info": "Termin und Strecken laut running.life/gotrail.run.",
-   "checked": "2026-11-05",
+   "source": "https://www.asv-winterlaufserie.de/ausschreibung/",
+   "info": "Termin und Strecken laut running.life/gotrail.run. 2. Lauf am 13.02.2027: 7,5 km um 14:00 Uhr, 15 km um 15:00 Uhr. Strecken und Startzeiten laut Ausschreibung des ASV Duisburg; Meldeschluss für die Gesamtserie 24.12.2026.",
+   "checked": "2026-11-08",
    "parking": "Kostenlose Parkplätze in Ziel-/Startnähe, ausreichend vorhanden",
    "showers": "Duschen und Umkleiden in Ziel-/Startnähe",
-   "start_place": "Sportpark Duisburg: Start Margarethenstraße (vor der Schauinsland-Reisen-Arena), Ziel im Leichtathletik-Stadion"
+   "start_place": "Sportpark Duisburg: Start Margarethenstraße (vor der Schauinsland-Reisen-Arena), Ziel im Leichtathletik-Stadion",
+   "start_time": "14:00"
   },
   {
    "id": "bertlicher-strassenlaeufe-2027",
@@ -53364,18 +53436,19 @@
    "lat": 51.4344079,
    "lon": 6.7623293,
    "date": "2027-03-13",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
-    "HM",
-    "10"
+    "10",
+    "HM"
    ],
    "url": "https://www.asv-winterlaufserie.de/ausschreibung/",
-   "source": "https://running.life/de/termine/winterlaufserie-des-asv-duisburg/2027-03-13",
-   "info": "Termin und Strecken laut running.life/gotrail.run.",
-   "checked": "2026-11-05",
+   "source": "https://www.asv-winterlaufserie.de/ausschreibung/",
+   "info": "Termin und Strecken laut running.life/gotrail.run. 3. Lauf am 13.03.2027: 10 km um 14:00 Uhr, Halbmarathon um 15:00 Uhr (Zielschluss 17:45 Uhr). Strecken und Startzeiten laut Ausschreibung des ASV Duisburg; Meldeschluss für die Gesamtserie 24.12.2026.",
+   "checked": "2026-11-08",
    "parking": "Kostenlose Parkplätze in Ziel-/Startnähe, ausreichend vorhanden",
    "showers": "Duschen und Umkleiden in Ziel-/Startnähe",
-   "start_place": "Sportpark Duisburg: Start Margarethenstraße (vor der Schauinsland-Reisen-Arena), Ziel im Leichtathletik-Stadion"
+   "start_place": "Sportpark Duisburg: Start Margarethenstraße (vor der Schauinsland-Reisen-Arena), Ziel im Leichtathletik-Stadion",
+   "start_time": "14:00"
   },
   {
    "id": "ultra-im-hoennetal-2027",
@@ -63211,8 +63284,10 @@
    "url": "https://jobst-von-palombini.webnode.page/ausschreibungen/",
    "source": "https://running.life/de/termine/kanal-marathon-hespe",
    "info": "Termin und Strecken laut running.life/gotrail.run.",
-   "checked": "2026-11-07",
-   "start_time": "10:00"
+   "checked": "2026-11-08",
+   "start_time": "10:00",
+   "fee": "Kein Startgeld, Spende von 8 € zur Kostendeckung erwünscht",
+   "reg_close": "2026-11-14"
   },
   {
    "id": "bad-gandersheimer-seeparklauf-2026",
@@ -63302,9 +63377,11 @@
    "url": "https://www.laufen-os.de/wettkaempfe/5-bramscher-koenigstannen-kanal-cross-2026",
    "source": "https://running.life/de/termine/bramscher-konigstannen-kanal-cross",
    "info": "Termin und Strecken laut running.life/gotrail.run.",
-   "checked": "2026-11-07",
+   "checked": "2026-11-08",
    "fee": "5,2 bis 9,5 km 8 €, Kinder- und Jugendläufe (1,8 bis 2,4 km) 4 €",
-   "reg_close": "2026-11-20"
+   "reg_close": "2026-11-20",
+   "start_time": "10:15",
+   "limit": "150"
   },
   {
    "id": "lingener-emslandcross-2026",
@@ -63363,8 +63440,10 @@
    "url": "https://jobst-von-palombini.webnode.page/ausschreibungen/",
    "source": "https://running.life/de/termine/gevatterseemarathon/2026-11-23",
    "info": "Termin und Strecken laut running.life/gotrail.run.",
-   "checked": "2026-11-07",
-   "start_time": "10:00"
+   "checked": "2026-11-08",
+   "start_time": "10:00",
+   "fee": "Kein Startgeld, Spende von 8 € zur Kostendeckung erwünscht",
+   "reg_close": "2026-11-22"
   },
   {
    "id": "orange-day-hannover-2026",
@@ -63383,10 +63462,11 @@
    "url": "https://www.marathon-hannover.de/orangeday.html",
    "source": "https://running.life/de/termine/orange-day-hannover",
    "info": "Termin und Strecken laut running.life/gotrail.run. Startzeit der letzten Ausgabe laut Veranstalterseite (09:00 Uhr)",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "09:00"
-   }
+   },
+   "start_time": "18:00"
   },
   {
    "id": "laufen-gegen-gewalt-an-frauen-lemke-2026",
@@ -63433,7 +63513,8 @@
    "url": "https://www.hdsports.org/laufen/winterserie-post-sv-lehrte-4-lauf",
    "source": "https://www.hdsports.org/laufen/winterserie-post-sv-lehrte-4-lauf",
    "info": "Termin und Strecken laut HDsports.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "start_time": "14:00"
   },
   {
    "id": "adventslauf-2026",
@@ -63697,10 +63778,11 @@
    "url": "https://www.laufen-os.de/wettkaempfe/bramscher-100-charity-lauf-2026",
    "source": "https://running.life/de/termine/bramscher-100-charity-lauf",
    "info": "Termin und Strecken laut running.life/gotrail.run.",
-   "checked": "2026-11-07",
+   "checked": "2026-11-08",
    "fee": "4 € pro Erwachsenem, Kinder kostenlos",
    "reg_close": "2026-12-05",
-   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf",
+   "start_time": "04:00"
   },
   {
    "id": "goettinger-cross-serie-lauf-2-2026",
@@ -63764,8 +63846,10 @@
    ],
    "url": "https://www.hdsports.org/laufen/winterlauf-und-wanderserie-des-tus-jaderberg-4-lauf",
    "source": "https://www.hdsports.org/laufen/winterlauf-und-wanderserie-des-tus-jaderberg-4-lauf",
-   "info": "Termin und Strecken laut HDsports.",
-   "checked": "2026-11-05"
+   "info": "Termin und Strecken laut HDsports. Start zwischen 9:00 und 10:30 Uhr möglich, ohne Zeitmessung.",
+   "checked": "2026-11-08",
+   "start_time": "09:00",
+   "fee": "1 € pro Lauf (Pokal 2,50 €)"
   },
   {
    "id": "adventscrosslauf-2026",
@@ -63807,7 +63891,9 @@
    "url": "https://www.hdsports.org/laufen/weihnachtszauber-hamburg",
    "source": "https://www.hdsports.org/laufen/weihnachtszauber-hamburg",
    "info": "Termin und Strecken laut HDsports.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "start_time": "12:00",
+   "fee": "22,50 €"
   },
   {
    "id": "lehrter-adventslauf-2026",
@@ -63851,7 +63937,8 @@
    "url": "https://www.hdsports.org/laufen/bramfelder-winterlauf-serie-2-lauf",
    "source": "https://www.hdsports.org/laufen/bramfelder-winterlauf-serie-2-lauf",
    "info": "Termin und Strecken laut HDsports.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "start_time": "09:30"
   },
   {
    "id": "gevatterseemarathon-2026-2",
@@ -63870,8 +63957,10 @@
    "url": "https://jobst-von-palombini.webnode.page/ausschreibungen/",
    "source": "https://running.life/de/termine/gevatterseemarathon/2026-12-13",
    "info": "Termin und Strecken laut running.life/gotrail.run.",
-   "checked": "2026-11-07",
-   "start_time": "10:00"
+   "checked": "2026-11-08",
+   "start_time": "10:00",
+   "fee": "Kein Startgeld, Spende von 8 € zur Kostendeckung erwünscht",
+   "reg_close": "2026-12-12"
   },
   {
    "id": "osc-vorsilvesterlauf-2026",
@@ -63952,7 +64041,8 @@
    "url": "https://www.hdsports.org/laufen/winterlaufserie-beverstedt-wellen-2-lauf",
    "source": "https://www.hdsports.org/laufen/winterlaufserie-beverstedt-wellen-2-lauf",
    "info": "Termin und Strecken laut HDsports.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "start_time": "09:00"
   },
   {
    "id": "country-cross-2026",
@@ -63995,7 +64085,8 @@
    "url": "https://www.hdsports.org/laufen/winterlauf-serie-stadthagen-4-lauf",
    "source": "https://www.hdsports.org/laufen/winterlauf-serie-stadthagen-4-lauf",
    "info": "Termin und Strecken laut HDsports.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "start_time": "08:00"
   },
   {
    "id": "northeimer-heiligabend-marathon-2026",
@@ -64015,9 +64106,10 @@
    "anmeldung_url": "https://my.raceresult.com/419707/",
    "source": "https://running.life/de/termine/northeimer-heiligabend-marathon",
    "info": "Termin und Strecken laut running.life/gotrail.run. Start 09:00 Uhr laut Anmeldeportal",
-   "checked": "2026-11-07",
+   "checked": "2026-11-08",
    "start_time": "09:00",
-   "reg_close": "2026-12-23"
+   "reg_close": "2026-12-23",
+   "fee": "Kein Startgeld, Spende von 5 € erbeten"
   },
   {
    "id": "wassermuehlen-ultra-rulle-2026",
@@ -64039,9 +64131,11 @@
    "anmeldung_url": "https://my.raceresult.com/412479/",
    "source": "https://running.life/de/termine/wassermuhlen-ultra-rulle/2026-12-24",
    "info": "Termin und Strecken laut running.life/gotrail.run. Start Ultramarathon und Halbmarathon jeweils 08:00 Uhr laut Anmeldeportal",
-   "checked": "2026-11-07",
+   "checked": "2026-11-08",
    "start_time": "08:00",
-   "reg_close": "2026-12-23"
+   "reg_close": "2026-12-23",
+   "fee": "5 € (bar am Veranstaltungstag)",
+   "limit": "24"
   },
   {
    "id": "schokocross-2026",
@@ -64616,7 +64710,8 @@
    "anmeldung_url": "https://my.raceresult.com/419711/",
    "source": "https://running.life/de/termine/northeimer-neujahrsmarathon",
    "info": "Termin und Strecken laut running.life/gotrail.run.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "fee": "Kein Startgeld, Spende von 6 € zur Kostendeckung erbeten"
   },
   {
    "id": "gut-sutthausen-ultramarathon-2027",
@@ -64661,8 +64756,9 @@
    "anmeldung_url": "https://my.raceresult.com/318774/",
    "source": "https://running.life/de/termine/metallhenge-lauf",
    "info": "Termin und Strecken laut running.life/gotrail.run. Start Ultra 10:00 Uhr laut Anmeldeportal",
-   "checked": "2026-11-05",
-   "start_time": "10:00"
+   "checked": "2026-11-08",
+   "start_time": "10:00",
+   "fee": "Spende 3 €"
   },
   {
    "id": "winterserie-post-sv-lehrte-8-lauf-2027",
@@ -64684,7 +64780,8 @@
    "url": "https://www.hdsports.org/laufen/winterserie-post-sv-lehrte-8-lauf",
    "source": "https://www.hdsports.org/laufen/winterserie-post-sv-lehrte-8-lauf",
    "info": "Termin und Strecken laut HDsports.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "start_time": "14:00"
   },
   {
    "id": "thomasburger-punschlauf-2027",
@@ -64746,7 +64843,10 @@
    "url": "https://www.hdsports.org/laufen/sgh-lauf-langfoerden-rund-um-den-bomhof",
    "source": "https://www.hdsports.org/laufen/sgh-lauf-langfoerden-rund-um-den-bomhof",
    "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "prev": {
+    "start_time": "14:00"
+   }
   },
   {
    "id": "sandkruger-schleife-2027",
@@ -64785,8 +64885,10 @@
    ],
    "url": "https://www.hdsports.org/laufen/winterlauf-und-wanderserie-des-tus-jaderberg-6-lauf",
    "source": "https://www.hdsports.org/laufen/winterlauf-und-wanderserie-des-tus-jaderberg-6-lauf",
-   "info": "Termin und Strecken laut HDsports.",
-   "checked": "2026-11-05"
+   "info": "Termin und Strecken laut HDsports. Start zwischen 9:00 und 10:30 Uhr möglich, ohne Zeitmessung.",
+   "checked": "2026-11-08",
+   "start_time": "09:00",
+   "fee": "1 € pro Lauf (Pokal 2,50 €)"
   },
   {
    "id": "bramfelder-winterlauf-serie-3-lauf-2027",
@@ -64808,7 +64910,8 @@
    "url": "https://www.hdsports.org/laufen/bramfelder-winterlauf-serie-3-lauf",
    "source": "https://www.hdsports.org/laufen/bramfelder-winterlauf-serie-3-lauf",
    "info": "Termin und Strecken laut HDsports.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "start_time": "09:30"
   },
   {
    "id": "kraehen-cross-2027",
@@ -64899,7 +65002,8 @@
    "url": "https://www.hdsports.org/laufen/winterlaufserie-beverstedt-wellen-3-lauf",
    "source": "https://www.hdsports.org/laufen/winterlaufserie-beverstedt-wellen-3-lauf",
    "info": "Termin und Strecken laut HDsports.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "start_time": "09:00"
   },
   {
    "id": "ems-dollart-winterlaufserie-2027",
@@ -64943,9 +65047,11 @@
    "anmeldung_url": "https://my.raceresult.com/420165/",
    "source": "https://running.life/de/termine/leinetal-ultra-winter-edition",
    "info": "Termin und Strecken laut running.life/gotrail.run. Start 08:00 Uhr laut Anmeldeportal",
-   "checked": "2026-11-07",
+   "checked": "2026-11-08",
    "start_time": "08:00",
-   "reg_close": "2027-01-16"
+   "reg_close": "2027-01-16",
+   "fee": "18 €",
+   "limit": "50"
   },
   {
    "id": "winterserie-post-sv-lehrte-11-lauf-2027",
@@ -64967,7 +65073,8 @@
    "url": "https://www.hdsports.org/laufen/winterserie-post-sv-lehrte-11-lauf",
    "source": "https://www.hdsports.org/laufen/winterserie-post-sv-lehrte-11-lauf",
    "info": "Termin und Strecken laut HDsports.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "start_time": "14:00"
   },
   {
    "id": "braunschweiger-neujahrslauf-2027",
@@ -66116,16 +66223,16 @@
    "kreis": "LK Northeim",
    "lat": 51.633,
    "lon": 9.592,
-   "date": "2027-03-21",
-   "confirmed": false,
+   "date": "2027-04-11",
+   "confirmed": true,
    "distances": [
     "4,5",
     "9"
    ],
    "url": "https://www.tsvlippoldsberg.de",
    "source": "https://www.runme.de/deutschland/schwuelmetal-volkslauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (9 km um 12:50 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (9 km um 12:50 Uhr). Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "12:50"
    },
@@ -74886,7 +74993,7 @@
    "anmeldung_url": "https://ladv.de/ausschreibung/detail/45977/1.-Crosslauf-Cross-und-Waldlaufserie-2026-Weddingstedt.htm",
    "source": "https://www.runme.de/deutschland/cross-und-waldlaufserie-kreisforst-weddingstedt/",
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (8,4 km um 15:00 Uhr).",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "15:00"
    }
@@ -74910,7 +75017,7 @@
    "url": "https://www.runme.de/deutschland/winterlaufserie-eckernfoerde/",
    "source": "https://www.runme.de/deutschland/winterlaufserie-eckernfoerde/",
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-01-10. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:00 Uhr).",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:00"
    }
@@ -79869,7 +79976,12 @@
    "start_time": "09:30",
    "start_place": "MTV-Sportanlage Kronberg, Schülerwiesen 1 (Start und Ziel)",
    "info": "47. Altkönig-Lauf am Sonntag 26.09.2027 laut Veranstalterseite des MTV Kronberg. Startzeiten: Halbmarathon 09:30 Uhr, 10 km und 10 km Walking/Nordic Walking 09:40 Uhr, Schülerläufe ab 12:00 Uhr (300 m und 1.000 m). Der Halbmarathon ist der 3. Wertungslauf der Taunus-Lauf Challenge. Medaille für alle Finisher.",
-   "checked": "2026-11-06"
+   "checked": "2026-11-08",
+   "showers": "Umkleide- und Duschmöglichkeiten direkt an Start und Ziel",
+   "parking": "Auf dem Gelände des MTV Kronberg, weitere Parkplätze ca. 500 m entfernt am Schwimmbad Kronberg",
+   "prev": {
+    "fee": "10 km 16 €, 21,1 km 18 €, Walking/Nordic Walking 10 km 14 € (Voranmeldung); Nachmeldung +5 €"
+   }
   },
   {
    "id": "messkircher-stadtlauf-2027",
@@ -79946,7 +80058,10 @@
    "url": "https://running.life/de/termine/schnelsener-moorlauf",
    "source": "https://running.life/de/termine/schnelsener-moorlauf",
    "info": "Rundkurs durch das Schnelsener Moor. Termin und Strecken laut running.life und HAID (Terminportale), die Veranstalterseite wurde nicht gefunden. Nach Angabe der Portale ist die Teilnehmerzahl begrenzt (75) und die Anmeldung nur online möglich.",
-   "checked": "2026-11-07"
+   "checked": "2026-11-08",
+   "reg_close": "2026-12-20",
+   "fee": "Erwachsene ca. 12–18 € je nach Meldezeitraum (Jugend ca. 8–12 €)",
+   "late_reg": "Am Veranstaltungstag keine Nachmeldung"
   },
   {
    "id": "lufthansa-technik-halbmarathon-2027",
@@ -80663,10 +80778,10 @@
    "note": "Serie mit 3 Läufen: 15.11.2026 5/10 km, 17.01.2027 10/15 km, 07.02.2027 10/20 km; Cup-Wertung groß (10/15/20) und klein (5/10/10); Veranstalter runningConcepts",
    "url": "https://runningconcepts.de/nuernberger-winterlaufserie",
    "source": "https://runningconcepts.de/nuernberger-winterlaufserie",
-   "checked": "2026-11-07",
+   "checked": "2026-11-08",
    "fee": "Lauf 1: 10 km 22 €, 5 km 12 €; Lauf 2: 15 km 23 €, 10 km 22 €; Lauf 3: 20 km 25 €, 10 km 22 €; Serie groß 65 €, klein 55 € (nur vor Lauf 1 buchbar); Nachmeldung +5 €",
    "reg_close": "2027-01-15",
-   "start_time": null,
+   "start_time": "09:00",
    "start_place": "Gutmann am Dutzendteich, Bayernstr. 150, Nürnberg",
    "pickup": "Vortag (Sa) 11:00–15:00 im Café Pure Food, Reichstr. 10, Nürnberg; am Lauftag ab 07:00 bis 30 min vor Start am Start",
    "parking": "An der großen Straße",
@@ -82124,6 +82239,1172 @@
    "start_place": "Bürgerhaus Hagestall, Weildorf, 72401 Haigerloch",
    "late_reg": "Nachmeldung am Veranstaltungstag ab 11:00 Uhr im Hagestall Weildorf",
    "checked": "2026-11-08"
+  },
+  {
+   "id": "alten-busecker-winterlaufserie-2-lauf-2026",
+   "type": "road",
+   "name": "Alten-Busecker Winterlaufserie, 2. Lauf",
+   "place": "Alten Buseck",
+   "bezirk": "Gießen",
+   "kreis": "LK Gießen",
+   "lat": 50.615,
+   "lon": 8.783,
+   "date": "2026-12-12",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "15"
+   ],
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "checked": "2026-11-08",
+   "url": "https://www.tsg-alten-buseck.com/",
+   "info": "2. Lauf der Serie. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "fee": "5 km 8 €, 10/15 und 21 km 10 € (pro Lauf)",
+   "late_reg": "Meldung auch am Lauftag bis 12:00 Uhr möglich",
+   "parking": "Eingeschränkte Parkmöglichkeiten an der Harbig-Halle",
+   "showers": "Toiletten, Duschen und Umkleidemöglichkeiten in der Harbig-Halle"
+  },
+  {
+   "id": "alten-busecker-winterlaufserie-3-lauf-2027",
+   "type": "road",
+   "name": "Alten-Busecker Winterlaufserie, 3. Lauf",
+   "place": "Alten Buseck",
+   "bezirk": "Gießen",
+   "kreis": "LK Gießen",
+   "lat": 50.615,
+   "lon": 8.783,
+   "date": "2027-01-23",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "HM"
+   ],
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "checked": "2026-11-08",
+   "url": "https://www.tsg-alten-buseck.com/",
+   "info": "3. Lauf der Serie. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "fee": "5 km 8 €, 10/15 und 21 km 10 € (pro Lauf)",
+   "late_reg": "Meldung auch am Lauftag bis 12:00 Uhr möglich",
+   "parking": "Eingeschränkte Parkmöglichkeiten an der Harbig-Halle",
+   "showers": "Toiletten, Duschen und Umkleidemöglichkeiten in der Harbig-Halle"
+  },
+  {
+   "id": "seligenstaedter-winterlaufserie-2-lauf-2026",
+   "type": "road",
+   "name": "Seligenstädter Winterlaufserie, 2. Lauf",
+   "place": "Seligenstadt",
+   "bezirk": "Darmstadt",
+   "kreis": "LK Offenbach",
+   "lat": 50.043,
+   "lon": 8.974,
+   "date": "2026-12-19",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "checked": "2026-11-08",
+   "url": "https://www.tria-seligenstadt.de/",
+   "info": "2. Lauf der Serie. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "showers": "Umkleiden und Duschen im Vereinsheim"
+  },
+  {
+   "id": "seligenstaedter-winterlaufserie-3-lauf-2027",
+   "type": "road",
+   "name": "Seligenstädter Winterlaufserie, 3. Lauf",
+   "place": "Seligenstadt",
+   "bezirk": "Darmstadt",
+   "kreis": "LK Offenbach",
+   "lat": 50.043,
+   "lon": 8.974,
+   "date": "2027-01-16",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "checked": "2026-11-08",
+   "url": "https://www.tria-seligenstadt.de/",
+   "info": "3. Lauf der Serie. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "showers": "Umkleiden und Duschen im Vereinsheim"
+  },
+  {
+   "id": "seligenstaedter-winterlaufserie-4-lauf-2027",
+   "type": "road",
+   "name": "Seligenstädter Winterlaufserie, 4. Lauf",
+   "place": "Seligenstadt",
+   "bezirk": "Darmstadt",
+   "kreis": "LK Offenbach",
+   "lat": 50.043,
+   "lon": 8.974,
+   "date": "2027-02-20",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "checked": "2026-11-08",
+   "url": "https://www.tria-seligenstadt.de/",
+   "info": "4. Lauf der Serie. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "showers": "Umkleiden und Duschen im Vereinsheim"
+  },
+  {
+   "id": "winterlaufserie-tsv-blau-weiss-wolfhagen-ippinghausen-2-lauf-2026",
+   "type": "road",
+   "name": "Winterlaufserie TSV Blau-Weiß Ippinghausen, 2. Lauf",
+   "place": "Wolfhagen-Ippinghausen",
+   "bezirk": "Kassel",
+   "kreis": "LK Kassel",
+   "lat": 51.326,
+   "lon": 9.17,
+   "date": "2026-12-20",
+   "confirmed": true,
+   "distances": [
+    "4,2",
+    "15"
+   ],
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "checked": "2026-11-08",
+   "url": "http://www.wila-ippinghausen.de",
+   "info": "2. Lauf der Serie. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "late_reg": "Nachmeldung am Lauftag gegen 2 € Gebühr möglich",
+   "fee": "Frauen und Männer 7 €, Schüler und Jugend 4 €, Bambini 2 €",
+   "parking": "Am Sportplatz, Waldecker Straße und Vor dem Busche (möglichst nicht an der Bundesstraße)",
+   "start_place": "Weidelsburgstadion/Sportplatz, Korbacher Straße 25, Wolfhagen-Ippinghausen"
+  },
+  {
+   "id": "winterlaufserie-tsv-blau-weiss-wolfhagen-ippinghausen-3-lauf-2027",
+   "type": "road",
+   "name": "Winterlaufserie TSV Blau-Weiß Ippinghausen, 3. Lauf",
+   "place": "Wolfhagen-Ippinghausen",
+   "bezirk": "Kassel",
+   "kreis": "LK Kassel",
+   "lat": 51.326,
+   "lon": 9.17,
+   "date": "2027-01-17",
+   "confirmed": true,
+   "distances": [
+    "4,2",
+    "15"
+   ],
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "checked": "2026-11-08",
+   "url": "http://www.wila-ippinghausen.de",
+   "info": "3. Lauf der Serie. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "late_reg": "Nachmeldung am Lauftag gegen 2 € Gebühr möglich",
+   "fee": "Frauen und Männer 7 €, Schüler und Jugend 4 €, Bambini 2 €",
+   "parking": "Am Sportplatz, Waldecker Straße und Vor dem Busche (möglichst nicht an der Bundesstraße)",
+   "start_place": "Weidelsburgstadion/Sportplatz, Korbacher Straße 25, Wolfhagen-Ippinghausen"
+  },
+  {
+   "id": "winterlaufserie-tsv-blau-weiss-wolfhagen-ippinghausen-4-lauf-2027",
+   "type": "road",
+   "name": "Winterlaufserie TSV Blau-Weiß Ippinghausen, 4. Lauf",
+   "place": "Wolfhagen-Ippinghausen",
+   "bezirk": "Kassel",
+   "kreis": "LK Kassel",
+   "lat": 51.326,
+   "lon": 9.17,
+   "date": "2027-02-20",
+   "confirmed": true,
+   "distances": [
+    "4,2",
+    "15"
+   ],
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "checked": "2026-11-08",
+   "url": "http://www.wila-ippinghausen.de",
+   "info": "4. Lauf der Serie. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "late_reg": "Nachmeldung am Lauftag gegen 2 € Gebühr möglich",
+   "fee": "Frauen und Männer 7 €, Schüler und Jugend 4 €, Bambini 2 €",
+   "parking": "Am Sportplatz, Waldecker Straße und Vor dem Busche (möglichst nicht an der Bundesstraße)",
+   "start_place": "Weidelsburgstadion/Sportplatz, Korbacher Straße 25, Wolfhagen-Ippinghausen"
+  },
+  {
+   "id": "winterlauf-walkingserie-hofheim-lorsbach-2-lauf-2026",
+   "type": "road",
+   "name": "Lorsbacher Winterlauf- und Walkingserie, 2. Lauf",
+   "place": "Hofheim-Lorsbach",
+   "bezirk": "Darmstadt",
+   "kreis": "Main-Taunus-Kreis",
+   "lat": 50.09,
+   "lon": 8.449,
+   "date": "2026-12-20",
+   "confirmed": true,
+   "distances": [
+    "10",
+    "20"
+   ],
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "checked": "2026-11-08",
+   "url": "https://tvlorsbach.de/",
+   "info": "2. Lauf der Serie. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "fee": "Gebührenfrei, Spenden freiwillig",
+   "showers": "Umkleidemöglichkeiten in der Sporthalle"
+  },
+  {
+   "id": "winterlauf-walkingserie-hofheim-lorsbach-3-lauf-2027",
+   "type": "road",
+   "name": "Lorsbacher Winterlauf- und Walkingserie, 3. Lauf",
+   "place": "Hofheim-Lorsbach",
+   "bezirk": "Darmstadt",
+   "kreis": "Main-Taunus-Kreis",
+   "lat": 50.09,
+   "lon": 8.449,
+   "date": "2027-01-10",
+   "confirmed": true,
+   "distances": [
+    "10",
+    "20"
+   ],
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "checked": "2026-11-08",
+   "url": "https://tvlorsbach.de/",
+   "info": "3. Lauf der Serie. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "fee": "Gebührenfrei, Spenden freiwillig",
+   "showers": "Umkleidemöglichkeiten in der Sporthalle"
+  },
+  {
+   "id": "winterlauf-walkingserie-hofheim-lorsbach-4-lauf-2027",
+   "type": "road",
+   "name": "Lorsbacher Winterlauf- und Walkingserie, 4. Lauf",
+   "place": "Hofheim-Lorsbach",
+   "bezirk": "Darmstadt",
+   "kreis": "Main-Taunus-Kreis",
+   "lat": 50.09,
+   "lon": 8.449,
+   "date": "2027-01-24",
+   "confirmed": true,
+   "distances": [
+    "10",
+    "20"
+   ],
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "checked": "2026-11-08",
+   "url": "https://tvlorsbach.de/",
+   "info": "4. Lauf der Serie. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "fee": "Gebührenfrei, Spenden freiwillig",
+   "showers": "Umkleidemöglichkeiten in der Sporthalle"
+  },
+  {
+   "id": "winterlauf-walkingserie-hofheim-lorsbach-5-lauf-2027",
+   "type": "road",
+   "name": "Lorsbacher Winterlauf- und Walkingserie, 5. Lauf",
+   "place": "Hofheim-Lorsbach",
+   "bezirk": "Darmstadt",
+   "kreis": "Main-Taunus-Kreis",
+   "lat": 50.09,
+   "lon": 8.449,
+   "date": "2027-02-14",
+   "confirmed": true,
+   "distances": [
+    "10",
+    "20"
+   ],
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "checked": "2026-11-08",
+   "url": "https://tvlorsbach.de/",
+   "info": "5. Lauf der Serie. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "fee": "Gebührenfrei, Spenden freiwillig",
+   "showers": "Umkleidemöglichkeiten in der Sporthalle"
+  },
+  {
+   "id": "rodgauer-winterlaufserie-2-lauf-2026",
+   "type": "road",
+   "name": "Rodgauer Winterlaufserie, 2. Lauf",
+   "place": "Rodgau-Jügesheim",
+   "bezirk": "Darmstadt",
+   "kreis": "LK Offenbach",
+   "lat": 50.026,
+   "lon": 8.886,
+   "date": "2026-12-05",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "checked": "2026-11-08",
+   "url": "https://skgrodgau.de/",
+   "info": "2. Lauf der Serie. Termin laut HLV-Laufkalender (Stand 08.11.2026). 5 km um 14 Uhr, 10 km um 15 Uhr laut Veranstalter.",
+   "fee": "Tageswertung 5 km 9 €, 10 km 14 € (Serienwertung 5 km 28 €, 10 km 40 €), Preise bei Meldung bis 04.11.2026",
+   "late_reg": "Digitale Nachmeldung per Smartphone ab 06.11.2026 12:00 Uhr bis 45 Minuten vor dem jeweiligen Start",
+   "start_time": "14:00",
+   "pickup": "Ab 12 Uhr",
+   "parking": "Mehr als 200 Parkplätze direkt an der Sportanlage; S-Bahnhof Rodgau-Jügesheim in der Nähe",
+   "start_place": "Maingau-Energie-Stadion, Korbeineweg, Rodgau-Jügesheim"
+  },
+  {
+   "id": "rodgauer-winterlaufserie-3-lauf-2027",
+   "type": "road",
+   "name": "Rodgauer Winterlaufserie, 3. Lauf",
+   "place": "Rodgau-Jügesheim",
+   "bezirk": "Darmstadt",
+   "kreis": "LK Offenbach",
+   "lat": 50.026,
+   "lon": 8.886,
+   "date": "2027-01-02",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "checked": "2026-11-08",
+   "url": "https://skgrodgau.de/",
+   "info": "3. Lauf der Serie. Termin laut HLV-Laufkalender (Stand 08.11.2026). 5 km um 14 Uhr, 10 km um 15 Uhr laut Veranstalter.",
+   "fee": "Tageswertung 5 km 9 €, 10 km 14 € (Serienwertung 5 km 28 €, 10 km 40 €), Preise bei Meldung bis 04.11.2026",
+   "late_reg": "Digitale Nachmeldung per Smartphone ab 06.11.2026 12:00 Uhr bis 45 Minuten vor dem jeweiligen Start",
+   "start_time": "14:00",
+   "pickup": "Ab 12 Uhr",
+   "parking": "Mehr als 200 Parkplätze direkt an der Sportanlage; S-Bahnhof Rodgau-Jügesheim in der Nähe",
+   "start_place": "Maingau-Energie-Stadion, Korbeineweg, Rodgau-Jügesheim"
+  },
+  {
+   "id": "rodgauer-winterlaufserie-4-lauf-2027",
+   "type": "road",
+   "name": "Rodgauer Winterlaufserie, 4. Lauf",
+   "place": "Rodgau-Jügesheim",
+   "bezirk": "Darmstadt",
+   "kreis": "LK Offenbach",
+   "lat": 50.026,
+   "lon": 8.886,
+   "date": "2027-02-06",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "checked": "2026-11-08",
+   "url": "https://skgrodgau.de/",
+   "info": "4. Lauf der Serie. Termin laut HLV-Laufkalender (Stand 08.11.2026). 5 km um 14 Uhr, 10 km um 15 Uhr laut Veranstalter.",
+   "fee": "Tageswertung 5 km 9 €, 10 km 14 € (Serienwertung 5 km 28 €, 10 km 40 €), Preise bei Meldung bis 04.11.2026",
+   "late_reg": "Digitale Nachmeldung per Smartphone ab 06.11.2026 12:00 Uhr bis 45 Minuten vor dem jeweiligen Start",
+   "start_time": "14:00",
+   "pickup": "Ab 12 Uhr",
+   "parking": "Mehr als 200 Parkplätze direkt an der Sportanlage; S-Bahnhof Rodgau-Jügesheim in der Nähe",
+   "start_place": "Maingau-Energie-Stadion, Korbeineweg, Rodgau-Jügesheim"
+  },
+  {
+   "id": "pohlheimer-limes-winterlaufserie-2-lauf-2027",
+   "type": "road",
+   "name": "Pohlheimer Limes-Winterlaufserie, 2. Lauf",
+   "place": "Pohlheim",
+   "bezirk": "Gießen",
+   "kreis": "LK Gießen",
+   "lat": 50.517,
+   "lon": 8.7,
+   "date": "2027-01-16",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "15"
+   ],
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "checked": "2026-11-08",
+   "url": "http://www.turnverein07.de/",
+   "info": "2. Lauf der Serie. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "fee": "5 km 8 €, 10/15/21,1 km 10 € (jeweils pro Lauf, per Lastschrift)",
+   "start_place": "Sporthalle der Adolf-Reichwein-Schule, Pohlheim-Watzenborn-Steinberg",
+   "start_time": "14:00",
+   "pickup": "Am Veranstaltungstag ab 12:30 Uhr in der Sporthalle der Adolf-Reichwein-Schule (Fortweg 5)",
+   "showers": "Kühle Duschen bei den Umkleiden in der Sporthalle oder warme Duschen im nahegelegenen Hallenbad",
+   "parking": "Öffentlicher Parkplatz am nahegelegenen Hallenbad, sonst nur markierte Parkplätze in den umliegenden Straßen (nicht am Fortweg)"
+  },
+  {
+   "id": "pohlheimer-limes-winterlaufserie-3-lauf-2027",
+   "type": "road",
+   "name": "Pohlheimer Limes-Winterlaufserie, 3. Lauf",
+   "place": "Pohlheim",
+   "bezirk": "Gießen",
+   "kreis": "LK Gießen",
+   "lat": 50.517,
+   "lon": 8.7,
+   "date": "2027-02-06",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "HM"
+   ],
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "checked": "2026-11-08",
+   "url": "http://www.turnverein07.de/",
+   "info": "3. Lauf der Serie. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "fee": "5 km 8 €, 10/15/21,1 km 10 € (jeweils pro Lauf, per Lastschrift)",
+   "start_place": "Sporthalle der Adolf-Reichwein-Schule, Pohlheim-Watzenborn-Steinberg",
+   "start_time": "14:00",
+   "pickup": "Am Veranstaltungstag ab 12:30 Uhr in der Sporthalle der Adolf-Reichwein-Schule (Fortweg 5)",
+   "showers": "Kühle Duschen bei den Umkleiden in der Sporthalle oder warme Duschen im nahegelegenen Hallenbad",
+   "parking": "Öffentlicher Parkplatz am nahegelegenen Hallenbad, sonst nur markierte Parkplätze in den umliegenden Straßen (nicht am Fortweg)"
+  },
+  {
+   "id": "winterlaufserie-lg-dornburg-2-lauf-2027",
+   "type": "road",
+   "name": "Winterlaufserie LG Dornburg, 2. Lauf",
+   "place": "Dornburg-Frickhofen",
+   "bezirk": "Gießen",
+   "kreis": "LK Limburg-Weilburg",
+   "lat": 50.517,
+   "lon": 8.017,
+   "date": "2027-02-13",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "checked": "2026-11-08",
+   "url": "http://www.lg-dornburg.de",
+   "info": "2. Lauf der Serie. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "late_reg": "Nachmeldung bis etwa 1 Stunde vor dem Start gegen 2 € Gebühr",
+   "start_place": "Mehrzweckhalle Dornburg-Langendernbach, Ostring"
+  },
+  {
+   "id": "winterlaufserie-lg-dornburg-3-lauf-2027",
+   "type": "road",
+   "name": "Winterlaufserie LG Dornburg, 3. Lauf",
+   "place": "Dornburg-Frickhofen",
+   "bezirk": "Gießen",
+   "kreis": "LK Limburg-Weilburg",
+   "lat": 50.517,
+   "lon": 8.017,
+   "date": "2027-02-27",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "checked": "2026-11-08",
+   "url": "http://www.lg-dornburg.de",
+   "info": "3. Lauf der Serie. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "late_reg": "Nachmeldung bis etwa 1 Stunde vor dem Start gegen 2 € Gebühr",
+   "start_place": "Kindergarten Dornburg-Wilsenroth, Rheinstraße"
+  },
+  {
+   "id": "winterlaufserie-ahnatal-3-lauf-2027",
+   "type": "road",
+   "name": "Winterlaufserie Ahnatal, 3. Wertungslauf",
+   "place": "Ahnatal",
+   "bezirk": "Kassel",
+   "kreis": "LK Kassel",
+   "lat": 51.35,
+   "lon": 9.383,
+   "date": "2027-01-10",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "checked": "2026-11-08",
+   "url": "https://sportverein-weimar.de/",
+   "info": "3. Lauf der Serie. Termin laut HLV-Laufkalender (Stand 08.11.2026)."
+  },
+  {
+   "id": "winterlaufserie-ahnatal-4-lauf-2027",
+   "type": "road",
+   "name": "Winterlaufserie Ahnatal, 4. Wertungslauf",
+   "place": "Ahnatal",
+   "bezirk": "Kassel",
+   "kreis": "LK Kassel",
+   "lat": 51.35,
+   "lon": 9.383,
+   "date": "2027-02-14",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "checked": "2026-11-08",
+   "url": "https://sportverein-weimar.de/",
+   "info": "4. Lauf der Serie. Termin laut HLV-Laufkalender (Stand 08.11.2026)."
+  },
+  {
+   "id": "winterlaufserie-ahnatal-5-lauf-2027",
+   "type": "road",
+   "name": "Winterlaufserie Ahnatal, 5. Wertungslauf",
+   "place": "Ahnatal",
+   "bezirk": "Kassel",
+   "kreis": "LK Kassel",
+   "lat": 51.35,
+   "lon": 9.383,
+   "date": "2027-03-14",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "checked": "2026-11-08",
+   "url": "https://sportverein-weimar.de/",
+   "info": "5. Lauf der Serie. Termin laut HLV-Laufkalender (Stand 08.11.2026)."
+  },
+  {
+   "id": "gudensberger-crosslauf-2026",
+   "type": "trail",
+   "name": "Gudensberger Crosslauf (Hermann-Kilian-Gedächtnislauf)",
+   "place": "Gudensberg",
+   "bezirk": "Kassel",
+   "kreis": "Schwalm-Eder-Kreis",
+   "lat": 51.177,
+   "lon": 9.367,
+   "date": "2026-11-14",
+   "confirmed": true,
+   "distances": [
+    "4,9"
+   ],
+   "url": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "info": "Crosslauf des TSV Obervorschütz: Hauptlauf 4,9 km, dazu 2 km Jugend. Beginn 10:15 Uhr. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "checked": "2026-11-08",
+   "start_place": "Im Weinberg, hinter der Pferdepension, Gudensberg"
+  },
+  {
+   "id": "darmstadt-cross-challenge-2026",
+   "type": "trail",
+   "name": "Darmstadt Cross Challenge",
+   "place": "Darmstadt",
+   "bezirk": "Darmstadt",
+   "kreis": "Stadt Darmstadt",
+   "lat": 49.859,
+   "lon": 8.649,
+   "date": "2026-11-21",
+   "confirmed": true,
+   "distances": [
+    "4",
+    "6"
+   ],
+   "url": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "info": "Crosslauf des asc Darmstadt über 4 und 6 km, dazu Jugendläufe. Beginn 12:00 Uhr. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "checked": "2026-11-08",
+   "start_place": "Velociped-Club 1899 Darmstadt, Heidelberger Straße 150"
+  },
+  {
+   "id": "lindenseelaufserie-ruesselsheim-2026",
+   "type": "road",
+   "name": "Lindenseelaufserie Rüsselsheim",
+   "place": "Rüsselsheim",
+   "bezirk": "Darmstadt",
+   "kreis": "LK Groß-Gerau",
+   "lat": 49.99,
+   "lon": 8.422,
+   "date": "2026-11-21",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "15"
+   ],
+   "url": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "info": "44. Lindenseelaufserie des LC 1969 Rüsselsheim: Hauptlauf 15 km, dazu 5 km. Beginn 14:20 Uhr. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "checked": "2026-11-08",
+   "start_place": "Albrecht-Dürer-Schule, Feuerbachstraße 85, Rüsselsheim"
+  },
+  {
+   "id": "adventlauf-skv-moerfelden-2026",
+   "type": "road",
+   "name": "Adventlauf der SKV Mörfelden",
+   "place": "Mörfelden-Walldorf",
+   "bezirk": "Darmstadt",
+   "kreis": "LK Offenbach",
+   "lat": 49.995,
+   "lon": 8.584,
+   "date": "2026-12-13",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "info": "15. Adventlauf der SKV 1879 Mörfelden mit 10 km und 5 km. Beginn 9:30 Uhr. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "checked": "2026-11-08",
+   "start_place": "Waldstadion, Rüsselsheimer Straße, Mörfelden"
+  },
+  {
+   "id": "silvesterlauf-floersheim-weilbach-2026",
+   "type": "road",
+   "name": "Silvesterlauf Flörsheim-Weilbach",
+   "place": "Flörsheim-Weilbach",
+   "bezirk": "Darmstadt",
+   "kreis": "Main-Taunus-Kreis",
+   "lat": 50.013,
+   "lon": 8.428,
+   "date": "2026-12-31",
+   "confirmed": true,
+   "distances": [
+    "12,5"
+   ],
+   "url": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "info": "Silvesterlauf der TG 1886 Weilbach über 12,5 km, dazu Walking 8,8 km. Beginn 10:30 Uhr. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "checked": "2026-11-08",
+   "start_place": "Platz hinter der Jahnturnhalle, Raunheimer Straße 33"
+  },
+  {
+   "id": "silvesterlauf-bad-hersfeld-2026",
+   "type": "road",
+   "name": "Silvesterlauf Bad Hersfeld",
+   "place": "Bad Hersfeld",
+   "bezirk": "Kassel",
+   "kreis": "LK Hersfeld-Rotenburg",
+   "lat": 50.872,
+   "lon": 9.709,
+   "date": "2026-12-31",
+   "confirmed": true,
+   "distances": [
+    "4,7",
+    "9,3"
+   ],
+   "url": "https://lanet3.de/anonymousapi/competitionattachment/26547",
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "info": "Silvesterlauf der Running Crew Bad Hersfeld über 4,7 und 9,3 km. Beginn 14:00 Uhr. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "checked": "2026-11-08",
+   "start_place": "Teichanlage Roter Neon, Meisebacher Straße"
+  },
+  {
+   "id": "volkslauf-hessisch-lichtenau-2027",
+   "type": "road",
+   "name": "Volkslauf Hessisch Lichtenau",
+   "place": "Hessisch Lichtenau",
+   "bezirk": "Kassel",
+   "kreis": "Werra-Meißner-Kreis",
+   "lat": 51.2,
+   "lon": 9.719,
+   "date": "2027-03-20",
+   "confirmed": true,
+   "distances": [
+    "10",
+    "20"
+   ],
+   "url": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "info": "34. Volkslauf des TV Hessisch Lichtenau über 10 und 20 km. Beginn 13:30 Uhr. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "checked": "2026-11-08",
+   "start_place": "Stadion Am Berg, Freiherr-vom-Stein-Straße"
+  },
+  {
+   "id": "volkslauf-wvc-kassel-2027",
+   "type": "road",
+   "name": "Volkslauf WVC Kassel",
+   "place": "Kassel",
+   "bezirk": "Kassel",
+   "kreis": "LK Kassel",
+   "lat": 51.305,
+   "lon": 9.432,
+   "date": "2027-04-03",
+   "confirmed": true,
+   "distances": [
+    "10",
+    "20"
+   ],
+   "url": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "info": "10. Volkslauf der Wassersport-Vereinigung Cassel über 10 und 20 km. Beginn 13:00 Uhr. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "checked": "2026-11-08",
+   "start_place": "Vereinsgelände WVC, Auedamm 23, Kassel"
+  },
+  {
+   "id": "sechs-stundenlauf-skv-moerfelden-2027",
+   "type": "road",
+   "name": "6-Stundenlauf der SKV Mörfelden",
+   "place": "Mörfelden-Walldorf",
+   "bezirk": "Darmstadt",
+   "kreis": "LK Offenbach",
+   "lat": 49.995,
+   "lon": 8.584,
+   "date": "2027-04-11",
+   "confirmed": true,
+   "distances": [
+    "6 h"
+   ],
+   "url": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "info": "9. 6-Stundenlauf der SKV 1879 Mörfelden. Beginn 10:00 Uhr. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "checked": "2026-11-08",
+   "start_place": "Waldstadion, Rüsselsheimer Straße 78, Mörfelden"
+  },
+  {
+   "id": "wichtelhaeuser-volkslauf-2027",
+   "type": "road",
+   "name": "Wichtelhäuser Volkslauf",
+   "place": "Lahntal-Goßfelden",
+   "bezirk": "Gießen",
+   "kreis": "LK Marburg-Biedenkopf",
+   "lat": 50.862,
+   "lon": 8.698,
+   "date": "2027-04-18",
+   "confirmed": true,
+   "distances": [
+    "10"
+   ],
+   "url": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "info": "Volkslauf des TV Goßfelden über 10 km. Beginn 9:00 Uhr. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "checked": "2026-11-08",
+   "start_place": "Wettersche Straße, Lahntal-Goßfelden"
+  },
+  {
+   "id": "frankfurter-runden-2027",
+   "type": "road",
+   "name": "Frankfurter Runden",
+   "place": "Frankfurt am Main",
+   "bezirk": "Darmstadt",
+   "kreis": "Stadt Frankfurt am Main",
+   "lat": 50.097,
+   "lon": 8.674,
+   "date": "2027-04-25",
+   "confirmed": true,
+   "distances": [
+    "10",
+    "20",
+    "30",
+    "40"
+   ],
+   "url": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "info": "Frankfurter Runden powered by Mainova (Eventpower GmbH): Läufe über 10, 20, 30 und 40 km am Mainufer. Beginn 8:00 Uhr. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "checked": "2026-11-08",
+   "start_place": "Holbeinsteg, Schaumainkai, Frankfurt"
+  },
+  {
+   "id": "lsg-waldauer-wiesen-lauf-2027",
+   "type": "road",
+   "name": "LSG-Waldauer-Wiesen-Lauf",
+   "place": "Kassel-Waldau",
+   "bezirk": "Kassel",
+   "kreis": "LK Kassel",
+   "lat": 51.305,
+   "lon": 9.432,
+   "date": "2027-04-30",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10",
+    "20"
+   ],
+   "url": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "info": "6. Waldauer-Wiesen-Lauf der LaufSportGemeinschaft Kassel: 5, 10 und 20 km, Walking, Kinderläufe. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "checked": "2026-11-08",
+   "start_place": "Sportplatz Waldauer Wiesen, Lore-Klitsch-Weg 1, Kassel"
+  },
+  {
+   "id": "freigerichter-benzinglauf-2027",
+   "type": "road",
+   "name": "Freigerichter Benzinglauf",
+   "place": "Freigericht-Neuses",
+   "bezirk": "Darmstadt",
+   "kreis": "Main-Kinzig-Kreis",
+   "lat": 50.202,
+   "lon": 9.187,
+   "date": "2027-05-23",
+   "confirmed": true,
+   "distances": [
+    "10",
+    "HM"
+   ],
+   "url": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "info": "20. Benzinglauf des Lauftreffs Freigericht: Halbmarathon und 10 km, dazu Walking. Beginn 8:00 Uhr. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "checked": "2026-11-08",
+   "start_place": "DJK SG Concordia Freigericht-Neuses, Am Horbacher Stutz 4"
+  },
+  {
+   "id": "wumbor-lauf-roedermark-2027",
+   "type": "road",
+   "name": "wumboR-Lauf Rödermark",
+   "place": "Rödermark-Ober-Roden",
+   "bezirk": "Darmstadt",
+   "kreis": "LK Offenbach",
+   "lat": 49.974,
+   "lon": 8.828,
+   "date": "2027-06-06",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "info": "19. wumboR-Lauf des Volleyball-Clubs Ober-Roden über 5 und 10 km. Beginn 10:00 Uhr. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "checked": "2026-11-08",
+   "start_place": "Germania Ober-Roden, Außerhalb 15"
+  },
+  {
+   "id": "abendlauf-ippinghausen-2027",
+   "type": "road",
+   "name": "Abendlauf TSV Blau-Weiß Ippinghausen",
+   "place": "Wolfhagen-Ippinghausen",
+   "bezirk": "Kassel",
+   "kreis": "LK Kassel",
+   "lat": 51.326,
+   "lon": 9.17,
+   "date": "2027-06-19",
+   "confirmed": true,
+   "distances": [
+    "10",
+    "HM",
+    "M"
+   ],
+   "url": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "info": "6. Abendlauf des TSV Blau-Weiß Ippinghausen: 10 km, Halbmarathon und Marathon. Beginn 16:30 Uhr. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "checked": "2026-11-08",
+   "start_place": "Sportplatz, Korbacher Straße 23, Wolfhagen-Ippinghausen"
+  },
+  {
+   "id": "gederner-stadtlauf-2027",
+   "type": "road",
+   "name": "Gederner Stadtlauf",
+   "place": "Gedern",
+   "bezirk": "Darmstadt",
+   "kreis": "Main-Kinzig-Kreis",
+   "lat": 50.425,
+   "lon": 9.198,
+   "date": "2027-08-14",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "info": "25. Gederner Stadtlauf: Hauptlauf 10 km, Volks- und Jugendlauf 5 km. Beginn 16:30 Uhr. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "checked": "2026-11-08",
+   "start_place": "Stadtmitte, Lauterbacher Straße, Gedern"
+  },
+  {
+   "id": "weinbergslauf-hochheim-2027",
+   "type": "road",
+   "name": "Weinbergslauf Hochheim",
+   "place": "Hochheim am Main",
+   "bezirk": "Darmstadt",
+   "kreis": "Main-Taunus-Kreis",
+   "lat": 50.014,
+   "lon": 8.352,
+   "date": "2027-09-05",
+   "confirmed": true,
+   "distances": [
+    "6,1",
+    "12,2",
+    "HM"
+   ],
+   "url": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "info": "23. Weinbergslauf der TG Hochheim: 6,1 km, 12,2 km und Halbmarathon, dazu Walking. Beginn 9:00 Uhr. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "checked": "2026-11-08",
+   "start_place": "Vereinsheim des Kleintierzuchtvereins, Langgewanner Weg, Hochheim"
+  },
+  {
+   "id": "herkules-berglauf-kassel-2027",
+   "type": "trail",
+   "name": "Herkules-Berglauf Kassel",
+   "place": "Kassel",
+   "bezirk": "Kassel",
+   "kreis": "LK Kassel",
+   "lat": 51.305,
+   "lon": 9.432,
+   "date": "2027-09-11",
+   "confirmed": true,
+   "distances": [
+    "8"
+   ],
+   "url": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "info": "38. REHAmed Herkules-Berglauf des PSV Grün-Weiß Kassel über 8 km, dazu Walking. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "checked": "2026-11-08",
+   "start_place": "Königschaussee, Schulstraße, Kassel"
+  },
+  {
+   "id": "meissner-berglauf-2027",
+   "type": "trail",
+   "name": "Meißner-Berglauf",
+   "place": "Meißner-Abterode",
+   "bezirk": "Kassel",
+   "kreis": "Werra-Meißner-Kreis",
+   "lat": 51.2,
+   "lon": 9.933,
+   "date": "2027-09-12",
+   "confirmed": true,
+   "distances": [
+    "9,4"
+   ],
+   "url": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "info": "29. Meißner-Berglauf des Ski-Clubs Meißner über 9,4 km mit Hessischer Berglauf-Meisterschaft. Beginn 10:00 Uhr. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "checked": "2026-11-08",
+   "start_place": "Rehbergstraße, Meißner-Abterode"
+  },
+  {
+   "id": "bessunger-merck-lauf-2027",
+   "type": "road",
+   "name": "Bessunger Merck-Lauf",
+   "place": "Darmstadt",
+   "bezirk": "Darmstadt",
+   "kreis": "Stadt Darmstadt",
+   "lat": 49.859,
+   "lon": 8.649,
+   "date": "2027-09-18",
+   "confirmed": true,
+   "distances": [
+    "5,3",
+    "10"
+   ],
+   "url": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "info": "38. Bessunger Merck-Lauf der TG Bessungen über 5,3 und 10 km, dazu Jugendlauf. Beginn 13:00 Uhr. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "checked": "2026-11-08",
+   "start_place": "Orangerie Darmstadt, Bessunger Straße 44"
+  },
+  {
+   "id": "werberun-waldeck-2027",
+   "type": "road",
+   "name": "WerbeRun – Lauf durchs Werbetal",
+   "place": "Waldeck-Nieder-Werbe",
+   "bezirk": "Kassel",
+   "kreis": "LK Waldeck-Frankenberg",
+   "lat": 51.206,
+   "lon": 9.063,
+   "date": "2027-09-18",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "info": "1. WerbeRun des SV Blau-Weiß Werbetal: Hauptlauf 10 km, Kurzstrecke 5 km, Walking 7 km. Beginn 14:00 Uhr. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "checked": "2026-11-08",
+   "start_place": "Sportplatz Nieder-Werbe, Teichmühlenweg 4a"
+  },
+  {
+   "id": "bahama-laufcup-langen-2027",
+   "type": "road",
+   "name": "BaHaMa Laufcup Langen",
+   "place": "Langen (Hessen)",
+   "bezirk": "Darmstadt",
+   "kreis": "LK Offenbach",
+   "lat": 49.99,
+   "lon": 8.668,
+   "date": "2027-09-23",
+   "confirmed": true,
+   "distances": [
+    "5"
+   ],
+   "url": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "info": "Abendlauf von Troia Laufevents über 5 km. Beginn 19:00 Uhr. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "checked": "2026-11-08",
+   "start_place": "Zimmerstraße, Ostseite der Neuen Stadthalle Langen"
+  },
+  {
+   "id": "rund-um-den-kellerskopf-2027",
+   "type": "trail",
+   "name": "Rund um den Kellerskopf",
+   "place": "Wiesbaden-Rambach",
+   "bezirk": "Darmstadt",
+   "kreis": "Stadt Wiesbaden",
+   "lat": 50.123,
+   "lon": 8.302,
+   "date": "2027-09-26",
+   "confirmed": true,
+   "distances": [
+    "6",
+    "10,5",
+    "21"
+   ],
+   "url": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "info": "Crosslauf des TuS Rambach über 6, 10,5 und 21 km, dazu Jugendläufe. Beginn 9:30 Uhr. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "checked": "2026-11-08",
+   "start_place": "Sportplatz Rambach, Trompeterstraße, Wiesbaden"
+  },
+  {
+   "id": "volkslauf-sv-traisa-2027",
+   "type": "road",
+   "name": "Volkslauf SV Traisa",
+   "place": "Mühltal-Traisa",
+   "bezirk": "Darmstadt",
+   "kreis": "LK Darmstadt-Dieburg",
+   "lat": 49.816,
+   "lon": 8.708,
+   "date": "2027-10-03",
+   "confirmed": true,
+   "distances": [
+    "11",
+    "HM"
+   ],
+   "url": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "info": "37. Volkslauf des SV 1911 Traisa: Herbert-Fürtböck-Lauf 11 km und Halbmarathon. Beginn 9:00 Uhr. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "checked": "2026-11-08",
+   "start_place": "Sportplatz Traisa, Am roten Berg 15, Mühltal"
+  },
+  {
+   "id": "kranlauf-offenbach-2027",
+   "type": "road",
+   "name": "Kranlauf Offenbach",
+   "place": "Offenbach am Main",
+   "bezirk": "Darmstadt",
+   "kreis": "Stadt Offenbach am Main",
+   "lat": 50.107,
+   "lon": 8.734,
+   "date": "2027-10-03",
+   "confirmed": true,
+   "distances": [
+    "8,045"
+   ],
+   "url": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "info": "11. Kranlauf des Offenbacher LC über 8,045 km am Hafen, dazu 2,6 km Jugend. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "checked": "2026-11-08",
+   "start_place": "Hafenplatz, Am Hafendeck, Offenbach"
+  },
+  {
+   "id": "lindenseelaufserie-ruesselsheim-2027",
+   "type": "road",
+   "name": "Lindenseelaufserie Rüsselsheim",
+   "place": "Rüsselsheim",
+   "bezirk": "Darmstadt",
+   "kreis": "LK Groß-Gerau",
+   "lat": 49.99,
+   "lon": 8.422,
+   "date": "2027-10-09",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "info": "45. Lindenseelaufserie des LC 1969 Rüsselsheim, Lauf über 10 km (zweiter Lauf am 20.11.2027 über 15 km). Beginn 14:20 Uhr. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "checked": "2026-11-08",
+   "start_place": "Albrecht-Dürer-Schule, Feuerbachstraße 85, Rüsselsheim"
+  },
+  {
+   "id": "la-corsa-di-paolo-2027",
+   "type": "road",
+   "name": "La Corsa di Paolo",
+   "place": "Darmstadt",
+   "bezirk": "Darmstadt",
+   "kreis": "Stadt Darmstadt",
+   "lat": 49.872,
+   "lon": 8.648,
+   "date": "2027-10-17",
+   "confirmed": true,
+   "distances": [
+    "5"
+   ],
+   "url": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "info": "Stadtlauf von Troia Laufevents über 5 km ab dem Marktplatz Darmstadt. Beginn 10:00 Uhr. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "checked": "2026-11-08",
+   "start_place": "Marktplatz Darmstadt"
+  },
+  {
+   "id": "rund-um-den-langenberg-ultra-2026",
+   "type": "trail",
+   "name": "Rund um den Langenberg Ultra",
+   "place": "Liebenau-Niedermeiser",
+   "bezirk": "Kassel",
+   "kreis": "LK Kassel",
+   "lat": 51.497,
+   "lon": 9.282,
+   "date": "2026-12-12",
+   "confirmed": true,
+   "distances": [
+    "M",
+    "56"
+   ],
+   "url": "https://my.raceresult.com/419387/",
+   "source": "https://running.life/de/termine/rund-um-den-langenberg-ultra",
+   "info": "Ultramarathon rund um den Langenberg: 56 km oder Marathonwertung, keine Streckenmarkierung, höchstens 15 Teilnehmende. Start 8:00 Uhr laut Anmeldeportal.",
+   "checked": "2026-11-08",
+   "start_time": "08:00",
+   "limit": "15",
+   "fee": "5 € Organisationsbeitrag",
+   "sold_out": true,
+   "start_place": "Wanderparkplatz Buttenstraße, Liebenau-Niedermeiser"
+  },
+  {
+   "id": "taunus-ultratrail-2027",
+   "type": "trail",
+   "name": "Taunus-Ultratrail",
+   "place": "Schlangenbad-Niedergladbach",
+   "bezirk": "Darmstadt",
+   "kreis": "Rheingau-Taunus-Kreis",
+   "lat": 50.093,
+   "lon": 8.103,
+   "date": "2027-01-09",
+   "confirmed": true,
+   "distances": [
+    "50",
+    "70"
+   ],
+   "url": "https://taunus-ultratrail.de/Hauptlauf/",
+   "source": "https://my.raceresult.com/433275/",
+   "info": "GPS-geführter Ultratrail im westlichen Taunus über 50 und 70 km in drei bzw. vier Runden, Basisverpflegung, Teilnahme weitgehend in Eigenverantwortung. Laut Anmeldeportal: 70 km 9:00 Uhr, 50 km 9:15 Uhr.",
+   "checked": "2026-11-08",
+   "start_time": "09:00",
+   "start_place": "Katholisches Gemeindehaus St. Ägidius, Niedergladbach"
+  },
+  {
+   "id": "herkules-marathon-2027",
+   "type": "trail",
+   "name": "Herkules-Marathon",
+   "place": "Kassel",
+   "bezirk": "Kassel",
+   "kreis": "LK Kassel",
+   "lat": 51.305,
+   "lon": 9.432,
+   "date": "2027-04-03",
+   "confirmed": true,
+   "distances": [
+    "M"
+   ],
+   "url": "https://my.raceresult.com/429798/",
+   "source": "https://my.raceresult.com/429798/",
+   "info": "Marathon (42,4 km, rund 500 Hm) um den Herkules und durch den Hohen Habichtswald, Veranstalter Laufwerk Kassel; überwiegend befestigte Wege, kurzes Trailstück. Start 9:00 Uhr laut Anmeldeportal.",
+   "checked": "2026-11-08",
+   "start_time": "09:00",
+   "reg_close": "2027-04-02",
+   "start_place": "Oberer Parkplatz am Besucherzentrum Herkules, Kassel"
+  },
+  {
+   "id": "bilstein-marathon-2027",
+   "type": "trail",
+   "name": "Bilstein-Marathon",
+   "place": "Witzenhausen",
+   "bezirk": "Kassel",
+   "kreis": "Werra-Meißner-Kreis",
+   "lat": 51.333,
+   "lon": 9.858,
+   "date": "2027-04-10",
+   "confirmed": true,
+   "distances": [
+    "12",
+    "HM",
+    "M",
+    "57",
+    "100"
+   ],
+   "url": "https://www.bilstein-marathon.de/",
+   "source": "https://my.raceresult.com/388332/",
+   "info": "15. Bilstein-Marathon im Kaufunger Wald: BiMa 12, 21, 42, 57 und 100 km auf markierten, hügeligen Trails, höchstens 650 Startplätze. Startzeiten laut Anmeldeportal: 100 km 3:00 Uhr, 57 km 8:30 Uhr, 42 km 10:00 Uhr, 12 km 10:30 Uhr, 21 km 10:40 Uhr.",
+   "checked": "2026-11-08",
+   "start_time": "10:00",
+   "reg_open": "2026-10-03",
+   "reg_close": "2027-04-03",
+   "limit": "650",
+   "fee": "42 km 45 € (bis 30.11.2026), 50 € (bis 31.01.2027), 55 €; 21 km 30/35/40 €; 12 km 20/25/30 €; 57 km 55/60/65 €; 100 km 110/120/130 €"
   }
  ]
 }

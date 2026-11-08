@@ -1,41 +1,137 @@
 # Zweite Prüfung vom PC (Seiten, die GitHub nicht lesen darf)
 
-Stand: 03.11.2026 10:22 · 31 Seiten · 25 vom PC lesbar · 6 auch hier gesperrt/fehlerhaft
+Stand: 08.11.2026 10:48 · 137 Seiten · 34 vom PC lesbar · 103 auch hier gesperrt/fehlerhaft
 
 ## Erstmals gelesen (Ausgangsstand angelegt, noch kein Vergleich)
 
-- hoglworther-seelauf-2026 – https://www.seelauf-teisendorf.de/
-- ronsberger-crosslauf-2026 – https://www.anmeldungs-service.de/ronsbergercrosslauf2026/
-- lauf-ich-lauf-mit-gegen-gewalt-2026 – https://www.datasport.de/anmeldeservice/ichlaufmitgegengewalt2026
-- silvesterlauf-kempten-2026 – https://www.808project.de/silvesterlauf
-- silvesterlauf-sandharlanden-2026 – https://www.fsv-konditionsgruppe.de/silvesterlauf
-- dreikonigslauf-starnberger-see-2027 – https://www.laufcoaches.com/events/dreik%C3%B6nigslauf
-- aichacher-dreikonigslauf-2027 – https://lc-aichach.jimdoweb.com/
-- crosslauf-der-arnstorfer-lg-2027 – https://info-arnstorfer-lg.jimdofree.com/
-- silberwaldlauf-2027 – https://datasport.com/de/events/silberwaldlauf-2027
-- forstenrieder-volkslauf-2027 – https://www.forstenriedersc.de/forstenrieder-volkslauf/
-- isarstauseelauf-2027 – https://isarstauseelauf.jimdosite.com
-- runandfun-bad-kissingen-2027 – https://www.run-and-fun.de/
-- hoalfinger-sommerlauf-2027 – https://www.svh1931.de/
-- buscherl-trail-2027 – https://www.sv-falkenfels.de/
-- waldnaabtal-crosslauf-2027 – https://www.djk-falkenberg.de/ski
-- inzeller-falkensteinlauf-2027 – https://www.falkensteinlauf.de
-- dreisessel-berglauf-2027 – https://www.tag-des-sports.eu
-- fischhoflauf-tirschenreuth-2027 – https://atsv-tirschenreuth.de/leichtathletik
-- internationaler-hochfellnberglauf-2027 – https://www.hochfellnberglauf.de/
-- waldmeisterlauf-2027 – https://www.sgpainten.de/laufsport/waldmeisterlauf/
-- frankenwaldlauf-2027 – https://www.lg-ludwigschorgast.de/frankenwaldlauf/ausschreibung/
-- halbmarathon-ingolstadt-2027 – https://www.halbmarathon-ingolstadt.net
-- ottobeurer-halbmarathon-2027 – http://www.halbmarathon-ottobeuren.de
-- allgau-trail-2027 – https://www.datasport.de/anmeldeservice/ato2027
-- buchental-crosslauf-steinfeld-2027 – https://www.sv-hausen-rohrbach.de/post/buchental-crosslauf
+- weinheim-trails-2027 – https://www.weinheimtrails.de
+- stadtlauf-osterburken-2027 – https://stadtlauf-osterburken.jimdosite.com/
+- rechberghaeuser-sommernachtslauf-2027 – https://sommernachtslauf.net/
+- sparkasse-giessen-silvesterlauf-rund-um-den-schiffenberg-2026 – https://www.silvesterlauf-giessen.de/
+- vorderrhoener-eiterfeld-2027 – https://www.vfl-eiterfeld.de/
+- quellenlauf-bad-vilbel-2027 – http://www.mpz-sport-bad-vilbel.de
+- internationaler-hugenottenlauf-neu-isenburg-2027 – http://www.hugenottenlauf.de/
+- jenaer-lobdeburglauf-2027 – https://lobdeburglauf.jimdosite.com/
+- chemnitzer-silvesterlauf-2026 – https://www.triathlonchemnitz.de/
+- scheibenberger-berglauf-2027 – http://ssv1846scheibenberg.de
+- lauf-der-bildung-aschersleben-2027 – https://kvhs.salzlandkreis.de/
+- temnitzer-heide-lauf-2027 – http://www.temnitzer-heide-lauf.de/
+- charity-trail-mannebach-2027 – https://traylrunner.jimdosite.com/
+- eifelmarathon-2027 – http://www.eifelmarathon.com/
+- damscheider-kuckucks-trail-2027 – https://www.damscheid.de/
+- gummersbacher-silvestercrosslauf-2026 – https://lg-gm.de/
+- lauf-rund-um-die-aggertalsperre-2027 – http://www.lg-gummersbach.de/
+- benkhauser-schlosslauf-2027 – https://www.benkhauser-schlosslauf.de
+- bickendorfer-buedchenlauf-2027 – http://www.bickendorf-lauf.de/
+- aggerenergie-und-sparkassenlauf-gummersbach-2027 – http://lg-gummersbach.de
+- blumensaatlauf-2027 – http://www.Blumensaatlauf.de
+- kurparklauf-bad-nenndorf-2027 – https://www.skigemeinschaft-nordschaumburg.de/kurparklauf/
+- mottenburger-meile-2027 – http://www.mottencastle.de
+- sachsenwaldlauf-2027 – https://www.sachsenwaldlauf.de/
 
 ## Nur im Browser lesbar (auch vom PC gesperrt)
 
 - three-kings-ultra-trail-2027 – https://tkut.runfellows.com/ – fehler <urlopen error [Errno 11001] getaddrinfo failed>
-- wolfsfaehrte-trail-fuersteneck-2027 – https://www.laufwoelfe.de – fehler <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1006)>
-- breitenberg-bewegt-dich-2027 – https://www.wsv-djk-rastbuechl.de – http 403
-- weissenburger-altstadtlauf-2027 – https://altstadtlauf.com/ – fehler <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1006)>
-- altmuehlfrankenlauf-2027 – https://www.altmuehlfranken-lauf.de – fehler <urlopen error [WinError 10060] Ein Verbindungsversuch ist fehlgeschlagen, da die Gegenstelle nach einer bestimmten Zeit
-- lauf-rund-um-die-veste-coburg-2027 – https://www.veste-lauf.de – fehler <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1006)>
+- stuttgarter-silvesterlauf-weilimdorf-2026 – https://stuttgarter-silvesterlauf.de – fehler <urlopen error [WinError 10060] Ein Verbindungsversuch ist fehlgeschlagen, da die Gegenstelle nach einer bestimmten Zeit
+- brogginger-spendenlauf-2027 – https://www.pascal-schucker.de/Spendenaktionen/Spendenlauf-Broggingen – http 404
+- hohenloher-geniesserlauf-2027 – https://www.hohenlohe-geniesserlauf.de – fehler <urlopen error [Errno 11001] getaddrinfo failed>
+- braunenberg-lauf-2027 – https://braunenberg-lauf.de – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid f
+- bad-buchauer-stadtlauf-federsee-halbmarathon-2027 – http://www.svbadbuchau.de/html/stadtlauf.html – http 404
+- neuenbuerger-schloss-park-run-2027 – https://www.neuenbuerg.de/freizeit-erlebnis/veranstaltungskalender/2199/schlosspark-run – http 404
+- oepfinger-osterlauf-2027 – https://oepfinger-osterlauf.de – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid f
+- riedlauf-weil-der-stadt-2027 – https://schoenbuch-cup.de/weil-der-stadt – http 403
+- heidenheimer-stadtlauf-2027 – https://stadtlauf.heidenheim.com – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid f
+- citylauf-leonberg-2027 – https://citylauf-leonberg.de – http 404
+- assamstadter-volkslauf-2027 – https://www.tsv-assamstadt.de/?page_id=11595 – http 404
+- hardtwaldlauf-karlsruhe-2027 – https://www.lsg-ka.de/ausschreibung.html – http 404
+- rheinauer-volkslauf-mannheimer-strassenlauf-2027 – https://www.tv-rheinau-mannheim.de/news – fehler <urlopen error [Errno 11001] getaddrinfo failed>
+- stuttgarter-lebenslauf-2027 – https://www.stuttgarter-lebenslauf.de/ – fehler <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1006)>
+- tuebinger-erbe-lauf-2027 – https://tuebinger-erbe-lauf.de – fehler <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1006)>
+- kuppinger-mondfaengerlauf-2027 – https://www.schoenbuch-cup.de/kuppingen – http 403
+- salacher-loewenlauf-2027 – https://www.tsg-salach.de/veranstaltungen/471-loewenlauf.html – http 404
+- brunnenfestlauf-bad-waldsee-reute-2027 – https://www.tsv-reute.de – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid f
+- laufwelt-extrem-cross-rastatt-wintersdorf-2027 – https://laufwelt.de/laufwelt-extrem-cross-2026/ – http 404
+- internationaler-kaiserstuhllauf-2027 – https://www.tv-ihringen.de/internationaler-kaiserstuhllauf-2026.html – http 404
+- fruehjahrslauf-gross-gerau-2027 – http://www.frühjahrslauf.eu/ – http 400
+- koenigsteiner-benefizlauf-2027 – http://www.benefizlauf-königstein.de/ – http 404
+- roehn-energie-challenge-fulda-2027 – https://www.rhoenenergie-challenge.de/ – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid f
+- lauf-um-die-himmelsschaukel-bruendersen-2027 – https://www.bründersen.de/ – http 400
+- greifenstein-berglauf-ehringshausen-2027 – http://lg-dill.de – http 444
+- lauf-baunatal-rennt-2027 – http://www.ksv-baunatal.de/abteilungen/marathon/baunatal-rennt.html – http 404
+- treiser-volkslauf-staufenberg-treis-2027 – http://laufundwalkingtreff-treis.de/ – fehler <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1006)>
+- kyffhaeuser-berglauf-2027 – http://www.kyffhaeuser-berglauf.de/ – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.
+- kulpenberg-berglauf-2027 – https://www.kyffhaeuser-laufcup.de/ – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.
+- loebichauer-haldenlauf-2027 – http://www.haldenlauf.de – fehler <urlopen error [WinError 10061] Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verwei
+- suedeichsfeldlauf-2027 – https://suedeichsfeldlauf.de/ – fehler <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1006)>
+- wickerstedter-crosslauf-2027 – http://wickerstedter-crosslauf.jimdo.com – fehler <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1006)>
+- bahnlaeufe-des-kyffhaeuser-berglaufverein-e-v-2027 – https://www.kyffhaeuser-berglauf.de – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.
+- unstrutlauf-2027 – http://www.gymnasium-dingelstaedt.de/joomla/ – http 404
+- sparkassen-sonnenwendlauf-winteredition-2026 – https://www.sparkassen-paddle-run.de/ – fehler <urlopen error [Errno 11001] getaddrinfo failed>
+- leipziger-brueckenlauf-2027 – http://www.wasser-stadt-leipzig.de/index.asp – http 404
+- torgauer-city-nachtlauf-2027 – https://www.ksb-nordsachsen.de/veranstaltungen/torgauer-city-nachtlauf – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid f
+- gassenlauf-2027 – https://www.gassenlauf.com/ – http 403
+- doebelner-halbmarathon-2027 – http://www.doebelner-landschaftslauf.de/ – fehler <urlopen error [Errno 11001] getaddrinfo failed>
+- hoywoj-citylauf-2027 – http://www.hoywojcitylauf.sportclub-hoyerswerda.de/ – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid f
+- torgauer-sparkassen-teichelauf-2027 – https://www.sparkassen-teichelauf.de/ – http 404
+- leipziger-citytrail-2027 – https://www.leichtathletik-scdhfk.de/ – fehler <urlopen error [Errno 11001] getaddrinfo failed>
+- stoeritzsee-lauf-2027 – http://www.harri-schlegel.com/ – fehler <urlopen error [WinError 10060] Ein Verbindungsversuch ist fehlgeschlagen, da die Gegenstelle nach einer bestimmten Zeit
+- fontane-lauf-2027 – http://www.sg-rauen1951.de – http 403
+- saarbruecker-frauenlauf-2027 – http://www.saarbruecker-frauenlauf.de – http 404
+- freundschaftslauf-wadgassen-2027 – http://www.bisttal-runners.de – fehler <urlopen error [Errno 11001] getaddrinfo failed>
+- freundschaftslauf-selbach-2027 – http://fc-selbach.de/lauftreff/start.html – fehler <urlopen error [Errno 11001] getaddrinfo failed>
+- kalmit-berglauf-2026 – http://www.tv-maikammer.de – http 404
+- baerenfels-heiligabend-lauf-trail-marathon-mit-10-meilen-und-hauptlauf-8km-2026 – http://www.baerenfelslauf.de/ – fehler <urlopen error [Errno 11001] getaddrinfo failed>
+- oie-nahe-crosslaufserie-2027, nahe-crosslauf-serie-veitsrodt-2027 – http://302510.webhosting47.1blu.de/nahecross/ – http 404
+- deichlauf-neuwied-2027 – http://www.deichlauf.de/ – http 404
+- gerolsteiner-stadtlauf-2027 – http://www.sv-gerolstein.de/sportevents/ – http 404
+- ahrtus-lauf-mit-ahrtal-team-cup-2027 – https://www.tus-ahrweiler.de/ – http 429
+- schafberglauf-2027 – http://www.fc-neuhof.de/ – fehler <urlopen error [Errno 11001] getaddrinfo failed>
+- plattener-strassenlauf-auf-elsenborn-2027 – http://www.tus-platten.de/ – fehler <urlopen error [Errno 11001] getaddrinfo failed>
+- brohlbachtal-lauf-mit-halbmarathon-und-walking-2027 – http://www.hsc-gamlen-eifel-coc.magix.net/ – fehler <urlopen error [Errno 11001] getaddrinfo failed>
+- fackel-lauf-2026 – http://www.schwebebahn-lauf.de/home/ – http 404
+- rietberger-adventslauf-2026 – https://lauftreff.viktoria-rietberg.de/ – fehler <urlopen error [WinError 10061] Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verwei
+- silvesterlauf-des-sc-altenrheine-2026 – http://veranstaltungen.sca-ausdauersport.de/index.php – fehler <urlopen error [Errno 11001] getaddrinfo failed>
+- silvestercross-duesseldorf-galopprennbahn-2026 – https://silvestercrosslauf.my.canva.site/ – http 404
+- internationaler-volkslauf-vreden-2027 – http://www.tv-vreden.de – http 403
+- alstaetter-sandhasenlauf-2027 – https://www.alstaetter-sandhasenlauf.de/ – fehler <urlopen error [Errno 11001] getaddrinfo failed>
+- weser-werre-volkslauf-2027 – http://www.tg-werste.de/WWL.html – http 404
+- geseker-meile-2027 – https://www.laufag.de/ – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)>
+- volkslauf-ruethen-bergstadt-marathon-ruethen-2027 – https://www.bergstadtmarathon-ruethen.de/ – fehler <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1006)>
+- volkslauf-tv-schwafheim-2027 – http://www.tv-schwafheim.net/volkslauf – http 404
+- borkener-citylauf-2027 – http://www.citylauf.borken.de/ – fehler <urlopen error [Errno 11001] getaddrinfo failed>
+- evl-leverkusener-halbmarathon-2027 – https://www.leverkusen-halbmarathon.de/home/ – http 404
+- gvg-horremer-abendlauf-2027 – http://www.horremer-abendlauf.de/index.html – http 404
+- mittsommer-lauf-duesseldorf-2027 – https://www.runme.de/deutschland/Mittsommer-Lauf Düsseldorf/ – fehler URL can't contain control characters. '/deutschland/Mittsommer-Lauf Düsseldorf/' (found at least ' ')
+- bobbahnrun-winterberg-2027 – http://www.veltins-eisarena.de/bobbahnrun/ – http 404
+- gravel-run-ruhrgebiet-2027 – https://www.gravel-run.com/events/ruhrgebiet-2026/ – http 404
+- kemnader-see-parkrun-2027 – http://www.parkrun.com.de/kemnadersee – http 403
+- rww-ruhrauenlauf-2027 – http://info@tsv-viktoria.de/ – fehler <urlopen error [Errno 11003] getaddrinfo failed>
+- brueckenlauf-halbmarathon-des-asv-koeln-2027 – https://www.asv-koeln.de/events/bruckenlauf – http 404
+- stadtfestlauf-luedinghausen-2027 – http://www.lh-lauf.de/ – http 404
+- wipperfuerther-stadtlauf-2027 – https://www.stadtlauf-wipperfuerth.de – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)>
+- lauf-rund-um-den-grengel-2027 – http://www.leichtahtletik-in-engelskirchen.de – fehler <urlopen error [Errno 11001] getaddrinfo failed>
+- rurbrueckenlauf-2027 – https://www.pol-tuslinnich.de/index.php – http 403
+- lehrter-winterserie-2027 – https://www.psvlehrte.de/home – http 404
+- wintervolkslauf-2027 – http://www.mtv-lauftreff.de/index.php – http 403
+- martfelder-muehlenlauf-2027 – http://www.hvv-martfeld.de/index.php – http 404
+- bergedorfer-citylauf-2027 – https://tsg-bergedorf.de/bergedorfer-citylauf/ – http 404
+- hit-felder-volkslauf-2027 – http://www.tsv-hittfeld.de – http 403
+- abend-kanallauf-rethmar-2027 – https://www.mtv-rethmar.de/laufen/abend-kanallauf/ – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid f
+- emder-matjeslauf-2027 – http://www.emder-lg.de/matjeslauf – http 404
+- mittsommernachtslauf-marklohe-2027 – https://tsv-lemke.de/ – http 403
+- isernhagener-volkslauf-2027 – http://www.volkslaufisernhagen.de – http 401
+- nordholzer-windmuehlenlauf-2027 – http://windmuehlenlauf.jimdo.com/ – fehler <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1006)>
+- norderney-meine-insel-lauf-2027 – https://www.norderney-lauf.de/ – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1006)>
+- lintiger-waldrundenlauf-2027 – https://www.ralfsmarathonseite.de – fehler <urlopen error [Errno 11002] getaddrinfo failed>
+- deistercrossing-springe-2027 – http://www.deister-crossing.de/ – fehler <urlopen error [Errno 11001] getaddrinfo failed>
+- volkslauf-mit-walking-um-den-awb-see-2027 – http://www.tus-altwarmbüchen.de – http 400
+- suedenseelauf-2027 – http://südenseelauf.de/ – http 400
+- aok-business-run-kiel-2027 – https://www.businessrun-zippels.de/kiel/ – http 404
+- stadtwerkelauf-niebuell-2027 – http://www.stadtwerke-lauf-niebüll.de – fehler <urlopen error [Errno 11001] getaddrinfo failed>
+- greifswalder-wgg-silvesterlauf-2026 – https://www.sggreifswald.de/ – fehler <urlopen error [Errno 11001] getaddrinfo failed>
+- neu-sw-silvesterlauf-2026 – http://www.nb-silvesterlauf.de/ – fehler <urlopen error [Errno 11001] getaddrinfo failed>
+- fruehlingslauf-schwerin-2027 – https://www.fuenf-seen-lauf.de/ueber-uns/laufkalender/details?tx_news_pi1%5Baction%5D=detail&amp;tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Bnews%5D=1&amp;cHash=da16ec58accef2c8fd08c8ae6cadf6d6 – http 404
+- messkircher-stadtlauf-2027 – https://www.messkirch-bewegt-sich.de – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid f
+- ultra-lauf-cottbus-2027 – https://ultralauf-cottbus.de/ – fehler <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1006)>
+- emmertinger-herbstfestlauf-2027 – https://djk-emmerting.de/abteilungen/lauftreff/ – http 404
 

@@ -50,8 +50,8 @@
 "seit": null
 },
 "https://www.seelauf-teisendorf.de/": {
-"geprueft": "2026-11-08T02:59:10+00:00",
-"status": "http 403",
+"geprueft": "2026-11-08T09:46:20+00:00",
+"status": "ok",
 "art": "html",
 "tokens": [
 "D 08.november2026",
@@ -1927,8 +1927,8 @@
 "seit": "2026-11-04"
 },
 "https://www.forstenriedersc.de/forstenrieder-volkslauf/": {
-"geprueft": "2026-11-08T02:59:45+00:00",
-"status": "http 403",
+"geprueft": "2026-11-08T09:46:20+00:00",
+"status": "ok",
 "art": "html",
 "tokens": [
 "D 10.04.2027",
@@ -2566,8 +2566,8 @@
 "seit": "2026-11-03"
 },
 "https://isarstauseelauf.jimdosite.com": {
-"geprueft": "2026-11-08T02:59:59+00:00",
-"status": "http 403",
+"geprueft": "2026-11-08T09:46:20+00:00",
+"status": "ok",
 "art": "html",
 "tokens": [
 "D 01.2.",
@@ -3451,8 +3451,8 @@
 "seit": null
 },
 "https://www.djk-falkenberg.de/ski": {
-"geprueft": "2026-11-08T03:00:11+00:00",
-"status": "http 403",
+"geprueft": "2026-11-08T09:46:20+00:00",
+"status": "ok",
 "art": "html",
 "tokens": [
 "J 2025",
@@ -4478,8 +4478,8 @@
 "seit": null
 },
 "https://www.koenig-ludwig-lauf.com/sommeredition.html": {
-"geprueft": "2026-11-08T03:00:24+00:00",
-"status": "fehler",
+"geprueft": "2026-11-08T09:46:20+00:00",
+"status": "ok",
 "art": "html",
 "tokens": [
 "D 25.september2027",
@@ -4489,7 +4489,6 @@
 "U 09:30"
 ],
 "zeichen": 4720,
-"nennt_jahr": true,
 "seit": null
 },
 "https://www.hochfellnberglauf.de/": {
@@ -10849,8 +10848,43 @@
 "seit": null
 },
 "https://www.weinheimtrails.de": {
-"geprueft": "2026-11-08T03:02:44+00:00",
-"status": "http 403"
+"geprueft": "2026-11-08T09:46:20+00:00",
+"status": "ok",
+"art": "html",
+"tokens": [
+"D 25.07.2027",
+"J 2025",
+"J 2026",
+"J 2027",
+"U 1:08",
+"U 1:09",
+"U 1:10",
+"U 1:12",
+"U 1:19",
+"U 1:21",
+"U 1:22",
+"U 21:14",
+"U 24:11",
+"U 24:49",
+"U 25:35",
+"U 25:51",
+"U 28:11",
+"U 29:53",
+"U 29:55",
+"U 2:38",
+"U 2:41",
+"U 2:46",
+"U 2:52",
+"U 30:37",
+"U 30:55",
+"U 3:33",
+"U 3:41",
+"U 3:46",
+"U 3:50",
+"U 3:52"
+],
+"zeichen": 1920,
+"seit": null
 },
 "https://www.eventservice-stahl.de/veranstaltungen/nordschwarzwald-trophy/": {
 "geprueft": "2026-11-08T03:02:44+00:00",
@@ -12413,8 +12447,27 @@
 "seit": null
 },
 "https://stadtlauf-osterburken.jimdosite.com/": {
-"geprueft": "2026-11-08T03:03:19+00:00",
-"status": "http 403"
+"geprueft": "2026-11-08T09:46:21+00:00",
+"status": "ok",
+"art": "html",
+"tokens": [
+"D 06.mai2026",
+"D 10.05.2024",
+"D 10.05.2026",
+"D 9.mai2026",
+"J 2026",
+"S meldeschluss",
+"S nachmeldung",
+"U 09:00uhr",
+"U 09:05uhr",
+"U 09:10uhr",
+"U 10:00uhr",
+"U 10:10uhr",
+"U 12:30uhr",
+"U 7:30uhr"
+],
+"zeichen": 7171,
+"seit": null
 },
 "https://lg-buggingen.de/bugginger-feierabendlauf/": {
 "geprueft": "2026-11-08T03:03:19+00:00",
@@ -13344,8 +13397,8 @@
 "seit": null
 },
 "https://heidelberger-tv.de/bahnstadtlauf/": {
-"geprueft": "2026-11-08T03:03:43+00:00",
-"status": "fehler",
+"geprueft": "2026-11-08T09:46:22+00:00",
+"status": "ok",
 "art": "html",
 "tokens": [
 "D 17.juli2027",
@@ -13353,7 +13406,6 @@
 "J 2027"
 ],
 "zeichen": 4828,
-"nennt_jahr": true,
 "seit": null
 },
 "https://www.nusslocher-wiesenlauf.de/wordpress/": {
@@ -13841,8 +13893,24 @@
 "seit": "2026-11-06"
 },
 "https://sommernachtslauf.net/": {
-"geprueft": "2026-11-08T03:03:52+00:00",
-"status": "http 403"
+"geprueft": "2026-11-08T09:46:22+00:00",
+"status": "ok",
+"art": "html",
+"tokens": [
+"D 21.07.2027",
+"D 24.07.2027",
+"J 2026",
+"J 2027",
+"S meldeschluss",
+"U 17:00uhr",
+"U 18:00uhr",
+"U 18:20uhr",
+"U 18:50uhr",
+"U 19:00uhr",
+"U 22:00uhr"
+],
+"zeichen": 2598,
+"seit": null
 },
 "https://www.ptsv-jahn-freiburg.de/leichtathletik/wettkaempfe-events": {
 "geprueft": "2026-11-08T03:03:53+00:00",
@@ -14303,8 +14371,8 @@
 "seit": null
 },
 "https://madamerun.eu/lepreuve/": {
-"geprueft": "2026-11-08T03:03:59+00:00",
-"status": "fehler",
+"geprueft": "2026-11-08T09:46:22+00:00",
+"status": "ok",
 "art": "html",
 "tokens": [
 "D 18.09.2026",
@@ -14313,7 +14381,6 @@
 "U 18:30uhr"
 ],
 "zeichen": 3776,
-"nennt_jahr": false,
 "seit": null
 },
 "https://murrtal-runners.de/volkslauf/": {
@@ -16625,8 +16692,8 @@
 "seit": null
 },
 "https://www.roadrunners-suedbaden.de/night-run": {
-"geprueft": "2026-11-08T03:04:05+00:00",
-"status": "http 429",
+"geprueft": "2026-11-08T09:46:23+00:00",
+"status": "ok",
 "art": "html",
 "tokens": [
 "D 26.september2026",
@@ -16634,7 +16701,6 @@
 "J 2026"
 ],
 "zeichen": 1894,
-"nennt_jahr": false,
 "seit": null
 },
 "https://klosterlauf-schuttern.de/": {
@@ -17200,8 +17266,35 @@
 "seit": null
 },
 "https://www.silvesterlauf-giessen.de/": {
-"geprueft": "2026-11-08T03:04:51+00:00",
-"status": "http 403"
+"geprueft": "2026-11-08T09:46:25+00:00",
+"status": "ok",
+"art": "html",
+"tokens": [
+"D 19.12.",
+"D 27.12.2025",
+"D 28.12.2025",
+"D 29.12.2026",
+"D 30.12.2026",
+"D 31.12.2025",
+"D 31.12.2026",
+"D 31.dezember2026",
+"E 000euro",
+"E 500euro",
+"J 2025",
+"J 2026",
+"S ausgebucht",
+"S startplätze",
+"S wartelist",
+"U 10:00uhr",
+"U 10:45uhr",
+"U 11:10uhr",
+"U 12:30uhr",
+"U 8:30",
+"U 8:30uhr",
+"U 9:45uhr"
+],
+"zeichen": 12612,
+"seit": null
 },
 "https://www.vfl-altenstadt.de/": {
 "geprueft": "2026-11-08T03:04:51+00:00",
@@ -20470,8 +20563,12 @@
 "seit": null
 },
 "https://www.vfl-eiterfeld.de/": {
-"geprueft": "2026-11-08T03:05:59+00:00",
-"status": "http 403"
+"geprueft": "2026-11-08T09:46:26+00:00",
+"status": "ok",
+"art": "html",
+"tokens": [],
+"zeichen": 2718,
+"seit": null
 },
 "http://www.die-kaltduscher.de/": {
 "geprueft": "2026-11-08T03:05:59+00:00",
@@ -20533,8 +20630,12 @@
 "seit": null
 },
 "http://www.mpz-sport-bad-vilbel.de": {
-"geprueft": "2026-11-08T03:06:01+00:00",
-"status": "http 403"
+"geprueft": "2026-11-08T09:46:27+00:00",
+"status": "ok",
+"art": "html",
+"tokens": [],
+"zeichen": 585,
+"seit": null
 },
 "https://tsg-altenhain.de/": {
 "geprueft": "2026-11-08T03:06:01+00:00",
@@ -20687,8 +20788,41 @@
 "seit": null
 },
 "http://www.hugenottenlauf.de/": {
-"geprueft": "2026-11-08T03:06:03+00:00",
-"status": "fehler"
+"geprueft": "2026-11-08T09:46:27+00:00",
+"status": "ok",
+"art": "html",
+"tokens": [
+"D 01.11.2026",
+"D 04.05.2026",
+"D 1.februar2026",
+"D 12.08.2026",
+"D 14.10.2026",
+"D 17.september",
+"D 17.september2026",
+"D 19.09.2026",
+"D 19.september2026",
+"D 20.september",
+"D 20.september2026",
+"D 30.09.2026",
+"J 2026",
+"S meldeschluss",
+"S nachmeldung",
+"U 07:30",
+"U 08:00uhr",
+"U 11.30uhr",
+"U 13:00uhr",
+"U 15:00",
+"U 16:30uhr",
+"U 17:00uhr",
+"U 7:15uhr",
+"U 8.30uhr",
+"U 8.40uhr",
+"U 9.00uhr",
+"U 9.15uhr",
+"U 9:15uhr"
+],
+"zeichen": 12058,
+"seit": null
 },
 "http://www.tv-preungesheim.de/": {
 "geprueft": "2026-11-08T03:06:04+00:00",
@@ -22525,8 +22659,19 @@
 "seit": "2026-11-07"
 },
 "https://lobdeburglauf.jimdosite.com/": {
-"geprueft": "2026-11-08T03:06:48+00:00",
-"status": "http 403"
+"geprueft": "2026-11-08T09:46:28+00:00",
+"status": "ok",
+"art": "html",
+"tokens": [
+"D 01.04.2026",
+"D 06.06.2026",
+"D 12.05.2025",
+"D 20.03.2026",
+"J 2025",
+"J 2026"
+],
+"zeichen": 3016,
+"seit": null
 },
 "http://www.silberberglauf.de": {
 "geprueft": "2026-11-08T03:06:48+00:00",
@@ -24240,8 +24385,15 @@
 "seit": null
 },
 "https://www.triathlonchemnitz.de/": {
-"geprueft": "2026-11-08T03:07:21+00:00",
-"status": "http 403"
+"geprueft": "2026-11-08T09:46:30+00:00",
+"status": "ok",
+"art": "html",
+"tokens": [
+"J 2025",
+"J 2026"
+],
+"zeichen": 2346,
+"seit": null
 },
 "https://vsv77-borna.de/": {
 "geprueft": "2026-11-08T03:07:21+00:00",
@@ -25592,8 +25744,63 @@
 "seit": null
 },
 "http://ssv1846scheibenberg.de": {
-"geprueft": "2026-11-08T03:07:51+00:00",
-"status": "http 403"
+"geprueft": "2026-11-08T09:46:30+00:00",
+"status": "ok",
+"art": "html",
+"tokens": [
+"D 01.mai",
+"D 01.mai2023",
+"D 04.09.",
+"D 04.april2025",
+"D 04.september",
+"D 05.02.2023",
+"D 1.mai2026",
+"D 10.08.2024",
+"D 10.09.",
+"D 10.august2024",
+"D 10.september",
+"D 11.mai2022",
+"D 12.april2024",
+"D 14.september2024",
+"D 15.12.2022",
+"D 16.07.2022",
+"D 16.08.2025",
+"D 16.09.",
+"D 16.juli2022",
+"D 17.06.2023",
+"D 17.juni2023",
+"D 18.11.2023",
+"D 20.märz",
+"D 21.august",
+"D 21.mai2022",
+"D 23.04.2023",
+"D 23.8.",
+"D 23.august",
+"D 24.august",
+"D 24.august2023",
+"D 24.märz2023",
+"D 28.oktober2026",
+"D 29.8.",
+"D 29.august2026",
+"D 30.09.2023",
+"D 31.12.2022",
+"D 31.12.2023",
+"D 31.12.2025",
+"D 31.dezember",
+"D 7.11.",
+"D 7.februar",
+"J 2025",
+"J 2026",
+"U 10.00uhr",
+"U 11.30uhr",
+"U 14.00uhr",
+"U 19:00uhr",
+"U 39:50",
+"U 50:00",
+"U 9.00uhr"
+],
+"zeichen": 17539,
+"seit": null
 },
 "https://ksb-vogtland.de/": {
 "geprueft": "2026-11-08T03:07:52+00:00",
@@ -27838,8 +28045,29 @@
 "seit": null
 },
 "https://kvhs.salzlandkreis.de/": {
-"geprueft": "2026-11-08T03:08:48+00:00",
-"status": "fehler"
+"geprueft": "2026-11-08T09:46:31+00:00",
+"status": "ok",
+"art": "html",
+"tokens": [
+"D 06.09.2027",
+"D 11.11.2026",
+"D 14.01.2027",
+"D 16.03.2027",
+"J 2026",
+"J 2027",
+"U 09:00",
+"U 12:00uhr",
+"U 14:00",
+"U 15:30uhr",
+"U 16:00uhr",
+"U 16:30",
+"U 17:30uhr",
+"U 18:00uhr",
+"U 19:00",
+"U 21:15uhr"
+],
+"zeichen": 3516,
+"seit": null
 },
 "http://www.lg-rudelsburg.de": {
 "geprueft": "2026-11-08T03:08:48+00:00",
@@ -30587,8 +30815,8 @@
 "seit": null
 },
 "https://www.hdsports.org/laufen/bernauer-stadtmauerlauf": {
-"geprueft": "2026-11-08T03:09:50+00:00",
-"status": "http 520",
+"geprueft": "2026-11-08T09:46:32+00:00",
+"status": "ok",
 "art": "html",
 "tokens": [
 "D 04.04.2027",
@@ -30617,7 +30845,6 @@
 "J 2028"
 ],
 "zeichen": 7825,
-"nennt_jahr": false,
 "seit": null
 },
 "https://www.elsterlauf.de/": {
@@ -31718,8 +31945,28 @@
 "seit": null
 },
 "http://www.temnitzer-heide-lauf.de/": {
-"geprueft": "2026-11-08T03:10:14+00:00",
-"status": "http 403"
+"geprueft": "2026-11-08T09:46:32+00:00",
+"status": "ok",
+"art": "html",
+"tokens": [
+"D 05.september2026",
+"D 11.01.",
+"D 29.januar",
+"E €10,5",
+"E €2,3",
+"E €21,1",
+"E €42,2",
+"J 2025",
+"J 2026",
+"S nachmeldung",
+"U 10:00uhr",
+"U 10:15uhr",
+"U 7:00uhr",
+"U 9:00uhr",
+"U 9:15uhr"
+],
+"zeichen": 3938,
+"seit": null
 },
 "https://msvzossen.de/": {
 "geprueft": "2026-11-08T03:10:15+00:00",
@@ -38286,8 +38533,15 @@
 "seit": null
 },
 "https://traylrunner.jimdosite.com/": {
-"geprueft": "2026-11-08T03:12:04+00:00",
-"status": "http 403"
+"geprueft": "2026-11-08T09:46:34+00:00",
+"status": "ok",
+"art": "html",
+"tokens": [
+"D 22.05.",
+"U 10.00uhr"
+],
+"zeichen": 347,
+"seit": null
 },
 "https://www.svneroth.de/enzenbueschlauf/": {
 "geprueft": "2026-11-08T03:12:04+00:00",
@@ -38793,8 +39047,19 @@
 "seit": null
 },
 "http://www.eifelmarathon.com/": {
-"geprueft": "2026-11-08T03:12:10+00:00",
-"status": "http 403"
+"geprueft": "2026-11-08T09:46:34+00:00",
+"status": "ok",
+"art": "html",
+"tokens": [
+"D 13.06.2027",
+"J 2026",
+"J 2027",
+"U 08:00uhr",
+"U 09:30uhr",
+"U 16:00uhr"
+],
+"zeichen": 2129,
+"seit": null
 },
 "https://www.hdsports.org/laufen/hinterweidenthaler-hexepaeddl-lauf": {
 "geprueft": "2026-11-08T03:12:10+00:00",
@@ -40509,8 +40774,26 @@
 "seit": null
 },
 "https://www.damscheid.de/": {
-"geprueft": "2026-11-08T03:12:37+00:00",
-"status": "http 403"
+"geprueft": "2026-11-08T09:46:35+00:00",
+"status": "ok",
+"art": "html",
+"tokens": [
+"D 1.november2026",
+"D 10.oktober2026",
+"D 12.november",
+"D 14.november2026",
+"D 15.11.2026",
+"D 20.11.2026",
+"D 3.11.2026",
+"J 2026",
+"U 10.30uhr",
+"U 10:00uhr",
+"U 11:30uhr",
+"U 18:00uhr",
+"U 19:00uhr"
+],
+"zeichen": 4057,
+"seit": null
 },
 "https://www.hdsports.org/laufen/crosslaufserie-des-kreises-cochem-zell": {
 "geprueft": "2026-11-08T03:12:38+00:00",
@@ -43001,8 +43284,26 @@
 "seit": null
 },
 "https://lg-gm.de/": {
-"geprueft": "2026-11-08T03:13:34+00:00",
-"status": "http 403"
+"geprueft": "2026-11-08T09:46:39+00:00",
+"status": "ok",
+"art": "html",
+"tokens": [
+"D 01.januar1978",
+"D 20.04.2024",
+"D 20.09.2026",
+"D 21.09.2025",
+"D 22.09.2024",
+"D 24.04.2027",
+"D 24.05.2025",
+"D 24.09.2023",
+"D 29.04.2023",
+"D 31.12.2026",
+"J 2025",
+"J 2026",
+"J 2027"
+],
+"zeichen": 3436,
+"seit": null
 },
 "https://laufladen-bonn.de": {
 "geprueft": "2026-11-08T03:13:34+00:00",
@@ -45241,8 +45542,26 @@
 "seit": null
 },
 "http://www.lg-gummersbach.de/": {
-"geprueft": "2026-11-08T03:14:16+00:00",
-"status": "http 403"
+"geprueft": "2026-11-08T09:46:41+00:00",
+"status": "ok",
+"art": "html",
+"tokens": [
+"D 01.januar1978",
+"D 20.04.2024",
+"D 20.09.2026",
+"D 21.09.2025",
+"D 22.09.2024",
+"D 24.04.2027",
+"D 24.05.2025",
+"D 24.09.2023",
+"D 29.04.2023",
+"D 31.12.2026",
+"J 2025",
+"J 2026",
+"J 2027"
+],
+"zeichen": 3436,
+"seit": null
 },
 "http://www.rureifel-trail.com/": {
 "geprueft": "2026-11-08T03:14:16+00:00",
@@ -46101,8 +46420,8 @@
 "seit": null
 },
 "https://www.sv06oetinghausen.de/": {
-"geprueft": "2026-11-08T03:14:36+00:00",
-"status": "fehler",
+"geprueft": "2026-11-08T09:46:41+00:00",
+"status": "ok",
 "art": "html",
 "tokens": [
 "D 10.august2026",
@@ -46147,7 +46466,6 @@
 "U 20:00uhr"
 ],
 "zeichen": 12112,
-"nennt_jahr": false,
 "seit": null
 },
 "https://www.altstadtlauf-lippstadt.de/": {
@@ -49156,8 +49474,16 @@
 "seit": null
 },
 "https://www.benkhauser-schlosslauf.de": {
-"geprueft": "2026-11-08T03:15:47+00:00",
-"status": "http 403"
+"geprueft": "2026-11-08T09:46:46+00:00",
+"status": "ok",
+"art": "html",
+"tokens": [
+"D 01.02.2027",
+"D 03.07.2027",
+"J 2027"
+],
+"zeichen": 3165,
+"seit": null
 },
 "http://www.germania-eicherscheid.de": {
 "geprueft": "2026-11-08T03:15:47+00:00",
@@ -52094,12 +52420,46 @@
 "seit": null
 },
 "http://www.bickendorf-lauf.de/": {
-"geprueft": "2026-11-08T03:16:45+00:00",
-"status": "http 403"
+"geprueft": "2026-11-08T09:46:48+00:00",
+"status": "ok",
+"art": "html",
+"tokens": [
+"D 26.09.2027",
+"D 31.01.2027",
+"J 2027",
+"U 10.00uhr",
+"U 10.30uhr",
+"U 11.00uhr",
+"U 11.30uhr",
+"U 12.30uhr",
+"U 14.30uhr",
+"U 8.00uhr",
+"U 9.30uhr"
+],
+"zeichen": 2170,
+"seit": null
 },
 "http://lg-gummersbach.de": {
-"geprueft": "2026-11-08T03:16:45+00:00",
-"status": "http 403"
+"geprueft": "2026-11-08T09:46:48+00:00",
+"status": "ok",
+"art": "html",
+"tokens": [
+"D 01.januar1978",
+"D 20.04.2024",
+"D 20.09.2026",
+"D 21.09.2025",
+"D 22.09.2024",
+"D 24.04.2027",
+"D 24.05.2025",
+"D 24.09.2023",
+"D 29.04.2023",
+"D 31.12.2026",
+"J 2025",
+"J 2026",
+"J 2027"
+],
+"zeichen": 3436,
+"seit": null
 },
 "https://www.citylauf-erftstadt.de/": {
 "geprueft": "2026-11-08T03:16:46+00:00",
@@ -53955,8 +54315,17 @@
 "status": "http 403"
 },
 "http://www.Blumensaatlauf.de": {
-"geprueft": "2026-11-08T03:17:39+00:00",
-"status": "fehler"
+"geprueft": "2026-11-08T09:46:49+00:00",
+"status": "ok",
+"art": "html",
+"tokens": [
+"D 21.november2026",
+"J 2025",
+"J 2026",
+"S ausgebucht"
+],
+"zeichen": 1137,
+"seit": null
 },
 "https://www.sterkrade-nord.de/nikolauslauf": {
 "geprueft": "2026-11-08T03:17:39+00:00",
@@ -60828,8 +61197,17 @@
 "seit": null
 },
 "https://www.skigemeinschaft-nordschaumburg.de/kurparklauf/": {
-"geprueft": "2026-11-08T03:19:40+00:00",
-"status": "http 403"
+"geprueft": "2026-11-08T09:46:53+00:00",
+"status": "ok",
+"art": "html",
+"tokens": [
+"D 12.06.2027",
+"D 12.juni2027",
+"J 2026",
+"J 2027"
+],
+"zeichen": 839,
+"seit": null
 },
 "http://www.drebber-marathon.de": {
 "geprueft": "2026-11-08T03:19:40+00:00",
@@ -63142,8 +63520,12 @@
 "seit": null
 },
 "http://www.mottencastle.de": {
-"geprueft": "2026-11-08T03:20:11+00:00",
-"status": "fehler"
+"geprueft": "2026-11-08T09:46:54+00:00",
+"status": "ok",
+"art": "html",
+"tokens": [],
+"zeichen": 57,
+"seit": null
 },
 "https://www.hdsports.org/laufen/mulsumer-abendlauf": {
 "geprueft": "2026-11-08T03:20:11+00:00",
@@ -69361,8 +69743,17 @@
 "seit": null
 },
 "https://www.sachsenwaldlauf.de/": {
-"geprueft": "2026-11-08T03:21:59+00:00",
-"status": "http 403"
+"geprueft": "2026-11-08T09:46:55+00:00",
+"status": "ok",
+"art": "html",
+"tokens": [
+"D 12.09.2027",
+"J 2026",
+"J 2027",
+"S nachmeldung"
+],
+"zeichen": 4930,
+"seit": null
 },
 "http://www.sz-arlewatt.de/": {
 "geprueft": "2026-11-08T03:21:59+00:00",
