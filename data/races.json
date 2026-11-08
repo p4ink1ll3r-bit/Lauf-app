@@ -40169,14 +40169,14 @@
    "lat": 52.723,
    "lon": 13.193,
    "date": "2027-05-29",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "4,8",
     "11,9"
    ],
    "url": "http://www.bruchpiloten-leegebruch.de",
    "source": "https://emb-cup.de/veranstaltungen/",
-   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (11,9 km um 10:45 Uhr). Termin noch nicht endgültig: laut vorläufigem Terminplan des EMB Energie-Cups Oberhavel 2027 (Termine „dienen zur Orientierung“, Änderungen möglich).",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (11,9 km um 10:45 Uhr). Termin laut Brandenburger Laufkalender von HDsports als „fixiert“ markiert (Stand 08.11.2026).",
    "checked": "2026-11-08",
    "prev": {
     "start_time": "10:45"
@@ -40606,7 +40606,7 @@
    "lat": 52.543,
    "lon": 13.058,
    "date": "2027-06-19",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5,3",
     "9,9",
@@ -40614,8 +40614,8 @@
    ],
    "url": "https://sportverein-dallgow.de/",
    "source": "https://www.runme.de/deutschland/sielmanns-heidelauf-in-der-doeberitzer-heide/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,3 km um 09:00 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,3 km um 09:00 Uhr). Termin laut Brandenburger Laufkalender von HDsports als „fixiert“ markiert (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "09:00"
    }
@@ -40741,7 +40741,7 @@
    "lat": 51.946,
    "lon": 13.885,
    "date": "2027-06-20",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10",
@@ -40749,7 +40749,7 @@
    ],
    "url": "http://www.ev-gs-luebben.de/",
    "source": "https://www.runme.de/deutschland/schlossinsellauf-luebben/",
-   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 11:00 Uhr). Termin noch nicht endgültig: so in der vorläufigen Terminvorschau des Niederlausitz-Cups 2027 (niederlausitzcup.de).",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 11:00 Uhr).de). Termin laut Brandenburger Laufkalender von HDsports als „fixiert“ markiert (Stand 08.11.2026).",
    "checked": "2026-11-08",
    "prev": {
     "start_time": "11:00"
@@ -42081,15 +42081,15 @@
    "lat": 52.161,
    "lon": 13.919,
    "date": "2027-10-10",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "8",
     "15"
    ],
    "url": "http://www.tv-fuerstenwalde.org",
    "source": "https://www.runme.de/deutschland/storkower-see-lauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (15 km um 09:45 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (15 km um 09:45 Uhr). Termin laut Brandenburger Laufkalender von HDsports als „fixiert“ markiert (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "09:45"
    }
@@ -42461,7 +42461,10 @@
    "source": "https://www.runme.de/deutschland/berliner-silvesterlauf-der-pfannkuchenlauf-charlottenburg/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (6 km um 12:30 Uhr, frühester Lauf ab 5 km).",
    "checked": "2026-11-05",
-   "start_time": "12:30"
+   "start_time": "12:30",
+   "showers": "Umkleiden im Mommsenstadion (Keller); keine Duschen und keine bewachte Kleiderabgabe",
+   "pickup": "Am 31.12. ab 10 Uhr vor dem Mommsenstadion (Startpass kommt 7–10 Tage vorher per E-Mail)",
+   "start_place": "Mommsenstadion, Berlin-Charlottenburg"
   },
   {
    "id": "pankower-gesobau-pfannkuchenlauf-2027",
@@ -42488,7 +42491,7 @@
   {
    "id": "bsv-92-winterlaufserie-wilmersdorf-2027",
    "type": "road",
-   "name": "BSV 92 Winterlaufserie Wilmersdorf",
+   "name": "BSV 92 Winterserie Wilmersdorf, 1. Lauf",
    "place": "Berlin",
    "bezirk": "Berlin",
    "kreis": "Stadt Berlin",
@@ -42497,15 +42500,12 @@
    "date": "2027-01-10",
    "confirmed": true,
    "distances": [
-    "5",
-    "10",
-    "HM"
+    "5"
    ],
    "url": "http://www.bsv1892-leichtathletik.de",
-   "source": "https://www.runme.de/deutschland/bsv-92-winterlaufserie-berlin/",
-   "info": "Winterserie mit drei Läufen (10 km, 15 km und Halbmarathon) im Januar 2027, hier mit dem ersten Termin geführt; Termine laut HDsports und RUNME (nicht bestätigt). Startzeit laut RUNME (15 km um 11:00 Uhr, frühester Lauf ab 5 km). 53. Winterserie des Berliner Sport-Vereins 1892 laut Ausschreibung: 5 km am 10.01.2027, 10 km am 17.01.2027, Halbmarathon am 31.01.2027, Kids- und Fun-Lauf 3,1 km. 53. Winterserie des Berliner Sportvereins 1892; 5 km, 10 km und Halbmarathon an drei Sonntagen",
-   "checked": "2026-11-05",
-   "start_time": "11:00",
+   "source": "https://www.bsv1892-leichtathletik.de/winterserie.html",
+   "info": "53. Winterserie des Berliner SV 1892 in Wilmersdorf mit drei Läufen im Januar 2027; laut Veranstalter neue Strecken: 5 km am 10.01., 10 km am 17.01. (dazu Kids- und Fun-Lauf über ca. 3,1 km), Halbmarathon am 31.01.2027. Alle Strecken amtlich vermessen.",
+   "checked": "2026-11-08",
    "fee": "5 km 13 €, 10 km 18 €, Halbmarathon 27,50 €, Serie (5 km + 10 km + Halbmarathon) 50 €, Kids- und Fun-Lauf 3,1 km 9 € bei Anmeldung bis 15.12.2026 (bis 31.10.2026 11 / 16 / 25 / 45 €, danach bis Meldeschluss 15 / 20 / 30 / 55 €)",
    "late_reg": "Nachmeldung nach Meldeschluss bis 60 Minuten vor dem Start nur online gegen 5 € Zusatzgebühr",
    "showers": "Umkleide- und Duschmöglichkeiten in der Horst-Käsler-Halle",
@@ -42546,7 +42546,7 @@
    "lat": 52.462,
    "lon": 13.482,
    "date": "2027-02-14",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10",
@@ -42555,11 +42555,15 @@
    ],
    "url": "https://www.abczb.de/",
    "source": "https://www.runme.de/deutschland/plaenterwaldlauf-berlin/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:00 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:00 Uhr). Termin laut Terminliste der Lausitzer Sportevents (Zeitnehmer): 94. Plänterwaldlauf am Sonntag 14.02.2027 um 10 Uhr, Anmeldung bis 07.02.2027, nur begrenzte Startplätze.",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:00"
-   }
+   },
+   "start_time": "10:00",
+   "reg_close": "2027-02-07",
+   "start_place": "Buswendeschleife Baumschulenstraße 1, 12437 Berlin-Treptow",
+   "pickup": "Freitag 12.02.2027 16–19 Uhr am Sportplatz Holzmarktstr. 55; am Lauftag 08:30–09:30 Uhr am Start (Buswendeschleife Baumschulenstraße)"
   },
   {
    "id": "valentinslauf-2027",
@@ -42716,28 +42720,9 @@
    "distances": [
     "M"
    ],
-   "url": "https://www.hdsports.org/laufen/berliner-oster-marathon",
+   "url": "http://vollmond-marathon.etzrodt.in",
    "source": "https://www.hdsports.org/laufen/berliner-oster-marathon",
    "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
-   "checked": "2026-11-05"
-  },
-  {
-   "id": "berliner-ostermarathon-2027",
-   "type": "road",
-   "name": "Berliner Ostermarathon",
-   "place": "Berlin",
-   "bezirk": "Berlin",
-   "kreis": "Stadt Berlin",
-   "lat": 52.542,
-   "lon": 13.266,
-   "date": "2027-04-03",
-   "confirmed": false,
-   "distances": [
-    "M"
-   ],
-   "url": "http://vollmond-marathon.etzrodt.in",
-   "source": "https://www.runme.de/deutschland/ostermarathon/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (42,195 km um 10:00 Uhr).",
    "checked": "2026-11-05",
    "prev": {
     "start_time": "10:00"
@@ -42759,9 +42744,10 @@
    ],
    "url": "http://www.berliner-halbmarathon.de",
    "source": "https://www.runme.de/deutschland/berliner-halbmarathon/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (21,0975 km um 09:15 Uhr, frühester Lauf ab 5 km).",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (21,0975 km um 09:15 Uhr, frühester Lauf ab 5 km). Laut Veranstalter werden die Startplätze 2027 per Losverfahren vergeben; die Registrierung für die Verlosung lief vom 02.04. bis 28.05.2026.",
    "checked": "2026-11-05",
-   "start_time": "09:15"
+   "start_time": "09:15",
+   "fee": "Halbmarathon 89 € (Startplatz per Verlosung)"
   },
   {
    "id": "wartenberger-osterlauf-2027",
@@ -42772,18 +42758,19 @@
    "kreis": "Stadt Berlin",
    "lat": 52.581,
    "lon": 13.522,
-   "date": "2027-04-04",
+   "date": "2027-03-28",
    "confirmed": false,
    "distances": [
     "12,3"
    ],
    "url": "http://www.wartenberger-runninggroup.de/",
    "source": "https://www.runme.de/deutschland/wartenberger-osterlauf-berlin/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (12,3 km um 10:15 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (12,3 km um 10:15 Uhr). Termin 2027 noch nicht veröffentlicht: 2026 lief er am Ostersonntag (05.04.2026), daher hier Ostersonntag 2027 geschätzt (RUNME nannte 04.04., HDsports 29.03.).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:15"
-   }
+   },
+   "prev_date": "2026-04-05"
   },
   {
    "id": "berliner-osterlauf-2027",
@@ -42794,8 +42781,8 @@
    "kreis": "Stadt Berlin",
    "lat": 52.437,
    "lon": 13.239,
-   "date": "2027-04-10",
-   "confirmed": false,
+   "date": "2027-04-03",
+   "confirmed": true,
    "distances": [
     "5,6",
     "10,9",
@@ -42805,8 +42792,8 @@
    ],
    "url": "https://www.berliner-osterlauf.com",
    "source": "https://www.runme.de/deutschland/berliner-osterlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,6 km um 10:00 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,6 km um 10:00 Uhr). Termin 03.04.2027 (Ostersamstag) laut Berliner Laufkalender von HDsports als „fixiert“ markiert; 2026 war er am 11.04.",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:00"
    }
@@ -42895,10 +42882,11 @@
    "url": "https://www.hope-found.org/",
    "source": "https://www.runme.de/deutschland/2024-malarathon/",
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:00 Uhr).",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:00"
-   }
+   },
+   "charity": "Charity-Lauf der Hope Foundation für das Projekt „Malaria Free Cameroon“ (Ausgabe 2026)"
   },
   {
    "id": "jedermannlauf-berlin-hermsdorf-2027",
@@ -43001,8 +42989,9 @@
    "url": "http://www.berliner-frauenlauf.de",
    "source": "https://www.runme.de/deutschland/avon-running-berliner-frauenlauf/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 13:30 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "13:30"
+   "checked": "2026-11-08",
+   "start_time": "13:30",
+   "charity": "Laut Veranstalter „Deutschlands größter Charity-Frauenlauf“; 2026 zugunsten von Krebsbetroffenen, dazu Charity-Teams, die Spenden sammeln"
   },
   {
    "id": "generalprobe-55-km-2027",
@@ -43027,27 +43016,6 @@
    }
   },
   {
-   "id": "mittsommerlauf-kaulsdorf-2027",
-   "type": "road",
-   "name": "Mittsommerlauf Kaulsdorf",
-   "place": "Berlin",
-   "bezirk": "Berlin",
-   "kreis": "Stadt Berlin",
-   "lat": 52.503,
-   "lon": 13.588,
-   "date": "2027-05-23",
-   "confirmed": true,
-   "distances": [
-    "5",
-    "10"
-   ],
-   "url": "https://mittsommer-lauf.de/",
-   "source": "https://www.runme.de/deutschland/mittsommerstundenlauf-kaulsdorf-berlin/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Start am 23.05.2027 um 5:07 Uhr beim ersten Sonnenstrahl (laut Veranstalter)",
-   "checked": "2026-11-05",
-   "start_time": "05:07"
-  },
-  {
    "id": "run-of-spirit-2027",
    "type": "road",
    "name": "Run of Spirit",
@@ -43065,12 +43033,13 @@
    "url": "http://www.run-of-spirit.de/",
    "source": "https://www.runme.de/deutschland/run-of-spirit-berlin/",
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,2 km um 13:00 Uhr). Ausgabe 2026: Meldeschluss 13.05.2026, 23:59 Uhr, Frühbucherrabatt bis 29.03.2026",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "13:00"
    },
    "late_reg": "Nachmeldung am Vortag von 14:00 bis 17:00 Uhr während der Startnummernausgabe (Ausgabe 2026)",
-   "pickup": "Startnummernausgabe am Freitag vor dem Lauf von 14:00 bis 17:00 Uhr am Haupteingang (Ausgabe 2026)"
+   "pickup": "Startnummernausgabe am Freitag vor dem Lauf von 14:00 bis 17:00 Uhr am Haupteingang (Ausgabe 2026)",
+   "charity": "Alle Erlöse und Spenden gehen an Projekte des Evangelischen Johannesstifts zu Integration und Vielfalt, Sport und Gesundheit"
   },
   {
    "id": "steglitzer-volkslauf-2027",
@@ -43104,7 +43073,7 @@
    "lat": 52.386,
    "lon": 13.634,
    "date": "2027-06-05",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10",
@@ -43112,8 +43081,8 @@
    ],
    "url": "http://www.uferbahnlauf.de/",
    "source": "https://www.runme.de/deutschland/uferbahnlauf-berlin/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 10:15 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 10:15 Uhr). Laut Veranstalterseite 15. Uferbahnlauf am 5. Juni 2027 in Berlin-Grünau.",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:15"
    }
@@ -43121,25 +43090,27 @@
   {
    "id": "mittsommerlauf-berlin-charlottenburg-nord-2027",
    "type": "road",
-   "name": "Mittsommerlauf Berlin-Charlottenburg-Nord",
-   "place": "Berlin",
+   "name": "Mittsommer-Lauf Berlin",
+   "place": "Berlin-Charlottenburg-Nord",
    "bezirk": "Berlin",
    "kreis": "Stadt Berlin",
    "lat": 52.54,
    "lon": 13.299,
-   "date": "2027-06-13",
-   "confirmed": false,
+   "date": "2027-05-23",
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
-   "url": "https://gid-projects.de/",
-   "source": "https://www.runme.de/deutschland/mittsommer-lauf-berlin/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 05:44 Uhr).",
-   "checked": "2026-11-05",
+   "url": "https://mittsommer-lauf.de/",
+   "source": "https://mittsommer-lauf.de/",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 05:44 Uhr). Laut Veranstalterseite Mittsommer-Lauf Berlin am 23. Mai 2027 um 05:07 Uhr beim ersten Sonnenstrahl in der Jungfernheide; 5-km-Runde, 10 km sind zwei Runden. Ausgabe 2026: Startunterlagen am Vortag 16–18 Uhr am Wasserturm und am Lauftag ab 4 Uhr am Infozelt.",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "05:44"
-   }
+   },
+   "start_time": "05:07",
+   "start_place": "Volkspark Jungfernheide (Start und Ziel, Ausgabe am Wasserturm)"
   },
   {
    "id": "saucony-berlin-10k-2027",
@@ -43384,14 +43355,14 @@
    "lat": 52.571,
    "lon": 13.441,
    "date": "2027-09-04",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "10,6"
    ],
    "url": "https://zukunftswerkstatt-heinersdorf.de/",
    "source": "https://www.runme.de/deutschland/heinersdorfer-viertelmarathon-berlin-heinersdorf-4993/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10,55 km um 14:00 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10,55 km um 14:00 Uhr). Termin laut Berliner Laufkalender von HDsports als „fixiert“ markiert (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "14:00"
    }
@@ -43406,7 +43377,7 @@
    "lat": 52.59,
    "lon": 13.328,
    "date": "2027-09-05",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "4,7",
     "10",
@@ -43414,14 +43385,17 @@
    ],
    "url": "https://borsighalbmarathon.de/",
    "source": "https://www.runme.de/deutschland/mercedes-benz-halbmarathon-berlin-reinickendorf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 09:30 Uhr). 28. Borsig Halbmarathon, Online-Anmeldung bis 01.09.2027 laut borsighalbmarathon.de; Postversand der Startunterlagen optional bis 15.08.2027",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 09:30 Uhr). 28. Borsig Halbmarathon, Online-Anmeldung bis 01.09.2027 laut borsighalbmarathon.de; Postversand der Startunterlagen optional bis 15.08.2027. Laut Veranstalterseite 28. BORSIG Halbmarathon am 5. September 2027 (Halbmarathon, 10 km, 5 km, 4x5-km-Staffel); Online-Anmeldung bis 01.09.2027.",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "09:30"
    },
    "reg_close": "2027-09-01",
    "late_reg": "Nachmeldung nur am Samstag, 04.09.2027, von 12:00 bis 16:00 Uhr bei der Startnummernausgabe, Nachmeldegebühr 20 €",
-   "pickup": "Startnummernausgabe am Samstag, 04.09.2027 (12:00 bis 16:00 Uhr) und am Veranstaltungstag ab 7:00 Uhr, Startnummer bis spätestens 30 Minuten vor dem Start abholen"
+   "pickup": "Startnummernausgabe am Samstag, 04.09.2027 (12:00 bis 16:00 Uhr) und am Veranstaltungstag ab 7:00 Uhr, Startnummer bis spätestens 30 Minuten vor dem Start abholen",
+   "start_place": "Rathaus Reinickendorf (Start-/Zielgelände)",
+   "showers": "Umkleiden und Taschenablage im Nord-Foyer des Rathauses Reinickendorf, keine bewachte Kleiderabgabe",
+   "parking": "Nur begrenzt Parkplätze; Anreise mit U8 oder Bus 220, 322, X33 (Haltestelle Rathaus Reinickendorf) empfohlen, ab 6:30 Uhr Sperrungen"
   },
   {
    "id": "life-run-2027",
@@ -43441,10 +43415,11 @@
    "url": "http://www.life-run.de/",
    "source": "https://www.runme.de/deutschland/life-run-benefizlauf-berliner-aids-hilfe/",
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 12:00 Uhr).",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "12:00"
-   }
+   },
+   "charity": "Benefizlauf der Berliner Aids-Hilfe: alle Startgelder fließen in die Arbeit und die Projekte der Berliner Aids-Hilfe e.V."
   },
   {
    "id": "volvo-tierparklauf-2027",
@@ -43529,7 +43504,8 @@
    "url": "http://www.berlin-marathon.com/",
    "source": "https://www.runme.de/deutschland/bmw-berlin-marathon/",
    "info": "Termin 26.09.2027 laut visitberlin.de. Anmeldung über Verlosung: 2026 bis 12.11. offen, Ziehung am 03.12., Startgebühr bei Zuschlag laut Marathon Handbook 215 € (Drittquelle). Der Titelsponsor wechselt 2027 laut Presse zu Generali.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-05",
+   "fee": "Marathon 215 € (Startplatz per Verlosung, Ergebnis am 03.12.2026)"
   },
   {
    "id": "sovd-inklusionslauf-2027",
@@ -43581,17 +43557,18 @@
    "lat": 52.52,
    "lon": 13.288,
    "date": "2027-10-10",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "10"
    ],
    "url": "http://www.berlin-laeuft.de/",
    "source": "https://www.runme.de/deutschland/asics-grand-10-berlin/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 11:00 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 11:00 Uhr). Laut Veranstalterseite am 10. Oktober 2027 am Schloss Charlottenburg.",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "11:00"
-   }
+   },
+   "start_place": "Schloss Charlottenburg"
   },
   {
    "id": "sportscheck-run-berlin-2027",
@@ -43711,14 +43688,14 @@
    "lat": 52.52,
    "lon": 13.405,
    "date": "2027-08-14",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "160"
    ],
    "url": "https://www.runme.de/deutschland/100meilenberlin-der-mauerweglauf/",
    "source": "https://www.runme.de/deutschland/100meilenberlin-der-mauerweglauf/",
-   "info": "Ultralauf über 100 Meilen (rund 160 km) entlang des ehemaligen Mauerverlaufs, auch als Staffel. Termin laut RUNME, noch nicht bestätigt; genauer Startort nicht geprüft, Koordinaten = Stadtmitte.",
-   "checked": "2026-11-05"
+   "info": "Ultralauf über 100 Meilen (rund 160 km) entlang des ehemaligen Mauerverlaufs, auch als Staffel. Termin laut Berliner Laufkalender von HDsports als „fixiert“ markiert (Stand 08.11.2026).",
+   "checked": "2026-11-08"
   },
   {
    "id": "berliner-mannschaftslauf-ssv-lichtenrade-2026",
@@ -80310,14 +80287,14 @@
    "lat": 52.478,
    "lon": 13.379,
    "date": "2027-06-05",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "25"
    ],
    "url": "https://pace-race.com/",
    "source": "https://www.berlin.de/special/sport-und-fitness/laufkalender/?atpg=3",
-   "info": "Knock-out-Format auf dem Tempelhofer Feld: Jede Runde ist 1 km lang, das Zeitlimit wird mit jeder Runde kürzer, dazwischen 60 Sekunden Pause. Termin laut Berlin.de-Laufkalender, die Veranstalterseite nennt ihn noch nicht.",
-   "checked": "2026-11-07"
+   "info": "Knock-out-Format auf dem Tempelhofer Feld: Jede Runde ist 1 km lang, das Zeitlimit wird mit jeder Runde kürzer, dazwischen 60 Sekunden Pause. Termin laut Berlin.de-Laufkalender, die Veranstalterseite nennt ihn noch nicht. Termin laut Berliner Laufkalender von HDsports als „fixiert“ markiert (Stand 08.11.2026).",
+   "checked": "2026-11-08"
   },
   {
    "id": "ultra-lauf-cottbus-2027",
@@ -84510,6 +84487,235 @@
    "source": "https://www.elsterlauf.de/laufserie-elbe-elster/",
    "checked": "2026-11-08",
    "info": "Lauf am Kiebitzsee in Falkenberg/Elster, Wertungslauf der Laufserie Elbe-Elster. Ausgabe 2026 (19. Kiebitzlauf) am Samstag 01.08.2026 um 09:30 Uhr mit 3,3, 6,6 und 9,9 km. Termin 2027 noch nicht veröffentlicht, geschätzt nach dem Vorjahr (gleicher Wochentag)."
+  },
+  {
+   "id": "bsv-92-winterserie-wilmersdorf-2-lauf-2027",
+   "type": "road",
+   "name": "BSV 92 Winterserie Wilmersdorf, 2. Lauf",
+   "place": "Berlin",
+   "bezirk": "Berlin",
+   "kreis": "Stadt Berlin",
+   "lat": 52.478,
+   "lon": 13.295,
+   "date": "2027-01-17",
+   "confirmed": true,
+   "distances": [
+    "10"
+   ],
+   "url": "http://www.bsv1892-leichtathletik.de",
+   "source": "https://www.bsv1892-leichtathletik.de/winterserie.html",
+   "info": "53. Winterserie des Berliner SV 1892 in Wilmersdorf mit drei Läufen im Januar 2027; laut Veranstalter neue Strecken: 5 km am 10.01., 10 km am 17.01. (dazu Kids- und Fun-Lauf über ca. 3,1 km), Halbmarathon am 31.01.2027. Alle Strecken amtlich vermessen.",
+   "checked": "2026-11-08",
+   "late_reg": "Nachmeldung nach Meldeschluss bis 60 Minuten vor dem Start nur online gegen 5 € Zusatzgebühr",
+   "showers": "Umkleide- und Duschmöglichkeiten in der Horst-Käsler-Halle",
+   "start_place": "Stadion Wilmersdorf"
+  },
+  {
+   "id": "bsv-92-winterserie-wilmersdorf-3-lauf-2027",
+   "type": "road",
+   "name": "BSV 92 Winterserie Wilmersdorf, 3. Lauf",
+   "place": "Berlin",
+   "bezirk": "Berlin",
+   "kreis": "Stadt Berlin",
+   "lat": 52.478,
+   "lon": 13.295,
+   "date": "2027-01-31",
+   "confirmed": true,
+   "distances": [
+    "HM"
+   ],
+   "url": "http://www.bsv1892-leichtathletik.de",
+   "source": "https://www.bsv1892-leichtathletik.de/winterserie.html",
+   "info": "53. Winterserie des Berliner SV 1892 in Wilmersdorf mit drei Läufen im Januar 2027; laut Veranstalter neue Strecken: 5 km am 10.01., 10 km am 17.01. (dazu Kids- und Fun-Lauf über ca. 3,1 km), Halbmarathon am 31.01.2027. Alle Strecken amtlich vermessen.",
+   "checked": "2026-11-08",
+   "late_reg": "Nachmeldung nach Meldeschluss bis 60 Minuten vor dem Start nur online gegen 5 € Zusatzgebühr",
+   "showers": "Umkleide- und Duschmöglichkeiten in der Horst-Käsler-Halle",
+   "start_place": "Stadion Wilmersdorf"
+  },
+  {
+   "id": "eichwalder-silvesterlauf-2026",
+   "type": "road",
+   "name": "Eichwalder Silvesterlauf",
+   "place": "Berlin-Schmöckwitz",
+   "bezirk": "Berlin",
+   "kreis": "Stadt Berlin",
+   "lat": 52.386,
+   "lon": 13.634,
+   "date": "2026-12-31",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "start_time": "10:00",
+   "url": "https://eichwalde2000.de/sportangebote/laufveranstaltungen/silvesterlauf/",
+   "source": "https://eichwalde2000.de/sportangebote/laufveranstaltungen/silvesterlauf/",
+   "checked": "2026-11-08",
+   "start_place": "Sportplatz am Hirtenfließ, Finkengasse 7, 12527 Berlin",
+   "fee": "5 km und 10 km 10 € (Jahrgang 2011 und älter), 3 € (Jahrgang 2012–2022); Bambini 400 m 3 €; Nachmeldung am Lauftag +5 €",
+   "late_reg": "Nachmeldung am Lauftag gegen 5 € Aufschlag",
+   "info": "Silvesterlauf von Ajax Eichwalde 2000 am 31.12.2026, Start am Sportplatz am Hirtenfließ (Berlin-Schmöckwitz, an der Grenze zu Eichwalde). Startzeit 10 Uhr laut HDsports."
+  },
+  {
+   "id": "100-km-berlin-2027",
+   "type": "road",
+   "name": "100 km Berlin",
+   "place": "Berlin-Wartenberg",
+   "bezirk": "Berlin",
+   "kreis": "Stadt Berlin",
+   "lat": 52.581,
+   "lon": 13.522,
+   "date": "2027-04-24",
+   "confirmed": false,
+   "prev_date": "2026-09-12",
+   "distances": [
+    "100"
+   ],
+   "url": "https://www.lgnord.de/",
+   "source": "https://www.hdsports.org/laufen/100-km-berlin",
+   "checked": "2026-11-08",
+   "prev": {
+    "start_time": "07:00",
+    "start_place": "Fennpfuhlweg 53, 13059 Berlin"
+   },
+   "info": "100-km-Lauf der LG Nord Berlin (2026 mit Deutscher Meisterschaft am 12.09.2026). Für 2027 nennt der HDsports-Kalender den 24.04.2027 als fixiert; auf der Veranstalterseite steht der Termin noch nicht, daher hier als nicht bestätigt markiert."
+  },
+  {
+   "id": "berliner-spendenlauf-chronisch-kranke-kinder-2027",
+   "type": "road",
+   "name": "Berliner Spendenlauf für chronisch kranke Kinder",
+   "place": "Berlin-Westend",
+   "bezirk": "Berlin",
+   "kreis": "Stadt Berlin",
+   "lat": 52.502,
+   "lon": 13.245,
+   "date": "2027-06-05",
+   "confirmed": false,
+   "prev_date": "2026-06-06",
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.psb24-laufteam.de/",
+   "source": "https://www.hdsports.org/laufen/berliner-spendenlauf-der-kinderrheuma-stiftung",
+   "checked": "2026-11-08",
+   "prev": {
+    "start_time": "09:30",
+    "start_place": "Harbigstraße 40, 14055 Berlin"
+   },
+   "charity": "Spendenlauf zugunsten chronisch kranker Kinder (Kinderrheuma-Stiftung)",
+   "info": "Spendenlauf des PSB 24 Laufteams mit 10 km, 5 km und Kinderlauf. Termin 2027 noch nicht veröffentlicht, geschätzt nach dem Vorjahr (2026 am Samstag 06.06.)."
+  },
+  {
+   "id": "berliner-mauerweg-nachtlauf-2027",
+   "type": "road",
+   "name": "Berliner Mauerweg Nachtlauf",
+   "place": "Berlin-Wannsee",
+   "bezirk": "Berlin",
+   "kreis": "Stadt Berlin",
+   "lat": 52.42,
+   "lon": 13.144,
+   "date": "2027-07-24",
+   "confirmed": false,
+   "prev_date": "2026-07-25",
+   "distances": [
+    "59"
+   ],
+   "url": "https://www.hdsports.org/laufen/berliner-mauerwegnachtlauf",
+   "source": "https://www.hdsports.org/laufen/berliner-mauerwegnachtlauf",
+   "checked": "2026-11-08",
+   "prev": {
+    "start_time": "21:30"
+   },
+   "info": "Nächtlicher Ultralauf über 59 km auf dem Berliner Mauerweg, Start in Berlin-Wannsee (seit 2006). Termin 2027 noch nicht bestätigt, geschätzt nach dem Vorjahr (2026 am Samstag 25.07.). Angaben laut HDsports."
+  },
+  {
+   "id": "bruessower-pokallauf-2027",
+   "type": "road",
+   "name": "Brüssower Pokallauf",
+   "place": "Brüssow",
+   "bezirk": "Uckermark-Barnim",
+   "kreis": "LK Uckermark",
+   "lat": 53.4,
+   "lon": 14.125,
+   "date": "2027-05-08",
+   "prev_date": "2026-05-09",
+   "distances": [
+    "6,5",
+    "10"
+   ],
+   "url": "http://www.sv-fortuna-schmoelln.de/",
+   "source": "https://www.hdsports.org/laufen/bruessower-pokallauf",
+   "prev": {
+    "start_time": "10:00",
+    "start_place": "Prenzlauer Straße 26a, 17326 Brüssow"
+   },
+   "info": "Pokallauf mit 10 km, 6,5 km, 3,5 km und Kinderläufen (Ausgabe 2026 am Samstag 09.05.2026). Termin 2027 noch nicht veröffentlicht, geschätzt nach dem Vorjahr (gleicher Wochentag). Angaben laut HDsports.",
+   "confirmed": false,
+   "checked": "2026-11-08"
+  },
+  {
+   "id": "moenchsheidelauf-liepe-2027",
+   "type": "trail",
+   "name": "Mönchsheidelauf",
+   "place": "Liepe",
+   "bezirk": "Uckermark-Barnim",
+   "kreis": "LK Barnim",
+   "lat": 52.862,
+   "lon": 13.97,
+   "date": "2027-05-09",
+   "prev_date": "2026-05-10",
+   "distances": [
+    "16"
+   ],
+   "url": "https://www.hdsports.org/laufen/moenchsheidelauf",
+   "source": "https://www.hdsports.org/laufen/moenchsheidelauf",
+   "info": "Lauf über 16 km durch die Mönchsheide bei Liepe (Ausgabe 2026 am Sonntag 10.05.2026). Termin 2027 noch nicht veröffentlicht, geschätzt nach dem Vorjahr (gleicher Wochentag). Angaben laut HDsports.",
+   "confirmed": false,
+   "checked": "2026-11-08"
+  },
+  {
+   "id": "flaeminglauf-jueterbog-2027",
+   "type": "road",
+   "name": "Fläminglauf Jüterbog",
+   "place": "Jüterbog",
+   "bezirk": "Havelland-Fläming",
+   "kreis": "LK Teltow-Fläming",
+   "lat": 51.996,
+   "lon": 13.08,
+   "date": "2027-10-09",
+   "prev_date": "2026-10-10",
+   "distances": [
+    "10",
+    "15"
+   ],
+   "url": "https://www.hdsports.org/laufen/flaeminglauf-in-jueterbog",
+   "source": "https://www.hdsports.org/laufen/flaeminglauf-in-jueterbog",
+   "info": "Fläminglauf in Jüterbog mit 15 km, 10 km, 3 km und Kinderläufen (Ausgabe 2026 am Samstag 10.10.2026). Termin 2027 noch nicht veröffentlicht, geschätzt nach dem Vorjahr (gleicher Wochentag). Angaben laut HDsports.",
+   "confirmed": false,
+   "checked": "2026-11-08"
+  },
+  {
+   "id": "silvester-crosslauf-schoenfliess-2026",
+   "type": "trail",
+   "name": "Silvester-Crosslauf Schönfließ",
+   "place": "Schönfließ",
+   "bezirk": "Prignitz-Oberhavel",
+   "kreis": "LK Oberhavel",
+   "lat": 52.656,
+   "lon": 13.338,
+   "date": "2026-12-31",
+   "confirmed": true,
+   "distances": [
+    "4",
+    "8"
+   ],
+   "start_time": "11:00",
+   "start_place": "Glienicker Chaussee 6, 16567 Schönfließ",
+   "url": "https://www.hdsports.org/laufen/silvester-crosslauf-schoenfliess",
+   "source": "https://www.hdsports.org/laufen/silvester-crosslauf-schoenfliess",
+   "info": "Crosslauf an Silvester mit 8 km, 4 km, 2 km und 0,6 km; Termin 31.12.2026 und Start 11 Uhr laut HDsports.",
+   "checked": "2026-11-08"
   }
  ]
 }
