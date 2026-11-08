@@ -43823,15 +43823,15 @@
    "lat": null,
    "lon": null,
    "date": "2027-02-21",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
    "url": "http://www.vfa-neunkirchen.de/",
    "source": "https://www.runme.de/deutschland/ferraro-gutsweiherlauf-neunkirchen/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 10:45 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 10:45 Uhr). Termin laut Saar-Laufkalender laufdatensaar.de (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:45"
    }
@@ -43846,14 +43846,14 @@
    "lat": 49.215,
    "lon": 6.968,
    "date": "2027-03-14",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "HM"
    ],
    "url": "http://saar05-leichtathletik.de/",
    "source": "https://www.runme.de/deutschland/dak-halbmarathon-saarbruecken/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 10:00 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 10:00 Uhr). Termin laut Saar-Laufkalender laufdatensaar.de (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:00"
    }
@@ -43868,15 +43868,15 @@
    "lat": 49.243,
    "lon": 6.976,
    "date": "2027-03-20",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "6",
     "10"
    ],
    "url": "http://www.tvrusshuette.de",
    "source": "https://www.runme.de/deutschland/freundschaftslauf-ikk-run-up-russhuette/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 15:00 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 15:00 Uhr). Termin laut Saar-Laufkalender laufdatensaar.de (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "15:00"
    }
@@ -43891,15 +43891,15 @@
    "lat": 49.466,
    "lon": 7.168,
    "date": "2027-05-09",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
    "url": "https://www.ltf.de/",
    "source": "https://www.runme.de/deutschland/ikk-wendalinus-radweglauf/",
-   "info": "Termin 09.05.2027 laut SLB-Laufkalender 2027 (LaufdatenSaar, vorläufig), beim Veranstalter noch nicht veröffentlicht. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 11:00 Uhr). Laut SLB-Laufkalender heißt der Lauf St. Wendeler IKK Bahntrassenlauf (Strecken 1, 2, 5 und 10 km); RUNME führte ihn als IKK Wendalinus-Radweglauf, Ausgabe 2026 am 22.03.2026.",
-   "checked": "2026-11-05",
+   "info": "Termin 09.05.Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 11:00 Uhr). Laut SLB-Laufkalender heißt der Lauf St. Wendeler IKK Bahntrassenlauf (Strecken 1, 2, 5 und 10 km); RUNME führte ihn als IKK Wendalinus-Radweglauf, Ausgabe 2026 am 22.03.2026. Termin laut Saar-Laufkalender laufdatensaar.de (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "11:00"
    },
@@ -43942,15 +43942,15 @@
    "lat": 49.608,
    "lon": 6.97,
    "date": "2027-04-11",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "10",
     "HM"
    ],
    "url": "https://www.runme.de/deutschland/talsperren-halbmarathon/",
    "source": "https://www.runme.de/deutschland/talsperren-halbmarathon/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 10:00 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 10:00 Uhr). Termin laut Saar-Laufkalender laufdatensaar.de (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:00"
    }
@@ -43965,15 +43965,15 @@
    "lat": 49.277,
    "lon": 7.117,
    "date": "2027-04-30",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "4,9",
     "9,7"
    ],
    "url": "http://www.djk-sg-igb.de/",
    "source": "https://www.runme.de/deutschland/st-ingberter-fruehlingslauf/",
-   "info": "Termin 30.04.2027 laut SLB-Laufkalender 2027 (LaufdatenSaar, vorläufig), beim Veranstalter noch nicht veröffentlicht. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (9,7 km um 18:30 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Termin 30.04.Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (9,7 km um 18:30 Uhr). Termin laut Saar-Laufkalender laufdatensaar.de (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "18:30"
    },
@@ -43989,7 +43989,7 @@
    "lat": 49.367,
    "lon": 7.133,
    "date": "2027-04-18",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5,4",
     "10,4",
@@ -43997,14 +43997,15 @@
    ],
    "url": "http://www.garten-reden-haldenlauf-event.net",
    "source": "https://www.runme.de/deutschland/haldenlauf-landsweiler-reden/",
-   "info": "Termin 18.04.2027 laut SLB-Laufkalender 2027 (LaufdatenSaar, vorläufig), beim Veranstalter noch nicht veröffentlicht. Strecken laut RUNME. running.life nennt dafür den 2027-04-18. Startzeit der letzten Ausgabe laut RUNME (10,4 km um 09:30 Uhr). Ausgabe 2026 (26.04.2026): Online-Voranmeldung bis 23.04.2026, Start und Ziel am Erlebnisort Reden, Landsweiler-Reden",
-   "checked": "2026-11-05",
+   "info": "Termin 18.04.Strecken laut RUNME. running.life nennt dafür den 2027-04-18. Startzeit der letzten Ausgabe laut RUNME (10,4 km um 09:30 Uhr). Ausgabe 2026 (26.04.2026): Online-Voranmeldung bis 23.04.2026, Start und Ziel am Erlebnisort Reden, Landsweiler-Reden. Termin laut Saar-Laufkalender laufdatensaar.de (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "09:30",
     "pickup": "Startunterlagen am Veranstaltungstag ab 08:15 Uhr bei der Anmeldung"
    },
    "prev_date": "2026-04-26",
-   "late_reg": "Nachmeldung vor Ort bis 45 Minuten vor dem jeweiligen Start, Nachmeldegebühr 5 € (Schülerläufe 1 €) (Ausgabe 2026)"
+   "late_reg": "Nachmeldung vor Ort bis 45 Minuten vor dem jeweiligen Start, Nachmeldegebühr 5 € (Schülerläufe 1 €) (Ausgabe 2026)",
+   "start_place": "Erlebnisort Reden, Alexander-von-Humboldt-Straße, Schiffweiler-Landsweiler-Reden"
   },
   {
    "id": "globus-marathon-st-wendel-2027",
@@ -44016,7 +44017,7 @@
    "lat": 49.466,
    "lon": 7.168,
    "date": "2027-04-25",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10",
@@ -44025,8 +44026,8 @@
    ],
    "url": "https://www.sankt-wendel.de/",
    "source": "https://www.runme.de/deutschland/globus-marathon-st-wendel/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 09:15 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 09:15 Uhr). Termin laut Saar-Laufkalender laufdatensaar.de (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "09:15"
    }
@@ -44041,15 +44042,15 @@
    "lat": 49.246,
    "lon": 7.002,
    "date": "2027-05-22",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "4,5",
     "10"
    ],
    "url": "http://www.saarbruecker-frauenlauf.de",
    "source": "https://www.runme.de/deutschland/saarbruecker-frauenlauf-saarbruecken/",
-   "info": "Termin 22.05.2027 laut SLB-Laufkalender 2027 (LaufdatenSaar, vorläufig), beim Veranstalter noch nicht veröffentlicht. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 15:00 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Termin 22.05.Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 15:00 Uhr). Termin laut Saar-Laufkalender laufdatensaar.de (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "15:00"
    },
@@ -44065,15 +44066,15 @@
    "lat": 49.229,
    "lon": 7.012,
    "date": "2027-05-23",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
    "url": "https://saar05-leichtathletik.de/",
    "source": "https://www.runme.de/deutschland/sparkassen-city-lauf/",
-   "info": "Termin 23.05.2027 laut SLB-Laufkalender 2027 (LaufdatenSaar, vorläufig), beim Veranstalter noch nicht veröffentlicht. Strecken laut RUNME. running.life nennt dafür den 2027-05-23. Startzeit der letzten Ausgabe laut RUNME (5 km um 09:30 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Termin 23.05.Strecken laut RUNME. running.life nennt dafür den 2027-05-23. Startzeit der letzten Ausgabe laut RUNME (5 km um 09:30 Uhr). Termin laut Saar-Laufkalender laufdatensaar.de (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "09:30"
    },
@@ -44097,8 +44098,12 @@
    "url": "http://www.llgwustweiler.de",
    "source": "https://www.runme.de/deutschland/illinger-citylauf-illingen/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 17:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "17:00"
+   "checked": "2026-11-08",
+   "start_time": "17:00",
+   "fee": "5 km 7 €, 10 km 10 €; keine Nachmeldegebühr",
+   "showers": "Duschen vor Ort",
+   "parking": "Parkplätze vor Ort",
+   "pickup": "Ab 14:30 Uhr"
   },
   {
    "id": "saarbrueckenlauf-2027",
@@ -44110,15 +44115,15 @@
    "lat": 49.209,
    "lon": 7.02,
    "date": "2027-06-13",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "10",
     "20"
    ],
    "url": "https://www.saarbrueckenlauf.de",
    "source": "https://www.runme.de/deutschland/saarbrueckenlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 10:00 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 10:00 Uhr). Termin laut Saar-Laufkalender laufdatensaar.de (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:00"
    }
@@ -44133,14 +44138,14 @@
    "lat": 49.541,
    "lon": 6.888,
    "date": "2027-06-11",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "10"
    ],
    "url": "http://www.fc-noswendel-wadern.de/",
    "source": "https://www.runme.de/deutschland/haco-stadtlauf-wadern-noswendel-wadern/",
-   "info": "Termin 11.06.2027 laut SLB-Laufkalender 2027 (LaufdatenSaar, vorläufig), beim Veranstalter noch nicht veröffentlicht. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 19:00 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Termin 11.06.Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 19:00 Uhr). Termin laut Saar-Laufkalender laufdatensaar.de (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "19:00"
    },
@@ -44200,15 +44205,15 @@
    "lat": 49.252,
    "lon": 6.859,
    "date": "2027-06-20",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "8",
     "10"
    ],
    "url": "http://www.sonnwendlauf.eu",
    "source": "https://www.runme.de/deutschland/koellertaler-sonnwendlauf-voelklingen/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 09:30 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 09:30 Uhr). Termin laut Saar-Laufkalender laufdatensaar.de (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "09:30"
    }
@@ -44223,15 +44228,15 @@
    "lat": 49.411,
    "lon": 6.91,
    "date": "2027-06-25",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
    "url": "http://www.tv-lebach.de",
    "source": "https://www.runme.de/deutschland/lebacher-stadtlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 17:30 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 17:30 Uhr). Termin laut Saar-Laufkalender laufdatensaar.de (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "17:30"
    }
@@ -44258,7 +44263,7 @@
    "anmeldung_url": "https://my.raceresult.com/420547/",
    "source": "https://trailfest.de/infos/",
    "info": "Termin, Strecken, Startgeld und Zeiten laut Veranstalterseite trailfest.de. 26.-27. Juni 2027: Samstag 100 km um 04:00 Uhr in Losheim, 51 und 76 km um 09:00 Uhr in Mettlach (Shuttle ab Tourist-Info Losheim 7:30 Uhr), 14 km um 17:00 Uhr; Sonntag 24 km und Trail-Wandern 24 km (Wandernde 07:00 Uhr, Läufer 09:00 Uhr). Anmeldung seit 11.10.2026, Teilnehmerzahl je Strecke und Tag begrenzt, Briefing 15 Minuten vor dem Start Pflicht, keine Hunde auf der Strecke",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "end": "2027-06-27",
    "elevation": [
     355,
@@ -44272,7 +44277,8 @@
    "reg_close": "2027-06-23",
    "fee": "Je nach Strecke: Anmeldung bis 31.05. von 15 € bis 98 €, bis 23.06. von 20 € bis 105 €, Nachmeldung von 25 € bis 110 € (genaue Aufteilung auf die Strecken auf trailfest.de/infos); KidsRun kostenlos; Shuttle Losheim–Mettlach im Startgeld enthalten",
    "late_reg": "Nachmeldung nach dem 23.06. gegen höhere Gebühr (25 € bis 110 € je nach Strecke)",
-   "start_place": "Eventgelände am Stausee Losheim (Ziel aller Strecken); Start 51 und 76 km in Mettlach am Cloef-Atrium Orscholz"
+   "start_place": "Eventgelände am Stausee Losheim (Ziel aller Strecken); Start 51 und 76 km in Mettlach am Cloef-Atrium Orscholz",
+   "pickup": "Mit der Startnummer-Mail; Kontrolle der Pflichtausrüstung bei der Ausgabe (T 100 bereits Freitag 17:30–19:30 Uhr)"
   },
   {
    "id": "saarland-mittelpunktlauf-2027",
@@ -44306,7 +44312,7 @@
    "lat": 49.541,
    "lon": 6.888,
    "date": "2027-07-25",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10",
@@ -44314,8 +44320,8 @@
    ],
    "url": "http://www.fc-noswendel-wadern.de",
    "source": "https://www.runme.de/deutschland/deko-volkslauf-noswendel/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 09:00 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 09:00 Uhr). Termin laut Saar-Laufkalender laufdatensaar.de (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "09:00"
    }
@@ -44363,7 +44369,7 @@
    "url": "http://www.hartfuesslertrail.de/",
    "source": "https://www.hartfuesslertrail.de/infos",
    "info": "Sonntag, 29.08.2027 laut Veranstalterseite hartfuesslertrail.de, Anmeldung öffnet laut Seite in Kürze. Ausgabe 2026: Start 58 km 08:00, 30 km 10:00, 14 km und 7,5 km 11:00 Uhr, Zielschluss 18:00 Uhr, Mindestalter 12 / 16 / 18 Jahre, keine Hunde, Stöcke erlaubt",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "08:00",
     "fee": "Anmeldung bis 31.07.: 7,5 km 14 €, 14 km 20 €, 30 km 35 €, 58 km 58 €; bis 22.08.: 18 € / 25 € / 40 € / 63 €; Nachmeldung 23 € / 30 € / 45 € / 70 €",
@@ -44377,7 +44383,9 @@
     1654
    ],
    "start_place": "Von der Heydt, Schule für soziale Entwicklung, Von der Heydt 9a, 66115 Saarbrücken",
-   "showers": "Duschen und Umkleiden in der Schule (Ausgabe 2026)"
+   "showers": "Duschen und Umkleiden in der Schule (Ausgabe 2026)",
+   "reg_close": "2027-08-22",
+   "parking": "Begrenzte, von Ordnern zugewiesene Parkplätze (mindestens 15 Minuten Fußweg); Navi: Von der Heydt 9a, Saarbrücken; Anreise mit Bus und Bahn empfohlen"
   },
   {
    "id": "dm-frauenlauf-saarlouis-2027",
@@ -44396,12 +44404,13 @@
    "url": "http://www.frauenlauf-saarlouis.de/",
    "source": "https://www.runme.de/deutschland/frauenlauf-saarlouis/",
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 18:00 Uhr). Ausgabe 2026 (Freitag, 28.08.2026): Start 18:00 Uhr Läuferinnen, 18:05 Uhr Walkerinnen am Kleinen Markt, Online-Anmeldeschluss 10.08., Startunterlagen an zwei Terminen kurz vor dem Lauf, Nachmeldung dort möglich",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "18:00",
     "fee": "26 € bei Anmeldung bis 11.05.2026, 28,50 € bis 10.08.2026, Nachmeldung 32 € (jeweils inklusive MwSt., mit T-Shirt)"
    },
-   "prev_date": "2026-08-28"
+   "prev_date": "2026-08-28",
+   "charity": "Je Läuferin 1 € an soziale Projekte und Vereine, Charity-Partner ist die DKMS"
   },
   {
    "id": "limlauf-2027",
@@ -44413,7 +44422,7 @@
    "lat": 49.283,
    "lon": 7.233,
    "date": "2027-08-28",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5,3",
     "10",
@@ -44421,8 +44430,8 @@
    ],
    "url": "https://www.tv-limbach.de/",
    "source": "https://www.runme.de/deutschland/halbmarathon-limlauf-limbach/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,3 km um 17:30 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,3 km um 17:30 Uhr). Termin laut Saar-Laufkalender laufdatensaar.de (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "17:30"
    }
@@ -44437,15 +44446,15 @@
    "lat": 49.326,
    "lon": 7.339,
    "date": "2027-09-09",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
    "url": "http://www.cjd-homburg.de/",
    "source": "https://www.runme.de/deutschland/fohlenhoflauf-homburg-saar/",
-   "info": "Termin 09.09.2027 laut SLB-Laufkalender 2027 (LaufdatenSaar, vorläufig), beim Veranstalter noch nicht veröffentlicht. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 18:25 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Termin 09.09.Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 18:25 Uhr). Termin laut Saar-Laufkalender laufdatensaar.de (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "18:25"
    },
@@ -44461,7 +44470,7 @@
    "lat": 49.443,
    "lon": 6.639,
    "date": "2027-09-05",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "15",
@@ -44469,8 +44478,8 @@
    ],
    "url": "http://www.merziger-sport-freizeitverein.de",
    "source": "https://www.runme.de/deutschland/saarschleifenland-lauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (15 km um 10:15 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (15 km um 10:15 Uhr). Termin laut Saar-Laufkalender laufdatensaar.de (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:15"
    }
@@ -44495,7 +44504,8 @@
    "url": "http://www.miteinander-gegen-krebs.de/",
    "source": "https://www.runme.de/deutschland/cross-against-cancer/",
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "charity": "Spendenlauf des gemeinnützigen Vereins Miteinander gegen Krebs e.V."
   },
   {
    "id": "freundschaftslauf-wadgassen-2027",
@@ -44532,14 +44542,14 @@
    "lat": 49.401,
    "lon": 7.164,
    "date": "2027-09-18",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5"
    ],
    "url": "http://www.tvo-leichtathletik.de/",
    "source": "https://www.runme.de/deutschland/aok-altstadtlauf-ottweiler/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (2,5 km um 16:30 Uhr). Ausgabe 2026: Start 5-km-Läufe 16:30 Uhr, Hauptlauf 5 km (SLB-Meisterschaften) 17:30 Uhr, dazu Kinder- und Jugendläufe ab 15:30 Uhr; Anmeldung online über den TV Ottweiler",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (2,5 km um 16:30 Uhr). Ausgabe 2026: Start 5-km-Läufe 16:30 Uhr, Hauptlauf 5 km (SLB-Meisterschaften) 17:30 Uhr, dazu Kinder- und Jugendläufe ab 15:30 Uhr; Anmeldung online über den TV Ottweiler. Termin laut Saar-Laufkalender laufdatensaar.de (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "16:30",
     "fee": "5 km 7 € bei Anmeldung bis 17.09.2026, danach 9 €; 2,5 km 4 € / 6 €; 1 km 4 € / 6 €; Bambinilauf 550 m 2 € / 4 €",
@@ -44558,15 +44568,15 @@
    "lat": 49.443,
    "lon": 6.639,
    "date": "2027-09-19",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
    "url": "http://www.ceb-akademie.de/",
    "source": "https://www.runme.de/deutschland/saarwiesen-lauf-hilbringen/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:15 Uhr). Ausgabe 2026 (20.09.2026): Anmeldung bis 18.09. 12 Uhr; Start 9:45 Uhr Schülerlauf, 10:15 Uhr 5 km, 11:00 Uhr Staffel, 11:05 Uhr 10 km",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:15 Uhr). Ausgabe 2026 (20.09.2026): Anmeldung bis 18.09. 12 Uhr; Start 9:45 Uhr Schülerlauf, 10:15 Uhr 5 km, 11:00 Uhr Staffel, 11:05 Uhr 10 km. Termin laut Saar-Laufkalender laufdatensaar.de (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:15",
     "fee": "5 und 10 km Erwachsene 6 €, Schüler und Jugendliche 3 €; 1,8-km-Schülerlauf frei; Staffel 4 x 2,5 km 12 €",
@@ -44575,7 +44585,8 @@
    "prev_date": "2026-09-20",
    "parking": "Kostenfreie Parkplätze im Innenhof, vor dem Gebäude und am Sportplatz (Ausgabe 2026)",
    "showers": "Duschen im CEB Fortbildungszentrum (Ausgabe 2026)",
-   "late_reg": "Nachmeldung am Veranstaltungstag bis etwa 1 Stunde vor dem Start (Ausgabe 2026)"
+   "late_reg": "Nachmeldung am Veranstaltungstag bis etwa 1 Stunde vor dem Start (Ausgabe 2026)",
+   "charity": "Benefizlauf: Die Einnahmen gingen 2026 an die Elterninitiative krebskranker Kinder und an „Rabeas Traum“"
   },
   {
    "id": "lauf-mit-inklusiv-bewegt-2027",
@@ -44633,15 +44644,15 @@
    "lat": 49.314,
    "lon": 6.752,
    "date": "2027-09-26",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
    "url": "http://www.lsg-saarlouis.de",
    "source": "https://www.runme.de/deutschland/saarlouiser-saaraltarm-lauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 09:30 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 09:30 Uhr). Termin laut Saar-Laufkalender laufdatensaar.de (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "09:30"
    }
@@ -44656,7 +44667,7 @@
    "lat": 49.246,
    "lon": 7.002,
    "date": "2027-09-26",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "7,5",
@@ -44664,8 +44675,8 @@
    ],
    "url": "https://www.uno-urban-cross.de/",
    "source": "https://www.runme.de/deutschland/sofis-city-cross/",
-   "info": "Termin 26.09.2027 laut SLB-Laufkalender 2027 (LaufdatenSaar, vorläufig), beim Veranstalter noch nicht veröffentlicht. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (7,5 km um 09:15 Uhr). Ausgabe 2026 (04.10.2026): Anmeldung 01.06. bis 29.09.2026, Start 10:40 Uhr (2,5 km), 11:00 Uhr (5 km) laut Veranstalter; keine Umkleiden, Kleiderbeutelabgabe möglich; Startgelder gehen an den LAZ Saarbrücken",
-   "checked": "2026-11-05",
+   "info": "Termin 26.09.Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (7,5 km um 09:15 Uhr). Ausgabe 2026 (04.10.2026): Anmeldung 01.06. bis 29.09.2026, Start 10:40 Uhr (2,5 km), 11:00 Uhr (5 km) laut Veranstalter; keine Umkleiden, Kleiderbeutelabgabe möglich; Startgelder gehen an den LAZ Saarbrücken. Termin laut Saar-Laufkalender laufdatensaar.de (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "09:15",
     "fee": "2,5 km 17 € (Team 26 €, Gruppe 30 €); 5 km 19 € (Team 30 €); 7,5 km 22 € (Team 35 €); 10 km 25 € (Team 40 €); UNO-Konto-Inhaber 4 € Rabatt auf Einzelläufe",
@@ -44704,7 +44715,7 @@
    "lat": 49.209,
    "lon": 7.02,
    "date": "2027-10-10",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10",
@@ -44713,8 +44724,8 @@
    ],
    "url": "http://www.westspangenlauf.de",
    "source": "https://www.runme.de/deutschland/saarbruecker-sparkassen-westspangenlauf-saarbruecken/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (42,195 km um 09:30 Uhr). Ausgabe 2026 (11.10.2026): Voranmeldung bis 27.09. mit Zahlung, Online-Nachmeldung bis 08.10., danach Nachmeldung bis 30 Minuten vor dem Start nur für Restplätze, Anmeldung über Racepedia; Marathon mit Landesmeisterschaften",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (42,195 km um 09:30 Uhr). Ausgabe 2026 (11.10.2026): Voranmeldung bis 27.09. mit Zahlung, Online-Nachmeldung bis 08.10., danach Nachmeldung bis 30 Minuten vor dem Start nur für Restplätze, Anmeldung über Racepedia; Marathon mit Landesmeisterschaften. Termin laut Saar-Laufkalender laufdatensaar.de (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "09:30",
     "fee": "Marathon 30 € bis 31.01.2026, 36 € bis 31.05., 42 € bis 27.09., danach 45 €; Halbmarathon 15 € / 18 € / 21 € / danach 24 €; 10 km 10 € (danach 13 €); 5 km 5 € (danach 8 €); 1-km-Schülerlauf 1 € (danach 4 €)",
@@ -44735,14 +44746,14 @@
    "lat": 49.4,
    "lon": 6.7,
    "date": "2027-10-31",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5,1"
    ],
    "url": "https://www.hdsports.org/laufen/halloween-lauf",
    "source": "https://www.hdsports.org/laufen/halloween-lauf",
-   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
-   "checked": "2026-11-05"
+   "info": "Termin laut Saar-Laufkalender laufdatensaar.de (Stand 08.11.2026).",
+   "checked": "2026-11-08"
   },
   {
    "id": "mitlosheimer-silvesterlauf-2027",
@@ -44754,15 +44765,15 @@
    "lat": 49.5326,
    "lon": 6.7759,
    "date": "2027-01-02",
-   "confirmed": false,
+   "confirmed": true,
    "prev_date": "2026-01-03",
    "distances": [
     "7,3"
    ],
    "url": "http://www.spvgg-mitlosheim.de",
    "source": "https://www.laufdatensaar.de/home/index.php?men=4",
-   "info": "Termin 02.01.2027 laut SLB-Laufkalender 2027 (LaufdatenSaar, vorläufig); Strecken laut Kalender, Details beim Veranstalter noch nicht veröffentlicht.",
-   "checked": "2026-11-05"
+   "info": "Termin 02.01. Termin laut Saar-Laufkalender laufdatensaar.de (Stand 08.11.2026).",
+   "checked": "2026-11-08"
   },
   {
    "id": "freundschaftslauf-selbach-2027",
@@ -44774,7 +44785,7 @@
    "lat": 49.5379,
    "lon": 7.0377,
    "date": "2027-06-04",
-   "confirmed": false,
+   "confirmed": true,
    "prev_date": "2026-06-05",
    "distances": [
     "6",
@@ -44782,8 +44793,8 @@
    ],
    "url": "http://fc-selbach.de/lauftreff/start.html",
    "source": "https://www.laufdatensaar.de/home/index.php?men=4",
-   "info": "Termin 04.06.2027 laut SLB-Laufkalender 2027 (LaufdatenSaar, vorläufig); Strecken laut Kalender, Details beim Veranstalter noch nicht veröffentlicht.",
-   "checked": "2026-11-05"
+   "info": "Termin 04.06. Termin laut Saar-Laufkalender laufdatensaar.de (Stand 08.11.2026).",
+   "checked": "2026-11-08"
   },
   {
    "id": "crosslauf-idar-oberstein-weierbach-2026",
@@ -44998,12 +45009,13 @@
    "url": "https://deulux-lauf.de/",
    "source": "https://www.runme.de/deutschland/deulux-lauf-langsur/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10 km um 15:00 Uhr, frühester Lauf ab 5 km). Anmeldeschluss für die 10 km Rheinland-Pfalz-Meisterschaft schon am Samstag, 07.11.2026; die Läufe der Kinder und Jugend sind startgeldfrei",
-   "checked": "2026-11-07",
+   "checked": "2026-11-08",
    "start_time": "15:00",
    "reg_close": "2026-11-11",
    "late_reg": "Keine Nachmeldungen möglich, auch nicht am Veranstaltungstag",
    "pickup": "Startnummern am Freitag von 18 bis 20 Uhr im Vereinshaus des SV Langsur (Brüderwies am Sportplatz)",
-   "showers": "Duschen und Umkleiden in der großen Turnhalle"
+   "showers": "Duschen und Umkleiden in der großen Turnhalle",
+   "parking": "Kostenloses Park & Ride vom P&R-Parkplatz Mesenich/Grenze (A1/A64, Abfahrt Wasserbillig) nach Langsur"
   },
   {
    "id": "mabithon-2026",
@@ -45044,8 +45056,8 @@
    ],
    "url": "http://www.tusglanmuenchweiler.de/",
    "source": "https://www.runme.de/deutschland/potzberg-berglauf-gimsbach/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (8,2 km um 14:30 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (8,2 km um 14:30 Uhr, frühester Lauf ab 5 km). Beginn laut Terminliste des LV Pfalz.",
+   "checked": "2026-11-08",
    "start_time": "14:30"
   },
   {
@@ -45065,9 +45077,10 @@
    ],
    "url": "http://www.tv-herxheim.de/",
    "source": "https://www.runme.de/deutschland/nikolaus-crosslauf/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 11:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "11:00"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 11:00 Uhr, frühester Lauf ab 5 km). Beginn laut Terminliste des LV Pfalz.",
+   "checked": "2026-11-08",
+   "start_time": "11:00",
+   "reg_close": "2026-11-08"
   },
   {
    "id": "int-brubbellauf-2026",
@@ -45086,10 +45099,12 @@
    "url": "http://www.brubbellauf.de/",
    "source": "https://www.runme.de/deutschland/int-brubbellauf-wallenborn/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10,2 km um 18:30 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-07",
+   "checked": "2026-11-08",
    "start_time": "18:30",
    "fee": "Erwachsene 7 €, Schüler/Jugend 4 €, Bambini frei",
-   "reg_close": "2026-11-20"
+   "reg_close": "2026-11-20",
+   "showers": "Umkleiden und Duschen im Umkleidegebäude des SV 1948 Wallenborn",
+   "start_place": "Sportgelände Wallenborn"
   },
   {
    "id": "kalmit-berglauf-2026",
@@ -45107,8 +45122,8 @@
    ],
    "url": "http://www.tv-maikammer.de",
    "source": "https://www.runme.de/deutschland/kalmit-berglauf-maikammer/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (8,3 km um 14:15 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (8,3 km um 14:15 Uhr, frühester Lauf ab 5 km). Beginn laut Terminliste des LV Pfalz.",
+   "checked": "2026-11-08",
    "start_time": "14:15"
   },
   {
@@ -45172,8 +45187,9 @@
    "url": "https://atleta.cc/e/yzea1HAzSLFw",
    "source": "https://running.life/de/termine/advents-charity-run-salmtal",
    "info": "Termin und Strecken laut running.life/gotrail.run.",
-   "checked": "2026-11-05",
-   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
+   "checked": "2026-11-08",
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf",
+   "reg_close": "2026-11-22"
   },
   {
    "id": "argenthaler-quarzit-adventstrail-2026",
@@ -45193,8 +45209,9 @@
    "url": "https://www.llghunsrueck.de/",
    "source": "https://www.runme.de/deutschland/argenthaler-quarzit-adventstrail/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (17,6 km um 10:45 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "10:45"
+   "checked": "2026-11-08",
+   "start_time": "10:45",
+   "reg_close": "2026-11-25"
   },
   {
    "id": "flonheimer-adventslauf-2026",
@@ -45220,7 +45237,8 @@
    "late_reg": "Keine Nachmeldungen am Veranstaltungstag, nach Meldeschluss keine Teilnahme mehr",
    "start_place": "Marktplatz / Rathaus Flonheim",
    "showers": "Umkleiden in der Schulgasse (Pavillon in der Nähe des Marktplatzes)",
-   "start_time": "11:00"
+   "start_time": "11:00",
+   "charity": "Sämtliche Startgelder gehen an den Verein Krebskranke Kinder Mainz e.V."
   },
   {
    "id": "weihnachtsmarktlauf-landstuhl-2026",
@@ -45239,9 +45257,11 @@
    "url": "http://www.llg-landstuhl.de",
    "source": "https://www.runme.de/deutschland/weihnachtsmarktlauf-landstuhl/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (7,6 km um 13:00 Uhr, frühester Lauf ab 5 km). Start 12:30 Uhr Schülerlauf, 13:00 Uhr Hauptlauf; Startgeld laut Anmeldeportal RaceResult am 05.11.2026",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "start_time": "13:00",
-   "fee": "13 € (Hauptlauf 7,6 km), 6 € (Schülerlauf 1,3 km)"
+   "fee": "13 € (Hauptlauf 7,6 km), 6 € (Schülerlauf 1,3 km)",
+   "reg_open": "2026-10-07",
+   "reg_close": "2026-11-27"
   },
   {
    "id": "nikolauslauf-des-alv-mainz-2026",
@@ -45281,9 +45301,10 @@
    ],
    "url": "https://lc-hassloch.de/",
    "source": "https://www.runme.de/deutschland/plopsa-nikolauslauf-by-lch/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (21,0975 km um 11:20 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "11:20"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (21,0975 km um 11:20 Uhr, frühester Lauf ab 5 km). Beginn laut Terminliste des LV Pfalz.",
+   "checked": "2026-11-08",
+   "start_time": "11:20",
+   "start_place": "Im Freizeitpark in Haßloch, Strecke durch den Haßlocher Wald"
   },
   {
    "id": "eifellauf-pronsfeld-2026",
@@ -45332,7 +45353,8 @@
    "late_reg": "Keine Nachmeldung vor Ort am Tag des Laufes",
    "start_place": "Schulcampus IGS Rheinzabern (Start und Ziel)",
    "sold_out": true,
-   "fee": "12 € je Lauf (Jahrgang 2014 und älter); Serienläufer erhalten nur eine Startnummer. Rahmenprogramm: 5 km 7 € (9 € ab 05.01.2027), 300 m 2 €, 1000 m 4 €"
+   "fee": "12 € je Lauf (Jahrgang 2014 und älter); Serienläufer erhalten nur eine Startnummer. Rahmenprogramm: 5 km 7 € (9 € ab 05.01.2027), 300 m 2 €, 1000 m 4 €",
+   "pickup": "Ab 8:30 Uhr in der IGS-Sporthalle"
   },
   {
    "id": "zeller-raiffeisenbank-adventslauf-2026",
@@ -45372,7 +45394,8 @@
    "url": "https://www.hdsports.org/laufen/crosslaufserie-kreis-bernkastel-wittlich-2",
    "source": "https://www.hdsports.org/laufen/crosslaufserie-kreis-bernkastel-wittlich-2",
    "info": "Termin und Strecken laut HDsports.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "reg_close": "2026-12-19"
   },
   {
    "id": "baerenfels-heiligabend-lauf-trail-marathon-mit-10-meilen-und-hauptlauf-8km-2026",
@@ -45412,7 +45435,12 @@
    "url": "https://silvesterlauf.de/",
    "source": "https://www.runme.de/deutschland/int-bitburger-silvesterlauf-trier/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "reg_close": "2026-12-20",
+   "showers": "Duschen und Umkleiden im Bereich der Startnummernausgabe (Sichelstraße 3–5)",
+   "parking": "Parkhäuser rund um die Innenstadt",
+   "pickup": "Sporthalle des Max-Planck-Gymnasiums (Sichelstraße 3–5): 30.12. nachmittags bis 19 Uhr und 31.12. ab 10 Uhr, jeweils bis 1 Stunde vor dem Lauf",
+   "start_place": "Hauptmarkt Trier"
   },
   {
    "id": "int-silvester-strassenlauf-kottweiler-schwanden-2026",
@@ -45430,11 +45458,13 @@
    ],
    "url": "https://www.sv-kottweiler-schwanden.de/",
    "source": "https://www.runme.de/deutschland/internationaler-silvester-strassenlauf-kottweiler-schwanden/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10 km um 14:20 Uhr, frühester Lauf ab 5 km). Startgeld laut Anmeldeportal RaceResult am 05.11.2026",
-   "checked": "2026-11-05",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10 km um 14:20 Uhr, frühester Lauf ab 5 km). Startgeld laut Anmeldeportal RaceResult am 05.11.2026. Beginn laut Terminliste des LV Pfalz.",
+   "checked": "2026-11-08",
    "start_time": "14:20",
    "reg_close": "2026-12-28",
-   "fee": "10 € bei Voranmeldung bis 28.12., 12 € bei Nachmeldung ab 29.12.; Jugendliche 6 €"
+   "fee": "10 € bei Voranmeldung bis 28.12., 12 € bei Nachmeldung ab 29.12.; Jugendliche 6 €",
+   "pickup": "29. und 30.12.2026, jeweils 16–18 Uhr (Online-Voranmeldungen und Nachmeldungen)",
+   "reg_open": "2026-11-01"
   },
   {
    "id": "muenz-silvesterlauf-2026",
@@ -45454,11 +45484,13 @@
    "url": "https://muenz-sport.de/",
    "source": "https://www.runme.de/deutschland/muenz-silvesterlauf-montabaur/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 10:00 Uhr, frühester Lauf ab 5 km). Startzeit der letzten Ausgabe laut Veranstalterseite (10:00 Uhr)",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "start_time": "10:00",
    "prev": {
     "start_time": "10:00"
-   }
+   },
+   "parking": "Kostenlose Parkplätze mit Shuttle zum Veranstaltungsgelände",
+   "pickup": "Versand am 16.12.2026 für frühere Anmeldungen, sonst Abholung 17.–30.12.2026 bei LEX Laufexperten Meddys Laufladen"
   },
   {
    "id": "silvesterlauf-2026",
@@ -45518,9 +45550,10 @@
    ],
    "url": "http://www.lcschifferstadt.de",
    "source": "https://www.runme.de/deutschland/silvesterlauf-schifferstadt/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 14:07 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "14:07"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 14:07 Uhr, frühester Lauf ab 5 km). Beginn laut Terminliste des LV Pfalz.",
+   "checked": "2026-11-08",
+   "start_time": "14:07",
+   "showers": "Duschen in der alten Kreissporthalle (begrenzt, je eine für Frauen reserviert)"
   },
   {
    "id": "silvesterlauf-tus-waldboeckelheim-2026",
@@ -45576,19 +45609,20 @@
    "kreis": "LK Mainz-Bingen",
    "lat": 49.88,
    "lon": 8.265,
-   "date": "2027-01-04",
-   "confirmed": false,
+   "date": "2027-01-10",
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
    "url": "http://www.tv-dolgesheim.de/",
    "source": "https://www.runme.de/deutschland/neujahrslauf-dolgesheim/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-01-09. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:30 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME.Startzeit der letzten Ausgabe laut RUNME (5 km um 10:30 Uhr). Termin laut Laufkalender des LV Rheinhessen-Rheinland (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:30"
-   }
+   },
+   "start_time": "10:30"
   },
   {
    "id": "eifellauf-wissmannsdorf-2027",
@@ -45609,8 +45643,9 @@
    "url": "http://www.eifellauf.de/",
    "source": "https://www.runme.de/deutschland/eifellauf-wissmannsdorf/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (7 km um 14:30 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "14:30"
+   "checked": "2026-11-08",
+   "start_time": "14:30",
+   "reg_close": "2027-01-09"
   },
   {
    "id": "ludwigshafener-neujahrslauf-2027",
@@ -45651,8 +45686,9 @@
    "url": "http://302510.webhosting47.1blu.de/nahecross/",
    "source": "https://www.runme.de/deutschland/nahe-crosslauf-serie-oberbrombach/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (7,4 km um 15:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "15:00"
+   "checked": "2026-11-08",
+   "start_time": "15:00",
+   "reg_close": "2027-01-06"
   },
   {
    "id": "crosslauf-mehren-crosslaufserie-vulkaneifel-sparkassen-cup-2027",
@@ -45687,19 +45723,20 @@
    "lat": 49.116328,
    "lon": 8.2765169,
    "date": "2027-01-10",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "15"
    ],
    "url": "https://winterlauf.tv-rheinzabern.de/",
    "source": "https://running.life/de/termine/winterlaufserie-rheinzabern/2027-01-10",
-   "info": "Termin und Strecken laut running.life/gotrail.run. Laufserie des TV Rheinzabern mit drei Läufen über 10 km (13.12.2026), 15 km (10.01.2027) und 20 km (07.02.2027). Startgeld laut Anmeldeportal RaceResult am 05.11.2026",
-   "checked": "2026-11-05",
+   "info": "Termin und Strecken laut running.life/gotrail.run. Laufserie des TV Rheinzabern mit drei Läufen über 10 km (13.12.2026), 15 km (10.01.2027) und 20 km (07.02.2027). Startgeld laut Anmeldeportal RaceResult am 05.11.2026. Termin 10.01.2027 (15 km, Start 10:50 Uhr) laut Veranstalterseite.",
+   "checked": "2026-11-08",
    "start_time": "10:50",
    "limit": "Max. 1.500 Teilnehmer je Lauf",
    "late_reg": "Keine Nachmeldung vor Ort am Tag des Laufes",
    "start_place": "Schulcampus IGS Rheinzabern (Start und Ziel)",
-   "fee": "12 € je Lauf (Jahrgang 2014 und älter); Serienläufer erhalten nur eine Startnummer. Rahmenprogramm: 5 km 7 € (9 € ab 05.01.2027), 300 m 2 €, 1000 m 4 €"
+   "fee": "12 € je Lauf (Jahrgang 2014 und älter); Serienläufer erhalten nur eine Startnummer. Rahmenprogramm: 5 km 7 € (9 € ab 05.01.2027), 300 m 2 €, 1000 m 4 €",
+   "pickup": "Ab 8:30 Uhr in der IGS-Sporthalle"
   },
   {
    "id": "crosslaufserie-kreis-bernkastel-wittlich-lauf-bengel-2027",
@@ -45786,8 +45823,9 @@
    "url": "http://www.ausdauer-shop.de/",
    "source": "https://www.runme.de/deutschland/asdorflauf-kirchen-wehbach/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 14:35 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "14:35"
+   "checked": "2026-11-08",
+   "start_time": "14:35",
+   "reg_close": "2027-01-23"
   },
   {
    "id": "leininger-cross-2027",
@@ -45852,10 +45890,11 @@
    "url": "http://302510.webhosting47.1blu.de/nahecross/",
    "source": "https://www.runme.de/deutschland/nahe-crosslauf-serie-veitsrodt/",
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (7,4 km um 14:45 Uhr).",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "14:45"
-   }
+   },
+   "reg_close": "2027-01-20"
   },
   {
    "id": "freinsheimer-volkslauf-rund-um-den-oschelkopf-2027",
@@ -45918,12 +45957,14 @@
    "url": "https://winterlauf.tv-rheinzabern.de/",
    "source": "https://running.life/de/termine/winterlaufserie-rheinzabern/2027-02-07",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin und Strecken laut running.life/gotrail.run. Laufserie des TV Rheinzabern mit drei Läufen über 10 km (13.12.2026), 15 km (10.01.2027) und 20 km (07.02.2027). Startgeld laut Anmeldeportal RaceResult am 05.11.2026",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "start_time": "10:50",
    "limit": "Max. 1.500 Teilnehmer je Lauf",
    "late_reg": "Keine Nachmeldung vor Ort am Tag des Laufes",
    "start_place": "Schulcampus IGS Rheinzabern (Start und Ziel)",
-   "fee": "12 € je Lauf (Jahrgang 2014 und älter); Serienläufer erhalten nur eine Startnummer. Rahmenprogramm: 5 km 7 € (9 € ab 05.01.2027), 300 m 2 €, 1000 m 4 €"
+   "fee": "12 € je Lauf (Jahrgang 2014 und älter); Serienläufer erhalten nur eine Startnummer. Rahmenprogramm: 5 km 7 € (9 € ab 05.01.2027), 300 m 2 €, 1000 m 4 €",
+   "reg_close": "2027-02-06",
+   "pickup": "Ab 8:30 Uhr in der IGS-Sporthalle"
   },
   {
    "id": "zitronenkraemerlauf-2027",
@@ -45934,20 +45975,24 @@
    "kreis": "LK Trier-Saarburg",
    "lat": 49.833,
    "lon": 6.833,
-   "date": "2027-02-07",
-   "confirmed": false,
+   "date": "2027-01-31",
+   "confirmed": true,
    "distances": [
-    "6,5",
     "6,7",
     "12"
    ],
    "url": "http://bekond.wordpress.com/",
-   "source": "https://www.runme.de/deutschland/zitronenkraemerlauf-bekond/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-01-31. Startzeit der letzten Ausgabe laut RUNME (6,5 km um 11:00 Uhr).",
-   "checked": "2026-11-05",
+   "source": "https://www.chiplauf.de/de/events/18-lauf-zum-zitronenkraemerkreuz-2027",
+   "info": "18. Lauf zum Zitronenkrämerkreuz (Bekond-Aktiv) am 31.01.2027: 6,7 km und 12 km, Start 11:00 Uhr; Anmeldung über chiplauf bis 28.01.2027, 18 Uhr.",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "11:00"
-   }
+   },
+   "start_time": "11:00",
+   "reg_open": "2026-10-23",
+   "reg_close": "2027-01-28",
+   "start_place": "Schulstraße, Bekond",
+   "charity": "Benefizlauf zugunsten der Welthungerhilfe"
   },
   {
    "id": "crosslaufserie-kreis-bernkastel-wittlich-wintrich-2027",
@@ -45966,7 +46011,8 @@
    "url": "https://www.hdsports.org/laufen/crosslaufserie-kreis-bernkastel-wittlich-4",
    "source": "https://www.hdsports.org/laufen/crosslaufserie-kreis-bernkastel-wittlich-4",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin und Strecken laut HDsports.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "reg_close": "2027-02-10"
   },
   {
    "id": "eifellauf-mettendorf-2027",
@@ -46007,10 +46053,11 @@
    "url": "https://www.lernelaufen.de/",
    "source": "https://www.runme.de/deutschland/faschings-crosslauf/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (7 km um 16:40 Uhr).",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "16:40"
-   }
+   },
+   "reg_close": "2027-02-14"
   },
   {
    "id": "eifellauf-nimshuscheid-2027",
@@ -46143,7 +46190,8 @@
    "url": "https://www.hdsports.org/laufen/crosslauf-gerolstein",
    "source": "https://www.hdsports.org/laufen/crosslauf-gerolstein",
    "info": "Termin und Strecken laut HDsports.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "reg_close": "2027-02-27"
   },
   {
    "id": "rhein-lahn-volkslauf-2027",
@@ -46185,8 +46233,9 @@
    "url": "http://www.tvhahnenbach.de/",
    "source": "https://www.runme.de/deutschland/nahe-crosslauf-serie-hahnenbach/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (7,8 km um 15:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "15:00"
+   "checked": "2026-11-08",
+   "start_time": "15:00",
+   "reg_close": "2027-03-03"
   },
   {
    "id": "schweicher-faehrturmlauf-2027",
@@ -46206,8 +46255,9 @@
    "url": "http://www.lauftreff-schweich.de",
    "source": "https://www.runme.de/deutschland/faehrturmlauf-schweich/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 13:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "13:00"
+   "checked": "2026-11-08",
+   "start_time": "13:00",
+   "reg_close": "2027-03-03"
   },
   {
    "id": "ahruferlauf-2027",
@@ -46315,11 +46365,12 @@
    "url": "http://www.mut-zum-wut.de/",
    "source": "https://www.runme.de/deutschland/wiedtal-ultratrail-waldbreitbach/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (65 km um 07:30 Uhr, frühester Lauf ab 5 km). Online-Anmeldung bis 2 Wochen vorher oder bis 80 Starter erreicht sind; Anspruch auf einen Startplatz nur bei Meldung bis 13.02.2027 (4 Wochen vorher). Startgeld laut Anmeldeportal RaceResult am 05.11.2026 (noch 65 Startplätze frei)",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "start_time": "07:30",
    "reg_close": "2027-02-27",
    "limit": "80 Starter",
-   "fee": "45 €"
+   "fee": "45 €",
+   "showers": "Duschmöglichkeit in der Sporthalle Waldbreitbach"
   },
   {
    "id": "bienwald-marathon-kandel-und-48-halbmarathon-powered-by-bitburger-0-0-2027",
@@ -46359,8 +46410,9 @@
    "url": "http://www.lg-esterau.de",
    "source": "https://www.runme.de/deutschland/crosslauf-rund-um-den-hertasee-holzappel/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (8,2 km um 13:20 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "13:20"
+   "checked": "2026-11-08",
+   "start_time": "13:20",
+   "reg_close": "2027-03-08"
   },
   {
    "id": "naheland-lauf-ehemals-seppel-kiefer-gedaechtnislauf-2027",
@@ -46381,14 +46433,15 @@
    "url": "http://www.lauffreunde-naheland.de",
    "source": "https://www.runme.de/deutschland/seppel-kiefer-gedaechtnis-lauf-bad-kreuznach/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (21,0975 km um 10:00 Uhr, frühester Lauf ab 5 km). Ausgabe 2026: Online-Anmeldung bis Meldeschluss 12.03.2026 bei br-timing; Strecken von 400 m bis Halbmarathon, 5 km, 10 km, Walking",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "start_time": "10:00",
    "prev_date": "2026-03-15",
    "showers": "Umkleiden und Duschen im Stadion (Ausgabe 2026)",
    "late_reg": "Nachmeldung bis 60 Minuten vor dem jeweiligen Start, Nachmeldegebühr 2 € (Ausgabe 2026)",
    "prev": {
     "start_place": "Stadion Salinental Bad Kreuznach, Eugen-Kramb-Weg 4"
-   }
+   },
+   "reg_close": "2027-03-08"
   },
   {
    "id": "eifellauf-bitburg-2027",
@@ -46423,7 +46476,7 @@
    "kreis": "LK Trier-Saarburg",
    "lat": 49.859,
    "lon": 6.765,
-   "date": "2027-03-20",
+   "date": "2027-04-10",
    "confirmed": true,
    "distances": [
     "10",
@@ -46432,9 +46485,10 @@
    ],
    "url": "http://www.lg-meulenwald-foehren.de/",
    "source": "https://www.runme.de/deutschland/bendersbachtallauf-foehren/",
-   "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10 km um 15:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "15:00"
+   "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026).Strecken laut RUNME. Startzeit laut RUNME (10 km um 15:00 Uhr, frühester Lauf ab 5 km). Termin laut Laufkalender des LV Rheinhessen-Rheinland (Stand 08.11.2026).",
+   "checked": "2026-11-08",
+   "start_time": "15:00",
+   "reg_close": "2027-04-10"
   },
   {
    "id": "obere-kyll-crosslauf-birgel-2027",
@@ -46453,7 +46507,8 @@
    "url": "https://www.hdsports.org/laufen/crosslauf-birgel",
    "source": "https://www.hdsports.org/laufen/crosslauf-birgel",
    "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "reg_close": "2027-03-18"
   },
   {
    "id": "stairway-to-devil-2027",
@@ -46585,8 +46640,9 @@
    "url": "https://tus-miehlen.de/",
    "source": "https://www.runme.de/deutschland/schinderhanneslauf-miehlen/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 11:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "11:00"
+   "checked": "2026-11-08",
+   "start_time": "11:00",
+   "reg_close": "2027-04-01"
   },
   {
    "id": "polderlauf-2027",
@@ -46695,11 +46751,13 @@
    "url": "https://koblenz-marathon.de/",
    "source": "https://www.runme.de/deutschland/koblenzer-sparkasse-marathon/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Sonntag, 18.04.2027 laut Veranstalter: 08:30 Uhr 10 km, 10:00 Uhr Halbmarathon und Staffel, 14:30 Uhr Kinderlauf",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "start_time": "08:30",
    "fee": "Halbmarathon 45 € (September) bis 60 € (März), Nachmeldung 70 €; 10 km 25 € bis 34 €, Nachmeldung 37 €; Staffel 80 € bis 90 €, Nachmeldung 95 €; Kinderlauf 5 € (Preis steigt monatlich)",
    "start_place": "Deutsches Eck Koblenz (Start und Ziel)",
-   "showers": "Umkleiden, Duschen und Toiletten im Start- und Zielbereich, bewachte Kleiderbeutelabgabe"
+   "showers": "Umkleiden, Duschen und Toiletten im Start- und Zielbereich, bewachte Kleiderbeutelabgabe",
+   "reg_close": "2027-04-11",
+   "pickup": "Freitag und Samstag 16./17.04.2027 auf der Marathonmesse am Deutschen Eck; am Lauftag bis 1 Stunde vor dem Start"
   },
   {
    "id": "rothenberglauf-2027",
@@ -46740,10 +46798,11 @@
    "url": "https://www.chiplauf.de/de/events/viva-bolivia",
    "source": "https://www.runme.de/deutschland/viva-bolivia-spenden-u-inklusionslauf/",
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 13:15 Uhr).",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "13:15"
-   }
+   },
+   "charity": "Spenden- und Inklusionslauf für das Projekt Viva Bolivia"
   },
   {
    "id": "donnersbergtrail-2027",
@@ -46765,10 +46824,15 @@
    "url": "http://test.lc-donnersberg.de/",
    "source": "https://www.runme.de/deutschland/donnersbergtrail/",
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (35 km um 09:00 Uhr).",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "prev": {
-    "start_time": "09:00"
-   }
+    "start_time": "09:00",
+    "fee": "T46 45 €, T33 35 €, T21 25 €, T12 15 € (Nachmeldung 55/45/30/18 €)",
+    "pickup": "Freitag ab 19 Uhr, am Lauftag ab 7:15 Uhr in der Gemeindehalle"
+   },
+   "showers": "In und vor der Gemeindehalle Imsbach",
+   "parking": "Begrenzt an der Gemeindehalle und auf umliegenden Feldern (Einweisung durch Helfer)",
+   "start_place": "Gemeindehalle Imsbach"
   },
   {
    "id": "harthaeuser-waldlauf-2027",
@@ -46811,8 +46875,9 @@
    "url": "http://www.tus-laubach.de",
    "source": "https://www.runme.de/deutschland/laubacher-volkslauf/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 16:15 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "16:15"
+   "checked": "2026-11-08",
+   "start_time": "16:15",
+   "reg_close": "2027-04-23"
   },
   {
    "id": "int-volkslauf-2027",
@@ -46857,10 +46922,11 @@
    "url": "http://www.sgneuhaeusel.de/",
    "source": "https://www.runme.de/deutschland/volkslauf-rund-ums-nonnenheck-neuhaeusel/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Strecken laut RUNME. running.life nennt dafür den 2027-04-24. Startzeit der letzten Ausgabe laut RUNME (5 km um 15:40 Uhr).",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "15:40"
-   }
+   },
+   "reg_close": "2027-04-22"
   },
   {
    "id": "teba-radweglauf-2027",
@@ -46946,7 +47012,7 @@
    "url": "http://chiplauf.de/",
    "source": "https://www.runme.de/deutschland/charity-run-lauf-in-den-mai/",
    "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
   {
@@ -47038,8 +47104,9 @@
    "url": "http://www.halbmarathon-mainz.de/",
    "source": "https://www.runme.de/deutschland/gutenberg-halbmarathon-mainz-motion-events/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10 km um 08:45 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "08:45"
+   "checked": "2026-11-08",
+   "start_time": "08:45",
+   "reg_close": "2027-04-18"
   },
   {
    "id": "internationaler-muermeslauf-2027",
@@ -47058,10 +47125,11 @@
    "url": "https://ellscheid-vulkaneifel.de/",
    "source": "https://www.runme.de/deutschland/19-int-muermeslauf-ellscheid/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (4,8 km um 19:00 Uhr).",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "19:00"
-   }
+   },
+   "reg_close": "2027-05-04"
   },
   {
    "id": "sebamed-mailauf-boppard-2027",
@@ -47101,8 +47169,9 @@
    "url": "http://www.vatertagslauf.de/",
    "source": "https://www.runme.de/deutschland/vatertagslauf-in-rhaunen/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 11:45 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "11:45"
+   "checked": "2026-11-08",
+   "start_time": "11:45",
+   "reg_close": "2027-05-05"
   },
   {
    "id": "westumer-murre-lauf-2027",
@@ -47123,8 +47192,9 @@
    "url": "http://www.lauftreff-westum.de",
    "source": "https://www.runme.de/deutschland/westumer-murrelauf-sinzig/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 09:50 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "09:50"
+   "checked": "2026-11-08",
+   "start_time": "09:50",
+   "reg_close": "2027-05-04"
   },
   {
    "id": "lemberger-laufspass-2027",
@@ -47258,8 +47328,9 @@
    "url": "http://www.deichlauf.de/",
    "source": "https://www.runme.de/deutschland/deichlauf-neuwied/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 18:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "18:00"
+   "checked": "2026-11-08",
+   "start_time": "18:00",
+   "reg_close": "2027-05-07"
   },
   {
    "id": "mitternachtslauf-2027",
@@ -47278,8 +47349,9 @@
    "url": "http://www.mitternachtslauf-kroev.de",
    "source": "https://www.runme.de/deutschland/mitternachtslauf-kroev-kroev-mosel/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (9,4 km um 22:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "22:00"
+   "checked": "2026-11-08",
+   "start_time": "22:00",
+   "reg_close": "2027-05-10"
   },
   {
    "id": "flott-run-moenchsheide-2027",
@@ -47290,7 +47362,7 @@
    "kreis": "LK Ahrweiler",
    "lat": 50.544,
    "lon": 7.246,
-   "date": "2027-05-16",
+   "date": "2027-06-13",
    "confirmed": true,
    "distances": [
     "5",
@@ -47299,13 +47371,14 @@
    ],
    "url": "http://run.team-flott.de/",
    "source": "https://www.runme.de/deutschland/flott-run-moenchsheide/",
-   "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6,75 km um 10:45 Uhr). Ausgabe 2026: Voranmeldung bis 08.05.2026, 16 Uhr; Parkmöglichkeiten rund um das Gelände begrenzt",
-   "checked": "2026-11-05",
+   "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6,75 km um 10:45 Uhr). Ausgabe 2026: Voranmeldung bis 08.05.2026, 16 Uhr; Parkmöglichkeiten rund um das Gelände begrenzt. Termin laut Laufkalender des LV Rheinhessen-Rheinland (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:45"
    },
    "start_place": "Sportplatz Franken (Sinzig)",
-   "late_reg": "Nachmeldung am Veranstaltungstag möglich (Ausgabe 2026)"
+   "late_reg": "Nachmeldung am Veranstaltungstag möglich (Ausgabe 2026)",
+   "reg_close": "2027-06-11"
   },
   {
    "id": "trollbachlauf-2027",
@@ -47325,10 +47398,11 @@
    "url": "https://trollbachlauf.jimdofree.com/",
    "source": "https://www.runme.de/deutschland/trollbachlauf/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 11:30 Uhr).",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "11:30"
-   }
+   },
+   "reg_close": "2027-05-14"
   },
   {
    "id": "ormonter-volkslauf-2027",
@@ -47369,11 +47443,12 @@
    "url": "http://www.tus-kleinich.de/",
    "source": "https://www.runme.de/deutschland/pfingstkronenlauf-kleinich/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 10:00 Uhr, frühester Lauf ab 5 km). Ausgabe 2026: Anmeldung über RaceResult",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "start_time": "10:00",
    "prev": {
     "fee": "6 € bei Voranmeldung"
-   }
+   },
+   "reg_close": "2027-05-16"
   },
   {
    "id": "charity-trail-mannebach-2027",
@@ -47596,8 +47671,9 @@
    "url": "http://www.volkslauf-oberweis.de",
    "source": "https://www.runme.de/deutschland/oberweiser-strassen-und-volkslauf/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 17:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "17:00"
+   "checked": "2026-11-08",
+   "start_time": "17:00",
+   "reg_close": "2027-05-25"
   },
   {
    "id": "arzbacher-trailrun-2027",
@@ -47665,8 +47741,9 @@
    "url": "https://www.tv-nieder-olm.de/",
    "source": "https://www.runme.de/deutschland/nieder-olmer-strassenfestlauf/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10 km um 11:30 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "11:30"
+   "checked": "2026-11-08",
+   "start_time": "11:30",
+   "reg_close": "2027-05-26"
   },
   {
    "id": "citylauf-kaiserslautern-2027",
@@ -47751,11 +47828,16 @@
    "url": "http://www.ahrathon.de/",
    "source": "https://www.runme.de/deutschland/ahrathon-bad-neuenahr-ahrweiler/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (42,195 km um 09:00 Uhr, frühester Lauf ab 5 km). Offizieller Meldeschluss 01.06.2027, 23:59 Uhr; Online-Meldegebühr 1 €",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "start_time": "09:00",
    "reg_close": "2027-06-01",
    "start_place": "Weingut Sonnenberg, Bad Neuenahr (Start und Ziel)",
-   "late_reg": "Nachmeldungen am 11.06.2027 von 14:00 bis 20:00 Uhr (Büro Weingut) sowie am 12.06.2027"
+   "late_reg": "Nachmeldungen am 11.06.2027 von 14:00 bis 20:00 Uhr (Büro Weingut) sowie am 12.06.2027",
+   "showers": "Duschen in der Turnhalle des TV06 Bad Neuenahr, Weststraße 25 (ca. 630 m Luftlinie vom Start/Ziel, Stand 2026)",
+   "prev": {
+    "pickup": "Am Tag vor der Veranstaltung im Zelt (inklusive bestellter Zusatzleistungen)",
+    "fee": "Nachmeldung vor Ort: Marathon 67,50 €, Halbmarathon 57,50 €"
+   }
   },
   {
    "id": "internationaler-trail-lauf-rund-um-die-sporkenburg-sauerstoff-pur-mit-loewenstein-medical-2027",
@@ -47776,10 +47858,11 @@
    "url": "https://www.tveitelborn.de/veranstaltungen/traillauf/",
    "source": "https://www.runme.de/deutschland/internationaler-traillauf-rund-um-die-sporkenburg/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (25 km um 09:00 Uhr).",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "09:00"
-   }
+   },
+   "reg_close": "2027-06-02"
   },
   {
    "id": "rettichfestlauf-2027",
@@ -47820,7 +47903,8 @@
    "url": "https://www.djkkelberg.de/",
    "source": "https://www.runme.de/deutschland/sidonia-escape-lauf/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Strecken laut RUNME.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "reg_close": "2027-06-11"
   },
   {
    "id": "eifelmarathon-2027",
@@ -47842,9 +47926,12 @@
    ],
    "url": "http://www.eifelmarathon.com/",
    "source": "https://www.runme.de/deutschland/eifel-marathon-waxweiler/",
-   "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (42,195 km um 09:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "09:00"
+   "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (42,195 km um 09:00 Uhr, frühester Lauf ab 5 km). Startzeiten laut Anmeldeportal: Marathon und Ultra 9:00 Uhr, Trail 9:15 Uhr, 10 km 9:45 Uhr, Halbmarathon 10:15 Uhr.",
+   "checked": "2026-11-08",
+   "start_time": "09:00",
+   "reg_open": "2026-09-01",
+   "reg_close": "2027-06-10",
+   "fee": "Marathon und Ultra 51,4 km 40 € (bis 31.12.2026), danach 45 €; Trail 26 km 30/35 €; Halbmarathon 25/30 €; 10 km 7/10 €"
   },
   {
    "id": "hinterweidenthaler-hexepaeddl-lauf-2027",
@@ -47905,7 +47992,8 @@
    "url": "http://www.sv-niederelbert.de/",
    "source": "https://www.runme.de/deutschland/niederelberter-gickellauf/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "reg_close": "2027-06-11"
   },
   {
    "id": "sohrener-sommerlauf-2027",
@@ -47916,17 +48004,18 @@
    "kreis": "Rhein-Hunsrück-Kreis",
    "lat": 49.9,
    "lon": 7.35,
-   "date": "2027-06-20",
-   "confirmed": false,
+   "date": "2027-06-13",
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
    "url": "http://www.tus-sohren.de/",
    "source": "https://www.runme.de/deutschland/sohrener-sommerlauf/",
-   "info": "Termin widersprüchlich: Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (Stand 19.10.2026) nennt 20.06.2027, RUNME nannte 13.06.2027. Vom Veranstalter noch nicht bestätigt. Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 09:30 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "09:30"
+   "info": "Termin widersprüchlich: Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (Stand 19.10.2026) nennt 20.06.2027, RUNME nannte 13.06.2027.Strecken laut RUNME. Startzeit laut RUNME (5 km um 09:30 Uhr, frühester Lauf ab 5 km). Termin laut Laufkalender des LV Rheinhessen-Rheinland (Stand 08.11.2026).",
+   "checked": "2026-11-08",
+   "start_time": "09:30",
+   "reg_close": "2027-06-13"
   },
   {
    "id": "feierabendlauf-benefizlauf-bw-familien-2027",
@@ -47946,9 +48035,10 @@
    "url": "https://tus-laubach.eu/",
    "source": "https://www.runme.de/deutschland/feierabendlauf/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 18:40 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "start_time": "18:40",
-   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf",
+   "reg_close": "2027-06-13"
   },
   {
    "id": "lauf-lauf-durch-den-sportpark-koblenz-2027",
@@ -47968,8 +48058,9 @@
    "url": "http://www.meddys-lwt.de",
    "source": "https://www.runme.de/deutschland/lauf-rund-um-die-conlog-arena-koblenz/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 17:30 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "17:30"
+   "checked": "2026-11-08",
+   "start_time": "17:30",
+   "reg_close": "2027-06-17"
   },
   {
    "id": "gerolsteiner-stadtlauf-2027",
@@ -47989,8 +48080,9 @@
    "url": "http://www.sv-gerolstein.de/sportevents/",
    "source": "https://www.runme.de/deutschland/gerolsteiner-stadtlauf/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 17:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "17:00"
+   "checked": "2026-11-08",
+   "start_time": "17:00",
+   "reg_close": "2027-06-16"
   },
   {
    "id": "draisinenlauf-altenglan-2027",
@@ -48021,16 +48113,17 @@
    "kreis": "Stadt Trier",
    "lat": 49.754,
    "lon": 6.639,
-   "date": "2027-06-06",
-   "confirmed": false,
+   "date": "2027-06-20",
+   "confirmed": true,
    "distances": [
     "5"
    ],
    "url": "http://silvesterlauf.de/",
    "source": "https://www.runme.de/deutschland/edith-luecke-frauenlauf-trier/",
-   "info": "Termin widersprüchlich: Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (Stand 19.10.2026) nennt 06.06.2027, RUNME nannte 20.06.2027. Vom Veranstalter noch nicht bestätigt. Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 10:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "10:00"
+   "info": "Termin widersprüchlich: Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (Stand 19.10.2026) nennt 06.06.2027, RUNME nannte 20.06.2027.Strecken laut RUNME. Startzeit laut RUNME (5 km um 10:00 Uhr, frühester Lauf ab 5 km). Termin laut Laufkalender des LV Rheinhessen-Rheinland (Stand 08.11.2026).",
+   "checked": "2026-11-08",
+   "start_time": "10:00",
+   "reg_close": "2027-05-30"
   },
   {
    "id": "grafschafter-ahrtal-lauf-2027",
@@ -48050,10 +48143,14 @@
    "url": "https://grafschafter-sv.de/grafschafter-ahrtal-lauf/",
    "source": "https://www.runme.de/deutschland/grafschafter-birnen-lauf/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 09:20 Uhr).",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "09:20"
-   }
+   },
+   "reg_close": "2027-06-17",
+   "showers": "Umkleiden und Duschen im Sportheim am Sportplatz",
+   "parking": "Direkt am Sportplatz",
+   "start_place": "Sportplatz Grafschaft-Vettelhoven, Am Sportplatz 1"
   },
   {
    "id": "hunsrueck-trail-2027",
@@ -48073,9 +48170,15 @@
    ],
    "url": "http://www.xn--hunsrck-trail-0ob.de/",
    "source": "https://www.runme.de/deutschland/hunsrueck-trail/",
-   "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (25 km um 09:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "09:00"
+   "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (25 km um 09:00 Uhr, frühester Lauf ab 5 km). Start 25 km um 9:00 Uhr, 13, 7 und 3 km um 9:30 Uhr laut Veranstalter.",
+   "checked": "2026-11-08",
+   "start_time": "09:00",
+   "reg_close": "2027-06-18",
+   "showers": "Umkleiden und Duschen vor Ort",
+   "pickup": "Am Veranstaltungstag am Sportlerheim",
+   "start_place": "Sportlerheim TuS Mörschied",
+   "late_reg": "Keine Nachmeldung",
+   "fee": "25 km 18 €, 13 km 12 €, 7 km 12 €"
   },
   {
    "id": "mainzer-drei-bruecken-lauf-2027",
@@ -48160,8 +48263,9 @@
    "url": "http://www.idar-oberstein.de/",
    "source": "https://www.runme.de/deutschland/idar-obersteiner-altstadtlauf/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (6,48 km um 18:30 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "18:30"
+   "checked": "2026-11-08",
+   "start_time": "18:30",
+   "reg_close": "2027-06-20"
   },
   {
    "id": "ludwigshafener-stadtlauf-2027",
@@ -48203,8 +48307,9 @@
    "url": "https://www.tus-ahrweiler.de/",
    "source": "https://www.runme.de/deutschland/ahruferlauf-bad-neuenahr-ahrweiler/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10 km um 15:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "15:00"
+   "checked": "2026-11-08",
+   "start_time": "15:00",
+   "reg_close": "2027-06-24"
   },
   {
    "id": "energie-suedwest-cup-2027",
@@ -48247,8 +48352,9 @@
    "url": "http://stadtlauf-saarburg.de/",
    "source": "https://www.runme.de/deutschland/internationaler-stadtlauf-saarburg/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5,3 km um 18:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "18:00"
+   "checked": "2026-11-08",
+   "start_time": "18:00",
+   "reg_close": "2027-06-27"
   },
   {
    "id": "rotweinlauf-2027",
@@ -48394,15 +48500,15 @@
    "lat": 49.2,
    "lon": 7.75,
    "date": "2027-07-10",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "6",
     "10"
    ],
    "url": "https://teufelstischtrail.de/",
    "source": "https://www.runme.de/deutschland/teufelstisch-trail/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 16:00 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 16:00 Uhr). Termin laut Saar-Laufkalender laufdatensaar.de (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "16:00"
    }
@@ -48446,8 +48552,13 @@
    "url": "https://www.rsv-speyer.de/",
    "source": "https://www.runme.de/deutschland/brezelfestlauf-speyer/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (6,8 km um 09:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "09:00"
+   "checked": "2026-11-08",
+   "start_time": "09:00",
+   "prev": {
+    "start_time": "09:00",
+    "start_place": "Oberer Domgarten beim Ölberg",
+    "pickup": "Im Hof der Evangelischen Landeskirche"
+   }
   },
   {
    "id": "monzinger-wingertslauf-2027",
@@ -48467,8 +48578,18 @@
    "url": "http://wingertslauf.de/",
    "source": "https://www.runme.de/deutschland/monzinger-wingertslauf/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (7,5 km um 09:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "09:00"
+   "checked": "2026-11-08",
+   "start_time": "09:00",
+   "reg_close": "2027-07-10",
+   "limit": "150",
+   "showers": "Umkleiden und Duschen im Vereinsheim am Sportplatz (ca. 500 m Fußweg)",
+   "parking": "Am Sportplatz (am Start/Ziel keine Parkplätze); Bahnhof Monzingen in der Nähe",
+   "start_place": "Zum Frühlingsplätzchen – Kelterhaus (ehemalige Traubenannahmestelle), Monzingen",
+   "prev": {
+    "fee": "7,5 km 7 €, 15,5 km 8 € (online), Nachmeldung +1 €",
+    "start_time": "09:00",
+    "pickup": "Ab 7:30 Uhr am Start/Ziel"
+   }
   },
   {
    "id": "freundschaftslauf-hasborn-2027",
@@ -48555,11 +48676,12 @@
    "url": "https://baerenkopplauf.de/",
    "source": "https://www.runme.de/deutschland/baerenkopplauf/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (11 km um 18:00 Uhr). Ausgabe 2026: Voranmeldeschluss 04.08.2026, danach standen 469 Teilnehmer auf den Listen",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "18:00"
    },
-   "late_reg": "Nachmeldungen bis zum Donnerstag vor dem Lauf möglich, Nachmelder starten im letzten Block (Ausgabe 2026)"
+   "late_reg": "Nachmeldungen bis zum Donnerstag vor dem Lauf möglich, Nachmelder starten im letzten Block (Ausgabe 2026)",
+   "reg_close": "2027-08-02"
   },
   {
    "id": "residenzfestlauf-kirchheimbolanden-2027",
@@ -48605,8 +48727,9 @@
    "url": "https://lauftreff-schweich.de/",
    "source": "https://www.runme.de/deutschland/stefan-andreas-freundschaftslauf-schweich-leiwen/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (8 km um 09:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "09:00"
+   "checked": "2026-11-08",
+   "start_time": "09:00",
+   "reg_close": "2027-08-08"
   },
   {
    "id": "nettetal-lauf-2027",
@@ -48626,8 +48749,9 @@
    "url": "http://www.djk-ochtendung.de",
    "source": "https://www.runme.de/deutschland/nettetal-volkslauf-ochtendung/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 18:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "18:00"
+   "checked": "2026-11-08",
+   "start_time": "18:00",
+   "reg_close": "2027-08-09"
   },
   {
    "id": "charity-mega-run-2027",
@@ -48675,10 +48799,11 @@
    "url": "http://www.hsc-gamlen-eifel-coc.magix.net/",
    "source": "https://www.runme.de/deutschland/brohlbachtal-lauf-gamlen-eifel/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 14:30 Uhr).",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "14:30"
-   }
+   },
+   "reg_close": "2027-08-12"
   },
   {
    "id": "windener-landschaftslauf-2027",
@@ -48689,7 +48814,7 @@
    "kreis": "Rhein-Lahn-Kreis",
    "lat": 50.339,
    "lon": 7.853,
-   "date": "2027-08-14",
+   "date": "2027-03-20",
    "confirmed": true,
    "distances": [
     "5",
@@ -48697,11 +48822,12 @@
    ],
    "url": "https://www.wir-in-winden.de",
    "source": "https://www.runme.de/deutschland/windener-775-jahre-lauf/",
-   "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 15:15 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 15:15 Uhr). Termin laut Laufkalender des LV Rheinhessen-Rheinland (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "15:15"
-   }
+   },
+   "reg_close": "2027-03-18"
   },
   {
    "id": "wokimen-2027",
@@ -48723,8 +48849,9 @@
    "url": "https://www.maju-srl-united.de/",
    "source": "https://www.runme.de/deutschland/wokimen/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (42,195 km um 10:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "10:00"
+   "checked": "2026-11-08",
+   "start_time": "10:00",
+   "charity": "Als Spendenlauf ausgeschrieben (Veranstalter MaJu SRL-United)"
   },
   {
    "id": "hunsbuckeltrail-hubut-2027",
@@ -48789,10 +48916,11 @@
    "url": "https://www.zehnhausen-bw.de/",
    "source": "https://www.runme.de/deutschland/jedermann-lauf-zehnhausen/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 18:00 Uhr).",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "18:00"
-   }
+   },
+   "reg_close": "2027-08-19"
   },
   {
    "id": "ring-of-feier-hermeskeiler-city-lauf-2027",
@@ -48860,8 +48988,9 @@
    "url": "https://www.maaremosellauf.de/",
    "source": "https://www.runme.de/deutschland/maare-mosel-lauf-daun/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (21,1 km um 17:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "17:00"
+   "checked": "2026-11-08",
+   "start_time": "17:00",
+   "reg_close": "2027-08-28"
   },
   {
    "id": "mussbacher-eselshautlauf-2027",
@@ -48903,8 +49032,9 @@
    "url": "http://selbstlaeufer-altenahr.npage.de/index.html",
    "source": "https://www.runme.de/deutschland/panoramalauf-rund-um-die-burg-are-altenahr/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (35 km um 09:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "09:00"
+   "checked": "2026-11-08",
+   "start_time": "09:00",
+   "reg_close": "2027-08-22"
   },
   {
    "id": "palatina-backyard-ultra-2027",
@@ -48990,10 +49120,11 @@
    "url": "https://www.runme.de/deutschland/ehriker-stadtmauerlauf/",
    "source": "https://www.runme.de/deutschland/ehriker-stadtmauerlauf/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 13:00 Uhr).",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "13:00"
-   }
+   },
+   "reg_close": "2027-09-05"
   },
   {
    "id": "lautrer-lebenslauf-2027",
@@ -49014,11 +49145,12 @@
    "anmeldung_url": "https://my.raceresult.com/422995/",
    "source": "https://running.life/de/termine/lautrer-lebenslauf",
    "info": "Termin und Strecken laut running.life/gotrail.run. Ausgabe 2026 (06.09.2026): Kinderlauf 1 km 9:45 Uhr, Hauptlauf 5 km und 10 km 10:15 Uhr; Online-Anmeldung bis 27.08.2026, Nachmeldung am Morgen des Laufes möglich",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "prev": {
     "fee": "Erwachsene 14 €, Kinder 8 € (für den guten Zweck)",
     "start_time": "10:15"
-   }
+   },
+   "charity": "Der gesamte Erlös geht an den Förderverein „Mama/Papa hat Krebs“ Kaiserslautern e.V."
   },
   {
    "id": "nerother-charity-run-2027",
@@ -49084,10 +49216,11 @@
    "url": "http://lauftreff-svweitersburg.de/",
    "source": "https://www.runme.de/deutschland/volkslauf-rund-um-weitersburg-wuestenhof-halbmarathon/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 14:30 Uhr).",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "14:30"
-   }
+   },
+   "reg_close": "2027-09-10"
   },
   {
    "id": "bitburger-stadtlauf-2027",
@@ -49107,10 +49240,11 @@
    "url": "http://www.stadtlauf-bitburg.de",
    "source": "https://www.runme.de/deutschland/bitburger-stadtlauf/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,15 km um 10:35 Uhr).",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "10:35"
-   }
+   },
+   "reg_close": "2027-09-09"
   },
   {
    "id": "nibelungenlauf-worms-2027",
@@ -49214,7 +49348,8 @@
    "url": "https://www.hdsports.org/laufen/kriegsheimer-panoramalauf",
    "source": "https://www.hdsports.org/laufen/kriegsheimer-panoramalauf",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin und Strecken laut HDsports.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "reg_close": "2027-09-17"
   },
   {
    "id": "laacher-see-naturlauf-mit-21-vr-bank-cup-2027",
@@ -49277,11 +49412,15 @@
    "url": "https://silvesterlauf.de/event/stadtlauf/",
    "source": "https://running.life/de/termine/trierer-stadtlauf",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin und Strecken laut running.life/gotrail.run. 40. dm Internationaler Trierer Stadtlauf, Sonntag 19.09.2027 ab 08:00 Uhr, Ziel an der Porta Nigra; Startzeiten der einzelnen Läufe noch offen",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "reg_close": "2027-09-17",
    "limit": "Gesamt 5.000 Teilnehmer, davon Halbmarathon 1.800",
    "fee": "Halbmarathon 35 € (Nov-Dez), 40 € (Jan-Jun), 45 € (ab Juli); 10 km 25 € / 29 € / 33 €; 5 km 18 € / 22 € / 25 €; Jugendlauf 1,8 km 6 € / 8 € / 10 €; Bambinilauf 5 €",
-   "late_reg": "Online-Anmeldeschluss Freitag 17.09.2027, 18:00 Uhr (falls das Limit nicht vorher erreicht ist); Nachmeldungen vor Ort laut Veranstalter möglich"
+   "late_reg": "Online-Anmeldeschluss Freitag 17.09.2027, 18:00 Uhr (falls das Limit nicht vorher erreicht ist); Nachmeldungen vor Ort laut Veranstalter möglich",
+   "start_time": "10:00",
+   "showers": "Duschen, Umkleiden und Gepäckaufbewahrung in der Mehrzweckhalle der Gymnasien AVG/MGP, Sichelstraße 4",
+   "parking": "Parkhäuser in Trier (Übersicht auf der Veranstalterseite)",
+   "pickup": "Samstag 18.09.2027 10–18 Uhr und Sonntag 19.09.2027 ab 7 Uhr"
   },
   {
    "id": "neustadter-altstadtlauf-2027",
@@ -49346,10 +49485,11 @@
    "url": "http://www.lgpronsfeldluenebach.de",
    "source": "https://www.runme.de/deutschland/pronsfelder-volks-und-strassenlauf/",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 14:30 Uhr).",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "14:30"
-   }
+   },
+   "reg_close": "2027-09-25"
   },
   {
    "id": "7-meilen-trail-kaiserslautern-2027",
@@ -49370,12 +49510,16 @@
    "anmeldung_url": "https://my.raceresult.com/426485/",
    "source": "https://running.life/de/termine/7-meilen-trail-lauf-kaiserslautern",
    "info": "Termin und Strecken laut running.life/gotrail.run. Sonntag, 26.09.2027 laut Veranstalter; Voranmeldung über RaceResult von April 2027 bis Samstag 25.09.2027, 21:00 Uhr; Ausgabe 2026: Startnummernausgabe ab 8:30 Uhr im Vereinsheim der TSG Kaiserslautern, Umkleide und Dusche im Vereinsheim",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "reg_close": "2027-09-25",
    "prev": {
     "fee": "12 € (7-Meilen-Trail), 6 € (4-Meilen-Trail), Nachmeldegebühr 1 €",
     "start_time": "10:00"
-   }
+   },
+   "start_place": "Gegenüber dem Restaurant Sommerhaus (Anmeldung im Vereinsheim der TSG Kaiserslautern)",
+   "start_time": "10:00",
+   "reg_open": "2027-04-01",
+   "fee": "7-Meilen-Trail 12 €, 4-Meilen-Trail und Walking 6 €"
   },
   {
    "id": "energiesuedwest-cup-goecklingen-2027",
@@ -49426,7 +49570,7 @@
    "kreis": "LK Trier-Saarburg",
    "lat": 49.859,
    "lon": 6.765,
-   "date": "2027-10-03",
+   "date": "2027-10-10",
    "confirmed": true,
    "distances": [
     "5",
@@ -49434,11 +49578,12 @@
    ],
    "url": "https://www.lgmf.de/",
    "source": "https://www.runme.de/deutschland/irt-laeufermeeting-foehren/",
-   "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 14:30 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 14:30 Uhr). Termin laut Laufkalender des LV Rheinhessen-Rheinland (Stand 08.11.2026).",
+   "checked": "2026-11-08",
    "prev": {
     "start_time": "14:30"
-   }
+   },
+   "reg_close": "2027-10-08"
   },
   {
    "id": "maxdorfer-gemueselauf-2027",
@@ -49498,12 +49643,15 @@
    "anmeldung_url": "https://my.raceresult.com/429819/",
    "source": "https://running.life/de/termine/utpw-pfalzer-weinsteig",
    "info": "Termin und Strecken laut running.life/gotrail.run. Laut Veranstalter: 173 km Start 09.10.2027 um 9 Uhr in Schweigen-Rechtenbach, 70 km am 10.10.2027 (2026: 8 Uhr in Neustadt an der Weinstraße); Anmeldeschluss 2026 war 01.10. (173 km) bzw. 20.09. (70 km)",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "end": "2027-10-10",
    "start_time": "09:00",
    "prev": {
     "fee": "173 km: 200 € (210 € ab 01.02.2026), 70 km: 80 €"
-   }
+   },
+   "showers": "Duschen im Ziel in der Halle des Sportvereins Bockenheim",
+   "pickup": "Im Hauptquartier in Bockenheim (Briefing am 07.10. um 18 Uhr)",
+   "start_place": "Schweigen-Rechtenbach (Shuttle ab Bockenheim), Ziel in Bockenheim an der Weinstraße"
   },
   {
    "id": "damscheider-kuckucks-trail-2027",
@@ -49537,16 +49685,17 @@
    "kreis": "LK Cochem-Zell",
    "lat": 50.1,
    "lon": 7.117,
-   "date": "2027-10-10",
-   "confirmed": false,
+   "date": "2027-10-17",
+   "confirmed": true,
    "distances": [
     "8,3",
     "4,6"
    ],
    "url": "https://www.hdsports.org/laufen/crosslaufserie-des-kreises-cochem-zell",
    "source": "https://www.hdsports.org/laufen/crosslaufserie-des-kreises-cochem-zell",
-   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
-   "checked": "2026-11-05"
+   "info": "Termin laut Laufkalender des LV Rheinhessen-Rheinland (Stand 08.11.2026).",
+   "checked": "2026-11-08",
+   "reg_close": "2027-10-14"
   },
   {
    "id": "energiesuedwest-offenbach-an-der-queich-2027",
@@ -49624,9 +49773,10 @@
    "anmeldung_url": "https://my.raceresult.com/433197/",
    "source": "https://running.life/de/termine/lauf-rund-um-den-disibodenberg",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin und Strecken laut running.life/gotrail.run. 39. Lauf Rund um den Disibodenberg am 16.10.2027, 15:00 Uhr laut Veranstalter; Online-Anmeldung über RaceResult öffnet voraussichtlich im Januar 2027",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "start_time": "15:00",
-   "start_place": "Turnhalle des TV Odernheim, Turnhallstraße 6"
+   "start_place": "Turnhalle des TV Odernheim, Turnhallstraße 6",
+   "reg_close": "2027-10-14"
   },
   {
    "id": "loewenlauf-hachenburg-2027",
@@ -49647,7 +49797,8 @@
    "url": "https://www.hdsports.org/laufen/hachenburger-loewenlauf",
    "source": "https://www.hdsports.org/laufen/hachenburger-loewenlauf",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin und Strecken laut HDsports.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "reg_close": "2027-10-13"
   },
   {
    "id": "braunbecks-bremserlauf-zornheim-2027",
@@ -49667,7 +49818,8 @@
    "url": "https://www.hdsports.org/laufen/braunbecks-bremserlauf-zornheim",
    "source": "https://www.hdsports.org/laufen/braunbecks-bremserlauf-zornheim",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin und Strecken laut HDsports.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "reg_close": "2027-10-16"
   },
   {
    "id": "herdorfer-goetzelauf-stadtlauf-2027",
@@ -49687,7 +49839,8 @@
    "url": "https://www.hdsports.org/laufen/herdorfer-goetzelauf",
    "source": "https://www.hdsports.org/laufen/herdorfer-goetzelauf",
    "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin und Strecken laut HDsports.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-08",
+   "reg_close": "2027-10-17"
   },
   {
    "id": "waldlauf-rund-um-den-waldplatz-geul-2027",
@@ -49747,7 +49900,7 @@
    "url": "https://baerenfelsteam.de/",
    "source": "https://baerenfelsteam.de/",
    "info": "Termin, Start 09:00 Uhr und Strecken (11, 21, 42 und 53 km) laut Veranstalterseite baerenfelsteam.de, 20. Bärenfels 1. Mai-Trail im Nationalpark Saar-Hunsrück. Start in Neubrücke (Hoppstädten-Weiersbach, Rheinland-Pfalz). Läufer Start 9:00 Uhr (Wanderer 8:00 Uhr) laut Veranstalterseite",
-   "checked": "2026-11-05",
+   "checked": "2026-11-08",
    "start_time": "09:00"
   },
   {
@@ -83405,6 +83558,405 @@
    "reg_close": "2027-04-03",
    "limit": "650",
    "fee": "42 km 45 € (bis 30.11.2026), 50 € (bis 31.01.2027), 55 €; 21 km 30/35/40 €; 12 km 20/25/30 €; 57 km 55/60/65 €; 100 km 110/120/130 €"
+  },
+  {
+   "id": "hubut-winter-edition-2027",
+   "type": "trail",
+   "name": "HuBuT Winter Edition (6-Stunden-Lauf)",
+   "place": "Laubach (Hunsrück)",
+   "bezirk": "Koblenz",
+   "kreis": "Rhein-Hunsrück-Kreis",
+   "lat": 50.067,
+   "lon": 7.55,
+   "date": "2027-02-20",
+   "confirmed": true,
+   "distances": [
+    "6 h"
+   ],
+   "url": "https://hunsbuckel-trail.de",
+   "source": "https://running.life/de/termine/hubut-winter-edition",
+   "info": "4. Winter Edition des Hunsbuckel-Trails: 6-Stunden-Lauf auf der Traumschleife Klingelfloß, Runde rund 7 km mit 110 Hm, komplett Trail.",
+   "checked": "2026-11-08",
+   "limit": "222",
+   "fee": "10 €",
+   "reg_close": "2027-02-19"
+  },
+  {
+   "id": "8-stunden-wurzellauf-farschweiler-2027",
+   "type": "trail",
+   "name": "8-Stunden-Wurzellauf Farschweiler",
+   "place": "Farschweiler",
+   "bezirk": "Trier",
+   "kreis": "LK Trier-Saarburg",
+   "lat": 49.762,
+   "lon": 6.732,
+   "date": "2027-03-20",
+   "confirmed": true,
+   "distances": [
+    "8 h",
+    "50"
+   ],
+   "url": "https://hochwaldtrailer.de/Events/8-Stunden-Wurzellauf/",
+   "source": "https://running.life/de/termine/8-stunden-wurzellauf",
+   "info": "5. 8-Stunden-Wurzellauf der Hochwaldtrailer: wurzelige Trailrunden von etwa 5 km mit rund 170 Hm, dazu 50-km-Challenge über 10 Runden mit gemeinsamem Start. Veranstaltungszeit 9–17 Uhr, Start flexibel; für die 50-km-Challenge gemeinsamer Start um 9:00 Uhr.",
+   "checked": "2026-11-08",
+   "start_place": "Grillhütte Sternfeld, Farschweiler",
+   "fee": "25 €",
+   "limit": "300",
+   "start_time": "09:00",
+   "pickup": "Ab 7:00 Uhr im Start-/Zielbereich",
+   "charity": "Charity-Lauf: Nach Abzug der Kosten wird der Überschuss für einen guten Zweck gespendet"
+  },
+  {
+   "id": "maeschder-drehwurm-2027",
+   "type": "trail",
+   "name": "Mäschder Drehwurm",
+   "place": "Großmaischeid",
+   "bezirk": "Koblenz",
+   "kreis": "LK Mayen-Koblenz",
+   "lat": 50.5,
+   "lon": 7.633,
+   "date": "2027-04-02",
+   "confirmed": true,
+   "distances": [
+    "6 h",
+    "12 h",
+    "24 h"
+   ],
+   "url": "https://katjas-laufzeit.de/maeschder-drehwurm-2027-ausschreibung/",
+   "source": "https://running.life/de/termine/maschder-drehwurm",
+   "info": "6-, 12- und 24-Stunden-Lauf auf einem markierten 2,6-km-Rundkurs mit 47 Hm, elektronische Rundenzählung, begrenzte Zeltplätze.",
+   "checked": "2026-11-08",
+   "end": "2027-04-03",
+   "start_place": "Grillhütte Beetstraße, Großmaischeid",
+   "reg_close": "2027-03-31",
+   "showers": "Derzeit keine Duschmöglichkeit (laut Veranstalter in Verhandlung)",
+   "pickup": "Jeweils eine Stunde vor dem Start"
+  },
+  {
+   "id": "rokathon-rockenhausen-2027",
+   "type": "road",
+   "name": "Rokathon Rockenhausen",
+   "place": "Rockenhausen",
+   "bezirk": "Rheinhessen-Pfalz",
+   "kreis": "Donnersbergkreis",
+   "lat": 49.645,
+   "lon": 7.809,
+   "date": "2027-06-26",
+   "confirmed": true,
+   "distances": [
+    "M",
+    "24 h"
+   ],
+   "url": "https://www.rokathon.de/",
+   "source": "https://running.life/de/termine/rokathon-rockenhausen",
+   "info": "Laufevent des VT Rockenhausen im Stadion Obermühle: Marathon aus 24 stündlichen Etappen à 1,758 km, 24-Stunden-Wertung sowie Zweier- und Viererteams.",
+   "checked": "2026-11-08",
+   "end": "2027-06-27",
+   "start_place": "Stadion Obermühle, Rockenhausen"
+  },
+  {
+   "id": "3-stundenlauf-lc-schifferstadt-2027",
+   "type": "road",
+   "name": "3-Stundenlauf LC Schifferstadt",
+   "place": "Schifferstadt",
+   "bezirk": "Rheinhessen-Pfalz",
+   "kreis": "Rhein-Pfalz-Kreis",
+   "lat": 49.384,
+   "lon": 8.377,
+   "date": "2027-08-22",
+   "confirmed": true,
+   "distances": [
+    "3 h"
+   ],
+   "url": "http://www.lc-schifferstadt.de",
+   "source": "https://running.life/de/termine/3-stundenlauf-lc-schifferstadt",
+   "info": "3-Stundenlauf des LC Schifferstadt 1969 im Stadion: Einzelstart oder Teams bis sechs Personen auf Runden à 1,4 km mit elektronischer Zeitnahme.",
+   "checked": "2026-11-08",
+   "start_place": "Stadion Schifferstadt"
+  },
+  {
+   "id": "holzer-frohnwald-trail-2027",
+   "type": "trail",
+   "name": "Holzer Frohnwald Trail",
+   "place": "Heusweiler-Holz",
+   "bezirk": "Saarland",
+   "kreis": "LK Neunkirchen",
+   "lat": 49.336,
+   "lon": 6.93,
+   "date": "2027-03-20",
+   "confirmed": true,
+   "distances": [
+    "6 h"
+   ],
+   "url": "https://my.raceresult.com/429675/",
+   "source": "https://my.raceresult.com/429675/",
+   "info": "1. Holzer Frohnwald Trail: 6-Stunden-Lauf auf ausgeschilderten 4,5-km-Runden mit 140 Hm durch den Fröhner Wald zwischen Holz und Riegelsberg. Start 10:00 Uhr laut Anmeldeportal.",
+   "checked": "2026-11-08",
+   "start_time": "10:00",
+   "reg_open": "2026-10-20",
+   "reg_close": "2027-03-20",
+   "fee": "10 € (ab 14.03.2027 15 €)"
+  },
+  {
+   "id": "halden-mohikaner-2027",
+   "type": "trail",
+   "name": "Halden Mohikaner",
+   "place": "Quierschied",
+   "bezirk": "Saarland",
+   "kreis": "Regionalverband Saarbrücken",
+   "lat": 49.317,
+   "lon": 7.05,
+   "date": "2027-05-22",
+   "confirmed": true,
+   "distances": [
+    "25",
+    "50",
+    "100",
+    "100 mi"
+   ],
+   "url": "https://www.hartfuessler.de/halden-mohikaner/",
+   "source": "https://my.raceresult.com/420550/",
+   "info": "Ultralauf des HartfüßlerTrail e.V. auf einer 6,25-km-Runde (175 Hm) an der Halde Göttelborn über Asphalt, Schotter und Singletrails; jede volle Stunde ein Start, Varianten 25, 50, 100 km und 100 Meilen.",
+   "checked": "2026-11-08",
+   "end": "2027-05-23",
+   "fee": "25 km 25 €, 50 km 50 €, 100 km 80 €, volle Packung 110 € (ab 21.05.2027 jeweils mehr)",
+   "start_place": "Halde Göttelborn, Quierschied"
+  },
+  {
+   "id": "silberaulauf-fruehjahr-2027",
+   "type": "road",
+   "name": "Silberaulauf",
+   "place": "Bad Ems",
+   "bezirk": "Koblenz",
+   "kreis": "Rhein-Lahn-Kreis",
+   "lat": 50.335,
+   "lon": 7.714,
+   "date": "2027-02-27",
+   "confirmed": true,
+   "distances": [
+    "7,2"
+   ],
+   "url": "http://tvbadems.de/",
+   "source": "https://www.lv-rr.de/index.php?id=91&wahl=volkslauf",
+   "info": "Silberaulauf des TV 1861 Bad Ems, Frühjahrsausgabe am 27.02.2027 (Beginn 10:00 Uhr). Strecke laut Ausgabe vom November 2026. Termin laut Laufkalender des LV Rheinhessen-Rheinland (Stand 08.11.2026).",
+   "checked": "2026-11-08",
+   "reg_close": "2027-02-01"
+  },
+  {
+   "id": "internationaler-wurzelweg-lauf-2027",
+   "type": "road",
+   "name": "Internationaler Wurzelweg-Lauf",
+   "place": "Konz",
+   "bezirk": "Trier",
+   "kreis": "LK Trier-Saarburg",
+   "lat": 49.7,
+   "lon": 6.577,
+   "date": "2027-11-06",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10",
+    "15"
+   ],
+   "url": "http://www.tgkonz.de/",
+   "source": "https://www.lv-rr.de/index.php?id=91&wahl=volkslauf",
+   "info": "51. Internationaler Wurzelweg-Lauf in Konz. Strecken laut Ausgabe 2026. Termin laut Laufkalender des LV Rheinhessen-Rheinland (Stand 08.11.2026).",
+   "checked": "2026-11-08"
+  },
+  {
+   "id": "crosslaufserie-kaisersesch-2027",
+   "type": "trail",
+   "name": "Crosslaufserie Kaisersesch",
+   "place": "Kaisersesch",
+   "bezirk": "Koblenz",
+   "kreis": "LK Cochem-Zell",
+   "lat": 50.231,
+   "lon": 7.139,
+   "date": "2027-11-07",
+   "confirmed": true,
+   "distances": [
+    "8,2"
+   ],
+   "url": "https://www.tus-kaisersesch.de/crosslauf",
+   "source": "https://www.lv-rr.de/index.php?id=91&wahl=volkslauf",
+   "info": "3. Lauf der 40. Crosslauf-Serie Cochem-Zell in Kaisersesch (Beginn 13:45 Uhr). Strecke laut Ausgabe 2026. Termin laut Laufkalender des LV Rheinhessen-Rheinland (Stand 08.11.2026).",
+   "checked": "2026-11-08",
+   "start_place": "Waldsportplatz Kaisersesch",
+   "reg_close": "2027-11-05"
+  },
+  {
+   "id": "nikolaus-crosslauf-alflen-2026",
+   "type": "trail",
+   "name": "Nikolaus-Crosslauf Alflen",
+   "place": "Auderath",
+   "bezirk": "Koblenz",
+   "kreis": "LK Cochem-Zell",
+   "lat": 50.25,
+   "lon": 6.95,
+   "date": "2026-12-06",
+   "confirmed": true,
+   "distances": [
+    "3,5",
+    "7"
+   ],
+   "url": "https://sportverein-alflen.de/kurse-2/",
+   "source": "https://sportverein-alflen.de/kurse-2/",
+   "checked": "2026-11-08",
+   "start_time": "15:15",
+   "reg_close": "2026-12-04",
+   "fee": "4 € (Nachmeldung vor Ort +1 €)",
+   "start_place": "Sportplatz der SG Auderath/Alflen an der B259, Auderath",
+   "info": "47. Nikolaus-Crosslauf des SV Schwarz-Weiß Alflen, 4. Lauf der 39. Crosslauf-Serie Cochem-Zell: Hauptlauf 7 km (4 große Runden) um 15:15 Uhr, Jedermann-Lauf 3,5 km um 14:40 Uhr, dazu Kinder- und Jugendläufe. Anmeldung per E-Mail bis 04.12.2026."
+  },
+  {
+   "id": "wallmeroder-bahnhofslauf-2027",
+   "type": "road",
+   "name": "Wallmeroder Bahnhofslauf",
+   "place": "Wallmerod",
+   "bezirk": "Koblenz",
+   "kreis": "Westerwaldkreis",
+   "lat": 50.5,
+   "lon": 7.933,
+   "date": "2027-09-05",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10",
+    "HM"
+   ],
+   "url": "https://www.tus-wallmerod.de/",
+   "source": "https://www.lv-rr.de/index.php?id=91&wahl=volkslauf",
+   "checked": "2026-11-08",
+   "reg_close": "2027-09-03",
+   "info": "35. Wallmeroder Bahnhofslauf (Nationaler Straßenlauf) des TuS Wallmerod mit Halbmarathon, 10 km, 5 km, Nordic Walking sowie Kinder- und Jugendläufen; Wertungslauf des Wäller-Lauf-Cups. Beginn 9:30 Uhr. Termin laut Laufkalender des LV Rheinhessen-Rheinland (Stand 08.11.2026)."
+  },
+  {
+   "id": "baerenfels-sechs-stunden-trail-2027",
+   "type": "trail",
+   "name": "Bärenfels Sechs-Stunden-Trail",
+   "place": "Hoppstädten-Weiersbach",
+   "bezirk": "Koblenz",
+   "kreis": "LK Birkenfeld",
+   "lat": 49.6147714,
+   "lon": 7.1886458,
+   "date": "2027-10-03",
+   "confirmed": true,
+   "distances": [
+    "3 h",
+    "6 h"
+   ],
+   "url": "https://baerenfelsteam.de/",
+   "source": "https://baerenfelsteam.de/",
+   "info": "3. Bärenfels Sechs-Stunden-Trail des Bärenfels-Teams mit 3- und 6-Stunden-Wertung im Nationalpark Hunsrück-Hochwald (laut Veranstalterseite).",
+   "checked": "2026-11-08"
+  },
+  {
+   "id": "hospizlauf-kell-am-see-2027",
+   "type": "road",
+   "name": "Hospizlauf Kell am See",
+   "place": "Kell am See",
+   "bezirk": "Trier",
+   "kreis": "LK Trier-Saarburg",
+   "lat": 49.633,
+   "lon": 6.822,
+   "date": "2027-07-09",
+   "end": "2027-07-11",
+   "confirmed": true,
+   "distances": [
+    "24 h"
+   ],
+   "url": "http://www.hospizlauf.de",
+   "source": "https://www.lv-rr.de/index.php?id=91&wahl=volkslauf",
+   "checked": "2026-11-08",
+   "charity": "Benefizlauf zugunsten der Hospizarbeit in der Region (2026: 20.000 € an Hospizhaus Trier, Nestwärme e.V., Hospizhaus Wittlich und Hospiz Koblenz)",
+   "info": "24. Hospizlauf Trier Region Eifel-Mosel-Hunsrück am Keller See, offen für Einzelpersonen, Staffeln, Vereine und Schulen; 2026 lief er von Freitag 12 Uhr bis Samstag 12 Uhr. Termin laut Laufkalender des LV Rheinhessen-Rheinland (Stand 08.11.2026)."
+  },
+  {
+   "id": "freundschaftslauf-der-llg-wustweiler-2027",
+   "type": "road",
+   "name": "Freundschaftslauf der LLG Wustweiler",
+   "place": "Illingen (Saar)",
+   "bezirk": "Saarland",
+   "kreis": "LK Neunkirchen",
+   "lat": 49.374,
+   "lon": 7.048,
+   "date": "2027-11-06",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "HM"
+   ],
+   "url": "http://www.llgwustweiler.de",
+   "source": "https://www.laufdatensaar.de/home/index.php?men=4",
+   "info": "23. Freundschaftslauf der LLG Wustweiler, Strecken von 6 bis 12 km. Termin laut Saar-Laufkalender laufdatensaar.de (Stand 08.11.2026).",
+   "checked": "2026-11-08"
+  },
+  {
+   "id": "int-martinslauf-2027",
+   "type": "road",
+   "name": "Int. Martinslauf",
+   "place": "Losheim am See",
+   "bezirk": "Saarland",
+   "kreis": "LK Merzig-Wadern",
+   "lat": 49.518,
+   "lon": 6.735,
+   "date": "2027-11-14",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.tv-losheim.de/",
+   "source": "https://www.laufdatensaar.de/home/index.php?men=4",
+   "info": "37. Internationaler Martinslauf des TV Losheim mit 5 und 10 km sowie Kinderläufen. Termin laut Saar-Laufkalender laufdatensaar.de (Stand 08.11.2026).",
+   "checked": "2026-11-08",
+   "late_reg": "Nachmeldung am 08.11.2026 bis 30 Minuten vor dem Start, 3 € Aufschlag aufs Startgeld"
+  },
+  {
+   "id": "freundschaftslauf-mauschbach-2027",
+   "type": "road",
+   "name": "Freundschaftslauf Mauschbach",
+   "place": "Zweibrücken-Mauschbach",
+   "bezirk": "Rheinhessen-Pfalz",
+   "kreis": "Südwestpfalz",
+   "lat": 49.247,
+   "lon": 7.37,
+   "date": "2027-09-04",
+   "confirmed": true,
+   "distances": [
+    "6",
+    "11"
+   ],
+   "url": "https://www.laufdatensaar.de/home/index.php?men=4",
+   "source": "https://www.laufdatensaar.de/home/index.php?men=4",
+   "checked": "2026-11-08",
+   "info": "35. Freundschaftslauf in Mauschbach mit Strecken von 6 bis 11 km. Termin laut Saar-Laufkalender laufdatensaar.de (Stand 08.11.2026)."
+  },
+  {
+   "id": "lebacher-lionslauf-2027",
+   "type": "road",
+   "name": "Lebacher Lionslauf (6-Stunden-Lauf)",
+   "place": "Lebach",
+   "bezirk": "Saarland",
+   "kreis": "LK Saarlouis",
+   "lat": 49.411,
+   "lon": 6.91,
+   "date": "2027-08-21",
+   "confirmed": true,
+   "distances": [
+    "6 h"
+   ],
+   "url": "https://www.laufdatensaar.de/home/index.php?men=4",
+   "source": "https://www.laufdatensaar.de/home/index.php?men=4",
+   "checked": "2026-11-08",
+   "info": "17. Lebacher Lionslauf als 6-Stunden-Bahnlauf auf der 400-m-Runde. Termin laut Saar-Laufkalender laufdatensaar.de (Stand 08.11.2026)."
   }
  ]
 }
