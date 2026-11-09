@@ -14957,13 +14957,13 @@
    "bezirk": "Freiburg",
    "kreis": "LK Rottweil",
    "date": "2027-03-07",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10,5"
    ],
    "source": "https://haid.app/en/events/tor-zur-welt-lauf-irslingen-muoy8gs3",
-   "checked": "2026-11-04",
+   "checked": "2026-11-09",
    "lat": 48.205,
    "lon": 8.649,
    "reg_close": "2027-03-05",
@@ -14971,13 +14971,14 @@
    "anmeldung_url": "https://my.raceresult.com/425743",
    "start_place": "Waidbachhalle, Dietingen-Irslingen",
    "showers": "Umkleiden und Duschen in der Waidbachhalle",
-   "info": "Veranstalter Freiwillige Feuerwehr Dietingen-Irslingen. Hauptlauf 10,5 km, Mittelstrecke 5 km, Nordic Walking 5 km, Kinderläufe und Feuerwehr-Team-Sprint. Transponder in der Startnummer. Termin 07.03.2027 laut running.life, hdsports nennt als Prognose 21.03.2027. Startzeiten der Ausgabe 2026: Hauptlauf und Mittelstrecke 10:00, Bambini 11:30, Kinderlauf 11:45 Uhr.",
+   "info": "Veranstalter Freiwillige Feuerwehr Dietingen-Irslingen. Hauptlauf 10,5 km, Mittelstrecke 5 km, Nordic Walking 5 km, Kinderläufe und Feuerwehr-Team-Sprint. Transponder in der Startnummer. Termin 07.03.2027 laut running.life, hdsports nennt als Prognose 21.03.2027. Startzeiten der Ausgabe 2026: Hauptlauf und Mittelstrecke 10:00, Bambini 11:30, Kinderlauf 11:45 Uhr. Termin laut Anmeldeportal (RaceResult, Stand 09.11.2026) bestätigt. Start Hauptlauf, 5 km und Walking um 10:00 Uhr laut Anmeldeportal.",
    "prev": {
     "fee": "Hauptlauf 10,5 km 12 €, Mittelstrecke 5 km 7 €, Walking 5 km 7 €, Kinderlauf 2 €, Bambini frei, Team Sprint 10 € je Teilnehmer, Nachmeldung +3 €",
     "start_time": "10:00"
    },
    "reg_open": "2026-10-01",
-   "fee": "Hauptlauf  - 10,5 km 12 € · Mittelstrecke - 5 km 7 € · (Nordic) Walking - 5 km 7 € · Kinderlauf  - 1,2 km 2 € · Bambinilauf  - 0,6 km 0 €"
+   "fee": "Hauptlauf 10,5 km 12 €, 5 km 7 €, (Nordic) Walking 5 km 7 €, Kinderlauf 2 €, Bambinilauf frei",
+   "start_time": "10:00"
   },
   {
    "id": "gmuender-stadtlauf-2027",
@@ -16903,19 +16904,23 @@
    "lat": 48.845,
    "lon": 8.596,
    "date": "2027-06-26",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "2 h",
     "6 h",
     "12 h"
    ],
    "source": "https://gotrail.run/de/termine/neuenburger-schloss-park-run",
-   "checked": "2026-11-04",
-   "info": "Backyard-/Rundenlauf auf 270-m-Schotterrunde im Schlosspark mit 2-, 6- und 12-Stunden-Wertung, Transponder-Zeitmessung, Verpflegung. Termin laut gotrail.run, Strecken und Startgeld nicht beim Veranstalter geprüft. Zeitlauf auf einer 270-m-Runde im Schlosspark Neuenbürg, 1. Auflage am 27.06.2026 (12 h, 6 h, Läufe für Jüngere und Ältere). Veranstalter Frank Götze und Tanja Höschele",
+   "checked": "2026-11-09",
+   "info": "Backyard-/Rundenlauf auf 270-m-Schotterrunde im Schlosspark mit 2-, 6- und 12-Stunden-Wertung, Transponder-Zeitmessung, Verpflegung. Termin laut gotrail.run, Strecken und Startgeld nicht beim Veranstalter geprüft. Zeitlauf auf einer 270-m-Runde im Schlosspark Neuenbürg, 1. Auflage am 27.06.2026 (12 h, 6 h, Läufe für Jüngere und Ältere). Veranstalter Frank Götze und Tanja Höschele. Termin laut Anmeldeportal (RaceResult, Stand 09.11.2026) bestätigt. Laut Anmeldeportal: 6 und 12 Stunden ab 8:00 Uhr, 2-Stunden-Läufe um 14:00 und 16:00 Uhr.",
    "url": "https://www.neuenbuerg.de/freizeit-erlebnis/veranstaltungskalender/2199/schlosspark-run",
    "prev": {
     "fee": "12 Stunden 79 €, 6 Stunden 49 €, Läufe für Jüngere und Ältere 10 € (Ausgabe 2026)"
-   }
+   },
+   "start_time": "08:00",
+   "reg_open": "2026-09-29",
+   "reg_close": "2027-06-18",
+   "fee": "12 h 71 €, 6 h 35 €, 2 h 13,50 € (ab 01.03.2027: 79 €, 39 €, 15 €)"
   },
   {
    "id": "remstal-lauf-2027",
@@ -53043,7 +53048,7 @@
    "lat": 51.2427245,
    "lon": 7.5235967,
    "date": "2027-01-17",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "52",
     "25"
@@ -53051,8 +53056,8 @@
    "url": "https://running.life/de/termine/schnadegang-rund-um-halver",
    "anmeldung_url": "https://my.raceresult.com/431920/",
    "source": "https://running.life/de/termine/schnadegang-rund-um-halver",
-   "info": "Termin und Strecken laut running.life/gotrail.run. Startgeld laut Anmeldeportal RaceResult am 05.11.2026",
-   "checked": "2026-11-05",
+   "info": "Termin und Strecken laut running.life/gotrail.run. Startgeld laut Anmeldeportal RaceResult am 05.11.2026. Termin laut Anmeldeportal (RaceResult, Stand 09.11.2026) bestätigt.",
+   "checked": "2026-11-09",
    "start_time": "08:00",
    "fee": "15 €"
   },
@@ -53580,7 +53585,7 @@
    "lat": 52.2958863,
    "lon": 7.5838639,
    "date": "2027-02-21",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "31,2",
     "62,4"
@@ -53588,8 +53593,8 @@
    "url": "https://running.life/de/termine/39-meilen-teuto-challenge",
    "anmeldung_url": "https://my.raceresult.com/422571/",
    "source": "https://running.life/de/termine/39-meilen-teuto-challenge",
-   "info": "Termin und Strecken laut running.life/gotrail.run. Startgeld laut Anmeldeportal RaceResult am 05.11.2026",
-   "checked": "2026-11-07",
+   "info": "Termin und Strecken laut running.life/gotrail.run. Startgeld laut Anmeldeportal RaceResult am 05.11.2026. Termin laut Anmeldeportal (RaceResult, Stand 09.11.2026) bestätigt.",
+   "checked": "2026-11-09",
    "start_time": "08:00",
    "fee": "62,4 km (2 Runden) 23 €, 31,2 km (1 Runde) 15 €",
    "reg_close": "2027-02-20"
@@ -53987,15 +53992,15 @@
    "lat": 51.3309319,
    "lon": 7.8646236,
    "date": "2027-03-13",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "47,6"
    ],
    "url": "https://running.life/de/termine/ultra-im-honnetal",
    "anmeldung_url": "https://my.raceresult.com/431385/",
    "source": "https://running.life/de/termine/ultra-im-honnetal",
-   "info": "Termin und Strecken laut running.life/gotrail.run. Startgeld laut Anmeldeportal RaceResult am 05.11.2026",
-   "checked": "2026-11-07",
+   "info": "Termin und Strecken laut running.life/gotrail.run. Startgeld laut Anmeldeportal RaceResult am 05.11.2026. Termin laut Anmeldeportal (RaceResult, Stand 09.11.2026) bestätigt.",
+   "checked": "2026-11-09",
    "start_time": "08:00",
    "fee": "10 €",
    "reg_close": "2027-03-12"
@@ -65544,15 +65549,15 @@
    "lat": 53.1162319,
    "lon": 9.7923436,
    "date": "2027-01-17",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "52"
    ],
    "url": "https://running.life/de/termine/luneburger-heide-winter-trail",
    "anmeldung_url": "https://my.raceresult.com/379965/",
    "source": "https://running.life/de/termine/luneburger-heide-winter-trail",
-   "info": "Termin und Strecken laut running.life/gotrail.run. Start 10:00 Uhr, Frühstart um 9:00 Uhr für langsame Läufer und Wanderer (52 km); Startgeld laut Anmeldeportal RaceResult am 05.11.2026",
-   "checked": "2026-11-07",
+   "info": "Termin und Strecken laut running.life/gotrail.run. Start 10:00 Uhr, Frühstart um 9:00 Uhr für langsame Läufer und Wanderer (52 km); Startgeld laut Anmeldeportal RaceResult am 05.11.2026. Termin laut Anmeldeportal (RaceResult, Stand 09.11.2026) bestätigt.",
+   "checked": "2026-11-09",
    "start_time": "09:00",
    "fee": "25 € (Anmeldung 20.01. bis 13.12.2026), 30 € (14.12.2026 bis 03.01.2027), 35 € (04.01. bis 15.01.2027)",
    "reg_open": "2026-01-20",
@@ -65636,15 +65641,15 @@
    "lat": 51.8205718,
    "lon": 9.8683087,
    "date": "2027-01-23",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "66"
    ],
    "url": "https://running.life/de/termine/leinetal-ultra-winter-edition",
    "anmeldung_url": "https://my.raceresult.com/420165/",
    "source": "https://running.life/de/termine/leinetal-ultra-winter-edition",
-   "info": "Termin und Strecken laut running.life/gotrail.run. Start 08:00 Uhr laut Anmeldeportal",
-   "checked": "2026-11-08",
+   "info": "Termin und Strecken laut running.life/gotrail.run. Start 08:00 Uhr laut Anmeldeportal. Termin laut Anmeldeportal (RaceResult, Stand 09.11.2026) bestätigt.",
+   "checked": "2026-11-09",
    "start_time": "08:00",
    "reg_close": "2027-01-16",
    "fee": "18 €",
@@ -65781,15 +65786,15 @@
    "lat": 53.0792962,
    "lon": 8.8016937,
    "date": "2027-02-02",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "54"
    ],
    "url": "https://running.life/de/termine/vier-turme-hamme-ultra",
    "anmeldung_url": "https://my.raceresult.com/409915/",
    "source": "https://running.life/de/termine/vier-turme-hamme-ultra",
-   "info": "Termin und Strecken laut running.life/gotrail.run. Startgeld laut Anmeldeportal RaceResult am 05.11.2026",
-   "checked": "2026-11-07",
+   "info": "Termin und Strecken laut running.life/gotrail.run. Startgeld laut Anmeldeportal RaceResult am 05.11.2026. Termin laut Anmeldeportal (RaceResult, Stand 09.11.2026) bestätigt.",
+   "checked": "2026-11-09",
    "start_time": "08:00",
    "fee": "1 €",
    "reg_close": "2027-02-01"
@@ -84212,10 +84217,11 @@
    "url": "https://hunsbuckel-trail.de",
    "source": "https://running.life/de/termine/hubut-winter-edition",
    "info": "4. Winter Edition des Hunsbuckel-Trails: 6-Stunden-Lauf auf der Traumschleife Klingelfloß, Runde rund 7 km mit 110 Hm, komplett Trail.",
-   "checked": "2026-11-08",
+   "checked": "2026-11-09",
    "limit": "222",
    "fee": "10 €",
-   "reg_close": "2027-02-19"
+   "reg_close": "2027-02-19",
+   "reg_open": "2026-10-03"
   },
   {
    "id": "8-stunden-wurzellauf-farschweiler-2027",
@@ -84290,7 +84296,9 @@
    "checked": "2026-11-09",
    "end": "2027-06-27",
    "start_place": "Stadion Obermühle, Rockenhausen",
-   "start_time": "12:00"
+   "start_time": "12:00",
+   "reg_open": "2026-09-11",
+   "reg_close": "2027-06-25"
   },
   {
    "id": "3-stundenlauf-lc-schifferstadt-2027",
