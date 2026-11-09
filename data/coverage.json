@@ -1,6 +1,6 @@
 ﻿{
  "land": "Bayern",
- "updated": "2026-11-07",
+ "updated": "2026-11-10",
  "hinweis": "Abdeckungs-Checkliste: status offen | in Arbeit | vollständig. prio = Reihenfolge der Bearbeitung.",
  "kreise": [
   {
@@ -9,7 +9,7 @@
    "bezirk": "Niederbayern",
    "prio": 1,
    "status": "vollständig",
-   "races": 2,
+   "races": 3,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -29,7 +29,7 @@
    "bezirk": "Niederbayern",
    "prio": 3,
    "status": "vollständig",
-   "races": 8,
+   "races": 9,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -39,7 +39,7 @@
    "bezirk": "Niederbayern",
    "prio": 4,
    "status": "vollständig",
-   "races": 8,
+   "races": 9,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -129,7 +129,7 @@
    "bezirk": "Oberpfalz",
    "prio": 13,
    "status": "vollständig",
-   "races": 6,
+   "races": 7,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -179,7 +179,7 @@
    "bezirk": "Oberpfalz",
    "prio": 18,
    "status": "vollständig",
-   "races": 3,
+   "races": 8,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -239,7 +239,7 @@
    "bezirk": "Oberbayern",
    "prio": 24,
    "status": "vollständig",
-   "races": 4,
+   "races": 6,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -279,7 +279,7 @@
    "bezirk": "Oberbayern",
    "prio": 28,
    "status": "vollständig",
-   "races": 6,
+   "races": 10,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -299,7 +299,7 @@
    "bezirk": "Oberbayern",
    "prio": 30,
    "status": "vollständig",
-   "races": 4,
+   "races": 7,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -309,7 +309,7 @@
    "bezirk": "Oberbayern",
    "prio": 31,
    "status": "vollständig",
-   "races": 2,
+   "races": 4,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -319,7 +319,7 @@
    "bezirk": "Oberbayern",
    "prio": 32,
    "status": "vollständig",
-   "races": 8,
+   "races": 10,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -329,7 +329,7 @@
    "bezirk": "Oberbayern",
    "prio": 33,
    "status": "vollständig",
-   "races": 2,
+   "races": 4,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -339,7 +339,7 @@
    "bezirk": "Oberbayern",
    "prio": 34,
    "status": "vollständig",
-   "races": 3,
+   "races": 4,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -349,7 +349,7 @@
    "bezirk": "Oberbayern",
    "prio": 35,
    "status": "vollständig",
-   "races": 4,
+   "races": 5,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -379,7 +379,7 @@
    "bezirk": "Oberbayern",
    "prio": 38,
    "status": "vollständig",
-   "races": 3,
+   "races": 7,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -389,7 +389,7 @@
    "bezirk": "Oberbayern",
    "prio": 39,
    "status": "vollständig",
-   "races": 8,
+   "races": 13,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -409,7 +409,7 @@
    "bezirk": "Oberbayern",
    "prio": 41,
    "status": "vollständig",
-   "races": 10,
+   "races": 11,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -419,7 +419,7 @@
    "bezirk": "Oberbayern",
    "prio": 42,
    "status": "vollständig",
-   "races": 3,
+   "races": 5,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -429,7 +429,7 @@
    "bezirk": "Oberbayern",
    "prio": 43,
    "status": "vollständig",
-   "races": 1,
+   "races": 2,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -439,7 +439,7 @@
    "bezirk": "Oberbayern",
    "prio": 44,
    "status": "vollständig",
-   "races": 11,
+   "races": 20,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -449,7 +449,7 @@
    "bezirk": "Oberbayern",
    "prio": 45,
    "status": "vollständig",
-   "races": 1,
+   "races": 3,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -459,7 +459,7 @@
    "bezirk": "Schwaben",
    "prio": 46,
    "status": "vollständig",
-   "races": 4,
+   "races": 6,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -479,7 +479,7 @@
    "bezirk": "Schwaben",
    "prio": 48,
    "status": "vollständig",
-   "races": 2,
+   "races": 3,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -489,7 +489,7 @@
    "bezirk": "Schwaben",
    "prio": 49,
    "status": "vollständig",
-   "races": 13,
+   "races": 15,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -499,7 +499,7 @@
    "bezirk": "Schwaben",
    "prio": 50,
    "status": "vollständig",
-   "races": 0,
+   "races": 1,
    "checked": "2026-11-07",
    "hinweis": "Nur Landkreislauf Günzburg (4 km, unter der 5-km-Grenze) und Cross-Triathlon; keine Läufe ab 5 km gefunden.. Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -509,7 +509,7 @@
    "bezirk": "Schwaben",
    "prio": 51,
    "status": "vollständig",
-   "races": 3,
+   "races": 4,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -519,7 +519,7 @@
    "bezirk": "Schwaben",
    "prio": 52,
    "status": "vollständig",
-   "races": 3,
+   "races": 4,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -529,7 +529,7 @@
    "bezirk": "Schwaben",
    "prio": 53,
    "status": "vollständig",
-   "races": 9,
+   "races": 14,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -539,7 +539,7 @@
    "bezirk": "Schwaben",
    "prio": 54,
    "status": "vollständig",
-   "races": 4,
+   "races": 6,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -559,7 +559,7 @@
    "bezirk": "Schwaben",
    "prio": 56,
    "status": "vollständig",
-   "races": 9,
+   "races": 13,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -579,7 +579,7 @@
    "bezirk": "Schwaben",
    "prio": 58,
    "status": "vollständig",
-   "races": 1,
+   "races": 3,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -589,7 +589,7 @@
    "bezirk": "Schwaben",
    "prio": 59,
    "status": "vollständig",
-   "races": 2,
+   "races": 3,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -599,7 +599,7 @@
    "bezirk": "Mittelfranken",
    "prio": 60,
    "status": "vollständig",
-   "races": 11,
+   "races": 14,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -609,7 +609,7 @@
    "bezirk": "Mittelfranken",
    "prio": 61,
    "status": "vollständig",
-   "races": 8,
+   "races": 11,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -619,7 +619,7 @@
    "bezirk": "Mittelfranken",
    "prio": 62,
    "status": "vollständig",
-   "races": 2,
+   "races": 3,
    "checked": "2026-11-07",
    "hinweis": "Keine Läufe ab 5 km im Landkreis gefunden (Metropolmarathon und Firmenlauf liegen in der Stadt Fürth).. Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -629,7 +629,7 @@
    "bezirk": "Mittelfranken",
    "prio": 63,
    "status": "vollständig",
-   "races": 8,
+   "races": 13,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -639,7 +639,7 @@
    "bezirk": "Mittelfranken",
    "prio": 64,
    "status": "vollständig",
-   "races": 4,
+   "races": 5,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -649,7 +649,7 @@
    "bezirk": "Mittelfranken",
    "prio": 65,
    "status": "vollständig",
-   "races": 12,
+   "races": 13,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -659,7 +659,7 @@
    "bezirk": "Mittelfranken",
    "prio": 66,
    "status": "vollständig",
-   "races": 10,
+   "races": 11,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -679,7 +679,7 @@
    "bezirk": "Mittelfranken",
    "prio": 68,
    "status": "vollständig",
-   "races": 2,
+   "races": 3,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -689,7 +689,7 @@
    "bezirk": "Mittelfranken",
    "prio": 69,
    "status": "vollständig",
-   "races": 1,
+   "races": 2,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -709,7 +709,7 @@
    "bezirk": "Mittelfranken",
    "prio": 71,
    "status": "vollständig",
-   "races": 1,
+   "races": 2,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -719,7 +719,7 @@
    "bezirk": "Oberfranken",
    "prio": 72,
    "status": "vollständig",
-   "races": 7,
+   "races": 8,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -729,7 +729,7 @@
    "bezirk": "Oberfranken",
    "prio": 73,
    "status": "vollständig",
-   "races": 3,
+   "races": 4,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -759,7 +759,7 @@
    "bezirk": "Oberfranken",
    "prio": 76,
    "status": "vollständig",
-   "races": 3,
+   "races": 4,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -769,7 +769,7 @@
    "bezirk": "Oberfranken",
    "prio": 77,
    "status": "vollständig",
-   "races": 2,
+   "races": 4,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -789,7 +789,7 @@
    "bezirk": "Oberfranken",
    "prio": 79,
    "status": "vollständig",
-   "races": 6,
+   "races": 7,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -809,7 +809,7 @@
    "bezirk": "Oberfranken",
    "prio": 81,
    "status": "vollständig",
-   "races": 2,
+   "races": 4,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -819,7 +819,7 @@
    "bezirk": "Oberfranken",
    "prio": 82,
    "status": "vollständig",
-   "races": 2,
+   "races": 3,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -829,7 +829,7 @@
    "bezirk": "Oberfranken",
    "prio": 83,
    "status": "vollständig",
-   "races": 2,
+   "races": 3,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -839,7 +839,7 @@
    "bezirk": "Oberfranken",
    "prio": 84,
    "status": "vollständig",
-   "races": 1,
+   "races": 2,
    "checked": "2026-11-07",
    "hinweis": "Hofer Backyard Ultra (Flughafen Hof-Plauen) am 03.11.2026 nachgetragen; Firmenlauf Teams in Bewegung ausgenommen. Alle bekannten Kalender durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -849,7 +849,7 @@
    "bezirk": "Unterfranken",
    "prio": 85,
    "status": "vollständig",
-   "races": 13,
+   "races": 19,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -859,7 +859,7 @@
    "bezirk": "Unterfranken",
    "prio": 86,
    "status": "vollständig",
-   "races": 4,
+   "races": 5,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -869,7 +869,7 @@
    "bezirk": "Unterfranken",
    "prio": 87,
    "status": "vollständig",
-   "races": 4,
+   "races": 6,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -879,7 +879,7 @@
    "bezirk": "Unterfranken",
    "prio": 88,
    "status": "vollständig",
-   "races": 2,
+   "races": 6,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -889,7 +889,7 @@
    "bezirk": "Unterfranken",
    "prio": 89,
    "status": "vollständig",
-   "races": 2,
+   "races": 7,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -899,7 +899,7 @@
    "bezirk": "Unterfranken",
    "prio": 90,
    "status": "vollständig",
-   "races": 4,
+   "races": 5,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -909,7 +909,7 @@
    "bezirk": "Unterfranken",
    "prio": 91,
    "status": "vollständig",
-   "races": 5,
+   "races": 12,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -929,7 +929,7 @@
    "bezirk": "Unterfranken",
    "prio": 93,
    "status": "vollständig",
-   "races": 6,
+   "races": 8,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -939,7 +939,7 @@
    "bezirk": "Unterfranken",
    "prio": 94,
    "status": "vollständig",
-   "races": 2,
+   "races": 4,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   },
@@ -959,7 +959,7 @@
    "bezirk": "Unterfranken",
    "prio": 96,
    "status": "vollständig",
-   "races": 6,
+   "races": 7,
    "checked": "2026-11-07",
    "hinweis": "Alle bekannten Kalender (gotrail.run, running.life, haid.app, hdsports, ladv.de) am 02.11.2026 durchgesehen; Vereinsläufe ohne Kalendereintrag sind nicht erfasst."
   }
