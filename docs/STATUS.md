@@ -1,22 +1,27 @@
 # Anmeldestatus der kommenden Läufe
 
-Stand: 08.11.2026 03:36 · 3302 kommende Läufe · 48 Anmeldeseiten gelesen · 80 Veranstalterseiten nach einem Anmeldelink durchsucht · 0 Eintrag/Einträge in races.json geändert
+Stand: 09.11.2026 03:40 · 3432 kommende Läufe · 45 Anmeldeseiten gelesen · 80 Veranstalterseiten nach einem Anmeldelink durchsucht · 1 Eintrag/Einträge in races.json geändert
 
 ## Heute geändert
 
-- Keine Änderung.
+- **41. MRRC Silvesterlauf München** (2026-12-31): Status unklar (vorher: frei)
+- **AÜW Georg Hieble Silvesterlauf Kempten** (2026-12-31): jetzt teilweise ausgebucht (vorher: frei)
+- **AÜW Georg Hieble Silvesterlauf Kempten** (2026-12-31): als teilweise ausgebucht eingetragen
+- **Allgäu Trail** (2027-09-05): Status unklar (vorher: frei)
 
 ## Bitte von Hand prüfen
 
 - **Lauf „Ich lauf mit gegen Gewalt“** (2026-11-14): Seite nennt Limit/ausgebucht, aber nicht eindeutig je Strecke – bitte von Hand prüfen
+- **41. MRRC Silvesterlauf München** (2026-12-31): Seite nennt Limit/ausgebucht, aber nicht eindeutig je Strecke – bitte von Hand prüfen
 - **Spiridon Mainova Silvesterlauf Frankfurt** (2026-12-31): Seite nennt Limit/ausgebucht, aber nicht eindeutig je Strecke – bitte von Hand prüfen
 - **Halbmarathon Sigmaringen (Schwäbische Zeitung)** (2027-06-13): Anmeldeseite gehört zu einem anderen Datum (2026-06-07)
 - **Ravensburger Stadtlauf** (2027-06-26): Anmeldeseite gehört zu einem anderen Datum (2026-06-27)
+- **Allgäu Trail** (2027-09-05): Seite nennt Limit/ausgebucht, aber nicht eindeutig je Strecke – bitte von Hand prüfen
 - **Karneval-Marathon** (2026-11-11): bei uns steht "ausgebucht", aber keine Quellseite nennt es mehr – bitte prüfen, ob wieder Plätze frei sind (https://www.karneval-marathon.de/)
 - **Landgrafenlauf** (2026-11-14): bei uns steht "ausgebucht", aber keine Quellseite nennt es mehr – bitte prüfen, ob wieder Plätze frei sind (https://my.raceresult.com/403691/registration)
 - **Mauritz-Lindenweg-Marathon** (2026-11-15): bei uns steht "ausgebucht", aber keine Quellseite nennt es mehr – bitte prüfen, ob wieder Plätze frei sind (https://my.raceresult.com/372747/)
 - **Warendorfer Garagen-Backyard** (2026-11-22): bei uns steht "ausgebucht", aber keine Quellseite nennt es mehr – bitte prüfen, ob wieder Plätze frei sind (https://my.raceresult.com/414210/)
-- **itdesign-Nikolauslauf Tübingen** (2026-12-06): bei uns steht "ausgebucht", aber keine Quellseite nennt es mehr – bitte prüfen, ob wieder Plätze frei sind (https://nikolauslauf-tuebingen.de)
+- **Rund um den Langenberg Ultra** (2026-12-12): bei uns steht "ausgebucht", aber keine Quellseite nennt es mehr – bitte prüfen, ob wieder Plätze frei sind (https://my.raceresult.com/419387/)
 - **X-MAS Trail Weiskirchen** (2026-12-13): bei uns steht "ausgebucht", aber keine Quellseite nennt es mehr – bitte prüfen, ob wieder Plätze frei sind (https://www.hartfuessler.de)
 - **Winterlaufserie Rheinzabern, 1. Lauf** (2026-12-13): bei uns steht "ausgebucht", aber keine Quellseite nennt es mehr – bitte prüfen, ob wieder Plätze frei sind (https://www.tv-rheinzabern.de/)
 - **Essener Rhein-Herne-Kanal Marathon** (2026-12-20): bei uns steht "ausgebucht", aber keine Quellseite nennt es mehr – bitte prüfen, ob wieder Plätze frei sind (https://my.raceresult.com/395941/)
@@ -24,58 +29,37 @@ Stand: 08.11.2026 03:36 · 3302 kommende Läufe · 48 Anmeldeseiten gelesen · 8
 - **Die Ha(a)rd Winter** (2027-01-02): bei uns steht "ausgebucht", aber keine Quellseite nennt es mehr – bitte prüfen, ob wieder Plätze frei sind (https://my.raceresult.com/393626/)
 - **OPTIMA Dreikönigslauf Schwäbisch Hall** (2027-01-06): bei uns steht "ausgebucht", aber keine Quellseite nennt es mehr – bitte prüfen, ob wieder Plätze frei sind (https://my.raceresult.com/426738/registration)
 - **WurzelWerk Backyard Ultra** (2027-05-07): bei uns steht "ausgebucht", aber keine Quellseite nennt es mehr – bitte prüfen, ob wieder Plätze frei sind (https://my.raceresult.com/425008/)
+- **O-SEE Backyard Ultra** (2027-07-10): bei uns steht "ausgebucht", aber keine Quellseite nennt es mehr – bitte prüfen, ob wieder Plätze frei sind (https://my.raceresult.com/412250/registration)
 
 ## Quelle nennt jetzt Angaben, die bei uns fehlen (nächste 6 Monate)
 
-- **Hegau-Bodensee Crosslaufserie – Meersburg** (2026-11-08): Startzeit (Seite nennt Uhrzeiten) – https://hegau-bodensee-cross.de
-- **Herbstwaldlauf – Dresdner Heide mit Hofewiese-TRAIL** (2026-11-08): Startgeld (Seite nennt Beträge) – http://www.herbstwaldlauf.com/
-- **Ritter-Wormlitz-Lauf Wormlage** (2026-11-08): Startzeit (Seite nennt Uhrzeiten) – https://www.wormlage-online.de/seite/246210/ritter-wormlitz-lauf.html
-- **Int. Martinslauf** (2026-11-08): Meldeschluss (Seite nennt das Wort) – https://www.tv-losheim.de/
-- **Ruller Bruch Marathon** (2026-11-08): Startgeld (Seite nennt Beträge) – https://running.life/de/termine/ruller-bruch-marathon/2026-11-08
-- **Quickborn Run über 5 km und 10 km** (2026-11-08): Startgeld (Seite nennt Beträge) – http://www.quickbo-run.de/
-- **Ladbergen Ultramarathon** (2026-11-13): Meldeschluss (Seite nennt das Wort) – https://running.life/de/termine/ladbergen-marathon/2026-11-13
-- **6 oder 12h Run Freudenstadt-Grüntal (14./15. November)** (2026-11-14): Startzeit (Seite nennt Uhrzeiten) – https://neckarlauf.com/6hoder12h-run.html
-- **Crosslauf in den Ravensbergen** (2026-11-14): Startzeit (Seite nennt Uhrzeiten) – https://www.strassenlauf.org/va_details.php?id=973
 - **Alzeyer Kunst- und Kultur-Ultra** (2026-11-14): Startzeit (Seite nennt Uhrzeiten) – https://running.life/de/termine/alzeyer-kunst-und-kultur-ultra
+- **Gudensberger Crosslauf (Hermann-Kilian-Gedächtnislauf)** (2026-11-14): Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender
+- **Uchter Volks- und Crosslauf** (2026-11-14): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.laufen.de/laufkalender/details/uchter-volks-und-crosslauf
 - **Geislinger Volkslauf** (2026-11-15): Startzeit (Seite nennt Uhrzeiten) – https://leichtathletik.tsv-geislingen.de/
 - **Crosslauf im Weißiger Wald** (2026-11-15): Meldeschluss (Seite nennt das Wort) – https://www.leichtathletik-dresden.de/
-- **Kottenforst Halbmarathon** (2026-11-15): Startzeit (Seite nennt Uhrzeiten) – https://www.laufen-im-rheinland.de/kottenforst-halbmarathon/
-- **Mauritz-Lindenweg-Marathon** (2026-11-15): Startgeld (Seite nennt Beträge) – https://running.life/de/termine/mauritz-lindenweg-marathon
-- **Winterlaufserie Alfter** (2026-11-15): Startzeit (Seite nennt Uhrzeiten) – https://www.alfterer-sc.de/?pageID=48
-- **Kanal-Marathon Hespe** (2026-11-15): Startgeld (Seite nennt Beträge), Meldeschluss (Seite nennt das Wort) – https://jobst-von-palombini.webnode.page/ausschreibungen/
-- **Lauf der Nahe-Crosslauf-Serie in Schwollen** (2026-11-21): Startzeit (Seite nennt Uhrzeiten) – https://running.life/de/termine/lauf-der-nahe-crosslauf-serie-in-schwollen
-- **Bramscher Königstannen-Kanal-Cross** (2026-11-22): Startzeit (Seite nennt Uhrzeiten) – https://www.laufen-os.de/wettkaempfe/5-bramscher-koenigstannen-kanal-cross-2026
+- **Darmstadt Cross Challenge** (2026-11-21): Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender
+- **Lindenseelaufserie Rüsselsheim** (2026-11-21): Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender
 - **Artenschutzlauf Karlsruhe** (2026-11-22): Startzeit (Seite nennt Uhrzeiten) – https://www.blv-online.de/laeufe/veranstaltungstermine
-- **Gevatterseemarathon** (2026-11-23): Startgeld (Seite nennt Beträge), Meldeschluss (Seite nennt das Wort) – https://jobst-von-palombini.webnode.page/ausschreibungen/
-- **Orange Day Hannover** (2026-11-25): Startzeit (Seite nennt Uhrzeiten) – https://www.marathon-hannover.de/orangeday.html
-- **ter Glühweinlauf Marienhagen** (2026-11-28): Startgeld (Seite nennt Beträge) – https://www.gluehweinlauf-marienhagen.de/
-- **KoBoLT** (2026-11-28): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/kobolt
-- **Winterserie Post SV Lehrte, 4. Lauf** (2026-11-28): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/winterserie-post-sv-lehrte-4-lauf
 - **Adventslauf Weiden** (2026-11-29): Startzeit (Seite nennt Uhrzeiten) – https://sportverein-weiden.de
-- **Winterlauf- & Walkingserie Hofheim-Lorsbach** (2026-11-29): Startzeit (Seite nennt Uhrzeiten) – https://tvlorsbach.de/
-- **Flonheimer Adventslauf** (2026-11-29): Startzeit (Seite nennt Uhrzeiten) – https://runtix.com/sts/10021/3242
+- **Lorsbacher Winterlauf- und Walkingserie, 1. Lauf** (2026-11-29): Startzeit (Seite nennt Uhrzeiten) – https://tvlorsbach.de/
 - **Ratzeburger Adventslauf** (2026-11-29): Startgeld (Seite nennt Beträge) – https://adventslauf.de/
+- **Wiedenbrücker Christkindllauf** (2026-12-04): Startzeit (Seite nennt Uhrzeiten) – https://www.laufen.de/laufkalender/details/26V19000341360501
 - **Nikolauslauf der TSG Schnaitheim** (2026-12-05): Startzeit (Seite nennt Uhrzeiten) – https://tsg-leichtathletik-rasenkraftsport.heidenheim.com/
 - **Sport-Tahedl-Nikolauslauf** (2026-12-06): Startzeit (Seite nennt Uhrzeiten) – https://ladv.de/ausschreibung/detail/48822/Sport-Tahedl-Nikolauslauf-Regensburg.htm
+- **Winterlaufserie Ahnatal, 2. Wertungslauf** (2026-12-06): Startzeit (Seite nennt Uhrzeiten) – https://sportverein-weimar.de/
 - **Werdener Crosslauf** (2026-12-06): Startzeit (Seite nennt Uhrzeiten) – https://werdener-turnerbund.de/
 - **Adventslauf der TG Lage** (2026-12-06): Startgeld (Seite nennt Beträge) – https://tglage.de/
-- **Bergbaurundweg Witten Marathon** (2026-12-06): Startgeld (Seite nennt Beträge) – https://running.life/de/termine/bergbaurundweg-witten-marathon/2026-12-06
-- **Bramscher 100 Charity-Lauf** (2026-12-06): Startzeit (Seite nennt Uhrzeiten) – https://www.laufen-os.de/wettkaempfe/bramscher-100-charity-lauf-2026
-- **Winterlauf- und Wanderserie des TuS Jaderberg - 4. Lauf** (2026-12-06): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/winterlauf-und-wanderserie-des-tus-jaderberg-4-lauf
 - **Nikolauslauf des Ahrensburger TSV** (2026-12-06): Startgeld (Seite nennt Beträge) – http://meinatsv.de/
-- **Ellewicker Adventslauf** (2026-12-12): Startgeld (Seite nennt Beträge) – https://ellewicker-adventslauf.de/
-- **Weihnachtszauber Hamburg** (2026-12-12): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/weihnachtszauber-hamburg
-- **Bramfelder Winterlaufserie, 2. Lauf** (2026-12-13): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/bramfelder-winterlauf-serie-2-lauf
-- **Gevatterseemarathon** (2026-12-13): Startgeld (Seite nennt Beträge), Meldeschluss (Seite nennt das Wort) – https://jobst-von-palombini.webnode.page/ausschreibungen/
-- **Winterlaufserie Beverstedt-Wellen, 2. Lauf** (2026-12-13): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/winterlaufserie-beverstedt-wellen-2-lauf
+- **Eifellauf Pronsfeld** (2026-12-12): Startzeit (Seite nennt Uhrzeiten) – http://www.eifellauf.de/
+- **Alten-Busecker Winterlaufserie, 2. Lauf** (2026-12-12): Startzeit (Seite nennt Uhrzeiten) – https://www.tsg-alten-buseck.com/
 - **Flensburger Adventslauf** (2026-12-13): Startgeld (Seite nennt Beträge) – https://flensburger-lauftreff.de/
+- **Adventlauf der SKV Mörfelden** (2026-12-13): Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender
+- **Rheine Kloster/Schloss Bentlage Marathon** (2026-12-19): Meldeschluss (Seite nennt das Wort) – https://running.life/de/termine/rheine-klosterschloss-bentlage-marathon/2026-12-19
 - **Erfurter HEROS Weihnachtslauf** (2026-12-20): Startgeld (Seite nennt Beträge) – https://spendenmarsch.org/
-- **Winterlauf Serie Stadthagen, 4. Lauf** (2026-12-20): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/winterlauf-serie-stadthagen-4-lauf
-- **Northeimer Heiligabend Marathon** (2026-12-24): Startgeld (Seite nennt Beträge) – https://running.life/de/termine/northeimer-heiligabend-marathon
-- **Wassermühlen-Ultra Rulle** (2026-12-24): Startgeld (Seite nennt Beträge) – https://running.life/de/termine/wassermuhlen-ultra-rulle/2026-12-24
+- **Lorsbacher Winterlauf- und Walkingserie, 2. Lauf** (2026-12-20): Startzeit (Seite nennt Uhrzeiten) – https://tvlorsbach.de/
 - **Gänsebratenvernichtungslauf Wiesbaden** (2026-12-26): Startzeit (Seite nennt Uhrzeiten) – http://www.lcolympia.de/
 - **Speck-Weg-Lauf** (2026-12-26): Startzeit (Seite nennt Uhrzeiten) – http://speckweglauf.com/
-- **Silvesterlauf Wesertal-Arenborn** (2026-12-28): Startzeit (Seite nennt Uhrzeiten) – http://mtv-vernawahlshausen.de/
 - **Silvesterlauf Neuburg/Donau** (2026-12-31): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.tsv1862-neuburg.de/abteilungen/leichtathletik/ausschreibungen/
 - **Silvesterlauf Tettnang** (2026-12-31): Meldeschluss (Seite nennt das Wort) – https://tsv-tettnang.de
 - **Silvesterlauf auf die Burg Teck** (2026-12-31): Startzeit (Seite nennt Uhrzeiten) – https://vfl-kirchheim.de/lauftreff
@@ -89,13 +73,13 @@ Stand: 08.11.2026 03:36 · 3302 kommende Läufe · 48 Anmeldeseiten gelesen · 8
 - **OTB Silvesterlauf** (2026-12-31): Startgeld (Seite nennt Beträge) – https://otb.de/
 - **Holcim Silvesterlauf Lägerdorf** (2026-12-31): Startzeit (Seite nennt Uhrzeiten) – http://www.silvesterlauf-laegerdorf.de
 - **Silvesterlauf St. Peter-Ording** (2026-12-31): Startzeit (Seite nennt Uhrzeiten) – https://www.st-peter-ording.de/spo/
+- **Silvesterlauf Flörsheim-Weilbach** (2026-12-31): Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender
+- **Silvesterlauf der LG Bamberg** (2026-12-31): Startzeit (Seite nennt Uhrzeiten) – http://lg-bamberg.de
 - **Forster Neujahrslauf** (2027-01-01): Startzeit (Seite nennt Uhrzeiten) – http://www.ltsv.de
 - **Neujahrslauf Bad Liebenwerda** (2027-01-01): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/neujahrslauf-bad-liebenwerda
-- **Northeimer Neujahrsmarathon** (2027-01-01): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://running.life/de/termine/northeimer-neujahrsmarathon
-- **Metallhenge Lauf** (2027-01-02): Startgeld (Seite nennt Beträge) – https://running.life/de/termine/metallhenge-lauf
-- **Winterserie Post SV Lehrte, 8. Lauf** (2027-01-02): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/winterserie-post-sv-lehrte-8-lauf
+- **Northeimer Neujahrsmarathon** (2027-01-01): Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – https://running.life/de/termine/northeimer-neujahrsmarathon
+- **Silvesterlauf Wesertal-Arenborn** (2027-01-03): Startzeit (Seite nennt Uhrzeiten) – http://mtv-vernawahlshausen.de/
 - **Dortmunder Neujahrslauf (Phoenix-Neujahrslauf)** (2027-01-03): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/phoenix-neujahrslauf
-- **Schnelsener Moorlauf** (2027-01-03): Startgeld (Seite nennt Beträge), Meldeschluss (Seite nennt das Wort) – https://running.life/de/termine/schnelsener-moorlauf
 - **Degerlocher 3-Königslauf** (2027-01-06): Startzeit (Seite nennt Uhrzeiten) – https://www.lac-degerloch.de/index.php/veranstaltungen/volkslauf-3-koenigslauf
 - **Riesenpfannkuchenlauf** (2027-01-06): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/riesenpfannkuchenlauf
 - **Pankower GESOBAU Pfannkuchenlauf** (2027-01-09): Startzeit (Seite nennt Uhrzeiten) – http://www.ksv-90.de/
@@ -104,51 +88,56 @@ Stand: 08.11.2026 03:36 · 3302 kommende Läufe · 48 Anmeldeseiten gelesen · 8
 - **Crosslaufserie Oberschwaben – 2. Lauf Vogt** (2027-01-10): Startzeit (Seite nennt Uhrzeiten) – https://crosslaufserie-oberschwaben.de/veranstaltungsorte/10-01-2027-vogt/
 - **Silvesterlauf Oranienbaum** (2027-01-10): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/silvesterlauf-oranienbaum
 - **Crosslauf Mehren - Crosslaufserie Vulkaneifel Sparkassen-Cup** (2027-01-10): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/crosslauf-mehren
-- **Winterlauf- und Wanderserie des TuS Jaderberg - 6. Lauf** (2027-01-10): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/winterlauf-und-wanderserie-des-tus-jaderberg-6-lauf
+- **hkk Winterlaufserie Bremen, 1. Lauf** (2027-01-10): Startzeit (Seite nennt Uhrzeiten) – https://bremer-winterlaufserie.com/
 - **der reporter Lauf** (2027-01-10): Startgeld (Seite nennt Beträge) – https://www.der-reporter.de/startseite/
+- **Lorsbacher Winterlauf- und Walkingserie, 3. Lauf** (2027-01-10): Startzeit (Seite nennt Uhrzeiten) – https://tvlorsbach.de/
+- **Winterlaufserie Ahnatal, 3. Wertungslauf** (2027-01-10): Startzeit (Seite nennt Uhrzeiten) – https://sportverein-weimar.de/
+- **Winterlaufserie Stadthagen** (2027-01-10): Startzeit (Seite nennt Uhrzeiten) – http://www.tsv-eintracht-bueckeberge.de
 - **ALB-GOLD Winterlauf-Cup, 1. Lauf** (2027-01-16): Startzeit (Seite nennt Uhrzeiten) – https://www.alb-gold.de/aktiv/alb-gold-winterlauf.html
 - **Crosslaufserie Kreis Bernkastel-Wittlich - Lauf Bengel** (2027-01-16): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/crosslaufserie-kreis-bernkastel-wittlich
 - **Kaltenstein-Crosslauf** (2027-01-17): Startzeit (Seite nennt Uhrzeiten) – http://www.ltf-theeltal.de/
-- **Winterserie des LSV Porz** (2027-01-17): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – http://www.helmuturbach.de/winterlaufserie.html
-- **Bramfelder Winterlauf-Serie, 3. Lauf** (2027-01-17): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/bramfelder-winterlauf-serie-3-lauf
+- **Winterserie des LSV Porz, 1. Lauf** (2027-01-17): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – http://www.helmuturbach.de/winterlaufserie.html
 - **Krähen-Cross** (2027-01-17): Startzeit (Seite nennt Uhrzeiten) – http://www.holtorfer-sv.de
-- **Winterlaufserie Beverstedt-Wellen, 3. Lauf** (2027-01-17): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/winterlaufserie-beverstedt-wellen-3-lauf
-- **Nürnberger Winterlaufserie, 2. Lauf** (2027-01-17): Startzeit (Seite nennt Uhrzeiten) – https://runningconcepts.de/nuernberger-winterlaufserie
 - **Frostwiesenlauf Burg (Spreewald)** (2027-01-23): Startzeit (Seite nennt Uhrzeiten) – http://www.frostwiese.de
 - **3B Rhoihesse Crosslauf** (2027-01-23): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/3b-rhoihessecross-lauf
-- **ASV Duisburg Winterlaufserie, 1. Lauf** (2027-01-23): Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – https://www.asv-winterlaufserie.de/ausschreibung/
 - **TUSEM Westdeutsche Waldlaufserie** (2027-01-23): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/westdeutsche-waldlaufserie-2
-- **Ems-Dollart-Winterlaufserie** (2027-01-23): Startzeit (Seite nennt Uhrzeiten) – http://tv-bunde.de/
-- **Leinetal-Ultra Winter Edition** (2027-01-23): Startgeld (Seite nennt Beträge) – https://running.life/de/termine/leinetal-ultra-winter-edition
-- **Winterserie Post SV Lehrte, 11. Lauf** (2027-01-23): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/winterserie-post-sv-lehrte-11-lauf
+- **Ems-Dollart-Winterlaufserie, Lauf Jemgum** (2027-01-23): Startzeit (Seite nennt Uhrzeiten) – http://www.lauftreff-sv-ems-jemgum.de/
 - **Cross-und Waldlaufserie im Kreisforst Weddingstedt** (2027-01-23): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.runme.de/deutschland/cross-und-waldlaufserie-kreisforst-weddingstedt/
+- **Alten-Busecker Winterlaufserie, 3. Lauf** (2027-01-23): Startzeit (Seite nennt Uhrzeiten) – https://www.tsg-alten-buseck.com/
 - **Freinsheimer Volkslauf / Rund um den Oschelkopf** (2027-01-24): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/freinsheimer-volkslauf-rund-um-den-oschelkopf
 - **Jungbornparklauf Moers** (2027-01-24): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/jungbornparklauf-moers
 - **Winterlauf Lüchow** (2027-01-24): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – http://www.igaswendland.de/
 - **Winterlaufserie Eckernförde** (2027-01-24): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.runme.de/deutschland/winterlaufserie-eckernfoerde/
-- **Winterlaufserie LG Dornburg** (2027-01-30): Startzeit (Seite nennt Uhrzeiten) – http://www.lg-dornburg.de
+- **Winterlaufserie Drelsdorf, 2. Lauf** (2027-01-24): Startzeit (Seite nennt Uhrzeiten) – https://sportinhusum.de/
+- **Lorsbacher Winterlauf- und Walkingserie, 4. Lauf** (2027-01-24): Startzeit (Seite nennt Uhrzeiten) – https://tvlorsbach.de/
+- **Winterlaufserie Stadthagen** (2027-01-24): Startzeit (Seite nennt Uhrzeiten) – http://www.tsv-eintracht-bueckeberge.de
+- **Winterlaufserie LG Dornburg, 1. Lauf** (2027-01-30): Startzeit (Seite nennt Uhrzeiten) – http://www.lg-dornburg.de
 - **Winterlauf des TSV 1893 Leipzig-Wahren e.V.** (2027-01-30): Startzeit (Seite nennt Uhrzeiten) – https://www.tsv-1893-leipzig-wahren.de/
 - **ALB-GOLD Winterlauf-Cup, 2. Lauf** (2027-01-30): Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – https://www.alb-gold.de/aktiv/alb-gold-winterlauf.html
 - **Maintal-Crosslauf** (2027-01-31): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/maintal-crosslauf
+- **Zitronenkrämerlauf** (2027-01-31): Startgeld (Seite nennt Beträge) – http://bekond.wordpress.com/
 - **Insellauf zur Insel Grafenwerth** (2027-01-31): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/insellauf-zur-insel-grafenwerth
-- **Winterlaufserie Drelsdorf** (2027-01-31): Startzeit (Seite nennt Uhrzeiten) – https://sportinhusum.de/
+- **Winterlaufserie der Hildener AT, 1. Lauf** (2027-01-31): Startzeit (Seite nennt Uhrzeiten) – http://www.hildener-at.de
+- **Winterserie des LSV Porz, 2. Lauf** (2027-01-31): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – http://www.helmuturbach.de/winterlaufserie.html
+- **Pfannkuchenlauf Cottbus** (2027-02-06): Startzeit (Seite nennt Uhrzeiten) – http://www.cpl-ev.de/html/verein.htm
+- **Ems-Dollart-Winterlaufserie, 2. Lauf Bunde** (2027-02-06): Startzeit (Seite nennt Uhrzeiten) – http://tv-bunde.de/
 - **Crosslauf Nordhastedt** (2027-02-06): Startzeit (Seite nennt Uhrzeiten) – https://www.klv-dithmarschen.net/
-- **Haferberg - Hasenmühle UltraTrail** (2027-02-07): Startzeit (Seite nennt Uhrzeiten) – https://gotrail.run/de/termine/haferberg-hasenmuhle-ultratrail
-- **Zitronenkrämerlauf** (2027-02-07): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – http://bekond.wordpress.com/
-- **Hildener Winterlaufserie** (2027-02-07): Startzeit (Seite nennt Uhrzeiten) – http://www.hildener-at.de
 - **Pokal-Crosslauf Lüchtringen (Höxter)** (2027-02-07): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/pokal-crosslauf
-- **Sparkassen Winterlaufserie** (2027-02-07): Startzeit (Seite nennt Uhrzeiten) – http://www.lg-hamm.de
-- **Deister Arschgeweih Marathon** (2027-02-07): Startgeld (Seite nennt Beträge) – https://running.life/de/termine/deister-arschgeweih-marathon
 - **Winterlauf- und Wanderserie des TuS Jaderberg - 8. Lauf** (2027-02-07): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/winterlauf-und-wanderserie-des-tus-jaderberg-8-lauf
 - **Winterlaufserie TV Georgsmarienhütte - 2. Lauf** (2027-02-07): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/winterlaufserie-tv-georgsmarienhuette-2-lauf
-- **Pfannkuchenlauf Cottbus** (2027-02-13): Startzeit (Seite nennt Uhrzeiten) – http://www.cpl-ev.de/html/verein.htm
-- **ASV Duisburg Winterlaufserie, 2. Lauf** (2027-02-13): Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – https://www.asv-winterlaufserie.de/ausschreibung/
+- **hkk Winterlaufserie Bremen, 2. Lauf** (2027-02-07): Startzeit (Seite nennt Uhrzeiten) – https://bremer-winterlaufserie.com/
+- **Winterlaufserie Drelsdorf, 3. Lauf** (2027-02-07): Startzeit (Seite nennt Uhrzeiten) – https://sportinhusum.de/
+- **Winterlaufserie Stadthagen** (2027-02-07): Startzeit (Seite nennt Uhrzeiten) – http://www.tsv-eintracht-bueckeberge.de
+- **Winterlaufserie LG Dornburg, 2. Lauf** (2027-02-13): Startzeit (Seite nennt Uhrzeiten) – http://www.lg-dornburg.de
 - **Luckenwalder Crosslaufserie** (2027-02-14): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/luckenwalder-crosslaufserie
-- **Winterlaufserie der Hildener AT** (2027-02-14): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/winterlaufserie-der-hildener-at
+- **Winterlaufserie der Hildener AT, 2. Lauf** (2027-02-14): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/winterlaufserie-der-hildener-at
+- **Hammer Winterlaufserie, 15 km** (2027-02-14): Startzeit (Seite nennt Uhrzeiten) – http://www.lg-hamm.de
 - **Bertlicher Straßenläufe** (2027-02-14): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/bertlicher-strassenlaeufe
 - **Sieben-Quellen-Crosslauf** (2027-02-14): Startzeit (Seite nennt Uhrzeiten) – https://sv19straelen.de/
 - **Der Formtest** (2027-02-14): Startzeit (Seite nennt Uhrzeiten) – https://www.marathon-hannover.de/
 - **Glashauslauf** (2027-02-14): Meldeschluss (Seite nennt das Wort) – https://running.life/de/termine/glashauslauf
+- **Lorsbacher Winterlauf- und Walkingserie, 5. Lauf** (2027-02-14): Startzeit (Seite nennt Uhrzeiten) – https://tvlorsbach.de/
+- **Winterlaufserie Ahnatal, 4. Wertungslauf** (2027-02-14): Startzeit (Seite nennt Uhrzeiten) – https://sportverein-weimar.de/
 - **Forster Gewichtslauf** (2027-02-20): Startzeit (Seite nennt Uhrzeiten) – https://ltsv.de/
 - **Föschber Radweglauf** (2027-02-20): Startzeit (Seite nennt Uhrzeiten) – https://www.ausdauer-shop.de/
 - **Meerhardt Extreme** (2027-02-20): Startgeld (Seite nennt Beträge) – http://www.meerhardtextreme.de
@@ -158,48 +147,58 @@ Stand: 08.11.2026 03:36 · 3302 kommende Läufe · 48 Anmeldeseiten gelesen · 8
 - **Waldlauf Büchenbach** (2027-02-20): Meldeschluss (Seite nennt das Wort) – https://ladv.de/ausschreibung/detail/48864/96.-Waldlauf-B%C3%BCchenbach.htm
 - **ALB-GOLD Winterlauf-Cup, 3. Lauf** (2027-02-20): Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – https://www.alb-gold.de/aktiv/alb-gold-winterlauf.html
 - **Hegau-Bodensee Crosslaufserie – Reichenau** (2027-02-21): Startzeit (Seite nennt Uhrzeiten) – https://hegau-bodensee-cross.de/serie/reichenau/
+- **Ferraro Gutsweiherlauf** (2027-02-21): Startzeit (Seite nennt Uhrzeiten) – http://www.vfa-neunkirchen.de/
 - **Bramfelder Winterlaufserie, 4. Lauf** (2027-02-21): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/bramfelder-winterlauf-serie-4-lauf
 - **Crosslauf des DJK Eintracht Börger** (2027-02-21): Startzeit (Seite nennt Uhrzeiten) – http://www.eintracht-boerger.de/
 - **Halbmarathon SV Eidelstedt Hamburg** (2027-02-21): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/3-halbmarathon-sv-eidelstedt-hamburg
+- **Winterlaufserie des Eisenacher LV, 2. Lauf** (2027-02-21): Startzeit (Seite nennt Uhrzeiten) – https://eisenacher-leichtathletik-verein.de
+- **Winterlaufserie Stadthagen** (2027-02-21): Startzeit (Seite nennt Uhrzeiten) – http://www.tsv-eintracht-bueckeberge.de
 - **Donnersberglauf** (2027-02-27): Startzeit (Seite nennt Uhrzeiten) – http://www.lc-donnersberg.de
 - **Gaußturm Cross** (2027-02-27): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – http://www.hasenmelker-lauf.de
 - **Piesberg Marathon** (2027-02-27): Startzeit (Seite nennt Uhrzeiten) – https://lg-lottehalen.jimdofree.com/piesberg-marathon-27-2/
 - **Cross-und Waldlaufserie in Burg** (2027-02-27): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.runme.de/deutschland/cross-und-waldlaufserie-in-burg/
 - **Kiel Marathon** (2027-02-27): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://racenotify.com/en/event/29-kiel-marathon-2027
+- **Winterlaufserie LG Dornburg, 3. Lauf** (2027-02-27): Startzeit (Seite nennt Uhrzeiten) – http://www.lg-dornburg.de
+- **Silberaulauf** (2027-02-27): Startzeit (Seite nennt Uhrzeiten) – http://tvbadems.de/
 - **Heidelauf Halle 1. Lauf** (2027-02-28): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/heidelaufserie-1-heidelauf
 - **Dreilinden Ultra-Lauf** (2027-02-28): Startzeit (Seite nennt Uhrzeiten) – https://dreilinden-ultralauf.dielaufpartner.com/startseite/
 - **Eifelsteig Crosslauf Gerolstein-Büscheich** (2027-02-28): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/crosslauf-gerolstein
-- **AOK Winterlaufserie Bremen** (2027-02-28): Startzeit (Seite nennt Uhrzeiten) – https://bremer-winterlaufserie.com/
 - **Volkslauf um den Altwarmbüchener See** (2027-02-28): Startzeit (Seite nennt Uhrzeiten) – https://sc-altwarmbuechen.de/
+- **Winterlaufserie der Hildener AT, 3. Lauf** (2027-02-28): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/winterlaufserie-der-hildener-at
 - **Lahntallauf Marburg** (2027-03-06): Startgeld (Seite nennt Beträge) – https://ultra-marburg.de/
-- **Auf die Platte - fertig - los** (2027-03-06): Startzeit (Seite nennt Uhrzeiten) – http://www.lcolympia.de
+- **Zwei-Hügel-Crosslauf Darmstadt-Wixhausen** (2027-03-06): Startzeit (Seite nennt Uhrzeiten) – https://leichtathletik-wixhausen.de/
 - **Hofwiesenparklauf - 1. Osterland Cross** (2027-03-06): Startzeit (Seite nennt Uhrzeiten) – https://www.1-sv-gera.de/
 - **Sömmerdaer Hoffnungsroute** (2027-03-06): Startzeit (Seite nennt Uhrzeiten) – https://run4kids-soem.de/
 - **Rund um die Kaulsdorfer Seen (Frühjahr)** (2027-03-06): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – http://www.kolv.de/index.php?m=4&m2=5
 - **Solidaritätslauf Köln Feminist Law Clinic** (2027-03-06): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/solidaritaetslauf-koeln-feminist-law-clinic
 - **Fishermanstrail (FMT) - Winter-Edition** (2027-03-06): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/fishermanstrail-fmt-winter-edition
 - **ALB-GOLD Winterlauf-Cup, 4. Lauf (Finale)** (2027-03-06): Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – https://www.alb-gold.de/aktiv/alb-gold-winterlauf.html
-- **Winterlaufserie Ahnatal** (2027-03-07): Startzeit (Seite nennt Uhrzeiten) – https://sportverein-weimar.de/
-- **Schlossparklauf Bad Muskau** (2027-03-07): Startzeit (Seite nennt Uhrzeiten) – https://laufbewegung-wsw.de/
 - **Frauenseelauf** (2027-03-07): Startgeld (Seite nennt Beträge) – http://www.laufen-in-kw.de/
 - **Metallurgenlauf** (2027-03-07): Startzeit (Seite nennt Uhrzeiten) – http://www.1-rlv-ehst02.de/
-- **Coesfelder Heidelauf** (2027-03-07): Startzeit (Seite nennt Uhrzeiten) – http://www.djk-coesfeld.de/
 - **Winterlaufserie Stadthagen** (2027-03-07): Startzeit (Seite nennt Uhrzeiten) – http://www.tsv-eintracht-bueckeberge.de
 - **Rothseelauf** (2027-03-07): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://runningconcepts.de/rothseelauf
+- **hkk Winterlaufserie Bremen, 3. Lauf** (2027-03-07): Startzeit (Seite nennt Uhrzeiten) – https://bremer-winterlaufserie.com/
 - **Gmünder Stadtlauf** (2027-03-13): Startzeit (Seite nennt Uhrzeiten) – https://gmuender-stadtlauf.de
+- **Frühjahrscrosslauf im Steiger** (2027-03-13): Startzeit (Seite nennt Uhrzeiten) – http://www.asv-leichtathletik.de/
 - **Messepokallauf** (2027-03-13): Startzeit (Seite nennt Uhrzeiten) – http://www.lc-auensee-leipzig.de
+- **Branitzer Parklauf (Frühjahr)** (2027-03-13): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/branitzer-parklauf
+- **Hennigsdorfer Metallarbeiterlauf** (2027-03-13): Startzeit (Seite nennt Uhrzeiten) – http://www.emb-cup.de/
+- **Eifellauf Waxweiler** (2027-03-13): Startzeit (Seite nennt Uhrzeiten) – http://www.eifellauf.de/
 - **Nanstein-Berglauf** (2027-03-13): Startzeit (Seite nennt Uhrzeiten) – http://www.llg-landstuhl.de
-- **ASV Duisburg Winterlaufserie, 3. Lauf** (2027-03-13): Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – https://www.asv-winterlaufserie.de/ausschreibung/
 - **Frühjahrswaldlauf um den Eulepokal** (2027-03-13): Startzeit (Seite nennt Uhrzeiten) – http://www.lgpeinerland.de/
+- **Seriencross in Erkner** (2027-03-13): Meldeschluss (Seite nennt das Wort) – https://www.laufen.de/laufkalender/details/3-seriencross-in-erkner-offener-seriencross-mol
 - **Mental Health Rocks Run** (2027-03-14): Startzeit (Seite nennt Uhrzeiten) – https://www.mentalhealthrocks.de/event-details/mental-health-rocks-run-2026
 - **Heini-Langlotz-Lauf** (2027-03-14): Startzeit (Seite nennt Uhrzeiten) – http://heini-langlotz-lauf.de/home.html
 - **Volkslauf Rund um den Winterstein** (2027-03-14): Startzeit (Seite nennt Uhrzeiten) – https://asc-marathon-friedberg.jimdofree.com/
+- **Schlossparklauf Bad Muskau** (2027-03-14): Startzeit (Seite nennt Uhrzeiten) – https://laufbewegung-wsw.de/
 - **Bismarckturmlauf** (2027-03-14): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.runme.de/deutschland/bismarckturmlauf/
 - **GO! Halbmarathon** (2027-03-14): Startzeit (Seite nennt Uhrzeiten) – http://saar05-leichtathletik.de/
+- **Coesfelder Heidelauf** (2027-03-14): Startzeit (Seite nennt Uhrzeiten) – http://www.djk-coesfeld.de/
 - **Kölner Frühlingslauf** (2027-03-14): Startgeld (Seite nennt Beträge) – https://koelner-fruehlingslauf.de/
 - **GVG-Donatuslauf** (2027-03-14): Startgeld (Seite nennt Beträge) – http://www.donatuslauf.de
-- **Teuto Run and Fun Baukastenlauf** (2027-03-14): Startzeit (Seite nennt Uhrzeiten) – https://running.life/de/termine/teuto-run-and-fun-marathon
 - **Lohner Crosslauf** (2027-03-14): Startzeit (Seite nennt Uhrzeiten) – https://www.leichtathletik-bwlohne.de
+- **Winterlaufserie Ahnatal, 5. Wertungslauf** (2027-03-14): Startzeit (Seite nennt Uhrzeiten) – https://sportverein-weimar.de/
+- **Winterlaufserie des Eisenacher LV, 3. Lauf** (2027-03-14): Startzeit (Seite nennt Uhrzeiten) – https://eisenacher-leichtathletik-verein.de
 - **Treuchtlinger Frühjahrslauf** (2027-03-20): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/treuchtlinger-fruehjahrslauf
 - **Pleidelsheimer Süwag-Lauf** (2027-03-20): Startzeit (Seite nennt Uhrzeiten) – https://www.gsvpleidelsheim.de/home.html
 - **Lindenlauf Neuenstadt** (2027-03-20): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – https://tsv-neuenstadt.de/lindenlauf/
@@ -207,59 +206,60 @@ Stand: 08.11.2026 03:36 · 3302 kommende Läufe · 48 Anmeldeseiten gelesen · 8
 - **Veilsdorfer Waldlauf** (2027-03-20): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://veilsdorf.de/
 - **Leipziger AOK PLUS Frühjahrslauf** (2027-03-20): Startgeld (Seite nennt Beträge) – http://www.bsv-aok.de/
 - **Treuener Stadtmeisterschaften im Straßenlauf** (2027-03-20): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – http://www.treuener-lv.de
-- **Branitzer Parklauf (Frühjahr)** (2027-03-20): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/branitzer-parklauf
+- **Eifellauf Bitburg** (2027-03-20): Startzeit (Seite nennt Uhrzeiten) – http://www.eifellauf.de/
 - **Obere-Kyll-Crosslauf Birgel** (2027-03-20): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/crosslauf-birgel
+- **Windener Landschaftslauf** (2027-03-20): Startzeit (Seite nennt Uhrzeiten) – https://www.wir-in-winden.de
 - **Sälzerlauf** (2027-03-20): Startgeld (Seite nennt Beträge) – https://vfbsalzkotten.info/
 - **Ibbenbürener Klippenlauf** (2027-03-20): Startzeit (Seite nennt Uhrzeiten) – https://www.ibbenbuerener-klippenlauf.de/
-- **Ems- Dollart Winterlaufserie** (2027-03-20): Startzeit (Seite nennt Uhrzeiten) – http://www.lauftreff-sv-ems-jemgum.de/
 - **Kieler Crosslauf** (2027-03-20): Startzeit (Seite nennt Uhrzeiten) – https://kieler-tb.de/
 - **Ostseewinterweg** (2027-03-20): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/ostseewinterweg
+- **Volkslauf Hessisch Lichtenau** (2027-03-20): Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender
 - **Deggendorfer Halbmarathon** (2027-03-21): Startzeit (Seite nennt Uhrzeiten) – https://www.lv-deggendorf.de
 - **6h von Kelheim** (2027-03-21): Startzeit (Seite nennt Uhrzeiten) – https://runandbike.info/6-h-lauf.html
 - **AOK-Strassenlauf Augsburg** (2027-03-21): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/strassenlauf-augsburg
 - **Stutenseer Stadtlauf** (2027-03-21): Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – https://www.tsg-blankenloch.de/Veranstaltungen/StutenseerStadtlauf/
 - **Bärlauchlauf Reudern** (2027-03-21): Startzeit (Seite nennt Uhrzeiten) – http://www.tsv-beuren.de/TAeLESCUP/
 - **Blaufelder Volkslauf** (2027-03-21): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://blaufelder-volkslauf.de
-- **Zwei-Hügel-Crosslauf Darmstadt-Wixhausen** (2027-03-21): Startzeit (Seite nennt Uhrzeiten) – https://leichtathletik-wixhausen.de/
 - **HerrenKrugParkLauf** (2027-03-21): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.runme.de/deutschland/herrenkrugparklauf-magdeburg/
 - **Crosslauf in den Frühling Kalbe** (2027-03-21): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/crosslauf-in-den-fruehling
-- **Frau Holle Märchenland Ultra** (2027-03-21): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://gotrail.run/de/termine/frau-holle-marchenland-ultra
 - **Winterlauf der Bernauer Lauffreunde** (2027-03-21): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/barnimer-winterlaufserie-5-lauf
 - **Primellauf** (2027-03-21): Startzeit (Seite nennt Uhrzeiten) – https://primellauf.de/
 - **Start in den Frühling** (2027-03-21): Startzeit (Seite nennt Uhrzeiten) – http://www.xn--rostocker-frhlingslauf-3lc.de/
 - **Obersontheimer Osterlauf Rund um den Heerberg** (2027-03-27): Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – http://www.obersontheim.com/
-- **Frühjahrscrosslauf im Steiger** (2027-03-27): Startzeit (Seite nennt Uhrzeiten) – http://www.asv-leichtathletik.de/
+- **Osterlauf des LC- Marathon 80 e.V.** (2027-03-27): Startzeit (Seite nennt Uhrzeiten) – http://www.lc-marathon-rotenburg.de
 - **Köstritzer Frühjahrscrosslauf** (2027-03-27): Startzeit (Seite nennt Uhrzeiten) – http://www.geraer-laufcup.de/
 - **Osterlauf Deetz** (2027-03-27): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/osterlauf-deets
-- **Pankower GESOBAU Frühlingslauf** (2027-03-27): Startzeit (Seite nennt Uhrzeiten) – https://www.ksv-90.de/
 - **Osterlauf rund um Bawinkel** (2027-03-27): Startgeld (Seite nennt Beträge) – https://www.runme.de/deutschland/osterlauf-rund-um-bawinkel/
 - **Ueckermünder Haffmarathon** (2027-03-27): Startzeit (Seite nennt Uhrzeiten) – http://haffmarathon.de/
 - **Schneller Zehner Rodenbach** (2027-03-28): Startzeit (Seite nennt Uhrzeiten) – http://www.tgs-niederrodenbach.de/
 - **Lauf in den Frühling** (2027-03-28): Startzeit (Seite nennt Uhrzeiten) – https://www.fortschritt-mittweida.de/
-- **Osteredition des Berliner Vollmond-Marathon (Ostermarathon)** (2027-03-28): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/berliner-oster-marathon
+- **Osteredition des Berliner Vollmond-Marathon (Ostermarathon)** (2027-03-28): Startzeit (Seite nennt Uhrzeiten) – http://vollmond-marathon.etzrodt.in
+- **Wartenberger Osterlauf** (2027-03-28): Startzeit (Seite nennt Uhrzeiten) – http://www.wartenberger-runninggroup.de/
 - **Warendorfer Ostergaragen-Backyard** (2027-03-28): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/warendorfer-ostergaragen-backyard
 - **Hagenower Frühjahrscross** (2027-03-28): Startzeit (Seite nennt Uhrzeiten) – https://www.hagenower-sv.de/
 - **Osterlauf Wismar** (2027-03-28): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/osterlauf-wismar
 - **Forster Osterlauf** (2027-04-01): Startzeit (Seite nennt Uhrzeiten) – http://ltsv.de/
+- **Mäschder Drehwurm** (2027-04-02): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://katjas-laufzeit.de/maeschder-drehwurm-2027-ausschreibung/
 - **Leiblachlauf** (2027-04-03): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/leiblachlauf
-- **Osterlauf des LC- Marathon 80 e.V.** (2027-04-03): Startzeit (Seite nennt Uhrzeiten) – http://www.lc-marathon-rotenburg.de
 - **Saalfelder Kulmberglauf** (2027-04-03): Startzeit (Seite nennt Uhrzeiten) – http://www.saalfelder-lv.de
-- **Berliner Ostermarathon** (2027-04-03): Startzeit (Seite nennt Uhrzeiten) – http://vollmond-marathon.etzrodt.in
+- **Berliner Osterlauf** (2027-04-03): Startzeit (Seite nennt Uhrzeiten) – https://www.berliner-osterlauf.com
 - **Deadly Trail Pirmasens** (2027-04-03): Startzeit (Seite nennt Uhrzeiten) – https://www.deadlydozen.de/event/trail-pirmasens
 - **Int. Zeppelinlauf Mülheim an der Mosel** (2027-04-03): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – http://www.zeppelinlauf.de
 - **Benrather Volkslauf** (2027-04-03): Startgeld (Seite nennt Beträge) – http://www.lt-duesseldorf-sued.de/
 - **Lions Osterlauf** (2027-04-03): Startzeit (Seite nennt Uhrzeiten) – http://www.ostersamstag.info
 - **Osterlauf St. Peter-Ording** (2027-04-03): Startzeit (Seite nennt Uhrzeiten) – https://www.st-peter-ording.de/
+- **Volkslauf WVC Kassel** (2027-04-03): Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender
 - **Marktlauf "Rund um Ruhstorf"** (2027-04-04): Startzeit (Seite nennt Uhrzeiten) – https://www.laruhstorf.de/veranstaltungen/
 - **Landshut Läuft** (2027-04-04): Startgeld (Seite nennt Beträge) – https://landshut-laeuft.de/
 - **Mein Freiburg Marathon** (2027-04-04): Meldeschluss (Seite nennt das Wort) – https://www.mein-freiburgmarathon.de
 - **Seligenstädter Wasserlauf** (2027-04-04): Startgeld (Seite nennt Beträge) – https://www.seligenstadt-wasserlauf.de/
 - **Muldelauf** (2027-04-04): Startgeld (Seite nennt Beträge) – https://muldelauf.maximalpuls.com/
-- **Wartenberger Osterlauf** (2027-04-04): Startzeit (Seite nennt Uhrzeiten) – http://www.wartenberger-runninggroup.de/
 - **Pusacker Berglauf** (2027-04-09): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/pusacker-berglauf
 - **Stadtlauf Bad Mergentheim** (2027-04-10): Startzeit (Seite nennt Uhrzeiten) – https://www.stadtlauf-mgh.de/
+- **Niederurffer Brückenlauf Bad Zwesten** (2027-04-10): Startzeit (Seite nennt Uhrzeiten) – https://tsvurfftal08.hpage.com/
 - **Crosslauf Deutsche Bundesbank Berlin** (2027-04-10): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.bundesbank.de/de/bundesbank/hauptverwaltungen-filialen/bbb/filiale/filiale-berlin-605066
-- **Berliner Osterlauf** (2027-04-10): Startzeit (Seite nennt Uhrzeiten) – https://www.berliner-osterlauf.com
+- **Haveluferlauf** (2027-04-10): Startzeit (Seite nennt Uhrzeiten) – http://www.lok-potsdam.de
+- **Pankower GESOBAU Frühlingslauf** (2027-04-10): Startzeit (Seite nennt Uhrzeiten) – https://www.ksv-90.de/
 - **Emder Berglauf** (2027-04-10): Startzeit (Seite nennt Uhrzeiten) – http://www.emder-lg.de/
 - **Osnabrücker PiesBERG-Ultra-Marathon (PUM)** (2027-04-10): Startzeit (Seite nennt Uhrzeiten) – https://www.piesbergultra.de/
 - **Schweriner Schlosslauf** (2027-04-10): Startzeit (Seite nennt Uhrzeiten) – http://www.laufgruppe-schwerin.de/
@@ -273,8 +273,10 @@ Stand: 08.11.2026 03:36 · 3302 kommende Läufe · 48 Anmeldeseiten gelesen · 8
 - **Ostritzer Frühjahrslauf / 14. Roland-Pietsch-Gedenklauf** (2027-04-11): Startzeit (Seite nennt Uhrzeiten) – https://hsg-turbine-zittau.de/
 - **Talsperre Nonnweiler Panoramalauf** (2027-04-11): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.runme.de/deutschland/talsperren-halbmarathon/
 - **Bonn Marathon** (2027-04-11): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/bonn-marathon
+- **Zoolauf Münster** (2027-04-11): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://wasser-freizeit.de/veranstaltungen/zoolauf-muenster
 - **rappid. Marathon** (2027-04-11): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.runme.de/deutschland/rappid-marathon/
 - **Knicklauf** (2027-04-11): Startzeit (Seite nennt Uhrzeiten) – http://www.svschmalensee.de/
+- **6-Stundenlauf der SKV Mörfelden** (2027-04-11): Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender
 - **Geschers Volksbank Run** (2027-04-16): Startzeit (Seite nennt Uhrzeiten) – https://www.gescher-erleben.de/
 - **Dörpener Nordland-Lauf** (2027-04-16): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.runme.de/deutschland/doerpener-nordland-lauf/
 - **Crosslauf Marktl** (2027-04-17): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/crosslauf-marktl
@@ -286,14 +288,13 @@ Stand: 08.11.2026 03:36 · 3302 kommende Läufe · 48 Anmeldeseiten gelesen · 8
 - **Gaildorfer Kocherlauf** (2027-04-17): Startzeit (Seite nennt Uhrzeiten) – https://tsv-gaildorf.de/kocherlauf-gaildorf
 - **Michelfelder Volkslauf** (2027-04-17): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://stadtwerke-hall.de/ueber-uns/wir-fuer-die-region/laufevents/michelfeld
 - **Kurparklauf Bad König** (2027-04-17): Startzeit (Seite nennt Uhrzeiten) – https://leichtathletik-badkoenig.jimdofree.com/
-- **Niederurffer Brückenlauf Bad Zwesten** (2027-04-17): Startzeit (Seite nennt Uhrzeiten) – https://tsvurfftal08.hpage.com/
 - **Wettertallauf Bad Nauheim** (2027-04-17): Startgeld (Seite nennt Beträge) – https://www.lsc-badnauheim.de/
 - **Heeresberglauf** (2027-04-17): Startzeit (Seite nennt Uhrzeiten) – https://www.geraer-laufcup.de/
 - **Findlingsparklauf Nochten** (2027-04-17): Startzeit (Seite nennt Uhrzeiten) – https://www.findlingspark-nochten.de/de/
-- **Haveluferlauf** (2027-04-17): Startzeit (Seite nennt Uhrzeiten) – http://www.lok-potsdam.de
 - **Gevelsberger Stadionlauf** (2027-04-17): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/gevelsberger-stadionlauf
 - **Rureifel Trail** (2027-04-17): Startzeit (Seite nennt Uhrzeiten) – http://www.rureifel-trail.com/
 - **Schiffdorfer Frühlings-Lauf** (2027-04-17): Startzeit (Seite nennt Uhrzeiten) – https://www.turnverein-schiffdorf.de/
+- **Turm zu Turm Lauf** (2027-04-17): Startzeit (Seite nennt Uhrzeiten) – http://www.tvg-la.de
 - **Liwa Laufevent** (2027-04-18): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://liwalauf.tsv-lichtenwald.de
 - **Träublelauf des TSV Weingarten** (2027-04-18): Startzeit (Seite nennt Uhrzeiten) – https://traeublelauf.de
 - **SOPREMA Neckar Run Mannheim** (2027-04-18): Startzeit (Seite nennt Uhrzeiten) – https://www.soprema-triathlon-team.de/soprema-neckar-run
@@ -304,14 +305,15 @@ Stand: 08.11.2026 03:36 · 3302 kommende Läufe · 48 Anmeldeseiten gelesen · 8
 - **Lauf durch die Röderaue** (2027-04-18): Startzeit (Seite nennt Uhrzeiten) – https://www.svelbland.de/
 - **Werdauer Waldlauf** (2027-04-18): Startzeit (Seite nennt Uhrzeiten) – http://www.werdauer-waldlauf.de
 - **Einetallauf Aschersleben** (2027-04-18): Startzeit (Seite nennt Uhrzeiten) – http://www.einetallauf.de/
+- **Altstadtlauf Halberstadt** (2027-04-18): Startzeit (Seite nennt Uhrzeiten) – http://altstadtlauf-halberstadt.de/
 - **Trebbiner Cup Lauf** (2027-04-18): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/trebbiner-cup-lauf
 - **Garten-Reden-Haldenlauf-Event** (2027-04-18): Startzeit (Seite nennt Uhrzeiten) – http://www.garten-reden-haldenlauf-event.net
 - **Viva Bolivia - Spenden u. Inklusionslauf** (2027-04-18): Startzeit (Seite nennt Uhrzeiten) – https://www.chiplauf.de/de/events/viva-bolivia
-- **Lauf Aktiv gegen Brustkrebs - Bochum läuft** (2027-04-18): Startgeld (Seite nennt Beträge) – https://running.life/de/termine/lauf-aktiv-gegen-brustkrebs-bochum-lauft
 - **Ruhrseen-Halbmarathon** (2027-04-18): Startzeit (Seite nennt Uhrzeiten) – https://ruhrseen-halbmarathon.de/
+- **Dauerlauf im Severinsviertel** (2027-04-18): Startzeit (Seite nennt Uhrzeiten) – http://www.dauerlauf.de
 - **Misburger Volkslauf** (2027-04-18): Startzeit (Seite nennt Uhrzeiten) – http://www.sgmisburg.de/
 - **Pattensen läuft - MTV Crosslauf** (2027-04-18): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/pattensen-laeuft
-- **Wolfsburg Run powered by VfL Wolfsburg e.V.** (2027-04-18): Startzeit (Seite nennt Uhrzeiten) – https://vfl-wob.de/
+- **Wichtelhäuser Volkslauf** (2027-04-18): Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender
 - **SCOTT GaPa Vertical** (2027-04-23): Startzeit (Seite nennt Uhrzeiten) – https://gapavertical.de/
 - **Raschützlauf Lampertswalde** (2027-04-23): Startzeit (Seite nennt Uhrzeiten) – http://www.sv-lampertswalde.de/
 - **Salvus-Teekottenlauf** (2027-04-23): Startzeit (Seite nennt Uhrzeiten) – http://www.teekottenlauf.de/
@@ -338,6 +340,8 @@ Stand: 08.11.2026 03:36 · 3302 kommende Läufe · 48 Anmeldeseiten gelesen · 8
 - **Vegesacker Citylauf** (2027-04-24): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/vegesacker-citylauf
 - **Wustrower Stadt- und Friedenslauf** (2027-04-24): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – http://igaswendland.de
 - **Hiddenseelauf** (2027-04-24): Startzeit (Seite nennt Uhrzeiten) – https://www.seebad-hiddensee.de/
+- **Kirchenfrühjahrslauf (Uli-Korbel-Gedenklauf)** (2027-04-24): Startzeit (Seite nennt Uhrzeiten) – https://mittelsaechsische-lauftour.com/wettkaempfe/kirchenfruhjahrslauf.html
+- **100 km Berlin** (2027-04-24): Startzeit (Seite nennt Uhrzeiten) – https://www.lgnord.de/
 - **Bad Kötztinger Stadtlauf** (2027-04-25): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/bad-koetztinger-stadtlauf
 - **Burgbernheimer Berglauf** (2027-04-25): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/burgbernheimer-berglauf
 - **Moosburger Drei-Rosenlauf** (2027-04-25): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/moosburger-stadtlauf
@@ -355,7 +359,7 @@ Stand: 08.11.2026 03:36 · 3302 kommende Läufe · 48 Anmeldeseiten gelesen · 8
 - **Globus-Marathon St. Wendel** (2027-04-25): Startzeit (Seite nennt Uhrzeiten) – https://www.sankt-wendel.de/
 - **Energie Südwest Cup, 48 Landauer Volkslauf** (2027-04-25): Startzeit (Seite nennt Uhrzeiten) – http://www.energie-suedwest.de/
 - **Hermannslauf** (2027-04-25): Startgeld (Seite nennt Beträge) – http://www.hermannslauf.de/
-- **Dauerlauf im Severinsviertel** (2027-04-25): Startzeit (Seite nennt Uhrzeiten) – http://www.dauerlauf.de
+- **Wolfsburg Run powered by VfL Wolfsburg e.V.** (2027-04-25): Startzeit (Seite nennt Uhrzeiten) – https://vfl-wob.de/
 - **FUN-RUN** (2027-04-25): Startzeit (Seite nennt Uhrzeiten) – https://psv-braunschweig.de/
 - **Herzberger Juessee-Lauf** (2027-04-25): Startgeld (Seite nennt Beträge) – https://mtvherzberg.de/juessee-lauf/
 - **Volkslauf Hämelerwald** (2027-04-25): Startzeit (Seite nennt Uhrzeiten) – http://www.svadler1888.de/
@@ -363,10 +367,14 @@ Stand: 08.11.2026 03:36 · 3302 kommende Läufe · 48 Anmeldeseiten gelesen · 8
 - **Ampermarathon** (2027-04-25): Startzeit (Seite nennt Uhrzeiten) – https://www.schwaigfeld.de/gemeinsam-aktiv-nachbarschaft/ampermarathon/
 - **Reischacher Holzlandlauf** (2027-04-25): Startzeit (Seite nennt Uhrzeiten) – https://holzlandlauf.tsv-reischach.de/
 - **BDS Altstadtlauf Schorndorf** (2027-04-25): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – https://schorndorf-altstadtlauf.de/
+- **Frankfurter Runden** (2027-04-25): Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender
+- **33 um Humfeld** (2027-04-25): Startzeit (Seite nennt Uhrzeiten) – https://www.laufen.de/laufkalender/details/33-um-humfeld
 - **Alteburglauf** (2027-04-29): Startzeit (Seite nennt Uhrzeiten) – http://www.sg-motor-arnstadt.de/
 - **Last Legs Ultra** (2027-04-30): Startzeit (Seite nennt Uhrzeiten) – https://lastlegsultra.de/
 - **St. Ingberter Frühlingslauf** (2027-04-30): Startzeit (Seite nennt Uhrzeiten) – http://www.djk-sg-igb.de/
 - **LüneLauf** (2027-04-30): Startgeld (Seite nennt Beträge) – http://lions-lueneburg.de/move-luenelauf
+- **Lübecker Frauenlauf** (2027-04-30): Startzeit (Seite nennt Uhrzeiten) – http://www.luebecker-frauenlauf.de
+- **LSG-Waldauer-Wiesen-Lauf** (2027-04-30): Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender
 - **Dachauer Frühjahrslauf** (2027-05-01): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/dachauer-fruehjahrslauf
 - **Mailauf Marktredwitz** (2027-05-01): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/mailauf-marktredwitz
 - **Neuburger Frühjahrswaldlauf** (2027-05-01): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/neuburger-fruehjahrswaldlauf
@@ -379,7 +387,6 @@ Stand: 08.11.2026 03:36 · 3302 kommende Läufe · 48 Anmeldeseiten gelesen · 8
 - **Flürener Sparkassenhalbmarathon** (2027-05-01): Startzeit (Seite nennt Uhrzeiten) – http://www.gw-wesel-flueren.de/
 - **Herz-Kreislauf Essen** (2027-05-01): Startzeit (Seite nennt Uhrzeiten) – http://www.herz-kreislauf-essen.de/
 - **Spexarder Volkslauf** (2027-05-01): Startzeit (Seite nennt Uhrzeiten) – https://www.svspexard.de/
-- **Walk'nRun** (2027-05-01): Startzeit (Seite nennt Uhrzeiten) – http://www.tsv-bentrup-lossbruch.de/
 - **Gesmolder Bifurkationslauf** (2027-05-01): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – http://www.laufen-os.de
 - **Stadt- und Deichlauf Winsen** (2027-05-01): Startzeit (Seite nennt Uhrzeiten) – https://www.tsvwinsen.com/
 - **Volkswandertag Willershausen** (2027-05-01): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/jubilaeums-volkswandertag
@@ -393,7 +400,6 @@ Stand: 08.11.2026 03:36 · 3302 kommende Läufe · 48 Anmeldeseiten gelesen · 8
 - **Oberndorfer Lauftag / Neckartal-Halbmarathon** (2027-05-02): Startgeld (Seite nennt Beträge) – http://www.tv-oberndorf-1861.de/
 - **Lauf in den Frühling Freital** (2027-05-02): Startzeit (Seite nennt Uhrzeiten) – http://www.laufindenfruehling.de/
 - **Scharnhorstlauf** (2027-05-02): Startzeit (Seite nennt Uhrzeiten) – https://www.sport-burgenland.de/
-- **Kremmen läuft** (2027-05-02): Startzeit (Seite nennt Uhrzeiten) – https://www.kremmen.de/
 - **Potsdamer Frauenlauf** (2027-05-02): Startzeit (Seite nennt Uhrzeiten) – http://www.potsdamer-frauenlauf.de
 - **Jedermannlauf Berlin-Hermsdorf** (2027-05-02): Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – https://leichtathletik.vfl-tegel.de
 - **Dortmunder Frühlingslauf** (2027-05-02): Startgeld (Seite nennt Beträge) – https://dortmunder-fruehlingslauf.de/
@@ -404,16 +410,15 @@ Stand: 08.11.2026 03:36 · 3302 kommende Läufe · 48 Anmeldeseiten gelesen · 8
 - **After Work Run Wangen im Allgäu** (2027-05-04): Startzeit (Seite nennt Uhrzeiten) – https://www.sg-niederwangen.de/events/after-work-run/
 - **Keibellauf Huchenfeld** (2027-05-05): Startzeit (Seite nennt Uhrzeiten) – https://keibellauf.de
 - **Bugginger Feierabendlauf** (2027-05-05): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – https://lg-buggingen.de/bugginger-feierabendlauf/
-- **Altstadtlauf Halberstadt** (2027-05-05): Startzeit (Seite nennt Uhrzeiten) – http://altstadtlauf-halberstadt.de/
+- **Rhein-Volkslauf** (2027-05-05): Startzeit (Seite nennt Uhrzeiten) – http://www.vlg-maximiliansau.de/
 - **Wülflinger Wässernachlauf** (2027-05-06): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/wuelflinger-waessernachlauf
 - **Himmelfahrtslauf Wössingen** (2027-05-06): Startzeit (Seite nennt Uhrzeiten) – https://www.tv-w.de
 - **Beerfelder Stadtlauf zum Brunnenfest** (2027-05-06): Startzeit (Seite nennt Uhrzeiten) – https://www.skiclub-beerfelden.de
+- **Lauf um den Allendorfer Bahnhof** (2027-05-06): Startzeit (Seite nennt Uhrzeiten) – http://www.ssvallendorf.de/
 - **Recknitztallauf** (2027-05-06): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/recknitztallauf
 - **Friedenfelser Crosslauf / Waldlauf** (2027-05-07): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/friedenfelser-waldlauf
-- **Residenz-Abendlauf, Hochstift-Cup** (2027-05-07): Startzeit (Seite nennt Uhrzeiten) – https://www.tsv1887.de/
-- **Rosellener Abendlauf** (2027-05-07): Startzeit (Seite nennt Uhrzeiten) – https://sv-rosellen.de/
-- **Sottrumer Abendlauf** (2027-05-07): Startzeit (Seite nennt Uhrzeiten) – https://www.tv-sottrum.de/
-- **Lübecker Frauenlauf** (2027-05-07): Startzeit (Seite nennt Uhrzeiten) – http://www.luebecker-frauenlauf.de
+- **Idsteiner Stadtlauf** (2027-05-07): Startzeit (Seite nennt Uhrzeiten) – http://www.tv1844idstein.de/
+- **Sangerhäuser Citylauf** (2027-05-07): Startzeit (Seite nennt Uhrzeiten) – https://steigerschleife.de/
 - **Lauf der Generationen Rottendorf** (2027-05-08): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/lauf-der-generationen-rottendorf
 - **Stoisser Alm Berglauf** (2027-05-08): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/stoisseralm
 - **Lichtenstein Trail** (2027-05-08): Startzeit (Seite nennt Uhrzeiten) – https://lichtenstein-trail.de
@@ -421,27 +426,23 @@ Stand: 08.11.2026 03:36 · 3302 kommende Läufe · 48 Anmeldeseiten gelesen · 8
 - **GäuFelderLauf** (2027-05-08): Startzeit (Seite nennt Uhrzeiten) – https://gaeufelderlauf.de
 - **Rinken Trailrun** (2027-05-08): Meldeschluss (Seite nennt das Wort) – https://www.svb-ski.de/veranstaltungen
 - **Uhldinger Pfahlbau-Halbmarathon** (2027-05-08): Startgeld (Seite nennt Beträge), Meldeschluss (Seite nennt das Wort) – http://www.pfahlbaumarathon.de/
-- **Wolfhager Volkslauf Rund um den Graner Berg** (2027-05-08): Startzeit (Seite nennt Uhrzeiten) – http://www.laufteam-woh.de/
 - **Citylauf Heidenau** (2027-05-08): Startzeit (Seite nennt Uhrzeiten) – https://www.citylauf-heidenau.de/
-- **Niedermeiserer Dorflauf** (2027-05-08): Startgeld (Seite nennt Beträge) – https://running.life/de/termine/niedermeiserer-dorflauf
 - **Lausitz Marathon** (2027-05-08): Startgeld (Seite nennt Beträge) – http://www.lausitz-marathon.de/
 - **Oderpokallauf** (2027-05-08): Startzeit (Seite nennt Uhrzeiten) – https://www.tripoint-ffo.de/
 - **Roland-Lauf Perleberg** (2027-05-08): Startgeld (Seite nennt Beträge) – http://rolandlauf-perleberg.de/
-- **StoneExperts TrailRun** (2027-05-08): Startzeit (Seite nennt Uhrzeiten) – http://tv-urbar.de/
 - **Hörster Waldlauf im Naturpark Teutoburger Wald** (2027-05-08): Startgeld (Seite nennt Beträge) – http://www.tglage.de
 - **Maria Hilf-Lauf** (2027-05-08): Startzeit (Seite nennt Uhrzeiten) – https://www.mariahilf.de/
-- **Nottulner Stiftslauf - SV DJK GW Nottuln** (2027-05-08): Startzeit (Seite nennt Uhrzeiten) – https://gw-nottuln.de/leichtathletik
 - **Grossenkneter ZehnMeilenLauf** (2027-05-08): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/grossenkneter-zehnmeilenlauf
 - **Meerlauf** (2027-05-08): Startgeld (Seite nennt Beträge) – http://meerlauf.de
-- **Helgoland-Marathon** (2027-05-08): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/helgoland-marathon
 - **North Sea Ultra** (2027-05-08): Startzeit (Seite nennt Uhrzeiten) – https://www.northseaultra.com/
 - **Baltic X Coast Run** (2027-05-08): Startgeld (Seite nennt Beträge) – https://running.life/de/termine/baltic-x-coast-run
+- **Bad Uracher Stadtlauf** (2027-05-08): Startzeit (Seite nennt Uhrzeiten) – https://www.laufen.de/laufkalender/details/29-bad-uracher-stadtlauf
 - **Erbarun** (2027-05-09): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/kramprun
 - **Weßlinger Seelauf** (2027-05-09): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/sz-volkslauf-rund-um-den-wesslinger-see
 - **Altstadtlauf Weinheim** (2027-05-09): Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – https://tsgla.de/index.php/altstadtlauf-startseite.html
 - **Gothaer Sparkassen-Schlossparklauf** (2027-05-09): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten), Meldeschluss (Seite nennt das Wort) – https://schlossparklauf-gotha.de/
 - **Quedlinburger Waldlauf - Landescup 7** (2027-05-09): Startzeit (Seite nennt Uhrzeiten) – http://www.leichtathletik-quedlinburg.de
-- **Neckarcross Ultra Race** (2027-05-09): Meldeschluss (Seite nennt das Wort) – https://gotrail.run/de/termine/dav-neckarcross-ultra-race
+- **Kremmen läuft** (2027-05-09): Startzeit (Seite nennt Uhrzeiten) – https://www.kremmen.de/
 - **Naturparklauf Friedersdorf** (2027-05-09): Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/naturparklauf-friedersdorf
 - **St. Wendeler IKK Bahntrassenlauf** (2027-05-09): Startzeit (Seite nennt Uhrzeiten) – https://www.ltf.de/
 - **Ahlener Stadtteil- und Haldenlauf** (2027-05-09): Startzeit (Seite nennt Uhrzeiten) – http://www.lgahlen.de/stadtteillauf/
@@ -449,6 +450,7 @@ Stand: 08.11.2026 03:36 · 3302 kommende Läufe · 48 Anmeldeseiten gelesen · 8
 - **Rewe Esch Schloss Wickrath Lauf** (2027-05-09): Startzeit (Seite nennt Uhrzeiten) – https://www.schloss-wickrath-lauf.de/
 - **Urban Strides Hannover** (2027-05-09): Startgeld (Seite nennt Beträge), Startzeit (Seite nennt Uhrzeiten) – https://www.hdsports.org/laufen/urban-strides-hannover
 - **Wald-und Wiesenlauf** (2027-05-09): Startzeit (Seite nennt Uhrzeiten) – http://www.mtv-salzhausen.de
+- **Elbelauf Grieben** (2027-05-09): Startzeit (Seite nennt Uhrzeiten) – https://www.elbe-ohre-cup.de/veranstaltungen/elbelauf/
 
 ## Zeitgemäß-Anmeldungen (robots.txt verbietet automatisches Lesen, nur von Hand prüfbar)
 
@@ -462,14 +464,6 @@ Stand: 08.11.2026 03:36 · 3302 kommende Läufe · 48 Anmeldeseiten gelesen · 8
 
 ## Nicht lesbar
 
-- obersulmer-volkslauf-2026: RaceResult HTTP Error 404: Not Found
-- karlsbader-volkslauf-langensteinbach-2026: RaceResult HTTP Error 404: Not Found
-- int-martinslauf-2026: RaceResult HTTP Error 404: Not Found
-- steinhart500-klimaneutral-2026: RaceResult HTTP Error 404: Not Found
-- tuermeweg-trailrun-2026: RaceResult HTTP Error 404: Not Found
-- braunschweiger-speed5-2026: RaceResult HTTP Error 404: Not Found
-- hermann-loens-park-lauf-2026: RaceResult HTTP Error 404: Not Found
-- ruller-bruch-marathon-2026: RaceResult HTTP Error 404: Not Found
 - fackellauf-goerlitz-2026: RaceResult HTTP Error 404: Not Found
 - ladbergen-ultramarathon-2026: RaceResult HTTP Error 404: Not Found
 - alzauenlauf-2026: RaceResult HTTP Error 404: Not Found
@@ -481,6 +475,7 @@ Stand: 08.11.2026 03:36 · 3302 kommende Läufe · 48 Anmeldeseiten gelesen · 8
 - detmolder-herbstlauf-2026: RaceResult HTTP Error 404: Not Found
 - biegerparklauf-2026: RaceResult HTTP Error 404: Not Found
 - nord-sued-lauf-2026: RaceResult HTTP Error 404: Not Found
+- psv-winterlaufserie-holzminden-2026: RaceResult HTTP Error 404: Not Found
 - nurnberger-winterlaufserie-2026: RaceResult HTTP Error 404: Not Found
 - riegeler-crosslauf-2026: RaceResult HTTP Error 404: Not Found
 - geislinger-volkslauf-2026: RaceResult HTTP Error 404: Not Found
@@ -498,7 +493,6 @@ Stand: 08.11.2026 03:36 · 3302 kommende Läufe · 48 Anmeldeseiten gelesen · 8
 - bad-gandersheimer-seeparklauf-2026: RaceResult HTTP Error 404: Not Found
 - suessener-stadtlauf-2026: RaceResult HTTP Error 404: Not Found
 - warendorfer-garagen-backyard-2026: RaceResult HTTP Error 404: Not Found
-- lingener-emslandcross-2026: RaceResult HTTP Error 404: Not Found
 - gevatterseemarathon-2026: RaceResult HTTP Error 404: Not Found
 - grosskarolinenfelder-nikolauslauf-2026: RaceResult HTTP Error 404: Not Found
 - hainberglauf-2026: RaceResult HTTP Error 404: Not Found
@@ -513,11 +507,11 @@ Stand: 08.11.2026 03:36 · 3302 kommende Läufe · 48 Anmeldeseiten gelesen · 8
 - mondorfer-rewe-weihnachtslauf-2026: RaceResult HTTP Error 404: Not Found
 - christmas-run-to-tree-2026: RaceResult HTTP Error 404: Not Found
 - ratzeburger-adventslauf-2026: RaceResult HTTP Error 404: Not Found
+- wiedenbruecker-christkindllauf-2026: RaceResult HTTP Error 404: Not Found
 - nikolaus-waldlauf-weissenbrunn-2026: RaceResult HTTP Error 404: Not Found
 - nikolauslauf-immenstadt-2026: RaceResult HTTP Error 404: Not Found
 - nikolauslauf-beilngries-2026: RaceResult HTTP Error 404: Not Found
 - nikolauslauf-schnaitheim-2026: RaceResult HTTP Error 404: Not Found
-- psv-winterlaufserie-holzminden-2026: RaceResult HTTP Error 404: Not Found
 - moenchguter-brennereilauf-2026: RaceResult HTTP Error 404: Not Found
 - nikolauslauf-ochsenfurt-2026: RaceResult HTTP Error 404: Not Found
 - crosslaufserie-oberschwaben-blitzenreute-2026: RaceResult HTTP Error 404: Not Found
@@ -536,9 +530,12 @@ Stand: 08.11.2026 03:36 · 3302 kommende Läufe · 48 Anmeldeseiten gelesen · 8
 - ellewicker-adventslauf-2026: RaceResult HTTP Error 404: Not Found
 - schnadegang-rund-um-ennepetal-2026: RaceResult HTTP Error 404: Not Found
 - weihnachtszauber-hamburg-2026: RaceResult HTTP Error 404: Not Found
+- rund-um-den-langenberg-ultra-2026: RaceResult HTTP Error 404: Not Found
 - x-mas-trail-weiskirchen-2026: RaceResult HTTP Error 404: Not Found
 - sparkassen-adventslauf-hamm-2026: RaceResult HTTP Error 404: Not Found
 - winterlauf-2026: RaceResult HTTP Error 404: Not Found
+- bramfelder-winterlaufserie-2-lauf-2026: RaceResult HTTP Error 404: Not Found
+- gevatterseemarathon-2026-2: RaceResult HTTP Error 404: Not Found
 - haus-vortlage-marathon-2026: RaceResult HTTP Error 404: Not Found
 - bergischer-wupperlauf-2026: RaceResult HTTP Error 404: Not Found
 - rheine-kloster-schloss-bentlage-marathon-2026: RaceResult HTTP Error 404: Not Found
@@ -549,18 +546,22 @@ Stand: 08.11.2026 03:36 · 3302 kommende Läufe · 48 Anmeldeseiten gelesen · 8
 - northeimer-heiligabend-marathon-2026: RaceResult HTTP Error 404: Not Found
 - wassermuehlen-ultra-rulle-2026: RaceResult HTTP Error 404: Not Found
 - vom-see-zum-schloss-ultramarathon-2026: RaceResult HTTP Error 404: Not Found
+- speck-weg-lauf-2026: RaceResult HTTP Error 404: Not Found
 - silbersee-hueggel-ultratrail-2026: RaceResult HTTP Error 404: Not Found
+- weihnachtslauf-elsterwerda-2026: RaceResult HTTP Error 404: Not Found
 - sloopsteener-seenrunden-ultramarathon-2026: RaceResult HTTP Error 404: Not Found
 - manhattan-lauf-2026: RaceResult HTTP Error 404: Not Found
 - aschauer-vorsilvesterlauf-2026: RaceResult HTTP Error 404: Not Found
 - doerenther-klippen-ultratrail-2026: RaceResult HTTP Error 404: Not Found
 - erzsteig-ueber-hueggel-gipfel-ultratrail-2026: RaceResult HTTP Error 404: Not Found
 - crossdogs-silvestertrail-2026: RaceResult HTTP Error 404: Not Found
+- friedberger-silvesterlauf-2026: RaceResult HTTP Error 404: Not Found
 - silvesterlauf-bogen-2026: RaceResult HTTP Error 404: Not Found
 - silvesterlauf-neuburg-donau-2026: RaceResult HTTP Error 404: Not Found
 - mergelstetter-silvesterlauf-2026: RaceResult HTTP Error 404: Not Found
 - backnanger-silvesterlauf-2026: RaceResult HTTP Error 404: Not Found
 - stuttgarter-silvesterlauf-weilimdorf-2026: RaceResult HTTP Error 404: Not Found
+- silvesterlauf-schwaibach-2026: RaceResult HTTP Error 404: Not Found
 - kisslegger-silvesterlauf-2026: RaceResult HTTP Error 404: Not Found
 - emsauen-rheine-ultramarathon-2026: RaceResult HTTP Error 404: Not Found
 - lengericher-ultratrail-2027: RaceResult HTTP Error 404: Not Found
@@ -574,6 +575,7 @@ Stand: 08.11.2026 03:36 · 3302 kommende Läufe · 48 Anmeldeseiten gelesen · 8
 - degerlocher-3-koenigslauf-2027: RaceResult HTTP Error 404: Not Found
 - herbolzheimer-dreikoenigslauf-2027: RaceResult HTTP Error 404: Not Found
 - dreikoenigslauf-dielheim-2027: RaceResult HTTP Error 404: Not Found
+- taunus-ultratrail-2027: RaceResult HTTP Error 404: Not Found
 - crosslaufserie-oberschwaben-vogt-2027: RaceResult HTTP Error 404: Not Found
 - neujahrslauf-in-muenchenbernsdorf-2027: RaceResult HTTP Error 404: Not Found
 - alb-gold-winterlaufcup-2027: RaceResult HTTP Error 404: Not Found
@@ -612,16 +614,19 @@ Stand: 08.11.2026 03:36 · 3302 kommende Läufe · 48 Anmeldeseiten gelesen · 8
 - teuto-run-and-fun-baukastenlauf-2027: RaceResult HTTP Error 404: Not Found
 - essinger-panoramalaeufe-2027: RaceResult HTTP Error 404: Not Found
 - pleidelsheimer-suewag-lauf-2027: RaceResult HTTP Error 404: Not Found
+- holzer-frohnwald-trail-2027: RaceResult HTTP Error 404: Not Found
 - iller-lauf-senden-2027: RaceResult HTTP Error 404: Not Found
 - rissnertlauf-2027: RaceResult HTTP Error 404: Not Found
 - primellauf-2027: RaceResult HTTP Error 404: Not Found
 - jurasteig-nonstop-ultratrail-2027: RaceResult HTTP Error 404: Not Found
 - leiblachlauf-2027: RaceResult HTTP Error 404: Not Found
 - hoehlenbaerenlauf-giengen-huerben-2027: RaceResult HTTP Error 404: Not Found
+- herkules-marathon-2027: RaceResult HTTP Error 404: Not Found
 - mein-freiburg-marathon-2027: RaceResult HTTP Error 404: Not Found
 - buedingen-cross-2027: RaceResult HTTP Error 404: Not Found
 - saaletal-marathon-2027: RaceResult HTTP Error 404: Not Found
 - seenlandmarathon-2027: RaceResult HTTP Error 404: Not Found
+- bilstein-marathon-2027: RaceResult HTTP Error 404: Not Found
 - panorama-run-guntersleben-2027: RaceResult HTTP Error 404: Not Found
 - rappid-marathon-2027: RaceResult HTTP Error 404: Not Found
 - soul-trail-2027: RaceResult HTTP Error 404: Not Found
@@ -648,11 +653,13 @@ Stand: 08.11.2026 03:36 · 3302 kommende Läufe · 48 Anmeldeseiten gelesen · 8
 - muenchner-kindl-lauf-2027: RaceResult HTTP Error 404: Not Found
 - lauf-der-generationen-rottendorf-2027: RaceResult HTTP Error 404: Not Found
 - lichtenstein-trail-2027: RaceResult HTTP Error 404: Not Found
+- niedermeiserer-dorflauf-2027: RaceResult HTTP Error 404: Not Found
 - kandern-trail-masters-2027: RaceResult HTTP Error 404: Not Found
 - heidi-222-2027: RaceResult HTTP Error 404: Not Found
 - adelsberg-backyard-ultra-2027: RaceResult HTTP Error 404: Not Found
 - lg-backyard-ultra-2027: RaceResult HTTP Error 404: Not Found
 - los-ultra-berlin-blankenfelde-2027: RaceResult HTTP Error 404: Not Found
+- halden-mohikaner-2027: RaceResult HTTP Error 404: Not Found
 - paul-panoramasteig-ultralauf-2027: RaceResult HTTP Error 404: Not Found
 - runandfun-bad-kissingen-2027: RaceResult HTTP Error 404: Not Found
 - maincityrun-2027: RaceResult HTTP Error 404: Not Found
@@ -670,11 +677,11 @@ Stand: 08.11.2026 03:36 · 3302 kommende Läufe · 48 Anmeldeseiten gelesen · 8
 - metropolmarathon-furth-2027: RaceResult HTTP Error 404: Not Found
 - lions-12-stunden-lauf-lindenberg-2027: RaceResult HTTP Error 404: Not Found
 - 24h-spendenlauf-backyard-for-charity-2027: RaceResult HTTP Error 404: Not Found
+- city-marathon-wiesbaden-2027: RaceResult HTTP Error 404: Not Found
 - moeckmuehler-stadtlauf-2027: RaceResult HTTP Error 404: Not Found
 - essinger-reiherlauf-2027: RaceResult HTTP Error 404: Not Found
 - fuchsburg-lauf-2027: RaceResult HTTP Error 404: Not Found
 - king-of-the-loop-2027: RaceResult HTTP Error 404: Not Found
-- city-marathon-wiesbaden-2027: RaceResult HTTP Error 404: Not Found
 - losheimer-trailfest-2027: RaceResult HTTP Error 404: Not Found
 - schienerberglauf-2027: RaceResult HTTP Error 404: Not Found
 - geiersberglauf-waigolshausen-2027: RaceResult HTTP Error 404: Not Found
@@ -712,6 +719,7 @@ Stand: 08.11.2026 03:36 · 3302 kommende Läufe · 48 Anmeldeseiten gelesen · 8
 - muehlenweg-ultra-2027: RaceResult HTTP Error 404: Not Found
 - palatina-backyard-ultra-2027: RaceResult HTTP Error 404: Not Found
 - wurzburg-lauf-2027: RaceResult HTTP Error 404: Not Found
+- geithainer-herbstlauf-2027: RaceResult HTTP Error 404: Not Found
 - lautrer-lebenslauf-2027: RaceResult HTTP Error 404: Not Found
 - sri-chinmoy-peace-mile-6-stunden-lauf-2027: RaceResult HTTP Error 404: Not Found
 - friedberger-halbmarathon-2027: RaceResult HTTP Error 404: Not Found
@@ -735,6 +743,7 @@ Stand: 08.11.2026 03:36 · 3302 kommende Läufe · 48 Anmeldeseiten gelesen · 8
 - idstedt-marathon-2027: RaceResult HTTP Error 404: Not Found
 - rostock-10km-2027: RaceResult HTTP Error 404: Not Found
 - zabelstein-run-2027: RaceResult HTTP Error 404: Not Found
+- baermesenser-paeaedellauf-2027: RaceResult HTTP Error 404: Not Found
 - ultratrail-pfaelzer-weinsteig-2027: RaceResult HTTP Error 404: Not Found
 - disibodenberglauf-2027: RaceResult HTTP Error 404: Not Found
 - weissenhorner-altstadtlauf-2027: RaceResult HTTP Error 404: Not Found
@@ -744,8 +753,6 @@ Stand: 08.11.2026 03:36 · 3302 kommende Läufe · 48 Anmeldeseiten gelesen · 8
 
 ## Aktuell als ausgebucht vermerkt
 
-- 2026-11-08 · Höglwörther Seelauf
-- 2026-11-08 · Rostocker Herbstlauf
 - 2026-11-11 · Karneval-Marathon
 - 2026-11-14 · Lauf „Ich lauf mit gegen Gewalt“
 - 2026-11-14 · Landgrafenlauf
@@ -755,11 +762,13 @@ Stand: 08.11.2026 03:36 · 3302 kommende Läufe · 48 Anmeldeseiten gelesen · 8
 - 2026-11-29 · Kuhsee Marathon (automatisch)
 - 2026-12-05 · Mountainman Nikolaus-Trail
 - 2026-12-06 · itdesign-Nikolauslauf Tübingen
+- 2026-12-12 · Rund um den Langenberg Ultra
 - 2026-12-13 · Spiegelberger Räuberweglauf
 - 2026-12-13 · X-MAS Trail Weiskirchen
 - 2026-12-13 · Winterlaufserie Rheinzabern, 1. Lauf
 - 2026-12-20 · Essener Rhein-Herne-Kanal Marathon
 - 2026-12-28 · Aschauer Vorsilvesterlauf (automatisch)
+- 2026-12-31 · AÜW Georg Hieble Silvesterlauf Kempten (automatisch)
 - 2026-12-31 · Spiridon Mainova Silvesterlauf Frankfurt
 - 2026-12-31 · Sparkasse Gießen Silvesterlauf Rund um den Schiffenberg
 - 2027-01-02 · Die Ha(a)rd Winter
@@ -774,5 +783,6 @@ Stand: 08.11.2026 03:36 · 3302 kommende Läufe · 48 Anmeldeseiten gelesen · 8
 - 2027-05-08 · Schliersee Lauf
 - 2027-05-09 · Regensburg Marathon (automatisch)
 - 2027-05-15 · Adelsberg Backyard Ultra
+- 2027-07-10 · O-SEE Backyard Ultra
 - 2027-07-10 · Stoppelfeld-Ultra
 
