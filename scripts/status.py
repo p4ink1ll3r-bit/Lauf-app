@@ -41,6 +41,7 @@ SUCHE_ALLE_TAGE = 14       # und dieselbe Seite frühestens nach so vielen Tagen
 DS_HOSTS = ("datasport.de", "anmeldungs-service.de")
 HINWEIS_HOSTS = ("spoferan.com", "sas-online.net")
 VOLL = re.compile(r"ausgebucht|ausverkauft|Teilnehmerlimit[^.|]{0,25}erreicht|Limit[^.|]{0,15}erreicht|keine Anmeldung mehr möglich|sold out", re.I)
+NEBEN = re.compile(r"Kinder|Bambini|Schüler|Schueler|Jugend|Junior|Walking|Wandern|Staffel|Firmen", re.I)
 MONATE = {m: i + 1 for i, m in enumerate(["januar", "februar", "märz", "april", "mai", "juni", "juli", "august",
                                            "september", "oktober", "november", "dezember"])}
 RE_DS = re.compile(r"https?://(?:www\.)?(?:datasport\.de/anmeldeservice/|anmeldungs-service\.de/)[A-Za-z0-9_/.-]+", re.I)
@@ -59,12 +60,23 @@ def rr_zustand(eid, tag):
         return {"zustand": "unklar", "grund": "keine Einzel-Anmeldung gefunden"}
     if all(P.rr_day(r.get("EnabledTo")) and P.rr_day(r.get("EnabledTo")) < HEUTE for r in singles):
         return {"zustand": "geschlossen", "warteliste": warteliste}
+    # Eine Strecke ist voll, wenn JEDE gerade offene Einzel-Anmeldung, die sie anbietet, 0 freie Plätze zeigt
+    # (auf Strecken-Ebene oder auf Anmeldungs-Ebene, z. B. eine eigene Anmeldung je Strecke).
+    # Zeigen ALLE offenen Anmeldungen 0, bleibt es bei der alten Regel unten (sonst würden Einladungsläufe als voll gelten).
+    offen = [r for r in singles
+             if (P.rr_day(r.get("EnabledFrom")) or "0000") <= HEUTE <= (P.rr_day(r.get("EnabledTo")) or "9999")] or singles
+    reg_voll = all(r.get("SlotsLeft") == 0 for r in offen)
     contests = {}
-    for r in singles:
+    for r in offen:
+        reg0 = r.get("SlotsLeft") == 0 and not reg_voll
         for c in r.get("Contests") or []:
-            contests[c.get("Name")] = c.get("SlotsLeft", -1)
-    voll_namen = sorted(n for n, s in contests.items() if s == 0)
-    reg_voll = all(r.get("SlotsLeft") == 0 for r in singles)
+            name = (c.get("Name") or "").split(" | ")[0].strip()
+            frei = not (c.get("SlotsLeft", -1) == 0 or reg0)
+            contests[name] = contests.get(name, False) or frei
+    # Kinder-, Jugend-, Walking-, Staffel- und Firmenwertungen nimmt die App nicht auf: sie zählen für "ausgebucht" nicht mit
+    haupt = {n: f for n, f in contests.items() if not NEBEN.search(n)} or contests
+    contests = haupt
+    voll_namen = sorted(n for n, frei in contests.items() if not frei)
     if contests and len(voll_namen) == len(contests):
         z = "voll"
     elif voll_namen:
@@ -94,7 +106,9 @@ def ds_zustand(url, tag):
         return {"zustand": "anderes Datum", "portal_datum": d}
     if not d and not re.search(r"Anmeldung|Startgeb", t):
         return {"zustand": "unklar", "grund": "Seite nicht erkannt"}
-    namen = [re.sub(r"^.* - ", "", n.strip()) for n in re.findall(r"AUSGEBUCHT[^|]*\|\s*([^|]+?)\s*\|", t)]
+    # Datasport: "AUSGEBUCHT|So. 09.05.27 08:30 Uhr|Sponsor - Marathon|42,2 km" -> Datum/Uhrzeit überspringen
+    namen = [re.sub(r"^.* - ", "", n.strip()) for n in re.findall(
+        r"AUSGEBUCHT[^|]*\|\s*(?:[A-Za-z]{2}\.\s*\d{1,2}\.\d{1,2}\.\d{2,4}\s+\d{1,2}:\d{2}\s*Uhr\s*\|\s*)?([^|]+?)\s*\|", t)]
     gesamt = re.search(r"Gesamtlimit.*?noch frei\s*\|\s*(\d+)", t)
     if gesamt and int(gesamt.group(1)) == 0:
         return {"zustand": "voll", "strecken_voll": namen}

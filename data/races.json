@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08",
+ "updated": "2026-11-09",
  "region": "Bayern, Baden-Württemberg, Hessen, Thüringen, Sachsen, Sachsen-Anhalt, Brandenburg, Berlin, Saarland, Rheinland-Pfalz, Nordrhein-Westfalen, Niedersachsen, Bremen, Hamburg, Schleswig-Holstein, Mecklenburg-Vorpommern",
  "races": [
   {
@@ -275,6 +275,43 @@
    "bezirk": "Unterfranken",
    "kreis": "LK Rhön-Grabfeld",
    "gear_open": "Seiten nennen keine Ausrüstung; Anmeldeseite nicht gelesen"
+  },
+  {
+   "id": "streutaltrail-2027",
+   "type": "trail",
+   "name": "StreutalTrail",
+   "place": "Mittelstreu (Bad Neustadt a.d. Saale)",
+   "bezirk": "Unterfranken",
+   "kreis": "LK Rhön-Grabfeld",
+   "lat": 50.38,
+   "lon": 10.28,
+   "distances": [
+    "5",
+    "11",
+    "15",
+    "M"
+   ],
+   "elevation": [
+    60,
+    220,
+    350,
+    950
+   ],
+   "url": "https://streutaltrail.de/",
+   "date": "2027-11-07",
+   "confirmed": true,
+   "prev_date": "2026-11-08",
+   "source": "https://streutaltrail.de/",
+   "note": "Schotter-, Wald- und Wiesenwege, teils technisch; auch 2er-Team-Marathon",
+   "prev": {
+    "fee": "M 50 € · 2er-Team-Marathon 75 € · 15 km 35 € · 11 km 25 € · 5 km (auch Walking) 15 €",
+    "start_time": "09:00",
+    "start_place": "Sportplatz TSV Mittelstreu, Jahnstraße 6, 97640 Mittelstreu",
+    "parking": "Kostenlose Parkplätze direkt vor Ort",
+    "aid": "Mehrere Versorgungs- und Getränkepunkte auf der Strecke; vor Ort Foodtruck und Kuchenbar"
+   },
+   "info": "Jubiläum 10 Jahre LIFE! Streutaltrail. Termin laut Veranstalterseite (Stand 09.11.2026). Startgeld, Startzeit und Ablauf stammen aus dem Vorjahr.",
+   "checked": "2026-11-09"
   },
   {
    "id": "teufelsberg-crosslauf-2026",
@@ -1621,7 +1658,7 @@
    "reg_close": "2026-12-30",
    "fee": "5 km 29 € · 10 km 36 € · Schülerlauf 12 € · Kinderlauf 7 € (bis 31.10.: 25 €/32 €/10 €); Event-Shirt optional 19 €",
    "start_time": "11:30",
-   "checked": "2026-11-02",
+   "checked": "2026-11-09",
    "source": "https://www.mrrc-muenchen.de/de/silvesterlauf/infosSL/",
    "start_place": "Luz-Long-Ufer neben der Kleinen Olympiahalle, Olympiapark",
    "aid": "Kalte Getränke kostenlos im Ziel",
@@ -1638,7 +1675,7 @@
    "cutoff": "5 km 12:15 Uhr, 10 km 14:00 Uhr",
    "included": "Medaille und Silvesterlauftasse im Ziel, kalte Getränke",
    "late_reg": "Nicht möglich",
-   "info": "Kinderlauf ca. 11:00, Schülerlauf 11:10, 5 km 11:30, 10 km 12:30; Startplatzumschreibung bis 20.12. 12 Uhr (10 €)",
+   "info": "Kinderlauf ca. 11:00, Schülerlauf 11:10, 5 km 11:30, 10 km 12:30; Startplatzumschreibung bis 20.12. 12 Uhr (10 €). Laut Anmeldeportal (Datasport) am 09.11.2026 beim 5-km-Lauf nur noch 11 freie Plätze, beim 10-km-Lauf noch 577; der Kinderlauf ist voll.",
    "bezirk": "Oberbayern",
    "kreis": "Stadt München",
    "showers": "Duschen/Umkleiden (begrenzt) und betreute Kleiderabgabe in der Kleinen Olympiahalle"
@@ -1678,7 +1715,7 @@
    "profile": null,
    "gpx": null,
    "limit": "10 km: 1.500 Startplätze, 5 km: 1.300 Startplätze",
-   "sold_out": "Teilweise ausgebucht laut Anmeldeportal: 1 Wettbewerbe sind voll (im Portal nur mit der Startzeit benannt). Die übrigen Strecken zeigen noch freie Plätze oder keine Begrenzung (nachts automatisch geprüft).",
+   "sold_out": "Ausgebucht laut Anmeldeportal: AÜW Silvesterlauf 10 km. Die übrigen Strecken zeigen noch freie Plätze oder keine Begrenzung (nachts automatisch geprüft).",
    "cutoff": null,
    "included": "Transponder-Zeitmessung (ohne Pfand), Zielverpflegung, Online-Ergebnisse, Urkunde zum Download; personalisierte Startnummer bei Anmeldung bis 20.12.",
    "late_reg": "Vor Ort möglich, sofern Kapazität vorhanden, 5 € Bearbeitungsgebühr",
@@ -3380,7 +3417,7 @@
    "lat": 48.917,
    "lon": 11.886,
    "date": "2027-03-21",
-   "confirmed": false,
+   "confirmed": true,
    "prev_date": "2026-03-29",
    "distances": [
     "6h"
@@ -3396,7 +3433,8 @@
     "aid": "Wasser und Iso im Wechselbereich, keine Einwegbecher (eigenes Trinkgefäß mitbringen)"
    },
    "bezirk": "Niederbayern",
-   "checked": "2026-11-01"
+   "checked": "2026-11-09",
+   "info": "Termin laut Veranstalterseite bestätigt (Stand 09.11.2026)."
   },
   {
    "id": "marktlauf-rund-um-ruhstorf-2027",
@@ -5494,7 +5532,7 @@
    "reg_close": "2027-05-02",
    "fee": "Kontingent 1: 11 km 25 € · Kontingent 1: Halbmarathon 40 € · Kontingent 1: 32 km (Dreiviertelmarathon) 45 € · Kontingent 1: Marathon 50 € · Kontingent 2: 11 km 30 € · Kontingent 2: Halbmarathon 50 € · Kontingent 2: 32 km (Dreiviertelmarathon) 55 € · Kontingent 2: Marathon 60 € · Kontingent 3: 11 km 35 € · Kontingent 3: Halbmarathon 60 € · Kontingent 3: 32 km (Dreiviertelmarathon) 65 € · Kontingent 3: Marathon 70 € · Nachmeldung 08./09.05.2027: 11 km 40 € · Nachmeldung 08./09.05.2027: Halbmarathon 70 € · Nachmeldung 08./09.05.2027: 32 km (Dreiviertelmarathon) 75 € · Nachmeldung 08./09.05.2027: Marathon 80 €",
    "start_time": "08:30",
-   "checked": "2026-11-07",
+   "checked": "2026-11-09",
    "source": "https://www.regensburg-marathon.de/regensburg-marathon.html",
    "start_place": "Infineon-Parkplatz Messerschmittstraße / Wernerwerkstraße 2 (neben Westbad)",
    "aid": "ca. alle 4 km Iso, Wasser, Cola; Zielverpflegung; Eigenverpflegung möglich",
@@ -5507,11 +5545,11 @@
    "profile": null,
    "gpx": null,
    "limit": "Teilnehmerlimit (Zahl nicht veröffentlicht)",
-   "sold_out": "Teilweise ausgebucht laut Anmeldeportal: 3 Wettbewerbe sind voll (im Portal nur mit der Startzeit benannt). Die übrigen Strecken zeigen noch freie Plätze oder keine Begrenzung (nachts automatisch geprüft).",
+   "sold_out": "Ausgebucht laut Anmeldeportal: Marathon, Dreiviertelmarathon, Halbmarathon. Die übrigen Strecken zeigen noch freie Plätze oder keine Begrenzung (nachts automatisch geprüft).",
    "cutoff": null,
    "included": null,
    "late_reg": "Vor Ort am Veranstaltungswochenende möglich, nicht bei erreichtem Teilnehmerlimit",
-   "info": "Nur Online-Anmeldung, Nachmeldung vor Ort. Die Preise sind nach Kontingent gestaffelt; ab wann welches Kontingent gilt, nennt die Seite nicht. Nordic Walking kurz/lang: 10 €/15 € (Kontingent 1), 13 €/17 € (Kontingent 2), 15 €/20 € (Kontingent 3), Nachmeldung 20 €/25 €.",
+   "info": "Nur Online-Anmeldung, Nachmeldung vor Ort. Die Preise sind nach Kontingent gestaffelt; ab wann welches Kontingent gilt, nennt die Seite nicht. Nordic Walking kurz/lang: 10 €/15 € (Kontingent 1), 13 €/17 € (Kontingent 2), 15 €/20 € (Kontingent 3), Nachmeldung 20 €/25 €. Laut Anmeldeportal (Datasport) sind Marathon, Dreiviertelmarathon und Halbmarathon ausgebucht, die Startplatzbörse ist aktiv (Stand 09.11.2026).",
    "bezirk": "Oberpfalz",
    "kreis": "Stadt Regensburg",
    "anmeldung_url": "https://www.datasport.de/anmeldeservice/regensburgmarathon2027/",
@@ -7823,7 +7861,7 @@
    "lon": 13.2,
    "date": "2027-09-18",
    "end": null,
-   "confirmed": false,
+   "confirmed": true,
    "prev_date": "2026-09-19",
    "distances": [
     "20",
@@ -7845,7 +7883,7 @@
    "reg_close": null,
    "fee": null,
    "start_time": null,
-   "checked": "2026-11-07",
+   "checked": "2026-11-09",
    "source": "https://www.woidlaeufer.de/home/wichtige-informationen",
    "start_place": "Hohenzollern Skistadion",
    "aid": null,
@@ -7869,7 +7907,6 @@
    "cutoff": null,
    "included": null,
    "late_reg": null,
-   "info": null,
    "prev": {
     "fee": "102 km 140–170 €, 66 km 88–120 €, 47 km 68–100 €, 36 km 58–90 €, 20 km 48–80 € (je nach Anmeldezeitpunkt)",
     "start_time": "05:00",
@@ -7906,7 +7943,8 @@
     }
    ],
    "gear_stand": "Vorjahr 2026 · für 2027 noch nicht veröffentlicht",
-   "showers": "Duschmöglichkeiten vorhanden, dazu SPA-Bereich mit Sauna und Pool"
+   "showers": "Duschmöglichkeiten vorhanden, dazu SPA-Bereich mit Sauna und Pool",
+   "info": "Termin laut Veranstalterseite bestätigt (Stand 09.11.2026)."
   },
   {
    "id": "brauereienlauf-frankische-toskana-2027",
@@ -10298,12 +10336,12 @@
    "reg_close": "2027-09-02",
    "fee": "54,7 km: 119 € bis 30.06.2027, 129 € bis 02.09.2027, Nachmeldung vor Ort 140 €; 27,7 km: 74 € / 84 € / 95 €",
    "start_time": "06:00",
-   "checked": "2026-11-03",
+   "checked": "2026-11-09",
    "source": "https://www.datasport.de/anmeldeservice/ato2027",
    "start_place": null,
    "limit": "54,7 km: 200 Plätze, 27,7 km: 300 Plätze",
    "late_reg": "Nachmeldung vor Ort möglich (Aufpreis)",
-   "info": "Veranstalter: AR Events. Online-Anmeldung über datasport; Zahlung per PayPal, Gutschein, Kreditkarte oder SEPA. Startzeiten laut Portal: 54,7 km 06:00 Uhr, 27,7 km 07:00 Uhr (Startort nicht angegeben). Stand 03.11.2026 laut Portal: 54,7 km noch 23 freie Startplätze (Limit 200), 27,7 km noch 151 (Limit 300)",
+   "info": "Veranstalter: AR Events. Online-Anmeldung über datasport; Zahlung per PayPal, Gutschein, Kreditkarte oder SEPA. Startzeiten laut Portal: 54,7 km 06:00 Uhr, 27,7 km 07:00 Uhr (Startort nicht angegeben). Stand 09.11.2026 laut Portal: 54,7 km ausgebucht (Limit 200), 27,7 km noch 141 freie Startplätze (Limit 300)",
    "na": [],
    "bezirk": "Schwaben",
    "kreis": "LK Oberallgäu",
@@ -10322,7 +10360,8 @@
    ],
    "gear_stand": "Veranstalterseite, noch im Aufbau",
    "gear_warn": "Alpine Erfahrung und Trittsicherheit sind laut Seite unerlässlich. Stöcke sind erlaubt.",
-   "gear_note": "Quelle: https://allgaeu-trail.de/"
+   "gear_note": "Quelle: https://allgaeu-trail.de/",
+   "sold_out": "54,7 km ausgebucht (Teilnehmerlimit 200 erreicht, laut Anmeldeportal Datasport, Stand 09.11.2026); auf den 27,7 km sind noch 141 Plätze frei."
   },
   {
    "id": "neuendettelsauer-kirchweihlauf-2027",
@@ -10529,9 +10568,9 @@
    "place": "Aschaffenburg",
    "lat": 49.9807,
    "lon": 9.1356,
-   "date": "2027-10-03",
+   "date": "2027-10-10",
    "end": null,
-   "confirmed": false,
+   "confirmed": true,
    "prev_date": "2026-10-04",
    "distances": [
     "3,5",
@@ -10544,10 +10583,10 @@
    "reg_close": null,
    "fee": "Vorjahr (2025): Einzelstart ca. 25 €",
    "start_time": "10:30",
-   "checked": "2026-11-01",
+   "checked": "2026-11-09",
    "source": "https://www.festivalsindeutschland.de/es/festival/aschaffenburger-halbmarathon-aschaffenburg/2025",
    "start_place": "Ebertbrücke, Aschaffenburg (Ziel: Schloss Johannisburg)",
-   "info": "Veranstalter: TV Haibach Ausdauersport mit dem Sportamt der Stadt Aschaffenburg. Startzeit und Preis gelten für 2025; Termin 2026 (04.10.) nur aus einem Suchtreffer, nicht auf der Quellseite. Datum 2027 geschätzt",
+   "info": "Veranstalter: TV Haibach Ausdauersport mit dem Sportamt der Stadt Aschaffenburg. Startzeit und Preis gelten für 2025; Termin 2026 (04.10.) nur aus einem Suchtreffer, nicht auf der Quellseite. Datum 2027 geschätzt. Termin laut Veranstalterseite: Save the date 10.10.2027 (Stand 09.11.2026).",
    "na": [],
    "bezirk": "Unterfranken",
    "kreis": "Stadt Aschaffenburg"
@@ -10687,7 +10726,7 @@
    "lat": 47.983,
    "lon": 10.185,
    "date": "2027-10-03",
-   "confirmed": false,
+   "confirmed": true,
    "prev_date": "2026-10-03",
    "distances": [
     "6,6"
@@ -10695,9 +10734,10 @@
    "note": "Termin 2027 nur geplant (20. Auflage), 2026 war am 3.10. (19. Auflage). Wassermann Waldlauf im Memminger Stadtwald; Quellen nennen 6,6 oder 7 km. Dazu Kinder-/Bambinilauf sowie Firmen-, Team- und Schülerwertungen. Veranstalter Turnverein Memmingen 1859 (Triathlon- und Leichtathletikabteilung); Erlös an den Mukoviszidose e.V.",
    "url": "https://triathlon.tv-memmingen.de/buxachtallauf/",
    "source": "https://running.life/de/termine/buxachtal-lauf",
-   "checked": "2026-11-02",
+   "checked": "2026-11-09",
    "gear_open": "nicht geprüft (kurzer Lauf)",
-   "charity": "Der Erlös geht an den Mukoviszidose e.V."
+   "charity": "Der Erlös geht an den Mukoviszidose e.V.",
+   "info": "Termin laut Veranstalterseite bestätigt (Stand 09.11.2026)."
   },
   {
    "id": "crazy-runners-frankenwald-trail-2027",
@@ -10803,14 +10843,14 @@
    "lat": 49.79,
    "lon": 9.93,
    "date": "2027-04-30",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "Backyard"
    ],
    "note": "„Last One Standing“ auf 6,7-km-Runden (ca. 10 Hm pro Runde), jede volle Stunde ein Start, Männer und Frauen getrennt gewertet. Termin laut Kalender, Bestätigung unklar",
    "url": "https://lastlegsultra.de/",
    "source": "https://gotrail.run/de/termine/last-legs-ultra",
-   "checked": "2026-11-02",
+   "checked": "2026-11-09",
    "fee": "95 € / 105 € / 125 € (gestaffelt, Kriterium nicht genannt)",
    "start_place": "Mainwiesen unterhalb des Talavera Würzburg, am Main",
    "parking": "Kostenlos am Talavera",
@@ -10830,7 +10870,8 @@
    ],
    "gear_stand": "Veranstalterseite 2027",
    "gear_warn": "Ob der Becher Pflicht oder nur eine Bitte ist, geht aus der Seite nicht eindeutig hervor. Stöcke sind nicht erlaubt.",
-   "showers": "Toiletten, Duschen und Sauna (LIFESTYLE Fitnessclub)"
+   "showers": "Toiletten, Duschen und Sauna (LIFESTYLE Fitnessclub)",
+   "info": "Termin laut Veranstalterseite bestätigt (Stand 09.11.2026)."
   },
   {
    "id": "buchental-crosslauf-steinfeld-2027",
@@ -10934,14 +10975,14 @@
    "lat": 49.4,
    "lon": 10.2,
    "date": "2027-07-10",
-   "confirmed": false,
+   "confirmed": true,
    "prev_date": "2026-07-11",
    "distances": [],
    "note": "Termin 2027 laut Kalender „angekündigt“, vom Veranstalter noch nicht bestätigt (2026: 11.07.). Veranstalter SC Adelshofen. Trails durch drei Täler (Gickelhäusertal, Taubertal, Weinberge); 2026 mehrere Strecken von ca. 5,4 km bis Ultra und ein Kinderparcours ab 3 Jahren. Strecken 2027 noch nicht genannt",
    "url": "https://www.taubertal-trail.de/",
    "source": "https://gotrail.run/de/termine/taubertaltrail",
-   "checked": "2026-11-02",
-   "info": "Anmeldung über RaceResult (Veranstaltung 410267)",
+   "checked": "2026-11-09",
+   "info": "Anmeldung über RaceResult (Veranstaltung 410267). Termin laut Veranstalterseite bestätigt (Stand 09.11.2026).",
    "gear_open": "Hauptseite nennt keine Ausrüstung; Teilnahmebedingungen nicht gelesen"
   },
   {
@@ -11053,15 +11094,16 @@
    "lat": 47.6,
    "lon": 9.88,
    "date": "2027-06-19",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "12 h"
    ],
    "note": "4. Auflage laut Kalender am Samstag 19.06.2027, Bestätigung unklar. Wohltätigkeitslauf über 12 Stunden, Veranstalter Lions Club Oberstaufen-Westallgäu. Rundenlänge, Startzeit und Startgeld nicht angegeben, weitere Infos laut Seite folgen",
    "url": "https://12stundenlauf-lindenberg.de/",
    "source": "https://gotrail.run/de/termine/lions-12-stunden-lauf-lindenberg",
-   "checked": "2026-11-02",
-   "charity": "Wohltätigkeitslauf des Lions Club Oberstaufen-Westallgäu"
+   "checked": "2026-11-09",
+   "charity": "Wohltätigkeitslauf des Lions Club Oberstaufen-Westallgäu",
+   "info": "Termin laut Veranstalterseite bestätigt (Stand 09.11.2026)."
   },
   {
    "id": "hofer-backyard-ultra-2027",
@@ -11494,7 +11536,7 @@
    "place": "Vohburg an der Donau",
    "kreis": "LK Pfaffenhofen a.d.Ilm",
    "date": "2027-06-26",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "10"
    ],
@@ -11505,14 +11547,14 @@
     "fee": "Fuchsburglauf 18 €, Schülerlauf 5 €, Bambini frei",
     "start_time": "09:45"
    },
-   "info": "Termin 26.06.2027 aus Kalender; Anmeldeportal zeigt noch den Stand 2026 (Starts damals Bambini 08:15, Schüler 08:45, Hauptlauf 09:45)",
+   "info": "Termin 26.06.2027 aus Kalender; Anmeldeportal zeigt noch den Stand 2026 (Starts damals Bambini 08:15, Schüler 08:45, Hauptlauf 09:45). Termin laut Veranstalterseite bestätigt (Stand 09.11.2026).",
    "id": "fuchsburg-lauf-2027",
    "lat": 48.77,
    "lon": 11.618,
    "bezirk": "Oberbayern",
    "end": null,
    "prev_date": null,
-   "checked": "2026-11-07",
+   "checked": "2026-11-09",
    "reg_close": "2027-06-24",
    "start_place": "Kleines Donautor Vohburg",
    "pickup": "Freitag, 25.06.2027, 17 bis 19 Uhr bei den Umkleiden im TV-Vohburg-Sportstadion und Samstag, 26.06.2027, 7 bis 9 Uhr im Wettkampfbüro neben der Hauptbühne (Ulrich-Steinberger-Platz)",
@@ -11586,7 +11628,7 @@
    "place": "Sonthofen",
    "kreis": "LK Oberallgäu",
    "date": "2027-07-09",
-   "confirmed": false,
+   "confirmed": true,
    "prev_date": "2026-07-03",
    "distances": [
     "Hauptlauf"
@@ -11594,13 +11636,13 @@
    "note": "23. Sonthofer AKW Citylauf des TSV Sonthofen (Leichtathletik) am Freitag, Rundkurs in der Stadt; Anmeldung über datasport",
    "url": "https://www.tsv-sonthofen.de/seite/829330/citylauf.html",
    "source": "https://www.tsv-sonthofen.de/seite/829330/citylauf.html",
-   "info": "Termin Freitag 09.07.2027 geplant, Kategorien, Strecken und Zeiten wie 2026; Homepage wird ab 01.03.2027 aktualisiert; Distanzen, Startgeld und Startzeit noch nicht geprüft",
+   "info": "Termin Freitag 09.07.2027 geplant, Kategorien, Strecken und Zeiten wie 2026; Homepage wird ab 01.03.2027 aktualisiert; Distanzen, Startgeld und Startzeit noch nicht geprüft. Termin laut Veranstalterseite geplant für Freitag, 09.07.2027 (Stand 09.11.2026).",
    "id": "sonthofer-akw-citylauf-2027",
    "lat": 47.518,
    "lon": 10.283,
    "bezirk": "Schwaben",
    "end": null,
-   "checked": "2026-11-03"
+   "checked": "2026-11-09"
   },
   {
    "type": "road",
@@ -11608,7 +11650,7 @@
    "place": "Grünwald",
    "kreis": "LK München",
    "date": "2027-07-11",
-   "confirmed": false,
+   "confirmed": true,
    "prev_date": "2026-07-12",
    "distances": [
     "5",
@@ -11617,13 +11659,13 @@
    "note": "11. Grünwalder Burglauf an der Burg Grünwald (Strecken von 500 m bis 10 km); Überschüsse gehen an Klinik Clowns e.V.",
    "url": "https://www.tsv-gruenwald.de/verein/burglauf/",
    "source": "https://www.tsv-gruenwald.de/verein/burglauf/",
-   "info": "11. Grünwalder Burglauf, Termin Sonntag 11.07.2027 geplant, Anmeldung voraussichtlich ab Januar 2027. Vorjahr (12.07.2026, 08:30–14:00 Uhr): 5-km-Rundkurs (10 km = 2 Runden), Kinderläufe 400 m und 1,3 km, Teilnehmerlimit 800, Online-Anmeldung bis eine Woche vorher, keine Nachmeldung, Laufshirt bei früher Anmeldung; Überschüsse an Klinik Clowns e.V. Ausgabe 2026 (12.07.2026): Online-Anmeldung bis 05.07.2026, Abholung der Startunterlagen am Vortag 16:00 bis 18:00 Uhr",
+   "info": "11. Grünwalder Burglauf, Termin Sonntag 11.07.2027 geplant, Anmeldung voraussichtlich ab Januar 2027. Vorjahr (12.07.2026, 08:30–14:00 Uhr): 5-km-Rundkurs (10 km = 2 Runden), Kinderläufe 400 m und 1,3 km, Teilnehmerlimit 800, Online-Anmeldung bis eine Woche vorher, keine Nachmeldung, Laufshirt bei früher Anmeldung; Überschüsse an Klinik Clowns e.V. Ausgabe 2026 (12.07.2026): Online-Anmeldung bis 05.07.2026, Abholung der Startunterlagen am Vortag 16:00 bis 18:00 Uhr. Termin laut Veranstalterseite bestätigt (Stand 09.11.2026).",
    "id": "gruenwalder-burglauf-2027",
    "lat": 48.039,
    "lon": 11.523,
    "bezirk": "Oberbayern",
    "end": null,
-   "checked": "2026-11-05",
+   "checked": "2026-11-09",
    "prev": {
     "limit": "800 Personen",
     "start_place": "Burg Grünwald (Archäologische Staatssammlung), Zeillerstr. 3",
@@ -14237,16 +14279,16 @@
    "bezirk": "Freiburg",
    "kreis": "LK Konstanz",
    "date": "2026-12-13",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "7"
    ],
    "source": "https://gotrail.run/de/termine/hegau-bodensee-crosslaufserie-radolfzell",
-   "checked": "2026-11-04",
+   "checked": "2026-11-09",
    "url": "https://hegau-bodensee-cross.de",
    "parking": "Parkplatz Waldfriedhof Markelfingen (begrenzt)",
    "pickup": "Markolfhalle, Pirminweg 5, Radolfzell-Markelfingen",
-   "info": "Hauptlauf ca. 7 km. Termin laut Seite geplant, kann geändert werden. Bambini und U10/U12 ab 10:00 Uhr, Jugend U14/U16 10:30, Kurzstrecke und Hauptlauf 11:00 Uhr, Hauptlauf ca. 6,5–7 km; Online-Anmeldung bis Donnerstag vor dem Lauf",
+   "info": "Hauptlauf ca. 7 km. Termin laut Seite geplant, kann geändert werden. Bambini und U10/U12 ab 10:00 Uhr, Jugend U14/U16 10:30, Kurzstrecke und Hauptlauf 11:00 Uhr, Hauptlauf ca. 6,5–7 km; Online-Anmeldung bis Donnerstag vor dem Lauf. Termin laut Veranstalterseite bestätigt (Stand 09.11.2026).",
    "lat": 47.742,
    "lon": 8.971,
    "start_time": "11:00",
@@ -14615,16 +14657,16 @@
     "10"
    ],
    "source": "https://haid.app/en/events/optima-dreikonigslauf-in-schwabisch-hall-mq94j2e2",
-   "checked": "2026-11-08",
+   "checked": "2026-11-09",
    "lat": 49.111,
    "lon": 9.739,
    "url": "https://3koenigslauf.de/",
    "anmeldung_url": "https://my.raceresult.com/426738/registration",
    "reg_open": "2026-10-01",
-   "info": "41. OPTIMA Dreikönigslauf am 06.01.2027, Anmeldung seit 01.10.2026. 2026 war der Lauf ausgebucht (über 3.200 Läufer). 10 km in zwei Runden durch die Altstadt, Veranstalter TSG Schwäbisch Hall. Startzeiten laut Anmeldeseite: 10 km (VR Bank Hauptlauf) 14:20 Uhr, 5 km (Röwisch Wohnbau Cup) 13:20 Uhr; Startnummer kommt ab 30.12.2026 per E-Mail. 41. Optima Dreikönigslauf am 06.01.2027; Startnummer per E-Mail ab 30.12.2026, Anmeldung über RaceResult (SEPA-Lastschrift)",
+   "info": "41. OPTIMA Dreikönigslauf am 06.01.2027, Anmeldung seit 01.10.2026. 2026 war der Lauf ausgebucht (über 3.200 Läufer). 10 km in zwei Runden durch die Altstadt, Veranstalter TSG Schwäbisch Hall. Startzeiten laut Anmeldeseite: 10 km (VR Bank Hauptlauf) 14:20 Uhr, 5 km (Röwisch Wohnbau Cup) 13:20 Uhr; Startnummer kommt ab 30.12.2026 per E-Mail. 41. Optima Dreikönigslauf am 06.01.2027; Startnummer per E-Mail ab 30.12.2026, Anmeldung über RaceResult (SEPA-Lastschrift). Laut Anmeldeportal (RaceResult) sind am 09.11.2026 der 5-km- und der 10-km-Lauf ausgebucht; nur der Junior-Cup (0,4 km) und der Jugendlauf (1,7 km) haben noch Plätze.",
    "reg_close": "2026-12-20",
    "start_place": "Startunterlagen in der Blendstatthalle, Blendstatt 6, 74523 Schwäbisch Hall (ab 10:00 Uhr, zusätzlich 04.01. bei Intersport Schoell)",
-   "sold_out": "10-km-Hauptlauf ausgebucht (laut Anmeldeportal, Stand 08.11.2026); 5 km noch 28 Plätze, Jugend- und Kinderläufe frei",
+   "sold_out": true,
    "start_time": "14:20",
    "pickup": "Startunterlagen Montag 04.01.2027 von 10 bis 18 Uhr bei Intersport Schoell (Stuttgarter Str. 157, Schwäbisch Hall) oder am Lauftag ab 10 Uhr in der Blendstatthalle"
   },
@@ -14719,9 +14761,9 @@
     "10"
    ],
    "source": "https://my.raceresult.com/431181/",
-   "checked": "2026-11-08",
+   "checked": "2026-11-09",
    "end": null,
-   "info": "Vier Samstage von 16.01. bis 06.03.2027 in Reutlingen, Pliezhausen/Gniebel und Trochtelfingen (Finale). Veranstalter TSG Reutlingen, LV Pliezhausen, IGL Reutlingen, TSV Trochtelfingen. Chipzeitmessung, Serienwertung aus bis zu 3 Läufen. Anmeldung über RaceResult. 24. Auflage. 1. Lauf der Serie am 16.01.2027 laut alb-gold.de, Einzelmeldung bis Samstag davor 24 Uhr; 2026: AOK-Kids 13:45/14:00, 5 km 14:30, 10 km 14:40 Uhr; Ausrichter IGL Reutlingen, Serie von ALB-GOLD organisiert. Meldeschluss 08.01.2027 gilt laut Veranstalter für die Serienmeldung. Termin 16.01.2027 laut Anmeldeportal (5 und 10 km Winterlauf).",
+   "info": "Vier Samstage von 16.01. bis 06.03.2027 in Reutlingen, Pliezhausen/Gniebel und Trochtelfingen (Finale). Veranstalter TSG Reutlingen, LV Pliezhausen, IGL Reutlingen, TSV Trochtelfingen. Chipzeitmessung, Serienwertung aus bis zu 3 Läufen. Anmeldung über RaceResult. 24. Auflage. 1. Lauf der Serie am 16.01.2027 laut alb-gold.de, Einzelmeldung bis Samstag davor 24 Uhr; 2026: AOK-Kids 13:45/14:00, 5 km 14:30, 10 km 14:40 Uhr; Ausrichter IGL Reutlingen, Serie von ALB-GOLD organisiert. Meldeschluss 08.01.2027 gilt laut Veranstalter für die Serienmeldung. Termin 16.01.2027 laut Anmeldeportal (5 und 10 km Winterlauf). Laut Veranstalterseite ist der Anmeldeschluss für die Serie der 08.01.2027, für Einzelmeldungen zum 1. Lauf der Samstag davor (09.01.2027, 24 Uhr); Startnummernausgabe ab 12:30 Uhr.",
    "lat": 48.496,
    "lon": 9.203,
    "fee": "14 € pro Lauf (5 oder 10 km), Kinder 7 €; Serienanmeldung teurer, Nachmeldung +2 bis 4 €",
@@ -15405,17 +15447,17 @@
    "bezirk": "Tübingen",
    "kreis": "LK Ravensburg",
    "date": "2027-04-18",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
    "source": "https://haid.app/en/events/traublelauf-des-tsv-weingarten-mq95t305",
-   "checked": "2026-11-04",
+   "checked": "2026-11-09",
    "lat": 47.81,
    "lon": 9.64,
    "url": "https://traeublelauf.de",
-   "info": "Veranstalter TSV Weingarten. 2026 (5. Auflage) 497 Anmeldungen. Strecken 5 und 10 km."
+   "info": "Veranstalter TSV Weingarten. 2026 (5. Auflage) 497 Anmeldungen. Strecken 5 und 10 km. Termin laut Veranstalterseite bestätigt (Stand 09.11.2026)."
   },
   {
    "id": "soprema-neckar-run-mannheim-2027",
@@ -15615,19 +15657,19 @@
    "bezirk": "Karlsruhe",
    "kreis": "LK Freudenstadt",
    "date": "2027-05-06",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "50"
    ],
    "source": "https://gotrail.run/de/termine/gruntalultra-freudenstadt-gruntal",
-   "checked": "2026-11-08",
+   "checked": "2026-11-09",
    "lat": 48.467,
    "lon": 8.414,
    "fee": "45 €, per Überweisung oder bar vor dem Start",
    "url": "https://neckarlauf.com",
    "start_place": "Haldenstraße 10, 72250 Freudenstadt-Grüntal",
    "late_reg": "Nachmeldung am Starttag möglich",
-   "info": "Christi Himmelfahrt. 4 Runden à 12,5 km auf markierten Feld- und Waldwegen, nur Gesamtwertung, kein Zeitlimit. Anmeldung per E-Mail. Verpflegung inklusive.",
+   "info": "Christi Himmelfahrt. 4 Runden à 12,5 km auf markierten Feld- und Waldwegen, nur Gesamtwertung, kein Zeitlimit. Anmeldung per E-Mail. Verpflegung inklusive. Termin laut Veranstalterseite bestätigt (Stand 09.11.2026).",
    "start_time": "08:00"
   },
   {
@@ -15638,13 +15680,13 @@
    "bezirk": "Tübingen",
    "kreis": "LK Reutlingen",
    "date": "2027-05-08",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "11",
     "22"
    ],
    "source": "https://haid.app/en/events/lichtenstein-trail-mqix0cuf",
-   "checked": "2026-11-07",
+   "checked": "2026-11-09",
    "lat": 48.44,
    "lon": 9.253,
    "elevation": [
@@ -15660,7 +15702,7 @@
    "showers": "Umkleiden und Duschen in der Lichtensteinhalle",
    "late_reg": "Keine Nachmeldung vor Ort",
    "aid": "22 km: Verpflegung bei km 12 (eigener Becher mitbringen), 11 km: keine Verpflegungsstelle",
-   "info": "Mindestalter 16 Jahre (11 km) bzw. 18 Jahre (22 km). Markierte Trails, Startpaket, Essen im Ziel, GPX und Streckenbeschreibung. Streckenlänge 22 km laut Veranstalter. Anmeldeschluss 29.04.2027 laut Veranstalterseite",
+   "info": "Mindestalter 16 Jahre (11 km) bzw. 18 Jahre (22 km). Markierte Trails, Startpaket, Essen im Ziel, GPX und Streckenbeschreibung. Streckenlänge 22 km laut Veranstalter. Anmeldeschluss 29.04.2027 laut Veranstalterseite. Termin laut Veranstalterseite bestätigt (Stand 09.11.2026).",
    "reg_open": "2026-10-01"
   },
   {
@@ -15696,17 +15738,17 @@
    "bezirk": "Karlsruhe",
    "kreis": "LK Freudenstadt",
    "date": "2027-05-08",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "Backyard"
    ],
    "source": "https://gotrail.run/de/termine/backyard-swub",
-   "checked": "2026-11-04",
+   "checked": "2026-11-09",
    "lat": 48.467,
    "lon": 8.414,
    "url": "https://neckarlauf.com/schwarzwaldultra-backyard.html",
    "start_place": "Haldenstraße 10, 72250 Freudenstadt-Grüntal",
-   "info": "Backyard-Format: jede volle Stunde Start, Runde 6,708 km (Mini-SWUB 4,472 km). Wertung nach Gesamtkilometern, DUV-Statistik. Startplätze begrenzt, Stirnlampe empfohlen. Laut Veranstalterseite 2. Backyard SWUB ab Samstag 08.05.2027 und 3. Backyard ab Samstag 11.09.2027, Start jeweils 8:00 Uhr, Anreise am Vortag möglich",
+   "info": "Backyard-Format: jede volle Stunde Start, Runde 6,708 km (Mini-SWUB 4,472 km). Wertung nach Gesamtkilometern, DUV-Statistik. Startplätze begrenzt, Stirnlampe empfohlen. Laut Veranstalterseite 2. Backyard SWUB ab Samstag 08.05.2027 und 3. Backyard ab Samstag 11.09.2027, Start jeweils 8:00 Uhr, Anreise am Vortag möglich. Termin laut Veranstalterseite bestätigt (Stand 09.11.2026).",
    "fee": "15 € (Startplätze auf 50 begrenzt, nicht übertragbar)",
    "start_time": "08:00"
   },
@@ -15718,13 +15760,13 @@
    "bezirk": "Stuttgart",
    "kreis": "LK Böblingen",
    "date": "2027-05-08",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "7,7",
     "14,4"
    ],
    "source": "https://haid.app/en/events/gaufelderlauf-mvkdy4dh",
-   "checked": "2026-11-08",
+   "checked": "2026-11-09",
    "lat": 48.55,
    "lon": 8.817,
    "fee": "12 €, Bambini und Schüler frei",
@@ -15734,7 +15776,7 @@
    "start_place": "Radstadion Öschelbronn",
    "showers": "Umkleiden und Duschen im Sportheim",
    "aid": "Verpflegung bei km 3 und (lange Strecke) km 9,5",
-   "info": "Start auf Asphalt, überwiegend befestigte Waldwege, Ziel auf Asphalt. Transponder in der Startnummer.",
+   "info": "Start auf Asphalt, überwiegend befestigte Waldwege, Ziel auf Asphalt. Transponder in der Startnummer. Termin laut Veranstalterseite bestätigt (Stand 09.11.2026).",
    "pickup": "Ab 12:00 Uhr im Eingang des Radstadions, spätestens 30 Minuten vor dem Lauf",
    "parking": "Begrenzt am Sportplatz und in der Vogelsangstraße außerhalb des Orts; Fahrgemeinschaften oder ÖPNV empfohlen"
   },
@@ -15817,13 +15859,13 @@
    "bezirk": "Freiburg",
    "kreis": "LK Breisgau-Hochschwarzwald",
    "date": "2027-06-06",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "4",
     "10,4"
    ],
    "source": "https://gotrail.run/de/termine/eichberglauf-glottertal",
-   "checked": "2026-11-05",
+   "checked": "2026-11-09",
    "lat": 48.051,
    "lon": 7.963,
    "elevation": [
@@ -15836,7 +15878,7 @@
    "url": "https://eichberglauf.de",
    "start_place": "Eichbergstadion/Sportplatz Glottertal",
    "aid": "Zwei Wasserstellen",
-   "info": "Hauptstrecke von 10,4 km durch Reben und Wald über Wissereck, Schlossdobel und Sonnenbühl. Chip in der Startnummer (eigene Chips nicht erlaubt). Straße in den ersten 2 km gesperrt. Online-Anmeldung bis 03.06. 18 Uhr. Startzeit der letzten Ausgabe laut Veranstalterseite (automatisch erkannt, Hauptlauf) (10:00 Uhr)",
+   "info": "Hauptstrecke von 10,4 km durch Reben und Wald über Wissereck, Schlossdobel und Sonnenbühl. Chip in der Startnummer (eigene Chips nicht erlaubt). Straße in den ersten 2 km gesperrt. Online-Anmeldung bis 03.06. 18 Uhr. Startzeit der letzten Ausgabe laut Veranstalterseite (automatisch erkannt, Hauptlauf) (10:00 Uhr). Termin laut Veranstalterseite bestätigt (Stand 09.11.2026).",
    "prev": {
     "start_time": "10:00"
    }
@@ -15874,14 +15916,14 @@
    "bezirk": "Karlsruhe",
    "kreis": "LK Freudenstadt",
    "date": "2027-06-20",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "6 Tage"
    ],
    "source": "https://gotrail.run/de/termine/sixdaysrun-freudenstadt",
-   "checked": "2026-11-04",
+   "checked": "2026-11-09",
    "end": "2027-06-26",
-   "info": "Sechstagelauf auf 2.236-m-Wendepunktstrecke, auch 3, 4 oder 5 Tage wählbar. Unterkunft nach dem Lauf, Verpflegung inklusive, Anmeldung per E-Mail. Nachmeldung mit reduzierter Gebühr möglich.",
+   "info": "Sechstagelauf auf 2.236-m-Wendepunktstrecke, auch 3, 4 oder 5 Tage wählbar. Unterkunft nach dem Lauf, Verpflegung inklusive, Anmeldung per E-Mail. Nachmeldung mit reduzierter Gebühr möglich. Termin laut Veranstalterseite bestätigt (Stand 09.11.2026).",
    "lat": 48.467,
    "lon": 8.414,
    "fee": "60 € (kürzere Teilnahme günstiger)",
@@ -16014,20 +16056,20 @@
    "bezirk": "Stuttgart",
    "kreis": "Main-Tauber-Kreis",
    "date": "2027-07-16",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "6",
     "10"
    ],
    "source": "https://gotrail.run/de/termine/kulsheimer-trailrun",
-   "checked": "2026-11-08",
+   "checked": "2026-11-09",
    "lat": 49.669,
    "lon": 9.524,
    "fee": "6 km und 10 km 7 €, 2 km 4 €",
    "late_reg": "Anmeldung vor Ort am Lauftag bis ca. 18:15 Uhr, keine Online-Anmeldung genannt",
    "url": "https://12stundenrennen.de/kuelsheimer-trailrun/",
    "start_place": "Stadion FC Külsheim, Jahnstraße 19, 97900 Külsheim",
-   "info": "Förderverein 2003 des FC Külsheim. Dazu 2 km Kinderlauf, 6 km auch als Nordic Walking.",
+   "info": "Förderverein 2003 des FC Külsheim. Dazu 2 km Kinderlauf, 6 km auch als Nordic Walking. Termin laut Veranstalterseite bestätigt (Stand 09.11.2026).",
    "start_time": "19:00",
    "pickup": "Freitag 16.07.2027, 17–20 Uhr"
   },
@@ -16114,13 +16156,13 @@
    "bezirk": "Karlsruhe",
    "kreis": "LK Freudenstadt",
    "date": "2027-08-27",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "24 h",
     "48 h"
    ],
    "source": "https://gotrail.run/de/termine/sommer24hlauf",
-   "checked": "2026-11-04",
+   "checked": "2026-11-09",
    "end": "2027-08-29",
    "lat": 48.467,
    "lon": 8.414,
@@ -16128,7 +16170,7 @@
    "url": "https://neckarlauf.com/sommer24hlauf.html",
    "start_place": "Haldenstraße 10, 72250 Freudenstadt-Grüntal",
    "late_reg": "Nachmeldung am Renntag, späterer Einstieg erlaubt",
-   "info": "Rundenlauf auf 3,6-km-Schleife mit ca. 70 Hm je Runde. 48-h-Lauf ab 27.08., 24-h-Lauf ab 28.08.2027. Übernachtung nach dem Lauf, Buffet und Getränke inklusive. Anmeldung per E-Mail."
+   "info": "Rundenlauf auf 3,6-km-Schleife mit ca. 70 Hm je Runde. 48-h-Lauf ab 27.08., 24-h-Lauf ab 28.08.2027. Übernachtung nach dem Lauf, Buffet und Getränke inklusive. Anmeldung per E-Mail. Termin laut Veranstalterseite bestätigt (Stand 09.11.2026)."
   },
   {
    "id": "braunenberg-lauf-2027",
@@ -16194,14 +16236,14 @@
    "bezirk": "Freiburg",
    "kreis": "LK Lörrach",
    "date": "2027-09-25",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "6",
     "10,4"
    ],
    "source": "https://gotrail.run/de/termine/waielander-waldlauf",
-   "checked": "2026-11-04",
-   "info": "Etwa 90 % Waldwege. Waldrun 10,4 km und Waldsprint 6 km, dazu Jugendlauf 3 km und Kinderlauf 0,4 km. Datum 25.09.2027 laut Kalender, die Seite nennt in der Beschreibung noch 26.09.2026 (Datum beim Veranstalter prüfen).",
+   "checked": "2026-11-09",
+   "info": "Etwa 90 % Waldwege. Waldrun 10,4 km und Waldsprint 6 km, dazu Jugendlauf 3 km und Kinderlauf 0,4 km. Datum 25.09.2027 laut Kalender, die Seite nennt in der Beschreibung noch 26.09.2026 (Datum beim Veranstalter prüfen). Termin laut Veranstalterseite bestätigt (Stand 09.11.2026).",
    "lat": 47.589,
    "lon": 7.691,
    "fee": "6 km und 10,4 km je 15 € (Nachmeldung +5 €)",
@@ -16248,13 +16290,13 @@
     "50"
    ],
    "source": "https://gotrail.run/de/termine/e2h10k-ultratrail-calw-100",
-   "checked": "2026-11-04",
+   "checked": "2026-11-09",
    "lat": 48.714,
    "lon": 8.74,
    "url": "https://e2h10k.simdif.com",
    "limit": "36 Teilnehmer, findet nur ab 15 Anmeldungen statt",
    "fee": "Frühbucher 10 € bis 31.12.2026, regulär 50 € Veranstaltergebühr (Beträge ab 2027 nicht angegeben)",
-   "info": "Privates Gemeinschaftslauf-Event ohne wirtschaftliches Interesse. 10 Runden à 10 km, Bambini-Kategorie bei Aufgabe nach mehr als 5 Runden. GPX per E-Mail/WhatsApp, Strecke nur teilweise markiert. Zahlung nur per PayPal Friends. Anmeldeschluss auf der Seite (25.09.2026) noch aus der Vorausgabe."
+   "info": "Privates Gemeinschaftslauf-Event ohne wirtschaftliches Interesse. 10 Runden à 10 km, Bambini-Kategorie bei Aufgabe nach mehr als 5 Runden. GPX per E-Mail/WhatsApp, Strecke nur teilweise markiert. Zahlung nur per PayPal Friends. Anmeldeschluss auf der Seite (25.09.2026) noch aus der Vorausgabe. Laut Veranstalter findet der 8. e2h10k am 10.07.2027 oder am 02.10.2027 statt, die Entscheidung fällt bis 31.12.2026 (Stand 09.11.2026)."
   },
   {
    "id": "trailrun21-zell-am-harmersbach-2027",
@@ -16355,12 +16397,12 @@
    "bezirk": "Freiburg",
    "kreis": "LK Emmendingen",
    "date": "2027-10-23",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "8,2"
    ],
    "source": "https://gotrail.run/de/termine/crosslauf-endingen",
-   "checked": "2026-11-04",
+   "checked": "2026-11-09",
    "lat": 48.133,
    "lon": 7.7,
    "fee": "Männer/Frauen 8 € (Nachmeldung +2 €), Schüler 3 €, Jugend 4 €, Bambini 1 €",
@@ -16370,7 +16412,7 @@
    "showers": "Umkleiden und Duschen in der Stadthalle",
    "parking": "An der Stadthalle/Schulzentrum, ca. 5 Min. zum Start",
    "late_reg": "Nachmeldung bis 1 Stunde vor dem Start",
-   "info": "Cross durch Erleweiher-Gelände. Hauptlauf der Männer 8.210 m, Frauen 5.455 m. Angaben stammen aus der Ausschreibung 2026."
+   "info": "Cross durch Erleweiher-Gelände. Hauptlauf der Männer 8.210 m, Frauen 5.455 m. Angaben stammen aus der Ausschreibung 2026. Termin laut Veranstalterseite bestätigt (Stand 09.11.2026)."
   },
   {
    "id": "sparkassen-alb-marathon-2027",
@@ -16598,7 +16640,7 @@
    "kreis": "Stadt Karlsruhe",
    "bezirk": "Karlsruhe",
    "date": "2027-09-19",
-   "confirmed": false,
+   "confirmed": true,
    "prev_date": "2026-09-20",
    "distances": [
     "6,1",
@@ -16614,8 +16656,8 @@
     "fee": "Marathon 52–67 €, Halbmarathon 42–57 €, Team-Marathon 95–135 €, AOK-Gesundheitslauf 20 €, Inklusionslauf 25 €, Marathonengel 6 € (laut hdsports, Preise der Ausgabe 2026)",
     "start_time": "09:30"
    },
-   "info": "Veranstalter Marathon Karlsruhe e.V. Termin 19.09.2027 laut Veranstalter-Webseite (bei hdsports nicht separat bestätigt, 2026: 20.09.). Dazu Team-Marathon, Inklusionslauf, Marathonengel 4,1 km und am Vortag Mini-Marathon, Mini-Halbmarathon und Bambini-Lauf. Startzeit der Ausgabe 2026 laut HDsports (09:30 Uhr).",
-   "checked": "2026-11-04"
+   "info": "Veranstalter Marathon Karlsruhe e.V. Termin 19.09.2027 laut Veranstalter-Webseite (bei hdsports nicht separat bestätigt, 2026: 20.09.). Dazu Team-Marathon, Inklusionslauf, Marathonengel 4,1 km und am Vortag Mini-Marathon, Mini-Halbmarathon und Bambini-Lauf. Startzeit der Ausgabe 2026 laut HDsports (09:30 Uhr). Termin laut Veranstalterseite bestätigt (Stand 09.11.2026).",
+   "checked": "2026-11-09"
   },
   {
    "id": "stuttgart-lauf-2027",
@@ -16999,7 +17041,7 @@
    "start_place": "Gegenüber dem Parkplatz des Aluminiumwerks STEP G, Vogt",
    "pickup": "Sirgensteinhalle Vogt",
    "info": "Veranstalter SC Vogt Leichtathletik. Hauptlauf ca. 7,2 km, Jedermann-Cross 3,6 km, dazu Kinder- und Jugendläufe. Siegerehrung und Verpflegung in der Sirgensteinhalle. Saison 2025/26: Kinder 13:30, U14/U16 13:45, Jugend und Jedermanncross 14:00, Hauptlauf 7,2 km 14:30 Uhr; Meldeschluss Donnerstag 20:00 Uhr",
-   "checked": "2026-11-08",
+   "checked": "2026-11-09",
    "bezirk": "Tübingen",
    "lat": 47.767,
    "lon": 9.767,
@@ -19988,16 +20030,16 @@
    "kreis": "Stadt Heidelberg",
    "lat": 49.406,
    "lon": 8.687,
-   "date": "2027-07-10",
-   "confirmed": false,
+   "date": "2027-07-17",
+   "confirmed": true,
    "prev_date": "2026-07-11",
    "distances": [
     "5",
     "10"
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 11.07.). Strecken laut hdsports. Veranstalter Heidelberger TV 1846, parallel zum Sommerfest der Bahnstadt. 9. Auflage war am 11.07.2026: 10 km und 5 km (starten gleichzeitig), Jugendlauf 2,2 km, Kinderlauf 1,1 km, flache 2,5-km-Runde. 5 km und 10 km waren 2026 ausgebucht (2025 mit 846 Teilnehmern)",
+   "checked": "2026-11-09",
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 11.07.). Strecken laut hdsports. Veranstalter Heidelberger TV 1846, parallel zum Sommerfest der Bahnstadt. 9. Auflage war am 11.07.2026: 10 km und 5 km (starten gleichzeitig), Jugendlauf 2,2 km, Kinderlauf 1,1 km, flache 2,5-km-Runde. 5 km und 10 km waren 2026 ausgebucht (2025 mit 846 Teilnehmern). Laut Veranstalter findet das 10. Jubiläum am 17.07.2027 statt, die Anmeldung öffnet voraussichtlich im März 2027 (Stand 09.11.2026).",
    "url": "https://heidelberger-tv.de/bahnstadtlauf/",
    "start_place": "Gadamerplatz, Bahnstadt Heidelberg"
   },
@@ -22980,14 +23022,15 @@
     "10"
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-08",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 15.11.). Strecken laut hdsports. Veranstalter TSV Geislingen. 39. Volkslauf war am 15.11.2026 (Meldeschluss 11.11.): Hauptlauf 10,5 km, Schülerläufe und Integrationslauf, Start 2025 um 10:30 Uhr",
+   "checked": "2026-11-09",
+   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 15.11.). Strecken laut hdsports. Veranstalter TSV Geislingen. 39. Volkslauf war am 15.11.2026 (Meldeschluss 11.11.): Hauptlauf 10,5 km, Schülerläufe und Integrationslauf, Start 2025 um 10:30 Uhr. Laut Veranstalterseite (Stand 09.11.2026): 39. Geislinger Volkslauf am Sonntag, 15.11.2026, Start um 10:30 Uhr bei der Schlossparkhalle.",
    "url": "https://leichtathletik.tsv-geislingen.de/",
    "prev": {
     "start_time": "10:30"
    },
    "start_place": "Schloßparkhalle, Geislingen",
-   "reg_close": "2026-11-11"
+   "reg_close": "2026-11-11",
+   "start_time": "10:30"
   },
   {
    "id": "nussdorflauf-eberdingen-2026",
@@ -23129,12 +23172,13 @@
     "10"
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-08",
+   "checked": "2026-11-09",
    "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 31.12.). Strecken laut hdsports. Veranstalter SSV Schwaibach 1963. 2026 am 31.12. um 14:00 Uhr, 26. Auflage war 2025: 2 km, 5 km und 10 km sowie ein unzeitgemessener 7-km-Walking-Lauf, Kinder bis 10 Jahre frei, Anmeldung über RaceResult. Veranstalterseite nur per http erreichbar. Das Teilnehmerlimit stammt aus der Ausschreibung 2025; für 2026 liegt noch keine neue Ausschreibung vor",
    "url": "http://schwaibach-lauf-mit.de/ausschreibung",
    "prev": {
     "start_time": "14:00",
-    "fee": "5 und 10 km 8 € (Schüler bis 17 Jahre 4 €), 2 km 6 €; Nachmeldung +4 €"
+    "fee": "5 und 10 km 8 € (Schüler bis 17 Jahre 4 €), 2 km 6 €; Nachmeldung +4 €",
+    "limit": "400 Läufer"
    },
    "start_place": "Sportgelände SSV Schwaibach, Gengenbach",
    "limit": "400 Läufer (Ausschreibung 2025)",
@@ -24015,9 +24059,9 @@
     "HM"
    ],
    "source": "https://www.runme.de/deutschland/int-giessener-silvester-volkslauf-rund-um-den-schiffenberg/",
-   "checked": "2026-11-08",
+   "checked": "2026-11-09",
    "url": "https://www.silvesterlauf-giessen.de/",
-   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Halbmarathon 10:00, 10 km 10:45, 5 km 11:10, Schülerlauf 09:45 Uhr; 2 € Startnummernpfand; Anmeldung über RaceResult. Laut Veranstalter (Stand 05.11.2026): alle 2.000 Startplätze vergeben, Anmeldung geschlossen; bei Abmeldungen wird sie wieder geöffnet (Hinweis auf der Homepage und Instagram). Keine Warteliste, keine Startplatzübertragung. Siegerehrung nur für Streckensieger ca. 12:00 Uhr. 70 % Waldwege beim Halbmarathon, 80 % beim 10 km",
+   "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Halbmarathon 10:00, 10 km 10:45, 5 km 11:10, Schülerlauf 09:45 Uhr; 2 € Startnummernpfand; Anmeldung über RaceResult. Laut Veranstalter (Stand 05.11.2026): alle 2.000 Startplätze vergeben, Anmeldung geschlossen; bei Abmeldungen wird sie wieder geöffnet (Hinweis auf der Homepage und Instagram). Keine Warteliste, keine Startplatzübertragung. Siegerehrung nur für Streckensieger ca. 12:00 Uhr. 70 % Waldwege beim Halbmarathon, 80 % beim 10 km. Laut Veranstalterseite (Stand 09.11.2026) sind derzeit keine Startplätze verfügbar, die Anmeldung soll Mitte Dezember erneut öffnen.",
    "start_time": "10:45",
    "start_place": "Sporthalle Ost, Karl-Reuter-Weg 3, Gießen",
    "pickup": "Dienstag 29.12.2026 von 15 bis 18 Uhr beim Sportshop Schäfer (Gießener Straße 116, Gießen-Wieseck), Mittwoch 30.12.2026 von 15 bis 17 Uhr vor der Sporthalle Ost, am Lauftag ab 8:30 Uhr im Foyer der Sporthalle Ost",
@@ -24203,29 +24247,6 @@
    "pickup": "Ausgabe der Startunterlagen am 07.11.2026 ab 12:00 Uhr am Maingau-Energie-Stadion in Jügesheim",
    "prev": {
     "start_time": "14:00"
-   }
-  },
-  {
-   "id": "moerfelder-winterlaufserie-2027",
-   "type": "road",
-   "name": "Mörfelder Winterlaufserie",
-   "place": "Mörfelden",
-   "bezirk": "Darmstadt",
-   "kreis": "LK Offenbach",
-   "lat": 49.995,
-   "lon": 8.584,
-   "date": "2027-02-07",
-   "confirmed": false,
-   "distances": [
-    "5",
-    "10"
-   ],
-   "source": "https://www.runme.de/deutschland/moerfelder-winterlaufserie/",
-   "checked": "2026-11-04",
-   "url": "http://www.lg-mw.de",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 09:00 Uhr).",
-   "prev": {
-    "start_time": "09:00"
    }
   },
   {
@@ -28784,13 +28805,13 @@
    ],
    "url": "https://www.laufservice-jena.de/",
    "source": "https://www.runme.de/deutschland/landgrafenlauf/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Anmeldeseite ausgebucht, Anmeldung geschlossen (Stand 05.11.2026). Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden). Laut Anmeldeportal am 05.11.2026 ausgebucht. Startzeit laut RUNME (11 km um 09:30 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "sold_out": true,
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden). Startzeit laut RUNME (11 km um 09:30 Uhr, frühester Lauf ab 5 km). Laut Anmeldeportal (RaceResult) am 09.11.2026 wieder 3 Plätze frei (Limit 175), Online-Anmeldung bis 12.11.2026, 18:00 Uhr.",
+   "checked": "2026-11-09",
    "late_reg": "Keine Nachmeldungen am Veranstaltungstag",
    "anmeldung_url": "https://my.raceresult.com/403691/registration",
    "limit": "175 Teilnehmende",
-   "start_time": "09:30"
+   "start_time": "09:30",
+   "reg_close": "2026-11-12"
   },
   {
    "id": "zeitzgrundlauf-2026",
@@ -33211,7 +33232,7 @@
    "lat": 50.723,
    "lon": 12.357,
    "date": "2027-04-18",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "7",
     "10",
@@ -33220,8 +33241,8 @@
    ],
    "url": "http://www.werdauer-waldlauf.de",
    "source": "https://www.runme.de/deutschland/werdauer-waldlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 10:00 Uhr).",
-   "checked": "2026-11-06",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 10:00 Uhr). Termin laut Veranstalterseite bestätigt (Stand 09.11.2026).",
+   "checked": "2026-11-09",
    "prev": {
     "start_time": "10:00"
    }
@@ -34683,7 +34704,7 @@
    "lat": 50.979,
    "lon": 13.524,
    "date": "2027-08-29",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10",
@@ -34692,8 +34713,8 @@
    ],
    "url": "http://www.tharandterwald-lauf.de",
    "source": "https://www.runme.de/deutschland/tharandter-wald-lauf-kurort-hartha/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-08-14. Startzeit der letzten Ausgabe laut RUNME (30 km um 11:10 Uhr).",
-   "checked": "2026-11-06",
+   "info": "Strecken laut RUNME. running.life nennt dafür den 2027-08-14. Startzeit der letzten Ausgabe laut RUNME (30 km um 11:10 Uhr). Termin laut Veranstalterseite bestätigt (Stand 09.11.2026).",
+   "checked": "2026-11-09",
    "prev": {
     "start_time": "11:10"
    }
@@ -36603,8 +36624,8 @@
    ],
    "url": "http://altstadtlauf-halberstadt.de/",
    "source": "https://altstadtlauf-halberstadt.de/",
-   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (9,3 km um 10:30 Uhr). Laut Veranstalterseite findet der 4. Halberstädter Altstadtlauf am 18. oder 21. April 2027 statt (noch nicht festgelegt); 2026 war er am 10.05.",
-   "checked": "2026-11-08",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (9,3 km um 10:30 Uhr). Laut Veranstalterseite findet der 4. Halberstädter Altstadtlauf am 18. oder 21. April 2027 statt (noch nicht festgelegt); 2026 war er am 10.05. Laut Veranstalterseite findet der 4. Halberstädter Altstadtlauf am 18. oder 21. April 2027 statt (Stand 09.11.2026).",
+   "checked": "2026-11-09",
    "prev": {
     "start_time": "10:30",
     "fee": "Altstadtlauf 9,6 km 10 € (ab 10.03. 15 €), Fitnesslauf 4,8 km 10 € (ab 15.02. 12 €, ab 10.03. 15 €), Einsteigerlauf 2,3 km 8 €, Kinderläufe 5 €, Walken 4,8 km 10 € (Ausgabe 2026)"
@@ -37778,7 +37799,7 @@
    "lat": 52.124,
    "lon": 11.632,
    "date": "2027-10-03",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "10",
     "HM",
@@ -37786,8 +37807,8 @@
    ],
    "url": "http://www.magdeburg-marathon.eu/",
    "source": "https://www.runme.de/deutschland/magdeburg-marathon/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (42,195 km um 09:10 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (42,195 km um 09:10 Uhr). Termin laut Veranstalterseite bestätigt (Stand 09.11.2026).",
+   "checked": "2026-11-09",
    "prev": {
     "start_time": "09:10"
    },
@@ -38798,17 +38819,19 @@
    "lat": 51.73,
    "lon": 14.598,
    "date": "2027-01-01",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5,4"
    ],
    "url": "http://www.ltsv.de",
    "source": "https://www.runme.de/deutschland/forster-neujahrslauf-forst-lausitz-/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,4 km um 10:30 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,4 km um 10:30 Uhr). Termin laut Veranstalterseite (Stand 09.11.2026): 46. Forster Neujahrslauf am 01.01.2027 um 10:30 Uhr, eine Runde 2,7 km oder zwei Runden 5,4 km.",
+   "checked": "2026-11-09",
    "prev": {
     "start_time": "10:30"
-   }
+   },
+   "start_time": "10:30",
+   "start_place": "Forst (Lausitz), Kreuzung C.-A.-Groeschke-Straße/Badestraße"
   },
   {
    "id": "neujahrslauf-bad-liebenwerda-2027",
@@ -43860,8 +43883,8 @@
    ],
    "url": "https://www.hartfuessler.de",
    "source": "https://www.runme.de/deutschland/x-mas-trail/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (46,82 km um 08:00 Uhr, frühester Lauf ab 5 km). Strecken laut Anmeldeportal: Brian Trail 14 km (500 Hm, Start 11:00), Ruprecht Trail 32 km (1.190 Hm, 09:30), X-Mas Trail 46 km (1.700 Hm, 08:00); Stand 05.11.2026 noch 64 Plätze (32 km) und 119 (46 km) frei",
-   "checked": "2026-11-08",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (46,82 km um 08:00 Uhr, frühester Lauf ab 5 km). Strecken laut Anmeldeportal: Brian Trail 14 km (500 Hm, Start 11:00), Ruprecht Trail 32 km (1.190 Hm, 09:30), X-Mas Trail 46 km (1.700 Hm, 08:00); Stand 05.11.2026 noch 64 Plätze (32 km) und 119 (46 km) frei. Laut Anmeldeportal (RaceResult) am 09.11.2026: Brian Trail 14 km voll, Ruprecht Trail 32 km noch 56 Plätze, X-Mas Trail 46 km noch 112 Plätze.",
+   "checked": "2026-11-09",
    "start_time": "08:00",
    "elevation": [
     500,
@@ -43869,8 +43892,9 @@
     1700
    ],
    "reg_close": "2026-12-11",
-   "sold_out": "Brian Trail 14 km ausgebucht (laut Anmeldeportal, Stand 08.11.2026); 32 und 46 km noch frei",
-   "fee": "Ruprecht Trail 32 km 36 € (46 € am 12. und 13.12.), X-Mas Trail 46 km 48 € (58 €), Brian Trail 14 km 20 € (30 €)"
+   "sold_out": "Ausgebucht laut Anmeldeportal: Brian Trail 14km. Die übrigen Strecken zeigen noch freie Plätze oder keine Begrenzung (nachts automatisch geprüft).",
+   "fee": "Ruprecht Trail 32 km 36 € (46 € am 12. und 13.12.), X-Mas Trail 46 km 48 € (58 €), Brian Trail 14 km 20 € (30 €)",
+   "anmeldung_url": "https://my.raceresult.com/380409/registration"
   },
   {
    "id": "internationaler-sparverein-silvesterlauf-saarbruecken-2026",
@@ -44620,8 +44644,8 @@
    "kreis": "Saarpfalz-Kreis",
    "lat": 49.326,
    "lon": 7.339,
-   "date": "2027-09-12",
-   "confirmed": false,
+   "date": "2027-09-19",
+   "confirmed": true,
    "distances": [
     "5",
     "10",
@@ -44630,8 +44654,8 @@
    ],
    "url": "http://www.miteinander-gegen-krebs.de/",
    "source": "https://www.runme.de/deutschland/cross-against-cancer/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME.",
-   "checked": "2026-11-08",
+   "info": "Strecken laut RUNME. Laut Veranstalter findet der nächste Cross against Cancer am 19.09.2027 statt (Stand 09.11.2026).",
+   "checked": "2026-11-09",
    "charity": "Spendenlauf des gemeinnützigen Vereins Miteinander gegen Krebs e.V."
   },
   {
@@ -46716,14 +46740,14 @@
    "lat": 49.201555,
    "lon": 7.6002161,
    "date": "2027-04-03",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "12"
    ],
    "url": "https://www.deadlydozen.de/event/trail-pirmasens",
    "source": "https://running.life/de/termine/deadly-trail-pirmasens",
-   "info": "Termin und Strecken laut running.life/gotrail.run.",
-   "checked": "2026-11-05"
+   "info": "Termin und Strecken laut running.life/gotrail.run. Termin laut Veranstalterseite bestätigt (Stand 09.11.2026).",
+   "checked": "2026-11-09"
   },
   {
    "id": "int-zeppelinlauf-muelheim-an-der-mosel-2027",
@@ -48358,8 +48382,8 @@
    "kreis": "Südwestpfalz",
    "lat": 49.167,
    "lon": 7.9,
-   "date": "2027-06-26",
-   "confirmed": false,
+   "date": "2027-06-19",
+   "confirmed": true,
    "distances": [
     "48",
     "5",
@@ -48367,8 +48391,8 @@
    ],
    "url": "https://www.htt-spirkelbach.de/",
    "source": "https://www.runme.de/deutschland/brunnenlauf-spirkelbach/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-06-19. Startzeit der letzten Ausgabe laut RUNME (48 km um 10:00 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. running.life nennt dafür den 2027-06-19. Startzeit der letzten Ausgabe laut RUNME (48 km um 10:00 Uhr). Termin laut Veranstalterseite: Höllenberg Trail-Trophy am 19.06.2027 (Stand 09.11.2026).",
+   "checked": "2026-11-09",
    "prev": {
     "start_time": "10:00"
    }
@@ -50403,6 +50427,31 @@
    "fee": "20 € (inkl. Shuttlebus, Medaille, Schlauchtuch, Zielverpflegung)"
   },
   {
+   "id": "tuermeweg-trailrun-2027",
+   "type": "trail",
+   "name": "TürmeWEG TRAILRUN",
+   "place": "Hagen",
+   "bezirk": "Arnsberg",
+   "kreis": "Stadt Hagen",
+   "lat": 51.347,
+   "lon": 7.427,
+   "distances": [
+    "10"
+   ],
+   "url": "https://3tuermetrail.de/",
+   "date": "2027-11-07",
+   "confirmed": true,
+   "prev_date": "2026-11-08",
+   "source": "https://3tuermetrail.de/",
+   "reg_open": "2027-07-01",
+   "start_time": "10:00",
+   "prev": {
+    "fee": "20 € (inkl. Shuttlebus, Medaille, Schlauchtuch, Zielverpflegung)"
+   },
+   "info": "Termin laut Veranstalterseite: Sonntag, 07.11.2027, 10:00 bis 13:00 Uhr; die Online-Anmeldung öffnet am 01.07.2027 um 0:00 Uhr (Stand 09.11.2026). Startgeld aus dem Vorjahr.",
+   "checked": "2026-11-09"
+  },
+  {
    "id": "refrather-herbstlauf-2026",
    "type": "road",
    "name": "Refrather Herbstlauf",
@@ -50570,14 +50619,14 @@
    ],
    "url": "https://www.karneval-marathon.de/",
    "source": "https://www.runme.de/deutschland/karneval-marathon/",
-   "info": "Termin laut Veranstaltungskalender des Leichtathletik-Verbands Nordrhein (beim Verband angemeldet). Strecken laut RUNME. Startzeit laut RUNME (42,195 km um 11:11 Uhr, frühester Lauf ab 5 km). Laut Veranstalterseite sind alle Startplätze 2026 vergeben, Nachrücken nur über die Warteliste",
-   "checked": "2026-11-08",
+   "info": "Termin laut Veranstaltungskalender des Leichtathletik-Verbands Nordrhein (beim Verband angemeldet). Strecken laut RUNME. Startzeit laut RUNME (42,195 km um 11:11 Uhr, frühester Lauf ab 5 km). Laut Veranstalterseite (Stand 09.11.2026) sind nach zahlreichen kurzfristigen Absagen wieder wenige Startplätze verfügbar.",
+   "checked": "2026-11-09",
    "start_time": "11:11",
-   "sold_out": true,
    "showers": "Umkleiden, Duschen und Toiletten im Clubheim des FC Pesch 1956 e.V.",
    "parking": "In den angrenzenden Wohngebieten.",
    "pickup": "9:30–10:30 Uhr im Start-/Zielbereich auf dem Spielplatz am Pescher See (mit Ausweis).",
-   "start_place": "Spielplatz direkt am Pescher See, Köln-Pesch."
+   "start_place": "Spielplatz direkt am Pescher See, Köln-Pesch.",
+   "limit": "50 Startnummern"
   },
   {
    "id": "ladbergen-ultramarathon-2026",
@@ -51791,13 +51840,19 @@
    "date": "2026-12-20",
    "confirmed": true,
    "distances": [
-    "7,1"
+    "7,1",
+    "14,2",
+    "HM",
+    "28,4",
+    "35,5",
+    "M",
+    "50"
    ],
    "url": "https://running.life/de/termine/essener-rhein-herne-kanal-marathon/2026-12-20",
    "anmeldung_url": "https://my.raceresult.com/395941/",
    "source": "https://running.life/de/termine/essener-rhein-herne-kanal-marathon/2026-12-20",
-   "info": "Termin und Strecken laut running.life/gotrail.run. Laut Anmeldeportal Start 06:00 Uhr 50 km Ultramarathon, 10:00 Uhr alle weiteren Strecken; alle Strecken laut Anmeldeportal RaceResult am 05.11.2026 ausgebucht. Laut Anmeldeportal (RaceResult, Stand 08.11.2026): Anmeldung bis 19.12.2026; 50 km um 06:00 Uhr, alle anderen Strecken um 10:00 Uhr.",
-   "checked": "2026-11-08",
+   "info": "Termin und Strecken laut running.life/gotrail.run. Laut Anmeldeportal Start 06:00 Uhr 50 km Ultramarathon, 10:00 Uhr alle weiteren Strecken; alle Strecken laut Anmeldeportal RaceResult am 05.11.2026 ausgebucht. Laut Anmeldeportal (RaceResult, Stand 08.11.2026): Anmeldung bis 19.12.2026; 50 km um 06:00 Uhr, alle anderen Strecken um 10:00 Uhr. Strecken laut Anmeldeportal (RaceResult): 7,1 km, 14,2 km, Halbmarathon 21,3 km, 28,4 km, 35,5 km, Marathon 42,6 km, 50 km Ultramarathon, dazu Walking.",
+   "checked": "2026-11-09",
    "start_time": "06:00",
    "sold_out": true,
    "fee": "Kostenlos (0 €)",
@@ -52878,16 +52933,18 @@
    "date": "2027-01-17",
    "confirmed": true,
    "distances": [
-    "HM"
+    "5",
+    "10"
    ],
    "url": "http://www.helmuturbach.de/winterlaufserie.html",
-   "source": "https://running.life/de/termine/winterserie-des-lsv-porz/2027-01-17",
-   "info": "Termin laut Veranstaltungskalender des Leichtathletik-Verbands Nordrhein (beim Verband angemeldet). Strecken laut running.life. Serie mit drei Läufen am 17.01., 31.01. und 14.02.2027, Meldeschluss je Lauf 13.01., 27.01. und 10.02.2027. 42. Winterserie laut laufen.de mit drei Läufen: 17.01., 31.01. und 14.02.2027.",
-   "checked": "2026-11-08",
+   "source": "http://www.helmuturbach.de/winterlaufserie.html",
+   "info": "Termin laut Veranstaltungskalender des Leichtathletik-Verbands Nordrhein (beim Verband angemeldet). Strecken laut running.life. Serie mit drei Läufen am 17.01., 31.01. und 14.02.2027, Meldeschluss je Lauf 13.01., 27.01. und 10.02.2027. 42. Winterserie laut laufen.de mit drei Läufen: 17.01., 31.01. und 14.02.2027. Laut Ausschreibung der Winterlaufserie (helmuturbach.de, Stand 09.11.2026): 1. Winterlauf am 17.01.2027 mit 5 km um 11:00 Uhr und 10 km um 12:00 Uhr, dazu 5 km Walking (10:20 Uhr) und 1 km Schülerlauf (10:35 Uhr); Meldeschluss 13.01.2027.",
+   "checked": "2026-11-09",
    "reg_close": "2027-01-13",
    "late_reg": "Nachmeldung am Veranstaltungstag gegen 2 € Nachmeldegebühr",
    "parking": "Parkplätze am Hirschgraben und am Mauspfad",
-   "showers": "Umkleide vor Ort im Zelt."
+   "showers": "Umkleide vor Ort im Zelt.",
+   "start_time": "11:00"
   },
   {
    "id": "parkleuchten-run-2027",
@@ -53000,21 +53057,22 @@
    "lat": 50.6772453,
    "lon": 7.1911458,
    "date": "2027-01-24",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10",
     "15"
    ],
-   "url": "https://running.life/de/termine/insellauf-konigswinter",
+   "url": "https://www.beueler10er.de/insellauf-startseite/",
    "anmeldung_url": "https://my.raceresult.com/417296/",
-   "source": "https://running.life/de/termine/insellauf-konigswinter",
-   "info": "Termin und Strecken laut running.life/gotrail.run. Start aller Strecken 10:00 Uhr; Startgeld laut Anmeldeportal RaceResult am 05.11.2026",
-   "checked": "2026-11-07",
+   "source": "https://www.beueler10er.de/ausschreibung-insellauf/",
+   "info": "Termin und Strecken laut running.life/gotrail.run. Start aller Strecken 10:00 Uhr; Startgeld laut Anmeldeportal RaceResult am 05.11.2026. Laut Ausschreibung 2027 (beueler10er.de): 19. Insellauf am Sonntag, 24.01.2027, alle Strecken 10:00 Uhr, Start und Ziel Peter-Breuer-Sportanlage; Strecke vom Stadion am Rhein entlang bis zur Insel Grafenwerth und zurück.",
+   "checked": "2026-11-09",
    "start_time": "10:00",
    "fee": "15 km und 10 km 17 € (Jahrgang 2009 und älter), 8,50 € (Jahrgang 2010 bis 2015 bzw. 2017); 5 km 15 € bzw. 7,50 €",
    "reg_open": "2026-09-09",
-   "reg_close": "2027-01-22"
+   "reg_close": "2027-01-22",
+   "start_place": "Peter-Breuer-Sportanlage, Hauptstraße/Ecke Johannes-Albers-Allee, 53639 Königswinter"
   },
   {
    "id": "jungbornparklauf-moers-2027",
@@ -53103,26 +53161,6 @@
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 10:10 Uhr, frühester Lauf ab 5 km).",
    "checked": "2026-11-05",
    "start_time": "10:10"
-  },
-  {
-   "id": "insellauf-zur-insel-grafenwerth-2027",
-   "type": "road",
-   "name": "Insellauf zur Insel Grafenwerth",
-   "place": "Königswinter",
-   "bezirk": "Köln",
-   "kreis": "Rhein-Sieg-Kreis",
-   "lat": 50.703,
-   "lon": 7.258,
-   "date": "2027-01-31",
-   "confirmed": false,
-   "distances": [
-    "15",
-    "5"
-   ],
-   "url": "https://www.hdsports.org/laufen/insellauf-zur-insel-grafenwerth",
-   "source": "https://www.hdsports.org/laufen/insellauf-zur-insel-grafenwerth",
-   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
-   "checked": "2026-11-05"
   },
   {
    "id": "winterlaufserie-der-hildener-at-2027",
@@ -53288,13 +53326,13 @@
    "distances": [
     "5",
     "10",
-    "15"
+    "HM"
    ],
    "url": "http://www.helmuturbach.de/",
-   "source": "https://www.runme.de/deutschland/winterlaufserie-lsv-porz-koeln/",
-   "info": "Termin laut Veranstaltungskalender des Leichtathletik-Verbands Nordrhein (beim Verband angemeldet). Strecken laut RUNME. Eine frühere Quelle (RUNME/HDsports) nannte den 07.02.2027. Startzeit laut RUNME (5 km um 10:20 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "10:20",
+   "source": "http://www.helmuturbach.de/winterlaufserie.html",
+   "info": "Termin laut Veranstaltungskalender des Leichtathletik-Verbands Nordrhein (beim Verband angemeldet). Strecken laut RUNME. Eine frühere Quelle (RUNME/HDsports) nannte den 07.02.2027. Laut Ausschreibung der Winterlaufserie (helmuturbach.de, Stand 09.11.2026): 3. Winterlauf am 14.02.2027 mit 5 km um 11:00 Uhr, 10 km um 11:25 Uhr und Halbmarathon um 12:30 Uhr; Meldeschluss 10.02.2027.",
+   "checked": "2026-11-09",
+   "start_time": "11:00",
    "reg_close": "2027-02-10",
    "late_reg": "Nachmeldung am Veranstaltungstag gegen 2 € Nachmeldegebühr",
    "parking": "Parkplätze am Hirschgraben und am Mauspfad"
@@ -54416,16 +54454,16 @@
    "kreis": "Stadt Bonn",
    "lat": 50.725,
    "lon": 7.155,
-   "date": "2027-04-09",
-   "confirmed": false,
+   "date": "2027-04-02",
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
    "url": "http://www.beueler10er.de/",
    "source": "https://www.runme.de/deutschland/beueler10er-bonn/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-04-02. Startzeit der letzten Ausgabe laut RUNME (5 km um 17:45 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. running.life nennt dafür den 2027-04-02. Startzeit der letzten Ausgabe laut RUNME (5 km um 17:45 Uhr). Termin laut Veranstalterseite: Freitag, 02.04.2027, 9 Tage vor dem Bonn-Marathon (Stand 09.11.2026).",
+   "checked": "2026-11-09",
    "prev": {
     "start_time": "17:45"
    }
@@ -55962,15 +56000,15 @@
    "kreis": "Stadt Bonn",
    "lat": 50.711,
    "lon": 7.067,
-   "date": "2027-05-09",
-   "confirmed": false,
+   "date": "2027-05-02",
+   "confirmed": true,
    "distances": [
     "10"
    ],
    "url": "https://www.beueler10er.de/",
    "source": "https://www.runme.de/deutschland/kottenforst10er/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 10:00 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 10:00 Uhr). Termin laut Veranstalterseite (Countdown auf beueler10er.de, Stand 09.11.2026).",
+   "checked": "2026-11-09",
    "prev": {
     "start_time": "10:00"
    }
@@ -57495,15 +57533,15 @@
    "lat": 51.117,
    "lon": 8.067,
    "date": "2027-06-06",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "11",
     "HM"
    ],
    "url": "https://sauerland-trailrun.de/",
    "source": "https://www.runme.de/deutschland/la-sportiva-sauerland-trailrun/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21 km um 10:30 Uhr). Startzeiten laut Veranstalterseite: 21 km 10:30 Uhr, 11 km 11:00 Uhr; keine Startgelderstattung bei Nichtteilnahme",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21 km um 10:30 Uhr). Startzeiten laut Veranstalterseite: 21 km 10:30 Uhr, 11 km 11:00 Uhr; keine Startgelderstattung bei Nichtteilnahme. Termin laut Veranstalterseite bestätigt (Stand 09.11.2026).",
+   "checked": "2026-11-09",
    "prev": {
     "start_time": "10:30"
    },
@@ -63157,7 +63195,7 @@
    "lat": 51.1787,
    "lon": 7.1897,
    "date": "2027-10-31",
-   "confirmed": false,
+   "confirmed": true,
    "prev_date": "2026-10-25",
    "distances": [
     "5",
@@ -63168,8 +63206,8 @@
    ],
    "url": "https://www.roentgenlauf.de",
    "source": "https://www.runnersworld.de/laufkalender/roentgenlaufremscheid/",
-   "info": "Termin 2027 noch nicht veröffentlicht. Fortgeschrieben nach der Regel letzter Sonntag im Oktober (2025: 26.10., 2026: 25.10.). Strecken laut Kalendern (5 km, 10 km, Halbmarathon, Marathon und 63-km-Ultra auf dem Röntgenweg), Start und Ziel Sportzentrum Hackenberg, Hackenbergerstraße 115, Lennep. Ausgabe 2026: Start 5 km 13:30 Uhr, 10 km 14:15 Uhr; Nachmeldung 12 € (Schülerläufe)",
-   "checked": "2026-11-05",
+   "info": "Fortgeschrieben nach der Regel letzter Sonntag im Oktober (2025: 26.10., 2026: 25.10.). Strecken laut Kalendern (5 km, 10 km, Halbmarathon, Marathon und 63-km-Ultra auf dem Röntgenweg), Start und Ziel Sportzentrum Hackenberg, Hackenbergerstraße 115, Lennep. Ausgabe 2026: Start 5 km 13:30 Uhr, 10 km 14:15 Uhr; Nachmeldung 12 € (Schülerläufe). Termin laut Veranstalterseite bestätigt (Stand 09.11.2026).",
+   "checked": "2026-11-09",
    "start_place": "Sportzentrum Hackenberg, Hackenbergerstraße 115, 42897 Remscheid-Lennep",
    "parking": "Zentralparkplatz mit Shuttlebusservice, Parkplatzsituation beschränkt",
    "prev": {
@@ -66152,8 +66190,8 @@
    ],
    "url": "https://bremer-winterlaufserie.com/",
    "source": "https://www.runme.de/deutschland/aok-winterlaufserie-bremen/",
-   "info": "Laut Veranstalter 47. hkk-Winterlaufserie 2027 im Bremer Bürgerpark am 10. Januar, 7. Februar und 7. März 2027 (Strecken bis 20 km); auch im DLV-Laufkalender.",
-   "checked": "2026-11-08",
+   "info": "Laut Veranstalter 47. hkk-Winterlaufserie 2027 im Bremer Bürgerpark am 10. Januar, 7. Februar und 7. März 2027 (Strecken bis 20 km); auch im DLV-Laufkalender. Laut Veranstalterseite starten 5, 10, 15 und 20 km an allen drei Terminen um 10:00 Uhr, der Kinderlauf (1.800 m) um 09:30 Uhr (Stand 09.11.2026).",
+   "checked": "2026-11-09",
    "prev": {
     "start_time": "10:00"
    },
@@ -66161,7 +66199,8 @@
    "showers": "Keine Duschen",
    "parking": "Nur wenige Parkplätze, Anreise mit öffentlichen Verkehrsmitteln empfohlen",
    "pickup": "Postversand der Startnummern gegen 5 € möglich",
-   "charity": "Im Meldegeld ist je Anmeldung 1 € Spende für den Bremer Bürgerpark enthalten"
+   "charity": "Im Meldegeld ist je Anmeldung 1 € Spende für den Bremer Bürgerpark enthalten",
+   "start_time": "10:00"
   },
   {
    "id": "cross-am-helvesieker-berg-2027",
@@ -66848,12 +66887,15 @@
    "date": "2027-04-11",
    "confirmed": true,
    "distances": [
-    "5"
+    "5",
+    "10",
+    "HM",
+    "M"
    ],
    "url": "https://www.marathon-hannover.de/",
    "source": "https://www.runme.de/deutschland/hannover-marathon/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (42,195 km um 09:45 Uhr, frühester Lauf ab 5 km). Termin laut Veranstalter Sonntag 11.04.2027 (Kalender nannte zuerst den 10.04.); Marathon-Expo Freitag 09.04. 12 bis 19 Uhr, Samstag 10.04. 10 bis 19 Uhr, Sonntag ab 7 Uhr",
-   "checked": "2026-11-05",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (42,195 km um 09:45 Uhr, frühester Lauf ab 5 km). Termin laut Veranstalter Sonntag 11.04.2027 (Kalender nannte zuerst den 10.04.); Marathon-Expo Freitag 09.04. 12 bis 19 Uhr, Samstag 10.04. 10 bis 19 Uhr, Sonntag ab 7 Uhr. Laut Veranstalterseite Marathon, Halbmarathon, Staffel-Marathon und 10 km.",
+   "checked": "2026-11-09",
    "start_time": "09:45"
   },
   {
@@ -67804,16 +67846,16 @@
    "kreis": "LK Osnabrück",
    "lat": 52.2,
    "lon": 8.35,
-   "date": "2027-05-01",
-   "confirmed": false,
+   "date": "2027-04-10",
+   "confirmed": true,
    "distances": [
     "5",
     "9,7"
    ],
    "url": "http://www.laufen-os.de",
    "source": "https://www.runme.de/deutschland/gesmolder-bifurkationslauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 17:15 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 17:15 Uhr). Termin laut Laufserie Piepenbrock Junior-Cup 2027 auf laufen-os.de: Schülerlauf (2,2 km) beim Gesmolder Bifurkationslauf am 10.04.2027 (Stand 09.11.2026).",
+   "checked": "2026-11-09",
    "prev": {
     "start_time": "17:15"
    }
@@ -70925,15 +70967,15 @@
    "lat": 53.35,
    "lon": 9.533,
    "date": "2027-07-17",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
    "url": "http://www.wiesenlauf.de/",
    "source": "https://www.runme.de/deutschland/volkslauf-strassenlauf-klein-meckelsen/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 19:00 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 19:00 Uhr). Termin laut Veranstalterseite bestätigt (Stand 09.11.2026).",
+   "checked": "2026-11-09",
    "prev": {
     "start_time": "19:00"
    }
@@ -71400,15 +71442,15 @@
    "lat": 53.17,
    "lon": 7.75,
    "date": "2027-08-20",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
    "url": "https://www.hafenfestlauf.de/",
    "source": "https://www.runme.de/deutschland/barsseler-hafenfestlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 18:00 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 18:00 Uhr). Termin laut Veranstalterseite bestätigt (Stand 09.11.2026).",
+   "checked": "2026-11-09",
    "prev": {
     "start_time": "18:00"
    }
@@ -72847,14 +72889,14 @@
    "lat": 53.5502,
    "lon": 10.0013,
    "date": "2027-09-12",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5"
    ],
    "url": "http://www.airportrace.de/",
    "source": "https://www.runme.de/deutschland/airport-race-hamburg/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:00 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 10:00 Uhr). Termin laut Veranstalterseite bestätigt (Stand 09.11.2026).",
+   "checked": "2026-11-09",
    "prev": {
     "start_time": "10:00"
    },
@@ -73669,7 +73711,7 @@
    "lat": 51.707,
    "lon": 10,
    "date": "2027-09-26",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "4,8",
     "5",
@@ -73678,8 +73720,8 @@
    ],
    "url": "http://www.northeimer-stadtlauf.de/",
    "source": "https://www.runme.de/deutschland/northeimer-stadtlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 13:10 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 13:10 Uhr). Termin laut Veranstalterseite bestätigt (Stand 09.11.2026).",
+   "checked": "2026-11-09",
    "prev": {
     "start_time": "13:10"
    }
@@ -73856,7 +73898,7 @@
    "lat": 52.522,
    "lon": 8.198,
    "date": "2027-10-03",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "6,6",
     "10",
@@ -73864,8 +73906,8 @@
    ],
    "url": "https://sw-osterfeine.de/",
    "source": "https://www.runme.de/deutschland/duemmerlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (18 km um 10:00 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (18 km um 10:00 Uhr). Termin laut Veranstalterseite bestätigt (Stand 09.11.2026).",
+   "checked": "2026-11-09",
    "prev": {
     "start_time": "10:00"
    }
@@ -77712,15 +77754,15 @@
    "lat": 54.176,
    "lon": 10.031,
    "date": "2027-09-19",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "4,8",
     "10"
    ],
    "url": "http://www.see-and-run.de/",
    "source": "https://www.runme.de/deutschland/see-und-run-bordesholm/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 10:25 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 10:25 Uhr). Termin laut Veranstalterseite bestätigt (Stand 09.11.2026).",
+   "checked": "2026-11-09",
    "prev": {
     "start_time": "10:25"
    }
@@ -77875,15 +77917,15 @@
    "lat": 53.758,
    "lon": 9.698,
    "date": "2027-09-26",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
    "url": "https://www.elmshorner-stadtlauf.de/",
    "source": "https://www.runme.de/deutschland/stadtlauf-elmshorn/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 09:30 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 09:30 Uhr). Termin laut Veranstalterseite bestätigt (Stand 09.11.2026).",
+   "checked": "2026-11-09",
    "prev": {
     "start_time": "09:30"
    }
@@ -82095,9 +82137,9 @@
     "10"
    ],
    "source": "https://www.wlv-sport.de/home/breitensport/laufveranstaltungen/veranstaltungstermine",
-   "checked": "2026-11-08",
+   "checked": "2026-11-09",
    "end": null,
-   "info": "2. Lauf des 24. ALB-GOLD Winterlauf-Cups, Ausrichter LV Pliezhausen 2012: 10-km-Hauptlauf, 5 km und Kinderlauf. Termin laut WLV-Laufkalender (Stand 08.11.2026)",
+   "info": "2. Lauf des 24. ALB-GOLD Winterlauf-Cups, Ausrichter LV Pliezhausen 2012: 10-km-Hauptlauf, 5 km und Kinderlauf. Termin laut WLV-Laufkalender (Stand 08.11.2026). Laut Veranstalterseite gilt für Einzelmeldungen der Samstag vor dem Rennen (bis 24 Uhr) als Anmeldeschluss; Startnummernausgabe ab 12:30 Uhr.",
    "lat": 48.559,
    "lon": 9.207,
    "anmeldung_url": "https://my.raceresult.com/431181/",
@@ -82107,7 +82149,8 @@
    "prev": {
     "start_time": "14:40"
    },
-   "url": "https://www.alb-gold.de/aktiv/alb-gold-winterlauf.html"
+   "url": "https://www.alb-gold.de/aktiv/alb-gold-winterlauf.html",
+   "reg_close": "2027-01-23"
   },
   {
    "id": "alb-gold-winterlaufcup-3-lauf-2027",
@@ -82123,9 +82166,9 @@
     "10"
    ],
    "source": "https://www.wlv-sport.de/home/breitensport/laufveranstaltungen/veranstaltungstermine",
-   "checked": "2026-11-08",
+   "checked": "2026-11-09",
    "end": null,
-   "info": "3. Lauf des 24. ALB-GOLD Winterlauf-Cups, Ausrichter IGL Reutlingen: 10-km-Hauptlauf, 5 km und Kinderlauf. Termin laut WLV-Laufkalender (Stand 08.11.2026)",
+   "info": "3. Lauf des 24. ALB-GOLD Winterlauf-Cups, Ausrichter IGL Reutlingen: 10-km-Hauptlauf, 5 km und Kinderlauf. Termin laut WLV-Laufkalender (Stand 08.11.2026). Laut Veranstalterseite gilt für Einzelmeldungen der Samstag vor dem Rennen (bis 24 Uhr) als Anmeldeschluss; Startnummernausgabe ab 12:30 Uhr.",
    "lat": 48.509,
    "lon": 9.204,
    "anmeldung_url": "https://my.raceresult.com/431181/",
@@ -82135,7 +82178,8 @@
    "prev": {
     "start_time": "14:40"
    },
-   "url": "https://www.alb-gold.de/aktiv/alb-gold-winterlauf.html"
+   "url": "https://www.alb-gold.de/aktiv/alb-gold-winterlauf.html",
+   "reg_close": "2027-02-13"
   },
   {
    "id": "alb-gold-winterlaufcup-4-lauf-2027",
@@ -82151,9 +82195,9 @@
     "10"
    ],
    "source": "https://www.wlv-sport.de/home/breitensport/laufveranstaltungen/veranstaltungstermine",
-   "checked": "2026-11-08",
+   "checked": "2026-11-09",
    "end": null,
-   "info": "4. Lauf des 24. ALB-GOLD Winterlauf-Cups, Ausrichter TSV Trochtelfingen: 10-km-Hauptlauf, 5 km und Kinderlauf. Termin laut WLV-Laufkalender (Stand 08.11.2026)",
+   "info": "4. Lauf des 24. ALB-GOLD Winterlauf-Cups, Ausrichter TSV Trochtelfingen: 10-km-Hauptlauf, 5 km und Kinderlauf. Termin laut WLV-Laufkalender (Stand 08.11.2026). Laut Veranstalterseite gilt für Einzelmeldungen der Samstag vor dem Rennen (bis 24 Uhr) als Anmeldeschluss; Startnummernausgabe ab 12:30 Uhr.",
    "lat": 48.308,
    "lon": 9.245,
    "anmeldung_url": "https://my.raceresult.com/431181/",
@@ -82163,7 +82207,8 @@
    "prev": {
     "start_time": "14:40"
    },
-   "url": "https://www.alb-gold.de/aktiv/alb-gold-winterlauf.html"
+   "url": "https://www.alb-gold.de/aktiv/alb-gold-winterlauf.html",
+   "reg_close": "2027-02-27"
   },
   {
    "id": "kaeppeleslauf-ruppertshofen-2027",
@@ -84957,12 +85002,13 @@
    ],
    "url": "https://bremer-winterlaufserie.com/",
    "source": "https://www.runme.de/deutschland/aok-winterlaufserie-bremen/",
-   "info": "Laut Veranstalter 47. hkk-Winterlaufserie 2027 im Bremer Bürgerpark am 10. Januar, 7. Februar und 7. März 2027 (Strecken bis 20 km); auch im DLV-Laufkalender.",
-   "checked": "2026-11-08",
+   "info": "Laut Veranstalter 47. hkk-Winterlaufserie 2027 im Bremer Bürgerpark am 10. Januar, 7. Februar und 7. März 2027 (Strecken bis 20 km); auch im DLV-Laufkalender. Laut Veranstalterseite starten 5, 10, 15 und 20 km an allen drei Terminen um 10:00 Uhr, der Kinderlauf (1.800 m) um 09:30 Uhr (Stand 09.11.2026).",
+   "checked": "2026-11-09",
    "start_place": "Marcusbrunnen im Bürgerpark Bremen",
    "showers": "Keine Duschen",
    "parking": "Nur wenige Parkplätze, Anreise mit öffentlichen Verkehrsmitteln empfohlen",
-   "charity": "Im Meldegeld ist je Anmeldung 1 € Spende für den Bremer Bürgerpark enthalten"
+   "charity": "Im Meldegeld ist je Anmeldung 1 € Spende für den Bremer Bürgerpark enthalten",
+   "start_time": "10:00"
   },
   {
    "id": "aok-winterlaufserie-bremen-3-lauf-2027",
@@ -84983,12 +85029,13 @@
    ],
    "url": "https://bremer-winterlaufserie.com/",
    "source": "https://www.runme.de/deutschland/aok-winterlaufserie-bremen/",
-   "info": "Laut Veranstalter 47. hkk-Winterlaufserie 2027 im Bremer Bürgerpark am 10. Januar, 7. Februar und 7. März 2027 (Strecken bis 20 km); auch im DLV-Laufkalender.",
-   "checked": "2026-11-08",
+   "info": "Laut Veranstalter 47. hkk-Winterlaufserie 2027 im Bremer Bürgerpark am 10. Januar, 7. Februar und 7. März 2027 (Strecken bis 20 km); auch im DLV-Laufkalender. Laut Veranstalterseite starten 5, 10, 15 und 20 km an allen drei Terminen um 10:00 Uhr, der Kinderlauf (1.800 m) um 09:30 Uhr (Stand 09.11.2026).",
+   "checked": "2026-11-09",
    "start_place": "Marcusbrunnen im Bürgerpark Bremen",
    "showers": "Keine Duschen",
    "parking": "Nur wenige Parkplätze, Anreise mit öffentlichen Verkehrsmitteln empfohlen",
-   "charity": "Im Meldegeld ist je Anmeldung 1 € Spende für den Bremer Bürgerpark enthalten"
+   "charity": "Im Meldegeld ist je Anmeldung 1 € Spende für den Bremer Bürgerpark enthalten",
+   "start_time": "10:00"
   },
   {
    "id": "winterlaufserie-drelsdorf-3-lauf-2027",
@@ -85448,15 +85495,19 @@
    "date": "2027-01-31",
    "confirmed": true,
    "distances": [
-    "HM"
+    "5",
+    "10",
+    "15"
    ],
    "url": "http://www.helmuturbach.de/winterlaufserie.html",
-   "source": "https://running.life/de/termine/winterserie-des-lsv-porz/2027-01-17",
-   "info": "Termin laut Veranstaltungskalender des Leichtathletik-Verbands Nordrhein (beim Verband angemeldet). Strecken laut running.life. Serie mit drei Läufen am 17.01., 31.01. und 14.02.2027, Meldeschluss je Lauf 13.01., 27.01. und 10.02.2027. 42. Winterserie laut laufen.de mit drei Läufen: 17.01., 31.01. und 14.02.2027.",
-   "checked": "2026-11-08",
+   "source": "http://www.helmuturbach.de/winterlaufserie.html",
+   "info": "Termin laut Veranstaltungskalender des Leichtathletik-Verbands Nordrhein (beim Verband angemeldet). Strecken laut running.life. Serie mit drei Läufen am 17.01., 31.01. und 14.02.2027, Meldeschluss je Lauf 13.01., 27.01. und 10.02.2027. 42. Winterserie laut laufen.de mit drei Läufen: 17.01., 31.01. und 14.02.2027. Laut Ausschreibung der Winterlaufserie (helmuturbach.de, Stand 09.11.2026): 2. Winterlauf am 31.01.2027 mit 5 km um 11:00 Uhr, 10 km um 11:25 Uhr und 15 km um 12:20 Uhr; Meldeschluss 27.01.2027.",
+   "checked": "2026-11-09",
    "late_reg": "Nachmeldung am Veranstaltungstag gegen 2 € Nachmeldegebühr",
    "parking": "Parkplätze am Hirschgraben und am Mauspfad",
-   "showers": "Umkleide vor Ort im Zelt."
+   "showers": "Umkleide vor Ort im Zelt.",
+   "start_time": "11:00",
+   "reg_close": "2027-01-27"
   },
   {
    "id": "winterlauf-und-wanderserie-des-tus-jaderberg-3-lauf-2026",
