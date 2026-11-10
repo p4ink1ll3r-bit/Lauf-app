@@ -1,0 +1,9 @@
+{
+  "appId": "de.racehunt.app",
+  "appName": "Race Hunt",
+  "webDir": "app",
+  "ios": {
+    "contentInset": "never",
+    "backgroundColor": "#0B0E11"
+  }
+}

@@ -1,10 +1,15 @@
 let R=[],PLZ=[],META={};
 // Einstellungen: Datenordner, Teilen-Link und Adresse für „Fehler melden“ (leer = Meldung zum Kopieren)
-const APP_VERSION="v84"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+const APP_VERSION="v85"; // gleich wie VERSION in service-worker.js; steht in den Einstellungen, damit man sieht, welche Fassung läuft
+// In der iPhone-/Android-App (Capacitor) kommen Laufdaten, Teilen-Links und Kalenderdateien von der Website; ohne Netz gilt die mitgelieferte Kopie
+const NATIVE=!!(window.Capacitor&&window.Capacitor.isNativePlatform&&window.Capacitor.isNativePlatform());
+const WEB_URL="https://p4ink1ll3r-bit.github.io/Lauf-app/";
 const DATA_DIR="data/";
+const ICS_DIR=(NATIVE?WEB_URL:"")+"ics/";
+async function holeDaten(name,opt){if(NATIVE){try{const r=await fetch(WEB_URL+"data/"+name,{cache:"no-cache"});if(r.ok)return r}catch(e){}}return fetch(DATA_DIR+name,opt)}
 const REPORT_URL="https://gbaoxnsytnzcuxbkdrwc.supabase.co/rest/v1/reports";
 const REPORT_KEY="sb_publishable_iuxJbdN94igdsBQ5-dtm5g_OxWYWGH9";   // öffentlicher Schlüssel: darf nur Meldungen anlegen
-const APP_URL=location.origin+location.pathname.replace(/index\.html$/,"");
+const APP_URL=NATIVE?WEB_URL:location.origin+location.pathname.replace(/index\.html$/,"");
 const MON=["Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"];
 const WD=["So","Mo","Di","Mi","Do","Fr","Sa"];
 const LONG=["Sonntag","Montag","Dienstag","Mittwoch","Donnerstag","Freitag","Samstag"];
@@ -344,7 +349,7 @@ function openDetail(id){const r=R.find(x=>x.id===id);if(!r)return;if($("detail")
    '<section class="box" id="wx"><h3>'+IC.sun+'Wetter in '+esc(r.o)+'</h3><div id="wxbody" class="na">Vorhersage wird geladen …</div>'+
      '<div class="btns"><a class="btn" href="https://www.meteoblue.com/de/wetter/woche/'+r.la.toFixed(3)+'N'+r.lo.toFixed(3)+'E" target="_blank" rel="noopener">Wetter öffnen '+IC.ext+'</a></div></section>'+
    gearBox(r)+
-   '<section class="box"><h3>'+IC.cal+'In den Kalender</h3><div class="btns"><a class="btn" href="ics/'+encodeURIComponent(r.id)+'.ics">Apple Kalender (iPhone), mit Erinnerungen</a><a class="btn" href="'+esc(gcal(r.n,r.d,r.e,det,loc,r.st))+'" target="_blank" rel="noopener">Google '+IC.ext+'</a><a class="btn" href="'+esc(ocal(r.n,r.d,r.e,det,loc))+'" target="_blank" rel="noopener">Outlook '+IC.ext+'</a>'+
+   '<section class="box"><h3>'+IC.cal+'In den Kalender</h3><div class="btns"><a class="btn" href="'+ICS_DIR+encodeURIComponent(r.id)+'.ics">Apple Kalender (iPhone), mit Erinnerungen</a><a class="btn" href="'+esc(gcal(r.n,r.d,r.e,det,loc,r.st))+'" target="_blank" rel="noopener">Google '+IC.ext+'</a><a class="btn" href="'+esc(ocal(r.n,r.d,r.e,det,loc))+'" target="_blank" rel="noopener">Outlook '+IC.ext+'</a>'+
      (r.rc&&daysTo(r.rc)>=0?'<a class="btn" href="'+esc(gcal("Meldeschluss: "+r.n,r.rc,null,"Letzter Tag zur Anmeldung für "+r.n+" am "+fmt(r.d)+(r.u?" · "+r.u:""),""))+'" target="_blank" rel="noopener">Meldeschluss (Google) '+IC.ext+'</a>':"")+'</div><span class="src">Die Apple-Datei enthält Lauftag, Meldeschluss und Anmeldestart, soweit sie noch kommen, mit Erinnerungen: Lauftag eine Woche und einen Tag vorher, Meldeschluss 7, 3 und 1 Tag vorher.</span></section>'+
    ((r.info||r.note)?'<section class="box"><h3>'+IC.info+'Gut zu wissen</h3>'+(r.info?'<div>'+esc(r.info)+'</div>':"")+(r.note?'<div>'+esc(r.note)+'</div>':"")+'</section>':"")+
    '<span class="src">'+(r.u?'Infos: '+esc(host(r.u)):"")+(r.src?(r.u?' · ':'')+'Termin-Quelle: '+esc(host(r.src)):"")+(r.checked?' · geprüft am '+fmt(r.checked):"")+'. Angaben ohne Gewähr.</span>'+
@@ -598,7 +603,7 @@ function seenKey(x){return(state.seen||{})[x.r.id+"|"+x.t]}
 function syncRemind(){document.querySelectorAll("[data-remind]").forEach(b=>b.setAttribute("aria-checked",+b.dataset.remind===+state.remind))}
 // Meine Läufe: je Lauf ein Link auf die Kalenderdatei (Lauftag, Meldeschluss, Anmeldestart mit Erinnerungen)
 function icsBox(list){if(!list.length)return"";
-  return'<section class="soon" aria-label="Kalender"><span class="lbl">Erinnerungen im Kalender</span>'+list.map(r=>'<a class="soonrow" href="ics/'+encodeURIComponent(r.id)+'.ics"><span><b>'+esc(r.n)+'</b></span><span>Kalender</span></a>').join("")+
+  return'<section class="soon" aria-label="Kalender"><span class="lbl">Erinnerungen im Kalender</span>'+list.map(r=>'<a class="soonrow" href="'+ICS_DIR+encodeURIComponent(r.id)+'.ics"><span><b>'+esc(r.n)+'</b></span><span>Kalender</span></a>').join("")+
     '<span class="src">Tippe auf „Kalender“, dann trägt dein iPhone Lauftag und Meldeschluss mit Erinnerungen ein.</span></section>'}
 function render(){
   if(!R.length)return;const anim=animNext;animNext=false;
@@ -740,11 +745,11 @@ $("geo").addEventListener("click",()=>{const g=$("geo");
 buildFilters();applyTheme();
 $("out").innerHTML='<div class="empty"><strong>Läufe werden geladen …</strong>Einen Moment.</div>';
 (async()=>{
-  try{const res=await fetch(DATA_DIR+"races.json",{cache:"no-cache"});if(!res.ok)throw 0;const j=await res.json();META=j;prepare(j.races||[]);
+  try{const res=await holeDaten("races.json",{cache:"no-cache"});if(!res.ok)throw 0;const j=await res.json();META=j;prepare(j.races||[]);
     $("stand").textContent="Läufe-Stand: "+fmt(j.updated)+" · "+(j.races||[]).length+" Läufe. ";render();
     const h=decodeURIComponent((location.hash||"").slice(1));if(h&&R.some(r=>r.id===h))openDetail(h);
     if(!state.onboarded&&!h)openWelcome();else setTimeout(askReg,800)}
   catch(e){$("out").innerHTML='<div class="empty"><strong>Läufe konnten nicht geladen werden</strong>Prüf deine Verbindung und lade die Seite neu.</div>'}
-  try{const res=await fetch(DATA_DIR+"plz.json");const j=await res.json();PLZ=j.map(a=>({z:a[0],p:a[1],la:a[2],lo:a[3],n:norm(a[1])}))}
+  try{const res=await holeDaten("plz.json");const j=await res.json();PLZ=j.map(a=>({z:a[0],p:a[1],la:a[2],lo:a[3],n:norm(a[1])}))}
   catch(e){$("start").placeholder="Ortssuche gerade nicht verfügbar"}
 })();
