@@ -5,7 +5,7 @@ const LEGAL_ADRESSE = "c/o Autorenglück #99586<br>Albert-Einstein-Str. 47<br>02
 const LEGAL = {
 Datenschutz: `
 <h3>1. Wer ist verantwortlich?</h3>
-<p>${LEGAL_NAME}<br>${LEGAL_ADRESSE}<br>Deutschland<br>E-Mail: pace.hunt@web.de<br>(Dieselben Angaben stehen im Impressum.)</p>
+<p>${LEGAL_NAME}<br>${LEGAL_ADRESSE}<br>Deutschland<br>E-Mail: race-hunt@web.de<br>(Dieselben Angaben stehen im Impressum.)</p>
 
 <h3>2. Das Wichtigste vorweg</h3>
 <ul>
@@ -76,7 +76,7 @@ Datenschutz: `
 </ul>
 
 <h3>9. Kontakt per E-Mail</h3>
-<p>Wenn du uns eine E-Mail schreibst (pace.hunt@web.de), verarbeiten wir deine E-Mail-Adresse, deinen Namen, falls du ihn angibst, und den Inhalt deiner Nachricht, um dir zu antworten.</p>
+<p>Wenn du uns eine E-Mail schreibst (race-hunt@web.de), verarbeiten wir deine E-Mail-Adresse, deinen Namen, falls du ihn angibst, und den Inhalt deiner Nachricht, um dir zu antworten.</p>
 <ul>
 <li><b>Rechtsgrundlage:</b> Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse, Anfragen zu beantworten).</li>
 <li><b>Wo gespeichert:</b> im E-Mail-Postfach bei unserem E-Mail-Anbieter WEB.DE (1&amp;1 Mail &amp; Media GmbH, Brauerstr. 48, 76135 Karlsruhe, Deutschland).</li>
@@ -106,7 +106,7 @@ Impressum: `
 <p>${LEGAL_NAME}<br>${LEGAL_ADRESSE}<br>Deutschland</p>
 
 <h3>Kontakt</h3>
-<p>E-Mail: pace.hunt@web.de<br>Außerdem erreichst du uns über „Feedback geben“ in den Einstellungen der App.</p>
+<p>E-Mail: race-hunt@web.de<br>Außerdem erreichst du uns über „Feedback geben“ in den Einstellungen der App.</p>
 
 <h3>Angaben zu den Läufen</h3>
 <p>Die Angaben zu Terminen, Preisen und Fristen stammen aus öffentlichen Laufkalendern und von den Webseiten der Veranstalter und werden regelmäßig geprüft. Trotzdem kann sich etwas geändert haben. <b>Verbindlich sind immer die Angaben des Veranstalters.</b> Für Vollständigkeit und Richtigkeit übernehmen wir keine Gewähr. Fehler bitte über „Fehler melden“ in der App oder per E-Mail an uns.</p>
