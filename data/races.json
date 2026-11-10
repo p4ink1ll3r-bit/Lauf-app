@@ -15647,9 +15647,9 @@
     "M"
    ],
    "source": "https://haid.app/en/events/trollinger-marathon-mq95tgul",
-   "checked": "2026-11-08",
+   "checked": "2026-11-10",
    "url": "https://www.trollinger-marathon.de",
-   "info": "25. Auflage am 25.04.2027. Anmeldung laut Veranstalter-Hinweis ab November 2026. Marathon, Halbmarathon, 10 km, Zehnteleslauf 4,2 km, Walking 8,7 km, Staffeln, Kinderläufe. Ziel Frankenstadion. Strecke durch die Weinberge um Heilbronn. Termin laut DLV-Laufkalender auf laufen.de (beim Leichtathletik-Verband angemeldeter Lauf, Stand 08.11.2026).",
+   "info": "25. Auflage am 25.04.2027. Anmeldung laut Veranstalter-Hinweis ab November 2026. Marathon, Halbmarathon, 10 km, Zehnteleslauf 4,2 km, Walking 8,7 km, Staffeln, Kinderläufe. Ziel Frankenstadion. Strecke durch die Weinberge um Heilbronn. Termin laut DLV-Laufkalender auf laufen.de (beim Leichtathletik-Verband angemeldeter Lauf, Stand 08.11.2026). Laut Veranstalter Anmeldung seit 06.11.2026, 12 Uhr; Marathon, Marathon-Staffel, Duo-Marathon, Halbmarathon und 10 km.",
    "lat": 49.142,
    "lon": 9.205,
    "prev": {
@@ -15658,7 +15658,8 @@
    },
    "reg_close": "2027-04-08",
    "showers": "Umkleiden, Duschen und Toiletten auf dem Gelände des Frankenstadions (Frauen in der Haupttribüne, für Männer Duschcontainer und Umkleidezelte)",
-   "parking": "Kostenfrei auf der Theresienwiese, begrenzt in der Theresienstraße"
+   "parking": "Kostenfrei auf der Theresienwiese, begrenzt in der Theresienstraße",
+   "reg_open": "2026-11-06"
   },
   {
    "id": "badische-meile-2027",
@@ -29856,8 +29857,8 @@
    ],
    "url": "http://www.plesslauf.de",
    "source": "https://www.runme.de/deutschland/werraenergie-plesslauf-breitungen/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Ausgabe 2026: 17. Vulcano-Race & Run am Pleß am Sonntag 19.04.2026 mit Deutscher Meisterschaft im Berglauf; laut running.life 2027 am selben Wochenende mit Thüringer Berglaufmeisterschaft (Pleß-Vulkan-Bergtrail); Termin 2027 noch nicht vom Veranstalter bestätigt. Startzeit laut RUNME (50 km um 06:15 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Ausgabe 2026: 17. Vulcano-Race & Run am Pleß am Sonntag 19.04.2026 mit Deutscher Meisterschaft im Berglauf; laut running.life 2027 am selben Wochenende mit Thüringer Berglaufmeisterschaft (Pleß-Vulkan-Bergtrail); Termin 2027 noch nicht vom Veranstalter bestätigt. Startzeit laut RUNME (50 km um 06:15 Uhr, frühester Lauf ab 5 km). Laut Lauftreff Breitungen 18. Pleß-Vulkan-Bergtrail mit Thüringer Meisterschaft im Berglauf am 18.04.2027.",
+   "checked": "2026-11-10",
    "pickup": "Ausgabe 2026: Startunterlagen am Vortag von 12 bis 16 Uhr und am Lauftag ab 7 Uhr",
    "prev": {},
    "start_time": "06:15"
@@ -36522,8 +36523,8 @@
    ],
    "url": "https://harz-querung.de/",
    "source": "https://www.runme.de/deutschland/harzquerung-wernigerode/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (26 km um 05:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-08",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (26 km um 05:00 Uhr, frühester Lauf ab 5 km). Laut Veranstalter am 09.11.2026 kurz nach dem Anmeldestart ausgebucht (über 500 Anmeldungen in 11 Stunden); das Anmeldeportal zeigt keine freien Plätze mehr.",
+   "checked": "2026-11-10",
    "start_time": "05:00",
    "fee": "Laufen: 53 km 37 €, 26 und 30 km 27 € bei Meldung bis 31.12.2026; bis 29.03.2027 41 € bzw. 30 €, bis 10.04.2027 47 € bzw. 34 €. Wandern: 53 km 27 €, 26 und 30 km 23 € (bis 31.12.2026), später 29 € / 25 € und 32 € / 28 €. Rückfahrt mit dem Bus 16 €",
    "reg_open": "2026-11-01",
@@ -36532,7 +36533,9 @@
    "start_place": "Wernigerode, Salzbergstraße 43 (53 und 26 km); Benneckenstein, Bruno-Ellinger-Weg 4 (30 km)",
    "parking": "In Wernigerode teilweise kostenpflichtig: Contipark Parkhaus (HKK-Hotel), Parkplatz Ochsenteich, Schotterparkplatz Feldstraße",
    "showers": "Duschen vorhanden in Nordhausen und Benneckenstein",
-   "pickup": "Freitag 23.04.2027 17–20 Uhr (alle Strecken) und Samstag 24.04.2027 4:50–8 Uhr (53 und 26 km) in der Grundschule „Diesterweg“ (Zugang Unter den Zindeln, Wernigerode); 30 km Samstag 9–10:45 Uhr in der Turnhalle im Startbereich Benneckenstein"
+   "pickup": "Freitag 23.04.2027 17–20 Uhr (alle Strecken) und Samstag 24.04.2027 4:50–8 Uhr (53 und 26 km) in der Grundschule „Diesterweg“ (Zugang Unter den Zindeln, Wernigerode); 30 km Samstag 9–10:45 Uhr in der Turnhalle im Startbereich Benneckenstein",
+   "sold_out": true,
+   "anmeldung_url": "https://my.raceresult.com/423819/"
   },
   {
    "id": "finnelauf-2027",
@@ -43700,19 +43703,41 @@
    "lat": 52.502,
    "lon": 13.245,
    "date": "2027-10-16",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10",
     "HM"
    ],
    "url": "https://www.sportscheck.com/",
-   "source": "https://www.runme.de/deutschland/stadtlauf-berlin-von-sportscheck/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 18:00 Uhr).",
-   "checked": "2026-11-05",
+   "source": "https://www.sportscheck.com/",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 18:00 Uhr). Laut SportScheck (Ticket-Übersicht, Stand 10.11.2026) SportScheck RUN 2027: Köln 04.06., Hamburg 18.06., München 04.07., Hannover 17.09., Berlin 16.10., Nürnberg 24.10.2027.",
+   "checked": "2026-11-10",
    "prev": {
     "start_time": "18:00"
    }
+  },
+  {
+   "id": "sportscheck-run-koln-2027",
+   "type": "road",
+   "name": "SportScheck RUN Köln",
+   "place": "Köln",
+   "bezirk": "Köln",
+   "kreis": "Stadt Köln",
+   "lat": 50.938,
+   "lon": 6.96,
+   "distances": [
+    "5",
+    "10",
+    "HM"
+   ],
+   "url": "https://www.sportscheck.com/",
+   "date": "2027-06-04",
+   "confirmed": true,
+   "prev_date": "2026-09-11",
+   "source": "https://www.sportscheck.com/",
+   "info": "Laut SportScheck (Ticket-Übersicht, Stand 10.11.2026) SportScheck RUN 2027: Köln 04.06., Hamburg 18.06., München 04.07., Hannover 17.09., Berlin 16.10., Nürnberg 24.10.2027. 2026 fand der Lauf am 11.09. als Nachtlauf am Rheinboulevard statt (5 km, 10 km, Halbmarathon laut Veranstaltungskalendern); Startzeiten und Startgeld 2027 noch nicht veröffentlicht.",
+   "checked": "2026-11-10"
   },
   {
    "id": "volks-crosslauf-des-tusli-2027",
@@ -43975,8 +44000,8 @@
    ],
    "url": "https://www.hartfuessler.de",
    "source": "https://www.runme.de/deutschland/x-mas-trail/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (46,82 km um 08:00 Uhr, frühester Lauf ab 5 km). Strecken laut Anmeldeportal: Brian Trail 14 km (500 Hm, Start 11:00), Ruprecht Trail 32 km (1.190 Hm, 09:30), X-Mas Trail 46 km (1.700 Hm, 08:00); Stand 05.11.2026 noch 64 Plätze (32 km) und 119 (46 km) frei. Laut Anmeldeportal (RaceResult) am 09.11.2026: Brian Trail 14 km voll, Ruprecht Trail 32 km noch 56 Plätze, X-Mas Trail 46 km noch 112 Plätze.",
-   "checked": "2026-11-09",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (46,82 km um 08:00 Uhr, frühester Lauf ab 5 km). Strecken laut Anmeldeportal: Brian Trail 14 km (500 Hm, Start 11:00), Ruprecht Trail 32 km (1.190 Hm, 09:30), X-Mas Trail 46 km (1.700 Hm, 08:00); Stand 05.11.2026 noch 64 Plätze (32 km) und 119 (46 km) frei. Laut Anmeldeportal (RaceResult) am 09.11.2026: Brian Trail 14 km voll, Ruprecht Trail 32 km noch 56 Plätze, X-Mas Trail 46 km noch 112 Plätze. Laut Anmeldeportal (RaceResult) am 10.11.2026: für den Brian Trail 14 km öffnet am 10.11.2026 um 19 Uhr ein neues Kontingent (38 Plätze), Ruprecht Trail 32 km noch 52, X-Mas Trail 46 km noch 113 Plätze frei.",
+   "checked": "2026-11-10",
    "start_time": "08:00",
    "elevation": [
     500,
@@ -43984,7 +44009,6 @@
     1700
    ],
    "reg_close": "2026-12-11",
-   "sold_out": "Ausgebucht laut Anmeldeportal: Brian Trail 14km. Die übrigen Strecken zeigen noch freie Plätze oder keine Begrenzung (nachts automatisch geprüft).",
    "fee": "Ruprecht Trail 32 km 36 € (46 € am 12. und 13.12.), X-Mas Trail 46 km 48 € (58 €), Brian Trail 14 km 20 € (30 €)",
    "anmeldung_url": "https://my.raceresult.com/380409/registration"
   },
@@ -45592,10 +45616,10 @@
    "distances": [
     "10"
    ],
-   "url": "https://www.tv-rheinzabern.de/",
+   "url": "https://winterlauf.tv-rheinzabern.de/",
    "source": "https://www.runme.de/deutschland/winterlaufserie-rheinzabern/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laufserie des TV Rheinzabern mit drei Läufen über 10 km (13.12.2026), 15 km (10.01.2027) und 20 km (07.02.2027); der 10-km-Lauf ist laut Veranstalter ausgebucht (Stand 05.11.2026). Startgeld laut Anmeldeportal RaceResult am 05.11.2026. 10-km-Lauf ausgebucht; die letzten 100 Startplätze werden laut Veranstalter am 30.11.2026 um 10 Uhr online freigeschaltet, keine Nachmeldung vor Ort.",
-   "checked": "2026-11-08",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laufserie des TV Rheinzabern mit drei Läufen über 10 km (13.12.2026), 15 km (10.01.2027) und 20 km (07.02.2027); der 10-km-Lauf ist laut Veranstalter ausgebucht (Stand 05.11.2026). Startgeld laut Anmeldeportal RaceResult am 05.11.2026. 10-km-Lauf ausgebucht; die letzten 100 Startplätze werden laut Veranstalter am 30.11.2026 um 10 Uhr online freigeschaltet, keine Nachmeldung vor Ort. Laut Veranstalter (Stand 10.11.2026) ist der 10-km-Lauf ausgebucht; am 30.11.2026 um 10 Uhr werden online die letzten 100 Startplätze freigeschaltet.",
+   "checked": "2026-11-10",
    "start_time": "10:50",
    "limit": "Max. 1.500 Teilnehmer je Lauf",
    "late_reg": "Keine Nachmeldung vor Ort am Tag des Laufes",
@@ -45978,8 +46002,8 @@
    ],
    "url": "https://winterlauf.tv-rheinzabern.de/",
    "source": "https://running.life/de/termine/winterlaufserie-rheinzabern/2027-01-10",
-   "info": "Termin und Strecken laut running.life/gotrail.run. Laufserie des TV Rheinzabern mit drei Läufen über 10 km (13.12.2026), 15 km (10.01.2027) und 20 km (07.02.2027). Startgeld laut Anmeldeportal RaceResult am 05.11.2026. Termin 10.01.2027 (15 km, Start 10:50 Uhr) laut Veranstalterseite.",
-   "checked": "2026-11-08",
+   "info": "Termin und Strecken laut running.life/gotrail.run. Laufserie des TV Rheinzabern mit drei Läufen über 10 km (13.12.2026), 15 km (10.01.2027) und 20 km (07.02.2027). Startgeld laut Anmeldeportal RaceResult am 05.11.2026. Termin 10.01.2027 (15 km, Start 10:50 Uhr) laut Veranstalterseite. Für den 15-km- und 20-km-Lauf sind laut Veranstalter noch Plätze frei (Stand 10.11.2026).",
+   "checked": "2026-11-10",
    "start_time": "10:50",
    "limit": "Max. 1.500 Teilnehmer je Lauf",
    "late_reg": "Keine Nachmeldung vor Ort am Tag des Laufes",
@@ -46205,8 +46229,8 @@
    ],
    "url": "https://winterlauf.tv-rheinzabern.de/",
    "source": "https://running.life/de/termine/winterlaufserie-rheinzabern/2027-02-07",
-   "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin und Strecken laut running.life/gotrail.run. Laufserie des TV Rheinzabern mit drei Läufen über 10 km (13.12.2026), 15 km (10.01.2027) und 20 km (07.02.2027). Startgeld laut Anmeldeportal RaceResult am 05.11.2026",
-   "checked": "2026-11-08",
+   "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Termin und Strecken laut running.life/gotrail.run. Laufserie des TV Rheinzabern mit drei Läufen über 10 km (13.12.2026), 15 km (10.01.2027) und 20 km (07.02.2027). Startgeld laut Anmeldeportal RaceResult am 05.11.2026. Für den 15-km- und 20-km-Lauf sind laut Veranstalter noch Plätze frei (Stand 10.11.2026).",
+   "checked": "2026-11-10",
    "start_time": "10:50",
    "limit": "Max. 1.500 Teilnehmer je Lauf",
    "late_reg": "Keine Nachmeldung vor Ort am Tag des Laufes",
@@ -51398,10 +51422,14 @@
     "10"
    ],
    "url": "http://www.tsg-duelmen.de/",
-   "source": "https://www.runme.de/deutschland/nikolauslauf-tsg-duelmen/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 14:15 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "14:15"
+   "source": "http://www.tsg-duelmen.de/",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 14:15 Uhr, frühester Lauf ab 5 km). Laut TSG Dülmen 40. Nikolauslauf am 05.12.2026 im Nuhaj-Stadion: 10 km um 15:00 Uhr, dazu Kinder- und Jugendläufe ab 13:00 Uhr.",
+   "checked": "2026-11-10",
+   "start_time": "14:15",
+   "fee": "Erwachsene 10 €, Kinder und Jugendliche 7 €, Bambini 3 € (Nachmeldung +3 €)",
+   "charity": "zur Unterstützung der Kinderkrebshilfe",
+   "start_place": "Nuhaj-Stadion am Grenzweg, Dülmen",
+   "late_reg": "möglich (+3 €)"
   },
   {
    "id": "steinfurter-nikolauslauf-2026",
@@ -51531,13 +51559,14 @@
    ],
    "url": "http://www.koelner-nikolauslauf.de/",
    "source": "https://www.runme.de/deutschland/koelner-nikolauslauf-im-stadtwald/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10 km um 10:00 Uhr, frühester Lauf ab 5 km). Online-Meldeschluss Sonntag 29.11.2026, 20 Uhr. TopLauf 10:00 Uhr laut Veranstalterseite. Meldeschluss 29.11.2026 laut Veranstalterseite. Laut Veranstalterseite FunRun ausgebucht (Stand 08.11.2026); TopLauf 10:00 Uhr.",
-   "checked": "2026-11-08",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10 km um 10:00 Uhr, frühester Lauf ab 5 km). Online-Meldeschluss Sonntag 29.11.2026, 20 Uhr. TopLauf 10:00 Uhr laut Veranstalterseite. Meldeschluss 29.11.2026 laut Veranstalterseite. Laut Veranstalterseite FunRun ausgebucht (Stand 08.11.2026); TopLauf 10:00 Uhr. Laut Veranstalter (Stand 10.11.2026) ist der FunLauf ausgebucht (Anmeldung nur noch mit Gutscheincode bis 29.11., 20 Uhr; eventuell kleines Nachmelde-Kontingent bei der Startunterlagenausgabe); für TopLauf und KidsLauf weiter Anmeldung möglich.",
+   "checked": "2026-11-10",
    "start_time": "10:00",
    "reg_close": "2026-11-29",
    "late_reg": "Ab 30.11.2026 nur noch Nachmeldung vor Ort oder bei der Startunterlagenausgabe",
    "fee": "TopLauf und Funlauf 21 € (bis 30.09. 19 €), KidsLauf 11 €",
-   "start_place": "Kitschburger Straße, 50935 Köln-Lindenthal."
+   "start_place": "Kitschburger Straße, 50935 Köln-Lindenthal.",
+   "sold_out": "FunLauf ausgebucht (laut Veranstalter, Stand 10.11.2026); TopLauf und KidsLauf noch offen."
   },
   {
    "id": "barbara-runde-2026",
@@ -70237,15 +70266,15 @@
    "lat": 53.5502,
    "lon": 10.0013,
    "date": "2027-06-18",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "7,5",
     "15"
    ],
    "url": "https://www.sportscheck.com/",
-   "source": "https://www.runme.de/deutschland/nachtlauf-hamburg-von-sportscheck-und-bmw/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (15 km um 20:00 Uhr).",
-   "checked": "2026-11-05",
+   "source": "https://www.sportscheck.com/",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (15 km um 20:00 Uhr). Laut SportScheck (Ticket-Übersicht, Stand 10.11.2026) SportScheck RUN 2027: Köln 04.06., Hamburg 18.06., München 04.07., Hannover 17.09., Berlin 16.10., Nürnberg 24.10.2027.",
+   "checked": "2026-11-10",
    "prev": {
     "start_time": "20:00"
    }
@@ -73314,15 +73343,15 @@
    "lat": 52.374,
    "lon": 9.737,
    "date": "2027-09-17",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
    "url": "https://www.sportscheck.com/",
-   "source": "https://www.runme.de/deutschland/nachtlauf-hannover-von-sportscheck-und-bmw/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 21:00 Uhr).",
-   "checked": "2026-11-05",
+   "source": "https://www.sportscheck.com/",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 21:00 Uhr). Laut SportScheck (Ticket-Übersicht, Stand 10.11.2026) SportScheck RUN 2027: Köln 04.06., Hamburg 18.06., München 04.07., Hannover 17.09., Berlin 16.10., Nürnberg 24.10.2027.",
+   "checked": "2026-11-10",
    "prev": {
     "start_time": "21:00"
    }
@@ -78457,6 +78486,30 @@
    "late_reg": "Keine Nachmeldung am Veranstaltungstag"
   },
   {
+   "id": "rostocker-herbstlauf-2027",
+   "type": "road",
+   "name": "Rostocker Herbstlauf",
+   "place": "Rostock",
+   "bezirk": "Rostock",
+   "kreis": "Stadt Rostock",
+   "lat": 54.083,
+   "lon": 12.133,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.rostocker-herbstlauf.de/",
+   "date": "2027-11-07",
+   "confirmed": true,
+   "prev_date": "2026-11-08",
+   "source": "http://www.rostocker-herbstlauf.de/",
+   "prev": {
+    "limit": "850 Startplätze (2026 ausverkauft)"
+   },
+   "info": "Laut Veranstalter nächster Rostocker Herbstlauf am 07.11.2027. Strecken laut RUNME (5 und 10 km).",
+   "checked": "2026-11-10"
+  },
+  {
    "id": "graal-mueritzer-schneckenlauf-2026",
    "type": "road",
    "name": "Graal-Müritzer Schneckenlauf",
@@ -78858,7 +78911,7 @@
    "kreis": "Vorpommern-Greifswald",
    "lat": 53.738,
    "lon": 14.045,
-   "date": "2027-03-27",
+   "date": "2027-04-03",
    "confirmed": false,
    "distances": [
     "5",
@@ -78866,9 +78919,9 @@
     "M"
    ],
    "url": "http://haffmarathon.de/",
-   "source": "https://www.runme.de/deutschland/ueckermuender-haffmarathon/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 11:00 Uhr).",
-   "checked": "2026-11-05",
+   "source": "http://haffmarathon.de/",
+   "info": "Laut Veranstalter ist der 42. Ueckermünder Haffmarathon für den 03.04.2027 geplant (noch nicht endgültig). Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 11:00 Uhr).",
+   "checked": "2026-11-10",
    "prev": {
     "start_time": "11:00"
    }
