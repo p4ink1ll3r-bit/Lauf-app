@@ -9,11 +9,11 @@ Datenschutz: `
 
 <h3>2. Das Wichtigste vorweg</h3>
 <ul>
-<li><b>Race Hunt</b> braucht kein Konto, keine Anmeldung und keine Registrierung.</li>
+<li><b>Race Hunt</b> braucht kein Konto, keine Anmeldung und keine Registrierung. Du kannst die App ohne Angaben zu deiner Person nutzen.</li>
 <li>Wir setzen <b>keine Cookies</b>, <b>kein Tracking</b>, <b>keine Statistik-Dienste</b> und <b>keine Werbung</b> ein.</li>
 <li>Deine gemerkten Läufe, dein Startpunkt und deine Einstellungen bleiben <b>auf deinem Gerät</b>. Wir bekommen sie nicht.</li>
 <li>Nur wenn du selbst eine <b>Meldung oder ein Feedback absendest</b>, gelangt der Text, den du schreibst, zu uns (siehe Punkt 8).</li>
-<li>Beim Öffnen der App, bei der Wetteranzeige und beim Absenden einer Meldung verbindet sich dein Gerät mit den unten genannten Diensten. Dabei wird deine <b>IP-Adresse</b> übertragen. Das lässt sich technisch nicht vermeiden.</li>
+<li>Beim Öffnen der App, bei der Wetteranzeige und beim Absenden einer Meldung verbindet sich dein Gerät mit den unten genannten Diensten. Dabei wird deine <b>IP-Adresse</b> übertragen. Das lässt sich technisch nicht vermeiden. Alle Verbindungen der App sind verschlüsselt (HTTPS).</li>
 </ul>
 
 <h3>3. Bereitstellung der App (Hosting bei GitHub Pages)</h3>
@@ -75,21 +75,30 @@ Datenschutz: `
 <li><b>Wie lange:</b> Bis die Meldung bearbeitet ist, danach löschen wir sie spätestens nach 12 Monaten.</li>
 </ul>
 
-<h3>9. Schriftarten</h3>
+<h3>9. Kontakt per E-Mail</h3>
+<p>Wenn du uns eine E-Mail schreibst (pace.hunt@web.de), verarbeiten wir deine E-Mail-Adresse, deinen Namen, falls du ihn angibst, und den Inhalt deiner Nachricht, um dir zu antworten.</p>
+<ul>
+<li><b>Rechtsgrundlage:</b> Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse, Anfragen zu beantworten).</li>
+<li><b>Wo gespeichert:</b> im E-Mail-Postfach bei unserem E-Mail-Anbieter WEB.DE (1&amp;1 Mail &amp; Media GmbH, Brauerstr. 48, 76135 Karlsruhe, Deutschland).</li>
+<li><b>Wie lange:</b> Wir löschen die Nachricht, wenn deine Anfrage erledigt ist und keine gesetzliche Aufbewahrungspflicht besteht.</li>
+</ul>
+
+<h3>10. Schriftarten</h3>
 <p>Die verwendeten Schriften sind in die App eingebunden und werden nicht von externen Servern geladen.</p>
 
-<h3>10. Herkunft der Laufdaten</h3>
+<h3>11. Herkunft der Laufdaten</h3>
 <p>Die Angaben zu den Läufen (Termine, Preise, Fristen) stammen aus öffentlichen Laufkalendern und von den Webseiten der Veranstalter. Sie betreffen Veranstaltungen, keine Privatpersonen.</p>
 
-<h3>11. Deine Rechte</h3>
-<p>Du hast gegenüber uns das Recht auf Auskunft (Art. 15 DSGVO), Berichtigung (Art. 16), Löschung (Art. 17), Einschränkung der Verarbeitung (Art. 18), Datenübertragbarkeit (Art. 20) und Widerspruch (Art. 21). Da wir selbst keine personenbezogenen Daten von dir speichern, laufen diese Rechte meist ins Leere. Schreib uns trotzdem gern an die oben genannte Adresse.</p>
+<h3>12. Deine Rechte</h3>
+<p>Du hast gegenüber uns das Recht auf Auskunft (Art. 15 DSGVO), Berichtigung (Art. 16), Löschung (Art. 17), Einschränkung der Verarbeitung (Art. 18), Datenübertragbarkeit (Art. 20) und Widerspruch (Art. 21). Außer Meldungen und E-Mails, die du uns selbst schickst, speichern wir keine Daten zu dir. Schreib uns trotzdem gern an die oben genannte Adresse.</p>
+<p><b>Widerspruchsrecht:</b> Soweit wir Daten auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse) verarbeiten, kannst du dieser Verarbeitung aus Gründen, die sich aus deiner besonderen Situation ergeben, jederzeit widersprechen (Art. 21 DSGVO). Eine formlose Nachricht an die oben genannte E-Mail-Adresse genügt.</p>
 <p>Du hast außerdem das Recht, dich bei einer Datenschutz-Aufsichtsbehörde zu beschweren. Für uns zuständig ist: Bayerisches Landesamt für Datenschutzaufsicht (BayLDA), Promenade 18, 91522 Ansbach, <a href="https://www.lda.bayern.de" target="_blank" rel="noopener">www.lda.bayern.de</a>.</p>
 
-<h3>12. Keine automatisierte Entscheidung</h3>
+<h3>13. Keine automatisierte Entscheidung</h3>
 <p>Es findet keine automatisierte Entscheidungsfindung oder Profilbildung statt.</p>
 
-<h3>13. Änderungen</h3>
-<p>Wenn sich die App ändert, zum Beispiel durch Mitteilungen aufs Handy, Konten oder Partnerlinks, passen wir diese Erklärung an. Es gilt die jeweils aktuelle Fassung.</p>
+<h3>14. Änderungen</h3>
+<p>Wenn sich die App ändert, zum Beispiel durch Mitteilungen aufs Handy, eine Fassung in den App-Stores, Konten oder Partnerlinks, passen wir diese Erklärung an. Es gilt die jeweils aktuelle Fassung.</p>
 <p>Stand: ${LEGAL_STAND}</p>`,
 
 Impressum: `
