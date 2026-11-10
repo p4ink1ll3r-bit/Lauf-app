@@ -1,10 +1,11 @@
-// Texte für Datenschutz und Impressum (Einstellungen). Nur hier ändern; Anschrift und Datum sind noch Platzhalter.
-const LEGAL_STAND = "[Datum der Veröffentlichung]";
-const LEGAL_ADRESSE = "[Straße Hausnummer – wird noch ergänzt]<br>[PLZ Ort]";
+// Texte für Datenschutz und Impressum (Einstellungen und eigene Seiten datenschutz.html / impressum.html). Nur hier ändern.
+const LEGAL_STAND = "10.11.2026";
+const LEGAL_NAME = "Simon Pichl - Race Hunt";
+const LEGAL_ADRESSE = "c/o Autorenglück #99586<br>Albert-Einstein-Str. 47<br>02977 Hoyerswerda";
 const LEGAL = {
 Datenschutz: `
 <h3>1. Wer ist verantwortlich?</h3>
-<p>Simon Pichl<br>${LEGAL_ADRESSE}<br>E-Mail: pace.hunt@web.de<br>(Dieselben Angaben stehen im Impressum.)</p>
+<p>${LEGAL_NAME}<br>${LEGAL_ADRESSE}<br>Deutschland<br>E-Mail: pace.hunt@web.de<br>(Dieselben Angaben stehen im Impressum.)</p>
 
 <h3>2. Das Wichtigste vorweg</h3>
 <ul>
@@ -43,9 +44,9 @@ Datenschutz: `
 <p>Du kannst die Freigabe jederzeit in den Einstellungen deines Geräts widerrufen. Du kannst die App auch ohne Standort nutzen und stattdessen Ort oder Postleitzahl eingeben.</p>
 
 <h3>6. Wetterdaten (Open-Meteo)</h3>
-<p>Wenn du einen Lauf öffnest, ruft die App das Wetter für den <b>Ort des Laufs</b> von Open-Meteo (open-meteo.com) ab. Übermittelt werden die Koordinaten des Laufortes, <b>nicht dein Standort</b>. Dein Gerät sendet dabei technisch bedingt seine <b>IP-Adresse</b> an Open-Meteo.</p>
+<p>Wenn du einen Lauf öffnest, ruft die App Wetterdaten für den <b>Ort des Laufs</b> von Open-Meteo (open-meteo.com) ab. Liegt der Lauf in den nächsten Tagen, ist das die Vorhersage. Liegt er weiter in der Zukunft, ruft die App stattdessen <b>Wetterdaten der letzten zehn Jahre für dieselben Tage</b> ab und zeigt daraus typische Werte. Übermittelt werden jeweils die Koordinaten des Laufortes und das Datum, <b>nicht dein Standort</b>. Dein Gerät sendet dabei technisch bedingt seine <b>IP-Adresse</b> an Open-Meteo.</p>
 <ul>
-<li><b>Zweck:</b> Wettervorhersage anzeigen.</li>
+<li><b>Zweck:</b> Wettervorhersage bzw. typisches Wetter am Lauftag anzeigen.</li>
 <li><b>Rechtsgrundlage:</b> Art. 6 Abs. 1 lit. f DSGVO.</li>
 <li><b>Anbieter:</b> OpenMeteo GmbH, Hintere Schilligmatte 6, 6463 Bürglen (UR), Schweiz. Die Schweiz hat einen Angemessenheitsbeschluss der EU.</li>
 <li><b>Was Open-Meteo speichert:</b> Laut eigenen Angaben können bei der kostenlosen Schnittstelle technische Daten wie die IP-Adresse und die abgefragten Koordinaten in Server-Logdateien stehen. Diese werden nach 90 Tagen gelöscht.</li>
@@ -93,7 +94,7 @@ Datenschutz: `
 
 Impressum: `
 <h3>Angaben gemäß § 5 DDG</h3>
-<p><b>Race Hunt</b><br>Simon Pichl<br>${LEGAL_ADRESSE}<br>Deutschland</p>
+<p>${LEGAL_NAME}<br>${LEGAL_ADRESSE}<br>Deutschland</p>
 
 <h3>Kontakt</h3>
 <p>E-Mail: pace.hunt@web.de<br>Außerdem erreichst du uns über „Feedback geben“ in den Einstellungen der App.</p>

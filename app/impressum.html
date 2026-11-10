@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Impressum – Race Hunt</title>
+<meta name="robots" content="index,follow">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="css/fonts.css">
+<style>
+:root{--bg:#F6F0EA;--surface:#FFFFFF;--line:#E0D6CA;--ink:#241B16;--muted:#6D5E52;--accent:#B85A1E}
+@media (prefers-color-scheme:dark){:root{--bg:#0D0F10;--surface:#17191B;--line:#25292B;--ink:#F2F4F1;--muted:#9AA19D;--accent:#E07B3C}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 Barlow,system-ui,sans-serif}
+main{max-width:760px;margin:0 auto;padding:24px 16px 48px}
+h1{font-family:"Barlow Condensed",Barlow,sans-serif;font-weight:700;font-size:2rem;margin:.2em 0 .6em}
+h3{font-family:"Barlow Condensed",Barlow,sans-serif;font-weight:600;font-size:1.25rem;margin:1.6em 0 .4em}
+a{color:var(--accent)}
+.box{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:4px 18px 18px}
+.top{display:flex;justify-content:space-between;align-items:center;gap:12px;font-size:.95rem;color:var(--muted)}
+ul{padding-left:1.2em}
+li{margin:.25em 0}
+</style>
+</head>
+<body>
+<main>
+<div class="top"><a href="./">&larr; Zur App</a><a href="datenschutz.html">Datenschutz</a></div>
+<h1>Impressum</h1>
+<div class="box" id="txt"></div>
+</main>
+<script src="js/legal.js"></script>
+<script>document.getElementById("txt").innerHTML = LEGAL["Impressum"];</script>
+</body>
+</html>
