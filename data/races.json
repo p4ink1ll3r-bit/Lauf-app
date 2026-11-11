@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10",
+ "updated": "2026-11-11",
  "region": "Bayern, Baden-Württemberg, Hessen, Thüringen, Sachsen, Sachsen-Anhalt, Brandenburg, Berlin, Saarland, Rheinland-Pfalz, Nordrhein-Westfalen, Niedersachsen, Bremen, Hamburg, Schleswig-Holstein, Mecklenburg-Vorpommern",
  "races": [
   {
@@ -17713,25 +17713,25 @@
    "name": "SWP-CityLauf Pforzheim",
    "place": "Pforzheim",
    "kreis": "Stadt Pforzheim",
-   "date": "2027-06-25",
-   "confirmed": false,
+   "date": "2027-06-18",
+   "confirmed": true,
    "prev_date": "2026-06-26",
    "distances": [
     "4,85",
     "9,7"
    ],
-   "start_time": "18:00",
-   "source": "https://www.hdsports.org/laufen/citylauf-pforzheim",
-   "info": "Veranstalter Badischer Leichtathletik-Verband. Termin 2027 laut hdsports Prognose (25.06.2027, nicht fixiert), 2026 war der 26.06. mit Start um 18:00 Uhr (Programm ab 14:00). Hauptlauf 9,7 km, PZ FunRun 4,85 km, dazu Schüler- und Kidsläufe. 2026 wegen Bauarbeiten Wechsel des Startorts zur TG Pforzheim 88.",
-   "checked": "2026-11-04",
+   "source": "https://www.citylauf-pforzheim.de/home",
+   "info": "Veranstalter Badischer Leichtathletik-Verband. Hauptlauf 9,7 km, PZ FunRun 4,85 km, dazu Schüler- und Kidsläufe. 2026 wegen Bauarbeiten Wechsel des Startorts zur TG Pforzheim 88. Termin 2027 laut Startseite des Veranstalters: Freitag, 18.06.2027, wieder bei der TG 88 Pforzheim auf der Wilferdinger Höhe; Meldebeginn Anfang 2027. 2026 (26.06.) Start um 18:00 Uhr, Programm ab 14:00 Uhr",
+   "checked": "2026-11-11",
    "bezirk": "Karlsruhe",
    "lat": 48.887,
    "lon": 8.698,
    "url": "https://citylauf-pforzheim.de",
-   "limit": "850 Starter je Strecke (2026)",
-   "start_place": "Wilferdinger Höhe, Heidenheimer Straße 11, 75179 Pforzheim (Ausgabe 2026)",
+   "start_place": "Wilferdinger Höhe, Heidenheimer Straße 11, 75179 Pforzheim (TG 88 Pforzheim)",
    "prev": {
-    "fee": "Hauptlauf 9,7 km 19 €, 4,85 km 14 €, 2 km 9 € (Ausgabe 2026, Nachmeldung +5 €)"
+    "fee": "Hauptlauf 9,7 km 19 €, 4,85 km 14 €, 2 km 9 € (Ausgabe 2026, Nachmeldung +5 €)",
+    "start_time": "18:00",
+    "limit": "850 Starter je Strecke"
    }
   },
   {
@@ -26504,20 +26504,24 @@
    "lat": 50.495,
    "lon": 9.697,
    "date": "2027-04-17",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10",
     "HM"
    ],
-   "source": "https://www.runme.de/deutschland/eichenzeller-fruehlingslauf/",
-   "checked": "2026-11-05",
+   "source": "https://xn--eichenzeller-frhlingslauf-twc.de/anmeldung/",
+   "checked": "2026-11-11",
    "url": "https://www.xn--eichenzeller-frhlingslauf-twc.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Ausgabe 2026: Online-Anmeldung bis 15.04.2026. Startzeit der letzten Ausgabe laut RUNME (10 km um 15:00 Uhr).",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 15:00 Uhr). 32. Eichenzeller Frühlingslauf am 17.04.2027 laut Veranstalterseite, Teil der Main-Kinzig-Challenge. Halbmarathon mit Zugtransfer nach Gersfeld (Start dort am Bahnhof)",
    "prev": {
-    "fee": "Halbmarathon inklusive Zugtransfer 22 €; Hauptlauf (10 km) 12 € bei Online-Anmeldung bis 15.04.2026, 15 € bei Nachmeldung vor Ort",
     "start_time": "15:00"
-   }
+   },
+   "fee": "Halbmarathon inkl. Zugtransfer 22 €, Hauptlauf 10 km 12 €, Funny Five 5 km 7 € (online bis 14.04.2027); Nachmeldung vor Ort 25 € / 15 € / 10 €",
+   "reg_close": "2027-04-14",
+   "late_reg": "Vor Ort ab 13:00 Uhr, 3 € Aufschlag; Ummeldungen nur bis 04.04.2027, 18:00 Uhr",
+   "pickup": "Startnummernausgabe ab 13:00 Uhr an der Kreissporthalle Eichenzell",
+   "start_place": "Kreissporthalle Eichenzell, Munkenstraße, 36124 Eichenzell"
   },
   {
    "id": "kurparklauf-bad-koenig-2027",
@@ -71205,15 +71209,22 @@
    "confirmed": true,
    "distances": [
     "5,4",
-    "10"
+    "10",
+    "16,1"
    ],
    "url": "http://www.mtv-liebenau.de",
-   "source": "https://www.runme.de/deutschland/liebenauer-volkslauf/",
-   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,4 km um 10:00 Uhr). Termin laut DLV-Laufkalender auf laufen.de (beim Leichtathletik-Verband angemeldeter Lauf, Stand 08.11.2026).",
-   "checked": "2026-11-08",
-   "prev": {
-    "start_time": "10:00"
-   }
+   "source": "https://www.mtv-liebenau.de/lauftreff/ausschreibung-vl-2027/",
+   "info": "35. Liebenauer Volkslauf am 25.04.2027 laut Ausschreibung des MTV Liebenau, beim DLV genehmigter Lauf. Start 10:00 Uhr 5,4 km, 10:05 Uhr 10 km und 10 Meilen; Walker können auf der 5,4- oder 10-km-Strecke mitgehen. Siegerehrung ab 11:30 Uhr auf dem Sportplatz. Termin auch im DLV-Laufkalender auf laufen.de.",
+   "checked": "2026-11-11",
+   "start_time": "10:00",
+   "fee": "5,4 km, 10 km und 10 Meilen je 7 € (Zahlung bei Abholung der Startnummer); persönliche Urkunde 2 €",
+   "reg_close": "2027-04-23",
+   "late_reg": "Nachmeldung möglich, 3 € Gebühr",
+   "pickup": "Ab 8:30 Uhr bei der Anmeldung am Stadion am Eickhof",
+   "start_place": "Stadion am Eickhof, Liebenau",
+   "showers": "Umkleiden, Toiletten und Duschen vorhanden",
+   "aid": "Tee und Wasser auf der 10-km- und 10-Meilen-Strecke und im Ziel",
+   "course": "Straßen und feste Wege im Waldgebiet Eickhof"
   },
   {
    "id": "volkslauf-haemelerwald-2027",
@@ -73941,18 +73952,17 @@
    "lat": 52.123,
    "lon": 9.736,
    "date": "2027-06-25",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5,5",
     "10"
    ],
    "url": "https://www.finienlauf.de/",
-   "source": "https://www.runme.de/deutschland/finien-lauf-elze/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,5 km um 18:00 Uhr).",
-   "checked": "2026-11-05",
-   "prev": {
-    "start_time": "18:00"
-   }
+   "source": "https://my.raceresult.com/434972/registration",
+   "info": "15. Finienlauf am 25.06.2027 in Sorsum (Elze) laut Veranstalterseite, Veranstalter FFW Sorsum-Wittenburg. Online-Anmeldung über RaceResult geöffnet, Start 18:00 Uhr (Kinderlauf 900 m um 17:00 Uhr)",
+   "checked": "2026-11-11",
+   "start_time": "18:00",
+   "fee": "5,5 km und 10 km je 15 € (Online-Anmeldung)"
   },
   {
    "id": "osnabruecker-mittsommernachtslauf-2027",
@@ -78665,11 +78675,21 @@
     "10,2",
     "15,3"
    ],
-   "url": "http://www.tsv-klausdorf.de/",
-   "source": "https://www.runme.de/deutschland/nikolauslauf-kiel-klausdorf/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (15,3 km um 10:45 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "10:45"
+   "url": "https://tsv-klausdorf.de/nikolauslauf",
+   "source": "https://tsv-klausdorf.de/files/verein/Veranstaltungen/Nikolauslauf/TSVK_DRUCK_Broschuere_Nikolauslauf_A_v5.pdf",
+   "info": "41. Klausdorfer Nikolauslauf, letzter Wertungslauf des Zippel's Kiel-Cup 2026. Start 10:45 Uhr Stadtwerkelauf 15,3 km, 11:00 Uhr Nikolauslauf 10,15 km, 11:10 Uhr Kurzstrecke 5,6 km. Siegerehrung ca. 12:45 Uhr. Anmeldung laut Veranstalter seit 29.09.2026 geschlossen (Teilnehmerbegrenzung 1.200 Meldungen), keine Warteliste; nur Umtausch oder Übertragung möglich. Angaben laut Ausschreibung des TSV Klausdorf.",
+   "checked": "2026-11-11",
+   "start_time": "10:45",
+   "sold_out": true,
+   "limit": "1.200 Meldungen",
+   "reg_close": "2026-11-29",
+   "fee": "Stadtwerkelauf 15,3 km 16 €, Nikolauslauf 10,15 km 14 €, Kurzstrecke 5,6 km 14 € (Jg. 2005–2018: 10 €), Bambini-Lauf 7 €",
+   "late_reg": "Nur falls die Teilnehmerbegrenzung nicht erreicht wird: am 05.12.2026 von 15 bis 16 Uhr, Startgeld + 5 €",
+   "pickup": "Sa 05.12.2026 15–16 Uhr und So 06.12.2026 ab 8:00 Uhr, Turnhalle der Astrid-Lindgren-Schule",
+   "start_place": "Aubrook-Stadion (TSV Klausdorf), Schwentinental OT Klausdorf",
+   "aid": "Verpflegungsstation bei km 8 (Stadtwerkelauf), Getränke im Ziel",
+   "parking": "Eingeschränkt in der Dorfstraße zwischen Aubrook und Dorfplatz; der Parkplatz an der Schwentinehalle kann von 10:00 bis 12:30 Uhr nicht verlassen werden",
+   "included": "Zeitmessung mit Davengo-EasyChip, Urkunde online"
   },
   {
    "id": "nikolauslauf-des-ahrensburger-tsv-2026",
@@ -84270,29 +84290,6 @@
    "source": "https://running.life/de/termine/ultra-lauf-cottbus",
    "info": "Rundkurs um Cottbus auf Wald- und Feldwegen, Start und Ziel in Kolkwitz. Termin laut Laufkalender, noch nicht vom Veranstalter bestätigt (die Ausgabe 2026 lief als 63-km-Trail-Schleife).",
    "checked": "2026-11-07"
-  },
-  {
-   "id": "schnelsener-moorlauf-2027",
-   "type": "road",
-   "name": "Schnelsener Moorlauf",
-   "place": "Hamburg-Schnelsen",
-   "bezirk": "Hamburg",
-   "kreis": "Stadt Hamburg",
-   "lat": 53.636,
-   "lon": 9.931,
-   "date": "2027-01-03",
-   "confirmed": false,
-   "distances": [
-    "5",
-    "8"
-   ],
-   "url": "https://running.life/de/termine/schnelsener-moorlauf",
-   "source": "https://running.life/de/termine/schnelsener-moorlauf",
-   "info": "Rundkurs durch das Schnelsener Moor. Termin und Strecken laut running.life und HAID (Terminportale), die Veranstalterseite wurde nicht gefunden. Nach Angabe der Portale ist die Teilnehmerzahl begrenzt (75) und die Anmeldung nur online möglich.",
-   "checked": "2026-11-08",
-   "reg_close": "2026-12-20",
-   "fee": "Erwachsene ca. 12–18 € je nach Meldezeitraum (Jugend ca. 8–12 €)",
-   "late_reg": "Am Veranstaltungstag keine Nachmeldung"
   },
   {
    "id": "lufthansa-technik-halbmarathon-2027",
