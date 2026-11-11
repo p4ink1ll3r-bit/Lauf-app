@@ -869,10 +869,10 @@
    "note": "20. Auflage; 5.000 m, 220 Hm lt. Ausschreibung",
    "url": "https://tv-weismain.de/sportangebot/lauf-und-radsport/kordigast-berglauf/",
    "reg_open": null,
-   "reg_close": null,
+   "reg_close": "2026-11-20",
    "fee": "10 €",
    "start_time": "12:00",
-   "checked": "2026-11-03",
+   "checked": "2026-11-11",
    "source": "https://tv-weismain.de/wp-content/uploads/2026/10/FINAL-Ausschreibung_Kordigastlauf_2026.pdf",
    "start_place": "Bauhof Weismain, Giechkröttendorfer Str. 2 (Ziel: Gipfelkreuz Großer Kordigast)",
    "aid": "Lebkuchen und warme Getränke im Zielbereich",
@@ -889,7 +889,7 @@
    "cutoff": null,
    "included": "Berglauf-Lebkuchen, warme Getränke im Zielbereich, Kleidertransport zum Ziel, Zeitnahme, Ergebnisliste mit Urkundendruck",
    "late_reg": "Möglich bis 11:30 Uhr, 3 € Aufschlag",
-   "info": "Veranstalter: TV Weismain e.V.; Anmeldung über Race Result (my.raceresult.com/418148) · Ein gemeinsamer Start für alle um 12:00; Strecke 5.000 m; Voranmeldung über kordigast-berglauf.de oder per E-Mail; Wechselkleidung bis 15 Min. vor Start am Bauhof abgeben; Siegerehrung ca. 2 h nach Laufende; Geld- und Sachpreise, Pokale für Bergkönigin/Bergmeister",
+   "info": "Veranstalter: TV Weismain e.V.; Anmeldung über Race Result (my.raceresult.com/418148) · Ein gemeinsamer Start für alle um 12:00; Strecke 5.000 m; Voranmeldung über kordigast-berglauf.de oder per E-Mail; Wechselkleidung bis 15 Min. vor Start am Bauhof abgeben; Siegerehrung ca. 2 h nach Laufende; Geld- und Sachpreise, Pokale für Bergkönigin/Bergmeister. Online-Anmeldung bei RaceResult bis 20.11.2026",
    "bezirk": "Oberfranken",
    "kreis": "LK Lichtenfels",
    "gear_open": "nicht geprüft (kurzer Lauf)",
@@ -1363,6 +1363,27 @@
    "bezirk": "Oberbayern",
    "kreis": "Stadt München",
    "showers": "Duschen und Umkleiden in der beheizten Olympiaschwimmhalle, Wertsachen können eingeschlossen werden"
+  },
+  {
+   "id": "winterlaufserie-muenchen-2-lauf-2027",
+   "type": "road",
+   "name": "Winterlaufserie München, 2. Lauf: 15 km",
+   "place": "München (Olympiapark)",
+   "bezirk": "Oberbayern",
+   "kreis": "Stadt München",
+   "lat": 48.173,
+   "lon": 11.551,
+   "distances": [
+    "15"
+   ],
+   "url": "https://laufwinter.de/",
+   "date": "2027-01-06",
+   "confirmed": true,
+   "start_time": "11:00",
+   "source": "https://laufwinter.de/",
+   "info": "2. Lauf der Winterlaufserie München 2026/2027 (05.12.2026, 06.01.2027, 13.02.2027) im Olympiapark, Termin und Startzeit laut Veranstalter.",
+   "checked": "2026-11-11",
+   "fee": "Einzellauf ab 28 €, Serie ab 79 €"
   },
   {
    "id": "nikolauslauf-landsberg-2026",
@@ -4303,11 +4324,11 @@
    "elevation": null,
    "note": "Veranstalterseite zeigt noch die Ausgabe 2026 (19.04.2026); Termin 2027 nur aus Kalender – beim Veranstalter prüfen; Hobbylauf/Walking lt. running.life 6,5 statt 7 km – beim Veranstalter prüfen",
    "url": "https://www.tsv-guentersleben.de/seite/748569",
-   "reg_open": null,
+   "reg_open": "2027-01-01",
    "reg_close": null,
    "fee": "Hauptlauf 15 € · Hobbylauf 10 € · Walkerlauf 10 € · Jugendlauf 5 € · Kinderlauf 3 €",
    "start_time": "11:00",
-   "checked": "2026-11-02",
+   "checked": "2026-11-11",
    "source": "https://my.raceresult.com/397286/info",
    "start_place": "Sportgelände TSV Güntersleben, Jahnstraße 1, 97261 Güntersleben",
    "aid": "Getränke während der Läufe; im Ziel alkoholfreie Getränke, Wasser, Obst, Kuchen",
@@ -4324,7 +4345,7 @@
    "cutoff": null,
    "included": "Chipzeitmessung, Online-Ergebnisse und Urkunde zum Ausdrucken",
    "late_reg": null,
-   "info": "Hauptlauf 13 km, Hobbylauf 7 km, Walking 7 km, Kinder-/Jugendläufe; Veranstalter TSV Güntersleben; Anmeldung über raceresult",
+   "info": "Hauptlauf 13 km, Hobbylauf 7 km, Walking 7 km, Kinder-/Jugendläufe; Veranstalter TSV Güntersleben; Anmeldung über raceresult. Online-Anmeldung bei RaceResult ab 01.01.2027",
    "bezirk": "Unterfranken",
    "kreis": "LK Würzburg"
   },
@@ -4641,6 +4662,31 @@
    "kreis": "LK Schweinfurt",
    "gear_open": "nicht geprüft (kurzer Lauf)",
    "showers": "Umkleiden/Duschen in der Mehrzweckhalle"
+  },
+  {
+   "id": "roe-cross-herbstlauf-2027",
+   "type": "trail",
+   "name": "ROE-CROSS Herbstlauf",
+   "place": "Röthlein-Heidenfeld",
+   "bezirk": "Unterfranken",
+   "kreis": "LK Schweinfurt",
+   "lat": 49.975,
+   "lon": 10.21,
+   "distances": [
+    "5,7",
+    "10",
+    "HM"
+   ],
+   "url": "https://roe-cross.de/",
+   "date": "2027-10-24",
+   "confirmed": true,
+   "prev_date": "2026-10-25",
+   "source": "https://www.hdsports.org/laufen/roe-cross-herbstlauf-mit-canicross-roethlein-heidenfeld",
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 25.10.). Lauf und Canicross in Röthlein-Heidenfeld.",
+   "prev": {
+    "start_time": "09:15"
+   },
+   "checked": "2026-11-11"
   },
   {
    "id": "rosenheimer-citylauf-2027",
@@ -5007,8 +5053,8 @@
    "reg_open": null,
    "reg_close": null,
    "fee": "LOS ULTRA Nürnberg-Eckental 2027 99 €",
-   "start_time": null,
-   "checked": "2026-11-02",
+   "start_time": "08:00",
+   "checked": "2026-11-11",
    "source": "https://my.raceresult.com/427015/info",
    "start_place": null,
    "aid": null,
@@ -11530,6 +11576,30 @@
    "showers": "Keine Duschen; Umziehen in den öffentlichen Toiletten im Wiesenpark möglich"
   },
   {
+   "id": "hubland-run-nachtlauf-2027",
+   "type": "road",
+   "name": "Hubland RUN Nachtlauf",
+   "place": "Würzburg",
+   "bezirk": "Unterfranken",
+   "kreis": "Stadt Würzburg",
+   "lat": 49.797,
+   "lon": 9.934,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://hublandrun.de/",
+   "date": "2027-10-27",
+   "confirmed": false,
+   "prev_date": "2026-10-28",
+   "source": "https://www.hdsports.org/laufen/hubland-run-nachtlauf",
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports) (2026: 28.10., vom Veranstalter bestätigt). Abendlauf im Hubland, 5 oder 10 km.",
+   "prev": {
+    "start_time": "18:00"
+   },
+   "checked": "2026-11-11"
+  },
+  {
    "type": "road",
    "name": "Sonthofer Wonnemar Frühlingslauf",
    "place": "Sonthofen",
@@ -11826,7 +11896,7 @@
    "bezirk": "Oberbayern",
    "end": null,
    "prev_date": null,
-   "checked": "2026-11-09",
+   "checked": "2026-11-11",
    "reg_close": "2027-06-24",
    "start_place": "Kleines Donautor Vohburg",
    "pickup": "Freitag, 25.06.2027, 17 bis 19 Uhr bei den Umkleiden im TV-Vohburg-Sportstadion und Samstag, 26.06.2027, 7 bis 9 Uhr im Wettkampfbüro neben der Hauptbühne (Ulrich-Steinberger-Platz)",
@@ -12422,9 +12492,9 @@
    "source": "https://www.tsv1862-neuburg.de/2025/10/28/49-neuburger-silvesterlauf-31-12-2025-ausschreibung/",
    "kreis": "LK Neuburg-Schrobenhausen",
    "start_place": "Flachslandenstr. 25, 86633 Neuburg an der Donau (Adresse laut hdsports)",
-   "info": "Veranstalter: TSV 1862 Neuburg, Leichtathletik. Die Ausschreibung für 2026 ist noch nicht veröffentlicht; Startgeld, Zeiten und Parken stammen aus der Ausschreibung 2025 (Vorjahr). Anmeldung 2025 über RaceResult bis 29.12., Nachmeldung bis 60 Minuten vor dem Start. 2025: Bambini 10:00, Schüler 10:15, Hauptlauf 6 km 11:00 Uhr; 50. Auflage 2026",
+   "info": "Veranstalter: TSV 1862 Neuburg, Leichtathletik. Die Ausschreibung für 2026 ist noch nicht veröffentlicht; Startgeld, Zeiten und Parken stammen aus der Ausschreibung 2025 (Vorjahr). Anmeldung 2025 über RaceResult bis 29.12., Nachmeldung bis 60 Minuten vor dem Start. 2025: Bambini 10:00, Schüler 10:15, Hauptlauf 6 km 11:00 Uhr; 50. Auflage 2026. Ausschreibung 2026 noch nicht veröffentlicht; 2025 Hauptlauf 6 km um 11:00 Uhr, Nachmeldung bis 60 Minuten vor dem Start",
    "bezirk": "Oberbayern",
-   "checked": "2026-11-08",
+   "checked": "2026-11-11",
    "anmeldung_url": "https://my.raceresult.com/368733/",
    "prev": {
     "fee": "Erwachsene 12 €, Jugend und Schüler 4 €, Bambini frei; Nachmeldung +5 € (Erwachsene) bzw. +3 € (Jugend/Schüler)",
@@ -91238,8 +91308,8 @@
     "50"
    ],
    "source": "https://statistik.d-u-v.org/eventdetail.php?event=136045",
-   "checked": "2026-11-09",
-   "info": "Termin laut Ultramarathon-Kalender der DUV. Gruppenstart um 8:00 Uhr laut Veranstalterseite.",
+   "checked": "2026-11-11",
+   "info": "Termin laut Ultramarathon-Kalender der DUV. Gruppenstart um 8:00 Uhr laut Veranstalterseite. Anmeldung per E-Mail bis zum Vorabend 18 Uhr; Zählung nach den Regeln des 100 Marathon Club, Mindestalter 18 Jahre",
    "bezirk": "Mittelfranken",
    "kreis": "Stadt Erlangen",
    "lat": 49.589,
@@ -91248,7 +91318,37 @@
    "start_place": "Nordwestliche Ecke des Großparkplatzes vor der A73-Unterführung (gegenüber Gerberei 17b, Erlangen)",
    "showers": "keine Duschen vorhanden",
    "late_reg": "keine Nachmeldung am Veranstaltungstag",
-   "url": "https://www.erlangenmarathon.de"
+   "url": "https://www.erlangenmarathon.de",
+   "fee": "keine Startgebühr",
+   "reg_close": "2026-11-21",
+   "limit": "20 Teilnehmende (mindestens 3)",
+   "cutoff": "7 Stunden"
+  },
+  {
+   "id": "erlangen-ultramarathon-2026-12",
+   "type": "trail",
+   "name": "Erlangen Ultramarathon (4. Ausgabe)",
+   "place": "Erlangen",
+   "bezirk": "Mittelfranken",
+   "kreis": "Stadt Erlangen",
+   "lat": 49.589,
+   "lon": 10.981,
+   "distances": [
+    "50"
+   ],
+   "url": "https://www.erlangenmarathon.de",
+   "date": "2026-12-20",
+   "confirmed": true,
+   "start_time": "08:00",
+   "fee": "keine Startgebühr",
+   "limit": "20 Teilnehmende (mindestens 3)",
+   "cutoff": "7 Stunden",
+   "sold_out": true,
+   "start_place": "Nordwestliche Ecke des Großparkplatzes vor der A73-Unterführung (gegenüber Gerberei 17b, Erlangen)",
+   "late_reg": "keine Nachmeldung am Veranstaltungstag",
+   "source": "https://www.erlangenmarathon.de",
+   "info": "4. Erlangen Marathon und Ultramarathon laut Veranstalterseite; Teilnehmerlimit erreicht (Stand 11.11.2026). Gruppenstart 8:00 Uhr.",
+   "checked": "2026-11-11"
   },
   {
    "id": "roessleweg-runmob-2026",
@@ -91401,9 +91501,9 @@
    "distances": [
     "5"
    ],
-   "source": "https://www.runme.de/deutschland/heilsbronn/",
-   "checked": "2026-11-09",
-   "info": "Termin laut Veranstalterseite (Stand 09.11.2026). Online-Anmeldung laut Veranstalterseite bis 30.11.2026, 23:59 Uhr.",
+   "source": "https://www.xn--heilsbronn-luft-clb.de/nikolauslauf/ausschreibung-nikolauslauf",
+   "checked": "2026-11-11",
+   "info": "Termin laut Veranstalterseite (Stand 09.11.2026). Online-Anmeldung laut Veranstalterseite bis 30.11.2026, 23:59 Uhr. Start 5 km: Männer und U18 männlich 17:55 Uhr, Frauen und U18 weiblich 18:30 Uhr; Rundkurs (6 Runden), Runden zählt jeder selbst",
    "url": "https://www.xn--heilsbronn-luft-clb.de/startseite",
    "bezirk": "Mittelfranken",
    "kreis": "LK Ansbach",
@@ -91411,7 +91511,11 @@
    "lon": 10.787,
    "reg_close": "2026-11-30",
    "limit": "80 Starter pro Startzeit",
-   "late_reg": "keine Nachmeldung am Wettkampftag"
+   "late_reg": "keine Nachmeldung am Wettkampftag",
+   "fee": "Erwachsene 10 € (5 km), U18 und Schüler 6 €",
+   "start_time": "17:55",
+   "start_place": "An der Hohenzollernhalle, Ketteldorfer Str. 22, 91560 Heilsbronn",
+   "pickup": "Am Lauftag am Sportplatz, mindestens 30 Minuten vor dem Start"
   },
   {
    "id": "hw-19-ultramarathon-2026",
@@ -91584,9 +91688,9 @@
    "distances": [
     "10"
    ],
-   "source": "https://www.runme.de/deutschland/silvesterlauf-estenfeld/",
-   "checked": "2026-11-09",
-   "info": "Termin noch nicht veröffentlicht, Datum geschätzt laut RUNME-Prognose aus dem Vorjahr.",
+   "source": "https://www.silvesterlauf-estenfeld.de/",
+   "checked": "2026-11-11",
+   "info": "Termin noch nicht veröffentlicht, Datum geschätzt laut RUNME-Prognose aus dem Vorjahr. Anmeldung laut Veranstalter nicht erforderlich: rechtzeitig vor Ort in die Liste eintragen, Start um 12 Uhr",
    "url": "https://www.silvesterlauf-estenfeld.de/",
    "prev": {
     "start_time": "12:00"
@@ -91594,7 +91698,10 @@
    "bezirk": "Unterfranken",
    "kreis": "LK Würzburg",
    "lat": 49.829,
-   "lon": 10.006
+   "lon": 10.006,
+   "fee": "keine Startgebühr, Spende ab 5 € erbeten",
+   "start_time": "12:00",
+   "late_reg": "Keine Voranmeldung nötig, Eintrag in die Anmeldeliste vor Ort"
   },
   {
    "id": "brigittes-nachtlauf-in-einen-gluecklichen-un-ruhestand-2026",
@@ -91764,7 +91871,7 @@
    "url": "https://www.time2run.org/events/11-time2run-silvesterlauf-in-schwabmuenchen/",
    "start_time": "12:00",
    "bezirk": "Schwaben",
-   "kreis": "Stadt Augsburg",
+   "kreis": "LK Augsburg",
    "lat": 48.179,
    "lon": 10.757,
    "late_reg": "Nachmeldung nur vor Ort im Luitpoldpark, Anmeldegebühr +10 €, falls das Teilnehmerlimit nicht erreicht ist",
@@ -92174,13 +92281,14 @@
     "20"
    ],
    "source": "https://www.hdsports.org/laufen/winterlaufserie-muenchen-3-lauf",
-   "checked": "2026-11-09",
+   "checked": "2026-11-11",
    "info": "Termin laut hdsports.org (Termin laut Webseite des Veranstalters). Veranstalter laut hdsports: bestätigt) Start 11:00 Uhr Termin 2027 13.02.2027 (Termin laut Webseite des Veranstalters) Ort Land Deutschland Bundesland Bayern Ort München PLZ 80809 Straße Spiridon-Louis-Ring 27 Strecke, Programm. Wertungslauf: Winterlaufserie München.",
    "start_time": "11:00",
    "bezirk": "Oberbayern",
    "kreis": "Stadt München",
    "lat": 48.179,
-   "lon": 11.562
+   "lon": 11.562,
+   "fee": "Einzellauf ab 28 €, Serie ab 79 €"
   },
   {
    "id": "marathon-vohburg-2027",
@@ -92899,15 +93007,15 @@
    "type": "trail",
    "name": "Rabaukentrail - 3 Tage Trailerlebnis",
    "place": "Schwarzenbach an der Saale",
-   "date": "2027-04-09",
-   "confirmed": false,
+   "date": "2027-04-30",
+   "confirmed": true,
    "distances": [
     "60",
     "93"
    ],
-   "source": "https://www.runme.de/deutschland/rabaukentrail-fichtelgebirge/",
-   "checked": "2026-11-09",
-   "info": "Termin noch nicht veröffentlicht, Datum geschätzt laut RUNME-Prognose aus dem Vorjahr.",
+   "source": "https://laufsinn-ulm.de/rabaukentrail/",
+   "checked": "2026-11-11",
+   "info": "Frühjahrstermin 30.04.–02.05.2027 laut Veranstalter (laufSinn Ulm), Herbsttermin 08.–10.10.2027.",
    "url": "https://laufsinn-ulm.de",
    "prev": {
     "start_time": "11:00",
@@ -92916,7 +93024,8 @@
    "bezirk": "Oberfranken",
    "kreis": "LK Hof",
    "lat": 50.223,
-   "lon": 11.935
+   "lon": 11.935,
+   "end": "2027-05-02"
   },
   {
    "id": "bischofswerdaer-langstreckenlauf-2027",
@@ -93518,7 +93627,7 @@
     "pickup": "Startnummernausgabe vorab an mehreren Standorten rund um die Universität"
    },
    "bezirk": "Oberbayern",
-   "kreis": "Stadt München",
+   "kreis": "LK München",
    "lat": 48.249,
    "lon": 11.651
   },
@@ -93565,7 +93674,7 @@
     "start_time": "09:45"
    },
    "bezirk": "Schwaben",
-   "kreis": "Stadt Augsburg",
+   "kreis": "LK Augsburg",
    "lat": 48.366,
    "lon": 10.846
   },
@@ -95284,7 +95393,7 @@
     "start_time": "10:00"
    },
    "bezirk": "Oberbayern",
-   "kreis": "Stadt München",
+   "kreis": "LK München",
    "lat": 48.066,
    "lon": 11.616
   },
@@ -96050,7 +96159,7 @@
    "url": "https://www.munichbackyard.de/",
    "start_time": "06:00",
    "bezirk": "Oberbayern",
-   "kreis": "Stadt München",
+   "kreis": "LK München",
    "lat": 48.25,
    "lon": 11.567,
    "pickup": "Freitagabend bis 19:30 Uhr und Samstag ab 6:00 Uhr (mit Platzeinweisung)"
@@ -96793,7 +96902,7 @@
     "start_time": "08:30"
    },
    "bezirk": "Oberfranken",
-   "kreis": "Stadt Coburg",
+   "kreis": "LK Coburg",
    "lat": 50.33,
    "lon": 11.121
   },
@@ -98100,6 +98209,1277 @@
    "lat": 50.207,
    "lon": 8.578,
    "start_time": "18:00"
+  },
+  {
+   "id": "igensdorfer-adventslauf-2026",
+   "type": "road",
+   "name": "Igensdorfer Adventslauf",
+   "place": "Igensdorf (Stöckach)",
+   "bezirk": "Oberfranken",
+   "kreis": "LK Forchheim",
+   "lat": 49.623,
+   "lon": 11.231,
+   "date": "2026-11-29",
+   "confirmed": true,
+   "distances": [
+    "10"
+   ],
+   "url": "https://fc-stoeckach.de/kurse-und-veranstaltungen/laufen-und-walken/21-adventslauf-fc-st%C3%B6ckach",
+   "source": "https://fc-stoeckach.de/kurse-und-veranstaltungen/laufen-und-walken/21-adventslauf-fc-st%C3%B6ckach",
+   "info": "21. Adventslauf des FC Stöckach: 10 km Laufen oder Nordic Walking, 5 km Jugendlauf, 5 km Kinderwagenlauf, 2 km Kinderlauf. Beginn der Veranstaltung 10:00 Uhr, danach Adventsmarkt.",
+   "checked": "2026-11-11",
+   "reg_close": "2026-11-28",
+   "limit": "max. 250 Teilnehmende"
+  },
+  {
+   "id": "silvesterlauf-schliersee-2026",
+   "type": "road",
+   "name": "medius Silvesterlauf Schliersee",
+   "place": "Schliersee",
+   "bezirk": "Oberbayern",
+   "kreis": "LK Miesbach",
+   "lat": 47.736,
+   "lon": 11.859,
+   "date": "2026-12-31",
+   "confirmed": true,
+   "distances": [
+    "7,6"
+   ],
+   "url": "https://www.medius-fitness.de/silvesterlauf/",
+   "source": "https://www.medius-fitness.de/silvesterlauf/",
+   "info": "Silvesterlauf am Schliersee, Anmeldung einzeln oder als Gruppe online bei RaceResult; Startgeld steigt mit dem Anmeldezeitpunkt.",
+   "checked": "2026-11-11",
+   "start_time": "13:30",
+   "fee": "28 € bis 30.11., 30 € bis 29.12., 35 € vom 29. bis 31.12."
+  },
+  {
+   "id": "stammbacher-silvesterlauf-2026",
+   "type": "road",
+   "name": "Stammbacher Silvesterlauf",
+   "place": "Stammbach",
+   "bezirk": "Oberfranken",
+   "kreis": "LK Hof",
+   "lat": 50.145,
+   "lon": 11.691,
+   "date": "2026-12-31",
+   "confirmed": true,
+   "distances": [
+    "4",
+    "8",
+    "11"
+   ],
+   "url": "https://tvstammbach.de/silvesterlauf/",
+   "source": "https://tvstammbach.de/silvesterlauf/",
+   "info": "Traditioneller Silvesterlauf des TV Stammbach; die Strecke (4, 8 oder 11 km, auch Nordic Walking) wählt man während des Laufs. Sachpreise für die drei stärksten Gruppen und die ältesten/jüngsten Teilnehmenden.",
+   "checked": "2026-11-11",
+   "start_time": "13:30",
+   "fee": "7 € ab 17 Jahren, 5 € bis 16 Jahre (Bezahlung bis 13 Uhr)",
+   "reg_close": "2026-12-30",
+   "late_reg": "Vor Ort bis ca. 13 Uhr",
+   "start_place": "Sport- und Gemeindezentrum, Graben 3, 95236 Stammbach",
+   "aid": "Verpflegung auf der Strecke (8 und 11 km) und im Ziel",
+   "showers": "Duschen und WC im Sportzentrum",
+   "parking": "Direkt am Sportzentrum"
+  },
+  {
+   "id": "fruehjahrslauf-freising-2027",
+   "type": "road",
+   "name": "Frühjahrs-Lauf Freising",
+   "place": "Freising (Savoyer Au)",
+   "bezirk": "Oberbayern",
+   "kreis": "LK Freising",
+   "lat": 48.394,
+   "lon": 11.733,
+   "date": "2027-03-21",
+   "confirmed": false,
+   "prev_date": "2026-03-22",
+   "distances": [
+    "5,3",
+    "10,6",
+    "15,9",
+    "HM"
+   ],
+   "url": "https://freising.run/fruehjahrs-lauf/",
+   "source": "https://freising.run/fruehjahrs-lauf/",
+   "info": "Laufserie des LC Freising (Frühjahrs-, Panorama-, Uferlos-, Sparkassen- und Volksfest-Lauf). Termin 2027 noch nicht veröffentlicht (2026: Sonntag, 22.03.). 5,3-km-Runde in den Isarauen, Halbmarathon über 4 Runden; nur Online-Anmeldung, keine Nachmeldung.",
+   "checked": "2026-11-11",
+   "prev": {
+    "fee": "15 € (Kinderläufe 5 €)",
+    "start_time": "11:00"
+   }
+  },
+  {
+   "id": "panoramalauf-freising-2027",
+   "type": "road",
+   "name": "Panorama-Lauf Freising",
+   "place": "Freising (Weihenstephaner Berg)",
+   "bezirk": "Oberbayern",
+   "kreis": "LK Freising",
+   "lat": 48.394,
+   "lon": 11.733,
+   "date": "2027-04-23",
+   "confirmed": false,
+   "prev_date": "2026-04-24",
+   "distances": [
+    "3,9",
+    "6,3"
+   ],
+   "url": "https://freising.run/panorama-lauf/",
+   "source": "https://freising.run/panorama-lauf/",
+   "info": "Laufserie des LC Freising (Frühjahrs-, Panorama-, Uferlos-, Sparkassen- und Volksfest-Lauf). Termin 2027 noch nicht veröffentlicht (2026: Freitag, 24.04., ab 19 Uhr). Rundkurs um den Weihenstephaner Berg, Start im Hofgarten.",
+   "checked": "2026-11-11",
+   "prev": {
+    "fee": "15 € (Kinder- und Jugendlauf 2 €)"
+   },
+   "charity": "Startgelder gehen an die Bürgerstiftung (Ausgabe 2026)"
+  },
+  {
+   "id": "uferloslauf-freising-2027",
+   "type": "road",
+   "name": "Uferlos-Lauf Freising",
+   "place": "Freising (Luitpoldanlage)",
+   "bezirk": "Oberbayern",
+   "kreis": "LK Freising",
+   "lat": 48.394,
+   "lon": 11.733,
+   "date": "2027-05-06",
+   "confirmed": false,
+   "prev_date": "2026-05-14",
+   "distances": [
+    "6,7",
+    "11"
+   ],
+   "url": "https://freising.run/uferlos-lauf/",
+   "source": "https://freising.run/uferlos-lauf/",
+   "info": "Laufserie des LC Freising (Frühjahrs-, Panorama-, Uferlos-, Sparkassen- und Volksfest-Lauf). Termin 2027 noch nicht veröffentlicht; 2026 an Christi Himmelfahrt (14.05.), 2027 wäre das der 06.05. Start und Ziel im Stadion des SC Freising.",
+   "checked": "2026-11-11",
+   "prev": {
+    "fee": "15 € (Kinderlauf 5 €)"
+   }
+  },
+  {
+   "id": "sparkassenlauf-freising-2027",
+   "type": "road",
+   "name": "Sparkassen-Lauf Freising",
+   "place": "Freising (Luitpoldanlage)",
+   "bezirk": "Oberbayern",
+   "kreis": "LK Freising",
+   "lat": 48.394,
+   "lon": 11.733,
+   "date": "2027-07-07",
+   "confirmed": false,
+   "prev_date": "2026-07-08",
+   "distances": [
+    "5,5",
+    "10"
+   ],
+   "url": "https://freising.run/sparkassen-lauf/",
+   "source": "https://freising.run/sparkassen-lauf/",
+   "info": "Laufserie des LC Freising (Frühjahrs-, Panorama-, Uferlos-, Sparkassen- und Volksfest-Lauf). Termin 2027 noch nicht veröffentlicht (2026: Mittwoch, 08.07.; Start 18:15 Uhr 5,5 km, 19:15 Uhr 10 km). Start und Ziel im Stadion des SC Freising.",
+   "checked": "2026-11-11",
+   "prev": {
+    "fee": "15 €",
+    "start_time": "18:15"
+   }
+  },
+  {
+   "id": "volksfestlauf-freising-2027",
+   "type": "road",
+   "name": "Volksfest-Lauf Freising",
+   "place": "Freising (Volksfestplatz)",
+   "bezirk": "Oberbayern",
+   "kreis": "LK Freising",
+   "lat": 48.394,
+   "lon": 11.733,
+   "date": "2027-09-11",
+   "confirmed": false,
+   "prev_date": "2026-09-12",
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://freising.run/volksfest-lauf/",
+   "source": "https://freising.run/volksfest-lauf/",
+   "info": "Laufserie des LC Freising (Frühjahrs-, Panorama-, Uferlos-, Sparkassen- und Volksfest-Lauf). Termin 2027 noch nicht veröffentlicht (2026: Samstag, 12.09., ab 14 Uhr). Rundkurs durch das Volksfest und die Isarauen.",
+   "checked": "2026-11-11",
+   "prev": {
+    "fee": "15 €"
+   }
+  },
+  {
+   "id": "lauftag-am-waginger-see-2027",
+   "type": "road",
+   "name": "VR Bank Lauftag am Waginger See",
+   "place": "Waging am See",
+   "bezirk": "Oberbayern",
+   "kreis": "LK Traunstein",
+   "lat": 47.934,
+   "lon": 12.734,
+   "date": "2027-04-11",
+   "confirmed": false,
+   "prev_date": "2026-04-12",
+   "distances": [
+    "6",
+    "12"
+   ],
+   "url": "https://www.tsv-waging.de/abteilungen/leichtathletik/strassenlauf",
+   "source": "https://www.hdsports.org/laufen/lauftag-am-waginger-see",
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports). 2026 als 40. Waginger Straßenlauf am 12.04.",
+   "checked": "2026-11-11"
+  },
+  {
+   "id": "baiersdorfer-krenlauf-2027",
+   "type": "road",
+   "name": "Baiersdorfer Krenlauf",
+   "place": "Baiersdorf",
+   "bezirk": "Mittelfranken",
+   "kreis": "LK Erlangen-Höchstadt",
+   "lat": 49.658,
+   "lon": 11.036,
+   "date": "2027-04-18",
+   "confirmed": false,
+   "prev_date": "2026-04-19",
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.lauftreff-baiersdorf.de/",
+   "source": "https://www.hdsports.org/laufen/baiersdorfer-krenlauf",
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports) (2026: 19.04.).",
+   "checked": "2026-11-11"
+  },
+  {
+   "id": "weissbacher-crosslauf-2027",
+   "type": "trail",
+   "name": "Weißbacher Crosslauf",
+   "place": "Weißbach an der Alpenstraße",
+   "bezirk": "Oberbayern",
+   "kreis": "LK Berchtesgadener Land",
+   "lat": 47.683,
+   "lon": 12.8,
+   "date": "2027-04-23",
+   "confirmed": false,
+   "prev_date": "2026-04-24",
+   "distances": [
+    "5,4",
+    "9,8"
+   ],
+   "url": "https://www.sc-weissbach.de/",
+   "source": "https://www.hdsports.org/laufen/weissbacher-crosslauf",
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports) (2026: Freitag, 24.04.). Veranstalter SC Weißbach.",
+   "checked": "2026-11-11"
+  },
+  {
+   "id": "waldsteinlauf-2027",
+   "type": "road",
+   "name": "Waldsteinlauf",
+   "place": "Martinsreuth (Konradsreuth)",
+   "bezirk": "Oberfranken",
+   "kreis": "LK Hof",
+   "lat": 50.267,
+   "lon": 11.85,
+   "date": "2027-05-01",
+   "confirmed": false,
+   "distances": [
+    "6",
+    "11",
+    "22"
+   ],
+   "url": "http://www.waldsteinlauf.de/",
+   "source": "https://www.runme.de/deutschland/waldsteinlauf/",
+   "info": "Termin 2027 noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr (1. Mai). Strecken laut RUNME, auch für Walking und Nordic Walking.",
+   "checked": "2026-11-11"
+  },
+  {
+   "id": "dorflauf-eckersmuehlen-2027",
+   "type": "road",
+   "name": "Dorflauf Eckersmühlen",
+   "place": "Roth-Eckersmühlen",
+   "bezirk": "Mittelfranken",
+   "kreis": "LK Roth",
+   "lat": 49.26,
+   "lon": 11.146,
+   "date": "2027-05-08",
+   "confirmed": false,
+   "distances": [
+    "4,6",
+    "10"
+   ],
+   "url": "https://tv-eckersmuehlen.de/",
+   "source": "https://www.runme.de/deutschland/dorflauf-eckersmuehlen/",
+   "info": "Termin 2027 noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Veranstalter TV 1923 Eckersmühlen; Startzeit der letzten Ausgabe laut RUNME.",
+   "checked": "2026-11-11",
+   "prev": {
+    "start_time": "14:15"
+   }
+  },
+  {
+   "id": "raiffeisen-altstadtlauf-lohr-2027",
+   "type": "road",
+   "name": "Raiffeisen Altstadtlauf Lohr a. Main",
+   "place": "Lohr am Main",
+   "bezirk": "Unterfranken",
+   "kreis": "LK Main-Spessart",
+   "lat": 49.989,
+   "lon": 9.572,
+   "date": "2027-05-16",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://raiba-altstadtlauf.com/",
+   "source": "https://www.runme.de/deutschland/raiffeisen-altstadtlauf-lohr/",
+   "info": "Termin 2027 noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME (auch Walking und 10-km-Staffel).",
+   "checked": "2026-11-11",
+   "prev": {
+    "start_time": "14:30"
+   }
+  },
+  {
+   "id": "hochgernlauf-2027",
+   "type": "trail",
+   "name": "Internationaler Wössner Hochgernlauf",
+   "place": "Unterwössen",
+   "bezirk": "Oberbayern",
+   "kreis": "LK Traunstein",
+   "lat": 47.733,
+   "lon": 12.467,
+   "date": "2027-05-16",
+   "confirmed": false,
+   "prev_date": "2026-05-17",
+   "distances": [
+    "7,4"
+   ],
+   "url": "https://svunterwoessen.de/leichtathletik/hochgernlauf/",
+   "source": "https://www.runme.de/deutschland/hochgernlauf-unterwoessen/",
+   "info": "Termin 2027 noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Berglauf des SV Unterwössen; der 26. Hochgernlauf war am Sonntag, 17.05.2026.",
+   "checked": "2026-11-11",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "veitensteinlauf-2027",
+   "type": "road",
+   "name": "Veitensteinlauf (5-Stunden-Lauf)",
+   "place": "Priegendorf (Baunach)",
+   "bezirk": "Oberfranken",
+   "kreis": "LK Bamberg",
+   "lat": 49.986,
+   "lon": 10.852,
+   "date": "2027-05-16",
+   "confirmed": false,
+   "distances": [
+    "5 h"
+   ],
+   "url": "https://www.djk-priegendorf.de/",
+   "source": "https://www.runme.de/deutschland/veitensteinlauf-priegendorf/",
+   "info": "Termin 2027 noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. 5-Stunden-Lauf der DJK Priegendorf; Startzeit der letzten Ausgabe laut RUNME.",
+   "checked": "2026-11-11",
+   "prev": {
+    "start_time": "09:00"
+   }
+  },
+  {
+   "id": "adelberg-lauf-2027",
+   "type": "road",
+   "name": "Adelberg-Lauf",
+   "place": "Bad Steben (Carlsgrün)",
+   "bezirk": "Oberfranken",
+   "kreis": "LK Hof",
+   "lat": 50.367,
+   "lon": 11.644,
+   "date": "2027-05-16",
+   "confirmed": false,
+   "distances": [
+    "5,2",
+    "10,6"
+   ],
+   "url": "https://www.tsv-carlsgruen.de/adelberg-lauf/",
+   "source": "https://www.runme.de/deutschland/adelberg-lauf/",
+   "info": "Termin 2027 noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Veranstalter TSV Carlsgrün; Strecken auch für Walking und Nordic Walking.",
+   "checked": "2026-11-11",
+   "prev": {
+    "start_time": "14:05"
+   }
+  },
+  {
+   "id": "dentleiner-crosslauf-2027",
+   "type": "trail",
+   "name": "Dentleiner Crosslauf",
+   "place": "Dentlein am Forst",
+   "bezirk": "Mittelfranken",
+   "kreis": "LK Ansbach",
+   "lat": 49.148,
+   "lon": 10.423,
+   "date": "2027-05-17",
+   "confirmed": false,
+   "prev_date": "2026-05-25",
+   "distances": [
+    "4,4",
+    "8,8"
+   ],
+   "url": "https://my.raceresult.com/392338/",
+   "source": "https://my.raceresult.com/392338/",
+   "info": "Termin 2027 noch nicht veröffentlicht; 2026 am Pfingstmontag (25.05.), 2027 wäre das der 17.05. Strecken laut RUNME.",
+   "checked": "2026-11-11"
+  },
+  {
+   "id": "runbikerock-illertissen-2027",
+   "type": "road",
+   "name": "RunBikeRock Illertissen",
+   "place": "Illertissen (Marktplatz)",
+   "bezirk": "Schwaben",
+   "kreis": "LK Neu-Ulm",
+   "lat": 48.223,
+   "lon": 10.104,
+   "date": "2027-06-06",
+   "confirmed": true,
+   "distances": [
+    "6",
+    "10",
+    "HM"
+   ],
+   "url": "https://runbikerock.com/",
+   "source": "https://runbikerock.com/",
+   "info": "Benefiz-Lauf-Rad-Musik-Event des Rotary Hilfswerks Illertissen; 2026 pausiert, nächste Ausgabe am 06.06.2027 laut Veranstalter. Dazu eine 30-km-Raderlebnisrunde und Live-Musik. Anmeldung über Zeitgemäß.",
+   "checked": "2026-11-11",
+   "start_time": "09:30",
+   "charity": "Benefizveranstaltung des Rotary Hilfswerks Illertissen"
+  },
+  {
+   "id": "toelzer-blomberglauf-2027",
+   "type": "trail",
+   "name": "Tölzer Blomberglauf",
+   "place": "Bad Tölz",
+   "bezirk": "Oberbayern",
+   "kreis": "LK Bad Tölz-Wolfratshausen",
+   "lat": 47.761,
+   "lon": 11.559,
+   "date": "2027-06-13",
+   "confirmed": false,
+   "prev_date": "2026-06-14",
+   "distances": [
+    "4,7"
+   ],
+   "url": "https://www.hdsports.org/laufen/toelzer-blomberglauf",
+   "source": "https://www.hdsports.org/laufen/toelzer-blomberglauf",
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports) (2026: 14.06., vom Veranstalter bestätigt). Berglauf mit 500 Höhenmetern.",
+   "checked": "2026-11-11",
+   "elevation": [
+    500
+   ],
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "premberger-berglauf-2027",
+   "type": "trail",
+   "name": "Premberger Berglauf",
+   "place": "Teublitz-Premberg",
+   "bezirk": "Oberpfalz",
+   "kreis": "LK Schwandorf",
+   "lat": 49.223,
+   "lon": 12.087,
+   "date": "2027-05-22",
+   "confirmed": false,
+   "prev_date": "2026-05-23",
+   "distances": [
+    "6,2"
+   ],
+   "url": "https://www.hdsports.org/laufen/premberger-berglauf-teublitz",
+   "source": "https://www.hdsports.org/laufen/premberger-berglauf-teublitz",
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports) (2026: 23.05.).",
+   "checked": "2026-11-11",
+   "prev": {
+    "start_time": "14:30"
+   }
+  },
+  {
+   "id": "sommerlauf-baierbrunn-2027",
+   "type": "road",
+   "name": "Sommerlauf Baierbrunn",
+   "place": "Baierbrunn",
+   "bezirk": "Oberbayern",
+   "kreis": "LK München",
+   "lat": 48.02,
+   "lon": 11.487,
+   "date": "2027-06-20",
+   "confirmed": false,
+   "prev_date": "2026-06-21",
+   "distances": [
+    "5",
+    "7,5",
+    "10"
+   ],
+   "url": "https://www.hdsports.org/laufen/sommerlauf-baierbrunn",
+   "source": "https://www.hdsports.org/laufen/sommerlauf-baierbrunn",
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports) (2026: 21.06.). Veranstalter SC Baierbrunn, Anmeldung bisher über Datasport.",
+   "checked": "2026-11-11"
+  },
+  {
+   "id": "laufbar-poernbach-2027",
+   "type": "road",
+   "name": "LaufBar Pörnbach",
+   "place": "Pörnbach",
+   "bezirk": "Oberbayern",
+   "kreis": "LK Pfaffenhofen a.d.Ilm",
+   "lat": 48.617,
+   "lon": 11.467,
+   "date": "2027-06-26",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.vfb-poernbach.de/",
+   "source": "https://www.runme.de/deutschland/laufbar/",
+   "info": "Termin 2027 noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Veranstalter VfB Pörnbach.",
+   "checked": "2026-11-11",
+   "prev": {
+    "start_time": "16:30"
+   }
+  },
+  {
+   "id": "saueichelauf-unterelsbach-2027",
+   "type": "road",
+   "name": "Saueichelauf Unterelsbach",
+   "place": "Unterelsbach (Oberelsbach)",
+   "bezirk": "Unterfranken",
+   "kreis": "LK Rhön-Grabfeld",
+   "lat": 50.441,
+   "lon": 10.117,
+   "date": "2027-06-26",
+   "confirmed": false,
+   "prev_date": "2026-06-27",
+   "distances": [
+    "5",
+    "10,8"
+   ],
+   "url": "https://www.hdsports.org/laufen/saueichelauf",
+   "source": "https://www.hdsports.org/laufen/saueichelauf",
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports) (2026: 27.06.).",
+   "checked": "2026-11-11",
+   "prev": {
+    "start_time": "17:40"
+   }
+  },
+  {
+   "id": "runfellows-sommer-nacht-trail-2027",
+   "type": "trail",
+   "name": "RunFellows Sommer, Nacht & Trail",
+   "place": "Reichenbach (Oberpfalz)",
+   "bezirk": "Oberpfalz",
+   "kreis": "LK Cham",
+   "lat": 49.183,
+   "lon": 12.35,
+   "date": "2027-06-26",
+   "confirmed": false,
+   "prev_date": "2026-06-27",
+   "distances": [
+    "26",
+    "72"
+   ],
+   "url": "https://www.hdsports.org/laufen/runfellows-sommer-nacht-trail",
+   "source": "https://www.hdsports.org/laufen/runfellows-sommer-nacht-trail",
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports) (2026: 27.06.). Nachttrail mit Start am Abend.",
+   "checked": "2026-11-11",
+   "prev": {
+    "start_time": "21:30"
+   }
+  },
+  {
+   "id": "stammbacher-trail-and-fun-run-2027",
+   "type": "trail",
+   "name": "Stammbacher Trail- and Fun-Run",
+   "place": "Stammbach",
+   "bezirk": "Oberfranken",
+   "kreis": "LK Hof",
+   "lat": 50.145,
+   "lon": 11.691,
+   "date": "2027-06-27",
+   "confirmed": false,
+   "prev_date": "2026-06-28",
+   "distances": [
+    "6,6",
+    "9,9"
+   ],
+   "url": "https://tvstammbach.de/",
+   "source": "https://www.hdsports.org/laufen/stammbacher-trail-and-fun-run",
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports) (2026: 28.06.). Veranstalter TV Stammbach, Teil des Sportfest-Wochenendes.",
+   "checked": "2026-11-11",
+   "prev": {
+    "start_time": "10:15"
+   }
+  },
+  {
+   "id": "weinbergrun-randersacker-2027",
+   "type": "road",
+   "name": "WeinbergRUN Randersacker",
+   "place": "Randersacker",
+   "bezirk": "Unterfranken",
+   "kreis": "LK Würzburg",
+   "lat": 49.76,
+   "lon": 9.983,
+   "date": "2027-07-04",
+   "confirmed": false,
+   "prev_date": "2026-07-05",
+   "distances": [
+    "4",
+    "7,5"
+   ],
+   "url": "https://laufgruppe-rundersacker.de/",
+   "source": "https://www.hdsports.org/laufen/weinbergrun",
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports) (2026: 05.07., vom Veranstalter bestätigt). Veranstalter Laufgruppe RUNdersacker.",
+   "checked": "2026-11-11",
+   "prev": {
+    "start_time": "10:15"
+   }
+  },
+  {
+   "id": "laufrausch-am-buehl-2027",
+   "type": "road",
+   "name": "Laufrausch am Bühl",
+   "place": "Trogen",
+   "bezirk": "Oberfranken",
+   "kreis": "LK Hof",
+   "lat": 50.367,
+   "lon": 11.95,
+   "date": "2027-07-04",
+   "confirmed": false,
+   "prev_date": "2026-07-05",
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.hdsports.org/laufen/laufrausch-am-buehl-trogen",
+   "source": "https://www.hdsports.org/laufen/laufrausch-am-buehl-trogen",
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports) (2026: 05.07.). Veranstalter FC Trogen.",
+   "checked": "2026-11-11",
+   "prev": {
+    "start_time": "11:15"
+   }
+  },
+  {
+   "id": "petersberg-berg-crosslauf-2027",
+   "type": "trail",
+   "name": "Petersberg Berg-Crosslauf",
+   "place": "Marktbergel",
+   "bezirk": "Mittelfranken",
+   "kreis": "LK Neustadt a.d.Aisch-Bad Windsheim",
+   "lat": 49.442,
+   "lon": 10.364,
+   "date": "2027-07-04",
+   "confirmed": false,
+   "prev_date": "2026-07-05",
+   "distances": [
+    "5,2",
+    "10,4"
+   ],
+   "url": "http://www.tsvmarktbergel.de",
+   "source": "https://www.hdsports.org/laufen/petersberg-berg-crosslauf-marktbergel",
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports) (2026: 05.07., vom Veranstalter bestätigt).",
+   "checked": "2026-11-11",
+   "prev": {
+    "start_time": "10:15"
+   }
+  },
+  {
+   "id": "e-con-lauf-memmingen-2027",
+   "type": "road",
+   "name": "e-con Lauf Memmingen",
+   "place": "Memmingen (e-con ArenaPark)",
+   "bezirk": "Schwaben",
+   "kreis": "Stadt Memmingen",
+   "lat": 47.984,
+   "lon": 10.185,
+   "date": "2027-07-10",
+   "confirmed": false,
+   "prev_date": "2026-07-11",
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://econ-ag.com/e-con-lauf/",
+   "source": "https://econ-ag.com/e-con-lauf/",
+   "info": "Termin 2027 noch nicht veröffentlicht (2026: Samstag, 11.07.). Benefizlauf mit 5 und 10 km, allein oder im Team, dazu Bambini- und Schülerläufe.",
+   "checked": "2026-11-11",
+   "prev": {
+    "fee": "5 und 10 km: 10 € bis 31.03., 12 € bis 31.05., 15 € bis 05.07.2026"
+   }
+  },
+  {
+   "id": "haeusemer-crosslauf-2027",
+   "type": "trail",
+   "name": "Häusemer Crosslauf",
+   "place": "Hausen (Rhön)",
+   "bezirk": "Unterfranken",
+   "kreis": "LK Rhön-Grabfeld",
+   "lat": 50.506,
+   "lon": 10.127,
+   "date": "2027-07-10",
+   "confirmed": false,
+   "prev_date": "2026-07-11",
+   "distances": [
+    "5,1",
+    "10,5"
+   ],
+   "url": "https://www.hdsports.org/laufen/haeusemer-crosslauf",
+   "source": "https://www.hdsports.org/laufen/haeusemer-crosslauf",
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports) (2026: 11.07.). Wertungslauf des Rhön-Grabfeld-Cups.",
+   "checked": "2026-11-11",
+   "prev": {
+    "start_time": "14:00"
+   }
+  },
+  {
+   "id": "grasbrunner-lauf-2027",
+   "type": "road",
+   "name": "Grasbrunner Lauf",
+   "place": "Grasbrunn",
+   "bezirk": "Oberbayern",
+   "kreis": "LK München",
+   "lat": 48.079,
+   "lon": 11.744,
+   "date": "2027-07-11",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.grasbrunner-lauf.de",
+   "source": "https://www.runme.de/deutschland/grasbrunner-lauf/",
+   "info": "Termin 2027 noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken auch für Walking und Nordic Walking.",
+   "checked": "2026-11-11",
+   "prev": {
+    "start_time": "09:50"
+   }
+  },
+  {
+   "id": "hohenburger-schlosslauf-2027",
+   "type": "trail",
+   "name": "Hohenburger Schlosslauf",
+   "place": "Lenggries",
+   "bezirk": "Oberbayern",
+   "kreis": "LK Bad Tölz-Wolfratshausen",
+   "lat": 47.683,
+   "lon": 11.567,
+   "date": "2027-07-24",
+   "confirmed": false,
+   "prev_date": "2026-07-25",
+   "distances": [
+    "8",
+    "20"
+   ],
+   "url": "https://skiclub-lenggries.de/",
+   "source": "https://www.hdsports.org/laufen/hohenburger-schloss-lauf",
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports) (2026: 25.07., 16. Ausgabe, vom Veranstalter bestätigt). Veranstalter Ski-Club Lenggries.",
+   "checked": "2026-11-11",
+   "prev": {
+    "start_time": "12:00"
+   }
+  },
+  {
+   "id": "tlf-trail-bad-berneck-2027",
+   "type": "trail",
+   "name": "TLF-Trail Bad Berneck Fichtelgebirge",
+   "place": "Bad Berneck",
+   "bezirk": "Oberfranken",
+   "kreis": "LK Bayreuth",
+   "lat": 50.046,
+   "lon": 11.672,
+   "date": "2027-07-25",
+   "confirmed": false,
+   "prev_date": "2026-07-26",
+   "distances": [
+    "10"
+   ],
+   "url": "https://www.therapieloft-fichtelgebirge.de/",
+   "source": "https://www.hdsports.org/laufen/tlf-trail-bad-berneck-fichtelgebirge",
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports) (2026: 26.07.). 10 km mit 520 Höhenmetern.",
+   "checked": "2026-11-11",
+   "elevation": [
+    520
+   ],
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "blutenburglauf-2027",
+   "type": "road",
+   "name": "Blutenburglauf",
+   "place": "München (Obermenzing)",
+   "bezirk": "Oberbayern",
+   "kreis": "Stadt München",
+   "lat": 48.166,
+   "lon": 11.467,
+   "date": "2027-07-25",
+   "confirmed": false,
+   "prev_date": "2026-07-26",
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://blutenburglauf.de/",
+   "source": "https://blutenburglauf.de/",
+   "info": "Termin 2027 noch nicht veröffentlicht (2026: 9. Blutenburglauf am Sonntag, 26.07.). Startzeit der letzten Ausgabe laut RUNME.",
+   "checked": "2026-11-11",
+   "prev": {
+    "start_time": "10:30"
+   }
+  },
+  {
+   "id": "stadtlauf-sesslach-2027",
+   "type": "road",
+   "name": "Seßlacher Stadtlauf",
+   "place": "Seßlach",
+   "bezirk": "Oberfranken",
+   "kreis": "LK Coburg",
+   "lat": 50.19,
+   "lon": 10.842,
+   "date": "2027-08-13",
+   "confirmed": false,
+   "prev_date": "2026-08-14",
+   "distances": [
+    "4",
+    "10"
+   ],
+   "url": "https://www.sesslach.de/index.php/veranstaltungen2/stadtlauf",
+   "source": "https://www.sesslach.de/index.php/veranstaltungen2/stadtlauf",
+   "info": "Termin 2027 noch nicht veröffentlicht (2026: Freitag, 14.08., beim Altstadtfest; Hobby-Lauf 4 km um 17:30 Uhr). Veranstalter Stadt Seßlach, Anmeldung über racesolution.",
+   "checked": "2026-11-11",
+   "prev": {
+    "pickup": "Alte Schule Seßlach, Luitpoldstr. 3: Donnerstag 17–19 Uhr und Freitag 15–17:30 Uhr"
+   }
+  },
+  {
+   "id": "heuberglauf-2027",
+   "type": "trail",
+   "name": "Heuberglauf",
+   "place": "Nußdorf am Inn",
+   "bezirk": "Oberbayern",
+   "kreis": "LK Rosenheim",
+   "lat": 47.742,
+   "lon": 12.156,
+   "date": "2027-09-15",
+   "confirmed": false,
+   "distances": [
+    "5,2"
+   ],
+   "url": "https://www.heuberglauf.de/",
+   "source": "https://www.runme.de/deutschland/heuberglauf-nussdorf-am-inn/",
+   "info": "Termin 2027 noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Berglauf im Inntal; Startzeit der letzten Ausgabe laut RUNME.",
+   "checked": "2026-11-11",
+   "prev": {
+    "start_time": "18:30"
+   }
+  },
+  {
+   "id": "lauf-in-die-moenau-2027",
+   "type": "road",
+   "name": "Erlanger Lauf in die Mönau",
+   "place": "Erlangen (TV 48)",
+   "bezirk": "Mittelfranken",
+   "kreis": "Stadt Erlangen",
+   "lat": 49.599,
+   "lon": 10.967,
+   "date": "2027-09-18",
+   "confirmed": false,
+   "prev_date": "2026-09-19",
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.tv48-erlangen.de/de/Veranstaltungen-Geselligkeit/lauf-in-die-moenau/",
+   "source": "https://www.hdsports.org/laufen/erlangen-lauf-in-die-moenau",
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports) (2026: 39. Lauf in die Mönau am Samstag, 19.09.). Start am TV-48-Sportgelände am Europakanal.",
+   "checked": "2026-11-11",
+   "prev": {
+    "start_time": "15:00"
+   }
+  },
+  {
+   "id": "wehringer-wertachlauf-2027",
+   "type": "road",
+   "name": "Wehringer Wertachlauf",
+   "place": "Wehringen",
+   "bezirk": "Schwaben",
+   "kreis": "LK Augsburg",
+   "lat": 48.25,
+   "lon": 10.8,
+   "date": "2027-09-18",
+   "confirmed": false,
+   "prev_date": "2026-09-19",
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.lg-wehringen.de/",
+   "source": "https://www.hdsports.org/laufen/wehringer-wertachlauf",
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports) (2026: 17. Wertachlauf am Samstag, 19.09., mit Schwäbischer Meisterschaft). Veranstalter LG Wehringen.",
+   "checked": "2026-11-11"
+  },
+  {
+   "id": "gemeindelauf-niedertaufkirchen-2027",
+   "type": "road",
+   "name": "Gemeindelauf Niedertaufkirchen",
+   "place": "Niedertaufkirchen",
+   "bezirk": "Oberbayern",
+   "kreis": "LK Mühldorf a. Inn",
+   "lat": 48.361,
+   "lon": 12.507,
+   "date": "2027-09-18",
+   "confirmed": false,
+   "distances": [
+    "6,3",
+    "8,9"
+   ],
+   "url": "https://skiclub-ntk.de/",
+   "source": "https://www.runme.de/deutschland/gemeindelauf-niedertaufkirchen/",
+   "info": "Termin 2027 noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Veranstalter Ski-Club Niedertaufkirchen.",
+   "checked": "2026-11-11",
+   "prev": {
+    "start_time": "15:00"
+   }
+  },
+  {
+   "id": "oktoberfestlauf-muenchen-2027",
+   "type": "road",
+   "name": "Oktoberfestlauf München",
+   "place": "Oberschleißheim (Regattastrecke)",
+   "bezirk": "Oberbayern",
+   "kreis": "LK München",
+   "lat": 48.25,
+   "lon": 11.567,
+   "date": "2027-09-25",
+   "confirmed": false,
+   "prev_date": "2026-09-26",
+   "distances": [
+    "5",
+    "10",
+    "HM"
+   ],
+   "url": "http://www.oktoberfestlauf.de",
+   "source": "http://www.oktoberfestlauf.de",
+   "info": "Termin 2027 noch nicht veröffentlicht (2026: Samstag, 26.09.; Halbmarathon, 10 km und 5 km um 10:30 Uhr, SwimRun 12:15 Uhr).",
+   "checked": "2026-11-11",
+   "prev": {
+    "start_time": "10:30"
+   }
+  },
+  {
+   "id": "struthseelauf-2027",
+   "type": "road",
+   "name": "Struthseelauf",
+   "place": "Saal an der Saale",
+   "bezirk": "Unterfranken",
+   "kreis": "LK Rhön-Grabfeld",
+   "lat": 50.317,
+   "lon": 10.358,
+   "date": "2027-09-25",
+   "confirmed": false,
+   "prev_date": "2026-09-26",
+   "distances": [
+    "5,4",
+    "10,2"
+   ],
+   "url": "https://www.hdsports.org/laufen/struthseelauf",
+   "source": "https://www.hdsports.org/laufen/struthseelauf",
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports) (2026: 26.09.).",
+   "checked": "2026-11-11",
+   "prev": {
+    "start_time": "14:30"
+   }
+  },
+  {
+   "id": "zehn-km-roethenbach-2027",
+   "type": "road",
+   "name": "10 km von Röthenbach an der Pegnitz",
+   "place": "Röthenbach an der Pegnitz",
+   "bezirk": "Mittelfranken",
+   "kreis": "LK Nürnberger Land",
+   "lat": 49.483,
+   "lon": 11.241,
+   "date": "2027-09-19",
+   "confirmed": false,
+   "prev_date": "2026-09-20",
+   "distances": [
+    "4,65",
+    "10"
+   ],
+   "url": "https://www.hdsports.org/laufen/10-km-von-roethenbach-an-der-pegnitz",
+   "source": "https://www.hdsports.org/laufen/10-km-von-roethenbach-an-der-pegnitz",
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports) (2026: 20.09.).",
+   "checked": "2026-11-11",
+   "prev": {
+    "start_time": "09:00"
+   }
+  },
+  {
+   "id": "neusaesser-volkslauf-2027",
+   "type": "road",
+   "name": "Neusässer Volkslauf",
+   "place": "Neusäß (Lohwaldstadion)",
+   "bezirk": "Schwaben",
+   "kreis": "LK Augsburg",
+   "lat": 48.392,
+   "lon": 10.833,
+   "date": "2027-09-26",
+   "confirmed": false,
+   "prev_date": "2026-09-27",
+   "distances": [
+    "6"
+   ],
+   "url": "https://www.neusaess.de/volkslauf",
+   "source": "https://www.neusaess.de/volkslauf",
+   "info": "Termin 2027 noch nicht veröffentlicht (2026: Sonntag, 27.09., Start und Ziel Lohwaldstadion, ab 9 Uhr). Veranstalter Stadt Neusäß; Strecke laut hdsports.",
+   "checked": "2026-11-11",
+   "prev": {
+    "start_time": "10:15",
+    "start_place": "Lohwaldstadion, Hermann-Utech-Straße 10",
+    "pickup": "Donnerstag und Freitag vor dem Lauf, 17–19 Uhr im Lohwaldstadion"
+   }
+  },
+  {
+   "id": "reisberglauf-2027",
+   "type": "trail",
+   "name": "SPORT IN Reisberglauf",
+   "place": "Lippertshofen (Gaimersheim)",
+   "bezirk": "Oberbayern",
+   "kreis": "LK Eichstätt",
+   "lat": 48.807,
+   "lon": 11.368,
+   "date": "2027-09-26",
+   "confirmed": false,
+   "distances": [
+    "6,9",
+    "13,8"
+   ],
+   "url": "https://www.mtv-in-la.de/",
+   "source": "https://www.runme.de/deutschland/sport-in-reisberglauf-2013-gaimersheim/",
+   "info": "Termin 2027 noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Veranstalter MTV 1881 Ingolstadt Leichtathletik.",
+   "checked": "2026-11-11",
+   "prev": {
+    "start_time": "11:30"
+   }
+  },
+  {
+   "id": "ostheimer-burgentrail-2027",
+   "type": "trail",
+   "name": "Ostheimer Burgentrail",
+   "place": "Ostheim vor der Rhön",
+   "bezirk": "Unterfranken",
+   "kreis": "LK Rhön-Grabfeld",
+   "lat": 50.46,
+   "lon": 10.231,
+   "date": "2027-10-03",
+   "confirmed": false,
+   "prev_date": "2026-10-03",
+   "distances": [
+    "5",
+    "10",
+    "20"
+   ],
+   "url": "https://sc-ostheim.de/",
+   "source": "https://www.hdsports.org/laufen/ostheimer-burgentrail",
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports) (2026: 03.10., mit Unterfränkischer Traillaufmeisterschaft). Veranstalter SC Ostheim/Rhön.",
+   "checked": "2026-11-11",
+   "prev": {
+    "start_time": "11:00"
+   }
+  },
+  {
+   "id": "rimbachlauf-2027",
+   "type": "road",
+   "name": "Rimbachlauf",
+   "place": "Schwindegg",
+   "bezirk": "Oberbayern",
+   "kreis": "LK Mühldorf a. Inn",
+   "lat": 48.272,
+   "lon": 12.26,
+   "date": "2027-10-03",
+   "confirmed": false,
+   "distances": [
+    "5",
+    "11"
+   ],
+   "url": "https://www.runme.de/deutschland/rimbachlauf/",
+   "source": "https://www.runme.de/deutschland/rimbachlauf/",
+   "info": "Termin 2027 noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME (11 km auch Walking).",
+   "checked": "2026-11-11",
+   "prev": {
+    "start_time": "11:00"
+   }
+  },
+  {
+   "id": "hesselberglauf-2027",
+   "type": "trail",
+   "name": "Hesselberglauf",
+   "place": "Ehingen (Mittelfranken)",
+   "bezirk": "Mittelfranken",
+   "kreis": "LK Ansbach",
+   "lat": 49.087,
+   "lon": 10.541,
+   "date": "2027-10-10",
+   "confirmed": true,
+   "prev_date": "2026-10-11",
+   "distances": [
+    "7,9"
+   ],
+   "url": "https://www.hdsports.org/laufen/hesselberglauf",
+   "source": "https://www.hdsports.org/laufen/hesselberglauf",
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 11.10.). Berglauf auf den Hesselberg, 7,9 km mit 330 Höhenmetern, dazu 1-km-Berglauf und Kinderläufe.",
+   "checked": "2026-11-11",
+   "elevation": [
+    330
+   ]
+  },
+  {
+   "id": "schwindegger-6-stundenlauf-2027",
+   "type": "road",
+   "name": "Schwindegger 6-Stunden-Lauf",
+   "place": "Schwindegg",
+   "bezirk": "Oberbayern",
+   "kreis": "LK Mühldorf a. Inn",
+   "lat": 48.272,
+   "lon": 12.26,
+   "date": "2027-10-16",
+   "confirmed": false,
+   "prev_date": "2026-10-17",
+   "distances": [
+    "6 h"
+   ],
+   "url": "https://ultralauf.sv-schwindegg.de/",
+   "source": "https://www.hdsports.org/laufen/schwindegger-6-stundenlauf",
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports) (2026: 17.10., mit DUV-Meisterschaft im 6-Stunden-Lauf). Auch als Staffel.",
+   "checked": "2026-11-11",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "legauer-naturlauf-2027",
+   "type": "trail",
+   "name": "Legauer Naturlauf",
+   "place": "Legau",
+   "bezirk": "Schwaben",
+   "kreis": "LK Unterallgäu",
+   "lat": 47.856,
+   "lon": 10.13,
+   "date": "2027-10-17",
+   "confirmed": false,
+   "prev_date": "2026-10-18",
+   "distances": [
+    "6,5",
+    "11,2"
+   ],
+   "url": "https://tsv-legau.de/",
+   "source": "https://www.hdsports.org/laufen/legauer-naturlauf",
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports) (2026: 18.10.). Veranstalter TSV Legau.",
+   "checked": "2026-11-11",
+   "prev": {
+    "start_time": "11:00"
+   }
+  },
+  {
+   "id": "tachinger-see-lauf-2027",
+   "type": "road",
+   "name": "Tachinger See-Lauf",
+   "place": "Taching am See",
+   "bezirk": "Oberbayern",
+   "kreis": "LK Traunstein",
+   "lat": 47.959,
+   "lon": 12.729,
+   "date": "2027-10-17",
+   "confirmed": false,
+   "prev_date": "2026-10-18",
+   "distances": [
+    "13"
+   ],
+   "url": "https://www.hdsports.org/laufen/tachinger-see-lauf",
+   "source": "https://www.hdsports.org/laufen/tachinger-see-lauf",
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports) (2026: 18.10.). 13 km mit 90 Höhenmetern.",
+   "checked": "2026-11-11",
+   "prev": {
+    "start_time": "13:00"
+   }
+  },
+  {
+   "id": "feldkirchner-strassenlauf-2027",
+   "type": "road",
+   "name": "Feldkirchner Straßenlauf",
+   "place": "Feldkirchen (bei München)",
+   "bezirk": "Oberbayern",
+   "kreis": "LK München",
+   "lat": 48.142,
+   "lon": 11.746,
+   "date": "2027-10-23",
+   "confirmed": false,
+   "prev_date": "2026-10-24",
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://tsvfeldkirchen.de/strassenlauf",
+   "source": "https://www.hdsports.org/laufen/feldkirchner-strassenlauf-stadtlauf",
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports) (2026: 24.10., vom Verband bestätigt). Veranstalter TSV Feldkirchen bei München.",
+   "checked": "2026-11-11",
+   "prev": {
+    "start_time": "10:00"
+   }
+  },
+  {
+   "id": "crosslauf-ansbach-meinhardswinden-2027",
+   "type": "trail",
+   "name": "Crosslauf Ansbach-Meinhardswinden",
+   "place": "Ansbach (Meinhardswinden)",
+   "bezirk": "Mittelfranken",
+   "kreis": "Stadt Ansbach",
+   "lat": 49.305,
+   "lon": 10.593,
+   "date": "2027-10-23",
+   "confirmed": false,
+   "prev_date": "2026-10-24",
+   "distances": [
+    "8,6"
+   ],
+   "url": "https://tsv1860ansbach.de/leichtathletik/termine/",
+   "source": "https://www.hdsports.org/laufen/crosslauf-ansbach-meinhardswinden",
+   "info": "Termin 2027 noch nicht vom Veranstalter bestätigt (Prognose nach dem letzten Termin laut hdsports) (2026: 24.10., Sportplatz der Grundschule Meinhardswinden). Veranstalter TSV 1860 Ansbach.",
+   "checked": "2026-11-11",
+   "prev": {
+    "start_time": "13:00"
+   }
+  },
+  {
+   "id": "marktlauf-holzkirchen-2027",
+   "type": "road",
+   "name": "Holzkirchner Marktlauf",
+   "place": "Holzkirchen",
+   "bezirk": "Oberbayern",
+   "kreis": "LK Miesbach",
+   "lat": 47.864,
+   "lon": 11.679,
+   "date": "2027-10-31",
+   "confirmed": true,
+   "prev_date": "2026-10-25",
+   "distances": [
+    "5",
+    "10",
+    "16,1"
+   ],
+   "url": "https://www.rslc-holzkirchen.de/cms/ml-programminfos.html",
+   "source": "https://www.hdsports.org/laufen/marktlauf-holzkirchen",
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 25.10.). 5 km, 10 km (Wertung der Raiffeisen Oberland Challenge) und Bergzeit-10-Meilen-Lauf; Teilnehmerzahl begrenzt, nur Online-Anmeldung.",
+   "checked": "2026-11-11",
+   "prev": {
+    "fee": "10 Meilen 20–32 €, 10 km 15–25 € je nach Meldezeitpunkt (Ausgabe 2025)",
+    "start_time": "09:30",
+    "limit": "1.200 Teilnehmende, davon höchstens 200 über 10 Meilen (Ausgabe 2025)"
+   }
   }
  ]
 }
