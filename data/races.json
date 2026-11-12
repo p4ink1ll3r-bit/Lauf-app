@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11",
+ "updated": "2026-11-12",
  "region": "Bayern, Baden-Württemberg, Hessen, Thüringen, Sachsen, Sachsen-Anhalt, Brandenburg, Berlin, Saarland, Rheinland-Pfalz, Nordrhein-Westfalen, Niedersachsen, Bremen, Hamburg, Schleswig-Holstein, Mecklenburg-Vorpommern",
  "races": [
   {
@@ -11857,7 +11857,7 @@
    "note": "18. Römerlauf am bayerischen Untermain: Alcon-Lauf 5 km, Sparkassen-Lauf 10 km, Sodenthaler Schülerlauf 2,5 km, Mini-Lauf 0,7 km",
    "url": "https://www.roemerlauf.de/",
    "source": "https://www.roemerlauf.de/",
-   "info": "Termin 20.06.2027 laut Veranstalter (18. Römerlauf); Vorjahr (17.05.2026): Schülerlauf 09:15, 10 km 10:00, 5 km 11:50 Uhr, Anmeldung über RaceResult; Ausschreibung 2027 noch nicht veröffentlicht; Kontakt kontakt@roemerlauf.de",
+   "info": "Termin 20.06.2027 laut Veranstalter (18. Römerlauf); Vorjahr (17.05.2026): Schülerlauf 09:15, 10 km 10:00, 5 km 11:50 Uhr, Anmeldung über RaceResult; Anmeldung ab 01.12.2026 laut Veranstalter; Kontakt kontakt@roemerlauf.de",
    "id": "roemerlauf-obernburg-2027",
    "lat": 49.836,
    "lon": 9.131,
@@ -11865,12 +11865,13 @@
    "end": null,
    "confirmed": true,
    "prev_date": null,
-   "checked": "2026-11-03",
+   "checked": "2026-11-12",
    "prev": {
     "fee": "10 km 16,90 € (19 € später), 5 km 16,90 € (19 €), Schülerlauf 2,5 km 11,90 € (14 €)",
     "start_time": "10:00"
    },
-   "late_reg": "Vorjahr: Nachmeldung Sa 15:00 Uhr im Rathaus Obernburg (Sitzungssaal) und So ab 07:30 Uhr im Wettkampfbüro Start-Ziel (Burenstr./Römerstr.) bis 1 Stunde vor dem Start"
+   "late_reg": "Vorjahr: Nachmeldung Sa 15:00 Uhr im Rathaus Obernburg (Sitzungssaal) und So ab 07:30 Uhr im Wettkampfbüro Start-Ziel (Burenstr./Römerstr.) bis 1 Stunde vor dem Start",
+   "reg_open": "2026-12-01"
   },
   {
    "type": "road",
@@ -17666,8 +17667,10 @@
     "fee": "Halbmarathon 38–58 €, Staffel 48–68 € (laut hdsports, Preise der Ausgabe 2026)",
     "start_time": "09:00"
    },
-   "info": "Veranstalter Württembergischer Leichtathletik-Verband. Termin 06.06.2027 laut Veranstalter-Webseite (nicht als bestätigt gekennzeichnet). 2026 waren 16.377 Finisher im Ziel. Dazu Halbmarathon-Staffel, Walking, Inline, Handbike und Kinderlauf. Veranstalterseite nur per http erreichbar. Startzeit der Ausgabe 2026 laut HDsports (09:00 Uhr).",
-   "checked": "2026-11-04"
+   "info": "Veranstalter Württembergischer Leichtathletik-Verband. 34. Stuttgart-Lauf am 5. und 6. Juni 2027 laut Veranstalter, Zieleinlauf wieder in der MHP Arena. 2026 waren 16.377 Finisher im Ziel. Dazu Halbmarathon-Staffel, Walking, Inline, Handbike und Kinderlauf. Veranstalterseite nur per http erreichbar. Startzeit der Ausgabe 2026 laut HDsports (09:00 Uhr). Meldeportale öffnen am Dienstag, 01.12.2026, 10 Uhr; Preise laut Veranstalter-Webseite (Stand 12.11.2026).",
+   "checked": "2026-11-12",
+   "reg_open": "2026-12-01",
+   "fee": "Halbmarathon ab 55 €, 10 km ab 42 €, FunRun ca. 5 km ab 30 €, Halbmarathon-Staffel ab 70 € je Team, Kinderläufe ab 7 €"
   },
   {
    "id": "crailsheimer-halbmarathon-2027",
@@ -20629,8 +20632,8 @@
    "kreis": "LK Reutlingen",
    "lat": 48.483,
    "lon": 9.317,
-   "date": "2027-06-18",
-   "confirmed": true,
+   "date": "2027-06-27",
+   "confirmed": false,
    "prev_date": "2026-06-28",
    "distances": [
     "4",
@@ -20638,13 +20641,13 @@
     "15"
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-08",
+   "checked": "2026-11-12",
    "elevation": [
     null,
     null,
     250
    ],
-   "info": "Strecken laut hdsports. Veranstalter SV Würtingen. 2026 (20. Auflage) lief eine virtuelle Phase vom 19. bis 27.06. (4, 8 oder 15 km frei wählbar) und der Renntag am 28.06. mit 15-km-Rennen (Altersklassenwertung), 4 und 8 km Hobbylauf und Kinderläufen. Sponsoren zahlen je gelaufenen Kilometer, der Erlös geht an ein Kinderhaus-Projekt. Termin laut WLV-Laufkalender (Stand 08.11.2026)",
+   "info": "Strecken laut hdsports. Veranstalter SV Würtingen. 2026 (20. Auflage) lief eine virtuelle Phase vom 19. bis 27.06. (4, 8 oder 15 km frei wählbar) und der Renntag am 28.06. mit 15-km-Rennen (Altersklassenwertung), 4 und 8 km Hobbylauf und Kinderläufen. Sponsoren zahlen je gelaufenen Kilometer, der Erlös geht an ein Kinderhaus-Projekt. Laut Veranstalter Aktionszeitraum 2027 vom 18. bis 27.06.2027, der Renntag ist noch nicht genannt; Termin hier geschätzt auf den letzten Tag (Sonntag)",
    "url": "https://sv-wuertingen.de/steps-for-life/",
    "charity": "Sponsoren zahlen je gelaufenen Kilometer, der Erlös geht an ein Kinderhaus-Projekt"
   },
@@ -21336,9 +21339,9 @@
     "5",
     "10"
    ],
-   "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-08",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 19.07.). Strecken laut hdsports. Veranstalter TSG Skiläuferzunft Leutkirch, am Kinderfest-Sonntag. 54. Allgäu-Volkslauf war am 19.07.2026 mit über 700 Läufern: 10 km und 5 km auf der Wilhelmshöhe durch den Stadtwald, Nordic Walking, Bambini 500 m, Schülerläufe 700 m und 1.400 m. Termin laut DLV-Laufkalender auf laufen.de (beim Leichtathletik-Verband angemeldeter Lauf, Stand 08.11.2026).",
+   "source": "https://www.tsg-leutkirch.de/skilaeuferzunft/",
+   "checked": "2026-11-12",
+   "info": "Strecken laut hdsports. Veranstalter TSG Skiläuferzunft Leutkirch, am Kinderfest-Sonntag. 54. Allgäu-Volkslauf war am 19.07.2026 mit über 700 Läufern: 10 km und 5 km auf der Wilhelmshöhe durch den Stadtwald, Nordic Walking, Bambini 500 m, Schülerläufe 700 m und 1.400 m. Termin laut DLV-Laufkalender auf laufen.de (beim Leichtathletik-Verband angemeldeter Lauf, Stand 08.11.2026). 55. Allgäu Volkslauf am 18.07.2027 laut Terminkalender der TSG 1847 Leutkirch (Beginn 8:50 Uhr, Leutkirch-Wilhelmshöhe).",
    "url": "https://www.tsg-leutkirch.de/skilaeuferzunft/"
   },
   {
@@ -46485,21 +46488,23 @@
    "kreis": "LK Saarlouis",
    "lat": 49.314,
    "lon": 6.752,
-   "date": "2027-08-27",
-   "confirmed": false,
+   "date": "2027-08-20",
+   "confirmed": true,
    "distances": [
     "6"
    ],
    "url": "http://www.frauenlauf-saarlouis.de/",
    "source": "https://www.runme.de/deutschland/frauenlauf-saarlouis/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (6 km um 18:00 Uhr). Ausgabe 2026 (Freitag, 28.08.2026): Start 18:00 Uhr Läuferinnen, 18:05 Uhr Walkerinnen am Kleinen Markt, Online-Anmeldeschluss 10.08., Startunterlagen an zwei Terminen kurz vor dem Lauf, Nachmeldung dort möglich",
-   "checked": "2026-11-08",
+   "info": "Strecken laut RUNME. Ausgabe 2026 (Freitag, 28.08.2026): Start 18:00 Uhr Läuferinnen, 18:05 Uhr Walkerinnen am Kleinen Markt, Online-Anmeldeschluss 10.08., Startunterlagen an zwei Terminen kurz vor dem Lauf, Nachmeldung dort möglich. Laut Veranstalter (Meldung vom 11.11.2026) am Freitag, 20.08.2027 auf dem Kleinen Markt in Saarlouis: 6 km, Start 18:00 Uhr Läuferinnen, 18:05 Uhr Walkerinnen. Die Online-Anmeldung ist noch nicht geöffnet.",
+   "checked": "2026-11-12",
    "prev": {
     "start_time": "18:00",
     "fee": "26 € bei Anmeldung bis 11.05.2026, 28,50 € bis 10.08.2026, Nachmeldung 32 € (jeweils inklusive MwSt., mit T-Shirt)"
    },
    "prev_date": "2026-08-28",
-   "charity": "Je Läuferin 1 € an soziale Projekte und Vereine, Charity-Partner ist die DKMS"
+   "charity": "Je Läuferin 1 € an soziale Projekte und Vereine, Charity-Partner ist die DKMS",
+   "start_time": "18:00",
+   "start_place": "Kleiner Markt, Saarlouis"
   },
   {
    "id": "limlauf-2027",
@@ -89358,9 +89363,16 @@
    "parking": "Vorzugsweise Parkplatz am Kaufland, Grenayer Straße",
    "cutoff": "Halbmarathon 2:45 h (Kontrollpunkt Pavillon Stausee bei km 14,3 bis 12 Uhr)",
    "url": "http://glauchauer-herbstlauf.de/",
-   "source": "https://www.laufen.de/laufkalender",
-   "info": "40. Glauchauer Herbstlauf: Halbmarathon als flacher Landschaftslauf (Unterstadt, Schlossteich, Stausee, Niederschindmaas), 10 km um Stausee und Schlossteich, dazu 3,2 km, 1,1 km und Nordic Walking; Start und Ziel an der Sachsenlandhalle. Termin laut DLV-Laufkalender auf laufen.de (beim Leichtathletik-Verband angemeldeter Lauf, Stand 08.11.2026).",
-   "checked": "2026-11-08"
+   "source": "https://www.glauchauer-herbstlauf.de/ausschreibung/",
+   "info": "40. Glauchauer Herbstlauf: Halbmarathon als flacher Landschaftslauf (Unterstadt, Schlossteich, Stausee, Niederschindmaas), 10 km um Stausee und Schlossteich, dazu 3,2 km, 1,1 km und Nordic Walking; Start und Ziel an der Sachsenlandhalle. Termin laut DLV-Laufkalender auf laufen.de (beim Leichtathletik-Verband angemeldeter Lauf, Stand 08.11.2026). Ausschreibung 2027 laut Veranstalter: Sonntag, 24.10.2027, Start 10 km 9:50 Uhr, Halbmarathon 10:10 Uhr, 3,2 km 10:05 Uhr; Online-Meldeschluss 20.10.2027, 24 Uhr.",
+   "checked": "2026-11-12",
+   "fee": "10 km und Halbmarathon je 15 € bis 22.08.2027, 20 € bis 19.09., 25 € bis 20.10.2027, Nachmeldung am 23.10.2027 30 €",
+   "reg_open": "2027-06-01",
+   "reg_close": "2027-10-20",
+   "start_time": "09:50",
+   "limit": "10 km und Halbmarathon je 1.200",
+   "late_reg": "Nur am Samstag, 23.10.2027, 13:30–15:00 Uhr in der Sachsenlandhalle (Zuschlag 5 €, solange das Limit nicht erreicht ist); am Lauftag keine Nachmeldung",
+   "pickup": "Bei Online-Meldung bis 17.10.2027 per Post, sonst Sachsenlandhalle am 23.10.2027 (13:30–15:00 Uhr) oder am Lauftag 7:30–9:00 Uhr"
   },
   {
    "id": "hohen-neuendorfer-herbstlauf-2027",
@@ -90173,9 +90185,10 @@
     "10,4"
    ],
    "url": "https://www.laufen.de/laufkalender/details/41-silvesterlauf-der-lav-hamburg-nord",
-   "source": "https://www.laufen.de/laufkalender/details/41-silvesterlauf-der-lav-hamburg-nord",
-   "checked": "2026-11-08",
-   "info": "41. Silvesterlauf der LAV Hamburg-Nord in Volksdorf. Strecken 2,6 bis 10,4 km. Termin laut DLV-Laufkalender auf laufen.de (beim Leichtathletik-Verband angemeldeter Lauf, Stand 08.11.2026)."
+   "source": "https://walddoerfer-sv.de/events-mit-paypal-buchung/anmeldung-silvesterlauf-2026/",
+   "checked": "2026-11-12",
+   "info": "41. Silvesterlauf der LAV Hamburg-Nord in Volksdorf. Strecken 2,6 bis 10,4 km. Termin laut DLV-Laufkalender auf laufen.de (beim Leichtathletik-Verband angemeldeter Lauf, Stand 08.11.2026). Online-Anmeldung über den Walddörfer SV, Beginn laut Ticketbuchung 31.12.2026, 12 Uhr.",
+   "fee": "Erwachsene 9 €, Kinder 6 € (Online-Ticket)"
   },
   {
    "id": "benefizlauf-lions-club-alveslohe-2027",
@@ -100581,15 +100594,21 @@
    "date": "2026-11-29",
    "confirmed": true,
    "distances": [
+    "6",
     "10,5"
    ],
    "url": "https://www.laufen-os.de/wettkaempfe/24-dinklager-adventslauf-2026",
    "source": "https://www.laufen-os.de/wettkaempfe/24-dinklager-adventslauf-2026",
-   "info": "24. Dinklager Adventslauf auf Waldstrecken, Läufe von 400 m bis 10,5 km (Jedermann- und Hauptlauf). Nur Online-Anmeldung, Nachmeldungen vor Ort nicht erwünscht.",
-   "checked": "2026-11-11",
+   "info": "24. Dinklager Adventslauf auf Waldstrecken, Läufe von 400 m bis 10,5 km (Jedermann- und Hauptlauf). Nur Online-Anmeldung, Nachmeldungen vor Ort nicht erwünscht. Start Hauptlauf 10,5 km und Jedermannlauf 6 km um 11:00 Uhr (versetzt um wenige Minuten), Online-Anmeldung bis 27.11.2026, 12 Uhr.",
+   "checked": "2026-11-12",
    "reg_close": "2026-11-27",
    "start_place": "Kardinal-von-Galen-Haus, Schulstr. 7, 49413 Dinklage",
-   "charity": "Erlös für „Sportler gegen Hunger“"
+   "charity": "Erlös für „Sportler gegen Hunger“",
+   "fee": "Hauptlauf 10,5 km und Jedermannlauf 6 km je 10 € (bar am Lauftag), Bambini-, Schüler- und Inklusionslauf 3 €",
+   "start_time": "11:00",
+   "limit": "Hauptlauf und Jedermannlauf je 250",
+   "pickup": "Samstag 10–12 Uhr am Kardinal-von-Galen-Haus, sonst am Lauftag bis 30 Minuten vor dem Start",
+   "parking": "Umliegende Parkplätze (Markt bzw. K+K), Fahrgemeinschaften erbeten"
   },
   {
    "id": "wildeshauser-nikolauslauf-2026",
@@ -100608,9 +100627,12 @@
    ],
    "url": "https://www.laufmanager.net/Anmeldung/Onlineportal20.php?Type=Ausschreibung&Stat=Ja&ID=Veranstaltung/Jahr2026/Nikolauslauf/",
    "source": "https://www.laufmanager.net/Anmeldung/Onlineportal20.php?Type=Ausschreibung&Stat=Ja&ID=Veranstaltung/Jahr2026/Nikolauslauf/",
-   "info": "32. Wildeshauser Nikolauslauf entlang der Hunte: 2 km, 6,4 km und 12,5 km. Online-Meldeschluss 03.12.2026, 0 Uhr.",
-   "checked": "2026-11-11",
-   "reg_close": "2026-12-02"
+   "info": "32. Wildeshauser Nikolauslauf entlang der Hunte: 2 km, 6,4 km und 12,5 km. Online-Meldeschluss 03.12.2026, 0 Uhr. Start 6,4 km 10:00 Uhr, 2 km 10:05 Uhr, 12,5 km 11:00 Uhr.",
+   "checked": "2026-11-12",
+   "reg_close": "2026-12-02",
+   "fee": "12,5 km 10 €, 6,4 km 7 €, 2 km 3 €",
+   "start_time": "10:00",
+   "late_reg": "Vor Ort am Lauftag rechtzeitig vor den Starts"
   },
   {
    "id": "ems-dollart-winterlaufserie-logabirum-2027",
@@ -100767,14 +100789,17 @@
    ],
    "url": "https://www.feinerlauf.de/05-12-2026-1-offizieller-rund-um-hamburg-100/",
    "source": "https://www.feinerlauf.de/05-12-2026-1-offizieller-rund-um-hamburg-100/",
-   "info": "1. offizieller RuHH 100: Ultramarathon und Extremwanderung auf dem 2. Grünen Ring, 50 und 100 km, vom 05. bis 06.12.2026. Pflicht-Briefing 6:45 Uhr, Start 7 Uhr im Rüschpark (Südufer). Begrenzt auf 250 Teilnehmende.",
-   "checked": "2026-11-11",
+   "info": "1. offizieller RuHH 100: Ultramarathon und Extremwanderung auf dem 2. Grünen Ring, 50 und 100 km, vom 05. bis 06.12.2026. Pflicht-Briefing 6:45 Uhr, Start 7 Uhr im Rüschpark (Südufer). Begrenzt auf 250 Teilnehmende. Meldeschluss 30.11.2026, 23:59 Uhr; Funktionsshirt nur bei Anmeldung bis 31.10.2026.",
+   "checked": "2026-11-12",
    "end": "2026-12-06",
    "start_time": "07:00",
    "start_place": "Rüschpark (Südufer), Hamburg-Finkenwerder",
    "limit": "250 Teilnehmende",
    "cutoff": "100 km Laufen 18 Stunden, 50 km Laufen 8 Stunden",
-   "pickup": "Freitag, 04.12.2026, 15–18 Uhr, Am Sandtorkai 27 (Speicherstadt), oder am Lauftag ab 5:30 Uhr"
+   "pickup": "Freitag, 04.12.2026, 15–18 Uhr, Am Sandtorkai 27 (Speicherstadt), oder am Lauftag ab 5:30 Uhr",
+   "fee": "100 km 95 € bis 15.11., danach 125 € bis 30.11.2026; 50 km 55 € bis 15.11., danach 75 € bis 30.11.2026",
+   "reg_close": "2026-11-30",
+   "late_reg": "Nicht möglich"
   },
   {
    "id": "fockbeker-dorflauf-2027",
