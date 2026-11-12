@@ -1,1377 +1,546 @@
 # Änderungen auf Veranstalterseiten
 
-Stand: 11.11.2026 03:32 · 3412 Seiten geprüft · 456 geändert · 2698 unverändert · 26 neu im Bestand · 187 nicht abrufbar · 45 per robots.txt gesperrt
+Stand: 12.11.2026 03:25 · 3525 Seiten geprüft · 179 geändert · 2993 unverändert · 141 neu im Bestand · 162 nicht abrufbar · 50 per robots.txt gesperrt
 
 ## Geändert
 
+- **lauf-ich-lauf-mit-gegen-gewalt-2026** – https://www.datasport.de/anmeldeservice/ichlaufmitgegengewalt2026  (nennt jetzt das Jahr des Laufs)
+  - neu: 23:59
+  - weg: 23:59uhr
 - **friedberger-silvesterlauf-2026** – https://www.friedberger-silvesterlauf.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: ausgebucht
-  - weg: –
-- **djk-domlauf-passau-2027** – https://djk.domlauf.bistum-passau.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: 7.januar2027
-  - weg: –
-- **hiro-run-2027** – https://www.hiro-run.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 31.dezember2026
+  - weg: ausgebucht
+- **djk-domlauf-passau-2027** – https://djk.domlauf.bistum-passau.de/
   - neu: –
-  - weg: 9.november2026
-- **bad-koetztinger-stadtlauf-2027** – https://www.hdsports.org/laufen/bad-koetztinger-stadtlauf
-  - neu: 12.09.2027
-  - weg: –
-- **schliersee-lauf-2027** – https://www.schliersee-lauf.de/  (nennt jetzt das Jahr des Laufs)
+  - weg: 7.januar2027, 2027
+- **ultratrail-frankische-schweiz-2027** – https://www.ultratrail-fraenkische-schweiz.de/  (nennt jetzt das Jahr des Laufs)
   - neu: –
-  - weg: startplätze
-- **eggenfeldener-stadtlauf-2027** – https://www.eggenfelden.de/
-  - neu: 05.12.2026, 19:00uhr
+  - weg: 23.oktober2026
+- **waldershofer-stadtlauf-2027** – https://www.waldershof.de/event/waldershofer-stadtlauf-2025/
+  - neu: 19.november2026, 23.november2026, 15:00, 17:30
+  - weg: 18:30, 21:30
+- **internationaler-hochfellnberglauf-2027** – https://www.hochfellnberglauf.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 26.september2027
+  - weg: 26.09.2027, 27.september2026
+- **altmuehlfrankenlauf-2027** – http://www.altmuehlfranken-lauf.de  (nennt jetzt das Jahr des Laufs)
+  - neu: 18.05.2030
   - weg: –
-- **hardy-s-stadtlauf-furstenfeldbruck-2027** – https://www.hardys-fitness.de
-  - neu: 02.oktober2026, 18.09.2026
+- **roemerlauf-obernburg-2027** – https://www.roemerlauf.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 15.12.2026, 2026, anmeldung ab
   - weg: –
-- **hirschenstein-berglauf-2027** – https://www.hdsports.org/laufen/hirschenstein-berglauf
-  - neu: 12.09.2027
-  - weg: –
-- **arberland-ultra-trail-2027** – https://www.woidlaeufer.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: 15.11.2026
-  - weg: –
-- **stadtlauf-schrobenhausen-2027** – https://www.hdsports.org/laufen/stadtlauf-schrobenhausen
-  - neu: 12.09.2027
-  - weg: –
-- **altoettinger-siebzehnruebl-dultlauf-2027** – https://www.hdsports.org/laufen/altoettinger-siebzehnruebl-dultlauf
-  - neu: 12.09.2027
-  - weg: –
-- **muppberg-trailrun-2027** – https://gotrail.run/de/termine/muppberg-trail
-  - neu: 21.november2026
-  - weg: 21.11.2026
-- **maintal-crosslauf-2027** – https://www.hdsports.org/laufen/maintal-crosslauf
-  - neu: 12.09.2027
-  - weg: –
-- **crosslauf-neumarkt-st-veit-2027** – https://www.hdsports.org/laufen/crosslauf-neumarkt-st-veit
-  - neu: 12.09.2027
-  - weg: –
-- **treuchtlinger-fruehjahrslauf-2027** – https://www.hdsports.org/laufen/treuchtlinger-fruehjahrslauf
-  - neu: 12.09.2027
-  - weg: –
-- **aok-strassenlauf-augsburg-2027** – https://www.hdsports.org/laufen/strassenlauf-augsburg
-  - neu: 12.09.2027
-  - weg: –
-- **weilersbacher-fruehjahrslauf-2027** – https://www.hdsports.org/laufen/weilersbacher-fruehjahrslauf
-  - neu: 12.09.2027
-  - weg: –
-- **crosslauf-marktl-2027** – https://www.hdsports.org/laufen/crosslauf-marktl
-  - neu: 12.09.2027
-  - weg: –
-- **leiblachlauf-2027** – https://www.hdsports.org/laufen/leiblachlauf
-  - neu: 12.09.2027
-  - weg: –
-- **steinachtal-lauf-stadtsteinach-2027** – https://www.hdsports.org/laufen/steinachtal-lauf
-  - neu: 12.09.2027
-  - weg: –
-- **kolmberglauf-oberstreu-2027** – https://www.hdsports.org/laufen/kolmberglauf-oberstreu
-  - neu: 12.09.2027
-  - weg: –
-- **neuhauser-strassenlauf-2027** – https://www.hdsports.org/laufen/neuhauser-strassenlauf
-  - neu: 12.09.2027
-  - weg: –
-- **moosburger-drei-rosenlauf-2027** – https://www.hdsports.org/laufen/moosburger-stadtlauf
-  - neu: 12.09.2027
-  - weg: –
-- **dachauer-fruehjahrslauf-2027** – https://www.hdsports.org/laufen/dachauer-fruehjahrslauf
-  - neu: 12.09.2027
-  - weg: –
-- **mailauf-marktredwitz-2027** – https://www.hdsports.org/laufen/mailauf-marktredwitz
-  - neu: 12.09.2027
-  - weg: –
-- **neuburger-fruehjahrswaldlauf-2027** – https://www.hdsports.org/laufen/neuburger-fruehjahrswaldlauf
-  - neu: 12.09.2027
-  - weg: –
-- **lindwurmlauf-scheinfeld-2027** – https://www.hdsports.org/laufen/lindwurmlauf
-  - neu: 12.09.2027
-  - weg: –
-- **wuelflinger-waessernachlauf-2027** – https://www.hdsports.org/laufen/wuelflinger-waessernachlauf
-  - neu: 12.09.2027
-  - weg: –
-- **friedenfelser-crosslauf-waldlauf-2027** – https://www.hdsports.org/laufen/friedenfelser-waldlauf
-  - neu: 12.09.2027
-  - weg: –
-- **lauf-der-generationen-rottendorf-2027** – https://www.hdsports.org/laufen/lauf-der-generationen-rottendorf
-  - neu: 12.09.2027
-  - weg: –
-- **stoisser-alm-berglauf-2027** – https://www.hdsports.org/laufen/stoisseralm
-  - neu: 12.09.2027
-  - weg: –
-- **erbarun-2027** – https://www.hdsports.org/laufen/kramprun
-  - neu: 12.09.2027
-  - weg: –
-- **wesslinger-seelauf-2027** – https://www.hdsports.org/laufen/sz-volkslauf-rund-um-den-wesslinger-see
-  - neu: 12.09.2027
-  - weg: –
-- **10-aindlinger-marktlauf-2027** – https://www.hdsports.org/laufen/aindlinger-marktlauf
-  - neu: 12.09.2027
-  - weg: –
-- **osterseenlauf-iffeldorf-2027** – https://www.hdsports.org/laufen/osterseenlauf
-  - neu: 12.09.2027
-  - weg: –
-- **ebermergener-dorflauf-2027** – https://www.hdsports.org/laufen/ebermergener-dorflauf
-  - neu: 12.09.2027
-  - weg: –
-- **altstadtfestlauf-lauf-an-der-pegnitz-2027** – https://www.hdsports.org/laufen/altstadtfestlauf-lauf-an-der-pegnitz
-  - neu: 12.09.2027
-  - weg: –
-- **sonnwendlauf-um-den-gruentensee-2027** – https://www.hdsports.org/laufen/sonnwendlauf-um-den-gruentensee
-  - neu: 12.09.2027
-  - weg: –
-- **plankenfelser-waldlauf-2027** – https://www.hdsports.org/laufen/plankenfelser-waldlauf
-  - neu: 12.09.2027
-  - weg: –
-- **schwanberglauf-iphofen-castell-2027** – https://www.hdsports.org/laufen/schwanberglauf
-  - neu: 12.09.2027
-  - weg: –
-- **stadtlauf-bad-neustadt-2027** – https://www.hdsports.org/laufen/stadtlauf-bad-neustadt
-  - neu: 12.09.2027
-  - weg: –
-- **sommernachtslauf-muenchen-2027** – https://www.hdsports.org/laufen/schueler-und-sommernachtslauf
-  - neu: 12.09.2027
-  - weg: –
-- **altmuehl-jura-halbmarathon-im-naturpark-altmuehltal-2027** – https://www.hdsports.org/laufen/altmuehl-jura-halbmarathon-im-naturpark-altmuehltal
-  - neu: 12.09.2027
-  - weg: –
-- **jura-trail-schesslitz-2027** – https://www.hdsports.org/laufen/jura-trail-schesslitz
-  - neu: 12.09.2027
-  - weg: –
-- **oscheffer-tsg-lauf-mainaschaff-2027** – https://www.hdsports.org/laufen/oscheffer-tsg-lauf-mainaschaff
-  - neu: 12.09.2027
-  - weg: –
-- **schwindegger-schlosslauf-2027** – https://www.hdsports.org/laufen/schwindegger-schlosslauf
-  - neu: 12.09.2027
-  - weg: –
-- **kapellenlauf-vorra-2027** – https://www.hdsports.org/laufen/kapellenlauf
-  - neu: 12.09.2027
-  - weg: –
-- **stauseelauf-bad-woerishofen-2027** – https://www.hdsports.org/laufen/stauseelauf-wiedergeltingen
-  - neu: 12.09.2027
-  - weg: –
-- **woessner-halbmarathon-2027** – https://www.hdsports.org/laufen/woessner-halbmarathon
-  - neu: 12.09.2027
-  - weg: –
-- **hochgrat-berglauf-2027** – https://www.hdsports.org/laufen/hochgrat-berglauf
-  - neu: 12.09.2027
-  - weg: –
-- **hellerberglauf-buxheim-2027** – https://www.hdsports.org/laufen/hellerberglauf-buxheim
-  - neu: 12.09.2027
-  - weg: –
-- **herbstlauf-hollstadt-2027** – https://www.hdsports.org/laufen/hollschter-herbstlauf
-  - neu: 12.09.2027
-  - weg: –
-- **hoernle-berglauf-2027** – https://www.hdsports.org/laufen/hoernle-berglauf
-  - neu: 12.09.2027
-  - weg: –
-- **kuckuckslauf-kemmern-2027** – https://www.hdsports.org/laufen/kuckuckslauf-kemmern
-  - neu: 12.09.2027
-  - weg: –
-- **benefizlauf-aidhausen-2027** – https://www.hdsports.org/laufen/5-ottmar-schneider-benefizlauf
-  - neu: 12.09.2027
-  - weg: –
-- **stadtlauf-merkendorf-2027** – https://www.hdsports.org/laufen/2-staedtelauf-merkendorf-wolframs-eschenbach
-  - neu: 12.09.2027
-  - weg: –
-- **buchdorfer-jedermannslauf-2027** – https://www.hdsports.org/laufen/jedermannslauf-lauf-am-lech
-  - neu: 12.09.2027
-  - weg: –
-- **wein-berg-lauf-ramsthal-2027** – https://www.hdsports.org/laufen/wein-berg-lauf-ramsthal
-  - neu: 12.09.2027
-  - weg: –
-- **altmuehltrail-2027** – https://www.hdsports.org/laufen/altmuehltrail
-  - neu: 12.09.2027
-  - weg: –
-- **maurener-lauf-um-den-eisbrunn-2027** – https://www.hdsports.org/laufen/maurener-lauf-um-den-eisbrunn
-  - neu: 12.09.2027
-  - weg: –
+- **bibersfelder-herbstlauf-2026, bibersfelder-herbstlauf-2027, vellberger-volkslauf-2027** – https://stadtwerke-hall.de  (nennt jetzt das Jahr des Laufs)
+  - neu: 17:30uhr
+  - weg: 21:00uhr
+- **stirnlampenlauf-tuttlingen-2026** – https://runundfun.de
+  - neu: –
+  - weg: 06.juni2027, 2027, anmeldeschluss, meldeschluss, nachmeldung
 - **spiegelberger-raeuberweglauf-2026** – https://ultras.prospectum.com/events/2026_06_raeuberweglauf/  (nennt jetzt das Jahr des Laufs)
-  - neu: 17.11.
+  - neu: 18.11.
   - weg: –
-- **forchheimer-silvesterlauf-2026, forchheimer-silvesterlauf-2027** – https://www.sportfreunde-forchheim.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: 17.12.2026
-  - weg: 05.11.2026, 11.10.2026, 7.9.
 - **braunenberg-lauf-2027** – https://braunenberg-lauf.de  (nennt jetzt das Jahr des Laufs)
-  - neu: 18:39
-  - weg: 02.09.2026, 15.oktober2026, 11:23, 18:00uhr
-- **swp-citylauf-pforzheim-2027** – https://citylauf-pforzheim.de  (nennt jetzt das Jahr des Laufs)
-  - neu: 18.juni2027, 2027
-  - weg: abgesagt
-- **himmelfahrtslauf-woessingen-2027** – https://www.tv-w.de
-  - neu: 7.november2026, 2027, ausverkauft
+  - neu: 02.09.2027, 18:00uhr, 18:10, 18:30
+  - weg: 11:14, 18:39
+- **stuttgart-lauf-2027** – http://stuttgart-lauf.de  (nennt jetzt das Jahr des Laufs)
+  - neu: 1.dezember2026, 19,00euro, 30,00euro, 42,00euro, 55,00euro, 7,00euro, 70,00euro, 10:00uhr
+  - weg: 19.05.2026
+- **sparkassenlauf-geislingen-2027** – https://www.tg-geislingen.de/
+  - neu: 10.11.2025, 10.11.2026, 22:25, 25:13, 25:14, 25:22, 33:30, 38:16
+  - weg: 12.10.2026, 21.10.2026, 16:25, 17:25, 19:25, 28:33, 33:28
+- **steps-for-life-2027** – https://sv-wuertingen.de/steps-for-life/  (nennt jetzt das Jahr des Laufs)
+  - neu: 18.06., 27.06.2027, 2027
   - weg: –
 - **esslinger-zeitung-lauf-2027** – https://www.esslinger-zeitung.de/sport/ez-lauf/infos-und-anmeldung
-  - neu: 13.november, 14.november, 42:32
-  - weg: 2025, 2027, 2028, 30:29, 32:33
-- **steinenberger-waldlauf-2027** – https://www.sportfreunde-steinenberg.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: 16.01.2027, 2027
-  - weg: 12.07.2026
-- **durlacher-turmberglauf-2027** – https://tsdurlach.de
-  - neu: 25.oktober2026
+  - neu: 15.november, 21.november, 2027
+  - weg: 14.november
+- **allgaeu-volkslauf-leutkirch-2027** – https://www.tsg-leutkirch.de/skilaeuferzunft/  (nennt jetzt das Jahr des Laufs)
+  - neu: 18.07.2027, 2027, 08:50
   - weg: –
-- **karlsbader-volkslauf-langensteinbach-2026** – https://svl-leichtathletik.de/Veranstaltungen/KarlsbaderVolkslauf/
-  - neu: 8.11.
-  - weg: 7.november, 8.november
+- **friedrichstaler-waldlauf-2027** – https://www.tv-friedrichstal.com/
+  - neu: 6.dezember
+  - weg: –
 - **gaensebratenvernichtungslauf-wiesbaden-2026** – http://www.lcolympia.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: 19:30
-  - weg: 18:30
+  - neu: 10:00
+  - weg: 19:15
+- **offenbacher-suppenschuessel-cross-2027** – http://www.offenbacher-lc.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 23.januar2027
+  - weg: 10.1.2026
+- **alten-busecker-winterlaufserie-2026, alten-busecker-winterlaufserie-2027, alten-busecker-winterlaufserie-2-lauf-2026, alten-busecker-winterlaufserie-2-lauf-2027, alten-busecker-winterlaufserie-3-lauf-2027** – https://www.tsg-alten-buseck.com/  (nennt jetzt das Jahr des Laufs)
+  - neu: 21.november2026
+  - weg: –
 - **auf-die-platte-fertig-los-2027** – http://www.lcolympia.de
-  - neu: 19:30
-  - weg: 18:30
-- **eichenzeller-fruehlingslauf-2027** – https://www.xn--eichenzeller-frhlingslauf-twc.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: 17.04.2027, 2027
-  - weg: 18.04.2026, 2026
-- **leihgesterner-volkslauf-linden-2027** – https://www.tsg-leihgestern.de/
-  - neu: 37:32
-  - weg: 27.oktober2026
-- **pfingstlauf-willingen-usseln-2027** – http://www.skiclub-usseln.de/
+  - neu: 10:00
+  - weg: 19:15
+- **buedingen-cross-2027** – https://laufprojektbuedingen.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 22.11.2026
+  - weg: –
+- **staufenlauf-kelkheim-2027** – http://www.skiclub-kelkheim.de  (nennt jetzt das Jahr des Laufs)
+  - neu: 9.dezember2026
+  - weg: –
+- **himmelsleiterlauf-darmstadt-2027** – http://www.tg07-eberstadt.de
   - neu: –
-  - weg: 09.06.2025, 13.05.2026, 25.mai2026, 26.01.2025, 26.03.2025, 26.04.2025, 26.05.2025, 2025, 2026, 18:00uhr
+  - weg: 01.oktober, 17.oktober2026, 000euro
 - **brueder-grimm-lauf-hanau-2027** – https://www.mkk.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: 2.dezember
-  - weg: 11.dezember, 20.november
+  - neu: –
+  - weg: 2.dezember
 - **taunussteiner-waldlauf-30-7-2027** – https://www.tvhahn.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: 13:45, 15:00, 16:00, 16:45
-  - weg: 14:00, 15:30, 16:30, 17:45, 18:15, 19:15, 19:45, 20:00, 22:00
+  - neu: 15:30, 17:15, 18:15, 18:45, 19:15, 19:45, 20:00, 22:00
+  - weg: 01.11., 08.11., 12.oktober2026, 15.11., 18.10., 22.11., 25.10., 29.11., 13:45, 17:00, 19:00, 21:00
+- **ironman-nightrun-presented-by-helaba-2027** – https://www.ironman.com
+  - neu: –
+  - weg: 11:59, 9:00
+- **dodenauer-volkslauf-battenberg-dodenau-2027** – https://tsvdodenau.de/
+  - neu: 2027
+  - weg: –
+- **skylight-run-frankfurt-2027** – https://www.frankfurt-in-bewegung.de
+  - neu: 26.11., 26.11.2026, 26.november2026
+  - weg: 25.11., 25.11.2026, 25.november2026
 - **kurparklauf-bad-homburg-v-d-hoehe-2027** – https://www.bad-homburg.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: 12:34uhr, 16:00uhr, 18:00uhr, 19:00uhr, 20:00uhr
-  - weg: 05.11.2026, 09:00uhr, 15:30uhr, 19:30uhr
-- **stiefelburglauf-tonndorf-2027** – https://www.sv70tonndorf.de/
+  - neu: 19:30uhr
+  - weg: 12:34uhr, 18:00uhr, 19:00uhr
+- **offenbacher-mainuferlauf-2027** – https://www.offenbacher-lc.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 23.januar2027
+  - weg: 10.1.2026
+- **heiligabend-lauf-thueringer-wald-2026, rennsteig-etappenlauf-april-2027, rennsteig-etappenlauf-august-2027** – https://www.rennsteiglauf.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 03:42
+  - weg: 03:43
+- **silvesterlauf-waldeck-2026** – http://bw-buergel.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 05.11.2026
+  - weg: –
+- **spendenlauf-helauf-lauf-der-narren-2027** – https://www.vfb-oberweimar.de/
   - neu: –
-  - weg: 31.08.2026
-- **kickelhahn-berglauf-2027** – http://www.tu-ilmenau.de/
-  - neu: 23.11.
-  - weg: 02.11., 02.11.2026, 03.11.2026, 09.11., 6.november
+  - weg: 7.11.2026
+- **fruehjahrslauf-durch-den-leinawald-2027** – https://www.tsv1876nobitz.de/
+  - neu: 22.09.2026
+  - weg: –
+- **gutsmuths-rennsteiglauf-2027, schneekopflauf-2027** – http://www.rennsteiglauf.de  (nennt jetzt das Jahr des Laufs)
+  - neu: 03:42
+  - weg: 03:43
 - **vogelberglauf-bleicherode-2027** – http://www.bleicherode.de/
-  - neu: 14.11.2026, 15.11.2026, 10:30, 14:00, 14:30
-  - weg: 18.11.2026, 22.11.2026, 11:00
+  - neu: 18.11.2026, 22.11.2026, 11:00
+  - weg: 17:00, 21:00
 - **muehlhaeuser-altstadtlauf-2027** – http://www.muehlhausen.de/
-  - neu: 6.november
-  - weg: 28.10.2026
+  - neu: 9.november
+  - weg: 30.10.2026
 - **treffurter-stadtlauf-2027** – https://treffurt.de/
-  - neu: 21.september2026
-  - weg: 28.10.2026
+  - neu: 15.11.2026, 13:00uhr
+  - weg: –
 - **steiger-honig-lauf-2027** – http://www.ltv-erfurt.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: 14.10., 19.08., 28.10., 15:00, 16:00, 17:00, 18:30, 20:00, 22:00
-  - weg: 06.10., 17.08., 18.08., 27.10., 30.03., 16:30, 16:45
+  - neu: 20.08., 29.10., 30.03., 13:00, 20:30, 21:00
+  - weg: 14.10., 19.08., 28.10., 16:00, 18:00, 19:30, 22:00
+- **wurzellauf-2026** – http://www.atsv-info.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 02.12.2026, 2.dezember, 15:00uhr
+  - weg: 08.11.2026
 - **braunsteichlauf-weisswasser-2026** – https://laufbewegung-wsw.de/braunsteichlauf-weisswasser/  (nennt jetzt das Jahr des Laufs)
-  - neu: 15.november2026, 06:00, 09:09, 10:01, 16:18, 16:51, 16:56, 20:00, 4:09, 6:34, 7:12
-  - weg: 09.11., 03:12, 09:00, 09:12, 16:13, 16:21, 16:57, 22:00, 4:07, 6:32, 7:00, 7:09, 8:53
-- **zwickauer-adventslauf-2026** – http://www.vorwaerts-zwickau.de  (nennt jetzt das Jahr des Laufs)
-  - neu: –
-  - weg: 2.oktober2026
+  - neu: 16.november2026, 09:06, 10:59, 16:17, 16:55, 17:39, 4:06, 6:36, 7:13
+  - weg: 10.11., 06:00, 09:09, 10:01, 16:20, 16:51, 16:56, 20:00, 4:09, 6:34, 7:10
 - **schlossparklauf-bad-muskau-2027, kromlauer-pfingstlauf-2027, kristall-lauf-weisswasser-2027** – https://laufbewegung-wsw.de/
-  - neu: 06:00, 09:09, 10:01, 16:20, 16:51, 16:56, 20:00, 4:09, 6:34, 7:10
-  - weg: 09.11., 03:12, 09:00, 09:12, 16:13, 16:21, 16:57, 22:00, 4:07, 6:32, 7:00, 7:09, 8:53
-- **leipziger-volksbank-frauenlauf-2027** – http://www.leipzigerfrauenlauf.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: 18.02.2027
-  - weg: 26.02.2026
+  - neu: 09:06, 10:59, 16:18, 16:55, 17:39, 4:06, 6:36, 7:12
+  - weg: 10.11., 06:00, 09:09, 10:01, 16:20, 16:51, 16:56, 20:00, 4:09, 6:34, 7:10
 - **zwickauer-sparkassen-stadtlauf-2027** – https://www.zwickau.de/de/index.php
   - neu: –
-  - weg: abgesagt
-- **staedtelauf-plauen-hof-2027** – https://ksb-vogtland.de/
-  - neu: 14.november2026
-  - weg: 12.oktober2026, 9.oktober2026
-- **woelbbrueckenlauf-2027** – https://www.sg-kesselsdorf.de
-  - neu: 08.november2026
-  - weg: 29.10.2026
+  - weg: 06.11.2026, 09.11.2026
 - **gerhard-hamann-gedenklauf-crosslauf-2027** – https://lac-krostitz.de/
-  - neu: 24.november2026
-  - weg: 28.10., 30.08.
-- **sommerlauf-2027** – https://sv-fortschritt-lunzenau.de/
-  - neu: 2027
-  - weg: –
-- **muelsengrundlauf-2027** – http://www.motor-thurm.de/
-  - neu: –
-  - weg: 7:11
+  - neu: 15.november2026, 25.november2026, 16:00, 17:00
+  - weg: 14.november2026, 18.november2026
 - **einsiedler-herbstcrosslauf-2027** – http://www.skiverein-einsiedel.de
-  - neu: 04.09.2018, 14.02.2025, 17.09.2015
-  - weg: 01.01.2019, 08.02.2019, 28.02.2017
+  - neu: 13.03.2019, 16.12.2015, 22.09.2021, 28.11., 30.08.
+  - weg: 04.09.2018, 14.02.2025, 17.09.2015, 28.02.2022
 - **lauf-in-den-fruehling-zerbst-2027** – http://www.tsv-rot-weiss-zerbst.de/
-  - neu: 12:15uhr, 12:23uhr
-  - weg: 18.10.2026, 19.10.2026, 15:55uhr, 16:20uhr
+  - neu: 16:06uhr
+  - weg: 24.10.2026, 21:10uhr
 - **altstadtlauf-halberstadt-2027** – http://altstadtlauf-halberstadt.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: 03:11
-  - weg: 03:08
+  - neu: 03:07
+  - weg: 03:11
 - **zerbster-heimat-und-schuetzenfestlauf-2027** – https://tsv-rot-weiss-zerbst.de/
-  - neu: 12:15uhr, 12:23uhr
-  - weg: 18.10.2026, 19.10.2026, 15:55uhr, 16:20uhr
-- **zeitzer-stadtlauf-im-schlosspark-2027** – https://www.sg-chemie-zeitz.de/
+  - neu: 16:06uhr
+  - weg: 24.10.2026, 21:10uhr
+- **mitteldeutscher-marathon-2027** – https://www.mitteldeutscher-marathon.de/  (nennt jetzt das Jahr des Laufs)
   - neu: –
-  - weg: 30.juni2026
-- **pokallauf-rossbach-2026** – https://www.hdsports.org/laufen/pokallauf-rossbach-braunsbedra
-  - neu: 12.09.2027
-  - weg: –
-- **riesenpfannkuchenlauf-2027** – https://www.hdsports.org/laufen/riesenpfannkuchenlauf
-  - neu: 12.09.2027
-  - weg: –
-- **silvesterlauf-oranienbaum-2027** – https://www.hdsports.org/laufen/silvesterlauf-oranienbaum
-  - neu: 12.09.2027
-  - weg: –
-- **heidelauf-halle-1-lauf-2027** – https://www.hdsports.org/laufen/heidelaufserie-1-heidelauf
-  - neu: 12.09.2027
-  - weg: –
-- **heidelauf-halle-2-lauf-2027** – https://www.hdsports.org/laufen/heidelaufserie-2-heidelauf
-  - neu: 12.09.2027
-  - weg: –
-- **heidelauf-halle-3-lauf-2027** – https://www.hdsports.org/laufen/heidelaufserie-3-heidelauf
-  - neu: 12.09.2027
-  - weg: –
-- **crosslauf-in-den-fruehling-kalbe-2027** – https://www.hdsports.org/laufen/crosslauf-in-den-fruehling
-  - neu: 12.09.2027
-  - weg: –
-- **stadtfelder-schrotelauf-2027** – https://www.hdsports.org/laufen/stadtfelder-schrotelauf
-  - neu: 12.09.2027
-  - weg: –
-- **tangerhuetter-tangerlauf-2027** – https://www.hdsports.org/laufen/tangerhuetter-tangerlauf
-  - neu: 12.09.2027
-  - weg: –
-- **kreuzhorst-ultra-backyard-2027** – https://www.hdsports.org/laufen/kreuzhorst-ultra-backyard
-  - neu: 12.09.2027
-  - weg: –
-- **heidelauf-uchtspringe-2027** – https://www.hdsports.org/laufen/heidelauf-uchtspringe
-  - neu: 12.09.2027
-  - weg: –
-- **bismarck-gedenklauf-schoenhausen-2027** – https://www.hdsports.org/laufen/bismarck-gedenklauf-schoenhausen
-  - neu: 12.09.2027
-  - weg: –
-- **zerbster-rolandlauf-2027** – https://www.hdsports.org/laufen/zerbster-rolandlauf
-  - neu: 12.09.2027
-  - weg: –
-- **harzlauf-thale-2027** – https://www.hdsports.org/laufen/harzlauf
-  - neu: 12.09.2027
-  - weg: –
-- **neckarcross-ultra-race-2027** – https://gotrail.run/de/termine/dav-neckarcross-ultra-race
+  - weg: 4.oktober2026
+- **kulkiathlon-markranstaedt-2027** – https://gotrail.run/de/termine/kulkiathlon-markranstadt
   - neu: –
-  - weg: 2025, nachmeldung
-- **ritter-wormlitz-lauf-wormlage-2026** – https://www.wormlage-online.de/seite/246210/ritter-wormlitz-lauf.html  (nennt jetzt das Jahr des Laufs)
-  - neu: 7.november2027, 10:30uhr
-  - weg: 10.30uhr
-- **neujahrslauf-bad-liebenwerda-2027** – https://www.hdsports.org/laufen/neujahrslauf-bad-liebenwerda
-  - neu: 12.09.2027
-  - weg: –
-- **luckenwalder-crosslaufserie-2027** – https://www.hdsports.org/laufen/luckenwalder-crosslaufserie
-  - neu: 12.09.2027
-  - weg: –
-- **branitzer-parklauf-2027** – https://www.hdsports.org/laufen/branitzer-parklauf
-  - neu: 12.09.2027
-  - weg: –
-- **winterlauf-der-bernauer-lauffreunde-2027** – https://www.hdsports.org/laufen/barnimer-winterlaufserie-5-lauf
-  - neu: 12.09.2027
-  - weg: –
-- **osterlauf-deetz-2027** – https://www.hdsports.org/laufen/osterlauf-deets
-  - neu: 12.09.2027
-  - weg: –
-- **pusacker-berglauf-2027** – https://www.hdsports.org/laufen/pusacker-berglauf
-  - neu: 12.09.2027
-  - weg: –
-- **bernsteinsee-lauf-ruhlsdorf-2027** – https://www.hdsports.org/laufen/bernsteinsee-lauf-ruhlsdorf
-  - neu: 12.09.2027
-  - weg: –
-- **trebbiner-cup-lauf-2027** – https://www.hdsports.org/laufen/trebbiner-cup-lauf
-  - neu: 12.09.2027
-  - weg: –
-- **ilse-see-lauf-grossraeschen-2027** – https://www.hdsports.org/laufen/ilsee-see-lauf
-  - neu: 12.09.2027
-  - weg: –
-- **naturparklauf-friedersdorf-2027** – https://www.hdsports.org/laufen/naturparklauf-friedersdorf
-  - neu: 12.09.2027
-  - weg: –
-- **branitzer-pyramidenlauf-2027** – https://www.hdsports.org/laufen/branitzer-pyramidenlauf
-  - neu: 12.09.2027
-  - weg: –
-- **altstadtlauf-gransee-2027** – https://www.hdsports.org/laufen/granseer-stadtwaldlauf
-  - neu: 12.09.2027
-  - weg: –
-- **bernauer-stadtmauerlauf-2027** – https://www.hdsports.org/laufen/bernauer-stadtmauerlauf
-  - neu: 12.09.2027
-  - weg: –
-- **seeburger-feld-wald-und-wiesenlauf-2027** – https://www.hdsports.org/laufen/seeburger-feld-wald-und-wiesenlauf
-  - neu: 12.09.2027
-  - weg: –
-- **motzenseelauf-2027** – http://www.msvzossen.de/
-  - neu: 12:30
-  - weg: 07.10.2026
+  - weg: 18,00euro, 9,20euro, abgesagt
+- **run-fun-tuttlingen-2027** – https://running.life/de/termine/run-fun-in-tuttlingen
+  - neu: 9.november2026, abgesagt
+  - weg: 6.juni, 2025
+- **luise-lauf-2027** – https://tourismus.ketzin.de/index.php
+  - neu: 24.10., fällt aus, 11:00uhr, 16:00uhr
+  - weg: 1.november2026, 26.oktober2026
+- **senziger-heidelauf-2027** – https://www.suedstern-senzig.de/
+  - neu: 15euro, 7euro, 0:00, 16:00, 22:33, 22:37
+  - weg: 9.oktober2026, 00:30, 9:15uhr
+- **kremmen-laeuft-2027** – https://www.kremmen.de/
+  - neu: 19:00uhr, 19:30uhr, 22:00uhr
+  - weg: 12:00uhr, 17:30uhr, 18:00uhr
 - **schwedter-stadtlauf-2027** – https://www.schwedt.eu/
-  - neu: 13.november, 24.september2026
-  - weg: 19:00uhr
-- **schlueser-troedellauf-2027** – https://www.hdsports.org/laufen/schlueser-troedellauf
-  - neu: 12.09.2027
+  - neu: 22.november2026
+  - weg: 10.november2026, 13.dezember
+- **hubertuslauf-2027** – http://www.kreissportbund-opr.de/
+  - neu: –
+  - weg: 14.03.2026
+- **klosterlauf-panschwitz-kuckau-2027** – https://lausitzer-sportevents.de/marathon/termine/  (nennt jetzt das Jahr des Laufs)
+  - neu: 10.35uhr
   - weg: –
-- **angermuender-wiesel-sommer-crosslauf-2027** – https://www.hdsports.org/laufen/angermuender-wiesellauf
-  - neu: 12.09.2027
-  - weg: –
-- **scharmuetzelseelauf-lindenbluetenlauf-2027** – https://www.hdsports.org/laufen/scharmuetzelseelauf
-  - neu: 12.09.2027
-  - weg: –
-- **lauf-rund-um-die-schafbergschanze-grossthiemig-2027** – https://www.hdsports.org/laufen/lauf-rund-um-die-schafsbergschanze-grossthiemig
-  - neu: 12.09.2027
-  - weg: –
-- **schwarze-elster-lauf-werner-janensch-lauf-2027** – https://www.hdsports.org/laufen/schwarze-elster-lauf
-  - neu: 12.09.2027
-  - weg: –
-- **august-bier-lauf-2027** – https://www.hdsports.org/laufen/august-bier-lauf
-  - neu: 12.09.2027
-  - weg: –
-- **brodowiner-naturlauf-2027** – https://www.hdsports.org/laufen/brodowiner-naturlauf
-  - neu: 12.09.2027
-  - weg: –
-- **peitz-bewegt-sich-2027** – https://www.hdsports.org/laufen/peitz-bewegt-sich
-  - neu: 12.09.2027
-  - weg: –
-- **rund-um-den-weinberg-2027** – https://www.hdsports.org/laufen/rund-um-den-weinberg
-  - neu: 12.09.2027
-  - weg: –
-- **angermuender-sommerlauf-2027** – https://www.hdsports.org/laufen/angermuender-sommerlauf
-  - neu: 12.09.2027
-  - weg: –
-- **dahlewitzer-waldcross-2027** – https://www.hdsports.org/laufen/dahlewitzer-waldcross
-  - neu: 12.09.2027
-  - weg: –
-- **gross-glienicker-2-seen-lauf-2027** – https://www.hdsports.org/laufen/gross-glienicker-2-seen-lauf
-  - neu: 12.09.2027
-  - weg: –
-- **lauf-um-den-muellroser-see-2027** – https://www.hdsports.org/laufen/lauf-um-den-muellroser-see
-  - neu: 12.09.2027
-  - weg: –
-- **dabendorfer-herbstlauf-2027** – https://msvzossen.de/
-  - neu: 12:30
-  - weg: 07.10.2026
-- **finsterwalder-dutzend-saengerstadt-marathon-2027** – https://www.hdsports.org/laufen/finsterwalder-dutzend
-  - neu: 12.09.2027
-  - weg: –
-- **spremberger-stauseelauf-2027** – https://www.hdsports.org/laufen/spremberger-stauseelauf
-  - neu: 12.09.2027
-  - weg: –
-- **elbwaerts-laufen-laga-bewegt-2027** – https://www.hdsports.org/laufen/elbwaerts-laufen-laga-bewegt
-  - neu: 12.09.2027
-  - weg: –
-- **prowissen-lauf-2027** – https://www.hdsports.org/laufen/prowissen-lauf
-  - neu: 12.09.2027
-  - weg: –
-- **forster-rosengartenlauf-2027** – https://www.hdsports.org/laufen/forster-rosengartenlauf
-  - neu: 12.09.2027
-  - weg: –
-- **parforceheide-crosslauf-2027** – https://www.hdsports.org/laufen/parforce-heide-cross
-  - neu: 12.09.2027
-  - weg: –
-- **schlaubetal-marathon-naturlauf-2027** – https://www.hdsports.org/laufen/schlaubetal-naturlauf
-  - neu: 12.09.2027
-  - weg: –
-- **schnauf-der-schoenwalder-lauf-2027** – https://www.hdsports.org/laufen/schnauf-der-schoenwalder-lauf
-  - neu: 12.09.2027
-  - weg: –
-- **werner-seelenbinder-gedenklauf-2027** – https://www.hdsports.org/laufen/werner-seelenbinder-gedenklauf
-  - neu: 12.09.2027
-  - weg: –
-- **scc-cross-country-2026** – https://www.scc-berlin-leichtathletik.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: 06.08.2026, 10.08.2026
-  - weg: 1.märz2026, 14.05.2026, 16.03.2026, 23.04.2026, 27.februar, 29.märz
-- **scc-waldlauf-berlin-lutz-derkow-gedenklauf-2027** – https://www.hdsports.org/laufen/scc-waldlauf-berlin
-  - neu: 12.09.2027
-  - weg: –
+- **berliner-halbmarathon-2027** – http://www.berliner-halbmarathon.de  (nennt jetzt das Jahr des Laufs)
+  - neu: –
+  - weg: 29.03.2026, 59:22
+- **steglitzer-volkslauf-2027, volks-crosslauf-des-tusli-2027** – https://tusli.de/
+  - neu: 10.dezember2026, 16:30uhr
+  - weg: 12.09.2026
 - **heinersdorfer-viertelmarathon-2027** – https://zukunftswerkstatt-heinersdorf.de/
-  - neu: wartelist
-  - weg: –
-- **saegerserie-1-lauf-2027-2027** – https://www.hdsports.org/laufen/saegerserie
-  - neu: 12.09.2027
-  - weg: –
-- **mueggelseelauf-2027** – https://www.hdsports.org/laufen/aok-mueggelsee-halbmarathon
-  - neu: 12.09.2027
-  - weg: –
-- **cross-rund-um-die-kaulsdorfer-seen-herbst-2027** – https://www.hdsports.org/laufen/cross-rund-um-die-kaulsdorfer-seen
-  - neu: 12.09.2027
-  - weg: –
-- **halloween-run-berlin-2027** – https://www.hdsports.org/laufen/halloween-run-berlin
-  - neu: 12.09.2027
-  - weg: –
-- **berliner-mannschaftslauf-ssv-lichtenrade-2026** – https://www.hdsports.org/laufen/berliner-mannschaftslauf-ssv-lichtenrade
-  - neu: 12.09.2027
-  - weg: –
+  - neu: 26.september2026
+  - weg: 8.november2026, 11:00uhr, 12:30uhr
+- **berlin-marathon-2027** – http://www.berlin-marathon.com/  (nennt jetzt das Jahr des Laufs)
+  - neu: –
+  - weg: 27.09.2026, 2:09
 - **freundschaftslauf-der-llg-wustweiler-2026, illinger-city-lauf-2027, freundschaftslauf-der-llg-wustweiler-2027** – http://www.llgwustweiler.de  (nennt jetzt das Jahr des Laufs)
-  - neu: 01.10.2023, 05.03.2016, 12.10.2025, 17.02.2013, 23.04.2017, 27.08.2017
-  - weg: 21.04.2024, 24.06.2025, 25.11.2023, 28.06.2018
+  - neu: 09.05.2025, 09.09.2023, 17.02.2024, 18.07.2021, 21.08.2025
+  - weg: 01.10.2023, 05.03.2016, 12.10.2025, 17.02.2013, 23.04.2017, 27.08.2017
+- **ikk-wendelinus-radweg-lauf-2027** – https://www.ltf.de/
+  - neu: 1:38, 1:45, 1:50, 1:58
+  - weg: 12.oktober2026, 1:03, 1:04, 32:46, 40:53, 45:24, 45:30, 46:47, 46:49, 4:41, 50:08, 50:38, 55:29
 - **osterlauf-in-urexweiler-2027** – https://lcfru.de/
-  - neu: 20.dezember
-  - weg: 25.10., 27.märz2027, 3.november2026, 2027
+  - neu: –
+  - weg: 1.november, 12.10.2026, 27.juni2025, 5.november2026, 18.30uhr
+- **globus-marathon-st-wendel-2027** – https://www.sankt-wendel.de/
+  - neu: 15.november, 10.30uhr
+  - weg: 19.november, 2.dezember, 9.30uhr, 9.45uhr
+- **rag-hartfuessler-trail-2027** – http://www.hartfuesslertrail.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 15.11.2026
+  - weg: –
+- **dm-frauenlauf-saarlouis-2027** – http://www.frauenlauf-saarlouis.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 18.august, 20.august, 20.august2027, 22.august2027, 2027, anmeldung startet
+  - weg: 10.august2026, 13.05.2025, 26.august, 28.august, 28.august2026, 30.august2026, anmeldeschluss, meldeschluss, nachmeldung, startplätze, 23:59uhr
+- **fohlenhoflauf-2027** – http://www.cjd-homburg.de/
+  - neu: –
+  - weg: 03.november2026
+- **ceb-saarwiesenlauf-2027** – http://www.ceb-akademie.de/
+  - neu: –
+  - weg: 1.oktober
 - **benin-benefiz-lauf-2027** – http://www.llgwustweiler.de/
-  - neu: 01.10.2023, 05.03.2016, 12.10.2025, 17.02.2013, 23.04.2017, 27.08.2017
-  - weg: 21.04.2024, 24.06.2025, 25.11.2023, 28.06.2018
-- **freundschaftslauf-marpingen-2027** – https://www.hdsports.org/laufen/freundschaftslauf-marpingen
-  - neu: 12.09.2027
-  - weg: –
-- **halloweenlauf-lg-reimsbach-oppen-2027** – https://www.hdsports.org/laufen/halloween-lauf
-  - neu: 12.09.2027
-  - weg: –
-- **crosslauf-idar-oberstein-weierbach-2026, crosslauf-idar-oberstein-weierbach-2027** – https://www.hdsports.org/laufen/crosslauf-i-o-weierbach
-  - neu: 12.09.2027
-  - weg: –
-- **silberaulauf-2026, silberaulauf-2027, silberaulauf-fruehjahr-2027** – http://tvbadems.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: 08.11.2026, 15.11., 20:11, 43:30
-  - weg: 27.09.2026, 29.september2026, 12:15, 25:23, 28:32, 2:40, 5:03, 5:04
-- **crosslaufserie-kaisersesch-2026** – https://www.hdsports.org/laufen/crosslaufserie-cochem-zell
-  - neu: 12.09.2027
-  - weg: –
+  - neu: 09.05.2025, 09.09.2023, 17.02.2024, 18.07.2021, 21.08.2025
+  - weg: 01.10.2023, 05.03.2016, 12.10.2025, 17.02.2013, 23.04.2017, 27.08.2017
 - **int-deulux-lauf-2026, int-deulux-lauf-2027** – https://deulux-lauf.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: 1.11.2026
-  - weg: 18:30uhr
-- **potzberg-berglauf-2026, potzberg-berglauf-2027** – http://www.tusglanmuenchweiler.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: 14:45
-  - weg: –
-- **crosslaufserie-kreis-bernkastel-wittlich-lauf-in-puenderich-2026** – https://www.hdsports.org/laufen/crosslaufserie-kreis-bernkastel-wittlich-2
-  - neu: 12.09.2027
-  - weg: –
-- **crosslauf-mehren-crosslaufserie-vulkaneifel-sparkassen-cup-2027** – https://www.hdsports.org/laufen/crosslauf-mehren
-  - neu: 12.09.2027
-  - weg: –
-- **crosslaufserie-kreis-bernkastel-wittlich-lauf-bengel-2027** – https://www.hdsports.org/laufen/crosslaufserie-kreis-bernkastel-wittlich
-  - neu: 12.09.2027
-  - weg: –
-- **3b-rhoihesse-crosslauf-2027** – https://www.hdsports.org/laufen/3b-rhoihessecross-lauf
-  - neu: 12.09.2027
-  - weg: –
-- **freinsheimer-volkslauf-rund-um-den-oschelkopf-2027** – https://www.hdsports.org/laufen/freinsheimer-volkslauf-rund-um-den-oschelkopf
-  - neu: 12.09.2027
-  - weg: –
-- **crosslaufserie-kreis-bernkastel-wittlich-wintrich-2027** – https://www.hdsports.org/laufen/crosslaufserie-kreis-bernkastel-wittlich-4
-  - neu: 12.09.2027
-  - weg: –
-- **eifelsteig-crosslauf-gerolstein-buescheich-2027** – https://www.hdsports.org/laufen/crosslauf-gerolstein
-  - neu: 12.09.2027
-  - weg: –
-- **obere-kyll-crosslauf-birgel-2027** – https://www.hdsports.org/laufen/crosslauf-birgel
-  - neu: 12.09.2027
+  - neu: 23:59
   - weg: –
 - **gaeulauf-2027** – http://www.vg-edenkoben.de
-  - neu: 07:15uhr
-  - weg: –
-- **arzbacher-trailrun-2027** – https://www.hdsports.org/laufen/arzbacher-trailrun
-  - neu: 12.09.2027
-  - weg: –
-- **citylauf-kaiserslautern-2027** – https://www.hdsports.org/laufen/hornbach-citylauf-kaiserslautern
-  - neu: 12.09.2027
-  - weg: –
+  - neu: 14:00uhr
+  - weg: 07:15uhr
 - **frankenthaler-strohhutfestlauf-2027** – http://www.frankenthal.de/
-  - neu: –
-  - weg: 04.11.2026, 23.november, 29.dezember
-- **hinterweidenthaler-hexepaeddl-lauf-2027** – https://www.hdsports.org/laufen/hinterweidenthaler-hexepaeddl-lauf
-  - neu: 12.09.2027
-  - weg: –
-- **mitternachtslauf-2027-2** – http://www.tusglanmuenchweiler.de
-  - neu: 14:45
-  - weg: –
+  - neu: 21.september, 3.oktober, 000euro
+  - weg: 05.11.2026, 06.11.2026, 1.november, 10.dezember, 25.november, 7.november
 - **idar-obersteiner-altstadtlauf-2027** – http://www.idar-oberstein.de/
-  - neu: –
-  - weg: 14.november
-- **laufevent-des-tv-reitzenhain-2027** – https://www.hdsports.org/laufen/4-laifevent-des-tv-reitzenhain
-  - neu: 12.09.2027
-  - weg: –
-- **suedpfalzlauf-september-2027** – https://www.hdsports.org/laufen/suedpfalzlauf-september
-  - neu: 12.09.2027
-  - weg: –
-- **deichenwand-trail-wilgartswiesen-2027** – https://www.hdsports.org/laufen/deichenwand-trail-wilgartswiesen
-  - neu: 12.09.2027
-  - weg: –
-- **alagastlauf-2027** – https://www.hdsports.org/laufen/alagastlauf
-  - neu: 12.09.2027
-  - weg: –
-- **kriegsheimer-panoramalauf-2027** – https://www.hdsports.org/laufen/kriegsheimer-panoramalauf
-  - neu: 12.09.2027
-  - weg: –
-- **mutterstadter-volkslauf-2027** – https://www.hdsports.org/laufen/mutterstadter-volkslauf
-  - neu: 12.09.2027
-  - weg: –
-- **neustadter-altstadtlauf-2027** – https://www.hdsports.org/laufen/neustadter-altstadtlauf
-  - neu: 12.09.2027
-  - weg: –
-- **energiesuedwest-cup-goecklingen-2027** – https://www.hdsports.org/laufen/energiesuedwest-cup-goecklingen
-  - neu: 12.09.2027
-  - weg: –
-- **ingelheimer-polderlauf-2027** – https://www.hdsports.org/laufen/ingelheimer-polderlauf
-  - neu: 12.09.2027
-  - weg: –
-- **maxdorfer-gemueselauf-2027** – https://www.hdsports.org/laufen/maxdorfer-gemueselauf
-  - neu: 12.09.2027
-  - weg: –
-- **crosslauf-bremm-2027** – https://www.hdsports.org/laufen/crosslaufserie-des-kreises-cochem-zell
-  - neu: 12.09.2027
-  - weg: –
-- **energiesuedwest-offenbach-an-der-queich-2027** – https://www.hdsports.org/laufen/energiesuedwest-offenbach-an-der-queich
-  - neu: 12.09.2027
-  - weg: –
-- **maudacher-kerwelauf-2027** – https://www.hdsports.org/laufen/maudacher-kerwelauf
-  - neu: 12.09.2027
-  - weg: –
-- **bad-duerkheimer-berglauf-2027** – https://www.hdsports.org/laufen/bad-duerkheimer-berglauf
-  - neu: 12.09.2027
-  - weg: –
-- **loewenlauf-hachenburg-2027** – https://www.hdsports.org/laufen/hachenburger-loewenlauf
-  - neu: 12.09.2027
-  - weg: –
-- **braunbecks-bremserlauf-zornheim-2027** – https://www.hdsports.org/laufen/braunbecks-bremserlauf-zornheim
-  - neu: 12.09.2027
-  - weg: –
-- **herdorfer-goetzelauf-stadtlauf-2027** – https://www.hdsports.org/laufen/herdorfer-goetzelauf
-  - neu: 12.09.2027
-  - weg: –
-- **waldlauf-rund-um-den-waldplatz-geul-2027** – https://www.hdsports.org/laufen/waldlauf-rund-um-den-waldplatz-geul
-  - neu: 12.09.2027
-  - weg: –
-- **ohmbachsee-halbmarathon-2027** – https://www.hdsports.org/laufen/ohmbachsee-halbmarathon
-  - neu: 12.09.2027
-  - weg: –
-- **westerwinkellauf-2026, westerwinkellauf-2027** – http://www.svh-herbern.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: 09.11.2026, 5:00, 5:45
-  - weg: 04.10.2026, 06.10.2026, 30.09.2026
-- **steinhart500-klimaneutral-2026, steinhart500-klimaneutral-2027** – http://www.steinhart500.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: 1.september2027, 7.november2027, 2027
-  - weg: 1.september, 8.november2026, startplätze, wartelist
-- **kottenforst-halbmarathon-2026** – https://www.laufen-im-rheinland.de/kottenforst-halbmarathon/
-  - neu: –
-  - weg: 09.11.
-- **paderborn-lippstadt-airport-run-2026** – https://www.airport-pad.com/de/  (nennt jetzt das Jahr des Laufs)
-  - neu: –
-  - weg: 04.11.2026
-- **kobolt-2026** – https://www.hdsports.org/laufen/kobolt
-  - neu: 12.09.2027
-  - weg: –
-- **nikolaus-crosslauf-2026** – http://www.tg-neuss.de  (nennt jetzt das Jahr des Laufs)
+  - neu: 19.november2026
+  - weg: 09.11.2026
+- **binger-stadtlauf-2027** – http://www.lcbingen.de
   - neu: 2027
-  - weg: 03.10.2026, 15.11., 2.november2026, 2.oktober2026, 26.oktober2026, 5.oktober2026, 6.oktober2026, 9.november2026
-- **bergbaurundweg-witten-marathon-2026** – https://running.life/de/termine/bergbaurundweg-witten-marathon/2026-12-06
-  - neu: ausverkauft
-  - weg: –
-- **schnadegang-rund-um-ennepetal-2026** – https://running.life/de/termine/schnadegang-rund-um-ennepetal
-  - neu: ausverkauft
-  - weg: –
-- **essener-rhein-herne-kanal-marathon-2026** – https://running.life/de/termine/essener-rhein-herne-kanal-marathon/2026-12-20
-  - neu: ausverkauft
+  - weg: 20.september2026, 22.september2026
+- **geilenkirchener-crosslauf-2026** – https://www.atvgeilenkirchen.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: –
+  - weg: 07.11.2026
+- **suedsauerlandlauf-wenden-2026** – https://www.sgwenden.de/
+  - neu: –
+  - weg: 13:00uhr
+- **martinslauf-2026** – https://www.sfd.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 30:04
+  - weg: 27.oktober2026, 35:02
+- **mondorfer-rewe-weihnachtslauf-2026** – http://www.lauftreff-mondorf.de
+  - neu: –
+  - weg: 18.00uhr
+- **nikolaus-crosslauf-2026** – http://www.tg-neuss.de  (nennt jetzt das Jahr des Laufs)
+  - neu: –
+  - weg: 1.november2026
+- **ugly-christmas-sweater-run-2026** – https://www.ucsr-lev.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 18.november2026
   - weg: –
 - **doerenther-klippen-ultratrail-2026, emsauen-rheine-ultramarathon-2026** – https://ultra-uwe-unterwegs.de/veranstaltungen/uwes-laufangebote/
-  - neu: –
-  - weg: 08.11.
-- **dortmunder-neujahrslauf-phoenix-neujahrslauf-2027** – https://www.hdsports.org/laufen/phoenix-neujahrslauf
-  - neu: 12.09.2027
+  - neu: 02.12.
   - weg: –
+- **silvesterlauf-neuss-2026** – https://www.silvesterlauf-neuss.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 25,00euro, 01:00, 31:10
+  - weg: 20,00euro, 02:00, 44:44
+- **active-laufshop-silvesterlauf-2026, active-laufshop-silvesterlauf-2027, zfs-muenster-city-run-2027** – https://www.lsf-muenster.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: –
+  - weg: 2.november2026, 31.oktober
 - **boenener-lauf-lauf-am-foerderturm-2027** – http://www.lauffreundeboenen.de/
   - neu: –
-  - weg: 09.11.2026, 16:30, 17:30
+  - weg: 10.11.2026, 19:30
 - **lauf-rund-um-den-halterner-see-2027** – https://www.spiridon-haltern.de/
-  - neu: 08.11.2026
-  - weg: –
-- **tusem-westdeutsche-waldlaufserie-2027** – https://www.hdsports.org/laufen/westdeutsche-waldlaufserie-2
-  - neu: 12.09.2027
-  - weg: –
-- **jungbornparklauf-moers-2027** – https://www.hdsports.org/laufen/jungbornparklauf-moers
-  - neu: 12.09.2027
-  - weg: –
-- **winterlaufserie-der-hildener-at-2027, winterlaufserie-der-hildener-at-3-lauf-2027** – https://www.hdsports.org/laufen/winterlaufserie-der-hildener-at
-  - neu: 12.09.2027
-  - weg: –
-- **pokal-crosslauf-luechtringen-hoexter-2027** – https://www.hdsports.org/laufen/pokal-crosslauf
-  - neu: 12.09.2027
-  - weg: –
-- **bertlicher-strassenlaeufe-2027** – https://www.hdsports.org/laufen/bertlicher-strassenlaeufe
-  - neu: 12.09.2027
-  - weg: –
-- **solidaritaetslauf-koeln-feminist-law-clinic-2027** – https://www.hdsports.org/laufen/solidaritaetslauf-koeln-feminist-law-clinic
-  - neu: 12.09.2027
-  - weg: –
-- **sonsbecker-fruehjahrscrosslauf-2027** – http://www.sv-sonsbeck.de/
-  - neu: 11.10.2026, 18:51
-  - weg: 13.10.2026, fällt aus, 10:00
-- **warendorfer-ostergaragen-backyard-2027** – https://www.hdsports.org/laufen/warendorfer-ostergaragen-backyard
-  - neu: 12.09.2027
-  - weg: –
-- **warburger-diemellauf-2027** – http://www.warburgersv.de/
   - neu: –
-  - weg: 03.10.2026, 29.09.2026, 49.oktober
-- **benrather-volkslauf-2027, benrather-schlosslauf-2027** – http://www.lt-duesseldorf-sued.de/
-  - neu: 7.11.2026
-  - weg: –
-- **bonn-marathon-2027** – https://www.hdsports.org/laufen/bonn-marathon
-  - neu: 12.09.2027
-  - weg: –
-- **gevelsberger-stadionlauf-2027** – https://www.hdsports.org/laufen/gevelsberger-stadionlauf
-  - neu: 12.09.2027
-  - weg: –
+  - weg: 11.10.2026
+- **jahreswechsellauf-2027** – http://www.non-stop-ultra.de/
+  - neu: 6.11.
+  - weg: 15.september2026, 28.september2026, 29.september2026
+- **rureifel-trail-2027** – http://www.rureifel-trail.com/  (nennt jetzt das Jahr des Laufs)
+  - neu: –
+  - weg: 00:00uhr
 - **duesseldorf-marathon-2027** – https://www.duesseldorfmarathon.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: 04:09
-  - weg: 32:14
-- **lauf-aktiv-gegen-brustkrebs-bochum-laeuft-2027** – https://running.life/de/termine/lauf-aktiv-gegen-brustkrebs-bochum-lauft
-  - neu: ausverkauft
-  - weg: –
-- **fluerener-sparkassenhalbmarathon-2027** – http://www.gw-wesel-flueren.de/
-  - neu: 06.dezember2026
-  - weg: 26.märz2026, 19:30uhr
+  - neu: 23:07
+  - weg: 04:09
+- **mettmanner-bachlauf-2027** – http://www.me-sport.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: –
+  - weg: 11.11.2025, 2025
 - **osterather-mailauf-2027** – https://otv1893.de/
-  - neu: 08:30, 08:45, 10:15, 12:00, 12:20, 13:20, 13:30, 14:45, 16:00, 17:30, 18:30, 20:15, 20:30, 21:00, 21:30
-  - weg: 1.11., 09:00, 10:00, 15:00, 17:00, 21:15
-- **simmerather-kraremannslauf-2027** – http://www.hansa-simmerath.de  (nennt jetzt das Jahr des Laufs)
-  - neu: 14:00uhr
-  - weg: 12:00uhr
+  - neu: 09:30, 10:00, 10:10, 11:30, 11:40, 12:40
+  - weg: 10:15, 11:00, 11:15, 12:00, 12:15, 12:20, 13:20, 13:30, 14:45, 16:00, 17:15, 18:15, 19:30, 19:45, 20:15
+- **oetinghauser-volkslauf-2027** – https://www.sv06oetinghausen.de/
+  - neu: 10.juni2026, 14.mai2026, 20.juni, 20.juni2026, 30.april2026, 15:17, 16:04, 16:16, 16:29, 17:30uhr, 17:33, 17:37, 19:35, 20:07, 20:11
+  - weg: 15.september2026, 29.september2026, 6.september2026, 9.dezember, 19.30uhr
 - **residenz-abendlauf-hochstift-cup-2027** – https://www.tsv1887.de/
   - neu: –
-  - weg: 10.oktober, 7.oktober2026
+  - weg: 15.oktober2026, 20.oktober, 22.oktober
+- **maria-hilf-lauf-2027** – https://www.mariahilf.de/
+  - neu: 15.11.2026, 11:00uhr, 16:00uhr
+  - weg: 17:00uhr
 - **langeneicker-pfingstlauf-2027** – https://www.langeneicke.de/
-  - neu: 14.november2026
+  - neu: 15.november2026
   - weg: –
-- **int-volkslauf-und-wandertag-2027** – http://www.otsv.de/
-  - neu: –
-  - weg: 09.11.2026, 19:30uhr
-- **volkslauf-sv-bergwacht-rohren-2027** – https://www.hdsports.org/laufen/rohrener-volkslauf
-  - neu: 12.09.2027
-  - weg: –
-- **neusser-sommernachtslauf-2027** – http://www.neusser-sommernachtslauf.de  (nennt jetzt das Jahr des Laufs)
-  - neu: –
-  - weg: 15.11., 2.november2026, 9.november2026
-- **panoramalauf-balve-2027** – https://www.hdsports.org/laufen/panoramalauf-balve
-  - neu: 12.09.2027
-  - weg: –
-- **wartturmlauf-luebbecke-2027** – https://www.hdsports.org/laufen/wartturmlauf-luebbecke
-  - neu: 12.09.2027
+- **nationaler-stadtlauf-bad-oeynhausen-2027** – http://www.tg-werste.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 01.01.2027, 2027
+  - weg: 18.08.2026, 28.07.2026, 2026
+- **vfl-ahaus-stadtfestlauf-2027** – https://www.vflahaus.de/
+  - neu: 26.11.2026, 14:30uhr, 21:00uhr
   - weg: –
 - **bosselbachlauf-2027** – http://www.fc-germania-vossenack.de/
-  - neu: 06.juni, 15.mai
-  - weg: 01.januar, 05.august
-- **biber-backyard-ultra-lammersdorf-2027** – https://www.hdsports.org/laufen/biber-backyard-ultra-lammersdorf
-  - neu: 12.09.2027
+  - neu: 01.mai, 03.juli, 28.august
+  - weg: 01.oktober, 06.juni, 15.mai
+- **oesterweger-feuerwehrlauf-2027** – https://www.versmold.de/
+  - neu: 14.11.2026
   - weg: –
 - **volksbank-stadtlauf-selm-2027** – http://www.fokus-selm.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: 06.12.2026, 13.04.2027, 15.06.2027, 19.01.2027, 31.08.2027, 11.00uhr
-  - weg: 04.12.2027, 1.dezember2026, 17.04.2027, 24.01.2027, 11:00uhr, 19:30uhr, 20:00
+  - neu: 07.03.2027, 13.01.2028, 13.12.2026, 16.11.2027, 2028, 11:00uhr, 19.00uhr
+  - weg: 06.12.2026, 13.04.2027, 15.06.2027, 19.01.2027, 31.08.2027, 11.00uhr
 - **cross-und-quer-in-oberbruegge-2027** – http://www.tus-oberbruegge.de/
-  - neu: 18:00, 19:00, 19:00uhr, 19:30, 20:00uhr, 21:00uhr
-  - weg: 16:30, 18:00uhr, 20:00, 20:15, 20:45uhr, 21:15uhr
+  - neu: –
+  - weg: 06.11.2026, 12.09.2026
 - **oberhausener-kleeblatt-lauf-2027** – https://www.rwo1904.de/
-  - neu: 3.09.
-  - weg: 7.november
-- **buke-l-run-2027** – https://www.hdsports.org/laufen/buke-l-run
-  - neu: 12.09.2027
-  - weg: –
-- **gocher-steintorlauf-2027** – https://www.hdsports.org/laufen/gocher-steintorlauf
-  - neu: 12.09.2027
-  - weg: –
-- **inschildesche-lauf-schildsker-volkslauf-2027** – https://www.hdsports.org/laufen/schildsker-volkslauf
-  - neu: 12.09.2027
-  - weg: –
-- **giller-lauf-2027** – https://www.hdsports.org/laufen/giller-lauf
-  - neu: 12.09.2027
-  - weg: –
-- **bellerser-maka-windkraft-lauf-2027** – https://www.hdsports.org/laufen/bellerser-maka-windkraft-lauf
-  - neu: 12.09.2027
-  - weg: –
+  - neu: –
+  - weg: 18.november, 29.10.2026
+- **drevenacker-volksbank-abendlauf-2027** – http://www.tus-drevenack.de/
+  - neu: –
+  - weg: 13.juli2026
 - **koelner-zoolauf-2027** – http://koelner-zoolauf.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: 4:20
-  - weg: 4:16
-- **rheinuferlauf-duisburg-2027** – https://www.hdsports.org/laufen/rheinuferlauf-duisburg
-  - neu: 12.09.2027
-  - weg: –
-- **last-soul-ultra-2027** – https://www.hdsports.org/laufen/last-soul-ultra
-  - neu: 12.09.2027
-  - weg: –
+  - neu: 4:15
+  - weg: 4:20
+- **wasserstrassen-oktoberlauf-2027** – http://www.tus-wasserstrasse.de
+  - neu: 10.november2026, 23.november
+  - weg: 1.november2025, 25.oktober2025, 31.dezember2025, 35.oktober, 7.oktober2025
 - **tus-hiltrup-halbmarathon-2027** – https://www.tus-hiltrup.de/
-  - neu: 13.11., 2025
-  - weg: 02.11.2026
-- **eschweiler-citylauf-2027** – https://www.hdsports.org/laufen/internationaler-volkslauf-mit-nordic-walking-eschweiler
-  - neu: 12.09.2027
-  - weg: –
-- **duisburg-targobank-run-2027** – https://www.hdsports.org/laufen/duisburg-targobank-run
-  - neu: 12.09.2027
-  - weg: –
-- **lemgoer-hanselauf-2027** – http://www.tv-lemgo.de/
   - neu: –
-  - weg: 16:00uhr
-- **sommerabendlauf-koeln-2027** – https://www.hdsports.org/laufen/sommerabendlauf-koeln
-  - neu: 12.09.2027
-  - weg: –
-- **buf-bottroper-ultralauf-festival-mit-24h-dm-2027** – https://www.hdsports.org/laufen/buf-bottroper-ultralauf-festival
-  - neu: 12.09.2027
-  - weg: –
-- **lauf-monte-sophia-berglauf-hag-lauf-tv-huchem-stammeln-2027** – https://www.hdsports.org/laufen/heinrich-antons-gedaechtnis-lauf
-  - neu: 12.09.2027
-  - weg: –
+  - weg: 03.11.2026, 04.11.2026, 08.11., 18:15, 19:15uhr
 - **koelner-halbmarathon-die-generalprobe-2027** – http://www.koelner-halbmarathon.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: 4:21
-  - weg: 4:16
-- **max-buddels-fun-lauf-2027** – https://www.hdsports.org/laufen/max-buddels-fun-lauf
-  - neu: 12.09.2027
-  - weg: –
-- **magenta-lauf-muenster-2027** – https://www.hdsports.org/laufen/magenta-lauf-muenster
-  - neu: 12.09.2027
-  - weg: –
-- **hoeinger-heidelauf-2027** – https://www.hdsports.org/laufen/hoeinger-heidelauf
-  - neu: 12.09.2027
-  - weg: –
-- **intersport-urban-trail-run-duesseldorf-2027** – https://www.hdsports.org/laufen/intersport-urban-trail-run-i-duesseldorf
-  - neu: 12.09.2027
-  - weg: –
-- **puett-tage-lauf-beckum-2027** – https://www.hdsports.org/laufen/puett-tage-lauf-beckum
-  - neu: 12.09.2027
-  - weg: –
-- **volkslauf-im-walddorf-straberg-straberger-drittel-marathon-2027** – https://www.hdsports.org/laufen/volkslauf-mit-hm-im-walddorf-straberg
-  - neu: 12.09.2027
-  - weg: –
-- **wilnsdorfer-bahnlauf-stadionlauf-2027** – https://www.hdsports.org/laufen/wilnsdorfer-bahnlauf-stadionlauf
-  - neu: 12.09.2027
-  - weg: –
-- **herbstwaldlauf-und-hermann-brutscheid-gedaechtnislauf-fretter-2027** – https://www.hdsports.org/laufen/hermann-brutscheid-gedaechtnislauf
-  - neu: 12.09.2027
-  - weg: –
-- **volkslauf-eisbergen-2027** – https://www.hdsports.org/laufen/volkslauf-eisbergen
-  - neu: 12.09.2027
-  - weg: –
-- **altenaulauf-borchen-2027** – https://www.hdsports.org/laufen/altenaulauf
-  - neu: 12.09.2027
-  - weg: –
-- **bismarckturmlauf-herford-2027** – https://www.hdsports.org/laufen/bismarckturmlauf-herford
-  - neu: 12.09.2027
-  - weg: –
-- **eignerbachlauf-toenisheide-2027** – https://www.hdsports.org/laufen/eignerbachlauf-toenisheide
-  - neu: 12.09.2027
-  - weg: –
-- **lauf-mal-wieder-mit-in-schmidt-2027** – https://www.hdsports.org/laufen/lauf-mal-wieder-mit-in-schmidt
-  - neu: 12.09.2027
-  - weg: –
-- **sparkassen-stadtlauf-wachtendonk-2027** – https://www.wachtendonk.de
-  - neu: –
-  - weg: 15.10.2026, 25.10.2026
+  - neu: 4:15
+  - weg: 4:21
+- **stadtwerke-halbmarathon-bochum-2027** – https://stadtwerke-halbmarathon.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 01.02.2027, 12.mai2026, 30.juni2027, 5.september, anmeldung ab
+  - weg: 6.september, 6.september2026
 - **bergneustaedter-aggerenergie-und-sparkassen-nachtlauf-2027** – http://bergneustadt.de
-  - neu: 17:00, 22:00uhr
-  - weg: –
-- **bergisch-gladbacher-stadtlauf-2027** – https://www.hdsports.org/laufen/bergisch-gladbacher-stadtlauf
-  - neu: 12.09.2027
-  - weg: –
-- **klosterlauf-wiedenbrueck-2027** – https://kloster-wiedenbrueck.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 14.11.2026, 09:00, 10:30uhr
+  - weg: 18:00uhr
+- **citylauf-geilenkirchen-2027** – https://atvgeilenkirchen.de
   - neu: –
-  - weg: 16:00, 17:30
+  - weg: 07.11.2026
+- **klosterlauf-wiedenbrueck-2027** – https://kloster-wiedenbrueck.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 44:04
+  - weg: 29:24
 - **night-run-2027** – https://www.d-running.de/
-  - neu: 16:01
-  - weg: 40:18
-- **citylauf-verl-2027** – https://www.hdsports.org/laufen/citylauf-verl
-  - neu: 12.09.2027
+  - neu: 32:27
+  - weg: 16:01
+- **burscheider-stadtlauf-2027** – http://stadtsportverband-burscheid.de
+  - neu: 2027
   - weg: –
-- **auto-mattern-waelle-lauf-2027** – https://www.hdsports.org/laufen/auto-mattern-waelle-lauf
-  - neu: 12.09.2027
-  - weg: –
-- **herbstlauf-ovenhausen-2027** – https://www.hdsports.org/laufen/herbstlauf-ovenhausen
-  - neu: 12.09.2027
-  - weg: –
-- **korschenbroicher-waldlauf-2027** – https://www.hdsports.org/laufen/korschenbroicher-waldlauf
-  - neu: 12.09.2027
-  - weg: –
-- **koeln-marathon-2027** – https://www.hdsports.org/laufen/koeln-marathon
-  - neu: 12.09.2027
-  - weg: –
-- **luftschifflauf-2027** – https://www.hdsports.org/laufen/luftschifflauf
-  - neu: 12.09.2027
-  - weg: –
-- **phoenix-halbmarathon-dortmund-2027** – https://www.hdsports.org/laufen/phoenix-halbmarathon
-  - neu: 12.09.2027
-  - weg: –
-- **ret-team-backyard-kreuzau-2027** – https://www.hdsports.org/laufen/ret-team-backyard-kreuzau
-  - neu: 12.09.2027
-  - weg: –
-- **seelauf-essen-baldeneysee-2027** – https://www.hdsports.org/laufen/seelauf-essen
-  - neu: 12.09.2027
-  - weg: –
-- **stimberg-haard-lauf-2027** – https://www.hdsports.org/laufen/stimberg-haard-lauf
-  - neu: 12.09.2027
-  - weg: –
-- **volks-und-feuerwehrlauf-rhede-2027** – https://www.hdsports.org/laufen/volks-und-feuerwehrlauf-rhede
-  - neu: 12.09.2027
-  - weg: –
-- **olsberg-bewegt-inklusionslauf-2027** – https://www.hdsports.org/laufen/olsberg-bewegt-inklusionslauf
-  - neu: 12.09.2027
-  - weg: –
-- **brakelsieker-volkslauf-am-fusse-des-moerth-s-2027** – https://www.hdsports.org/laufen/brakelsieker-volkslauf-schieder-schwalenberg
-  - neu: 12.09.2027
-  - weg: –
-- **coesfelder-citylauf-2027** – https://www.hdsports.org/laufen/coesfelder-citylauf
-  - neu: 12.09.2027
-  - weg: –
-- **lichterlauf-in-steckenborn-2027** – https://www.hdsports.org/laufen/lichterlauf-in-steckenborn
-  - neu: 12.09.2027
-  - weg: –
-- **mederun-medebach-2027** – https://www.hdsports.org/laufen/mederun-medebach
-  - neu: 12.09.2027
-  - weg: –
-- **viersener-herbstwaldlauf-rund-um-den-bismarckturm-2027** – https://www.hdsports.org/laufen/71-viersener-herbstwaldlauf-rund-um-den-bismarckturm
-  - neu: 12.09.2027
-  - weg: –
-- **wadersloher-volkslauf-2027** – https://www.hdsports.org/laufen/wadersloher-volkslauf
-  - neu: 12.09.2027
-  - weg: –
-- **crosslauf-durch-das-backumer-tal-2027** – https://www.hdsports.org/laufen/crosslauf-durch-das-backumer-tal
-  - neu: 12.09.2027
-  - weg: –
-- **geilenkirchener-volkslauf-tdjk-gillrath-2027** – https://www.hdsports.org/laufen/geilenkirchener-volkslauf
-  - neu: 12.09.2027
-  - weg: –
-- **marathon-essen-rund-um-den-baldeneysee-westenergie-marathon-2027** – https://www.hdsports.org/laufen/essen-marathon
-  - neu: 12.09.2027
-  - weg: –
-- **pink-5k-dortmund-2027** – https://www.hdsports.org/laufen/pink-5k-dortmund
-  - neu: 12.09.2027
-  - weg: –
-- **porta-strassen-volkslauf-2027** – https://www.hdsports.org/laufen/porta-strassen-volkslauf
-  - neu: 12.09.2027
-  - weg: –
-- **herbstlauf-lsv-porz-2027** – https://www.hdsports.org/laufen/porzer-herbstlauf
-  - neu: 12.09.2027
-  - weg: –
-- **rothaarsteig-marathon-schmallenberg-2027** – https://www.hdsports.org/laufen/rothaarsteig-marathon
-  - neu: 12.09.2027
-  - weg: –
-- **almetal-marathon-paderborn-2027** – https://www.hdsports.org/laufen/almetal-marathon-paderborn
-  - neu: 12.09.2027
-  - weg: –
-- **drei-bruecken-lauf-bonn-2027** – https://www.hdsports.org/laufen/drei-bruecken-lauf-bonn
-  - neu: 12.09.2027
-  - weg: –
-- **hambacher-herbstwaldlauf-2027** – https://www.hdsports.org/laufen/hambacher-herbstwaldlauf
-  - neu: 12.09.2027
-  - weg: –
-- **herbstwaldlauf-neubeckum-2027** – https://www.hdsports.org/laufen/herbstwaldlauf-beckum
-  - neu: 12.09.2027
-  - weg: –
-- **muengstener-brueckenlauf-2027** – https://www.hdsports.org/laufen/muengstener-brueckenlauf
-  - neu: 12.09.2027
-  - weg: –
-- **pink-5k-duesseldorf-2027** – https://www.hdsports.org/laufen/pink-5k-duesseldorf
-  - neu: 12.09.2027
-  - weg: –
-- **altendorf-ersdorfer-obstmeilenlauf-2027** – https://www.hdsports.org/laufen/altendorf-ersdorfer-obstmeilenlauf
-  - neu: 12.09.2027
-  - weg: –
-- **hauberg-lauf-helberhausen-2027** – https://www.hdsports.org/laufen/hauberg-lauf-helberhausen
-  - neu: 12.09.2027
-  - weg: –
-- **nordwalder-laufspektakel-2027** – https://www.hdsports.org/laufen/nordwalder-laufspektakel
-  - neu: 12.09.2027
-  - weg: –
-- **pink-5k-koeln-2027** – https://www.hdsports.org/laufen/pink-5k-koeln
-  - neu: 12.09.2027
-  - weg: –
-- **schmachtendorfer-nikolauslauf-2027** – https://www.sterkrade-nord.de/nikolauslauf
-  - neu: 22.11.2026, 23.11.2026
-  - weg: 15.11.2026, 16.11.2026
-- **winterserie-post-sv-lehrte-2026** – https://www.hdsports.org/laufen/winterserie-post-sv-lehrte
-  - neu: 12.09.2027
+- **geilenkirchener-crosslauf-2027** – http://www.atvgeilenkirchen.de
+  - neu: –
+  - weg: 07.11.2026
+- **sechtemer-burgenlauf-2027** – https://running.life/de/termine/sechtemer-burgenlauf
+  - neu: 29.08.2027, 2025
+  - weg: 29.august2027, 30.august2026
+- **hermann-loens-park-lauf-2026** – http://www.loensparklauf.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: nachmeldung
   - weg: –
 - **goettinger-cross-serie-lauf-1-2026, goettinger-cross-serie-lauf-2-2026, goettinger-cross-serie-lauf-3-2027** – http://www.lggoettingen.de  (nennt jetzt das Jahr des Laufs)
-  - neu: 09.august2013, 10.mai2015, 14.september2025, 17.märz2024, 22.mai2012, 29.september2013, 31.dezember2007, 2025
-  - weg: 03.april2019, 04.oktober2012, 13.dezember2018, 16.juni2009, 16.märz2026, 22.juli2008, 23.januar2017
-- **stadion-crosslauf-2026** – https://www.tsvkirchdorf.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: –
-  - weg: 02.11.
-- **winterserie-post-sv-lehrte-4-lauf-2026** – https://www.hdsports.org/laufen/winterserie-post-sv-lehrte-4-lauf
-  - neu: 12.09.2027
+  - neu: 04.juni2011, 07.oktober2013, 07.oktober2025, 12.dezember2012, 12.mai2009, 18.dezember2014, 25.februar2018
+  - weg: 09.august2013, 10.mai2015, 10.september2026, 14.september2025, 17.märz2024, 22.mai2012, 29.september2013, 31.dezember2007
+- **rossmann-nikolauslauf-2026, der-formtest-2027, adac-marathon-hannover-2027** – https://www.marathon-hannover.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 11.april
+  - weg: 08.09.2026
+- **erzsteig-ueber-hueggel-gipfel-ultratrail-2026** – https://running.life/de/termine/erzsteig-uber-huggel-gipfel-ultratrail/2026-12-30
+  - neu: 18:00uhr
   - weg: –
-- **psv-winterlaufserie-holzminden-2026** – https://www.psv-holzminden.de/termine-winterlaufserie/  (nennt jetzt das Jahr des Laufs)
-  - neu: –
-  - weg: 14:00uhr
-- **winterlauf-und-wanderserie-des-tus-jaderberg-4-lauf-2026, winterlauf-und-wanderserie-des-tus-jaderberg-3-lauf-2026, winterlauf-und-wanderserie-des-tus-jaderberg-5-lauf-2026, winterlauf-und-wanderserie-des-tus-jaderberg-7-lauf-2027, winterlauf-und-wanderserie-des-tus-jaderberg-9-lauf-2027, winterlauf-und-wanderserie-des-tus-jaderberg-10-lauf-2027** – https://www.hdsports.org/laufen/winterlauf-und-wanderserie-des-tus-jaderberg-4-lauf
-  - neu: 12.09.2027
-  - weg: –
-- **weihnachtszauber-hamburg-2026** – https://www.hdsports.org/laufen/weihnachtszauber-hamburg
-  - neu: 12.09.2027
-  - weg: –
-- **bramfelder-winterlaufserie-2-lauf-2026** – https://www.hdsports.org/laufen/bramfelder-winterlauf-serie-2-lauf
-  - neu: 12.09.2027
-  - weg: –
-- **winterlaufserie-beverstedt-wellen-2-lauf-2026, winterlaufserie-beverstedt-wellen-2-lauf-2027, winterlaufserie-beverstedt-wellen-2027** – https://www.hdsports.org/laufen/winterlaufserie-beverstedt-wellen-2-lauf
-  - neu: 12.09.2027
-  - weg: –
-- **winterlauf-serie-stadthagen-4-lauf-2026** – https://www.hdsports.org/laufen/winterlauf-serie-stadthagen-4-lauf
-  - neu: 12.09.2027
-  - weg: –
-- **silvesterlauf-an-der-leine-hannover-2026, silvesterlauf-an-der-leine-hannover-2027** – http://www.silvesterlauf-an-der-leine.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: 17.07.2027
-  - weg: –
-- **silvesterlauf-des-tsv-poggenhagen-von-1946-e-v-2026, intern-steinhuder-meer-lauf-2027** – http://www.tsv-poggenhagen1946.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: –
-  - weg: 15.10.2026
-- **winterserie-post-sv-lehrte-8-lauf-2027** – https://www.hdsports.org/laufen/winterserie-post-sv-lehrte-8-lauf
-  - neu: 12.09.2027
-  - weg: –
-- **langfoerdener-sgh-lauf-2027** – https://www.hdsports.org/laufen/sgh-lauf-langfoerden-rund-um-den-bomhof
-  - neu: 12.09.2027
-  - weg: –
-- **winterlauf-und-wanderserie-des-tus-jaderberg-6-lauf-2027** – https://www.hdsports.org/laufen/winterlauf-und-wanderserie-des-tus-jaderberg-6-lauf
-  - neu: 12.09.2027
-  - weg: –
-- **bramfelder-winterlauf-serie-3-lauf-2027** – https://www.hdsports.org/laufen/bramfelder-winterlauf-serie-3-lauf
-  - neu: 12.09.2027
-  - weg: –
+- **winser-silvesterlauf-2026** – http://www.mtv-fichte.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 10.11.2026, 22.oktober2026
+  - weg: 18.10.2026, 19.10.2026, 21.04.2026
+- **silvesterlauf-hannover-2026** – http://www.silvesterlauf-hannover.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 11.april, 2027
+  - weg: 08.09.2026
 - **winterlauf-durch-den-georgengarten-2027** – https://www.dhc-hannover.de/
-  - neu: 25.september2022, 3.april2025, 30.märz2025, 4.mai2025, 5.november2024
-  - weg: 1.januar2021, 12.mai2026, 16.april2026, 18.dezember2025, 2.april2025
-- **winterlaufserie-beverstedt-wellen-3-lauf-2027** – https://www.hdsports.org/laufen/winterlaufserie-beverstedt-wellen-3-lauf
-  - neu: 12.09.2027
-  - weg: –
+  - neu: 1.januar2021, 10.april2024
+  - weg: 25.september2022, 3.april2025, 30.märz2025
 - **ems-dollart-winterlaufserie-2027** – http://tv-bunde.de/
-  - neu: 21:30uhr
-  - weg: 22:00uhr
-- **winterserie-post-sv-lehrte-11-lauf-2027** – https://www.hdsports.org/laufen/winterserie-post-sv-lehrte-11-lauf
-  - neu: 12.09.2027
-  - weg: –
-- **winterlauf-und-wanderserie-des-tus-jaderberg-8-lauf-2027** – https://www.hdsports.org/laufen/winterlauf-und-wanderserie-des-tus-jaderberg-8-lauf
-  - neu: 12.09.2027
-  - weg: –
-- **winterlaufserie-tv-georgsmarienhuette-2-lauf-2027** – https://www.hdsports.org/laufen/winterlaufserie-tv-georgsmarienhuette-2-lauf
-  - neu: 12.09.2027
-  - weg: –
-- **ems-dollart-winterlaufserie-stapelmoor-2027** – https://www.hdsports.org/laufen/ems-dollart-winterlaufserie-2-lauf
-  - neu: 12.09.2027
-  - weg: –
-- **winterserie-post-sv-lehrte-15-lauf-2027** – https://www.hdsports.org/laufen/winterserie-post-sv-lehrte-15-lauf
-  - neu: 12.09.2027
-  - weg: –
-- **bramfelder-winterlaufserie-4-lauf-2027** – https://www.hdsports.org/laufen/bramfelder-winterlauf-serie-4-lauf
-  - neu: 12.09.2027
-  - weg: –
-- **halbmarathon-sv-eidelstedt-hamburg-2027** – https://www.hdsports.org/laufen/3-halbmarathon-sv-eidelstedt-hamburg
-  - neu: 12.09.2027
+  - neu: 18:00uhr
+  - weg: 17:00uhr, 20:00uhr, 21:00uhr
+- **winterlauf-luechow-2027** – http://www.igaswendland.de/
+  - neu: 12.dezember, 20.februar, 23.januar, 7.november
   - weg: –
 - **vorfruehlings-crosslauf-worpswede-2027** – http://www.tsv-worpswede.de  (nennt jetzt das Jahr des Laufs)
-  - neu: 09:00, 10:00uhr, 15:00, 16:00, 16:00uhr, 17:00, 17:00uhr, 19:00uhr, 19:30
-  - weg: 08:45, 10:15uhr, 13:00, 14:00uhr, 14:15, 14:30, 16:15uhr, 17:15, 18:15, 18:15uhr, 18:30, 18:30uhr, 18:45, 19:45uhr, 20:00
+  - neu: 10:30, 11:30uhr, 11:45, 12:45uhr, 16:45, 17:45uhr, 18:00, 18:30, 18:30uhr, 18:45, 19:30uhr, 19:45uhr, 20:00, 20:00uhr, 21:00uhr
+  - weg: 09:00, 10:00uhr, 21:30uhr
 - **buun-loeppt-2027** – https://www.tv-bunde.de/
-  - neu: 21:30uhr
-  - weg: 22:00uhr
-- **langeooger-osterlauf-2027, langeooger-sanddornlauf-2027** – https://www.langeoog.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: 01.12.2026, 22.08.2027, 2026
-  - weg: 21.august
-- **citylauf-papenburg-2027** – https://lg-papenburg-aschendorf.de/
-  - neu: –
-  - weg: 5.9.
-- **pattensen-laeuft-mtv-crosslauf-2027** – https://www.hdsports.org/laufen/pattensen-laeuft
-  - neu: 12.09.2027
+  - neu: 18:00uhr
+  - weg: 17:00uhr, 20:00uhr, 21:00uhr
+- **fruehlingslauf-badbergen-2027, eggermuehlener-volkslauf-2027, ankumer-dorflauf-2027, kettenkamper-volkslauf-2027, alfhausener-volkslauf-2027, hase-lauf-bersenbrueck-2027** – http://www.sparkassen-cup.com/
+  - neu: 28.11.2026, 5.dezember2026
   - weg: –
+- **langeooger-osterlauf-2027, langeooger-sanddornlauf-2027** – https://www.langeoog.de/
+  - neu: –
+  - weg: 22.08.2027
+- **quakenbruecker-hase-run-2027** – http://www.sparkassen-cup.com
+  - neu: 28.11.2026, 5.dezember2026
+  - weg: –
+- **schiffdorfer-fruehlings-lauf-2027** – https://www.turnverein-schiffdorf.de/
+  - neu: –
+  - weg: 12.09., 17.10., 21.11., 26.09., 28.11., 31.10., 15:00, 17:30uhr
 - **wolfsburg-run-powered-by-vfl-wolfsburg-e-v-2027** – https://vfl-wob.de/
   - neu: –
-  - weg: 06.11.2026, 14.10.2026
-- **vegesacker-citylauf-2027** – https://www.hdsports.org/laufen/vegesacker-citylauf
-  - neu: 12.09.2027
+  - weg: 16.10.2026
+- **wustrower-stadt-und-friedenslauf-2027** – http://igaswendland.de
+  - neu: 12.dezember, 20.februar, 23.januar, 7.november
   - weg: –
-- **liebenauer-volkslauf-2027** – http://www.mtv-liebenau.de  (nennt jetzt das Jahr des Laufs)
-  - neu: 08.10.2025, 10.01.2027, 2027, 10:15uhr, 12:30uhr
-  - weg: 13.11.2024, 22.10.2024
-- **volkswandertag-willershausen-2027** – https://www.hdsports.org/laufen/jubilaeums-volkswandertag
-  - neu: 12.09.2027
+- **gesmolder-bifurkationslauf-2027** – http://www.laufen-os.de  (nennt jetzt das Jahr des Laufs)
+  - neu: 20.november, 22.november2026
   - weg: –
 - **vr-bank-abendlauf-2027** – https://www.eintracht-neuenkirchen.de/
-  - neu: 2026
+  - neu: 24.10.
   - weg: –
-- **grossenkneter-zehnmeilenlauf-2027** – https://www.hdsports.org/laufen/grossenkneter-zehnmeilenlauf
-  - neu: 12.09.2027
-  - weg: –
-- **urban-strides-hannover-2027** – https://www.hdsports.org/laufen/urban-strides-hannover
-  - neu: 12.09.2027
-  - weg: –
-- **ossiloop-ostfrieslandlauf-nortmoor-leer-2027** – https://www.hdsports.org/laufen/ossiloop-ostfrieslandlauf-gut-nortmoor
-  - neu: 12.09.2027
-  - weg: –
-- **zoo-run-hannover-2027** – https://www.zoo-hannover.de/de
-  - neu: 14.11.2026, 11:00uhr
-  - weg: –
-- **stadtwerke-soltau-lauf-2027** – http://www.mtv-soltau.de/
+- **wald-und-wiesenlauf-2027** – http://www.mtv-salzhausen.de
+  - neu: 8.november2026
+  - weg: 10.5.2026
+- **einbecker-bierstadtlauf-2027** – http://www.bierstadtlauf.de  (nennt jetzt das Jahr des Laufs)
   - neu: –
-  - weg: 21.oktober2026, 22.11.2026, 29.oktober2026
+  - weg: 03.11.2026
+- **waldlauf-eckernworth-2027** – https://www.tvjahn-walsrode.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: –
+  - weg: 10.11.2026
 - **deichlauf-2027** – http://www.tus-hohnstorf.de/
-  - neu: 10:00, 11:00, 11:15, 12:15, 16:00, 17:00, 17:30, 18:30, 19:30, 20:30, 20:45, 9:00
-  - weg: 10:30, 11:30, 17:45, 21:00, 8:30, 9:30
-- **steinwiesenlauf-2027** – https://www.hdsports.org/laufen/2-steinwiesenlauf
-  - neu: 12.09.2027
+  - neu: 15:00, 18:45, 21:00, 8:30, 9:30
+  - weg: 11:00, 11:15, 12:15, 18:30, 19:30, 20:45
+- **osnabruecker-mittsommernachtslauf-2027** – https://www.laufen-os.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 20.november, 22.november2026
   - weg: –
-- **windmuehlenlauf-gross-mimmelage-2027** – https://www.hdsports.org/laufen/windmuehlenlauf-gross-mimmelage
-  - neu: 12.09.2027
-  - weg: –
-- **binner-abendlauf-2027** – http://www.sjb-binnen.de/
-  - neu: 01.12., 05.12., 06.02., 13.03., 19.02., 20.02., 28.03.
-  - weg: 13.12.2022, 21.01.2023, 27.01.2023
-- **nordseelauf-norderney-2-etappe-2027** – https://www.hdsports.org/laufen/ewe-nordseelauf-2-etappe
-  - neu: 12.09.2027
-  - weg: –
-- **finienlauf-2027** – https://www.finienlauf.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: 25.06.2027, 25.juni2027, 2027
-  - weg: 26.06.2026, 26.juni2026, 2026
 - **benefizlauf-fuer-den-landkreis-helmstedt-jubilaeumslauf-2027** – http://www.stadt-helmstedt.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: 03.05.2013, 14.11.2026
-  - weg: 21.11.2026, 29.10.2026, 5.november
-- **sommerlaufserie-des-tv-georgsmarienhuette-2027** – https://www.hdsports.org/laufen/sommerlaufserie-des-tv-georgsmarienhuette
-  - neu: 12.09.2027
+  - neu: 20.november, 21.11.2026, 10.30uhr
+  - weg: 04.11.2026, 15:30, 19:30
+- **luechower-zehner-mit-km-2027** – https://www.igaswendland.de
+  - neu: 12.dezember, 20.februar, 23.januar, 7.november
   - weg: –
-- **langstrecken-auf-der-bahn-luechow-2027** – https://www.hdsports.org/laufen/langstrecken-auf-der-bahn-luechow
-  - neu: 12.09.2027
+- **grafelder-volkslauf-2027** – http://www.sparkassen-cup.com/?Wertungslaeufe
+  - neu: 28.11.2026, 5.dezember2026
   - weg: –
-- **sommerlaufserie-des-tv-georgsmarienhuette-4-lauf-2027** – https://www.hdsports.org/laufen/sommerlaufserie-des-tv-georgsmarienhuette-4-lauf
-  - neu: 12.09.2027
+- **wildkatzenlauf-2027** – http://www.bund-niedersachsen.de/
+  - neu: –
+  - weg: 27.oktober2026, 28.oktober2026, 29.oktober2026
+- **tuchmacher-stadtlauf-2027** – https://www.sparkassen-cup.com/index.php
+  - neu: 28.11.2026, 5.dezember2026
   - weg: –
-- **hannover-backyard-ultra-2027** – https://www.hdsports.org/laufen/hannover-backyard-ultra
-  - neu: 12.09.2027
-  - weg: –
-- **dorflauf-negenbargen-jackstede-2027** – https://www.hdsports.org/laufen/wittmunder-dorffest-lauf-negenbargen-jackstede
-  - neu: 12.09.2027
-  - weg: –
-- **echemer-dorflauf-2027** – https://www.hdsports.org/laufen/echemer-dorflauf
-  - neu: 12.09.2027
-  - weg: –
-- **sommerlaufserie-des-tv-georgsmarienhuette-7-lauf-2027** – https://www.hdsports.org/laufen/sommerlaufserie-des-tv-georgsmarienhuette-7-lauf
-  - neu: 12.09.2027
-  - weg: –
-- **mulsumer-abendlauf-2027** – https://www.hdsports.org/laufen/mulsumer-abendlauf
-  - neu: 12.09.2027
-  - weg: –
-- **ruhm-rosengarten-ultra-heide-marathon-2027** – https://www.hdsports.org/laufen/ruhm-rosengarten-ultra-heide-marathon
-  - neu: 12.09.2027
-  - weg: –
-- **lauf-durch-die-nemitzer-heide-2027** – https://www.hdsports.org/laufen/lauf-durch-die-nemitzer-heide
-  - neu: 12.09.2027
-  - weg: –
-- **alsterlauf-hamburg-2027** – https://www.hdsports.org/laufen/alsterlauf-hamburg
-  - neu: 12.09.2027
-  - weg: –
-- **sommerlaufserie-des-tv-georgsmarienhuette-10-lauf-2027** – https://www.hdsports.org/laufen/sommerlaufserie-des-tv-georgsmarienhuette-10-lauf
-  - neu: 12.09.2027
-  - weg: –
-- **volkslauf-meine-2027** – https://www.hdsports.org/laufen/volkslauf-meine
-  - neu: 12.09.2027
-  - weg: –
-- **teiche-marathon-hahnenklee-2027** – https://www.hdsports.org/laufen/10-teiche-marathon-hahnenklee-oberharz
-  - neu: 12.09.2027
-  - weg: –
-- **nordhorner-meile-2027** – https://www.hdsports.org/laufen/nordhorner-meile
-  - neu: 12.09.2027
-  - weg: –
-- **pace-race-hamburg-2027** – https://www.hdsports.org/laufen/pace-race-hamburg
-  - neu: 12.09.2027
-  - weg: –
+- **fem-run-powered-by-infa-2027** – https://www.femrun.de/
+  - neu: 11.april, 2027
+  - weg: 08.09.2026
 - **swb-marathon-bremen-2027** – https://swb-marathon.com/  (nennt jetzt das Jahr des Laufs)
-  - neu: 33:31, 38:26
-  - weg: 25:39
-- **edeka-ladage-lauf-wennigsen-2027** – https://www.hdsports.org/laufen/cruising-lauf-als-nachtlauf
-  - neu: 12.09.2027
+  - neu: 15:02
+  - weg: 34:12
+- **duinger-berglauf-2027** – https://sportclub-duingen.com/
+  - neu: 2027
   - weg: –
+- **ziegeleilauf-2027** – http://ziegelei-twistringen.de/
+  - neu: 11.06., 13.06.
+  - weg: 20.03.
 - **red-bull-wattlauf-2027** – https://www.redbull.com/de-de/events/red-bull-wattlauf/
-  - neu: 2026, 12:20
-  - weg: –
-- **cloppenburger-citylauf-2027** – https://www.cloppenburg.de/
-  - neu: 9.november
-  - weg: 1.november
+  - neu: –
+  - weg: 2026, 12:20
+- **burgdorfer-spargel-lauf-2027** – http://www.vvvburgdorf.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 10.november2026
+  - weg: 2.november2026, 8.november
+- **duemmerlauf-2027** – https://sw-osterfeine.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: –
+  - weg: 4.november2026, 27:14, 31:24, 33:28
 - **l3-laatzen-leinwiesen-lauf-2027** – https://www.laatzen.de
-  - neu: 21.11.2026
-  - weg: –
-- **volkslauf-des-tus-altwarmbuechen-awb-see-2027** – https://www.hdsports.org/laufen/volkslauf-des-tus-altwarmbuechen
-  - neu: 12.09.2027
+  - neu: 16.november
+  - weg: 03.11.2026, 2.november2026
+- **warzer-esellauf-2027** – http://tsv-warzen.de/
+  - neu: 30.november
   - weg: –
 - **h-21-hannover-2027** – https://www.halbmarathon-hannover.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: –
-  - weg: 15.november2026
-- **rodewalder-eulenlauf-2027** – https://www.hdsports.org/laufen/rodewalder-eulenlauf
-  - neu: 12.09.2027
+  - neu: 11.april
+  - weg: 08.09.2026
+- **wendlandmarathon-2027** – http://www.igaswendland.de
+  - neu: 12.dezember, 20.februar, 23.januar, 7.november
   - weg: –
-- **speicherstadtlauf-2027** – https://www.hdsports.org/laufen/speicherstadtlauf
-  - neu: 12.09.2027
-  - weg: –
-- **braunschweiger-lauftage-braunschweig-wolfenbuettel-marathon-2027** – https://www.hdsports.org/laufen/braunschweig-marathon
-  - neu: 12.09.2027
-  - weg: –
-- **oldenburg-marathon-2027** – https://www.hdsports.org/laufen/city-lauf-und-oldenburg-marathon
-  - neu: 12.09.2027
-  - weg: 24.10.2027
-- **ricklinger-volkslauf-2027** – https://www.hdsports.org/laufen/ricklinger-volkslauf
-  - neu: 12.09.2027
-  - weg: –
-- **winterlauf-und-wanderserie-des-tus-jaderberg-2027** – https://www.hdsports.org/laufen/winterlauf-und-wanderserie-des-tus-jaderberg
-  - neu: 12.09.2027
-  - weg: –
-- **hyrox-hamburg-2027** – https://www.hdsports.org/laufen/hyrox-hamburg
-  - neu: 12.09.2027
-  - weg: –
-- **halloween-run-rotenburg-wuemme-2027** – https://www.hdsports.org/laufen/halloween-lauf-rotenburg-wuemme
-  - neu: 12.09.2027
-  - weg: –
-- **muendener-altstadtlauf-2027** – https://www.hdsports.org/laufen/muendener-altstadtlauf
-  - neu: 12.09.2027
-  - weg: –
-- **bothfelder-waldlauf-2027** – https://www.hdsports.org/laufen/bothfelder-waldlauf
-  - neu: 12.09.2027
-  - weg: –
-- **herbsthaerte-hitzacker-elbe-2027** – https://www.hdsports.org/laufen/herbsthaerte-hitzacker-elbe
-  - neu: 12.09.2027
-  - weg: –
-- **meller-crosslauf-2027** – https://www.hdsports.org/laufen/meller-crosslauf
-  - neu: 12.09.2027
-  - weg: –
-- **harlingerland-volkslauf-mit-walking-und-handbike-2027** – https://www.hdsports.org/laufen/harlingerland-volkslauf-mit-walking-und-handbike
-  - neu: 12.09.2027
-  - weg: –
-- **elbmarsch-marathon-2027** – https://www.hdsports.org/laufen/elbmarsch-marathon
-  - neu: 12.09.2027
-  - weg: –
-- **quickborn-run-ueber-5-km-und-10-km-2026** – http://www.quickbo-run.de/
-  - neu: 07.11.2027, 2027
-  - weg: 08.11.2026, 2026
 - **crosslauf-am-rodelberg-2026** – https://www.vfl-pinneberg.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: 08.11.2026
-  - weg: 23.10.2026
-- **klausdorfer-nikolauslauf-2026** – http://www.tsv-klausdorf.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: 01.12.2026, 8.11.2026, 17:00, 18:30
-  - weg: 16.oktober2026, 18:30uhr, 21:00
-- **der-reporter-lauf-2027** – https://www.der-reporter.de/startseite/  (nennt jetzt das Jahr des Laufs)
-  - neu: 000euro
-  - weg: 02.11.2026, 03.11.2026, 1.november2026, 27.oktober2026, 7.november
-- **huehnerbrueckenlauf-2027** – http://mtv-handball.de/
-  - neu: 03.05.2019, 09.11., 1.2., 3.2., 20:30
-  - weg: 05.10.2026, 07.11., 24.04.2015, 11:00, 23:24
-- **helgoland-marathon-2027** – https://www.hdsports.org/laufen/helgoland-marathon
-  - neu: 12.09.2027
-  - weg: –
-- **amrumer-mukoviszidose-lauf-2027** – https://www.hdsports.org/laufen/amrumer-mukoviszidose-lauf
-  - neu: 12.09.2027
-  - weg: –
-- **boostedtlauf-2027** – https://www.hdsports.org/laufen/boostedtlauf
-  - neu: 12.09.2027
-  - weg: –
-- **tine-flugplatzlauf-husum-schwesing-2027** – https://www.hdsports.org/laufen/tine-flugplatzlauf-husum-schwesing
-  - neu: 12.09.2027
-  - weg: –
-- **dalbeklauf-escheburg-2027** – https://www.hdsports.org/laufen/dalbeklauf-escheburg
-  - neu: 12.09.2027
-  - weg: –
-- **donatus-lauf-kloevensteen-2027** – https://www.hdsports.org/laufen/donatus-lauf-koelventeen
-  - neu: 12.09.2027
-  - weg: –
-- **stadtlauf-norderstedt-friedrichsgabe-2027** – https://www.hdsports.org/laufen/arriba-stadtlauf-friedrichsgabe
-  - neu: 12.09.2027
-  - weg: –
-- **glueckstaedter-citylauf-2027** – https://www.hdsports.org/laufen/glueckstaedter-citylauf
-  - neu: 12.09.2027
-  - weg: –
-- **hafentagelauf-husum-2027** – https://www.hdsports.org/laufen/hafentagelauf
-  - neu: 12.09.2027
-  - weg: –
-- **moellner-city-lauf-2027** – https://www.hdsports.org/laufen/moellner-city-lauf
-  - neu: 12.09.2027
-  - weg: –
-- **stadtwerkelauf-pinneberg-2027** – http://www.vfl-pinneberg.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: 08.11.2026
-  - weg: 23.10.2026
-- **insellauf-rund-um-amrum-2027** – https://www.amrum.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: 01.08.2027
-  - weg: 24.08.2027
-- **luebeck-marathon-2027** – https://swhl-marathon.de/
-  - neu: 06.12.2026, 2027, 20:27uhr
-  - weg: –
-- **lg-alsternord-herbstwaldlauf-norderstedt-2027** – https://www.hdsports.org/laufen/lg-alsternord-herbstwaldlauf-norderstedt
-  - neu: 12.09.2027
-  - weg: –
-- **tiergarten-cross-schleswig-2027** – https://www.hdsports.org/laufen/tiergarten-cross-schleswig
-  - neu: 12.09.2027
-  - weg: –
-- **fishermanstrail-fmt-winter-edition-2027** – https://www.hdsports.org/laufen/fishermanstrail-fmt-winter-edition
-  - neu: 12.09.2027
-  - weg: –
-- **ostseewinterweg-2027** – https://www.hdsports.org/laufen/ostseewinterweg
-  - neu: 12.09.2027
-  - weg: –
-- **osterlauf-wismar-2027** – https://www.hdsports.org/laufen/osterlauf-wismar
-  - neu: 12.09.2027
-  - weg: –
-- **recknitztallauf-2027** – https://www.hdsports.org/laufen/recknitztallauf
-  - neu: 12.09.2027
-  - weg: –
-- **zingster-deichlauf-2027** – https://www.hdsports.org/laufen/zingster-deichlauf
-  - neu: 12.09.2027
-  - weg: –
-- **ostseeweg-kuehlunsborn-seaborn-2027** – https://www.hdsports.org/laufen/ostseeweg-seaborn
-  - neu: 12.09.2027
-  - weg: –
-- **city-sport-abendlauf-rostock-2027** – https://www.hdsports.org/laufen/city-sport-abendlauf
-  - neu: 12.09.2027
-  - weg: –
-- **selliner-seebrueckenlauf-lauf-ii-2027** – https://www.hdsports.org/laufen/selliner-seebrueckenlauf-lauf-ii
-  - neu: 12.09.2027
-  - weg: –
-- **herbstlauf-waren-mueritz-2027** – https://www.hdsports.org/laufen/herbstlauf-waren
-  - neu: 12.09.2027
-  - weg: –
-- **citylauf-buetzow-2027** – https://www.hdsports.org/laufen/buetzower-citylauf
-  - neu: 12.09.2027
-  - weg: –
-- **ostseeweg-ruegen-2027** – https://www.hdsports.org/laufen/ostseeweg-ruegen
-  - neu: 12.09.2027
-  - weg: –
-- **fishermanstrail-fmt-sommer-edition-2027** – https://www.hdsports.org/laufen/fishermanstrail-fmt-sommer-edition
-  - neu: 12.09.2027
-  - weg: –
-- **herbstcross-eggesin-karpin-2027** – https://www.ksbv-g.de/
-  - neu: 4.november2026, 5.november2026, 9.november2026
-  - weg: –
-- **stralsunder-hochschullauf-2027** – https://www.hdsports.org/laufen/stralsunder-fachhochschullauf
-  - neu: 12.09.2027
-  - weg: –
-- **schnelsener-moorlauf-2027** – https://running.life/de/termine/schnelsener-moorlauf
-  - neu: abgesagt
-  - weg: 1.oktober2026, 20.dezember2026, 3.januar2027, €12, €18, €4, €6, €8, anmeldeschluss, meldeschluss, nachmeldung
-- **reischacher-holzlandlauf-2027** – https://holzlandlauf.tsv-reischach.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: 03:29
-  - weg: 03:03
-- **100-km-berlin-2027** – https://www.lgnord.de/  (nennt jetzt das Jahr des Laufs)
   - neu: –
-  - weg: 07.11.1938, 07.11.2026, 17.10.2026, 17.oktober, 19.09.2026, 19.10.2026, 22.10.2026, 25.10.2026, 26.09.2026, 28.09.2026, 7.11.2026, 2026, 1:27
-- **berliner-mauerweg-nachtlauf-2027** – https://www.hdsports.org/laufen/berliner-mauerwegnachtlauf
-  - neu: 12.09.2027
+  - weg: 25.10.2026, 11:00uhr
+- **flensburger-adventslauf-2026** – https://flensburger-lauftreff.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 14.dezember2025, 22.september2025
+  - weg: 3.oktober, abgesagt
+- **der-reporter-lauf-2027** – https://www.der-reporter.de/startseite/  (nennt jetzt das Jahr des Laufs)
+  - neu: 15.november2026
+  - weg: 5.november
+- **huehnerbrueckenlauf-2027** – http://mtv-handball.de/
+  - neu: 07.05.2017, 1.1., 3.1.
+  - weg: 03.05.2019, 1.2., 3.2., 5.1.
+- **stadtwerkelauf-pinneberg-2027** – http://www.vfl-pinneberg.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: –
+  - weg: 25.10.2026, 11:00uhr
+- **lohelauf-2027** – http://www.sc-wentorf.de/
+  - neu: 2027
   - weg: –
-- **moenchsheidelauf-liepe-2027** – https://www.hdsports.org/laufen/moenchsheidelauf
-  - neu: 12.09.2027
-  - weg: –
-- **flaeminglauf-jueterbog-2027** – https://www.hdsports.org/laufen/flaeminglauf-in-jueterbog
-  - neu: 12.09.2027
-  - weg: –
-- **silvester-crosslauf-schoenfliess-2026** – https://www.hdsports.org/laufen/silvester-crosslauf-schoenfliess
-  - neu: 12.09.2027
+- **weddelbrooker-dorflauf-2027** – http://www.tsvweddelbrook.de
+  - neu: –
+  - weg: 04.11.2026, 0:11
+- **reischacher-holzlandlauf-2027** – https://holzlandlauf.tsv-reischach.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 03:06
+  - weg: 03:29
+- **gudensberger-crosslauf-2026, gudensberger-crosslauf-2027, darmstadt-cross-challenge-2026, darmstadt-cross-challenge-2027, lindenseelaufserie-ruesselsheim-2026, lindenseelaufserie-ruesselsheim-2027-11-20, adventlauf-skv-moerfelden-2026, silvesterlauf-floersheim-weilbach-2026, silvesterlauf-floersheim-weilbach-2027, volkslauf-hessisch-lichtenau-2027, volkslauf-wvc-kassel-2027, sechs-stundenlauf-skv-moerfelden-2027, wichtelhaeuser-volkslauf-2027, frankfurter-runden-2027, lsg-waldauer-wiesen-lauf-2027, freigerichter-benzinglauf-2027, wumbor-lauf-roedermark-2027, abendlauf-ippinghausen-2027, gederner-stadtlauf-2027, weinbergslauf-hochheim-2027, herkules-berglauf-kassel-2027, meissner-berglauf-2027, bessunger-merck-lauf-2027, werberun-waldeck-2027, bahama-laufcup-langen-2027, rund-um-den-kellerskopf-2027, volkslauf-sv-traisa-2027, kranlauf-offenbach-2027, lindenseelaufserie-ruesselsheim-2027, la-corsa-di-paolo-2027** – https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender  (nennt jetzt das Jahr des Laufs)
+  - neu: 10.11.2026
+  - weg: 27.09.2026, 21:05
+- **100-km-berlin-2027** – https://www.lgnord.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 07.11.1938, 07.11.2026, 17.10.2026, 17.oktober, 19.10.2026, 22.10.2026, 24.10., 25.10.2026, 26.09.2026, 28.09.2026, 7.11.2026, 2026, 1:27
   - weg: –
 - **glauchauer-herbstlauf-2027** – http://glauchauer-herbstlauf.de/  (nennt jetzt das Jahr des Laufs)
-  - neu: 01.06.2027, 17.10.2027, 20.10.2027, 23.10.2026, 23.10.2027, 26.09.2027, 29.08.2027, 2027
-  - weg: 18.10.2026, 21.10.2026, 24.10.2025, 25.10.2026, 27.09.2026, 30.08.2026, 2025
-- **seriencross-erkner-2027** – https://www.laufen.de/laufkalender/details/3-seriencross-in-erkner-offener-seriencross-mol
-  - neu: 13.12.2026
-  - weg: –
+  - neu: 10.10.2027, 19.09.2027, 22.08.2027, 22.10.2026, 22.10.2027
+  - weg: 17.10.2027, 24.10.2026, 26.09.2027, 29.08.2027
+- **sonnenaufgangslauf-marpingen-2027** – http://www.ltf.de
+  - neu: 1:38, 1:45, 1:50, 1:58
+  - weg: 12.oktober2026, 1:03, 1:04, 32:46, 40:53, 45:24, 45:30, 46:47, 46:49, 4:41, 50:08, 50:38, 55:29
 - **nikolauslauf-crosslauf-meppen-2026** – https://www.laufen.de/laufkalender/details/nikolauslauf-crosslauf-2026  (nennt jetzt das Jahr des Laufs)
-  - neu: 01.05.2026, 02.06.2026, 09.11.2025, 20.05.2026, 26.04.2026
-  - weg: 06.11.2026, 16.09.2026
-- **fullestrand-ultramarathon-2026** – https://laufwerkkassel.jimdoweb.com/fullestrand-ultra/  (nennt jetzt das Jahr des Laufs)
-  - neu: –
-  - weg: 29.10.2026
-- **last-rabbit-standing-backyard-ultra-2027** – https://www.rabbit-fuel.com/de-at/pages/last-rabbit-standing  (nennt jetzt das Jahr des Laufs)
-  - neu: –
-  - weg: 23.10.2026, anmeldung ab, wartelist
-- **campuslauf-tu-clausthal-2027** – https://www.tu-clausthal.de/
-  - neu: –
-  - weg: 23.10.2026
-- **hochstraess-trail-run-2027** – https://www.sportverein-oberreute.de/
-  - neu: 19:45
-  - weg: 19:00, 20:00
-- **stadtlauf-sulzbach-rosenberg-2027** – https://www.suro.city/
-  - neu: 9.november1938
+  - neu: 07.08.2026, 25.10.2026, 27.06.2026
+  - weg: 01.05.2026, 09.11.2025, 26.04.2026
+- **djk-jakobuslauf-augsburg-2027** – https://www.laufen.de/laufkalender/details/27-djk-jakobuslauf
+  - neu: 30.oktober2025, 2025
   - weg: –
+- **lucas-cranach-lauf-2027** – https://asc-marktrodach.de/  (nennt jetzt das Jahr des Laufs)
+  - neu: 23.november2026
+  - weg: –
+- **hochstraess-trail-run-2027** – https://www.sportverein-oberreute.de/
+  - neu: 17:45, 19:00
+  - weg: –
+- **stadtlauf-sulzbach-rosenberg-2027** – https://www.suro.city/
+  - neu: 20.november2026
+  - weg: 08.november2026
 - **lauf10-2027** – https://www.wolnzach.de/startseite
-  - neu: 17.11.2026, 16:00
-  - weg: 09.11.2026, 19:30
+  - neu: 18.11.2026, 19:00
+  - weg: 10.11.2026
+- **neusitz-lauf-2027** – https://neusitz.de
+  - neu: 8.12.
+  - weg: 19.10.2026, 19.oktober2026, 22.10., 29.11.2026
 - **sechs-stunden-lauf-am-foerderturm-boenen-2027** – https://lauffreundeboenen.de/
   - neu: –
-  - weg: 09.11.2026, 16:30, 17:30
+  - weg: 10.11.2026, 19:30
 - **bondorflauf-2027** – https://www.radfreizeit.sv-bondorf.de/
-  - neu: 08.11.2026, 08.november
-  - weg: 02.11.2026, 07.11., 20.10.2026, 27.09.2026, 8.11., 8.november, abgesagt, 18:00, 19.30uhr, 9:45uhr
+  - neu: 8.november2026, 1:28, 1:36, 3:14
+  - weg: –
 - **kreuzganglauf-feuchtwangen-2027** – https://www.feuchtwangen.de/
-  - neu: 07:30, 16:36
-  - weg: 07:19, 16:45
-- **walter-thomas-lauf-2027** – http://www.psv-zittau.de
-  - neu: 17:27
-  - weg: 08.11.2026, 16:39
+  - neu: 07:31, 16:35
+  - weg: 07:20, 16:43
 
 ## Nicht abrufbar
 
@@ -1381,20 +550,10 @@ Stand: 11.11.2026 03:32 · 3412 Seiten geprüft · 456 geändert · 2698 unverä
 - https://isarstauseelauf.jimdosite.com – http 403
 - https://www.djk-falkenberg.de/ski – http 403
 - https://rain.de/lauf-am-lech_id65798 – http 404
-- https://www.waldhaegenich-lauf.de/ – fehler <urlopen error [Errno 101] Network is unreachable>
-- https://neckarlauf.com/6hoder12h-run.html – fehler <urlopen error [Errno 101] Network is unreachable>
-- https://neckarlauf.com – fehler <urlopen error [Errno 101] Network is unreachable>
 - https://stuttgarter-silvesterlauf.de – fehler <urlopen error timed out>
 - https://www.pascal-schucker.de/Spendenaktionen/Spendenlauf-Broggingen – http 404
-- https://neckarlauf.com/fr-hlingsultra.html – fehler <urlopen error [Errno 101] Network is unreachable>
-- https://neckarlauf.com/schwarzwaldultra-backyard.html – fehler <urlopen error [Errno 101] Network is unreachable>
-- https://gaeufelderlauf.de – fehler <urlopen error [Errno 101] Network is unreachable>
 - https://www.hohenlohe-geniesserlauf.de – fehler <urlopen error [Errno -2] Name or service not known>
-- https://neckarlauf.com/sixdaysrun.html – fehler <urlopen error [Errno 101] Network is unreachable>
-- https://insane-backyard-ultra.com – fehler <urlopen error [Errno 101] Network is unreachable>
 - https://www.weinheimtrails.de – http 403
-- https://neckarlauf.com/sommer24hlauf.html – fehler <urlopen error [Errno 101] Network is unreachable>
-- https://neckarlauf.com/geh-heim-lauf.html – fehler <urlopen error [Errno 101] Network is unreachable>
 - http://www.svbadbuchau.de/html/stadtlauf.html – http 404
 - https://www.neuenbuerg.de/freizeit-erlebnis/veranstaltungskalender/2199/schlosspark-run – http 404
 - https://gruettlauf.de – fehler <urlopen error timed out>
@@ -1405,13 +564,12 @@ Stand: 11.11.2026 03:32 · 3412 Seiten geprüft · 456 geändert · 2698 unverä
 - https://citylauf-leonberg.de – http 404
 - https://www.tsv-assamstadt.de/?page_id=11595 – http 404
 - https://www.lsg-ka.de/ausschreibung.html – http 404
-- https://sv-renquishausen.de/veranstaltungen/waldlauf/ – http 403
 - https://sommernachtslauf.net/ – http 403
 - https://www.tv-rheinau-mannheim.de/news – fehler <urlopen error [Errno -2] Name or service not known>
 - https://www.stuttgarter-lebenslauf.de/ – fehler <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1018)>
+- https://www.roadrunners-suedbaden.de/night-run – http 429
 - https://www.schoenbuch-cup.de/kuppingen – http 403
 - https://www.tsg-salach.de/veranstaltungen/471-loewenlauf.html – http 404
-- https://turnverein-dornstetten.de/adventslauf-2.html – fehler <urlopen error [Errno 101] Network is unreachable>
 - https://www.tsv-reute.de – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid f
 - https://laufwelt.de/laufwelt-extrem-cross-2026/ – http 404
 - https://www.tv-ihringen.de/internationaler-kaiserstuhllauf-2026.html – http 404
@@ -1426,19 +584,15 @@ Stand: 11.11.2026 03:32 · 3412 Seiten geprüft · 456 geändert · 2698 unverä
 - http://www.mpz-sport-bad-vilbel.de – http 403
 - http://www.hugenottenlauf.de/ – fehler <urlopen error timed out>
 - http://www.kyffhaeuser-berglauf.de/ – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.
-- https://www.wrc-hildburghausen.de/ – fehler <urlopen error [Errno 101] Network is unreachable>
 - https://lobdeburglauf.jimdosite.com/ – http 403
 - https://www.kyffhaeuser-laufcup.de/ – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.
 - http://www.haldenlauf.de – fehler <urlopen error [Errno 111] Connection refused>
 - https://suedeichsfeldlauf.de/ – fehler <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1018)>
 - http://wickerstedter-crosslauf.jimdo.com – fehler <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1018)>
-- http://www.leichtathletik-soemmerda.de/ – fehler <urlopen error [Errno 101] Network is unreachable>
 - https://www.kyffhaeuser-berglauf.de – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.
 - http://www.gymnasium-dingelstaedt.de/joomla/ – http 404
-- http://www.geba-berglauf.de/ – fehler <urlopen error [Errno 101] Network is unreachable>
 - https://www.sparkassen-paddle-run.de/ – fehler <urlopen error [Errno -2] Name or service not known>
 - https://www.triathlonchemnitz.de/ – http 403
-- http://neujahrsberglauf.de/ – fehler <urlopen error timed out>
 - http://www.wasser-stadt-leipzig.de/index.asp – http 404
 - https://www.ksb-nordsachsen.de/veranstaltungen/torgauer-city-nachtlauf – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid f
 - http://ssv1846scheibenberg.de – http 403
@@ -1447,45 +601,37 @@ Stand: 11.11.2026 03:32 · 3412 Seiten geprüft · 456 geändert · 2698 unverä
 - http://www.hoywojcitylauf.sportclub-hoyerswerda.de/ – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid f
 - https://www.sparkassen-teichelauf.de/ – http 404
 - https://www.leichtathletik-scdhfk.de/ – fehler <urlopen error [Errno -2] Name or service not known>
-- http://leichtathletik-blankenburg.de/ – fehler <urlopen error [Errno 101] Network is unreachable>
-- http://www.lghopfen.de – fehler <urlopen error [Errno 101] Network is unreachable>
 - https://kvhs.salzlandkreis.de/ – fehler <urlopen error timed out>
-- http://www.magdeburg-marathon.eu/ – fehler <urlopen error [Errno 101] Network is unreachable>
 - http://www.harri-schlegel.com/ – fehler <urlopen error timed out>
 - http://www.sg-rauen1951.de – http 403
 - http://www.temnitzer-heide-lauf.de/ – http 403
-- http://www.uferbahnlauf.de/ – fehler <urlopen error [Errno 101] Network is unreachable>
 - http://www.bisttal-runners.de – fehler <urlopen error [Errno -2] Name or service not known>
 - http://fc-selbach.de/lauftreff/start.html – fehler <urlopen error [Errno -2] Name or service not known>
 - http://www.tv-maikammer.de – http 404
-- https://lc-hassloch.de/ – fehler <urlopen error [Errno 101] Network is unreachable>
 - http://www.baerenfelslauf.de/ – fehler <urlopen error [Errno -2] Name or service not known>
 - http://www.tus-moerschied.de – fehler <urlopen error [Errno -2] Name or service not known>
-- http://www.tus-waldboeckelheim.de – http 403
 - http://302510.webhosting47.1blu.de/nahecross/ – http 404
 - http://www.deichlauf.de/ – http 404
 - https://traylrunner.jimdosite.com/ – http 403
-- https://www.svneroth.de/enzenbueschlauf/ – fehler <urlopen error [Errno 101] Network is unreachable>
 - http://www.eifelmarathon.com/ – http 403
 - http://www.sv-gerolstein.de/sportevents/ – http 404
+- https://www.tus-ahrweiler.de/ – http 429
 - http://www.fc-neuhof.de/ – fehler <urlopen error [Errno -2] Name or service not known>
 - http://www.tus-platten.de/ – fehler <urlopen error [Errno -2] Name or service not known>
 - http://www.hsc-gamlen-eifel-coc.magix.net/ – fehler <urlopen error [Errno -2] Name or service not known>
-- https://www.svneroth.de/ – fehler <urlopen error [Errno 101] Network is unreachable>
 - https://www.damscheid.de/ – http 403
 - http://www.schwebebahn-lauf.de/home/ – http 404
+- https://www.karneval-marathon.de/ – http 429
 - https://lauftreff.viktoria-rietberg.de/ – fehler <urlopen error [Errno 111] Connection refused>
 - http://veranstaltungen.sca-ausdauersport.de/index.php – fehler <urlopen error [Errno -2] Name or service not known>
-- https://lg-gm.de/ – fehler <urlopen error [Errno 101] Network is unreachable>
+- https://lg-gm.de/ – http 403
 - https://silvestercrosslauf.my.canva.site/ – http 404
 - http://www.tv-vreden.de – http 403
 - https://www.alstaetter-sandhasenlauf.de/ – fehler <urlopen error [Errno -2] Name or service not known>
 - http://www.tg-werste.de/WWL.html – http 404
-- http://www.lg-gummersbach.de/ – fehler <urlopen error [Errno 101] Network is unreachable>
+- http://www.lg-gummersbach.de/ – http 403
 - https://www.laufag.de/ – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)>
 - https://www.bergstadtmarathon-ruethen.de/ – fehler <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1018)>
-- https://www.sv-kollerbeck.de/ – fehler <urlopen error [Errno 101] Network is unreachable>
-- http://www.lg-alpen.net/ – fehler <urlopen error [Errno 101] Network is unreachable>
 - http://www.tv-schwafheim.net/volkslauf – http 404
 - http://www.citylauf.borken.de/ – fehler <urlopen error [Errno -2] Name or service not known>
 - https://www.leverkusen-halbmarathon.de/home/ – http 404
@@ -1501,20 +647,16 @@ Stand: 11.11.2026 03:32 · 3412 Seiten geprüft · 456 geändert · 2698 unverä
 - https://www.stadtlauf-wipperfuerth.de – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)>
 - http://www.leichtahtletik-in-engelskirchen.de – fehler <urlopen error [Errno -2] Name or service not known>
 - http://www.bickendorf-lauf.de/ – http 403
-- http://lg-gummersbach.de – fehler <urlopen error [Errno 101] Network is unreachable>
-- https://www.hdsports.org/laufen/warburger-oktoberwochen-volkslauf – http 520
+- http://lg-gummersbach.de – http 403
 - http://www.karneval-marathon.de – http 429
 - https://www.pol-tuslinnich.de/index.php – http 403
-- https://tsvlelm.de – fehler <urlopen error [Errno 101] Network is unreachable>
-- https://www.lgnordheide.de/lgn/index.php/de/ – fehler <urlopen error [Errno 101] Network is unreachable>
+- http://www.Blumensaatlauf.de – fehler timed out
 - http://www.mtv-lauftreff.de/index.php – http 403
-- https://sv-herbrum.de/ – http 403
 - http://www.hvv-martfeld.de/index.php – http 404
 - https://tsg-bergedorf.de/bergedorfer-citylauf/ – http 404
 - http://www.tsv-hittfeld.de – http 403
 - https://www.mtv-rethmar.de/laufen/abend-kanallauf/ – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid f
 - http://www.emder-lg.de/matjeslauf – http 404
-- https://www.doehrener-abendlauf.de/ – http 403
 - https://tsv-lemke.de/ – http 403
 - https://www.skigemeinschaft-nordschaumburg.de/kurparklauf/ – http 403
 - http://windmuehlenlauf.jimdo.com/ – fehler <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1018)>
@@ -1527,20 +669,13 @@ Stand: 11.11.2026 03:32 · 3412 Seiten geprüft · 456 geändert · 2698 unverä
 - https://www.businessrun-zippels.de/kiel/ – http 404
 - http://www.stadtwerke-lauf-niebüll.de – fehler <urlopen error [Errno -2] Name or service not known>
 - https://www.sachsenwaldlauf.de/ – http 403
-- https://ts-schenefeld.de/ – fehler <urlopen error [Errno 101] Network is unreachable>
 - https://www.sggreifswald.de/ – fehler <urlopen error [Errno -2] Name or service not known>
 - http://www.nb-silvesterlauf.de/ – fehler <urlopen error [Errno -2] Name or service not known>
-- http://www.mein-moenchgut.de/ – fehler <urlopen error [Errno 101] Network is unreachable>
 - https://www.fuenf-seen-lauf.de/ueber-uns/laufkalender/details?tx_news_pi1%5Baction%5D=detail&amp;tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Bnews%5D=1&amp;cHash=da16ec58accef2c8fd08c8ae6cadf6d6 – http 404
-- http://www.schlossgartenlauf.de/ – fehler <urlopen error [Errno 101] Network is unreachable>
 - https://www.messkirch-bewegt-sich.de – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid f
 - https://ultralauf-cottbus.de/ – fehler <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1018)>
 - https://djk-emmerting.de/abteilungen/lauftreff/ – http 404
-- https://www.svaltneudorf.de/ – fehler <urlopen error [Errno 101] Network is unreachable>
-- https://www.bilstein-marathon.de/ – fehler <urlopen error [Errno 101] Network is unreachable>
-- http://meisterchip.de – fehler <urlopen error timed out>
 - https://www.laufen.de/laufkalender/details/lauf-gegen-gewalt-an-frauen-und-mädchen – fehler 'ascii' codec can't encode character '\xe4' in position 59: ordinal not in range(128)
-- https://www.laufen.de/laufkalender/details/41-silvesterlauf-der-lav-hamburg-nord – http 404
 - https://www.laufen.de/laufkalender/details/15-ews-volks-und-spendenlauf – http 522
 - https://www.laufen.de/laufkalender/details/sommercross-run – http 403
 - https://www.laufen.de/laufkalender/details/51-süderelbe-halbmarathon-durch-das-alte-land – fehler 'ascii' codec can't encode character '\xfc' in position 30: ordinal not in range(128)
@@ -1551,17 +686,26 @@ Stand: 11.11.2026 03:32 · 3412 Seiten geprüft · 456 geändert · 2698 unverä
 - https://www.laufen.de/laufkalender/details/14-ottensteiner-wottellauf – http 403
 - https://www.laufen.de/laufkalender/details/53-winterlaufserie-10-km – http 404
 - https://www.laufen.de/laufkalender/details/lauf-durchs-schöne-gailachtal – fehler 'ascii' codec can't encode character '\xf6' in position 41: ordinal not in range(128)
-- https://www.laufen.de/laufkalender/details/1-drumlin-lauf – fehler <urlopen error [Errno -2] Name or service not known>
 - https://www.laufen.de/laufkalender/details/6-träublelauf-des-tsv-weingarten – fehler 'ascii' codec can't encode character '\xe4' in position 30: ordinal not in range(128)
 - https://www.laufen.de/laufkalender/details/39-möhnesee-pokal-lauf-mehr-als-eine-herausforderung – fehler 'ascii' codec can't encode character '\xf6' in position 30: ordinal not in range(128)
 - https://www.laufen.de/laufkalender/details/45-oeventroper-volks-und-straßenlauf – fehler 'ascii' codec can't encode character '\xdf' in position 55: ordinal not in range(128)
 - https://www.laufen.de/laufkalender/details/11-brückenlauf-wetter – fehler 'ascii' codec can't encode character '\xfc' in position 31: ordinal not in range(128)
-- https://www.skizunft-calmbach.de/berglauf/ – fehler <urlopen error [Errno 101] Network is unreachable>
-- https://lg-illerschwaben.info/ – http 403
-- https://www.neckarlauf.com – fehler <urlopen error [Errno 101] Network is unreachable>
 - https://babenberger-volkslauf.de/ – http 503
-- https://neckarlauf.com/ – fehler <urlopen error [Errno 101] Network is unreachable>
-- https://vflfleckenberg.de/ – fehler <urlopen error [Errno 101] Network is unreachable>
+- https://www.red-castle-run.de – fehler The read operation timed out
+- https://tvstammbach.de/silvesterlauf/ – fehler <urlopen error timed out>
+- https://www.sc-weissbach.de/ – http 500
+- https://www.hdsports.org/laufen/premberger-berglauf-teublitz – http 404
+- https://www.hdsports.org/laufen/runfellows-sommer-nacht-trail – http 404
+- https://tvstammbach.de/ – fehler <urlopen error timed out>
+- https://www.grasbrunner-lauf.de – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1018)>
+- https://www.hdsports.org/laufen/hesselberglauf – http 404
+- http://www.run-for-europe.eu – fehler <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)>
+- https://www.hdsports.org/laufen/herzog-georg-nachtlauf-meiningen – http 404
+- https://www.xn--ol-grlitz-07a.de/de/ – fehler <urlopen error [Errno -2] Name or service not known>
+- https://www.hdsports.org/laufen/rhein-city-run – http 404
+- https://www.hdsports.org/laufen/ems-dollart-winterlaufserie-logabirum – http 404
+- https://windmuehlenlauf.jimdo.com/ – fehler <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1018)>
+- https://www.hdsports.org/laufen/silvesterlauf-muehlen – http 404
 
 ## Per robots.txt gesperrt (nicht abgerufen)
 
@@ -1579,6 +723,7 @@ Stand: 11.11.2026 03:32 · 3412 Seiten geprüft · 456 geändert · 2698 unverä
 - https://elztaler-volkslauf-2026.racepedia.de/
 - https://www.offenburg.de
 - https://www.odenwaelderherbstlauf.de/
+- https://turnverein-dornstetten.de/adventslauf-2.html
 - http://www.silvesterlauf-tanna.de
 - https://toepfermarktlauf-buergel.de/toepfermarktlauf-uebersicht
 - http://www.hetz-run.de
@@ -1595,25 +740,28 @@ Stand: 11.11.2026 03:32 · 3412 Seiten geprüft · 456 geändert · 2698 unverä
 - http://www.sus-bertlich.de/la
 - https://sgm-leichtathletik.com/
 - http://www.weyher-lauftreff.de
+- https://tsvlelm.de
 - https://www.tsg-emmerthal.de/
 - http://www.w-lauf.de
 - http://www.junkernhof-lauf.de/
 - https://vfl-bueckeburg.de/
 - https://www.mtv-goslar.de/
 - http://www.syker-hachelauf.de
-- http://www.lauftreff-alstertal.de/
 - http://www.rw-wohldenberg.de/
 - https://www.ihk-oldenburg.de/
 - http://www.ostseelauf.com/
 - https://fehmarn-marathon.de/
+- https://ts-schenefeld.de/
 - http://www.insel-sylt.de/jaehrliche-highlights/jaehrliche-highlights-sportveranstaltungen/run-ums-rantumbecken/
 - http://www.mueritzer-lsv04.de/
+- https://www.bilstein-marathon.de/
 - http://www.hospiz-nassau.de/
 - https://www.klosterparklauf.de/
+- http://raiba-altstadtlauf.com/
+- https://www.fun-run-juechen.de/
 
 ## Termin noch geschätzt, Seite nennt aber schon das Jahr
 
-- djk-domlauf-passau-2027 – https://djk.domlauf.bistum-passau.de/
 - dreiburgenland-marathon-2027 – https://www.hotel-schuerger.de
 - intern-jennerberglauf-2027 – https://www.skberchtesgaden.de/
 - bocksbeutel-lauf-thuengersheim-2027 – https://my.raceresult.com/426928/
@@ -1621,11 +769,9 @@ Stand: 11.11.2026 03:32 · 3412 Seiten geprüft · 456 geändert · 2698 unverä
 - hegau-bodensee-cross-meersburg-2026 – https://hegau-bodensee-cross.de
 - vellberger-volkslauf-2027 – https://stadtwerke-hall.de
 - e2h10k-ultratrail-calw-100-2027 – https://e2h10k.simdif.com
-- swp-citylauf-pforzheim-2027 – https://citylauf-pforzheim.de
 - kinzigcross-gengenbach-2027 – https://kinzigcross.de
 - reutlinger-altstadtlauf-2027 – https://www.igl-reutlingen.de/
 - gaensebratenvernichtungslauf-wiesbaden-2026 – http://www.lcolympia.de/
-- eichenzeller-fruehlingslauf-2027 – https://www.xn--eichenzeller-frhlingslauf-twc.de/
 - sparkassen-marathon-marburg-2027 – http://sparkassenmarathon-marburg.de/
 - beerfelder-stadtlauf-2027 – https://www.skiclub-beerfelden.de
 - beerfelder-waldlauf-2027 – https://www.skiclub-beerfelden.de
@@ -1656,8 +802,10 @@ Stand: 11.11.2026 03:32 · 3412 Seiten geprüft · 456 geändert · 2698 unverä
 - forster-gewichtslauf-2027 – https://ltsv.de/
 - klosterlauf-panschwitz-kuckau-2027 – https://lausitzer-sportevents.de/marathon/termine/
 - diabetes-lauf-2027 – https://diabeteskongress.de/
+- dm-frauenlauf-saarlouis-2027 – http://www.frauenlauf-saarlouis.de/
 - kondelwaldlauf-rund-um-bengel-und-springiersbach-2027 – http://www.tusbengel05.de/
 - ring-of-feier-hermeskeiler-city-lauf-2027 – https://www.teba-radweglauf.de
+- nerother-charity-run-2027 – https://www.svneroth.de/
 - ruppertslauf-2027 – https://www.runme.de/deutschland/ruppertslauf/
 - monschauer-treppenlauf-2027 – https://tv-konzen.de/
 - rappid-marathon-2027 – https://www.runme.de/deutschland/rappid-marathon/
@@ -1670,11 +818,9 @@ Stand: 11.11.2026 03:32 · 3412 Seiten geprüft · 456 geändert · 2698 unverä
 - intern-steinhuder-meer-lauf-2027 – http://www.tsv-poggenhagen1946.de/
 - sve-steinwiesenlauf-2027 – https://lauftreff.sve-hamburg.de/
 - abf-run-2027 – https://www.abf-hannover.de/
-- langeooger-sanddornlauf-2027 – https://www.langeoog.de/
 - doerpener-nordland-lauf-2027 – https://www.runme.de/deutschland/doerpener-nordland-lauf/
 - oderpark-seelauf-2027 – http://www.tvg-hattorf.de
 - waldlauf-eckernworth-2027 – https://www.tvjahn-walsrode.de/
-- finienlauf-2027 – https://www.finienlauf.de/
 - benefizlauf-fuer-den-landkreis-helmstedt-jubilaeumslauf-2027 – http://www.stadt-helmstedt.de/
 - middenmang-loop-2-emder-vielfaltslauf-2027 – http://www.obw-emden.de/
 - burgdorfer-spargel-lauf-2027 – http://www.vvvburgdorf.de/
@@ -1702,4 +848,7 @@ Stand: 11.11.2026 03:32 · 3412 Seiten geprüft · 456 geändert · 2698 unverä
 - lauf-um-den-niedersonthofner-see-2027 – http://seelauf-niedersonthofen.de/
 - apfelstaedter-jedermannlauf-2027 – https://www.apfelstaedter-jedermannlauf.de
 - stadtparklauf-sondershausen-2027 – https://www.glueckauf-sondershausen.de/
+- oktoberfestlauf-muenchen-2027 – http://www.oktoberfestlauf.de
+- rimbachlauf-2027 – https://www.runme.de/deutschland/rimbachlauf/
+- wildschuetz-klostermannlauf-lichtenau-2027 – https://www.vfl-lichtenau.de/
 
