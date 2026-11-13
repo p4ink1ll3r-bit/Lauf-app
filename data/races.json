@@ -11514,7 +11514,7 @@
    "pickup": "Ab 08:30 Uhr in der Nähe des Bistro Belvedere (dort auch Nachmeldung)",
    "late_reg": "Nachmeldung am Veranstaltungstag vor Ort mit Bargeld oder PayPal",
    "included": "Finishermedaille",
-   "info": "Anmeldung online mit Zahlung über Stripe; bei Absage durch äußere Umstände vor Beginn Erstattung der Startgebühr",
+   "info": "Anmeldung online mit Zahlung über Stripe; bei Absage durch äußere Umstände vor Beginn Erstattung der Startgebühr. Online-Anmeldung bis Samstag, 12.12.2026, 12:00 Uhr, danach nur noch vor Ort",
    "id": "hubland-adventlauf-2026",
    "lat": 49.797,
    "lon": 9.934,
@@ -11522,9 +11522,10 @@
    "end": null,
    "confirmed": true,
    "prev_date": null,
-   "checked": "2026-11-07",
+   "checked": "2026-11-13",
    "parking": "Kostenpflichtiges Parkhaus „Skyline Hill Parking“ (nur Kartenzahlung); Bushaltestelle „Belvedere“ (Linie 29) wenige Meter entfernt",
-   "showers": "Keine Duschen; Umziehen in den öffentlichen Toiletten im Wiesenpark möglich"
+   "showers": "Keine Duschen; Umziehen in den öffentlichen Toiletten im Wiesenpark möglich",
+   "reg_close": "2026-12-12"
   },
   {
    "id": "hubland-run-nachtlauf-2027",
@@ -14029,10 +14030,11 @@
    "start_place": "Tauziehverein Denzlingen, Mauracher Hof, Berliner Straße",
    "parking": "Sporthalle/Schulzentrum, Stuttgarter Straße 17 (ca. 15 Min. Fußweg)",
    "showers": "Sporthalle Stuttgarter Straße (ca. 15 Min. Fußweg)",
-   "info": "Reiner Wiesen-Cross. Männer-Hauptlauf 8,15 km, Frauen 4,4 km. Spikes mit langen Nägeln empfohlen. Meldeschluss Donnerstag 19.11.2026 laut Veranstalterseite",
-   "checked": "2026-11-07",
+   "info": "Reiner Wiesen-Cross. Männer-Hauptlauf 8,15 km, Frauen 4,4 km. Spikes mit langen Nägeln empfohlen. Meldeschluss Donnerstag 19.11.2026 laut Veranstalterseite. Hauptlauf Frauen 14:20 Uhr, Männer 14:50 Uhr laut Anmeldeportal (RaceResult)",
+   "checked": "2026-11-13",
    "lat": 48.067,
-   "lon": 7.883
+   "lon": 7.883,
+   "start_time": "14:20"
   },
   {
    "id": "suessener-stadtlauf-2026",
@@ -14113,8 +14115,8 @@
    "fee": "5,9 km 7 €, 10,7 km 11 € (Löwenlauf)",
    "url": "https://sportverein-weiden.de",
    "source": "https://gotrail.run/de/termine/adventslauf-weiden",
-   "info": "33. Auflage, SV Weiden. Dazu Nordic Walking 5,9 km und Schülerläufe. Anmeldung über RaceResult. 2025: Hauptlauf, Mittelstrecke, Nordic Walking 10:00, Knirpslauf 10:10, Schülerläufe 11:15; Meldefrist Donnerstag vor dem Lauf",
-   "checked": "2026-11-09",
+   "info": "33. Auflage, SV Weiden. Dazu Nordic Walking 5,9 km und Schülerläufe. Anmeldung über RaceResult. 2025: Hauptlauf, Mittelstrecke, Nordic Walking 10:00, Knirpslauf 10:10, Schülerläufe 11:15; Meldefrist Donnerstag vor dem Lauf. 10,7 km und 5,9 km Start 10:00 Uhr laut Anmeldeportal (RaceResult)",
+   "checked": "2026-11-13",
    "lat": 48.357,
    "lon": 8.536,
    "late_reg": "Nachmeldung bis 1 Stunde vor dem Start (2025)",
@@ -14124,7 +14126,8 @@
     "start_time": "10:00"
    },
    "reg_open": "2026-10-21",
-   "reg_close": "2026-11-26"
+   "reg_close": "2026-11-26",
+   "start_time": "10:00"
   },
   {
    "id": "adventslauf-weiden-2027",
@@ -14172,8 +14175,8 @@
    "parking": "Parkplätze am Vereinsheim",
    "showers": "Umkleiden und Duschen am Vereinsheim",
    "aid": "keine Verpflegungsstelle auf der Strecke",
-   "info": "Strecke überwiegend Schotter mit Waldanteil, etwa 300 m Asphalt. 10 km und 5 km Fitnesslauf, dazu 5 km Walking, keine Erstattung bei Nichtantritt. Startzeiten 2025: Hauptlauf 10 km um 14:00 Uhr, Fitnesslauf 5 km und Walking um 14:15 Uhr, Kinderlauf 13:00 Uhr. 2025 erstmals Trail-Lauf. Veranstalter TSG Schnaitheim. 2025: Nikolausrunde 13:00, Hauptlauf 10 km 14:00, Traillauf 12 km 14:05, Zielschluss 15:30",
-   "checked": "2026-11-04",
+   "info": "Strecke überwiegend Schotter mit Waldanteil, etwa 300 m Asphalt. 10 km und 5 km Fitnesslauf, dazu 5 km Walking, keine Erstattung bei Nichtantritt. Startzeiten 2025: Hauptlauf 10 km um 14:00 Uhr, Fitnesslauf 5 km und Walking um 14:15 Uhr, Kinderlauf 13:00 Uhr. 2025 erstmals Trail-Lauf. Veranstalter TSG Schnaitheim. 2025: Nikolausrunde 13:00, Hauptlauf 10 km 14:00, Traillauf 12 km 14:05, Zielschluss 15:30. Hauptlauf 14:00 Uhr, Fitnesslauf 14:15 Uhr, Nikolausrunde für Kinder 13:00 Uhr laut Anmeldeportal (RaceResult)",
+   "checked": "2026-11-13",
    "lat": 48.683,
    "lon": 10.15,
    "url": "https://tsg-leichtathletik-rasenkraftsport.heidenheim.com/",
@@ -14182,7 +14185,8 @@
     "fee": "10-km-Lauf 11 bis 14 € je nach Anmeldezeit (Ausgabe 2025)"
    },
    "fee": "Hauptlauf 11 € (bis 02.12.) · Nachmeldung 14 € · Fitnesslauf 9 € (bis 02.12.) · Nachmeldung 12 € · Nikolausrunde 3 € (bis 02.12.) · Nachmeldung 6 € · Walking 6 € (bis 02.12.) · Nachmeldung 9 €",
-   "start_place": "Moldenberg, Heidenheim-Schnaitheim"
+   "start_place": "Moldenberg, Heidenheim-Schnaitheim",
+   "start_time": "14:00"
   },
   {
    "id": "crosslaufserie-oberschwaben-blitzenreute-2026",
@@ -14199,8 +14203,8 @@
    "url": "https://crosslaufserie-oberschwaben.de",
    "source": "https://gotrail.run/de/termine/crosslaufserie-oberschwaben-blitzenreute",
    "start_place": "Biegenburg-Halle, Blitzenreute",
-   "info": "Veranstalter SV Blitzenreute. Hauptlauf 7,5 km, Jedermann-Cross 3,6 km. Nachmeldung in der Halle. Saison 2025/26: Kinderläufe ab 13:30, Jugend und Jedermanncross 14:00, Hauptlauf 7,5 km (sechs Runden) 14:30; Meldeschluss immer Donnerstag 20:00 Uhr (laut Quelle)",
-   "checked": "2026-11-09",
+   "info": "Veranstalter SV Blitzenreute. Hauptlauf 7,5 km, Jedermann-Cross 3,6 km. Nachmeldung in der Halle. Saison 2025/26: Kinderläufe ab 13:30, Jugend und Jedermanncross 14:00, Hauptlauf 7,5 km (sechs Runden) 14:30; Meldeschluss immer Donnerstag 20:00 Uhr (laut Quelle). Jedermanncross 14:00 Uhr, Hauptlauf 14:30 Uhr laut Anmeldeportal (RaceResult)",
+   "checked": "2026-11-13",
    "lat": 47.895,
    "lon": 9.612,
    "reg_close": "2026-12-03",
@@ -14208,7 +14212,9 @@
     "start_time": "14:30",
     "fee": "Jedermanncross 8 €, Hauptlauf 14 € (Einzelstarter, Saison 2025/26, für 2026 nicht bestätigt)"
    },
-   "pickup": "Ab 12:00 Uhr in/bei der Biegenburg-Halle (Turnhalle), auch Nachmeldung"
+   "pickup": "Ab 12:00 Uhr in/bei der Biegenburg-Halle (Turnhalle), auch Nachmeldung",
+   "fee": "Hauptlauf 14 €, Jedermanncross 8 €, Jugend U18/U20 4 €, Kinder 3 €",
+   "late_reg": "Ab 12:00 Uhr in/bei der Biegenburg-Halle (Turnhalle)"
   },
   {
    "id": "crosslaufserie-oberschwaben-blitzenreute-2027",
@@ -14730,13 +14736,13 @@
     "10"
    ],
    "source": "https://haid.app/en/events/mittelbaden-nikolauslauf-msid18pt",
-   "checked": "2026-11-05",
+   "checked": "2026-11-13",
    "lat": 48.339,
    "lon": 7.872,
    "url": "https://lg-geroldseck-lahr.com",
    "start_place": "Geroldsecker Halle, Sportplatzstraße 13, 77933 Lahr-Reichenbach",
    "pickup": "Geroldsecker Halle",
-   "info": "33. Auflage. 5 km (eine Runde, zwei kurze Anstiege) und 10 km (zwei Runden) auf Asphalt und Waldwegen, DLV-vermessen. Dazu 5,5 km Walking. Anmeldung über RaceResult. 5 km und 10 km 14:00 Uhr, Walking 5,5 km 14:10 Uhr. Anmeldeschluss 27.11.2026 um 18:00 Uhr, Online-Anmeldung seit 01.09.2026. Online-Anmeldung seit 01.09.2026, Anmeldeschluss 27.11.2026, 18:00 Uhr. Startgeld laut Anmeldeportal RaceResult am 05.11.2026",
+   "info": "33. Auflage. 5 km (eine Runde, zwei kurze Anstiege) und 10 km (zwei Runden) auf Asphalt und Waldwegen, DLV-vermessen. Dazu 5,5 km Walking. Anmeldung über RaceResult. 5 km und 10 km 14:00 Uhr, Walking 5,5 km 14:10 Uhr. Anmeldeschluss 27.11.2026 um 18:00 Uhr, Online-Anmeldung seit 01.09.2026. Online-Anmeldung seit 01.09.2026, Anmeldeschluss 27.11.2026, 18:00 Uhr. Startgeld laut Anmeldeportal RaceResult am 05.11.2026. Termin laut hdsports.org (Termin laut Webseite des Veranstalters). Veranstalter laut hdsports: LG Geroldseck Lahr.",
    "start_time": "14:00",
    "reg_open": "2026-09-01",
    "reg_close": "2026-11-27",
@@ -14757,14 +14763,15 @@
     "7"
    ],
    "source": "https://haid.app/en/events/bernhard-marathon-mt82ypy8",
-   "checked": "2026-11-04",
-   "info": "Sechs Runden à 7,1 km auf öffentlichen Straßen, Strecke nicht markiert (GPX auf Anfrage), Teilstrecken erlaubt. Urkunde per E-Mail. Verpflegung selbst mitbringen. Anmeldung über RaceResult mit Haftungsverzicht. Kostenloser Marathon des Lauftreffs Hemsbach, 6 Runden à 7,1 km (Ausgabe 2025 am 29.11.), Anmeldung über RaceResult",
+   "checked": "2026-11-13",
+   "info": "Sechs Runden à 7,1 km auf öffentlichen Straßen, Strecke nicht markiert (GPX auf Anfrage), Teilstrecken erlaubt. Urkunde per E-Mail. Verpflegung selbst mitbringen. Anmeldung über RaceResult mit Haftungsverzicht. Kostenloser Marathon des Lauftreffs Hemsbach, 6 Runden à 7,1 km (Ausgabe 2025 am 29.11.), Anmeldung über RaceResult. Start 09:00 Uhr laut Anmeldeportal (RaceResult)",
    "lat": 49.591,
    "lon": 8.648,
    "fee": "kein Startgeld, freiwilliger Beitrag an die RaceResult-Plattform",
    "showers": "Keine Dusche am Start/Ziel",
    "url": "http://www.lt-hemsbach.de/",
-   "anmeldung_url": "https://my.raceresult.com/416674/"
+   "anmeldung_url": "https://my.raceresult.com/416674/",
+   "start_time": "09:00"
   },
   {
    "id": "laufwelt-nikolauslauf-der-rsg-ried-rastatt-2026",
@@ -14925,7 +14932,7 @@
     "57"
    ],
    "source": "https://gotrail.run/de/termine/spiegelberger-rauberweglauf",
-   "checked": "2026-11-08",
+   "checked": "2026-11-13",
    "url": "https://ultras.prospectum.com/events/2026_06_raeuberweglauf/",
    "fee": "kostenlos, Spendenkasse vor Ort",
    "sold_out": "Ausverkauft laut Veranstalterseite (Warteliste bis 10.12.)",
@@ -14938,7 +14945,8 @@
    "lat": 49.041,
    "lon": 9.444,
    "start_time": "08:00",
-   "parking": "Begrenzt hinter dem Gasthaus Goldener Ritter, zusätzlich Wanderparkplätze Linde und Seewiese"
+   "parking": "Begrenzt hinter dem Gasthaus Goldener Ritter, zusätzlich Wanderparkplätze Linde und Seewiese",
+   "limit": "max. 50 Teilnehmende"
   },
   {
    "id": "crosslaufserie-oberschwaben-4-lauf-reute-bad-waldsee-2026",
@@ -15005,7 +15013,7 @@
     "10"
    ],
    "source": "https://haid.app/en/events/britzinger-silvesterlauf-mq94h1ca",
-   "checked": "2026-11-08",
+   "checked": "2026-11-13",
    "lat": 47.808,
    "lon": 7.63,
    "fee": "16 € (Jahrgang 2006 und älter), 10 € (Jahrgang 2007 und jünger)",
@@ -15014,13 +15022,14 @@
    "url": "https://silvesterlauf-britzingen.de",
    "pickup": "Grundschule Britzingen, Di 30.12. 15:00–18:30 und Mi 31.12. 09:00–12:45",
    "late_reg": "Keine Anmeldung vor Ort, nur online",
-   "info": "42. Auflage, TV Britzingen Lauftreff. 10-km-Runde Britzingen, Güttigheim, St. Ilgen, Buggingen, Dattingen. Online-Anmeldung seit 01.09.2026, geschlossen bei 1.100 Startern oder am 17.12. 23:59. Alle Finisher bekommen eine Neujahrsbrezel. Meldeschluss bei Erreichen der Teilnehmerzahl, spätestens 17.12.2026, 23:59 Uhr",
+   "info": "42. Auflage, TV Britzingen Lauftreff. 10-km-Runde Britzingen, Güttigheim, St. Ilgen, Buggingen, Dattingen. Online-Anmeldung seit 01.09.2026, geschlossen bei 1.100 Startern oder am 17.12. 23:59. Alle Finisher bekommen eine Neujahrsbrezel. Meldeschluss bei Erreichen der Teilnehmerzahl, spätestens 17.12.2026, 23:59 Uhr. 10 km Start Donnerstag, 31.12.2026, 13:30 Uhr laut Ausschreibung",
    "start_place": "Markgräflerstraße, Britzingen (vor der Kirche), Ziel St.-Johannes-Kirche",
    "prev": {
     "start_time": "13:30"
    },
    "reg_open": "2026-09-01",
-   "parking": "Nur sehr wenige Parkplätze an der Neuenfelshalle; Parken im Neubaugebiet westlich der L 124 (von Staufen kommend), aus Richtung Buggingen im Gewerbegebiet Biefang und in der westlichen Ehebachstraße; Parkraumkonzept auf der Veranstalterseite beachten"
+   "parking": "Nur sehr wenige Parkplätze an der Neuenfelshalle; Parken im Neubaugebiet westlich der L 124 (von Staufen kommend), aus Richtung Buggingen im Gewerbegebiet Biefang und in der westlichen Ehebachstraße; Parkraumkonzept auf der Veranstalterseite beachten",
+   "start_time": "13:30"
   },
   {
    "id": "britzinger-silvesterlauf-2027",
@@ -15602,7 +15611,7 @@
     "M"
    ],
    "source": "https://haid.app/en/events/brogginger-spendenlauf-mq955bmm",
-   "checked": "2026-11-04",
+   "checked": "2026-11-13",
    "lat": 48.219,
    "lon": 7.777,
    "anmeldung_url": "https://my.raceresult.com/396206",
@@ -15610,7 +15619,8 @@
    "fee": "ab 15 €",
    "url": "https://www.pascal-schucker.de/Spendenaktionen/Spendenlauf-Broggingen",
    "reg_open": "2026-09-14",
-   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
+   "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf",
+   "start_time": "10:00"
   },
   {
    "id": "optima-dreikoenigslauf-schwaebisch-hall-2027",
@@ -15626,7 +15636,7 @@
     "10"
    ],
    "source": "https://haid.app/en/events/optima-dreikonigslauf-in-schwabisch-hall-mq94j2e2",
-   "checked": "2026-11-09",
+   "checked": "2026-11-13",
    "lat": 49.111,
    "lon": 9.739,
    "url": "https://3koenigslauf.de/",
@@ -15637,7 +15647,8 @@
    "start_place": "Startunterlagen in der Blendstatthalle, Blendstatt 6, 74523 Schwäbisch Hall (ab 10:00 Uhr, zusätzlich 04.01. bei Intersport Schoell)",
    "sold_out": true,
    "start_time": "14:20",
-   "pickup": "Startunterlagen Montag 04.01.2027 von 10 bis 18 Uhr bei Intersport Schoell (Stuttgarter Str. 157, Schwäbisch Hall) oder am Lauftag ab 10 Uhr in der Blendstatthalle"
+   "pickup": "Startunterlagen Montag 04.01.2027 von 10 bis 18 Uhr bei Intersport Schoell (Stuttgarter Str. 157, Schwäbisch Hall) oder am Lauftag ab 10 Uhr in der Blendstatthalle",
+   "fee": "10 km 24 € (bis 30.11.2026), danach 27 €; Jahrgang 2008 und jünger 17 € bzw. 20 €"
   },
   {
    "id": "degerlocher-3-koenigslauf-2027",
@@ -15817,10 +15828,10 @@
     "50"
    ],
    "source": "https://haid.app/en/events/ultralauf-hawei50-mt82yroc",
-   "checked": "2026-11-08",
+   "checked": "2026-11-13",
    "lat": 49.163,
    "lon": 8.632,
-   "fee": "ab 40 €",
+   "fee": "50 € (bis 31.12.2026), danach 60 €",
    "url": "https://lsg-weiher.de/hawei50",
    "late_reg": "Anmeldung online oder vor Ort bis kurz vor dem Start",
    "showers": "Duschen, WC, Gepäckaufbewahrung, beheiztes Festzelt am Start/Ziel",
@@ -18087,7 +18098,7 @@
    "start_place": "Gegenüber dem Parkplatz des Aluminiumwerks STEP G, Vogt",
    "pickup": "Sirgensteinhalle Vogt",
    "info": "Veranstalter SC Vogt Leichtathletik. Hauptlauf ca. 7,2 km, Jedermann-Cross 3,6 km, dazu Kinder- und Jugendläufe. Siegerehrung und Verpflegung in der Sirgensteinhalle. Saison 2025/26: Kinder 13:30, U14/U16 13:45, Jugend und Jedermanncross 14:00, Hauptlauf 7,2 km 14:30 Uhr; Meldeschluss Donnerstag 20:00 Uhr",
-   "checked": "2026-11-09",
+   "checked": "2026-11-13",
    "bezirk": "Tübingen",
    "lat": 47.767,
    "lon": 9.767,
@@ -18096,7 +18107,8 @@
     "start_time": "14:30",
     "fee": "Jedermanncross 8 €, Hauptlauf 14 € (Saison 2025/26)"
    },
-   "parking": "Parkplatz Aluminiumwerk „STEP G“ gegenüber Start/Ziel (Ausschilderung beachten)"
+   "parking": "Parkplatz Aluminiumwerk „STEP G“ gegenüber Start/Ziel (Ausschilderung beachten)",
+   "late_reg": "Ab 12:00 Uhr bei/in der Sirgensteinhalle"
   },
   {
    "id": "hegau-bodensee-crosslaufserie-konstanz-2027",
@@ -18317,8 +18329,8 @@
     "10"
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-08",
-   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 28.02.). Strecken laut hdsports. 6. HaWei by night am Freitag 26.02.2027 laut LSG Weiher: 5 km um 18:30 Uhr, 10 km um 19:30 Uhr, flache 5-km-Runden um den Hardtsee, Stirnlampe empfohlen. Am nächsten Morgen (27.02.) läuft der Ultralauf HaWei50 auf derselben Runde",
+   "checked": "2026-11-13",
+   "info": "Termin 2027 laut hdsports vom Veranstalter bestätigt (2026: 28.02.). Strecken laut hdsports. 6. HaWei by night am Freitag 26.02.2027 laut LSG Weiher: 5 km um 18:30 Uhr, 10 km um 19:30 Uhr, flache 5-km-Runden um den Hardtsee, Stirnlampe empfohlen. Am nächsten Morgen (27.02.) läuft der Ultralauf HaWei50 auf derselben Runde. Laut Anmeldeportal (RaceResult): 5 km 18:30 Uhr, 10 km 19:30 Uhr; Online-Anmeldung bis zum Lauftag",
    "url": "https://www.lsg-weiher.de/hawei-by-night",
    "start_time": "18:30",
    "prev": {
@@ -18327,7 +18339,8 @@
    "pickup": "Freitag 26.02.2027 ab 16:00 Uhr",
    "start_place": "Freizeitzentrum Hardtsee, Ubstadt-Weiher (flache 5-km-Runden um den See)",
    "showers": "Duschen direkt bei Start und Ziel",
-   "parking": "Parkplatz Badeeingang (Ubstadter Straße 42, An- und Abfahrt jederzeit) und Parkplatz Campereingang (Seeweg 1, keine An- und Abfahrt während der Wettkämpfe)"
+   "parking": "Parkplatz Badeeingang (Ubstadter Straße 42, An- und Abfahrt jederzeit) und Parkplatz Campereingang (Seeweg 1, keine An- und Abfahrt während der Wettkämpfe)",
+   "fee": "10 km 14 €, 5 km 12 € (bis 31.12.2026), danach 16 € bzw. 14 €; Kinderläufe 3–5 €"
   },
   {
    "id": "neckarufer-marathon-stuttgart-2027",
@@ -24078,15 +24091,16 @@
     "10"
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-09",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 15.11.). Strecken laut hdsports. Veranstalter TSV Geislingen. 39. Volkslauf war am 15.11.2026 (Meldeschluss 11.11.): Hauptlauf 10,5 km, Schülerläufe und Integrationslauf, Start 2025 um 10:30 Uhr. Laut Veranstalterseite (Stand 09.11.2026): 39. Geislinger Volkslauf am Sonntag, 15.11.2026, Start um 10:30 Uhr bei der Schlossparkhalle.",
+   "checked": "2026-11-13",
+   "info": "Strecken laut hdsports. Veranstalter TSV Geislingen. 39. Volkslauf war am 15.11.2026 (Meldeschluss 11.11.): Hauptlauf 10,5 km, Schülerläufe und Integrationslauf, Start 2025 um 10:30 Uhr. Laut Veranstalterseite (Stand 09.11.2026): 39. Geislinger Volkslauf am Sonntag, 15.11.2026, Start um 10:30 Uhr bei der Schlossparkhalle. Laut Anmeldeportal (RaceResult): 10,5 km 11:00 Uhr, 5 km 11:15 Uhr, Schülerläufe ab 10:30 Uhr",
    "url": "https://leichtathletik.tsv-geislingen.de/",
    "prev": {
     "start_time": "10:30"
    },
    "start_place": "Schloßparkhalle, Geislingen",
    "reg_close": "2026-11-11",
-   "start_time": "10:30"
+   "start_time": "11:00",
+   "fee": "10,5 km und 5 km je 13 €, Schülerläufe 7 €"
   },
   {
    "id": "geislinger-volkslauf-2027",
@@ -25131,12 +25145,16 @@
     "10"
    ],
    "source": "https://www.runme.de/deutschland/adventslauf-rund-um-die-koppe-melsungen/",
-   "checked": "2026-11-09",
+   "checked": "2026-11-13",
    "url": "http://lauftreff-melsungen.de/",
    "start_time": "10:40",
-   "info": "Laut Veranstalterseite (Lauftreff Melsungen) Adventslauf am Sonntag 06.12.2026 im Waldstadion Melsungen, Wertungslauf für den Schwalm-Eder-Laufcup; auch im DLV-Laufkalender auf laufen.de. Strecken laut RUNME.",
+   "info": "Laut Veranstalterseite (Lauftreff Melsungen) Adventslauf am Sonntag 06.12.2026 im Waldstadion Melsungen, Wertungslauf für den Schwalm-Eder-Laufcup; auch im DLV-Laufkalender auf laufen.de. Strecken laut RUNME. 10 km 10:40 Uhr, 5 km 10:55 Uhr; Online-Anmeldung über RaceResult vom 16.11. bis 05.12.2026, 15:00 Uhr (laut Lauftreff Melsungen)",
    "showers": "Umkleiden im MT-Vereinsheim",
-   "late_reg": "am Veranstaltungstag nur in Ausnahmen"
+   "late_reg": "am Veranstaltungstag nur in Ausnahmen",
+   "fee": "Erwachsene 7 €, Kinder und Jugendliche 3,50 €, Bambini frei",
+   "reg_close": "2026-12-05",
+   "pickup": "Ab 9:00 Uhr im MT-Vereinsheim",
+   "start_place": "Waldstadion Melsungen (Navi: Evesham-Allee)"
   },
   {
    "id": "melsunger-adventslauf-rund-um-die-koppe-2027",
@@ -25386,7 +25404,7 @@
     "10"
    ],
    "source": "https://www.datasport.de/anmeldeservice/silvesterlauffrankfurt2026",
-   "checked": "2026-11-09",
+   "checked": "2026-11-13",
    "url": "https://www.spiridon-silvesterlauf.de/",
    "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Laut Anmeldeportal am 05.11.2026 Teilnehmerlimit (3.000) erreicht, keine Anmeldung mehr möglich; Anmeldeschluss 29.11.2026, bei Anmeldung bis dahin Versand der Startunterlagen. Haupt- und Elitelauf 10 km Start 12:00 Uhr laut Veranstalterseite",
    "fee": "22 € (bis 1.000 Teilnehmer), 26 € ab 1.001; Online-Nachmeldung 30 €, vor Ort 35 €; Schülerlauf 10 €",
@@ -25395,7 +25413,8 @@
    "start_place": "Wintersporthalle am Deutsche Bank Park, Frankfurt",
    "sold_out": "Hauptlauf (10 km) ausgebucht, keine Plätze mehr (laut Veranstalter, Stand 05.11.2026)",
    "limit": "3.000 Teilnehmer",
-   "start_time": "12:00"
+   "start_time": "12:00",
+   "pickup": "Bei Anmeldung bis 29.11.2026 werden die Startunterlagen zugeschickt (nicht ins Ausland), Kosten im Startgeld enthalten"
   },
   {
    "id": "spiridon-mainova-silvesterlauf-frankfurt-2027",
@@ -25705,7 +25724,7 @@
     "HM"
    ],
    "source": "https://www.runme.de/deutschland/winterlauf-serie-alten-buseck/",
-   "checked": "2026-11-08",
+   "checked": "2026-11-13",
    "url": "https://www.tsg-alten-buseck.com/",
    "info": "Termin laut RUNME und Veranstalter. Strecken laut RUNME. Winterlaufserie mit Start jeweils ab 14:00 Uhr (2- und 5-km-Lauf im Anschluss); Online-Anmeldung ab 01.10.2026 bis jeweils am Tag des Laufes um 12:00 Uhr. 1. Lauf der Serie. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
    "fee": "5 km 8 €, 10/15 und 21 km 10 € (pro Lauf)",
@@ -25714,7 +25733,8 @@
    "reg_open": "2026-10-01",
    "reg_close": "2026-11-14",
    "parking": "Eingeschränkte Parkmöglichkeiten an der Harbig-Halle",
-   "showers": "Toiletten, Duschen und Umkleidemöglichkeiten in der Harbig-Halle"
+   "showers": "Toiletten, Duschen und Umkleidemöglichkeiten in der Harbig-Halle",
+   "pickup": "Startnummern ab 12:00 Uhr in der Harbig-Halle"
   },
   {
    "id": "alten-busecker-winterlaufserie-2027",
@@ -25963,9 +25983,9 @@
     "15"
    ],
    "source": "https://www.runme.de/deutschland/winterlaufserie-tsv-ippinghausen-3564/",
-   "checked": "2026-11-09",
+   "checked": "2026-11-13",
    "url": "http://www.wila-ippinghausen.de",
-   "info": "Strecken laut RUNME. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden). Startzeit der letzten Ausgabe laut RUNME (15 km um 14:15 Uhr). 1. Lauf der Serie. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "info": "Strecken laut RUNME. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden). Startzeit der letzten Ausgabe laut RUNME (15 km um 14:15 Uhr). 1. Lauf der Serie. Termin laut HLV-Laufkalender (Stand 08.11.2026). 15 km 10:15 Uhr, 4,2 km 10:30 Uhr laut Anmeldeportal (RaceResult)",
    "late_reg": "Nachmeldung am Lauftag gegen 2 € Gebühr möglich",
    "fee": "Frauen und Männer 7 €, Schüler und Jugend 4 €, Bambini 2 €",
    "prev": {
@@ -25973,7 +25993,8 @@
    },
    "parking": "Am Sportplatz, Waldecker Straße und Vor dem Busche (möglichst nicht an der Bundesstraße)",
    "start_place": "Weidelsburgstadion/Sportplatz, Korbacher Straße 25, Wolfhagen-Ippinghausen",
-   "reg_close": "2026-11-21"
+   "reg_close": "2026-11-21",
+   "start_time": "10:15"
   },
   {
    "id": "winterlaufserie-tsv-blau-weiss-wolfhagen-ippinghausen-2027",
@@ -30633,12 +30654,13 @@
    ],
    "url": "http://www.gruenweiss-stadtroda.de/",
    "source": "https://www.runme.de/deutschland/zeitzgrundlauf-stadtroda/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeiten laut Anmeldeseite: 14 km 10:15 Uhr, 7 km 10:20 Uhr, Kinderläufe 09:15 und 09:35 Uhr",
-   "checked": "2026-11-05",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeiten laut Anmeldeseite: 14 km 10:15 Uhr, 7 km 10:20 Uhr, Kinderläufe 09:15 und 09:35 Uhr. Online-Anmeldung laut Anmeldeportal (RaceResult) bis zum Lauftag möglich",
+   "checked": "2026-11-13",
    "start_place": "Roda-Stadion, Stadtroda",
    "start_time": "10:15",
    "fee": "14-km-Lauf 15 €, 7-km-Lauf 10 €, Kinderläufe 3 €",
-   "anmeldung_url": "https://my.raceresult.com/420882/registration"
+   "anmeldung_url": "https://my.raceresult.com/420882/registration",
+   "reg_close": "2026-11-14"
   },
   {
    "id": "eicut65-2026",
@@ -30771,10 +30793,10 @@
    "distances": [
     "10"
    ],
-   "url": "https://www.rennsteiglauf.de/",
+   "url": "https://www.rennsteiglauf.de/laufkalender/heiligabend-lauf/",
    "source": "https://www.runme.de/deutschland/rennsteig-heiligabendlauf/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Angaben zu Start, Startgeld und Anmeldung laut Veranstaltungsdatenbank (nicht auf der Vereinsseite bestätigt): 24.12.2026 um 9:00 Uhr, 10-km-Rundkurs durch das untere Vessertal",
-   "checked": "2026-11-05",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Angaben zu Start, Startgeld und Anmeldung laut Veranstaltungsdatenbank (nicht auf der Vereinsseite bestätigt): 24.12.2026 um 9:00 Uhr, 10-km-Rundkurs durch das untere Vessertal. 11. Heiligabend-Lauf: Schmiedefeld – Vesser – Schmiedefeld, 10 km. Veranstalter GutsMuths-Rennsteiglaufverein mit WSV Schmiedefeld.",
+   "checked": "2026-11-13",
    "start_time": "09:00",
    "fee": "Kein Startgeld, Spenden für die Jugendarbeit des WSV Schmiedefeld und das Kinderhospiz Tambach-Dietharz",
    "start_place": "Sportplatz Schmiedefeld am Rennsteig",
@@ -31072,12 +31094,13 @@
    ],
    "anmeldung_url": "https://my.raceresult.com/430171/",
    "source": "https://running.life/de/termine/wintertrail-weissendorf",
-   "info": "Trailveranstaltung mit ca. 7,5 km und 350 Hm inklusive Teufelsberg²-Challenge, Verpflegung und Zielbereich in der Scheune des WeidatalCross. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden)",
-   "checked": "2026-11-05",
+   "info": "Trailveranstaltung mit ca. 7,5 km und 350 Hm inklusive Teufelsberg²-Challenge, Verpflegung und Zielbereich in der Scheune des WeidatalCross. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden). Start 10:15 Uhr laut Anmeldeportal (RaceResult)",
+   "checked": "2026-11-13",
    "fee": "25 € pro Person (inklusive Startplatz über mindestens 7,5 km, Zeitmessung, Teufelsberg²-Challenge, Holz-Finisher-Medaille)",
    "parking": "Kostenfreie Parkplätze",
    "showers": "Beheizte Umkleiden im Außenbereich, Duschen sofern die Witterung es erlaubt",
-   "limit": "Teilnehmerzahl begrenzt"
+   "limit": "Teilnehmerzahl begrenzt",
+   "start_time": "10:15"
   },
   {
    "id": "fuchsberglauf-2027",
@@ -31144,17 +31167,19 @@
     "5",
     "10"
    ],
-   "url": "https://www.vfb-oberweimar.de/",
-   "source": "https://www.runme.de/deutschland/spendenlauf_4/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-02-07. Laut Anmeldeseite am Sonntag 07.02.2027, 5 km und 10 km Start 10:00 Uhr",
-   "checked": "2026-11-09",
+   "url": "https://www.vfb-oberweimar.de/faschingslauf/",
+   "source": "https://www.vfb-oberweimar.de/faschingslauf/",
+   "info": "3. Helauf – Lauf der Narren (Faschingslauf als Spendenlauf) des VfB Oberweimar am Sonntag, 07.02.2027 laut Ausschreibung: 5 km und 10 km Start 10:00 Uhr, Kinderlauf 9:00 Uhr, Anmeldung über RaceResult",
+   "checked": "2026-11-13",
    "start_time": "10:00",
    "fee": "5 km 22,22 €, 10 km 33,33 € (Spendenlauf)",
    "anmeldung_url": "https://my.raceresult.com/428056/registration",
    "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf",
    "parking": "nicht am Parksportplatz, bitte die umliegenden Parkmöglichkeiten nutzen",
-   "late_reg": "vor Ort, solange die maximale Teilnehmerzahl nicht erreicht ist",
-   "start_place": "Parksportplatz VfB Oberweimar, Hohle Gasse 7"
+   "late_reg": "Vor Ort bis 09:30 Uhr am Lauftag, solange die maximale Teilnehmerzahl nicht erreicht ist",
+   "start_place": "Parksportplatz VfB Oberweimar, Hohle Gasse 7",
+   "pickup": "Am Vortag 15–18 Uhr und am Lauftag 8:00–9:30 Uhr im Vereinsheim, Hohle Gasse 7",
+   "limit": "max. 350 Teilnehmende"
   },
   {
    "id": "albert-kuntz-lauf-2027",
@@ -34500,10 +34525,10 @@
    "url": "https://www.rot-weiss90.de/index.html",
    "source": "https://www.runme.de/deutschland/bautzener-silvesterlauf/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Ausschreibung neue Strecken: 5,5 km (55 Hm) und 11,0 km (110 Hm, bisher 10,8 km), 2,6 km unverändert; Start 09:30 Uhr (5,5 und 11,0 km) und 09:40 Uhr (2,6 km); Online-Anmeldung über Baer-Service",
-   "checked": "2026-11-05",
+   "checked": "2026-11-13",
    "start_time": "09:30",
    "fee": "2,6 km 5 €, 5,5 km 8 €, 11,0 km 10 €",
-   "late_reg": "Ab 30.12.2026 steigt die Anmeldegebühr um 4 € je Lauf"
+   "late_reg": "Ab 30.12.2026 Anmeldegebühr 4 € höher je Lauf; am 31.12. Anmeldung vor Ort bedingt möglich (+2 € Nachmeldegebühr)"
   },
   {
    "id": "chemnitzer-silvesterlauf-2026",
@@ -45945,8 +45970,13 @@
    ],
    "url": "https://www.hdsports.org/laufen/berliner-mannschaftslauf-ssv-lichtenrade",
    "source": "https://running.life/de/termine/berliner-mannschaftslauf",
-   "info": "Lauf des SSV Lichtenrade mit Mannschaftswertung über Halbmarathon, 10,5 km und 3,7 km. Termin 21.11.2026 laut running.life, Strecken und Folgetermin (21.11.2027) laut HDsports; Veranstalterseite nicht gefunden.",
-   "checked": "2026-11-05"
+   "info": "Lauf des SSV Lichtenrade mit Mannschaftswertung über Halbmarathon, 10,5 km und 3,7 km. Termin 21.11.2026 laut running.life, Strecken und Folgetermin (21.11.2027) laut HDsports; Veranstalterseite nicht gefunden. Laut running.life: Halbmarathon, Viertelmarathon und 3,7 km, gestaffelte Teamstarts im 20-Sekunden-Takt, Einzel- und Teamwertung; Meldeschluss 19.11.2026, Teamnamen können am Lauftag ergänzt werden. Laut Ausschreibung SSV Lichtenrade: 3,7 km 09:30 Uhr, Halbmarathon und Viertelmarathon einzeln 10:00 Uhr, Mannschaften 10:10 Uhr",
+   "checked": "2026-11-13",
+   "reg_close": "2026-11-19",
+   "start_place": "Stadion An der Windmühle, Buckower Damm 150, 12349 Berlin",
+   "fee": "Halbmarathon 18 €, Viertelmarathon (10,55 km) 12 €, 3,7 km 8 € (Jugend 6 €); Mannschaften: HM 66 €, Viertelmarathon 48 €",
+   "start_time": "10:00",
+   "pickup": "Am Veranstaltungstag ab 8:00 Uhr"
   },
   {
    "id": "freundschaftslauf-der-llg-wustweiler-2026",
@@ -47543,10 +47573,11 @@
    "url": "https://running.life/de/termine/alzeyer-kunst-und-kultur-ultra",
    "anmeldung_url": "https://my.raceresult.com/432430/",
    "source": "https://running.life/de/termine/alzeyer-kunst-und-kultur-ultra",
-   "info": "Termin und Strecken laut running.life/gotrail.run.",
-   "checked": "2026-11-08",
+   "info": "Termin und Strecken laut running.life/gotrail.run. Start 09:00 Uhr laut Anmeldeportal (RaceResult)",
+   "checked": "2026-11-13",
    "reg_close": "2026-11-11",
-   "limit": "20"
+   "limit": "20",
+   "start_time": "09:00"
   },
   {
    "id": "int-deulux-lauf-2026",
@@ -47616,10 +47647,12 @@
    "url": "https://www.mabithon.de",
    "source": "https://running.life/de/termine/mabithon",
    "info": "Termin und Strecken laut running.life/gotrail.run. Laternenlauf mit Herbstfest zugunsten des Abiturjahrgangs 2028: 15:00 Uhr 800 m, 15:20 Uhr 2.028 m, 16:00 Uhr 5 km und 10 km. Weitere Starts: 800 m um 15:00 Uhr, 2.028 m um 15:20 Uhr",
-   "checked": "2026-11-07",
+   "checked": "2026-11-13",
    "start_time": "16:00",
    "fee": "5 km und 10 km je 10 €, 2.028 m und 800 m je 5 €",
-   "start_place": "Stadion im Blumengarten Ingelheim (Start und Ziel aller Läufe)"
+   "start_place": "Stadion im Blumengarten Ingelheim (Start und Ziel aller Läufe)",
+   "late_reg": "Nachmeldung am Samstag, 14.11., vor Ort (nur Barzahlung)",
+   "pickup": "Am Lauftag ab 14:00 Uhr, spätestens 30 Minuten vor dem eigenen Start abholen"
   },
   {
    "id": "potzberg-berglauf-2026",
@@ -47796,10 +47829,12 @@
    "url": "https://running.life/de/termine/lauf-der-nahe-crosslauf-serie-in-schwollen",
    "anmeldung_url": "https://my.raceresult.com/374075/",
    "source": "https://running.life/de/termine/lauf-der-nahe-crosslauf-serie-in-schwollen",
-   "info": "Termin und Strecken laut running.life/gotrail.run. Start Lauf 4 (Mittelstrecke) 14:15 Uhr, Lauf 5 (Langstrecke) 15:00 Uhr; Startgeld laut Anmeldeportal RaceResult am 05.11.2026",
-   "checked": "2026-11-08",
-   "fee": "Mittelstrecke 8 €, Kinder U8 4 €",
-   "reg_close": "2026-11-18"
+   "info": "Termin und Strecken laut running.life/gotrail.run. Start Lauf 4 (Mittelstrecke) 14:15 Uhr, Lauf 5 (Langstrecke) 15:00 Uhr; Startgeld laut Anmeldeportal RaceResult am 05.11.2026. Mittelstrecke 14:15 Uhr, Langstrecke 15:00 Uhr laut Anmeldeportal (RaceResult)",
+   "checked": "2026-11-13",
+   "fee": "Mittel- und Langstrecke je 8 €, Kinder und Jugend 4 €",
+   "reg_close": "2026-11-18",
+   "start_time": "14:15",
+   "late_reg": "Keine Meldungen und Nachmeldungen am Lauftag (Startgebühr bei Anmeldung fällig)"
   },
   {
    "id": "lauf-der-nahe-crosslauf-serie-in-schwollen-2027",
@@ -48025,14 +48060,17 @@
    ],
    "url": "https://lc-hassloch.de/",
    "source": "https://www.runme.de/deutschland/plopsa-nikolauslauf-by-lch/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (21,0975 km um 11:20 Uhr, frühester Lauf ab 5 km). Beginn laut Terminliste des LV Pfalz.",
-   "checked": "2026-11-09",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (21,0975 km um 11:20 Uhr, frühester Lauf ab 5 km). Beginn laut Terminliste des LV Pfalz. Halbmarathon 11:20 Uhr, Einsteigerlauf 5 km 15:15 Uhr (Läuferinnen) und 16:10 Uhr (Läufer) laut Ausschreibung (runtix); Online-Anmeldung über br-timing bis 03.12.2026, 23:59 Uhr; alle Teilnehmenden haben an diesem Tag freien Eintritt ins Plopsaland",
+   "checked": "2026-11-13",
    "start_time": "11:20",
    "start_place": "Im Freizeitpark in Haßloch, Strecke durch den Haßlocher Wald",
    "pickup": "am Veranstaltungstag ab 10:15 Uhr vor Ort",
    "parking": "mit Startnummer kostenlos am Freizeitpark",
    "showers": "Toiletten und Umkleiden im Freizeitpark",
-   "late_reg": "keine Um- und Nachmeldungen möglich"
+   "late_reg": "keine Um- und Nachmeldungen möglich",
+   "fee": "Halbmarathon 23 €, Einsteigerlauf 5 km 10 €, Schülerlauf 3,3 km 7 €, Bambini/U10 5 €, Minilauf frei",
+   "reg_close": "2026-12-03",
+   "limit": "Teilnehmerlimits für alle Strecken bis 5 km (nicht für den Halbmarathon)"
   },
   {
    "id": "eifellauf-pronsfeld-2026",
@@ -48811,7 +48849,8 @@
    "confirmed": true,
    "source": "http://302510.webhosting47.1blu.de/nahecross2/ausschreibung.html",
    "info": "5. Lauf der 16. OIE-Nahe-Crosslauf-Serie am Sportplatz Algenrodt laut Serienausschreibung; Strecken 500 m bis 8,4 km, Online-Anmeldung bis Mittwoch vor dem Lauf.",
-   "checked": "2026-11-11"
+   "checked": "2026-11-13",
+   "late_reg": "Keine Meldungen und Nachmeldungen am Lauftag (Startgebühr bei Anmeldung fällig)"
   },
   {
    "id": "freinsheimer-volkslauf-rund-um-den-oschelkopf-2027",
@@ -53749,9 +53788,11 @@
    ],
    "url": "https://djk-novesia.de/",
    "source": "https://www.runme.de/deutschland/neusser-erftlauf/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 13:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "13:00"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 13:00 Uhr, frühester Lauf ab 5 km). Start 5 km 13:00 Uhr, 15 km 14:00 Uhr laut Anmeldeportal (RaceResult)",
+   "checked": "2026-11-13",
+   "start_time": "13:00",
+   "fee": "5 km ab 11 €, 15 km ab 14 €, Kinderläufe 6–9 € (Preise je nach Altersklasse, laut Anmeldeportal)",
+   "reg_open": "2026-08-30"
   },
   {
    "id": "biegerparklauf-2026",
@@ -53771,12 +53812,14 @@
    "anmeldung_url": "https://my.raceresult.com/422050/",
    "source": "https://running.life/de/termine/biegerparklauf",
    "info": "Termin laut Veranstaltungskalender des Leichtathletik-Verbands Nordrhein (beim Verband angemeldet). Strecken laut running.life. Start 13:45 Uhr 5 km, 15:15 Uhr 10 km, Schülerläufe ab 12:00 Uhr; Startgeld laut Anmeldeportal RaceResult am 05.11.2026",
-   "checked": "2026-11-08",
+   "checked": "2026-11-13",
    "late_reg": "Anmeldung bis zum Veranstaltungstag geöffnet, ab 12.11.2026 Nachmeldegebühr von 2 € (online und vor Ort)",
    "showers": "Duschen, Umkleiden und WCs an der Anlage vorhanden",
    "start_time": "13:45",
    "fee": "5 km: Jahrgang 2006 und älter 14 € (bis 11.11.2026), 16 € (12. bis 14.11.); Jahrgang 2007 bis 2018 10 € bzw. 12 €; 10 km: Jahrgang 2006 und älter 14 € (bis 11.11.2026); Schülerläufe 6 € bzw. 8 €, Bambini 4 € bzw. 6 €",
-   "pickup": "Ab 11 Uhr am Veranstaltungstag am Info-Stand in der Sporthalle."
+   "pickup": "Ab 11 Uhr am Veranstaltungstag am Info-Stand in der Sporthalle.",
+   "reg_close": "2026-11-14",
+   "parking": "Ausreichend Parkplätze auf dem Schulgelände vom Mannesmann-Gymnasium und dem Bertolt-Brecht-Berufskolleg"
   },
   {
    "id": "nord-sued-lauf-2026",
@@ -54503,9 +54546,10 @@
    ],
    "url": "http://www.lauftreff-mondorf.de",
    "source": "https://www.runme.de/deutschland/rewe-weihnachtslauf-niederkassel-mondorf/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10 km um 10:35 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "10:35"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10 km um 10:35 Uhr, frühester Lauf ab 5 km). Laut Anmeldeportal (RaceResult): 5 km 10:25 Uhr, 10 km 11:30 Uhr, Walking ab 10:30 Uhr",
+   "checked": "2026-11-13",
+   "start_time": "10:25",
+   "fee": "5 km und 10 km je 16 € (Jugend 9 €), Kinder- und Jugendlauf 8 €, Bambini 5 €"
   },
   {
    "id": "nikolauslauf-der-tsg-duelmen-2026",
@@ -54643,9 +54687,10 @@
    "url": "http://www.rc-herdecke.de/",
    "source": "https://www.runme.de/deutschland/nikolauslauf-herdecke/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (9,6 km um 14:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-09",
+   "checked": "2026-11-13",
    "start_time": "14:00",
-   "reg_open": "2026-09-25"
+   "reg_open": "2026-09-25",
+   "fee": "13 € (bis 03.12.2026), danach 16 €"
   },
   {
    "id": "werdener-crosslauf-2026",
@@ -54737,10 +54782,11 @@
    ],
    "url": "https://www.susoberaden-la.de/",
    "source": "https://www.runme.de/deutschland/barbara-runde-ueber-10-km-bergkamen-oberaden/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 11:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-09",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 11:00 Uhr, frühester Lauf ab 5 km). 5 km 11:00 Uhr, 10 km 12:15 Uhr laut Anmeldeportal (RaceResult)",
+   "checked": "2026-11-13",
    "start_time": "11:00",
-   "reg_open": "2026-10-13"
+   "reg_open": "2026-10-13",
+   "fee": "10 km 14 €, 5 km 10 € (bis 03.12.2026); am Lauftag 16 € bzw. 12 €; Schülerläufe 6 €, Bambini frei"
   },
   {
    "id": "barbara-runde-2027",
@@ -54803,9 +54849,10 @@
    "url": "http://www.lgow.de",
    "source": "https://www.runme.de/deutschland/oelder-nikolauslauf/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (11,5 km um 10:30 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-09",
+   "checked": "2026-11-13",
    "start_time": "10:30",
-   "reg_close": "2026-12-04"
+   "reg_close": "2026-12-04",
+   "fee": "11,5 km 10 € (Jahrgang 2007–2010: 8 €), 3 km Fitnesslauf 8 €, Kinderläufe 5 €"
   },
   {
    "id": "oelder-nikolauslauf-2027",
@@ -54959,12 +55006,13 @@
    "url": "https://ellewicker-adventslauf.de/",
    "source": "https://www.runme.de/deutschland/ellewicker-adventslauf/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 15:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-09",
+   "checked": "2026-11-13",
    "start_time": "15:00",
    "late_reg": "Nachmeldung bis kurz vor dem Start gegen 2 € Nachmeldegebühr (nur Barzahlung)",
    "showers": "Duschen und Umkleiden beim ASV Ellewick-Crosewick",
    "fee": "5 km 7 €, Kinderlauf 4 €; Nachmeldung +2 €",
-   "reg_open": "2026-08-31"
+   "reg_open": "2026-08-31",
+   "pickup": "In der Schützenhalle"
   },
   {
    "id": "schnadegang-rund-um-ennepetal-2026",
@@ -55248,11 +55296,11 @@
    ],
    "url": "http://www.lg-oerlinghausen.de/",
    "source": "https://www.runme.de/deutschland/weihnachtslauf-lipperreihe-oerlinghausen/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10 km um 09:30 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-09",
-   "start_time": "09:30",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Laut Anmeldeportal (RaceResult): 10 km und 5,5 km 10:00 Uhr, Walking 09:30 Uhr, Kinderlauf 09:35 Uhr",
+   "checked": "2026-11-13",
+   "start_time": "10:00",
    "late_reg": "Nachmeldung vor Ort gegen 5 € Nachmeldegebühr (nur Barzahlung)",
-   "fee": "Erwachsene 12 €, Jugendliche 10 €",
+   "fee": "10 km 12 € (Jugend 10 €), 5,5 km 10 € (Jugend 8 €), Walking 10 km 12 €, Kinderlauf 3 €",
    "showers": "Duschmöglichkeiten in der Grundschule Lipperreihe.",
    "start_place": "Grundschule Lipperreihe, Schulstraße 19, 33813 Oerlinghausen (auch Meldebüro).",
    "reg_open": "2026-10-15"
@@ -56195,8 +56243,8 @@
    ],
    "url": "http://www.helmuturbach.de",
    "source": "https://www.runme.de/deutschland/neujahrslauf-lsv-porz-koeln/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 11:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 11:00 Uhr, frühester Lauf ab 5 km). Termin laut hdsports.org vom Veranstalter bestätigt.",
+   "checked": "2026-11-13",
    "start_time": "11:00",
    "charity": "Laut Veranstalter ein Benefiz- bzw. Spendenlauf"
   },
@@ -56332,12 +56380,13 @@
    ],
    "url": "http://www.sued-cup.de/",
    "source": "https://www.runme.de/deutschland/lauf-rund-um-die-anger-duisburg/",
-   "info": "Laut Veranstalterseite (sued-cup.de) Angerlauf am Samstag 09.01.2027; so auch im DLV-Laufkalender auf laufen.de. Strecken laut RUNME. Startzeit laut RUNME (5 km um 13:45 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-09",
+   "info": "Laut Veranstalterseite (sued-cup.de) Angerlauf am Samstag 09.01.2027; so auch im DLV-Laufkalender auf laufen.de. Strecken laut RUNME. Startzeit laut RUNME (5 km um 13:45 Uhr, frühester Lauf ab 5 km). Preise laut Anmeldeportal (RaceResult)",
+   "checked": "2026-11-13",
    "start_time": "13:45",
    "pickup": "am Veranstaltungstag ab 11 Uhr am Info-Stand in der Sporthalle",
    "showers": "Duschen, Umkleiden und WCs in der Sporthalle",
-   "late_reg": "Online-Anmeldung bis zum Veranstaltungstag geöffnet (kurz vorher mit Nachmeldegebühr)"
+   "late_reg": "Online-Anmeldung bis zum Veranstaltungstag geöffnet (kurz vorher mit Nachmeldegebühr)",
+   "fee": "5 km und 10 km 14 € (bis 06.01.2027), danach 16 €; Jahrgang 2007–2018 10 € bzw. 12 €; Schülerläufe 6 € bzw. 8 €, Bambini 4 € bzw. 6 €"
   },
   {
    "id": "winterlaufserie-sg-bockenberg-2027",
@@ -56636,8 +56685,8 @@
    ],
    "url": "https://www.asv-winterlaufserie.de/ausschreibung/",
    "source": "https://www.asv-winterlaufserie.de/ausschreibung/",
-   "info": "Termin und Strecken laut running.life/gotrail.run. 1. Lauf am 23.01.2027: 5 km um 14:00 Uhr (Startfeld 2 um 14:30 Uhr), 10 km um 15:00 Uhr. Strecken und Startzeiten laut Ausschreibung des ASV Duisburg; Meldeschluss für die Gesamtserie 24.12.2026. Meldeschluss für die Winterlaufserie laut Veranstalter: 24.12.2026.",
-   "checked": "2026-11-09",
+   "info": "Termin und Strecken laut running.life/gotrail.run. 1. Lauf am 23.01.2027: 5 km um 14:00 Uhr (Startfeld 2 um 14:30 Uhr), 10 km um 15:00 Uhr. Strecken und Startzeiten laut Ausschreibung des ASV Duisburg; Meldeschluss für die Gesamtserie 24.12.2026. Meldeschluss für die Winterlaufserie laut Veranstalter: 24.12.2026. Startgeld der Winterlaufserie gestaffelt nach Meldedatum laut Ausschreibung (01.08.2026: 60 € bis ab 25.12.2026: 90 €)",
+   "checked": "2026-11-13",
    "parking": "Kostenlose Parkplätze in Ziel-/Startnähe, ausreichend vorhanden",
    "showers": "Duschen und Umkleiden in Ziel-/Startnähe",
    "start_place": "Sportpark Duisburg: Start Margarethenstraße (vor der Schauinsland-Reisen-Arena), Ziel im Leichtathletik-Stadion",
@@ -56645,7 +56694,8 @@
    "reg_close": "2026-12-24",
    "pickup": "Per Post bis 16.01.2027 (bei Anmeldung bis Meldeschluss).",
    "late_reg": "Nach Meldeschluss noch möglich, solange das Teilnehmerlimit nicht erreicht ist; Postversand dann nicht sicher.",
-   "limit": "150 Teilnehmer"
+   "limit": "150 Teilnehmer",
+   "fee": "Nur als Serie (3 Läufe): Erwachsene 80 € (bis 24.12.2026), ab 25.12.2026 90 €; Jugend bis Jahrgang 2008 40 €"
   },
   {
    "id": "tusem-westdeutsche-waldlaufserie-2027",
@@ -56757,14 +56807,16 @@
    "date": "2027-01-30",
    "confirmed": true,
    "distances": [
-    "5,6",
-    "7,4"
+    "5,35"
    ],
    "url": "http://www.tsv-weeze-leichtathletik.de",
    "source": "https://www.runme.de/deutschland/crosslauf-am-petrusheim/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5,55 km um 14:20 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "14:20"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Startzeit laut RUNME (5,55 km um 14:20 Uhr, frühester Lauf ab 5 km). Laut Ausschreibung: Hauptlauf ca. 5350 m um 14:35 Uhr; Online-Meldung bis Mittag am 28.01.2027. Strecken laut Ausschreibung 2027: Hauptlauf ca. 5350 m (Männer/Frauen), Jugend ca. 3150 m, Schülerläufe 1050–2100 m",
+   "checked": "2026-11-13",
+   "start_time": "14:35",
+   "fee": "ca. 5,35 km (Männer/Frauen) 11 €, Jugend 8 € (jeweils + 3 € Chip-Pfand); Nachmeldung +2 €",
+   "reg_close": "2027-01-28",
+   "late_reg": "Am Veranstaltungstag +2 € (bar oder EC)"
   },
   {
    "id": "winterwaldlauf-2027",
@@ -56955,12 +57007,14 @@
    ],
    "url": "http://www.lg-hamm.de",
    "source": "https://www.runme.de/deutschland/osc-hamm-winterlaufserie/",
-   "info": "53. Winterlaufserie in Hamm: laut DLV-Laufkalender auf laufen.de 15 km am 14.02.2027 (10 km am 31.01., Halbmarathon am 28.02.).",
-   "checked": "2026-11-09",
+   "info": "53. Winterlaufserie in Hamm: laut DLV-Laufkalender auf laufen.de 15 km am 14.02.2027 (10 km am 31.01., Halbmarathon am 28.02.). Laut Ausschreibung LG Hamm: Serie komplett 39 € (bis 26.01.2027), 41 € (bis 29.01.), danach 43 €; Jugend bis U20 50 % Nachlass; zzgl. 3 € Chip-Pfand und 1 € Spende für den Hospiz-Förderverein; 15 km Start 11:00 Uhr",
+   "checked": "2026-11-13",
    "prev": {
     "start_time": "11:00"
    },
-   "start_place": "Tartanbahn im Jahnstadion Hamm"
+   "start_place": "Tartanbahn im Jahnstadion Hamm",
+   "fee": "15 € (bis 26.01.2027), 17 € (bis 29.01.), danach 19 €",
+   "start_time": "11:00"
   },
   {
    "id": "winterlaufserie-lsv-porz-2027",
@@ -57004,8 +57058,8 @@
    ],
    "url": "https://www.asv-winterlaufserie.de/ausschreibung/",
    "source": "https://www.asv-winterlaufserie.de/ausschreibung/",
-   "info": "Termin und Strecken laut running.life/gotrail.run. 2. Lauf am 13.02.2027: 7,5 km um 14:00 Uhr, 15 km um 15:00 Uhr. Strecken und Startzeiten laut Ausschreibung des ASV Duisburg; Meldeschluss für die Gesamtserie 24.12.2026. Meldeschluss für die Winterlaufserie laut Veranstalter: 24.12.2026.",
-   "checked": "2026-11-09",
+   "info": "Termin und Strecken laut running.life/gotrail.run. 2. Lauf am 13.02.2027: 7,5 km um 14:00 Uhr, 15 km um 15:00 Uhr. Strecken und Startzeiten laut Ausschreibung des ASV Duisburg; Meldeschluss für die Gesamtserie 24.12.2026. Meldeschluss für die Winterlaufserie laut Veranstalter: 24.12.2026. Startgeld der Winterlaufserie gestaffelt nach Meldedatum laut Ausschreibung (01.08.2026: 60 € bis ab 25.12.2026: 90 €)",
+   "checked": "2026-11-13",
    "parking": "Kostenlose Parkplätze in Ziel-/Startnähe, ausreichend vorhanden",
    "showers": "Duschen und Umkleiden in Ziel-/Startnähe",
    "start_place": "Sportpark Duisburg: Start Margarethenstraße (vor der Schauinsland-Reisen-Arena), Ziel im Leichtathletik-Stadion",
@@ -57013,7 +57067,8 @@
    "reg_close": "2026-12-24",
    "pickup": "Per Post bis 16.01.2027 (bei Anmeldung bis Meldeschluss).",
    "late_reg": "Nach Meldeschluss noch möglich, solange das Teilnehmerlimit nicht erreicht ist; Postversand dann nicht sicher.",
-   "limit": "150 Teilnehmer"
+   "limit": "150 Teilnehmer",
+   "fee": "Nur als Serie (3 Läufe): Erwachsene 80 € (bis 24.12.2026), ab 25.12.2026 90 €; Jugend bis Jahrgang 2008 40 €"
   },
   {
    "id": "bertlicher-strassenlaeufe-2027",
@@ -57211,11 +57266,10 @@
    ],
    "url": "https://lg-hamm.de/index.php/leichtathletik/veranstaltungen/winterlaufserie",
    "source": "https://running.life/de/termine/hammer-winterlaufserie/2027-02-28",
-   "info": "Termin laut Veranstaltungskalender des Leichtathletik-Verbands Nordrhein (beim Verband angemeldet). Strecken laut running.life. Halbmarathon am 28.02.2027 um 11:00 Uhr, Meldungen bis 20.12.2026 laut Veranstalterseite. Laut laufen.de 53. Winterlaufserie (Halbmarathon) am 28.02.2027.",
-   "checked": "2026-11-09",
+   "info": "Termin laut Veranstaltungskalender des Leichtathletik-Verbands Nordrhein (beim Verband angemeldet). Strecken laut running.life. Halbmarathon am 28.02.2027 um 11:00 Uhr, Meldungen bis 20.12.2026 laut Veranstalterseite. Laut laufen.de 53. Winterlaufserie (Halbmarathon) am 28.02.2027. Laut Ausschreibung LG Hamm: Serie komplett 39 € (bis 26.01.2027), 41 € (bis 29.01.), danach 43 €; Jugend bis U20 50 % Nachlass; zzgl. 3 € Chip-Pfand und 1 € Spende für den Hospiz-Förderverein; Halbmarathon nur bei erwarteter Zeit unter 2:45 Std.",
+   "checked": "2026-11-13",
    "start_time": "11:00",
-   "reg_close": "2026-12-20",
-   "fee": "10 km 12 €, 15 km 15 € (Meldung bis 20.12.2026); Serie komplett 36 €",
+   "fee": "18 € (bis 26.01.2027), 20 € (bis 29.01.), danach 22 €",
    "start_place": "Tartanbahn im Jahnstadion Hamm"
   },
   {
@@ -57477,8 +57531,8 @@
    ],
    "url": "https://www.asv-winterlaufserie.de/ausschreibung/",
    "source": "https://www.asv-winterlaufserie.de/ausschreibung/",
-   "info": "Termin und Strecken laut running.life/gotrail.run. 3. Lauf am 13.03.2027: 10 km um 14:00 Uhr, Halbmarathon um 15:00 Uhr (Zielschluss 17:45 Uhr). Strecken und Startzeiten laut Ausschreibung des ASV Duisburg; Meldeschluss für die Gesamtserie 24.12.2026. Meldeschluss für die Winterlaufserie laut Veranstalter: 24.12.2026.",
-   "checked": "2026-11-09",
+   "info": "Termin und Strecken laut running.life/gotrail.run. 3. Lauf am 13.03.2027: 10 km um 14:00 Uhr, Halbmarathon um 15:00 Uhr (Zielschluss 17:45 Uhr). Strecken und Startzeiten laut Ausschreibung des ASV Duisburg; Meldeschluss für die Gesamtserie 24.12.2026. Meldeschluss für die Winterlaufserie laut Veranstalter: 24.12.2026. Startgeld der Winterlaufserie gestaffelt nach Meldedatum laut Ausschreibung (01.08.2026: 60 € bis ab 25.12.2026: 90 €)",
+   "checked": "2026-11-13",
    "parking": "Kostenlose Parkplätze in Ziel-/Startnähe, ausreichend vorhanden",
    "showers": "Duschen und Umkleiden in Ziel-/Startnähe",
    "start_place": "Sportpark Duisburg: Start Margarethenstraße (vor der Schauinsland-Reisen-Arena), Ziel im Leichtathletik-Stadion",
@@ -57486,7 +57540,8 @@
    "reg_close": "2026-12-24",
    "pickup": "Per Post bis 16.01.2027 (bei Anmeldung bis Meldeschluss).",
    "late_reg": "Nach Meldeschluss noch möglich, solange das Teilnehmerlimit nicht erreicht ist; Postversand dann nicht sicher.",
-   "limit": "150 Teilnehmer"
+   "limit": "150 Teilnehmer",
+   "fee": "Nur als Serie (3 Läufe): Erwachsene 80 € (bis 24.12.2026), ab 25.12.2026 90 €; Jugend bis Jahrgang 2008 40 €"
   },
   {
    "id": "ultra-im-hoennetal-2027",
@@ -67421,9 +67476,10 @@
    "url": "http://www.lggoettingen.de",
    "source": "https://www.runme.de/deutschland/goettinger-cross-serie-lauf1/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 13:50 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-07",
+   "checked": "2026-11-13",
    "start_time": "13:50",
-   "reg_close": "2026-11-10"
+   "reg_close": "2026-11-10",
+   "late_reg": "Keine Nachmeldungen, auch nicht vor Ort"
   },
   {
    "id": "stadion-crosslauf-2026",
@@ -67485,7 +67541,7 @@
    "url": "https://jobst-von-palombini.webnode.page/ausschreibungen/",
    "source": "https://running.life/de/termine/kanal-marathon-hespe",
    "info": "Termin und Strecken laut running.life/gotrail.run.",
-   "checked": "2026-11-08",
+   "checked": "2026-11-13",
    "start_time": "10:00",
    "fee": "Kein Startgeld, Spende von 8 € zur Kostendeckung erwünscht",
    "reg_close": "2026-11-14",
@@ -67679,14 +67735,15 @@
    "url": "https://jobst-von-palombini.webnode.page/ausschreibungen/",
    "source": "https://running.life/de/termine/gevatterseemarathon/2026-11-23",
    "info": "Termin und Strecken laut running.life/gotrail.run.",
-   "checked": "2026-11-09",
+   "checked": "2026-11-13",
    "start_time": "10:00",
    "fee": "Kein Startgeld, Spende von 8 € zur Kostendeckung erwünscht",
    "reg_close": "2026-11-22",
    "start_place": "Treffpunkt Am Sportfeld 3, 31675 Bückeburg (Petzen/Evesen); gemeinsamer Gang zum Start (ca. 100 m).",
    "parking": "Parkplätze 100 m vor dem Start (Sportzentrum Evesen)",
    "showers": "keine Duschen, Toiletten und Kleiderablagen vorhanden",
-   "late_reg": "am Veranstaltungstag nur in sehr geringem Umfang (Voranmeldung erbeten)"
+   "late_reg": "am Veranstaltungstag nur in sehr geringem Umfang (Voranmeldung erbeten)",
+   "limit": "max. 24 Teilnehmende"
   },
   {
    "id": "orange-day-hannover-2026",
@@ -68350,9 +68407,10 @@
    "url": "http://www.lggoettingen.de",
    "source": "https://www.runme.de/deutschland/goettinger-cross-serie-lauf2/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 14:40 Uhr, frühester Lauf ab 5 km). Termin 05.12.2026 laut LG Göttingen (lggoettingen.de)",
-   "checked": "2026-11-07",
+   "checked": "2026-11-13",
    "start_time": "14:40",
-   "reg_close": "2026-12-01"
+   "reg_close": "2026-12-01",
+   "late_reg": "Keine Nachmeldungen, auch nicht vor Ort"
   },
   {
    "id": "steinhuder-meer-marathon-2026",
@@ -68509,14 +68567,15 @@
    "url": "https://jobst-von-palombini.webnode.page/ausschreibungen/",
    "source": "https://running.life/de/termine/gevatterseemarathon/2026-12-13",
    "info": "Termin und Strecken laut running.life/gotrail.run.",
-   "checked": "2026-11-09",
+   "checked": "2026-11-13",
    "start_time": "10:00",
    "fee": "Kein Startgeld, Spende von 8 € zur Kostendeckung erwünscht",
    "reg_close": "2026-12-12",
    "start_place": "Treffpunkt Am Sportfeld 3, 31675 Bückeburg (Petzen/Evesen); gemeinsamer Gang zum Start (ca. 100 m).",
    "parking": "Parkplätze 100 m vor dem Start (Sportzentrum Evesen)",
    "showers": "keine Duschen, Toiletten und Kleiderablagen vorhanden",
-   "late_reg": "am Veranstaltungstag nur in sehr geringem Umfang (Voranmeldung erbeten)"
+   "late_reg": "am Veranstaltungstag nur in sehr geringem Umfang (Voranmeldung erbeten)",
+   "limit": "max. 24 Teilnehmende"
   },
   {
    "id": "osc-vorsilvesterlauf-2026",
@@ -68872,11 +68931,12 @@
    ],
    "url": "https://silvesterlauf-bremen.de/",
    "source": "https://www.runme.de/deutschland/silvesterlauf-bremen/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 12:00 Uhr, frühester Lauf ab 5 km). Anmeldung bis 13.12.2026 (23:59 Uhr) mit gedrucktem Namen auf der Startnummer, danach handgeschriebener Name",
-   "checked": "2026-11-05",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 12:00 Uhr, frühester Lauf ab 5 km). Anmeldung bis 13.12.2026 (23:59 Uhr) mit gedrucktem Namen auf der Startnummer, danach handgeschriebener Name. Laut Ausschreibung 2026: 5 km 12:00 Uhr, 10 km 13:15 Uhr, Walking 12:50 Uhr; bei Anmeldung bis 13.12.2026 Startnummer mit gedrucktem Namen",
+   "checked": "2026-11-13",
    "start_time": "12:00",
    "late_reg": "Anmeldung bis zum Erreichen des Teilnehmerlimits, spätestens bis 31.12.2026 um 11:30 Uhr",
-   "pickup": "Postversand der Startnummern gegen 5 € Gebühr möglich"
+   "pickup": "Postversand der Startnummern gegen 5 € Gebühr möglich",
+   "fee": "5 km 20 €, 10 km 23 € (bis 30.11.2026); 01.–23.12.: 26 € bzw. 28 €; 24.–30.12.: 32 € bzw. 33 €; am Lauftag 40 € bzw. 45 €"
   },
   {
    "id": "silvesterlauf-bremen-2027",
@@ -69111,11 +69171,12 @@
    ],
    "url": "https://www.sv-burgwedel.de/",
    "source": "https://www.runme.de/deutschland/silvesterlauf-grossburgwedel/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5,3 km um 12:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-09",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5,3 km um 12:00 Uhr, frühester Lauf ab 5 km). Preise laut Anmeldeportal (RaceResult)",
+   "checked": "2026-11-13",
    "start_time": "12:00",
    "reg_open": "2026-10-25",
-   "reg_close": "2026-12-29"
+   "reg_close": "2026-12-29",
+   "fee": "10 km 13 € (Jugend 9 €), 5,3 km 9 € (Jugend 6 €), Kinderlauf 2 €"
   },
   {
    "id": "burgwedeler-silvesterlauf-2027",
@@ -69410,13 +69471,14 @@
    "url": "https://lauftreff.sve-hamburg.de/",
    "source": "https://www.runme.de/deutschland/silvesterlauf-sv-eidelstedt/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5,5 km um 09:45 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-08",
+   "checked": "2026-11-13",
    "start_time": "09:45",
    "start_place": "Stadion am Redingskamp 25, Hamburg-Eidelstedt",
    "parking": "Begrenzte Parkmöglichkeiten am Redingskamp 25, Grandplatz als Parkfläche nutzbar",
    "showers": "Duschen, Umkleidemöglichkeiten und Toiletten vorhanden",
    "fee": "10 km: 15 €, 5,5 km: 12 € (Meldegeld ab 01.11.2026)",
-   "pickup": "Am Veranstaltungstag ab 08:30 Uhr im Sportcafé am Redingskamp 25."
+   "pickup": "Am Veranstaltungstag ab 08:30 Uhr im Sportcafé am Redingskamp 25.",
+   "limit": "max. 450 Teilnehmende"
   },
   {
    "id": "silvesterlauf-soegel-2026",
@@ -69648,9 +69710,10 @@
    "url": "http://www.lggoettingen.de",
    "source": "https://www.runme.de/deutschland/goettinger-cross-serie-lauf3/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 13:50 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
+   "checked": "2026-11-13",
    "start_time": "13:50",
-   "reg_close": "2027-01-05"
+   "reg_close": "2027-01-05",
+   "late_reg": "Keine Nachmeldungen, auch nicht vor Ort"
   },
   {
    "id": "langfoerdener-sgh-lauf-2027",
@@ -70064,9 +70127,10 @@
    "anmeldung_url": "https://my.raceresult.com/427867/",
    "source": "https://running.life/de/termine/deister-arschgeweih-marathon",
    "info": "Termin und Strecken laut running.life/gotrail.run. Start 08:00 Uhr laut Anmeldeportal; Warteliste geschlossen. Termin laut Anmeldeportal (RaceResult, Stand 09.11.2026) bestätigt.",
-   "checked": "2026-11-09",
+   "checked": "2026-11-13",
    "start_time": "08:00",
-   "reg_close": "2027-01-30"
+   "reg_close": "2027-01-30",
+   "fee": "Ultra-Marathon 35 € (laut Anmeldeportal RaceResult)"
   },
   {
    "id": "oste-cup-lauf-1-crosslauf-in-der-ahe-2027",
@@ -79366,8 +79430,9 @@
    "url": "https://www.borener-sv.de/",
    "source": "https://www.runme.de/deutschland/lila-eule-cross/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5,4 km um 12:10 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "12:10"
+   "checked": "2026-11-13",
+   "start_time": "12:10",
+   "late_reg": "Nur noch in begrenzter Zahl, am Sonntag bis 45 Minuten vor dem jeweiligen Start"
   },
   {
    "id": "lila-eule-cross-2027",
@@ -79540,9 +79605,11 @@
    ],
    "url": "http://meinatsv.de/",
    "source": "https://www.runme.de/deutschland/nikolauslauf-des-ahrensburger-tsv/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (7,94 km um 12:15 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "12:15"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (7,94 km um 12:15 Uhr, frühester Lauf ab 5 km). Cross kurz 11:45 Uhr, Cross lang 12:15 Uhr laut Anmeldeportal (RaceResult)",
+   "checked": "2026-11-13",
+   "start_time": "12:15",
+   "fee": "Cross lang 7,94 km 6–8 €, Cross kurz 4,76 km 4–8 € (je nach Altersklasse); Schüler 4 €",
+   "reg_close": "2026-11-30"
   },
   {
    "id": "fischteiche-cross-2026",
@@ -79932,8 +79999,8 @@
    ],
    "url": "https://www.stgk.de/Veranstaltung_Detail.asp?Code=21",
    "source": "https://running.life/de/termine/winterlauf-des-ratzeburger-ruderclubs",
-   "info": "Termin und Strecken laut running.life/gotrail.run. Termin laut Veranstalterseite bestätigt (Stand 08.11.2026). Ausschreibung 53. Winterlauf am 17.01.2027 (Zeitnehmer STGK): Meldeschluss 13.01.2027, 18:00 Uhr.",
-   "checked": "2026-11-08",
+   "info": "Termin und Strecken laut running.life/gotrail.run. Termin laut Veranstalterseite bestätigt (Stand 08.11.2026). Ausschreibung 53. Winterlauf am 17.01.2027 (Zeitnehmer STGK): Meldeschluss 13.01.2027, 18:00 Uhr. Hauptlauf ca. 8,3 km um den Kleinen und Großen Küchensee, Start 11:30 Uhr; Kinderläufe 10:30 Uhr (laut Ausschreibung)",
+   "checked": "2026-11-13",
    "reg_close": "2027-01-13",
    "showers": "Umkleiden, Duschen und Toiletten im Ratzeburger Ruderclub",
    "start_place": "Ratzeburger Ruderclub, Dr.-Alfred-Block-Allee 5, Ratzeburg",
@@ -79942,7 +80009,8 @@
    },
    "fee": "Erwachsene 12 € (Nachmeldung 15 €), Junioren 10 €, Kinder 8 €",
    "pickup": "Startnummern und Transponder am Veranstaltungstag ab 9:00 Uhr im Clubraum des Ruderclubs.",
-   "late_reg": "Am Veranstaltungstag ab 9:00 Uhr bis 30 Minuten vor dem Start (Erwachsene 15 €)."
+   "late_reg": "Am Veranstaltungstag ab 9:00 Uhr bis 30 Minuten vor dem Start (Erwachsene 15 €).",
+   "start_time": "11:30"
   },
   {
    "id": "cross-und-waldlaufserie-im-kreisforst-weddingstedt-2027",
@@ -82815,10 +82883,11 @@
    ],
    "url": "https://uer-laufcup.de/",
    "source": "https://www.runme.de/deutschland/ueckermuender-weihnachtslauf/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 10:15 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-09",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 10:15 Uhr, frühester Lauf ab 5 km). Startgebühren laut Ausschreibung des Ueckermünder Laufcups; Anmeldung über das Kontaktformular auf uer-laufcup.de",
+   "checked": "2026-11-13",
    "start_time": "10:15",
-   "late_reg": "am Wettkampftag bis 09:30 Uhr"
+   "late_reg": "am Wettkampftag bis 09:30 Uhr",
+   "fee": "9,4 km 5 €, 5 km 3 €, 5 km Walking 5 €, Kinderläufe 3 €"
   },
   {
    "id": "moenchguter-brennereilauf-2026",
@@ -85471,9 +85540,10 @@
    "url": "https://www.lg-donau-ries.de/",
    "source": "https://blv-sport.de/laufsport/laufkalender",
    "info": "3. Lauf der 49. Jedermannslaufserie der LG Donau-Ries (5 Läufe). Hauptstrecke ca. 10 km, dazu Kurz- und Hobbystrecken; laut Stadt Rain ist auch eine Anmeldung nur für den Einzellauf möglich. Termin laut BLV-Laufkalender. Laut LG Donau-Ries startet die Langstrecke (ca. 10 km) wie gewohnt um 10:00 Uhr, Kurzstrecke (3 km) und Walker (7 km) etwa 5 Minuten später",
-   "checked": "2026-11-07",
+   "checked": "2026-11-13",
    "fee": "Erwachsene 10 km: Einzelanmeldung 12 €; ganze Serie online 30 € (bei Anmeldung am ersten Lauf 35 €)",
-   "start_time": "10:00"
+   "start_time": "10:00",
+   "reg_close": "2026-11-19"
   },
   {
    "id": "riespanoramalauf-noerdlingen-2027",
@@ -87008,9 +87078,9 @@
     "10"
    ],
    "source": "https://www.wlv-sport.de/home/breitensport/laufveranstaltungen/veranstaltungstermine",
-   "checked": "2026-11-09",
+   "checked": "2026-11-13",
    "end": null,
-   "info": "2. Lauf des 24. ALB-GOLD Winterlauf-Cups, Ausrichter LV Pliezhausen 2012: 10-km-Hauptlauf, 5 km und Kinderlauf. Termin laut WLV-Laufkalender (Stand 08.11.2026). Laut Veranstalterseite gilt für Einzelmeldungen der Samstag vor dem Rennen (bis 24 Uhr) als Anmeldeschluss; Startnummernausgabe ab 12:30 Uhr.",
+   "info": "2. Lauf des 24. ALB-GOLD Winterlauf-Cups, Ausrichter LV Pliezhausen 2012: 10-km-Hauptlauf, 5 km und Kinderlauf. Termin laut WLV-Laufkalender (Stand 08.11.2026). Laut Veranstalterseite gilt für Einzelmeldungen der Samstag vor dem Rennen (bis 24 Uhr) als Anmeldeschluss; Startnummernausgabe ab 12:30 Uhr. Teilnahmegebühren laut Ausschreibung des ALB-GOLD Winterlauf-Cups; Startzeiten der 5- und 10-km-Läufe legt der jeweilige Ausrichter fest",
    "lat": 48.559,
    "lon": 9.207,
    "anmeldung_url": "https://my.raceresult.com/431181/",
@@ -87022,7 +87092,8 @@
    },
    "url": "https://www.alb-gold.de/aktiv/alb-gold-winterlauf.html",
    "reg_close": "2027-01-23",
-   "pickup": "ab 12:30 Uhr (Beschilderung vor Ort beachten)"
+   "pickup": "ab 12:30 Uhr (Beschilderung vor Ort beachten)",
+   "fee": "5 km und 10 km je 14 €, Schüler 7 € (Einzelstart); Serie 42 € (Schüler 23 €); Nachmeldung bis Mittwoch vor dem Lauf +2 €, bis 60 Min. vor dem Start +4 €"
   },
   {
    "id": "alb-gold-winterlaufcup-3-lauf-2027",
@@ -87038,9 +87109,9 @@
     "10"
    ],
    "source": "https://www.wlv-sport.de/home/breitensport/laufveranstaltungen/veranstaltungstermine",
-   "checked": "2026-11-09",
+   "checked": "2026-11-13",
    "end": null,
-   "info": "3. Lauf des 24. ALB-GOLD Winterlauf-Cups, Ausrichter IGL Reutlingen: 10-km-Hauptlauf, 5 km und Kinderlauf. Termin laut WLV-Laufkalender (Stand 08.11.2026). Laut Veranstalterseite gilt für Einzelmeldungen der Samstag vor dem Rennen (bis 24 Uhr) als Anmeldeschluss; Startnummernausgabe ab 12:30 Uhr.",
+   "info": "3. Lauf des 24. ALB-GOLD Winterlauf-Cups, Ausrichter IGL Reutlingen: 10-km-Hauptlauf, 5 km und Kinderlauf. Termin laut WLV-Laufkalender (Stand 08.11.2026). Laut Veranstalterseite gilt für Einzelmeldungen der Samstag vor dem Rennen (bis 24 Uhr) als Anmeldeschluss; Startnummernausgabe ab 12:30 Uhr. Teilnahmegebühren laut Ausschreibung des ALB-GOLD Winterlauf-Cups; Startzeiten der 5- und 10-km-Läufe legt der jeweilige Ausrichter fest",
    "lat": 48.509,
    "lon": 9.204,
    "anmeldung_url": "https://my.raceresult.com/431181/",
@@ -87052,7 +87123,8 @@
    },
    "url": "https://www.alb-gold.de/aktiv/alb-gold-winterlauf.html",
    "reg_close": "2027-02-13",
-   "pickup": "ab 12:30 Uhr (Beschilderung vor Ort beachten)"
+   "pickup": "ab 12:30 Uhr (Beschilderung vor Ort beachten)",
+   "fee": "5 km und 10 km je 14 €, Schüler 7 € (Einzelstart); Serie 42 € (Schüler 23 €); Nachmeldung bis Mittwoch vor dem Lauf +2 €, bis 60 Min. vor dem Start +4 €"
   },
   {
    "id": "alb-gold-winterlaufcup-4-lauf-2027",
@@ -87068,9 +87140,9 @@
     "10"
    ],
    "source": "https://www.wlv-sport.de/home/breitensport/laufveranstaltungen/veranstaltungstermine",
-   "checked": "2026-11-09",
+   "checked": "2026-11-13",
    "end": null,
-   "info": "4. Lauf des 24. ALB-GOLD Winterlauf-Cups, Ausrichter TSV Trochtelfingen: 10-km-Hauptlauf, 5 km und Kinderlauf. Termin laut WLV-Laufkalender (Stand 08.11.2026). Laut Veranstalterseite gilt für Einzelmeldungen der Samstag vor dem Rennen (bis 24 Uhr) als Anmeldeschluss; Startnummernausgabe ab 12:30 Uhr.",
+   "info": "4. Lauf des 24. ALB-GOLD Winterlauf-Cups, Ausrichter TSV Trochtelfingen: 10-km-Hauptlauf, 5 km und Kinderlauf. Termin laut WLV-Laufkalender (Stand 08.11.2026). Laut Veranstalterseite gilt für Einzelmeldungen der Samstag vor dem Rennen (bis 24 Uhr) als Anmeldeschluss; Startnummernausgabe ab 12:30 Uhr. Teilnahmegebühren laut Ausschreibung des ALB-GOLD Winterlauf-Cups; Startzeiten der 5- und 10-km-Läufe legt der jeweilige Ausrichter fest",
    "lat": 48.308,
    "lon": 9.245,
    "anmeldung_url": "https://my.raceresult.com/431181/",
@@ -87082,7 +87154,8 @@
    },
    "url": "https://www.alb-gold.de/aktiv/alb-gold-winterlauf.html",
    "reg_close": "2027-02-27",
-   "pickup": "ab 12:30 Uhr (Beschilderung vor Ort beachten)"
+   "pickup": "ab 12:30 Uhr (Beschilderung vor Ort beachten)",
+   "fee": "5 km und 10 km je 14 €, Schüler 7 € (Einzelstart); Serie 42 € (Schüler 23 €); Nachmeldung bis Mittwoch vor dem Lauf +2 €, bis 60 Min. vor dem Start +4 €"
   },
   {
    "id": "kaeppeleslauf-ruppertshofen-2027",
@@ -87612,13 +87685,16 @@
     "15"
    ],
    "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
-   "checked": "2026-11-08",
+   "checked": "2026-11-13",
    "url": "https://www.tsg-alten-buseck.com/",
-   "info": "2. Lauf der Serie. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "info": "2. Lauf der Serie. Termin laut HLV-Laufkalender (Stand 08.11.2026). Laut Ausschreibung: Start jeweils ab 14:00 Uhr, 2 und 5 km im Anschluss; Online-Anmeldung bis zum Lauftag 12:00 Uhr",
    "fee": "5 km 8 €, 10/15 und 21 km 10 € (pro Lauf)",
    "late_reg": "Meldung auch am Lauftag bis 12:00 Uhr möglich",
    "parking": "Eingeschränkte Parkmöglichkeiten an der Harbig-Halle",
-   "showers": "Toiletten, Duschen und Umkleidemöglichkeiten in der Harbig-Halle"
+   "showers": "Toiletten, Duschen und Umkleidemöglichkeiten in der Harbig-Halle",
+   "start_time": "14:00",
+   "reg_close": "2026-12-12",
+   "pickup": "Startnummern ab 12:00 Uhr in der Harbig-Halle"
   },
   {
    "id": "alten-busecker-winterlaufserie-2-lauf-2027",
@@ -87660,13 +87736,16 @@
     "HM"
    ],
    "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
-   "checked": "2026-11-08",
+   "checked": "2026-11-13",
    "url": "https://www.tsg-alten-buseck.com/",
-   "info": "3. Lauf der Serie. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "info": "3. Lauf der Serie. Termin laut HLV-Laufkalender (Stand 08.11.2026). Laut Ausschreibung: Start jeweils ab 14:00 Uhr, 2 und 5 km im Anschluss; Online-Anmeldung bis zum Lauftag 12:00 Uhr",
    "fee": "5 km 8 €, 10/15 und 21 km 10 € (pro Lauf)",
    "late_reg": "Meldung auch am Lauftag bis 12:00 Uhr möglich",
    "parking": "Eingeschränkte Parkmöglichkeiten an der Harbig-Halle",
-   "showers": "Toiletten, Duschen und Umkleidemöglichkeiten in der Harbig-Halle"
+   "showers": "Toiletten, Duschen und Umkleidemöglichkeiten in der Harbig-Halle",
+   "pickup": "Startnummern ab 12:00 Uhr in der Harbig-Halle",
+   "start_time": "14:00",
+   "reg_close": "2027-01-23"
   },
   {
    "id": "seligenstaedter-winterlaufserie-2-lauf-2026",
@@ -87843,13 +87922,14 @@
     "15"
    ],
    "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
-   "checked": "2026-11-08",
+   "checked": "2026-11-13",
    "url": "http://www.wila-ippinghausen.de",
-   "info": "4. Lauf der Serie. Termin laut HLV-Laufkalender (Stand 08.11.2026).",
+   "info": "4. Lauf der Serie. Termin laut HLV-Laufkalender (Stand 08.11.2026). Laut Ausschreibung: Strecken bis 2 km ab ca. 14:00 Uhr, 4,2 km ca. 15:00 Uhr, 15 km ca. 16:00 Uhr",
    "late_reg": "Nachmeldung am Lauftag gegen 2 € Gebühr möglich",
    "fee": "Frauen und Männer 7 €, Schüler und Jugend 4 €, Bambini 2 €",
    "parking": "Am Sportplatz, Waldecker Straße und Vor dem Busche (möglichst nicht an der Bundesstraße)",
-   "start_place": "Weidelsburgstadion/Sportplatz, Korbacher Straße 25, Wolfhagen-Ippinghausen"
+   "start_place": "Weidelsburgstadion/Sportplatz, Korbacher Straße 25, Wolfhagen-Ippinghausen",
+   "start_time": "16:00"
   },
   {
    "id": "winterlauf-walkingserie-hofheim-lorsbach-2-lauf-2026",
@@ -91170,9 +91250,12 @@
    ],
    "url": "https://www.laufen.de/laufkalender/details/26V19000341360501",
    "source": "https://www.laufen.de/laufkalender/details/26V19000341360501",
-   "checked": "2026-11-09",
+   "checked": "2026-11-13",
    "info": "34. Wiedenbrücker Christkindllauf in Rheda-Wiedenbrück. Strecke 10 km. Termin laut DLV-Laufkalender auf laufen.de (beim Leichtathletik-Verband angemeldeter Lauf, Stand 08.11.2026).",
-   "pickup": "am 04.12.2026 ab 15:00 Uhr im Luise-Hensel-Saal im Stadthaus Wiedenbrück, Kirchplatz 2"
+   "pickup": "am 04.12.2026 ab 15:00 Uhr im Luise-Hensel-Saal im Stadthaus Wiedenbrück, Kirchplatz 2",
+   "fee": "Erwachsene 15 €, Schüler/innen und Jugendliche 7 €",
+   "late_reg": "Keine Nachmeldungen am Veranstaltungstag",
+   "limit": "1.100 Teilnehmende (Online-Anmeldung schließt bei Erreichen)"
   },
   {
    "id": "wiedenbruecker-christkindllauf-2027",
@@ -91387,9 +91470,10 @@
    ],
    "url": "https://www.laufen.de/laufkalender/details/53-winterlaufserie-10-km",
    "source": "https://www.laufen.de/laufkalender/details/53-winterlaufserie-10-km",
-   "checked": "2026-11-08",
-   "info": "53. Winterlaufserie in Hamm: 10 km am 31.01., 15 km am 14.02., Halbmarathon am 28.02.2027. Strecke 10 km. Termin laut DLV-Laufkalender auf laufen.de (beim Leichtathletik-Verband angemeldeter Lauf, Stand 08.11.2026). Laut Anmeldeportal (RaceResult) 53. Sparkassen Winterlaufserie (10 km, 15 km, Halbmarathon), Start am 31.01.2027 um 11:00 Uhr.",
-   "start_time": "11:00"
+   "checked": "2026-11-13",
+   "info": "53. Winterlaufserie in Hamm: 10 km am 31.01., 15 km am 14.02., Halbmarathon am 28.02.2027. Strecke 10 km. Termin laut DLV-Laufkalender auf laufen.de (beim Leichtathletik-Verband angemeldeter Lauf, Stand 08.11.2026). Laut Anmeldeportal (RaceResult) 53. Sparkassen Winterlaufserie (10 km, 15 km, Halbmarathon), Start am 31.01.2027 um 11:00 Uhr. Laut Ausschreibung LG Hamm: Serie komplett 39 € (bis 26.01.2027), 41 € (bis 29.01.), danach 43 €; Jugend bis U20 50 % Nachlass; zzgl. 3 € Chip-Pfand und 1 € Spende für den Hospiz-Förderverein; 10 km Start 11:00 Uhr (M/W14–40) und 12:15 Uhr (ab M/W45)",
+   "start_time": "11:00",
+   "fee": "12 € (bis 26.01.2027), 14 € (bis 29.01.), danach 16 €"
   },
   {
    "id": "winterlaufserie-stadthagen-2027-01-10",
@@ -91589,8 +91673,10 @@
    ],
    "url": "https://www.laufen.de/laufkalender/details/26V02000513160000",
    "source": "https://www.laufen.de/laufkalender/details/26V02000513160000",
-   "checked": "2026-11-08",
-   "info": "17. Hueber-Silvesterlauf in Pleinfeld. Strecken 0,45 bis 8,97 km. Termin laut DLV-Laufkalender auf laufen.de (beim Leichtathletik-Verband angemeldeter Lauf, Stand 08.11.2026)."
+   "checked": "2026-11-13",
+   "info": "17. Hueber-Silvesterlauf in Pleinfeld. Strecken 0,45 bis 8,97 km. Termin laut DLV-Laufkalender auf laufen.de (beim Leichtathletik-Verband angemeldeter Lauf, Stand 08.11.2026).",
+   "fee": "Hauptlauf 8,97 km 10 €, Hobbylauf 4,84 km 8 €, Walking 7 €, Jugend 6–7 €, Kinder 5 €, Bambini frei",
+   "late_reg": "Vor Ort bis 60 Minuten vor dem Start, solange Startplätze frei sind"
   },
   {
    "id": "ampertal-lauf-zolling-2027",
@@ -92053,7 +92139,7 @@
     "4,6"
    ],
    "source": "https://www.hdsports.org/laufen/jaegerhuettenlauf",
-   "checked": "2026-11-09",
+   "checked": "2026-11-13",
    "info": "Termin laut Veranstalterseite (Stand 09.11.2026). Wertungslauf: Calwer-Berglauf-Cup. Online-Registrierung laut Veranstalterseite bis 14.11.2026, 8:00 Uhr.",
    "url": "https://www.skizunft-calmbach.de/berglauf/",
    "start_time": "14:00",
@@ -92063,7 +92149,10 @@
    "lon": 8.55,
    "reg_close": "2026-11-14",
    "late_reg": "Nachmeldung am Lauftag 7 € (Startgeld + 2 € Nachmeldegebühr)",
-   "showers": "Duschen in der Skihütte Calmbach"
+   "showers": "Duschen in der Skihütte Calmbach",
+   "fee": "5 € (alle Klassen), Mitglieder der Skizunft Calmbach frei; Nachmeldung 7 €",
+   "pickup": "Am 14.11.2026 von 13:30 bis 13:50 Uhr in der Skihütte Calmbach",
+   "start_place": "Skihütte Calmbach"
   },
   {
    "id": "tiefsee-tunnel-12h-lauf-2026",
@@ -92134,7 +92223,7 @@
     "46,5"
    ],
    "source": "https://statistik.d-u-v.org/eventdetail.php?event=136760",
-   "checked": "2026-11-09",
+   "checked": "2026-11-13",
    "info": "Termin laut Ultramarathon-Kalender der DUV. Laut Laufwerk Kassel: 46,5 km entlang der Fulda (ca. 300 Hm), Treffen 7:55 Uhr.",
    "bezirk": "Kassel",
    "kreis": "Stadt Kassel",
@@ -92143,7 +92232,8 @@
    "start_time": "08:00",
    "start_place": "Kassel, Auedamm 17 (Parken, Start und Ziel)",
    "showers": "keine Duschen und Umkleiden vorhanden",
-   "url": "https://laufwerkkassel.jimdoweb.com/fullestrand-ultra/"
+   "url": "https://laufwerkkassel.jimdoweb.com/fullestrand-ultra/",
+   "parking": "Am Start/Ziel, Auedamm 17, 34121 Kassel"
   },
   {
    "id": "klosterparklauf-harsefeld-2026",
@@ -92183,7 +92273,7 @@
     "50"
    ],
    "source": "https://statistik.d-u-v.org/eventdetail.php?event=136045",
-   "checked": "2026-11-11",
+   "checked": "2026-11-13",
    "info": "Termin laut Ultramarathon-Kalender der DUV. Gruppenstart um 8:00 Uhr laut Veranstalterseite. Anmeldung per E-Mail bis zum Vorabend 18 Uhr; Zählung nach den Regeln des 100 Marathon Club, Mindestalter 18 Jahre",
    "bezirk": "Mittelfranken",
    "kreis": "Stadt Erlangen",
@@ -92197,7 +92287,8 @@
    "fee": "keine Startgebühr",
    "reg_close": "2026-11-21",
    "limit": "20 Teilnehmende (mindestens 3)",
-   "cutoff": "7 Stunden"
+   "cutoff": "7 Stunden",
+   "parking": "Großparkplatz Feld P4 direkt am Start-/Zielbereich; vom Westausgang Bahnhof Erlangen 500 m zu Fuß"
   },
   {
    "id": "erlangen-ultramarathon-2026-12",
@@ -92223,7 +92314,8 @@
    "late_reg": "keine Nachmeldung am Veranstaltungstag",
    "source": "https://www.erlangenmarathon.de",
    "info": "4. Erlangen Marathon und Ultramarathon laut Veranstalterseite; Teilnehmerlimit erreicht (Stand 11.11.2026). Gruppenstart 8:00 Uhr.",
-   "checked": "2026-11-11"
+   "checked": "2026-11-13",
+   "parking": "Großparkplatz Feld P4 direkt am Start-/Zielbereich; vom Westausgang Bahnhof Erlangen 500 m zu Fuß"
   },
   {
    "id": "roessleweg-runmob-2026",
@@ -92236,7 +92328,7 @@
     "57"
    ],
    "source": "https://statistik.d-u-v.org/eventdetail.php?event=136700",
-   "checked": "2026-11-10",
+   "checked": "2026-11-13",
    "info": "Termin laut Ultramarathon-Kalender der DUV. Start laut laufkultur.de „wie gewohnt 7:00 Uhr bzw. 8:00 Uhr“; keine Nachmeldung, frei werdende Plätze werden nicht nachbesetzt.",
    "bezirk": "Stuttgart",
    "kreis": "Stadt Stuttgart",
@@ -92244,27 +92336,8 @@
    "lon": 9.18,
    "url": "http://www.laufkultur.de/roessleweg---runmob.html",
    "start_time": "07:00",
-   "start_place": "Park-and-Ride in Stuttgart-Obertürkheim"
-  },
-  {
-   "id": "nikolauslauf-der-lg-geroldseck-lahr-e-v-2026",
-   "type": "road",
-   "name": "Nikolauslauf der LG Geroldseck Lahr e.V.",
-   "place": "Lahr im Schwarzwald",
-   "date": "2026-11-28",
-   "confirmed": true,
-   "distances": [
-    "5",
-    "10"
-   ],
-   "source": "https://www.hdsports.org/laufen/geroldsecker-nikolauslauf",
-   "checked": "2026-11-09",
-   "info": "Termin laut hdsports.org (Termin laut Webseite des Veranstalters). Veranstalter laut hdsports: LG Geroldseck Lahr.",
-   "start_time": "14:00",
-   "bezirk": "Freiburg",
-   "kreis": "Ortenaukreis",
-   "lat": 48.337,
-   "lon": 7.87
+   "start_place": "Park-and-Ride in Stuttgart-Obertürkheim",
+   "late_reg": "Keine Nachmeldung, sobald das Feld voll ist; frei werdende Plätze werden nicht nachbesetzt"
   },
   {
    "id": "lauf-vom-turm-zum-turm-2026",
@@ -92295,14 +92368,15 @@
     "6 h"
    ],
    "source": "https://www.runme.de/deutschland/santa-claas-nikolauslauf/",
-   "checked": "2026-11-09",
-   "info": "Termin laut RUNME-Laufkalender, vom Veranstalter noch nicht bestätigt (Stand 09.11.2026). Termin, Startzeit und Anmeldung laut Anmeldeportal (RaceResult, Stand 09.11.2026): 6-Stunden-Lauf, Start 14:00 Uhr, Startgeld 15 € bzw. 10 €.",
+   "checked": "2026-11-13",
+   "info": "Termin laut RUNME-Laufkalender, vom Veranstalter noch nicht bestätigt (Stand 09.11.2026). Termin, Startzeit und Anmeldung laut Anmeldeportal (RaceResult, Stand 09.11.2026): 6-Stunden-Lauf, Start 14:00 Uhr, Startgeld 15 € bzw. 10 €. 6-Stunden-Lauf, Start 14:00 Uhr laut Anmeldeportal (RaceResult)",
    "bezirk": "Detmold",
    "kreis": "LK Gütersloh",
    "lat": 51.962,
    "lon": 8.228,
    "start_time": "14:00",
-   "reg_close": "2026-12-03"
+   "reg_close": "2026-12-03",
+   "fee": "15 € (Jahrgang 2008 und jünger 10 €)"
   },
   {
    "id": "crosslauf-rohr-2026",
@@ -92460,15 +92534,18 @@
     "46"
    ],
    "source": "https://statistik.d-u-v.org/eventdetail.php?event=126816",
-   "checked": "2026-11-09",
-   "info": "Termin laut Ultramarathon-Kalender der DUV. Laut Ausschreibung Start pünktlich 8:00 Uhr; der genaue Startort wird per WhatsApp bekanntgegeben.",
+   "checked": "2026-11-13",
+   "info": "Termin laut Ultramarathon-Kalender der DUV. Laut Ausschreibung Start pünktlich 8:00 Uhr; der genaue Startort wird per WhatsApp bekanntgegeben. Laut Veranstalter als CommunityRun am Sonntag, 20.12.2026, Start 8:00 Uhr, Meldeschluss Freitag 19.12., Teilnehmerlimit 30",
    "bezirk": "Karlsruhe",
    "kreis": "LK Calw",
    "lat": 48.724,
    "lon": 8.704,
    "start_time": "08:00",
    "showers": "keine Umkleiden, Duschen oder Toiletten vor Ort",
-   "url": "https://e2h10k.simdif.com/"
+   "url": "https://e2h10k.simdif.com/",
+   "reg_close": "2026-12-19",
+   "limit": "max. 30 Teilnehmende (mindestens 10)",
+   "start_place": "Genauer Startort wird kurz vorher per WhatsApp bekannt gegeben"
   },
   {
    "id": "saisonabschlusslauf-2026",
@@ -92607,7 +92684,7 @@
     "16 h"
    ],
    "source": "https://statistik.d-u-v.org/eventdetail.php?event=128367",
-   "checked": "2026-11-09",
+   "checked": "2026-11-13",
    "info": "Termin laut Ultramarathon-Kalender der DUV. Laut Veranstalterseite Lauf vom 31.12.2026 in den 1.1.2027, 11,4-km-Runden; Meldeschluss zwei Tage vor dem Lauf.",
    "bezirk": "Braunschweig",
    "kreis": "Stadt Salzgitter",
@@ -92617,7 +92694,8 @@
    "fee": "frei (Spende zur Kostendeckung erwünscht)",
    "limit": "mindestens 3, maximal 10 Teilnehmer",
    "start_place": "Dornbusch 9, 38259 Salzgitter-Bad",
-   "url": "https://laufen-im-vorharz.webnode.page"
+   "url": "https://laufen-im-vorharz.webnode.page",
+   "parking": "Parkplätze nur eingeschränkt vorhanden"
   },
   {
    "id": "otzberger-silvester-ultra-2026",
@@ -92860,26 +92938,6 @@
    "lon": 6.652
   },
   {
-   "id": "neujahrslauf-koeln-des-lsv-porz-2027",
-   "type": "road",
-   "name": "Neujahrslauf Köln des LSV Porz",
-   "place": "Köln",
-   "date": "2027-01-01",
-   "confirmed": true,
-   "distances": [
-    "5",
-    "10"
-   ],
-   "source": "https://www.hdsports.org/laufen/neujahrslauf-koeln-des-lsv-porz",
-   "checked": "2026-11-09",
-   "info": "Termin laut hdsports.org (Termin vom Veranstalter bestätigt). Veranstalter laut hdsports: bestätigt) Ort Land Deutschland Bundesland Nordrhein-Westfalen Ort Köln PLZ 51145 Straße Hirschgraben Strecke, Programm & Informationen Erstaustragung 1979 Veranstalter LSV Porz.",
-   "start_time": "11:00",
-   "bezirk": "Köln",
-   "kreis": "Stadt Köln",
-   "lat": 50.882,
-   "lon": 7.08
-  },
-  {
    "id": "schoenecker-neujahrslauf-auftakt-ins-hessische-sportjahr-2027",
    "type": "road",
    "name": "Schönecker Neujahrslauf - Auftakt ins Hessische Sportjahr",
@@ -92997,7 +93055,7 @@
     "10"
    ],
    "source": "https://www.hdsports.org/laufen/rostocker-spendenlauf",
-   "checked": "2026-11-09",
+   "checked": "2026-11-13",
    "info": "Termin laut Veranstalterseite (Stand 09.11.2026). Veranstalter laut hdsports: bestätigt) Start 10:00 Uhr Termin 2027 17.01.2027 (Termin laut Webseite des Veranstalters) Ort Land Deutschland Bundesland Mecklenburg-Vorpommern Ort Rostock PLZ 18057 Straße Kopernikusstraße Strecke,.",
    "url": "https://rostocker-spendenlauf.de/",
    "start_time": "10:00",
@@ -93008,7 +93066,8 @@
    "pickup": "Startnummernausgabe am Veranstaltungstag auf dem Hinterhof des Rostocker Freizeitzentrums",
    "parking": "Parkplätze in Reutershagen begrenzt",
    "showers": "keine Umkleiden",
-   "start_place": "Rostocker Freizeitzentrum, Runde um den Schwanenteich"
+   "start_place": "Rostocker Freizeitzentrum, Runde um den Schwanenteich",
+   "late_reg": "Am Veranstaltungstag, solange der Vorrat reicht"
   },
   {
    "id": "crosslauf-waldkraiburg-2027",
@@ -93242,7 +93301,7 @@
     "58"
    ],
    "source": "https://statistik.d-u-v.org/eventdetail.php?event=136927",
-   "checked": "2026-11-09",
+   "checked": "2026-11-13",
    "info": "Termin laut Ultramarathon-Kalender der DUV.",
    "bezirk": "Dresden",
    "kreis": "LK Görlitz",
@@ -93252,7 +93311,9 @@
    "pickup": "Treffpunkt und Startnummernausgabe im Strombad Cottbus, Stromstraße 14; 8:00 Uhr Bustransfer zum Start",
    "start_place": "Bad Muskau, Treppe des Schlosses im Muskauer Park",
    "cutoff": "VP 2 (ca. km 40) nach 6 Stunden bzw. 15:30 Uhr",
-   "url": "https://park-ultralauf.de/"
+   "url": "https://park-ultralauf.de/",
+   "start_time": "09:30",
+   "limit": "max. 50 Teilnehmende"
   },
   {
    "id": "noft-wintertrail-2027",
@@ -98961,8 +99022,9 @@
    "start_place": "Inselpark, Kurt-Emmerich-Platz, 21109 Hamburg-Wilhelmsburg (vor dem Schwimmbad)",
    "showers": "Toiletten, Dusch- und Umkleidemöglichkeiten in der Schule am Start",
    "cutoff": "Zielschluss 12:00 Uhr",
-   "info": "Termin laut Veranstalterseite (Stand 09.11.2026): 10.01., 07.02. und 07.03.2027, Start jeweils 9:30 Uhr für alle Distanzen. Strecken wie beim 3. Lauf laut hdsports.",
-   "checked": "2026-11-09"
+   "info": "Termin laut Veranstalterseite (Stand 09.11.2026): 10.01., 07.02. und 07.03.2027, Start jeweils 9:30 Uhr für alle Distanzen. Strecken wie beim 3. Lauf laut hdsports. Serienanmeldung bis 31.12.2026, 23:59 Uhr laut Veranstalter",
+   "checked": "2026-11-13",
+   "late_reg": "Online-Nachmeldung vom 01. bis 09.01.2027 (Barzahlung bei Abholung der Startunterlagen), solange das Limit nicht erreicht ist"
   },
   {
    "id": "ferndorfer-fruehjahrs-waldlauf-2027",
@@ -99093,10 +99155,11 @@
    ],
    "url": "https://fc-stoeckach.de/kurse-und-veranstaltungen/laufen-und-walken/21-adventslauf-fc-st%C3%B6ckach",
    "source": "https://fc-stoeckach.de/kurse-und-veranstaltungen/laufen-und-walken/21-adventslauf-fc-st%C3%B6ckach",
-   "info": "21. Adventslauf des FC Stöckach: 10 km Laufen oder Nordic Walking, 5 km Jugendlauf, 5 km Kinderwagenlauf, 2 km Kinderlauf. Beginn der Veranstaltung 10:00 Uhr, danach Adventsmarkt.",
-   "checked": "2026-11-11",
+   "info": "21. Adventslauf des FC Stöckach: 10 km Laufen oder Nordic Walking, 5 km Jugendlauf, 5 km Kinderwagenlauf, 2 km Kinderlauf. Beginn der Veranstaltung 10:00 Uhr, danach Adventsmarkt. Laut FC Stöckach: Beginn 29.11.2026 um 10:00 Uhr, Ende 14:00 Uhr, Anmeldeschluss 28.11.2026, 21:00 Uhr; Jugendlauf, Kinderwagenlauf und Kinderlauf",
+   "checked": "2026-11-13",
    "reg_close": "2026-11-28",
-   "limit": "max. 250 Teilnehmende"
+   "limit": "max. 250 Teilnehmende",
+   "start_time": "10:00"
   },
   {
    "id": "silvesterlauf-schliersee-2026",
@@ -100438,27 +100501,6 @@
    }
   },
   {
-   "id": "heiligabend-lauf-schmiedefeld-2026",
-   "type": "road",
-   "name": "Heiligabend-Lauf Thüringer Wald",
-   "place": "Schmiedefeld am Rennsteig",
-   "bezirk": "Südwestthüringen",
-   "kreis": "Stadt Suhl",
-   "lat": 50.609,
-   "lon": 10.813,
-   "date": "2026-12-24",
-   "confirmed": true,
-   "distances": [
-    "10"
-   ],
-   "url": "https://www.rennsteiglauf.de/laufkalender/heiligabend-lauf/",
-   "source": "https://www.rennsteiglauf.de/laufkalender/heiligabend-lauf/",
-   "info": "11. Heiligabend-Lauf: Schmiedefeld – Vesser – Schmiedefeld, 10 km. Veranstalter GutsMuths-Rennsteiglaufverein mit WSV Schmiedefeld.",
-   "checked": "2026-11-11",
-   "start_time": "09:00",
-   "start_place": "Sportplatz Schmiedefeld am Rennsteig"
-  },
-  {
    "id": "heiligabend-lauf-schmiedefeld-2027",
    "type": "road",
    "name": "Heiligabend-Lauf Thüringer Wald",
@@ -100596,8 +100638,9 @@
    "url": "http://www.fce-wintersport.de/",
    "source": "http://www.fce-wintersport.de/",
    "info": "Silvesterlauf der Wintersportabteilung des FC Erzgebirge Aue am Filzteich in Schneeberg, Wertungslauf des Westsachsen-Laufcups; Ausschreibung erscheint traditionell zum Buß- und Bettag.",
-   "checked": "2026-11-11",
-   "start_time": "10:00"
+   "checked": "2026-11-13",
+   "start_time": "10:00",
+   "start_place": "Oberer Parkplatz am Freibad Filzteich"
   },
   {
    "id": "scharfenberger-silberlauf-2027",
@@ -101689,27 +101732,6 @@
    }
   },
   {
-   "id": "helauf-weimar-2027",
-   "type": "road",
-   "name": "Helauf – Lauf der Narren",
-   "place": "Weimar-Oberweimar",
-   "bezirk": "Mittelthüringen",
-   "kreis": "Stadt Weimar",
-   "lat": 50.983,
-   "lon": 11.317,
-   "date": "2027-02-07",
-   "confirmed": true,
-   "distances": [
-    "5"
-   ],
-   "url": "https://www.vfb-oberweimar.de/faschingslauf/",
-   "source": "https://www.vfb-oberweimar.de/faschingslauf/",
-   "info": "3. Helauf – Lauf der Narren (Faschingslauf als Spendenlauf) des VfB Oberweimar am Sonntag, 07.02.2027 laut Ausschreibung; Kinderlauf um 9 Uhr.",
-   "checked": "2026-11-11",
-   "start_time": "10:00",
-   "pickup": "Am Vortag 15–18 Uhr und am Lauftag 8–9:30 Uhr im Vereinsheim, Hohle Gasse 7"
-  },
-  {
    "id": "race-chemnitz-2027",
    "type": "road",
    "name": "raCe Chemnitz",
@@ -102622,12 +102644,13 @@
    ],
    "url": "https://running.life/de/termine/nikolauscrosslauf-der-polizei-berlin",
    "source": "https://running.life/de/termine/nikolauscrosslauf-der-polizei-berlin",
-   "info": "64. Nikolauscrosslauf der Polizei Berlin am Freitag, 04.12.2026 im Spandauer Forst laut running.life: kostenloser 5-km-Crosslauf, Online-Voranmeldung bis 03.12.2026, 23:59 Uhr, Nachmeldung nur online am Lauftag, Livestream. Teilnahme ab Jahrgang 2011.",
+   "info": "64. Nikolauscrosslauf der Polizei Berlin am Freitag, 04.12.2026 im Spandauer Forst laut running.life: kostenloser 5-km-Crosslauf, Online-Voranmeldung bis 03.12.2026, 23:59 Uhr, Nachmeldung nur online am Lauftag, Livestream. Teilnahme ab Jahrgang 2011. Start 10:00 Uhr laut Anmeldeseite (myracepartner)",
    "checked": "2026-11-13",
    "fee": "Kostenlos",
    "reg_close": "2026-12-03",
    "late_reg": "Nachmeldung nur online am 04.12.2026 (00:00–23:59 Uhr)",
-   "start_place": "Pionierstr. 160–204, 13589 Berlin (Spandauer Forst)"
+   "start_place": "Pionierstr. 160–204, 13589 Berlin (Spandauer Forst)",
+   "start_time": "10:00"
   },
   {
    "id": "nachtlauf-fuehlinger-see-2027",
@@ -103069,8 +103092,14 @@
    ],
    "url": "https://running.life/de/termine/essener-silvesterlauf",
    "source": "https://running.life/de/termine/essener-silvesterlauf",
-   "info": "Silvesterlauf auf dem Gelände der Zeche Zollverein in Essen am 31.12.2026 laut running.life: Läufe von 400 m bis 10 km.",
-   "checked": "2026-11-12"
+   "info": "Silvesterlauf auf dem Gelände der Zeche Zollverein in Essen am 31.12.2026 laut running.life: Läufe von 400 m bis 10 km. Laut Anmeldeportal (RaceResult, 13.11.2026): 5 km 11:20 Uhr, 10 km 12:15 Uhr; beide Hauptläufe ausgebucht, Anmeldung seit 05.11.2026 geschlossen",
+   "checked": "2026-11-13",
+   "fee": "5 km und 10 km je 16 €, Schülerläufe und Bambini 4 €",
+   "start_time": "11:20",
+   "reg_close": "2026-11-05",
+   "late_reg": "Nachmeldungen nicht möglich",
+   "sold_out": true,
+   "start_place": "Vor der Halle 5, Zeche Zollverein"
   },
   {
    "id": "grasmoor-ultra-2027",
