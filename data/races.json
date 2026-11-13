@@ -556,7 +556,7 @@
    "reg_close": "2026-11-12",
    "fee": "5 km 25 € · 10 km 25 € · Kinderläufe kostenlos",
    "start_time": "12:00",
-   "checked": "2026-11-03",
+   "checked": "2026-11-13",
    "source": "https://www.datasport.de/anmeldeservice/ichlaufmitgegengewalt2026",
    "start_place": "Sportpark Haar",
    "aid": null,
@@ -575,7 +575,6 @@
    "info": "5 und 10 km 12:00, Kinderläufe 11:15 (Anmeldung Kinderläufe auch am Lauftag vor Ort)",
    "bezirk": "Oberbayern",
    "kreis": "LK München",
-   "sold_out": "5 km und 10 km: Teilnehmerlimit erreicht, keine Anmeldung mehr möglich (laut Anmeldeportal, Stand 03.11.2026). Kinderläufe sind kostenlos und am Lauftag vor Ort anmeldbar.",
    "charity": "Benefizlauf gegen Gewalt"
   },
   {
