@@ -112,6 +112,13 @@ def ds_zustand(url, tag):
     gesamt = re.search(r"Gesamtlimit.*?noch frei\s*\|\s*(\d+)", t)
     if gesamt and int(gesamt.group(1)) == 0:
         return {"zustand": "voll", "strecken_voll": namen}
+    # Alle Wettbewerbe der Seite (Datum + Uhrzeit + Name): sind alle Hauptstrecken ausgebucht, ist der Lauf voll
+    # (Kinder-, Jugend-, Walking-, Staffel- und Firmenwertungen zählen nicht mit, wie bei RaceResult)
+    alle = [re.sub(r"^.* - ", "", n.strip()) for n in re.findall(
+        r"[A-Za-z]{2}\.\s*\d{1,2}\.\d{1,2}\.\d{2,4}\s+\d{1,2}:\d{2}\s*Uhr\s*\|\s*([^|]+?)\s*\|", t)]
+    haupt = [n for n in alle if not NEBEN.search(n)]
+    if namen and haupt and all(n in namen for n in haupt):
+        return {"zustand": "voll", "strecken_voll": namen}
     if namen:
         return {"zustand": "teils", "strecken_voll": namen}
     if VOLL.search(t):
