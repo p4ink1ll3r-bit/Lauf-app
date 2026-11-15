@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "region": "Bayern, Baden-Württemberg, Hessen, Thüringen, Sachsen, Sachsen-Anhalt, Brandenburg, Berlin, Saarland, Rheinland-Pfalz, Nordrhein-Westfalen, Niedersachsen, Bremen, Hamburg, Schleswig-Holstein, Mecklenburg-Vorpommern",
  "races": [
   {
@@ -418,6 +418,35 @@
    "bezirk": "Oberbayern",
    "kreis": "LK Traunstein",
    "showers": "Umkleiden und Duschen in der Alois-Böck-Turnhalle"
+  },
+  {
+   "id": "alzauenlauf-2027",
+   "type": "road",
+   "name": "Alzauenlauf",
+   "place": "Trostberg",
+   "bezirk": "Oberbayern",
+   "kreis": "LK Traunstein",
+   "lat": 48.028,
+   "lon": 12.556,
+   "distances": [
+    "10"
+   ],
+   "url": "https://www.alzauenlauf.de/index.php/der-alzauenlauf/ausschreibung",
+   "date": "2027-11-13",
+   "confirmed": true,
+   "source": "https://www.alzauenlauf.de/index.php/der-alzauenlauf/ausschreibung",
+   "fee": "10 km 24 € (U18/U20 18 €); Nachmeldung +5 €",
+   "start_time": "14:00",
+   "reg_close": "2027-11-11",
+   "late_reg": "Möglich bis 1 h vor dem Start, 5 € Aufschlag",
+   "start_place": "TSV-Sportplatz Trostberg",
+   "pickup": "Eingang Alois-Böck-Turnhalle, Lauftag 10:30–13:00 Uhr",
+   "aid": "Zielverpflegung für alle Teilnehmenden",
+   "extras": "Mannschaftswertung (5 Läufer eines Vereins); Wertung im Euregio Laufcup",
+   "included": "Zielverpflegung, Chip-Zeitmessung, Umkleiden und Duschen; Funktionsshirt bei Anmeldung (10 km) mind. 14 Tage vorher, solange Vorrat reicht",
+   "showers": "Umkleiden und Duschen in der Alois-Böck-Turnhalle",
+   "info": "Termin 13.11.2027 laut Ausschreibung des TSV 1863 Trostberg. Starts: 800 m 12:00, 2,6 km 13:00, 10 km 14:00 Uhr; Anmeldung nur online, laut Veranstalter voraussichtlich ab August 2027; Startgebühren vorbehaltlich Preisanpassungen; Lauf findet bei jedem Wetter statt. Kinder- und Jugendläufe 800 m und 2,6 km je 9 €",
+   "checked": "2026-11-15"
   },
   {
    "id": "fackellauf-gerbrunn-2026",
@@ -32355,18 +32384,19 @@
    "lat": 50.833,
    "lon": 12.267,
    "date": "2027-06-19",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "8,5",
     "12,7"
    ],
    "url": "http://www.haldenlauf.de",
-   "source": "https://www.runme.de/deutschland/loebichauer-haldenlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (8,5 km um 11:00 Uhr).",
-   "checked": "2026-11-05",
+   "source": "http://www.haldenlauf.de",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (8,5 km um 11:00 Uhr). Termin 19.06.2027 laut Veranstalterseite (15. Löbichauer Haldenlauf), Voranmeldeschluss 16.06.2027",
+   "checked": "2026-11-15",
    "prev": {
     "start_time": "11:00"
-   }
+   },
+   "reg_close": "2027-06-16"
   },
   {
    "id": "messerpokallauf-steinbacher-messertrail-am-inselsberg-2027",
@@ -56192,15 +56222,16 @@
    ],
    "url": "https://www.silvesterlauf.nrw/",
    "source": "https://www.runme.de/deutschland/silvesterlauf-rund-um-den-danzturm/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 13:00 Uhr, frühester Lauf ab 5 km). Start ab 13:00 Uhr laut Veranstalterseite. Laut Anmeldeportal (RaceResult, Stand 08.11.2026): Online-Anmeldung bis 30.12.2026.",
-   "checked": "2026-11-08",
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 13:00 Uhr, frühester Lauf ab 5 km). Start ab 13:00 Uhr laut Veranstalterseite. Laut Anmeldeportal (RaceResult, Stand 08.11.2026): Online-Anmeldung bis 30.12.2026. Laut Veranstalterseite: Walking und Jedermannlauf (5 km) 13:00 Uhr, Silvesterlauf (10,3 km) 13:30 Uhr",
+   "checked": "2026-11-15",
    "start_time": "13:00",
    "fee": "12 € bei Online-Anmeldung",
    "showers": "Toiletten und Umkleiden im Gebäude der Fachhochschule Südwestfalen; keine Schließfächer.",
    "parking": "Parkplatz am Parktheater (Südstraße) oder Parkhaus Stadtbahnhof; der Parkplatz der Fachhochschule ist Teil des Veranstaltungsgeländes und gesperrt.",
    "pickup": "Ab 11:00 Uhr im Gebäude H der Fachhochschule (dort auch Nachmeldung).",
    "start_place": "Parkplatz der Fachhochschule Südwestfalen, Frauenstuhlweg 31, 58644 Iserlohn.",
-   "reg_close": "2026-12-30"
+   "reg_close": "2026-12-30",
+   "late_reg": "Vor Ort ab 11:00 Uhr im Gebäude H der Fachhochschule, 15 € (online 12 €)"
   },
   {
    "id": "lengericher-ultratrail-2027",
@@ -92981,24 +93012,25 @@
    "type": "road",
    "name": "Großenhainer Rollmopslauf",
    "place": "Großenhain",
-   "date": "2027-01-03",
-   "confirmed": false,
+   "date": "2027-01-10",
+   "confirmed": true,
    "distances": [
     "4",
     "8"
    ],
-   "source": "https://www.hdsports.org/laufen/grossenhainer-rollmopslauf",
-   "checked": "2026-11-09",
-   "info": "Termin noch nicht veröffentlicht, Datum geschätzt laut hdsports.org-Prognose aus dem Vorjahr (2026: 04.01.). Wertungslauf: Meißner-Sparkassen-Cup.",
-   "prev_date": "2026-01-04",
+   "source": "https://www.laufen-im-kreis-meissen.de/as-rollmopslauf.html",
+   "checked": "2026-11-15",
+   "info": "Wertungslauf: Meißner-Sparkassen-Cup. Termin 10.01.2027 laut Ausschreibung des Meißner-Sparkassen-Cups (1. Lauf 2027); Veranstalter SV Motor Großenhain, Abt. Leichtathletik. Rundkurs im Stadtpark (1 Runde = 2 km), flach, Parkwege; 2, 4 und 8 km gemeinsam um 10:00 Uhr; jeder Teilnehmer erhält einen Rollmops",
    "url": "https://www.laufen-im-kreis-meissen.de",
-   "prev": {
-    "start_time": "10:00"
-   },
    "bezirk": "Dresden",
    "kreis": "LK Meißen",
    "lat": 51.289,
-   "lon": 13.534
+   "lon": 13.534,
+   "start_time": "10:00",
+   "fee": "Erwachsene 8 € (alle Strecken), Schüler und Jugend 5 €; Nachmeldegebühr 5 €",
+   "reg_close": "2027-01-05",
+   "late_reg": "Am Lauftag ab 8:30 Uhr im Meldebüro (Sozialgebäude Jahnkampfbahn), Nachmeldegebühr 5 €; bis 07.01.2027 nicht bezahlte Meldungen gelten als Nachmeldung",
+   "start_place": "Stadtpark Großenhain"
   },
   {
    "id": "ellwanger-kuttellauf-2027",
