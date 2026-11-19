@@ -1799,7 +1799,7 @@
    "reg_close": "2026-12-23",
    "fee": "5 km 18–20 € je nach Anmeldedatum · Kinderlauf 8 €",
    "start_time": "19:00",
-   "checked": "2026-11-07",
+   "checked": "2026-11-19",
    "source": "https://my.raceresult.com/430622/info",
    "start_place": "Ortsmitte Aschau (an der Ampel), Ziel Chalet Aschau, Bahnhofstraße 17",
    "aid": "Zielverpflegung: Glühwein (auch alkoholfrei), Lebkuchen, Stollen",
@@ -1812,7 +1812,7 @@
    "profile": null,
    "gpx": null,
    "limit": "Hobbylauf max. 400, Nachtlauf max. 300 Teilnehmende",
-   "sold_out": "Ausgebucht laut Anmeldeportal: Autoglas Niedermayr Hobbylauf, Steigenberger Sport Nachtlauf. Die übrigen Strecken zeigen noch freie Plätze oder keine Begrenzung (nachts automatisch geprüft).",
+   "sold_out": true,
    "cutoff": null,
    "included": "Chipzeitmessung, essbare Medaille für alle Finisher, Zielverpflegung",
    "late_reg": "Am 28.12.2026, sofern Startplätze frei, 25 €",
@@ -15497,7 +15497,7 @@
     "10"
    ],
    "source": "https://haid.app/en/events/backnanger-silvesterlauf-muey5cn4",
-   "checked": "2026-11-09",
+   "checked": "2026-11-19",
    "info": "5 km (2 Runden) und 10 km (4 Runden à 2,5 km), dazu Staffel 3 × 2,5 km, Mini-Marathon 2,5 km und Bambinilauf. Preisgeld 200/100/50 € im Hauptlauf, Kostümpreis. Frühbucher bis 15.11. vorbei. Bambinilauf 500 m 14:00, Mini-Marathon 2,5 km 14:10, Teamstaffel und BKZ-Lauf 14:15, Hauptlauf 10 km (vier Runden à 2,5 km) 15:10 Uhr; Frühbucherfrist bis 15.11., Anmeldung bis 27.12., Online-Nachmeldung am Lauftag bis 12:00 Uhr. Start 14:00 Uhr Bambinilauf, 14:10 Mini-Marathon, 14:15 BKZ-Lauf, 15:10 Hauptlauf; laut Anmeldeportal RaceResult am 05.11.2026 noch 322 Plätze im Hauptlauf frei",
    "lat": 48.947,
    "lon": 9.437,
@@ -15511,7 +15511,9 @@
     "fee": "Hauptlauf 17–25 €, BKZ-Lauf 14–20 €, Team-Staffel 40–45 €, Mini-Marathon 7–11 €, Bambini und Inklusionslauf frei (Richtwerte 2025)"
    },
    "fee": "Hauptlauf 20 € (bis 15.11.), 24 € (bis 27.12.), 28 € (ab 28.12.); BKZ-Lauf 15 € / 19 € / 21 €; Mini-Marathon (Jahrgang 2011 bis 2018) 8 € / 10 € / 12 €; Team-Staffel 45 € / 50 €",
-   "reg_open": "2026-10-03"
+   "reg_open": "2026-10-03",
+   "sold_out": "Ausgebucht laut Anmeldeportal: Volksbank Backnang Hauptlauf, Windmüller Mini Marathon. Die übrigen Strecken zeigen noch freie Plätze oder keine Begrenzung (nachts automatisch geprüft).",
+   "sold_out_auto": true
   },
   {
    "id": "backnanger-silvesterlauf-2027",
@@ -46260,7 +46262,7 @@
    "url": "https://www.hartfuessler.de",
    "source": "https://www.runme.de/deutschland/x-mas-trail/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (46,82 km um 08:00 Uhr, frühester Lauf ab 5 km). Strecken laut Anmeldeportal: Brian Trail 14 km (500 Hm, Start 11:00), Ruprecht Trail 32 km (1.190 Hm, 09:30), X-Mas Trail 46 km (1.700 Hm, 08:00); Stand 05.11.2026 noch 64 Plätze (32 km) und 119 (46 km) frei. Laut Anmeldeportal (RaceResult) am 09.11.2026: Brian Trail 14 km voll, Ruprecht Trail 32 km noch 56 Plätze, X-Mas Trail 46 km noch 112 Plätze. Laut Anmeldeportal (RaceResult) am 10.11.2026: für den Brian Trail 14 km öffnet am 10.11.2026 um 19 Uhr ein neues Kontingent (38 Plätze), Ruprecht Trail 32 km noch 52, X-Mas Trail 46 km noch 113 Plätze frei.",
-   "checked": "2026-11-10",
+   "checked": "2026-11-19",
    "start_time": "08:00",
    "elevation": [
     500,
@@ -46269,7 +46271,9 @@
    ],
    "reg_close": "2026-12-11",
    "fee": "Ruprecht Trail 32 km 36 € (46 € am 12. und 13.12.), X-Mas Trail 46 km 48 € (58 €), Brian Trail 14 km 20 € (30 €)",
-   "anmeldung_url": "https://my.raceresult.com/380409/registration"
+   "anmeldung_url": "https://my.raceresult.com/380409/registration",
+   "sold_out": "Ausgebucht laut Anmeldeportal: Brian Trail 14km. Die übrigen Strecken zeigen noch freie Plätze oder keine Begrenzung (nachts automatisch geprüft).",
+   "sold_out_auto": true
   },
   {
    "id": "x-mas-trail-weiskirchen-2027",
@@ -52089,7 +52093,8 @@
    "anmeldung_url": "https://my.raceresult.com/432363/",
    "source": "https://running.life/de/termine/palatina-backyard-ultra",
    "info": "Termin und Strecken laut running.life/gotrail.run.",
-   "checked": "2026-11-05"
+   "checked": "2026-11-19",
+   "reg_close": "2027-09-03"
   },
   {
    "id": "binger-stadtlauf-2027",
@@ -52180,12 +52185,14 @@
    "anmeldung_url": "https://my.raceresult.com/422995/",
    "source": "https://running.life/de/termine/lautrer-lebenslauf",
    "info": "Termin und Strecken laut running.life/gotrail.run. Ausgabe 2026 (06.09.2026): Kinderlauf 1 km 9:45 Uhr, Hauptlauf 5 km und 10 km 10:15 Uhr; Online-Anmeldung bis 27.08.2026, Nachmeldung am Morgen des Laufes möglich. Termin laut DLV-Laufkalender auf laufen.de (beim Leichtathletik-Verband angemeldeter Lauf, Stand 08.11.2026).",
-   "checked": "2026-11-08",
+   "checked": "2026-11-19",
    "prev": {
     "fee": "Erwachsene 14 €, Kinder 8 € (für den guten Zweck)",
     "start_time": "10:15"
    },
-   "charity": "Der gesamte Erlös geht an den Förderverein „Mama/Papa hat Krebs“ Kaiserslautern e.V."
+   "charity": "Der gesamte Erlös geht an den Förderverein „Mama/Papa hat Krebs“ Kaiserslautern e.V.",
+   "reg_open": "2026-09-15",
+   "reg_close": "2027-09-04"
   },
   {
    "id": "nerother-charity-run-2027",
@@ -54446,9 +54453,11 @@
    "url": "https://www.hdsports.org/laufen/kobolt",
    "source": "https://www.hdsports.org/laufen/kobolt",
    "info": "Termin und Strecken laut HDsports. Startgeld laut Anmeldeportal (RaceResult, Stand 09.11.2026); Wartelisten-Plätze ohne Gebühr.",
-   "checked": "2026-11-09",
+   "checked": "2026-11-19",
    "start_time": "11:00",
-   "fee": "K140 KoBoLT 55 €, K99 Kleiner KoBoLT 50 €"
+   "fee": "K140 KoBoLT 55 €, K99 Kleiner KoBoLT 50 €",
+   "sold_out": true,
+   "sold_out_auto": true
   },
   {
    "id": "bertlicher-strassenlaeufe-2026",
@@ -55494,7 +55503,8 @@
    "limit": "30 Teilnehmende",
    "cutoff": "8 Stunden",
    "anmeldung_url": "https://my.raceresult.com/432026/",
-   "checked": "2026-11-12"
+   "checked": "2026-11-19",
+   "reg_close": "2027-05-26"
   },
   {
    "id": "sloopsteener-seenrunden-ultramarathon-2026",
@@ -60824,7 +60834,8 @@
    "anmeldung_url": "https://my.raceresult.com/352260/",
    "source": "https://running.life/de/termine/paul-panoramasteig-ultralauf",
    "info": "Termin und Strecken laut running.life/gotrail.run. Startgruppe 1 (PAUL150 Frühstart) am Freitag 28.05.2027 um 04:00 Uhr; Startnummernausgabe Donnerstag 27.05.2027 von 16:00 bis 18:00 Uhr mit Pflichtbriefing um 18:00 Uhr. Termin laut Veranstalterseite bestätigt (Stand 08.11.2026).",
-   "checked": "2026-11-08"
+   "checked": "2026-11-19",
+   "fee": "PAULS HELFER HELDEN 0 €"
   },
   {
    "id": "raesfelder-mai-lauf-2027",
@@ -82482,8 +82493,10 @@
    "anmeldung_url": "https://my.raceresult.com/426506/",
    "source": "https://running.life/de/termine/devils-loop-langenberg-backyard-ultramarathon",
    "info": "Termin und Strecken laut running.life/gotrail.run. Start 18.09.2027 um 8:00 Uhr, Wettkampfbesprechung 7:40 Uhr. Termin laut Veranstalterseite bestätigt (Stand 08.11.2026).",
-   "checked": "2026-11-08",
-   "start_time": "08:00"
+   "checked": "2026-11-19",
+   "start_time": "08:00",
+   "sold_out": true,
+   "sold_out_auto": true
   },
   {
    "id": "insellauf-rund-um-amrum-2027",
@@ -101163,8 +101176,9 @@
    "url": "https://6-stunden-lauf-herne.jimdofree.com/",
    "source": "https://my.raceresult.com/426888/",
    "info": "24-Stunden-Lauf des TV Börnig-Sodingen (DUV-Förderstützpunkt) vom 19. bis 20.06.2027 laut Anmeldeportal RaceResult, auch als Staffel.",
-   "checked": "2026-11-11",
-   "end": "2027-06-20"
+   "checked": "2026-11-19",
+   "end": "2027-06-20",
+   "reg_open": "2026-10-01"
   },
   {
    "id": "eggelauf-meerhof-2027",
@@ -101333,8 +101347,9 @@
    "url": "https://my.raceresult.com/418569/",
    "source": "https://my.raceresult.com/418569/",
    "info": "2. Valkyrie Trailrun im Landschaftspark Halde Hoheward laut Anmeldeportal; Singletrails, steile Anstiege und technische Abfahrten. Startgeld steigt mit dem Anmeldezeitpunkt.",
-   "checked": "2026-11-11",
-   "fee": "5 km ab 19,90 €, 10 km ab 29,90 €, 15 km ab 39,90 €"
+   "checked": "2026-11-19",
+   "fee": "5 km ab 19,90 €, 10 km ab 29,90 €, 15 km ab 39,90 €",
+   "reg_open": "2026-09-18"
   },
   {
    "id": "boeckstiegellauf-2027",
@@ -101571,9 +101586,10 @@
    "url": "https://my.raceresult.com/376824/",
    "source": "https://my.raceresult.com/376824/",
    "info": "6-Stunden-Lauf als 1. Lauf der Adventsserie 2026 laut Anmeldeportal; 4,22-km-Runde mit GPS-Markierung, zentrale Verpflegung, Medaille, höchstens 60 Teilnehmende.",
-   "checked": "2026-11-11",
+   "checked": "2026-11-19",
    "start_time": "09:00",
-   "limit": "max. 60 Teilnehmende"
+   "limit": "max. 60 Teilnehmende",
+   "reg_open": "2026-09-01"
   },
   {
    "id": "dinklager-adventslauf-2026",
@@ -103277,14 +103293,15 @@
    "url": "https://running.life/de/termine/essener-silvesterlauf",
    "source": "https://running.life/de/termine/essener-silvesterlauf",
    "info": "Silvesterlauf auf dem Gelände der Zeche Zollverein in Essen am 31.12.2026 laut running.life: Läufe von 400 m bis 10 km. Laut Anmeldeportal (RaceResult, 13.11.2026): 5 km 11:20 Uhr, 10 km 12:15 Uhr; beide Hauptläufe ausgebucht, Anmeldung seit 05.11.2026 geschlossen",
-   "checked": "2026-11-14",
+   "checked": "2026-11-19",
    "fee": "5 km und 10 km je 16 €, Schülerläufe und Bambini 4 €",
    "start_time": "11:20",
    "reg_close": "2026-11-05",
    "late_reg": "Nachmeldungen nicht möglich",
    "sold_out": true,
    "start_place": "Vor der Halle 5, Zeche Zollverein",
-   "anmeldung_url": "https://my.raceresult.com/401159/"
+   "anmeldung_url": "https://my.raceresult.com/401159/",
+   "reg_open": "2026-10-03"
   },
   {
    "id": "grasmoor-ultra-2027",
@@ -103648,11 +103665,12 @@
    "url": "https://my.raceresult.com/434626/",
    "source": "https://statistik.d-u-v.org/eventdetail.php?event=138180",
    "info": "5. Fernsehturm Steinegge Ultra am 27.03.2027 laut DUV-Ultrakalender und Anmeldeportal (RaceResult, Anmeldung bis 25.03.2027): rund 45,6 km und 1.380 Höhenmeter auf drei Runden um den Fernsehturm Steinegge, limitierte Teilnehmerzahl, Selbstverpflegung",
-   "checked": "2026-11-18",
+   "checked": "2026-11-19",
    "elevation": [
     1380
    ],
-   "reg_close": "2027-03-25"
+   "reg_close": "2027-03-25",
+   "fee": "5. Fernsehturm Steinegge Ultra 5 €"
   },
   {
    "id": "berger-herbstlauf-2027",
@@ -103696,10 +103714,12 @@
    "url": "https://my.raceresult.com/428636/",
    "source": "https://my.raceresult.com/428636/",
    "info": "Marathon im Alten Elbtunnel am 31.01.2027 laut Anmeldeportal (RaceResult, Anmeldung bis 24.01.2027): 48 Runden durch beide Röhren, max. 200 Teilnehmende, elektronische Zeitnahme (laut running.life); Stand 18.11.2026 noch 104 Plätze frei",
-   "checked": "2026-11-18",
+   "checked": "2026-11-19",
    "reg_close": "2027-01-24",
    "limit": "max. 200 Teilnehmende",
-   "anmeldung_url": "https://my.raceresult.com/428636/"
+   "anmeldung_url": "https://my.raceresult.com/428636/",
+   "reg_open": "2026-11-10",
+   "fee": "Marathon 75 €"
   },
   {
    "id": "halloween-run-koeln-2027",
@@ -103783,10 +103803,11 @@
    "url": "https://my.raceresult.com/390694/",
    "source": "https://my.raceresult.com/390694/",
    "info": "3. Hemmelmarklauf KSM in Eckernförde am 10.12.2026 laut running.life und Anmeldeportal (RaceResult): 10 km, 300 Startplätze, Startgeld 3 € bar; Online-Anmeldung bis 09.12.2026, 14:00 Uhr",
-   "checked": "2026-11-18",
+   "checked": "2026-11-19",
    "fee": "3 € (bar)",
    "reg_close": "2026-12-09",
-   "limit": "300 Startplätze"
+   "limit": "300 Startplätze",
+   "reg_open": "2026-04-01"
   },
   {
    "id": "graebendorfer-seelauf-2027",
