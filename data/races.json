@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "region": "Bayern, Baden-Württemberg, Hessen, Thüringen, Sachsen, Sachsen-Anhalt, Brandenburg, Berlin, Saarland, Rheinland-Pfalz, Nordrhein-Westfalen, Niedersachsen, Bremen, Hamburg, Schleswig-Holstein, Mecklenburg-Vorpommern",
  "races": [
   {
@@ -16163,27 +16163,26 @@
    "place": "Karlsruhe",
    "bezirk": "Karlsruhe",
    "kreis": "Stadt Karlsruhe",
-   "date": "2027-03-21",
+   "date": "2027-03-14",
    "confirmed": true,
    "distances": [
     "5",
     "15"
    ],
-   "source": "https://haid.app/en/events/rissnertlauf-mvkdx44r",
-   "checked": "2026-11-09",
+   "source": "https://www.tus-rueppurr.de/laufsport/rissnert-lauf",
+   "checked": "2026-11-19",
    "lat": 49.006,
    "lon": 8.397,
    "limit": "800 Teilnehmer",
    "url": "https://www.tus-rueppurr.de/laufsport/rissnert-lauf",
    "anmeldung_url": "https://my.raceresult.com/430757",
    "showers": "Toiletten, Umkleiden, Duschen im Vereinsheim und in der Eichelgartenhalle",
-   "late_reg": "Nachmeldung und Ummeldung vor Ort möglich",
+   "late_reg": "Nachmeldung und Ummeldung am Lauftag 8:30–9:30 Uhr, falls das Teilnehmerlimit von 800 noch nicht erreicht ist",
    "aid": "Im Ziel Wasser, Tee, Bananen frei",
-   "info": "Veranstalter TuS Rüppurr. Rundkurse im Karlsruher Oberwald auf Asphalt und gut befestigten Waldwegen, DLV-vermessen (GER-2022-0005). Kinderläufe kostenlos. Termin 21.03.2027 laut hdsports vom Veranstalter bestätigt. Teil des RegioCup Karlsruhe.",
-   "start_time": "09:30",
+   "info": "Veranstalter TuS Rüppurr. Rundkurse im Karlsruher Oberwald auf Asphalt und gut befestigten Waldwegen, DLV-vermessen (GER-2022-0005). Kinderläufe kostenlos. Teil des RegioCup Karlsruhe. Termin Sonntag, 14.03.2027, 10:00 Uhr laut TuS Rüppurr (Vereinsgelände, Steinmannstraße 1, Karlsruhe). Die Online-Meldefrist für 2027 ist nach der Terminverlegung noch nicht neu angegeben",
+   "start_time": "10:00",
    "start_place": "Steinmannstraße 1, 76199 Karlsruhe",
-   "reg_close": "2027-03-17",
-   "fee": "15-km-Lauf 13 € (bis 17.03.) · Nachmeldung 15 € · 5-km-Lauf 7 € (bis 17.03.) · Nachmeldung 9 € · 5-km-Walking 7 € (bis 17.03.) · Nachmeldung 9 €",
+   "fee": "15-km-Lauf 13 € · Nachmeldung 15 € · 5-km-Lauf 7 € · Nachmeldung 9 € · 5-km-Walking 7 € · Nachmeldung 9 €",
    "pickup": "8:30–9:30 Uhr im Zelt bei den Garagen hinter dem Vereinsheim"
   },
   {
@@ -20120,16 +20119,15 @@
    "kreis": "Main-Tauber-Kreis",
    "lat": 49.492,
    "lon": 9.774,
-   "date": "2027-06-13",
-   "confirmed": false,
-   "prev_date": "2026-06-14",
+   "date": "2027-05-31",
+   "confirmed": true,
    "distances": [
     "5,5",
     "11"
    ],
-   "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-04",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 14.06.). Strecken laut hdsports. Veranstalter Feuerwehr Löffelstelzen. 19. Auflage war am 14.06.2026: Bambini bis 11 km, Nordic Walking, Staffel. Veranstalterseite nur per http erreichbar",
+   "source": "http://www.ffw-loeffelstelzen.de/",
+   "checked": "2026-11-19",
+   "info": "Strecken laut hdsports. Veranstalter Feuerwehr Löffelstelzen. 19. Auflage war am 14.06.2026: Bambini bis 11 km, Nordic Walking, Staffel. Veranstalterseite nur per http erreichbar. 20. Feuerwehrlauf für Jedermann am 31.05.2027 laut Freiwilliger Feuerwehr Löffelstelzen (Anmeldung in Kürze)",
    "url": "http://www.ffw-loeffelstelzen.de/",
    "prev": {
     "fee": "Erwachsene 12 €, Kinder bis 16 Jahre 6 € (Ausgabe 2024)"
@@ -21380,14 +21378,16 @@
     "10"
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-08",
-   "info": "Strecken laut hdsports. Veranstalter TSV Herbolzheim, Teil des Dreiflüssecups. 18. Auflage war am Samstag 18.07.2026: Hauptlauf 10 km (hügelig, Waldabschnitt) um 18:30 Uhr, Jagstlauf 5 km um 18:50 Uhr, Schülerlauf 1,4 km um 17:45 Uhr, Kinderlauf 400 m um 17:00 Uhr. Termin laut BLV-Laufkalender (Stand 08.11.2026).",
+   "checked": "2026-11-19",
+   "info": "Strecken laut hdsports. Veranstalter TSV Herbolzheim, Teil des Dreiflüssecups. 18. Auflage war am Samstag 18.07.2026: Hauptlauf 10 km (hügelig, Waldabschnitt) um 18:30 Uhr, Jagstlauf 5 km um 18:50 Uhr, Schülerlauf 1,4 km um 17:45 Uhr, Kinderlauf 400 m um 17:00 Uhr. Termin laut BLV-Laufkalender (Stand 08.11.2026). Laut Anmeldeportal (RaceResult): Gänslauf 10 km und Jagstlauf 5 km am 25.07.2027, Online-Anmeldung vom 20.07. bis 23.07.2027",
    "url": "https://www.gaenslauf.de/",
    "prev": {
     "start_time": "18:30"
    },
    "late_reg": "Keine Nachmeldung am Veranstaltungstag (2026)",
-   "pickup": "In der Sporthalle Herbolzheim"
+   "pickup": "In der Sporthalle Herbolzheim",
+   "anmeldung_url": "https://my.raceresult.com/424218/",
+   "reg_close": "2027-07-23"
   },
   {
    "id": "biosphaerenlauf-muensingen-auingen-2027",
@@ -21607,9 +21607,8 @@
     "10"
    ],
    "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-04",
+   "checked": "2026-11-19",
    "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 24.07.). Strecken laut hdsports.",
-   "anmeldung_url": "https://my.raceresult.com/424218/",
    "reg_close": "2027-07-23",
    "late_reg": "Keine Nachmeldung am Veranstaltungstag",
    "url": "https://klettgaulauf.com/"
@@ -52085,16 +52084,17 @@
    "lat": 49.1570058,
    "lon": 7.812038,
    "date": "2027-09-04",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "Backyard"
    ],
    "url": "https://running.life/de/termine/palatina-backyard-ultra",
    "anmeldung_url": "https://my.raceresult.com/432363/",
    "source": "https://running.life/de/termine/palatina-backyard-ultra",
-   "info": "Termin und Strecken laut running.life/gotrail.run.",
+   "info": "Termin und Strecken laut running.life/gotrail.run. Termin 04.09.2027 laut Anmeldeportal (RaceResult). Laut Anmeldeportal (RaceResult, 19.11.2026) keine freien Plätze mehr, keine Warteliste",
    "checked": "2026-11-19",
-   "reg_close": "2027-09-03"
+   "reg_close": "2027-09-03",
+   "sold_out": true
   },
   {
    "id": "binger-stadtlauf-2027",
@@ -66523,15 +66523,15 @@
    "kreis": "Rheinisch-Bergischer Kreis",
    "lat": 51.085,
    "lon": 7.114,
-   "date": "2027-10-17",
+   "date": "2027-10-10",
    "confirmed": true,
    "distances": [
     "10"
    ],
    "url": "http://stadtsportverband-burscheid.de",
-   "source": "https://lvnordrhein.de/wettkaempfe/veranstaltungskalender/event/27L10009901460001",
-   "info": "Termin laut Veranstaltungskalender des Leichtathletik-Verbands Nordrhein (Anmeldung beim Verband). Strecken noch nicht geprüft. Ausgabe 2026: Nachmeldungen am Veranstaltungstag im Meldebüro auf dem Marktplatz gegen 5 € Gebühr",
-   "checked": "2026-11-05",
+   "source": "http://stadtsportverband-burscheid.de",
+   "info": "Termin laut Veranstaltungskalender des Leichtathletik-Verbands Nordrhein (Anmeldung beim Verband). Strecken noch nicht geprüft. Ausgabe 2026: Nachmeldungen am Veranstaltungstag im Meldebüro auf dem Marktplatz gegen 5 € Gebühr. Termin Sonntag, 10.10.2027 laut Stadtsportverband Burscheid (der LVN-Kalender nannte den 17.10.)",
+   "checked": "2026-11-19",
    "showers": "Umkleideräume und Duschen in der Sporthalle Auf dem Schulberg"
   },
   {
@@ -67308,8 +67308,9 @@
    "cutoff": "6 h + Toleranz des Veranstalters",
    "aid": "Wasser, Tee, Cola, Bananen, Salzstangen, Kekse; eigene Trinkflasche empfohlen",
    "late_reg": "Am Veranstaltungstag nur in sehr geringem Umfang (Voranmeldung erbeten)",
-   "info": "Wald- und Bergmarathon im Harrl (Bückeburg/Bad Eilsen) laut Ausschreibung von 100MC-Mitglied Jobst von Palombini: 7 Runden à 5,816 km plus An- und Schlussstück, 818 Höhenmeter, leicht markiert, im Winter Spikes ratsam; Wertung nach DLO-Klassen, Urkunde als PDF",
-   "checked": "2026-11-18"
+   "info": "Wald- und Bergmarathon im Harrl (Bückeburg/Bad Eilsen) laut Ausschreibung von 100MC-Mitglied Jobst von Palombini: 7 Runden à 5,816 km plus An- und Schlussstück, 818 Höhenmeter, leicht markiert, im Winter Spikes ratsam; Wertung nach DLO-Klassen, Urkunde als PDF. Meldeschluss am Vortag um 18 Uhr laut Ausschreibung",
+   "checked": "2026-11-19",
+   "reg_close": "2026-12-22"
   },
   {
    "id": "sollingquerung-2026",
@@ -69827,19 +69828,19 @@
    "lat": 52.785,
    "lon": 8.2545,
    "date": "2027-01-09",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "20",
     "10,7",
     "5,2"
    ],
    "url": "https://www.hdsports.org/laufen/sgh-lauf-langfoerden-rund-um-den-bomhof",
-   "source": "https://www.hdsports.org/laufen/sgh-lauf-langfoerden-rund-um-den-bomhof",
-   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
-   "checked": "2026-11-08",
+   "source": "https://www.laufen-os.de/volksbanken-laufcup",
+   "checked": "2026-11-19",
    "prev": {
     "start_time": "14:00"
-   }
+   },
+   "info": "Volkslauf Langförden am 09.01.2027 laut Laufkalender des Volksbanken Laufcups 2026/2027 (laufen-os.de) (5,2 / 10,7 / 21 km)"
   },
   {
    "id": "sandkruger-schleife-2027",
@@ -100020,19 +100021,23 @@
    "lat": 47.984,
    "lon": 10.185,
    "date": "2027-07-10",
-   "confirmed": false,
-   "prev_date": "2026-07-11",
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
    "url": "https://econ-ag.com/e-con-lauf/",
    "source": "https://econ-ag.com/e-con-lauf/",
-   "info": "Termin 2027 noch nicht veröffentlicht (2026: Samstag, 11.07.). Benefizlauf mit 5 und 10 km, allein oder im Team, dazu Bambini- und Schülerläufe.",
-   "checked": "2026-11-11",
+   "info": "Benefizlauf mit 5 und 10 km, allein oder im Team, dazu Bambini- und Schülerläufe. Termin Samstag, 10.07.2027 laut Veranstalter (e-con ArenaPark Memmingen): Hauptlauf 5 und 10 km 11:00 Uhr, Walken 4 km 11:15 Uhr, Bambini 10:00, Schüler 10:15 Uhr",
+   "checked": "2026-11-19",
    "prev": {
     "fee": "5 und 10 km: 10 € bis 31.03., 12 € bis 31.05., 15 € bis 05.07.2026"
-   }
+   },
+   "start_time": "11:00",
+   "reg_close": "2027-07-05",
+   "late_reg": "Vor Ort bis 60 Minuten vor dem Start (begrenzte Kapazität)",
+   "pickup": "Freitag, 09.07.2027, 12–14 Uhr und Samstag ab 8 Uhr im Multifunktionsgebäude des e-con ArenaParks",
+   "start_place": "e-con ArenaPark Memmingen"
   },
   {
    "id": "haeusemer-crosslauf-2027",
@@ -103895,8 +103900,29 @@
    ],
    "url": "https://www.ddmess.de/OnlineMeldung/Wk26CB433F/",
    "source": "https://www.ddmess.de/OnlineMeldung/Wk26CB433F/",
-   "info": "48. Neujahrslauf Hoyerswerda am 03.01.2027 laut Online-Anmeldung (ddmess): 6 km Hauptlauf um den Pokal des Oberbürgermeisters, 2 km Jedermann-Lauf, 6 km Walking; laut running.life im Sportforum, gestaffelte Startgelder, Nachmeldung gegen Gebühr",
-   "checked": "2026-11-18"
+   "info": "48. Neujahrslauf Hoyerswerda am 03.01.2027 laut Online-Anmeldung (ddmess): 6 km Hauptlauf um den Pokal des Oberbürgermeisters, 2 km Jedermann-Lauf, 6 km Walking; laut running.life im Sportforum, gestaffelte Startgelder, Nachmeldung gegen Gebühr. Meldeschluss 31.12.2026 laut Online-Anmeldung",
+   "checked": "2026-11-19",
+   "reg_close": "2026-12-31"
+  },
+  {
+   "id": "lohner-benefizlauf-2027",
+   "type": "road",
+   "name": "Lohner Benefizlauf",
+   "place": "Lohne (Oldenburg)",
+   "bezirk": "Weser-Ems",
+   "kreis": "LK Vechta",
+   "lat": 52.659,
+   "lon": 8.225,
+   "date": "2027-07-04",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://www.laufen-os.de/volksbanken-laufcup",
+   "source": "https://www.laufen-os.de/volksbanken-laufcup",
+   "info": "Lohner Benefizlauf am 04.07.2027 laut Laufkalender des Volksbanken Laufcups 2026/2027 (laufen-os.de): 5 km und 10 km (Wertungslauf mit Punkten)",
+   "checked": "2026-11-19"
   }
  ]
 }
