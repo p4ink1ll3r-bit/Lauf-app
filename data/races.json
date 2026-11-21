@@ -104204,6 +104204,30 @@
    "source": "https://blv-sport.de/laufsport/laufkalender",
    "info": "1. GLUT1 Charity Run am 05.06.2027 laut BLV-Laufkalender (beim Bayerischen Leichtathletik-Verband angemeldet, Stand 21.11.2026); Strecken laut DLV-Laufkalender von 0,2 bis 10,5 km (Einzelstrecken noch nicht veröffentlicht), Veranstalterseite nicht gefunden",
    "checked": "2026-11-21"
+  },
+  {
+   "id": "winter-lauf-treff-moerfelden-2026",
+   "type": "road",
+   "name": "Winter-Lauf-Treff Mörfelden (früher Winterlaufserie)",
+   "place": "Mörfelden",
+   "bezirk": "Darmstadt",
+   "kreis": "LK Groß-Gerau",
+   "lat": 49.995,
+   "lon": 8.584,
+   "date": "2026-11-29",
+   "end": "2027-02-28",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://lg-mw.de/winterlaufserie/",
+   "source": "https://lg-mw.de/winterlaufserie/",
+   "start_time": "09:00",
+   "start_place": "SKV-Waldstadion Mörfelden",
+   "parking": "Parkplatz im Stadion an den Lauf-Sonntagen geöffnet",
+   "info": "Laut LG Mörfelden-Walldorf wird die bisherige Winterlaufserie vom 29.11.2026 bis 28.02.2027 als „Winter-Lauf-Treff“ fortgeführt: an 14 Sonntagen zwischen 9:00 und 11:30 Uhr 5- oder 10-km-Runden laufen oder walken (höchstens 30 km). Ohne Zeitmessung: Wer mitmacht, registriert sich in einer Web-Anwendung und trägt die gelaufenen Kilometer am jeweiligen Sonntag selbst ein. Am 28.02.2027 ab 11 Uhr kleine Abschlussfeier im Sportlerheim",
+   "checked": "2026-11-21"
   }
  ]
 }
