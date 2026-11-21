@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19",
+ "updated": "2026-11-21",
  "region": "Bayern, Baden-Württemberg, Hessen, Thüringen, Sachsen, Sachsen-Anhalt, Brandenburg, Berlin, Saarland, Rheinland-Pfalz, Nordrhein-Westfalen, Niedersachsen, Bremen, Hamburg, Schleswig-Holstein, Mecklenburg-Vorpommern",
  "races": [
   {
@@ -14613,6 +14613,106 @@
    "start_time": "08:00"
   },
   {
+   "id": "10h-12h-run-freudenstadt-gruental-maerz-2027",
+   "type": "trail",
+   "name": "10h / 12h Run Freudenstadt-Grüntal (März)",
+   "place": "Freudenstadt",
+   "bezirk": "Karlsruhe",
+   "kreis": "LK Freudenstadt",
+   "lat": 48.467,
+   "lon": 8.414,
+   "distances": [
+    "12 h",
+    "10 h"
+   ],
+   "url": "https://neckarlauf.com/6hoder12h-run.html",
+   "date": "2027-03-06",
+   "end": "2027-03-07",
+   "confirmed": true,
+   "source": "https://neckarlauf.com/6hoder12h-run.html",
+   "fee": "45 € für einen Lauf, 75 € für beide Tage (Überweisung oder bar vor dem Start)",
+   "start_time": "08:00",
+   "start_place": "Haldenstraße 10, 72250 Freudenstadt-Grüntal",
+   "late_reg": "Anmeldung per E-Mail, Nachmeldung am Starttag möglich",
+   "info": "Laufserie laut Veranstalter: 12-h-Lauf am Samstag, 06.03.2027, 10-h-Lauf am Sonntag, 07.03.2027. Wendestrecke 2.236 m mit ca. 20 Höhenmetern, gewertet werden volle Runden; offizieller Start 8:00 Uhr, späterer Start erlaubt. Übernachtung, Frühstücksbuffet, Verpflegung und Urkunde inklusive; Strecke teils unbeleuchtet, Lampe empfohlen",
+   "checked": "2026-11-21"
+  },
+  {
+   "id": "10h-12h-run-freudenstadt-gruental-februar-2027",
+   "type": "trail",
+   "name": "10h / 12h Run Freudenstadt-Grüntal (Februar)",
+   "place": "Freudenstadt",
+   "bezirk": "Karlsruhe",
+   "kreis": "LK Freudenstadt",
+   "lat": 48.467,
+   "lon": 8.414,
+   "distances": [
+    "12 h",
+    "10 h"
+   ],
+   "url": "https://neckarlauf.com/6hoder12h-run.html",
+   "date": "2027-02-06",
+   "end": "2027-02-07",
+   "confirmed": true,
+   "source": "https://neckarlauf.com/6hoder12h-run.html",
+   "fee": "45 € für einen Lauf, 75 € für beide Tage (Überweisung oder bar vor dem Start)",
+   "start_time": "08:00",
+   "start_place": "Haldenstraße 10, 72250 Freudenstadt-Grüntal",
+   "late_reg": "Anmeldung per E-Mail, Nachmeldung am Starttag möglich",
+   "info": "Laufserie laut Veranstalter: 12-h-Lauf am Samstag, 06.02.2027, 10-h-Lauf am Sonntag, 07.02.2027. Wendestrecke 2.236 m mit ca. 20 Höhenmetern, gewertet werden volle Runden; offizieller Start 8:00 Uhr, späterer Start erlaubt. Übernachtung, Frühstücksbuffet, Verpflegung und Urkunde inklusive; Strecke teils unbeleuchtet, Lampe empfohlen",
+   "checked": "2026-11-21"
+  },
+  {
+   "id": "10h-12h-run-freudenstadt-gruental-januar-2027",
+   "type": "trail",
+   "name": "10h / 12h Run Freudenstadt-Grüntal (Januar)",
+   "place": "Freudenstadt",
+   "bezirk": "Karlsruhe",
+   "kreis": "LK Freudenstadt",
+   "lat": 48.467,
+   "lon": 8.414,
+   "distances": [
+    "12 h",
+    "10 h"
+   ],
+   "url": "https://neckarlauf.com/6hoder12h-run.html",
+   "date": "2027-01-09",
+   "end": "2027-01-10",
+   "confirmed": true,
+   "source": "https://neckarlauf.com/6hoder12h-run.html",
+   "fee": "45 € für einen Lauf, 75 € für beide Tage (Überweisung oder bar vor dem Start)",
+   "start_time": "08:00",
+   "start_place": "Haldenstraße 10, 72250 Freudenstadt-Grüntal",
+   "late_reg": "Anmeldung per E-Mail, Nachmeldung am Starttag möglich",
+   "info": "Laufserie laut Veranstalter: 12-h-Lauf am Samstag, 09.01.2027, 10-h-Lauf am Sonntag, 10.01.2027. Wendestrecke 2.236 m mit ca. 20 Höhenmetern, gewertet werden volle Runden; offizieller Start 8:00 Uhr, späterer Start erlaubt. Übernachtung, Frühstücksbuffet, Verpflegung und Urkunde inklusive; Strecke teils unbeleuchtet, Lampe empfohlen",
+   "checked": "2026-11-21"
+  },
+  {
+   "id": "10h-12h-run-freudenstadt-gruental-dezember-2026",
+   "type": "trail",
+   "name": "10h / 12h Run Freudenstadt-Grüntal (Dezember)",
+   "place": "Freudenstadt",
+   "bezirk": "Karlsruhe",
+   "kreis": "LK Freudenstadt",
+   "lat": 48.467,
+   "lon": 8.414,
+   "distances": [
+    "12 h",
+    "10 h"
+   ],
+   "url": "https://neckarlauf.com/6hoder12h-run.html",
+   "date": "2026-12-05",
+   "end": "2026-12-06",
+   "confirmed": true,
+   "source": "https://neckarlauf.com/6hoder12h-run.html",
+   "fee": "45 € für einen Lauf, 75 € für beide Tage (Überweisung oder bar vor dem Start)",
+   "start_time": "08:00",
+   "start_place": "Haldenstraße 10, 72250 Freudenstadt-Grüntal",
+   "late_reg": "Anmeldung per E-Mail, Nachmeldung am Starttag möglich",
+   "info": "Laufserie laut Veranstalter: 12-h-Lauf am Samstag, 05.12.2026, 10-h-Lauf am Sonntag, 06.12.2026. Wendestrecke 2.236 m mit ca. 20 Höhenmetern, gewertet werden volle Runden; offizieller Start 8:00 Uhr, späterer Start erlaubt. Übernachtung, Frühstücksbuffet, Verpflegung und Urkunde inklusive; Strecke teils unbeleuchtet, Lampe empfohlen",
+   "checked": "2026-11-21"
+  },
+  {
    "id": "ring-running-series-hockenheimring-halbmarathon-und-marathon-2026",
    "type": "road",
    "name": "Ring Running Series Hockenheimring (Halbmarathon und Marathon)",
@@ -25343,14 +25443,37 @@
    "lat": 50.088,
    "lon": 8.28,
    "date": "2026-12-26",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "8"
    ],
-   "source": "https://www.runme.de/deutschland/wiesbadener-gaensebraten-vernichtungslauf/",
-   "checked": "2026-11-04",
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "checked": "2026-11-21",
    "url": "http://www.lcolympia.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME."
+   "info": "Strecken laut RUNME. Termin 26.12.2026, 11:00 Uhr laut HLV-Laufkalender (LC Olympia Wiesbaden, Start Nerotal 1, Lauf über 8.000 m für Jedermann)",
+   "start_time": "11:00",
+   "start_place": "Nerotal 1, 65191 Wiesbaden"
+  },
+  {
+   "id": "gaensebratenvernichtungslauf-wiesbaden-2027",
+   "type": "road",
+   "name": "Gänsebratenvernichtungslauf Wiesbaden",
+   "place": "Wiesbaden",
+   "bezirk": "Darmstadt",
+   "kreis": "Stadt Wiesbaden",
+   "lat": 50.088,
+   "lon": 8.28,
+   "distances": [
+    "8"
+   ],
+   "url": "http://www.lcolympia.de/",
+   "date": "2027-12-26",
+   "confirmed": true,
+   "source": "https://www.hlv.de/breitensport/stadionferne-veranstaltungen/hlv-laufkalender",
+   "start_time": "11:00",
+   "start_place": "Nerotal 1, 65191 Wiesbaden",
+   "info": "Termin 26.12.2027, 11:00 Uhr laut HLV-Laufkalender (LC Olympia Wiesbaden, Lauf über 8.000 m für Jedermann)",
+   "checked": "2026-11-21"
   },
   {
    "id": "silvesterlauf-wesertal-arenborn-2026",
@@ -26247,29 +26370,36 @@
   },
   {
    "id": "auf-die-platte-fertig-los-2027",
-   "type": "road",
+   "type": "trail",
    "name": "Auf die Platte - fertig - los",
    "place": "Wiesbaden",
    "bezirk": "Darmstadt",
    "kreis": "Stadt Wiesbaden",
    "lat": 50.071,
    "lon": 8.257,
-   "date": "2027-03-06",
-   "confirmed": false,
+   "date": "2027-02-27",
+   "confirmed": true,
    "distances": [
     "9,2",
     "15,6",
     "27,4"
    ],
-   "source": "https://www.runme.de/deutschland/auf-die-platte-fertig-los-wiesbaden/",
-   "checked": "2026-11-05",
-   "url": "http://www.lcolympia.de",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Ausgabe 2026: Voranmeldung bis 05.03.2026, 23:59 Uhr, Nachmeldung in begrenzter Zahl vor Ort in bar; Zeitnahme time2finish. Startzeit der letzten Ausgabe laut RUNME (27,4 km um 13:00 Uhr).",
+   "source": "https://www.lcolympia.de/index.php/events-menue/berglauf/programm",
+   "checked": "2026-11-21",
+   "url": "https://www.lcolympia.de/index.php/events-menue/berglauf/programm",
+   "info": "31. Berglauf \"Auf die Platte - Fertig - Los!\" laut LC Olympia Wiesbaden am 27.02.2027 (Überschrift der Veranstalterseite, Voranmeldung bis 25.02.2027); in der Ausschreibung 2027 steht dagegen Samstag, 27.03.2027 (Widerspruch auf der Veranstalterseite, Stand 21.11.2026). Laut Ausschreibung 2027: Start und Ziel auf dem Neroberg am Klettergarten, XTREME ca. 27,4 km / 700 Hm um 13:00 Uhr (UTMB-Kategorie 20K), STRONG ca. 15,6 km / 400 Hm um 13:15 Uhr, CLASSIC ca. 9,2 km / 190 Hm um 13:30 Uhr; Zielschluss 16:00 Uhr; Teilnahme ab 16 Jahren; Zeitnahme time2finish; keine Duschen. Termin 27.02.2027 auch laut HLV-Laufkalender (beim Hessischen Leichtathletik-Verband angemeldet, Stand 21.11.2026). Online-Voranmeldung über Racepedia bis 25.02.2027, 23:59 Uhr; laut Veranstalter noch nicht freigeschaltet (Stand 21.11.2026)",
    "showers": "Duschen leider nicht vorhanden (Ausgabe 2026)",
    "parking": "Parkplätze ausreichend auf dem Neroberg vorhanden (Ausgabe 2026)",
-   "prev": {
-    "start_time": "13:00"
-   }
+   "start_time": "13:00",
+   "fee": "CLASSIC 9,2 km 12 € · STRONG 15,6 km 16 € · XTREME 27,4 km 20 € · Nachmeldung +2 € (bar)",
+   "late_reg": "In begrenzter Zahl vor Ort bis 30 Minuten vor dem jeweiligen Start, 2 € Nachmeldegebühr (nur bar); Anmeldung vor Ort ab 12:00 Uhr",
+   "start_place": "Neroberg am Klettergarten, Wiesbaden",
+   "aid": "Verpflegung im Start-/Zielbereich, für XTREME (ca. km 6,5 und 18,5) und STRONG (ca. km 6,5) auf der Platte",
+   "elevation": [
+    190,
+    400,
+    700
+   ]
   },
   {
    "id": "offenbacher-rosenhoehe-waldlauf-2027",
@@ -49080,8 +49210,8 @@
    ],
    "url": "https://www.lernelaufen.de/",
    "source": "https://www.runme.de/deutschland/faschings-crosslauf/",
-   "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (7 km um 16:40 Uhr).",
-   "checked": "2026-11-08",
+   "info": "Termin 2027 laut Anmeldeliste des Leichtathletik-Verbands Rheinhessen-Rheinland (lvrheinland.de, Stand 19.10.2026). Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (7 km um 16:40 Uhr). 6. Faschings-Crosslauf laut LVRR-Terminkalender am Sonntag, 14.02.2027, Veranstaltungsbeginn 13:30 Uhr (Stand 21.11.2026)",
+   "checked": "2026-11-21",
    "prev": {
     "start_time": "16:40"
    },
@@ -54629,6 +54759,26 @@
    "fee": "5 km und 10 km je 16 € (Jugend 9 €), Kinder- und Jugendlauf 8 €, Bambini 5 €"
   },
   {
+   "id": "mondorfer-rewe-weihnachtslauf-2027",
+   "type": "road",
+   "name": "Mondorfer REWE-Weihnachtslauf",
+   "place": "Niederkassel-Mondorf",
+   "bezirk": "Köln",
+   "kreis": "Rhein-Sieg-Kreis",
+   "lat": 50.7796,
+   "lon": 7.0675,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "http://www.lauftreff-mondorf.de",
+   "date": "2027-11-28",
+   "confirmed": true,
+   "source": "https://www.laufen.de/laufkalender/details/33-mondorfer-rewe-weihnachtslauf",
+   "info": "33. Mondorfer REWE Weihnachtslauf am 28.11.2027 laut DLV-Laufkalender auf laufen.de (beim Leichtathletik-Verband angemeldeter Lauf, Stand 21.11.2026). Ausgabe 2026 am 29.11.2026",
+   "checked": "2026-11-21"
+  },
+  {
    "id": "nikolauslauf-der-tsg-duelmen-2026",
    "type": "road",
    "name": "Nikolauslauf der TSG Dülmen",
@@ -54834,13 +54984,14 @@
    "url": "http://www.koelner-nikolauslauf.de/",
    "source": "https://www.runme.de/deutschland/koelner-nikolauslauf-im-stadtwald/",
    "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (10 km um 10:00 Uhr, frühester Lauf ab 5 km). Online-Meldeschluss Sonntag 29.11.2026, 20 Uhr. TopLauf 10:00 Uhr laut Veranstalterseite. Meldeschluss 29.11.2026 laut Veranstalterseite. Laut Veranstalterseite FunRun ausgebucht (Stand 08.11.2026); TopLauf 10:00 Uhr. Laut Veranstalter (Stand 10.11.2026) ist der FunLauf ausgebucht (Anmeldung nur noch mit Gutscheincode bis 29.11., 20 Uhr; eventuell kleines Nachmelde-Kontingent bei der Startunterlagenausgabe); für TopLauf und KidsLauf weiter Anmeldung möglich.",
-   "checked": "2026-11-10",
+   "checked": "2026-11-21",
    "start_time": "10:00",
    "reg_close": "2026-11-29",
    "late_reg": "Ab 30.11.2026 nur noch Nachmeldung vor Ort oder bei der Startunterlagenausgabe",
    "fee": "TopLauf und Funlauf 21 € (bis 30.09. 19 €), KidsLauf 11 €",
    "start_place": "Kitschburger Straße, 50935 Köln-Lindenthal.",
-   "sold_out": "FunLauf ausgebucht (laut Veranstalter, Stand 10.11.2026); TopLauf und KidsLauf noch offen."
+   "sold_out": "FunLauf ausgebucht (laut Veranstalter, Stand 10.11.2026); TopLauf und KidsLauf noch offen.",
+   "pickup": "Freitag, 04.12.2026, 16–19 Uhr und Samstag, 05.12.2026, 10–13 Uhr bei Decathlon Köln-Marsdorf; am Lauftag ab 8:00 Uhr vor Ort"
   },
   {
    "id": "barbara-runde-2026",
@@ -55412,6 +55563,36 @@
    "fee": "Kostenlos (0 €)",
    "reg_close": "2026-12-19",
    "reg_open": "2026-09-20"
+  },
+  {
+   "id": "essener-rhein-herne-kanal-marathon-2027",
+   "type": "road",
+   "name": "Essener Rhein-Herne-Kanal Marathon",
+   "place": "Essen",
+   "bezirk": "Düsseldorf",
+   "kreis": "Stadt Essen",
+   "lat": 51.4556432,
+   "lon": 7.0115552,
+   "distances": [
+    "7,1",
+    "14,2",
+    "HM",
+    "28,4",
+    "35,5",
+    "M",
+    "50"
+   ],
+   "url": "https://running.life/de/termine/essener-rhein-herne-kanal-marathon/2027-09-12",
+   "date": "2027-09-12",
+   "confirmed": true,
+   "anmeldung_url": "https://my.raceresult.com/435937/",
+   "source": "https://my.raceresult.com/435937/",
+   "fee": "Kostenlos (0 €)",
+   "reg_open": "2027-07-01",
+   "reg_close": "2027-09-11",
+   "limit": "max. 105 Teilnehmende (laut Anmeldeportal)",
+   "info": "29. Essener Rhein-Herne-Kanal Marathon am 12.09.2027 laut Anmeldeportal (RaceResult): 7,1 km, 14,2 km, Halbmarathon 21,3 km, 28,4 km, 35,5 km, Marathon 42,6 km und 50 km Ultramarathon, dazu Walking; Anmeldung 01.07. bis 11.09.2027. Die Ausgabe im Dezember 2026 war schnell ausgebucht",
+   "checked": "2026-11-21"
   },
   {
    "id": "haddorfer-seen-marathon-2026",
@@ -58893,8 +59074,8 @@
    ],
    "url": "http://www.3staedte-tour.de/",
    "source": "https://www.runme.de/deutschland/netphener-keilerlauf-netphen-deuz/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10,5 km um 14:50 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10,5 km um 14:50 Uhr). Im Terminplan der SVB-3-Städte-Tour 2027 (3staedte-tour.de, Stand 21.11.2026) steht am 24.04.2027 der 1. Gillberg Lauf statt des Keilerlaufs; ob der Keilerlauf 2027 stattfindet, ist offen",
+   "checked": "2026-11-21",
    "prev": {
     "start_time": "14:50"
    }
@@ -59729,28 +59910,6 @@
    "checked": "2026-11-08",
    "prev": {
     "start_time": "15:00"
-   }
-  },
-  {
-   "id": "rund-um-detmold-2027",
-   "type": "road",
-   "name": "Rund um Detmold",
-   "place": "Detmold",
-   "bezirk": "Detmold",
-   "kreis": "LK Lippe",
-   "lat": 51.861,
-   "lon": 8.864,
-   "date": "2027-05-08",
-   "confirmed": false,
-   "distances": [
-    "45"
-   ],
-   "url": "http://holter-wald-ultra.de/",
-   "source": "https://www.runme.de/deutschland/rund-um-detmold/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (45 km um 08:00 Uhr).",
-   "checked": "2026-11-05",
-   "prev": {
-    "start_time": "08:00"
    }
   },
   {
@@ -62599,8 +62758,8 @@
    ],
    "url": "http://www.3staedte-tour.de/",
    "source": "https://www.runme.de/deutschland/tvl-meilenlauf-siegen-langenholdinghausen/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 21:30 Uhr).",
-   "checked": "2026-11-05",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 21:30 Uhr). Im Terminplan der SVB-3-Städte-Tour 2027 (3staedte-tour.de, Stand 21.11.2026) steht am 26.06.2027 der 1. Meiswinkler Lichterlauf statt des Fackellaufs (die Ausgabe 2026 fiel wegen der Hitze aus); ob der Fackellauf 2027 stattfindet, ist offen",
+   "checked": "2026-11-21",
    "prev": {
     "start_time": "21:30"
    }
@@ -63386,15 +63545,19 @@
    "lat": 51.9384783,
    "lon": 8.868638,
    "date": "2027-07-24",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "57"
    ],
    "url": "https://running.life/de/termine/rund-um-detmold",
    "anmeldung_url": "https://my.raceresult.com/398707/",
-   "source": "https://running.life/de/termine/rund-um-detmold",
-   "info": "Termin und Strecken laut running.life/gotrail.run.",
-   "checked": "2026-11-05"
+   "source": "https://my.raceresult.com/398707/",
+   "info": "Strecke laut running.life/gotrail.run. 7. Rund um Detmold am 24.07.2027 laut Anmeldeportal (RaceResult): Anmeldung 01.01. bis 20.07.2027",
+   "checked": "2026-11-21",
+   "fee": "10 €",
+   "reg_open": "2027-01-01",
+   "reg_close": "2027-07-20",
+   "limit": "max. 25 Teilnehmende (laut Anmeldeportal)"
   },
   {
    "id": "die-10-kilometer-von-duerwiss-2027",
@@ -63534,15 +63697,21 @@
    "lat": 51.9027288,
    "lon": 8.6359771,
    "date": "2027-08-07",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "46"
    ],
-   "url": "https://running.life/de/termine/holter-wald-ultra",
+   "url": "http://holter-wald-ultra.de/",
    "anmeldung_url": "https://my.raceresult.com/403291/",
-   "source": "https://running.life/de/termine/holter-wald-ultra",
-   "info": "Termin und Strecken laut running.life/gotrail.run.",
-   "checked": "2026-11-05"
+   "source": "https://my.raceresult.com/403291/",
+   "info": "8. Holter Wald Ultra am 07.08.2027 laut Anmeldeportal (RaceResult): Anmeldung 01.01. bis 04.08.2027. Laut Veranstalter: kleiner privat organisierter Ultramarathon über 46 km für erfahrene Ultraläufer, ab 2027 zwei Runden à 23 km über Waldwege; Strecke nicht markiert, Navigation per Uhr oder App nötig",
+   "checked": "2026-11-21",
+   "fee": "20 €",
+   "reg_open": "2027-01-01",
+   "reg_close": "2027-08-04",
+   "limit": "max. 25 Teilnehmende (laut Anmeldeportal)",
+   "start_place": "Brinkeweg 112a, 33758 Schloß Holte-Stukenbrock",
+   "parking": "Am Brinkeweg auf beiden Seitenstreifen und Richtung Wapelweg (nicht in die Einfahrt fahren, sie ist Teil der Strecke)"
   },
   {
    "id": "monschau-marathon-2027",
@@ -66523,15 +66692,15 @@
    "kreis": "Rheinisch-Bergischer Kreis",
    "lat": 51.085,
    "lon": 7.114,
-   "date": "2027-10-10",
+   "date": "2027-10-17",
    "confirmed": true,
    "distances": [
     "10"
    ],
    "url": "http://stadtsportverband-burscheid.de",
    "source": "http://stadtsportverband-burscheid.de",
-   "info": "Termin laut Veranstaltungskalender des Leichtathletik-Verbands Nordrhein (Anmeldung beim Verband). Strecken noch nicht geprüft. Ausgabe 2026: Nachmeldungen am Veranstaltungstag im Meldebüro auf dem Marktplatz gegen 5 € Gebühr. Termin Sonntag, 10.10.2027 laut Stadtsportverband Burscheid (der LVN-Kalender nannte den 17.10.)",
-   "checked": "2026-11-19",
+   "info": "Termin laut Veranstaltungskalender des Leichtathletik-Verbands Nordrhein (Anmeldung beim Verband). Strecken noch nicht geprüft. Ausgabe 2026: Nachmeldungen am Veranstaltungstag im Meldebüro auf dem Marktplatz gegen 5 € Gebühr. Termin Sonntag, 17.10.2027 laut Stadtsportverband Burscheid (Stand 21.11.2026, wie im LVN-Kalender; am 19.11. nannte die Seite kurz den 10.10.). Startzeiten und Online-Anmeldung folgen laut Veranstalter rechtzeitig vor dem Lauf",
+   "checked": "2026-11-21",
    "showers": "Umkleideräume und Duschen in der Sporthalle Auf dem Schulberg"
   },
   {
@@ -70136,14 +70305,14 @@
    "lat": 52.968,
    "lon": 11.154,
    "date": "2027-01-24",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "10"
    ],
    "url": "http://www.igaswendland.de/",
-   "source": "https://www.runme.de/deutschland/winterlauf-luechow/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 11:00 Uhr).",
-   "checked": "2026-11-05",
+   "source": "https://www.igaswendland.de/veranstaltung+training.html",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 11:00 Uhr). Lüchower Winterlauf am 24.01.2027 laut Terminplanung des Kreisleichtathletikverbands Lüchow-Dannenberg auf igaswendland.de (Stand 21.11.2026): 10.000 m, Sportanlage im Schulzentrum",
+   "checked": "2026-11-21",
    "prev": {
     "start_time": "11:00"
    }
@@ -70164,10 +70333,11 @@
     "10"
    ],
    "url": "http://www.lg-ostfriesland.de/",
-   "source": "https://www.runme.de/deutschland/crosslauf-aurich/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5 km um 14:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "14:00"
+   "source": "http://www.lg-ostfriesland.de/",
+   "info": "31. Auricher Crosslauf am 30.01.2027 laut LG Ostfriesland: geplante Startzeiten 5 km 14:00 Uhr, 10 km 14:45 Uhr. Anmeldung über RaceResult ab Ende Dezember",
+   "checked": "2026-11-21",
+   "start_time": "14:00",
+   "start_place": "Trimmpfad Aurich-Wallinghausen"
   },
   {
    "id": "vier-tuerme-hamme-ultra-2027",
@@ -70305,15 +70475,15 @@
    "lat": 53.0792962,
    "lon": 8.8016937,
    "date": "2027-02-08",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "9,2"
    ],
    "url": "https://running.life/de/termine/rosenmontags-marathon",
    "anmeldung_url": "https://my.raceresult.com/383851/",
-   "source": "https://running.life/de/termine/rosenmontags-marathon",
-   "info": "Termin und Strecken laut running.life/gotrail.run. Startgeld laut Anmeldeportal RaceResult am 05.11.2026",
-   "checked": "2026-11-05",
+   "source": "https://my.raceresult.com/383851/",
+   "info": "Strecke laut running.life/gotrail.run. Startgeld laut Anmeldeportal RaceResult am 05.11.2026. Termin 08.02.2027 laut Anmeldeportal (RaceResult)",
+   "checked": "2026-11-21",
    "start_time": "09:00",
    "fee": "10 €"
   },
@@ -72110,14 +72280,14 @@
    "lat": 52.924,
    "lon": 11.129,
    "date": "2027-04-24",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5"
    ],
    "url": "http://igaswendland.de",
-   "source": "https://www.runme.de/deutschland/wustrower-stadt-und-friedenslauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 14:00 Uhr).",
-   "checked": "2026-11-05",
+   "source": "https://www.igaswendland.de/veranstaltung+training.html",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 14:00 Uhr). Wustrower Stadt- und Friedenslauf am 24.04.2027 laut Veranstaltungsplan der IGAS Wendland (igaswendland.de, Stand 21.11.2026): 10 km, 5 km, 2,5 km und 1 km, dazu Wander- und Walkingstrecke",
+   "checked": "2026-11-21",
    "prev": {
     "start_time": "14:00"
    }
@@ -72899,17 +73069,17 @@
    "kreis": "LK Harburg",
    "lat": 53.223,
    "lon": 10.17,
-   "date": "2027-05-09",
-   "confirmed": false,
+   "date": "2027-05-23",
+   "confirmed": true,
    "distances": [
     "5,4",
     "10,3",
     "10,5"
    ],
    "url": "http://www.mtv-salzhausen.de",
-   "source": "https://www.runme.de/deutschland/wald-und-wiesenvolkslauf-salzhausen/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,4 km um 08:45 Uhr).",
-   "checked": "2026-11-05",
+   "source": "https://mtv-salzhausen.kurabu.com/de/news/wald-und-wiesenlauf-2027-su7ag",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,4 km um 08:45 Uhr). 27. Wald- und Wiesenlauf am 23.05.2027 laut MTV Salzhausen (Vorankündigung vom 19.11.2026, weitere Infos folgen)",
+   "checked": "2026-11-21",
    "prev": {
     "start_time": "08:45"
    }
@@ -75073,18 +75243,20 @@
    "lat": 53.129,
    "lon": 9.107,
    "date": "2027-06-26",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
    "url": "https://www.sportfreunde-fischerhude.de/",
-   "source": "https://www.runme.de/deutschland/fischerhuder-sommerlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 20:00 Uhr).",
-   "checked": "2026-11-05",
-   "prev": {
-    "start_time": "20:00"
-   }
+   "source": "https://www.sportfreunde-fischerhude.de/",
+   "info": "Strecken laut RUNME. Sommerlauf am Samstag, 26.06.2027 laut Sportfreunde Fischerhude (Programm ab 18:00 Uhr, Läufe ab 19:30 Uhr). Startzeiten laut Veranstalter: 10 km 20:00 Uhr, 5 km 20:15 Uhr (Walking über die 5 km), Kinderlauf 1 km 19:30 Uhr; 5 und 10 km auf einem vom DLV vermessenen 5-km-Rundkurs",
+   "checked": "2026-11-21",
+   "start_time": "20:00",
+   "start_place": "Parkplatz vor der Brünings Scheune, Landstraße 22, Fischerhude",
+   "parking": "Am Sportplatz Fischerhude (Im alten Dorf, am Ortseingang aus Richtung Oyten rechts), kostenlos",
+   "showers": "Umkleiden und Duschen im Vereinsgebäude des TSV Fischerhude-Quelkhorn (eingeschränkt)",
+   "aid": "Heiß- und Kaltgetränke im Zielbereich kostenlos"
   },
   {
    "id": "dahlenburger-moorlauf-2027",
@@ -75414,25 +75586,6 @@
    }
   },
   {
-   "id": "langstrecken-auf-der-bahn-luechow-2027",
-   "type": "road",
-   "name": "Langstrecken auf der Bahn Lüchow",
-   "place": "Lüchow",
-   "bezirk": "Lüneburg",
-   "kreis": "LK Lüchow-Dannenberg",
-   "lat": 52.968,
-   "lon": 11.154,
-   "date": "2027-07-12",
-   "confirmed": false,
-   "distances": [
-    "5"
-   ],
-   "url": "https://www.hdsports.org/laufen/langstrecken-auf-der-bahn-luechow",
-   "source": "https://www.hdsports.org/laufen/langstrecken-auf-der-bahn-luechow",
-   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
-   "checked": "2026-11-05"
-  },
-  {
    "id": "lauf-um-und-am-gartower-see-2027",
    "type": "road",
    "name": "Lauf um und am Gartower See",
@@ -75442,15 +75595,15 @@
    "lat": 53.025,
    "lon": 11.462,
    "date": "2027-07-14",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "4,7",
     "9,4"
    ],
    "url": "http://www.sv-gartow.de/",
-   "source": "https://www.runme.de/deutschland/lauf-um-den-gartower-see/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (9,4 km um 19:30 Uhr).",
-   "checked": "2026-11-05",
+   "source": "https://www.igaswendland.de/veranstaltung+training.html",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (9,4 km um 19:30 Uhr). Lauf um den Gartower See am 14.07.2027 laut Terminplanung des Kreisleichtathletikverbands Lüchow-Dannenberg auf igaswendland.de (Stand 21.11.2026): 9,4 km, 4,7 km und 2 km",
+   "checked": "2026-11-21",
    "prev": {
     "start_time": "19:30"
    }
@@ -75492,15 +75645,15 @@
    "lat": 52.968,
    "lon": 11.154,
    "date": "2027-07-16",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
    "url": "https://www.igaswendland.de",
-   "source": "https://www.runme.de/deutschland/luechower-zehner/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 19:30 Uhr).",
-   "checked": "2026-11-05",
+   "source": "https://www.igaswendland.de/veranstaltung+training.html",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 19:30 Uhr). Lüchower Zehner am 16.07.2027 laut Terminplanung des Kreisleichtathletikverbands Lüchow-Dannenberg auf igaswendland.de (Stand 21.11.2026): 10 km und 5 km",
+   "checked": "2026-11-21",
    "prev": {
     "start_time": "19:30"
    }
@@ -76513,15 +76666,15 @@
    "lat": 53,
    "lon": 11.317,
    "date": "2027-08-27",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "11",
     "5,5"
    ],
    "url": "https://www.hdsports.org/laufen/lauf-durch-die-nemitzer-heide",
-   "source": "https://www.hdsports.org/laufen/lauf-durch-die-nemitzer-heide",
-   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
-   "checked": "2026-11-05"
+   "source": "https://www.igaswendland.de/veranstaltung+training.html",
+   "checked": "2026-11-21",
+   "info": "Nemitzer Heide-Lauf am 27.08.2027 laut Terminplanung des Kreisleichtathletikverbands Lüchow-Dannenberg auf igaswendland.de (Stand 21.11.2026): 11 km, 5,5 km und 1 km"
   },
   {
    "id": "muenkeboer-festtagelauf-2027",
@@ -77649,14 +77802,14 @@
    "lat": 53.087,
    "lon": 11.054,
    "date": "2027-09-17",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "10,5"
    ],
    "url": "https://www.apothekeseepassage.de",
-   "source": "https://www.runme.de/deutschland/onw-lauf-dannenberg/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10,5 km um 17:50 Uhr).",
-   "checked": "2026-11-05",
+   "source": "https://www.igaswendland.de/veranstaltung+training.html",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10,5 km um 17:50 Uhr). ONW-Lauf am 17.09.2027 laut Terminplanung des Kreisleichtathletikverbands Lüchow-Dannenberg auf igaswendland.de (Stand 21.11.2026): 10,5 km, 4,2 km und 2,1 km",
+   "checked": "2026-11-21",
    "prev": {
     "start_time": "17:50"
    }
@@ -78022,14 +78175,14 @@
    "lat": 53.5502,
    "lon": 10.0013,
    "date": "2027-09-19",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "HM"
    ],
    "url": "http://www.halb-marathon.hamburg/",
-   "source": "https://www.runme.de/deutschland/hek-halbmarathon-hamburg/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 10:00 Uhr).",
-   "checked": "2026-11-05",
+   "source": "http://www.halb-marathon.hamburg/",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 10:00 Uhr). Termin Sonntag, 19.09.2027 laut Veranstalter (Anmeldung seit 19.11.2026 geöffnet)",
+   "checked": "2026-11-21",
    "prev": {
     "start_time": "10:00"
    }
@@ -78907,7 +79060,7 @@
    "lat": 52.968,
    "lon": 11.154,
    "date": "2027-10-10",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
     "10",
@@ -78915,9 +79068,9 @@
     "M"
    ],
    "url": "http://www.igaswendland.de",
-   "source": "https://www.runme.de/deutschland/wendlandmarathon-liepe/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (42,195 km um 09:30 Uhr). Hinweis: Die Wendland-Läufe der IGAS Wendland nutzen eine gemeinsame Anmeldeseite; Angaben vor Ort prüfen",
-   "checked": "2026-11-05",
+   "source": "https://www.igaswendland.de/veranstaltung+training.html",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (42,195 km um 09:30 Uhr). Hinweis: Die Wendland-Läufe der IGAS Wendland nutzen eine gemeinsame Anmeldeseite; Angaben vor Ort prüfen. Wendland-Marathon am 10.10.2027 in Kolborn laut Veranstaltungsplan der IGAS Wendland (igaswendland.de, Stand 21.11.2026) (Rundstrecke 10,6 km)",
+   "checked": "2026-11-21",
    "prev": {
     "start_time": "09:30"
    }
@@ -79242,15 +79395,15 @@
    "kreis": "LK Lüchow-Dannenberg",
    "lat": 53.16,
    "lon": 10.999,
-   "date": "2027-10-31",
-   "confirmed": false,
+   "date": "2027-11-07",
+   "confirmed": true,
    "distances": [
     "10"
    ],
    "url": "https://www.hdsports.org/laufen/herbsthaerte-hitzacker-elbe",
-   "source": "https://www.hdsports.org/laufen/herbsthaerte-hitzacker-elbe",
-   "info": "Termin und Strecken laut HDsports (Termin noch nicht bestätigt, Prognose aus dem Vorjahr).",
-   "checked": "2026-11-05"
+   "source": "https://www.igaswendland.de/veranstaltung+training.html",
+   "checked": "2026-11-21",
+   "info": "Hitzacker-Herbst-Härte am 07.11.2027 laut Terminplanung des Kreisleichtathletikverbands Lüchow-Dannenberg auf igaswendland.de (Stand 21.11.2026): 10 km"
   },
   {
    "id": "meller-crosslauf-2027",
@@ -93580,8 +93733,8 @@
     "12"
    ],
    "source": "https://www.hdsports.org/laufen/fockeberglauf",
-   "checked": "2026-11-09",
-   "info": "Termin noch nicht veröffentlicht, Datum geschätzt laut hdsports.org-Prognose aus dem Vorjahr (2026: 07.03.). Veranstalter laut hdsports: Leipziger Triathlon e.V.. Wertungslauf: Stadtrangliste Leipzig.",
+   "checked": "2026-11-21",
+   "info": "Termin noch nicht veröffentlicht, Datum geschätzt laut hdsports.org-Prognose aus dem Vorjahr (2026: 07.03.). Veranstalter laut hdsports: Leipziger Triathlon e.V.. Wertungslauf: Stadtrangliste Leipzig. Der Fockeberglauf findet zweimal im Jahr statt (Anfang März und Anfang November); die Frühjahrsausgabe war jeweils am ersten Samstag im März (2024: 02.03., 2025: 01.03., 2026: 07.03.)",
    "prev_date": "2026-03-07",
    "url": "https://www.leipziger-triathlon.de/ergebnisse/fockeberglauf/",
    "prev": {
@@ -93591,6 +93744,30 @@
    "kreis": "Stadt Leipzig",
    "lat": 51.367,
    "lon": 12.383
+  },
+  {
+   "id": "fockeberglauf-november-2027",
+   "type": "trail",
+   "name": "Fockeberglauf (November)",
+   "place": "Fockestraße",
+   "bezirk": "Leipzig",
+   "kreis": "Stadt Leipzig",
+   "lat": 51.367,
+   "lon": 12.383,
+   "distances": [
+    "6",
+    "12"
+   ],
+   "url": "https://www.leipziger-triathlon.de/ergebnisse/fockeberglauf/",
+   "date": "2027-11-06",
+   "confirmed": false,
+   "prev_date": "2026-11-07",
+   "source": "https://www.leipziger-triathlon.de/ergebnisse/fockeberglauf/",
+   "prev": {
+    "start_time": "10:00"
+   },
+   "info": "Termin noch nicht veröffentlicht, Datum geschätzt: Der Fockeberglauf des Leipziger Triathlon e.V. findet zweimal im Jahr statt, die Herbstausgabe jeweils am ersten Samstag im November (2024: 02.11., 2025: 01.11., 2026: 07.11. laut Ergebnisliste des Veranstalters); RUNME nennt als Prognose ebenfalls den 06.11.2027. Wertungslauf: Stadtrangliste Leipzig",
+   "checked": "2026-11-21"
   },
   {
    "id": "seenweg-ratzeburg-3-0-2027",
@@ -94056,24 +94233,22 @@
    "type": "road",
    "name": "Kellmünzer Frühjahrsstraßenlauf",
    "place": "Kellmünz an der Iller",
-   "date": "2027-03-27",
-   "confirmed": false,
+   "date": "2027-03-20",
+   "confirmed": true,
    "distances": [
     "10"
    ],
-   "source": "https://www.hdsports.org/laufen/kellmuenzer-fruehjahrsstrassenlauf",
-   "checked": "2026-11-09",
-   "info": "Termin noch nicht veröffentlicht, Datum geschätzt laut hdsports.org-Prognose aus dem Vorjahr (2026: 28.03.).",
-   "prev_date": "2026-03-28",
-   "url": "https://lg-illerschwaben.info/",
-   "prev": {
-    "start_time": "15:00",
-    "start_place": "Turnhalle des TSV Kellmünz"
-   },
+   "source": "https://lg-illerschwaben.info/kellmuenzer-fruehjahrs-strassenlauf/",
+   "checked": "2026-11-21",
+   "info": "Termin noch nicht veröffentlicht, Datum geschätzt laut hdsports.org-Prognose aus dem Vorjahr (2026: 28.03.). Kellmünzer Frühjahrs-Straßenlauf am Samstag, 20.03.2027 laut LG Iller Schwaben: Hauptlauf 10 km um 15:00 Uhr (eben, asphaltiert, eine kleine und zwei große Runden), Hobbylauf 2,4 km nur mit Wertung, Kinder- und Jugendläufe ab 13:45 Uhr; Siegerehrung Hauptlauf ab 17:30 Uhr in der Turnhalle",
+   "url": "https://lg-illerschwaben.info/kellmuenzer-fruehjahrs-strassenlauf/",
    "bezirk": "Schwaben",
    "kreis": "LK Neu-Ulm",
    "lat": 48.122,
-   "lon": 10.128
+   "lon": 10.128,
+   "start_time": "15:00",
+   "fee": "Hauptlauf 10 km 13 € · Nachmeldegebühr 4 €",
+   "start_place": "Turnhalle des TSV Kellmünz"
   },
   {
    "id": "stettener-volkslauf-stetten-2027",
@@ -96304,14 +96479,13 @@
    "type": "road",
    "name": "LAUF10",
    "place": "Wolnzach",
-   "date": "2027-07-10",
-   "confirmed": false,
+   "date": "2027-07-17",
+   "confirmed": true,
    "distances": [
     "10"
    ],
-   "source": "https://www.runme.de/deutschland/lauf10-wolnzach/",
-   "checked": "2026-11-09",
-   "info": "Termin noch nicht veröffentlicht, Datum geschätzt laut RUNME-Prognose aus dem Vorjahr.",
+   "source": "https://www.wolnzach-blog.de/category/lauf10/",
+   "checked": "2026-11-21",
    "url": "https://www.wolnzach.de/startseite",
    "prev": {
     "start_time": "17:00"
@@ -96319,7 +96493,8 @@
    "bezirk": "Oberbayern",
    "kreis": "LK Pfaffenhofen a.d.Ilm",
    "lat": 48.604,
-   "lon": 11.626
+   "lon": 11.626,
+   "info": "LAUF10! zum 20. Mal am Samstag, 17.07.2027 laut Wolnzach-Blog (Beschluss des Marktgemeinderats, 19.11.2026)"
   },
   {
    "id": "sommerlauf-hochneukirch-2027",
@@ -99225,19 +99400,20 @@
    "name": "Ferndorfer Frühjahrs-Waldlauf",
    "place": "Kreuztal",
    "date": "2027-03-13",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "6",
     "10,5"
    ],
-   "source": "https://www.hdsports.org/laufen/ferndorfer-fruehjahrs-waldlauf",
-   "checked": "2026-11-09",
-   "info": "Termin noch nicht veröffentlicht, Datum geschätzt laut hdsports.org-Prognose aus dem Vorjahr (2026: 14.03.). Wertungslauf: 3-Städte-Tour.",
-   "prev_date": "2026-03-14",
-   "url": "https://www.bike-tec.com/results/2022/ffw22ges.html#1000m",
+   "source": "http://www.3staedte-tour.de/",
+   "checked": "2026-11-21",
+   "info": "Wertungslauf: 3-Städte-Tour. 28. Ferndorfer Frühjahrs-Waldlauf am Samstag, 13.03.2027 laut SVB-3-Städte-Tour (1. Lauf der Serie; 2 km, 6 km und 10,5 km rund um den jungen Wald). Ausgabe 2026 laut Ausschreibung: 6 km und 10,5 km um 15:00 Uhr, Meldeschluss Freitag vor dem Lauf 18:00 Uhr, Nachmeldung bis 45 Minuten vor dem Start",
+   "url": "https://3staedte-tour.de/home/ausschreibung/ferndorfer-fruehjahrs-waldlauf/",
    "prev": {
-    "start_time": "13:30",
-    "start_place": "Wanderparkplatz Irlenhecken in Ferndorf"
+    "start_time": "15:00",
+    "start_place": "Parkplatz Irlenhecken, Ferndorf",
+    "fee": "Erwachsene 10 € · Schüler/Jugend 5 € · Nachmeldung jeweils +2 €",
+    "parking": "In ausreichender Zahl bei Start und Ziel"
    },
    "bezirk": "Arnsberg",
    "kreis": "LK Siegen-Wittgenstein",
@@ -102345,26 +102521,6 @@
    "checked": "2026-11-12"
   },
   {
-   "id": "moerfelder-winterlaufserie-2027",
-   "type": "road",
-   "name": "Mörfelder Winterlaufserie",
-   "place": "Mörfelden",
-   "bezirk": "Darmstadt",
-   "kreis": "LK Groß-Gerau",
-   "lat": 49.995,
-   "lon": 8.584,
-   "date": "2027-02-07",
-   "confirmed": false,
-   "distances": [
-    "5",
-    "10"
-   ],
-   "url": "https://www.runme.de/deutschland/moerfelder-winterlaufserie/",
-   "source": "https://www.runme.de/deutschland/moerfelder-winterlaufserie/",
-   "info": "Termin 2027 noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr (07.02.2027). Lauf der Winterlaufserie der SKV Mörfelden mit 5 km und 10 km (auch Walking).",
-   "checked": "2026-11-12"
-  },
-  {
    "id": "dreiseenrunde-obersulm-2027",
    "type": "trail",
    "name": "Dreiseenrunde",
@@ -103923,6 +104079,131 @@
    "source": "https://www.laufen-os.de/volksbanken-laufcup",
    "info": "Lohner Benefizlauf am 04.07.2027 laut Laufkalender des Volksbanken Laufcups 2026/2027 (laufen-os.de): 5 km und 10 km (Wertungslauf mit Punkten)",
    "checked": "2026-11-19"
+  },
+  {
+   "id": "mai-rush-lutten-2027",
+   "type": "road",
+   "name": "Mai-Rush Lutten",
+   "place": "Goldenstedt-Lutten",
+   "bezirk": "Weser-Ems",
+   "kreis": "LK Vechta",
+   "lat": 52.788,
+   "lon": 8.432,
+   "date": "2027-05-22",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "11",
+    "21"
+   ],
+   "url": "https://www.laufen-os.de/volksbanken-laufcup",
+   "source": "https://www.laufen-os.de/volksbanken-laufcup",
+   "info": "Mai-Rush Lutten am 22.05.2027 laut Laufkalender des Volksbanken Laufcups 2026/2027 (laufen-os.de): 5 km, 11 km und 21 km (Wertungslauf mit Punkten)",
+   "checked": "2026-11-21"
+  },
+  {
+   "id": "green-loop-backyard-2027",
+   "type": "trail",
+   "name": "Green Loop Backyard",
+   "place": "Nüdlingen",
+   "bezirk": "Unterfranken",
+   "kreis": "LK Bad Kissingen",
+   "lat": 50.221,
+   "lon": 10.123,
+   "date": "2027-05-15",
+   "confirmed": true,
+   "distances": [
+    "Backyard"
+   ],
+   "url": "https://www.greenloopbackyard.de/",
+   "source": "https://www.greenloopbackyard.de/",
+   "info": "Backyard Ultra am 15.05.2027 laut Veranstalter: Runden von 6,706 km, jede volle Stunde ein neuer Start, bis nur noch eine Person übrig ist. Begrenzte Teilnehmerzahl",
+   "checked": "2026-11-21",
+   "fee": "180 € (inkl. Teilverpflegung und Goodie-Bag)"
+  },
+  {
+   "id": "trail-wildes-wendland-2027",
+   "type": "trail",
+   "name": "Trail Wildes Wendland",
+   "place": "Küsten-Wittfeitzen (Drawehn)",
+   "bezirk": "Lüneburg",
+   "kreis": "LK Lüchow-Dannenberg",
+   "lat": 53.025,
+   "lon": 10.998,
+   "date": "2027-06-27",
+   "confirmed": true,
+   "distances": [
+    "15",
+    "30",
+    "45"
+   ],
+   "url": "https://www.igaswendland.de/veranstaltung+training.html",
+   "source": "https://www.igaswendland.de/veranstaltung+training.html",
+   "info": "Trail Wildes Wendland am 27.06.2027 in Wittfeitzen (Drawehn) laut Veranstaltungsplan der IGAS Wendland (igaswendland.de, Stand 21.11.2026): 15 km mit 180 Hm, 30 km mit 290 Hm, 45 km mit 440 Hm",
+   "checked": "2026-11-21",
+   "elevation": [
+    180,
+    290,
+    440
+   ]
+  },
+  {
+   "id": "jedermannlauf-vfl-tegel-2027",
+   "type": "trail",
+   "name": "Jedermannlauf VfL Tegel",
+   "place": "Berlin-Tegel (Tegeler Forst)",
+   "bezirk": "Berlin",
+   "kreis": "Stadt Berlin",
+   "lat": 52.577,
+   "lon": 13.272,
+   "date": "2027-05-02",
+   "confirmed": false,
+   "distances": [
+    "10"
+   ],
+   "url": "https://leichtathletik.vfl-tegel.de/Jedermannlauf/index.html",
+   "source": "https://running.life/de/termine/jedermannlauf-vfl-tegel",
+   "info": "Termin und Strecken laut running.life: Lauf im Tegeler Forst auf ebenen Waldwegen, Strecken von 1,2 km bis 10 km, dazu 5 km Walking, Urkunden. Die Vereinsseite des VfL Tegel wird gerade überarbeitet (Stand 21.11.2026), Termin dort noch nicht bestätigt",
+   "checked": "2026-11-21"
+  },
+  {
+   "id": "museumslauf-schmalkalden-2027",
+   "type": "road",
+   "name": "Museumslauf Schmalkalden",
+   "place": "Schmalkalden",
+   "bezirk": "Südwestthüringen",
+   "kreis": "LK Schmalkalden-Meiningen",
+   "lat": 50.721,
+   "lon": 10.444,
+   "date": "2027-04-11",
+   "confirmed": true,
+   "distances": [
+    "15"
+   ],
+   "url": "https://www.laufen.de/laufkalender/details/museumslauf-schmalkalden",
+   "source": "https://www.tlv-sport.de/de/fachbereiche/breitensport/lauftermine/",
+   "info": "Termin 11.04.2027 laut TLV-Lauftermine (beim Thüringer Leichtathletik-Verband angemeldeter Lauf, Stand 21.11.2026); Strecken laut DLV-Laufkalender von 3 bis 15 km (Einzelstrecken noch nicht veröffentlicht). Die Vereinsseite des Schmalkalder LV war am 21.11.2026 nicht erreichbar",
+   "checked": "2026-11-21",
+   "start_place": "Gelände Schloss Wilhelmsburg, Schlossberg, 98574 Schmalkalden"
+  },
+  {
+   "id": "glut1-charity-run-schwanstetten-2027",
+   "type": "road",
+   "name": "GLUT1 Charity Run",
+   "place": "Schwanstetten",
+   "bezirk": "Mittelfranken",
+   "kreis": "LK Roth",
+   "lat": 49.325,
+   "lon": 11.123,
+   "date": "2027-06-05",
+   "confirmed": true,
+   "distances": [
+    "10,5"
+   ],
+   "url": "https://www.laufen.de/laufkalender/details/1-glut1-charity-run-2027",
+   "source": "https://blv-sport.de/laufsport/laufkalender",
+   "info": "1. GLUT1 Charity Run am 05.06.2027 laut BLV-Laufkalender (beim Bayerischen Leichtathletik-Verband angemeldet, Stand 21.11.2026); Strecken laut DLV-Laufkalender von 0,2 bis 10,5 km (Einzelstrecken noch nicht veröffentlicht), Veranstalterseite nicht gefunden",
+   "checked": "2026-11-21"
   }
  ]
 }
