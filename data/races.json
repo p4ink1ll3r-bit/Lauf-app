@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21",
+ "updated": "2026-11-22",
  "region": "Bayern, Baden-Württemberg, Hessen, Thüringen, Sachsen, Sachsen-Anhalt, Brandenburg, Berlin, Saarland, Rheinland-Pfalz, Nordrhein-Westfalen, Niedersachsen, Bremen, Hamburg, Schleswig-Holstein, Mecklenburg-Vorpommern",
  "races": [
   {
@@ -39402,16 +39402,16 @@
    "lat": 51.75,
    "lon": 11.55,
    "date": "2027-07-04",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5,7",
     "9,8",
     "13,6"
    ],
-   "url": "https://solvaycup.de/",
-   "source": "https://www.runme.de/deutschland/lauf-um-den-hain-giersleben/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,7 km um 10:15 Uhr).",
-   "checked": "2026-11-05",
+   "url": "https://www.sportverein-giersleben.com/laufsportgruppe/",
+   "source": "https://solvaycup.de/uebersicht/",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,7 km um 10:15 Uhr). 22. Lauf um den Hain Giersleben am 04.07.2027 laut Übersicht des Solvay-Cups 2027 (Wertungsläufe 5,7 km und 9,8 km, Bonusstrecke 13,6 km, Kinderlauf 2 km)",
+   "checked": "2026-11-22",
    "prev": {
     "start_time": "10:15"
    }
@@ -40137,15 +40137,15 @@
    "kreis": "Salzlandkreis",
    "lat": 51.795,
    "lon": 11.74,
-   "date": "2027-10-09",
+   "date": "2027-10-10",
    "confirmed": false,
    "distances": [
     "5,7"
    ],
    "url": "https://lauf.psv-bernburg.de/",
-   "source": "https://www.runme.de/deutschland/solvay-lauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,7 km um 10:00 Uhr).",
-   "checked": "2026-11-05",
+   "source": "https://solvaycup.de/uebersicht/",
+   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,7 km um 10:00 Uhr). Laut Übersicht des Solvay-Cups 2027 voraussichtlich am 10.10.2027 (19. Solvay-Lauf Bernburg, Stand 22.11.2026)",
+   "checked": "2026-11-22",
    "prev": {
     "start_time": "10:00"
    }
@@ -44823,9 +44823,10 @@
    ],
    "url": "http://www.berliner-nikolauslauf.com",
    "source": "https://www.runme.de/deutschland/nikolauslauf-berlin/",
-   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5,6 km um 10:00 Uhr, frühester Lauf ab 5 km).",
-   "checked": "2026-11-05",
-   "start_time": "10:00"
+   "info": "Termin laut RUNME (nicht als Prognose gekennzeichnet). Strecken laut RUNME. Startzeit laut RUNME (5,6 km um 10:00 Uhr, frühester Lauf ab 5 km). Laut Veranstalter (Meldung vom 21.11.2026) Anmeldeschluss am Sonntag, 22.11.2026, um Mitternacht",
+   "checked": "2026-11-22",
+   "start_time": "10:00",
+   "reg_close": "2026-11-22"
   },
   {
    "id": "berliner-nikolauslauf-2027",
@@ -91591,13 +91592,14 @@
     "10"
    ],
    "url": "https://www.laufen.de/laufkalender/details/26V19000341360501",
-   "source": "https://www.laufen.de/laufkalender/details/26V19000341360501",
-   "checked": "2026-11-13",
-   "info": "34. Wiedenbrücker Christkindllauf in Rheda-Wiedenbrück. Strecke 10 km. Termin laut DLV-Laufkalender auf laufen.de (beim Leichtathletik-Verband angemeldeter Lauf, Stand 08.11.2026).",
+   "source": "http://www.lgburg.de/",
+   "checked": "2026-11-22",
+   "info": "34. Wiedenbrücker Christkindllauf in Rheda-Wiedenbrück. Strecke 10 km. Termin laut DLV-Laufkalender auf laufen.de (beim Leichtathletik-Verband angemeldeter Lauf, Stand 08.11.2026). Laut LG Burg Wiedenbrück am Freitag, 04.12.2026, 19:00 Uhr, wieder auf der traditionellen Strecke; Umkleiden und Duschen an zwei Stellen nahe der Strecke",
    "pickup": "am 04.12.2026 ab 15:00 Uhr im Luise-Hensel-Saal im Stadthaus Wiedenbrück, Kirchplatz 2",
    "fee": "Erwachsene 15 €, Schüler/innen und Jugendliche 7 €",
    "late_reg": "Keine Nachmeldungen am Veranstaltungstag",
-   "limit": "1.100 Teilnehmende (Online-Anmeldung schließt bei Erreichen)"
+   "limit": "1.100 Teilnehmende (Online-Anmeldung schließt bei Erreichen)",
+   "start_time": "19:00"
   },
   {
    "id": "wiedenbruecker-christkindllauf-2027",
@@ -92990,18 +92992,15 @@
    "type": "road",
    "name": "Silvesterlauf Estenfeld",
    "place": "Estenfeld",
-   "date": "2026-12-29",
-   "confirmed": false,
+   "date": "2026-12-27",
+   "confirmed": true,
    "distances": [
     "10"
    ],
    "source": "https://www.silvesterlauf-estenfeld.de/",
-   "checked": "2026-11-11",
-   "info": "Termin noch nicht veröffentlicht, Datum geschätzt laut RUNME-Prognose aus dem Vorjahr. Anmeldung laut Veranstalter nicht erforderlich: rechtzeitig vor Ort in die Liste eintragen, Start um 12 Uhr",
+   "checked": "2026-11-22",
+   "info": "Anmeldung laut Veranstalter nicht erforderlich: rechtzeitig vor Ort in die Liste eintragen, Start um 12 Uhr. Termin Sonntag, 27.12.2026, ab 12 Uhr laut Veranstalter (10 km auf einem Landschaftskurs zwischen Estenfeld, Lengfeld und Rottendorf)",
    "url": "https://www.silvesterlauf-estenfeld.de/",
-   "prev": {
-    "start_time": "12:00"
-   },
    "bezirk": "Unterfranken",
    "kreis": "LK Würzburg",
    "lat": 49.829,
@@ -104151,20 +104150,26 @@
    "id": "jedermannlauf-vfl-tegel-2027",
    "type": "trail",
    "name": "Jedermannlauf VfL Tegel",
-   "place": "Berlin-Tegel (Tegeler Forst)",
+   "place": "Berlin-Hermsdorf (Tegeler Forst)",
    "bezirk": "Berlin",
    "kreis": "Stadt Berlin",
    "lat": 52.577,
    "lon": 13.272,
    "date": "2027-05-02",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
+    "5",
     "10"
    ],
    "url": "https://leichtathletik.vfl-tegel.de/Jedermannlauf/index.html",
-   "source": "https://running.life/de/termine/jedermannlauf-vfl-tegel",
-   "info": "Termin und Strecken laut running.life: Lauf im Tegeler Forst auf ebenen Waldwegen, Strecken von 1,2 km bis 10 km, dazu 5 km Walking, Urkunden. Die Vereinsseite des VfL Tegel wird gerade überarbeitet (Stand 21.11.2026), Termin dort noch nicht bestätigt",
-   "checked": "2026-11-21"
+   "source": "https://leichtathletik.vfl-tegel.de/Jedermannlauf/index.html",
+   "info": "49. Jedermannlauf am Sonntag, 02.05.2027 laut Ausschreibung des VfL Tegel (auch Lauf zum Berliner Läufercup 2027): Hauptlauf 10 km, 5-km-Schnupperlauf, 5-km-Schüler-/Jugendlauf und 5 km Walking/Nordic Walking jeweils um 10:00 Uhr, Schülerlauf 1,2 km um 9:30 Uhr; Zielschluss 12:00 Uhr. Breite, ebene Waldwege im Tegeler Forst; Erinnerungsmedaille im Startgeld enthalten; Startgeld per SEPA-Lastschrift (Zielzeit)",
+   "checked": "2026-11-22",
+   "start_time": "10:00",
+   "fee": "10-km-Lauf 15 € · 5-km-Schnupperlauf 10 € · Nachmeldung vor Ort +4 € (nur bar)",
+   "reg_close": "2027-04-24",
+   "late_reg": "Vor Ort bis 30 Minuten vor dem jeweiligen Start, nur Barzahlung, Startgeld +4 € (Schülerlauf +2 €)",
+   "start_place": "Tegeler Forst, Schulzendorfer Straße (Waldparkplatz), 13467 Berlin-Hermsdorf"
   },
   {
    "id": "museumslauf-schmalkalden-2027",
@@ -104228,6 +104233,26 @@
    "parking": "Parkplatz im Stadion an den Lauf-Sonntagen geöffnet",
    "info": "Laut LG Mörfelden-Walldorf wird die bisherige Winterlaufserie vom 29.11.2026 bis 28.02.2027 als „Winter-Lauf-Treff“ fortgeführt: an 14 Sonntagen zwischen 9:00 und 11:30 Uhr 5- oder 10-km-Runden laufen oder walken (höchstens 30 km). Ohne Zeitmessung: Wer mitmacht, registriert sich in einer Web-Anwendung und trägt die gelaufenen Kilometer am jeweiligen Sonntag selbst ein. Am 28.02.2027 ab 11 Uhr kleine Abschlussfeier im Sportlerheim",
    "checked": "2026-11-21"
+  },
+  {
+   "id": "seeland-lauf-nachterstedt-2027",
+   "type": "road",
+   "name": "Seeland-Lauf",
+   "place": "Seeland-Nachterstedt",
+   "bezirk": "Magdeburg",
+   "kreis": "Salzlandkreis",
+   "lat": 51.801,
+   "lon": 11.335,
+   "date": "2027-06-11",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://solvaycup.de/uebersicht/",
+   "source": "https://solvaycup.de/uebersicht/",
+   "info": "19. Seeland-Lauf am 11.06.2027 laut Übersicht des Solvay-Cups 2027 (Laufserie im Salzlandkreis): Wertungslauf 5 km, Bonusstrecke 10 km, Kinderlauf 2,5 km, dazu 0,5 km; Veranstalterseite noch nicht gefunden",
+   "checked": "2026-11-22"
   }
  ]
 }
