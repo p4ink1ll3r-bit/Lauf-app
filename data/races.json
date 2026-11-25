@@ -14941,7 +14941,7 @@
     "HM"
    ],
    "source": "https://haid.app/en/events/laufwelt-nikolauslauf-der-rsg-ried-rastatt-mq93n2wr",
-   "checked": "2026-11-09",
+   "checked": "2026-11-25",
    "lat": 48.858,
    "lon": 8.21,
    "url": "https://rsg-ried-rastatt.de/2026/10/laufwelt_nikolauslauf_2026/",
@@ -14953,7 +14953,9 @@
    "showers": "Umkleiden und Duschen nicht vorhanden",
    "pickup": "Startnummernausgabe am Veranstaltungstag vor der Laufwelt",
    "fee": "Halbmarathon 23 €, 10 km 18 €, Jugend (Jahrgang 2009 bis 2013) 5 €; Bambinilauf kostenlos",
-   "parking": "nicht im Umfeld der Laufwelt; Parkplätze an der Sporthalle Wintersdorf und am Sämannsee (ausgeschildert)"
+   "parking": "nicht im Umfeld der Laufwelt; Parkplätze an der Sporthalle Wintersdorf und am Sämannsee (ausgeschildert)",
+   "sold_out": "Ausgebucht laut Anmeldeportal: 10 Kilometer Lauf. Die übrigen Strecken zeigen noch freie Plätze oder keine Begrenzung (nachts automatisch geprüft).",
+   "sold_out_auto": true
   },
   {
    "id": "nikolauslauf-ilsfeld-2026",
@@ -93964,7 +93966,9 @@
    "limit": "150 Teilnehmende",
    "source": "https://statistik.d-u-v.org/eventdetail.php?event=135547",
    "info": "2. Friedrichsgaber 24-Stunden-Lauf des SV Friedrichsgabe in Norderstedt vom 26. auf den 27.06.2027, Start 12 Uhr laut DUV-Ultrakalender; Rundkurs, Strecke wird noch bekanntgegeben. Teil des MASUltra Cup 2027.",
-   "checked": "2026-11-12"
+   "checked": "2026-11-25",
+   "reg_open": "2026-10-31",
+   "reg_close": "2027-05-27"
   },
   {
    "id": "friedrichsgaber-12-stunden-nachtlauf-2027",
@@ -93987,7 +93991,9 @@
    "limit": "150 Teilnehmende",
    "source": "https://statistik.d-u-v.org/eventdetail.php?event=135548",
    "info": "1. Friedrichsgaber 12-Stunden-Nachtlauf des SV Friedrichsgabe in Norderstedt vom 22. auf den 23.05.2027, Start 19:55 Uhr laut DUV-Ultrakalender; Rundkurs, Strecke wird noch bekanntgegeben. Teil des MASUltra Cup 2027.",
-   "checked": "2026-11-12"
+   "checked": "2026-11-25",
+   "reg_open": "2026-10-31",
+   "reg_close": "2027-04-23"
   },
   {
    "id": "emu-elbe-mulde-ultra-2027",
@@ -100963,10 +100969,11 @@
    "url": "https://my.raceresult.com/428577/",
    "source": "https://my.raceresult.com/428577/",
    "info": "Crosslauf am Buß- und Bettag mit Wertung für die Stadtrangliste; 2,5 km Schüler- und Seniorenlauf, 800 m Kinderlauf, 5 km Walking. Anmeldung über RaceResult.",
-   "checked": "2026-11-11",
+   "checked": "2026-11-25",
    "start_time": "10:00",
    "fee": "10 km 10 €, 5 km 5 €",
-   "reg_close": "2026-11-16"
+   "reg_close": "2026-11-16",
+   "reg_open": "2026-10-07"
   },
   {
    "id": "rothenburger-crosslauf-2027",
@@ -103874,12 +103881,13 @@
    "url": "https://my.raceresult.com/428636/",
    "source": "https://my.raceresult.com/428636/",
    "info": "Marathon im Alten Elbtunnel am 31.01.2027 laut Anmeldeportal (RaceResult, Anmeldung bis 24.01.2027): 48 Runden durch beide Röhren, max. 200 Teilnehmende, elektronische Zeitnahme (laut running.life); Stand 18.11.2026 noch 104 Plätze frei",
-   "checked": "2026-11-19",
+   "checked": "2026-11-25",
    "reg_close": "2027-01-24",
    "limit": "max. 200 Teilnehmende",
    "anmeldung_url": "https://my.raceresult.com/428636/",
    "reg_open": "2026-11-10",
-   "fee": "Marathon 75 €"
+   "fee": "Marathon 75 €",
+   "sold_out": "Laut Anmeldeseite ausgebucht"
   },
   {
    "id": "halloween-run-koeln-2027",
