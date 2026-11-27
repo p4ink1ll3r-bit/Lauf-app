@@ -21,7 +21,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url || steps.deployment2.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
       - name: Daten in die App kopieren
@@ -37,5 +37,15 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: app
+      # GitHub findet die eben hochgeladene Fassung manchmal nicht sofort ("No artifacts named github-pages").
+      # Dann kurz warten und es ein zweites Mal versuchen, statt die Veröffentlichung ausfallen zu lassen.
       - id: deployment
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+      - name: Kurz warten vor dem zweiten Versuch
+        if: steps.deployment.outcome == 'failure'
+        run: sleep 60
+      - id: deployment2
+        name: Zweiter Versuch
+        if: steps.deployment.outcome == 'failure'
         uses: actions/deploy-pages@v4
