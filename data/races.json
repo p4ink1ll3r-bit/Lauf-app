@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22",
+ "updated": "2026-11-27",
  "region": "Bayern, Baden-Württemberg, Hessen, Thüringen, Sachsen, Sachsen-Anhalt, Brandenburg, Berlin, Saarland, Rheinland-Pfalz, Nordrhein-Westfalen, Niedersachsen, Bremen, Hamburg, Schleswig-Holstein, Mecklenburg-Vorpommern",
  "races": [
   {
@@ -1357,7 +1357,7 @@
    "reg_close": "2026-12-04",
    "fee": "Nikolauslauf 10 km 20 € (bis 03.12.) · Nachmeldung 25 € · Nikolauslauf 5 km 15 € (bis 03.12.) · Nachmeldung 20 € · Bambinilauf 0 € · Schüler 400 m 5 € · Schüler 600 m 5 € · Schüler 800 m 5 €",
    "start_time": "13:00",
-   "checked": "2026-11-02",
+   "checked": "2026-11-27",
    "source": "https://my.raceresult.com/395909/info",
    "start_place": "Auwaldstadion Immenstadt",
    "aid": null,
@@ -1369,7 +1369,7 @@
    "profile": null,
    "gpx": null,
    "limit": null,
-   "sold_out": null,
+   "sold_out": "Laut Anmeldeportal (27.11.2026) 5 km ausgebucht, 10 km nur noch 2 Plätze; der Veranstalter hatte zusätzliche Startplätze freigegeben (10 km: 30, 5 km: 11)",
    "cutoff": null,
    "included": null,
    "late_reg": null,
@@ -14941,7 +14941,7 @@
     "HM"
    ],
    "source": "https://haid.app/en/events/laufwelt-nikolauslauf-der-rsg-ried-rastatt-mq93n2wr",
-   "checked": "2026-11-25",
+   "checked": "2026-11-27",
    "lat": 48.858,
    "lon": 8.21,
    "url": "https://rsg-ried-rastatt.de/2026/10/laufwelt_nikolauslauf_2026/",
@@ -14949,12 +14949,12 @@
    "reg_close": "2026-12-03",
    "late_reg": "Nachmeldung vor Ort möglich, 5 € Aufschlag",
    "start_place": "Vor der LAUFWELT, Rastatt-Wintersdorf",
-   "info": "Sonntag 06.12.2026 laut Veranstalterseite: Halbmarathon 12:00 Uhr, 10 km 13:00 Uhr, Bambinilauf (ca. 300 m, kostenlos) 12:15 Uhr. Voranmeldung bis 03.12.2026, 1 € je Anmeldung an laufendhelfen.de. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden). Sonntag 06.12.2026; Voranmeldung bis 03.12.2026, 23:59 Uhr. Start Halbmarathon 12:00 Uhr, Bambinilauf 12:15 Uhr, 10 km 13:00 Uhr; Stand 05.11.2026 noch 99 Plätze (Halbmarathon) und 104 (10 km) frei (laut Anmeldeportal RaceResult am 05.11.2026)",
+   "info": "Sonntag 06.12.2026 laut Veranstalterseite: Halbmarathon 12:00 Uhr, 10 km 13:00 Uhr, Bambinilauf (ca. 300 m, kostenlos) 12:15 Uhr. Voranmeldung bis 03.12.2026, 1 € je Anmeldung an laufendhelfen.de. Teilangaben ergänzt laut gotrail.run (Veranstalterseite dazu nicht gefunden). Sonntag 06.12.2026; Voranmeldung bis 03.12.2026, 23:59 Uhr. Start Halbmarathon 12:00 Uhr, Bambinilauf 12:15 Uhr, 10 km 13:00 Uhr; Stand 05.11.2026 noch 99 Plätze (Halbmarathon) und 104 (10 km) frei (laut Anmeldeportal RaceResult am 05.11.2026). Laut Anmeldeportal (RaceResult, 27.11.2026) sind 10 km und Halbmarathon ausgebucht (0 freie Plätze), nur der Bambinilauf hat noch Plätze",
    "showers": "Umkleiden und Duschen nicht vorhanden",
    "pickup": "Startnummernausgabe am Veranstaltungstag vor der Laufwelt",
    "fee": "Halbmarathon 23 €, 10 km 18 €, Jugend (Jahrgang 2009 bis 2013) 5 €; Bambinilauf kostenlos",
    "parking": "nicht im Umfeld der Laufwelt; Parkplätze an der Sporthalle Wintersdorf und am Sämannsee (ausgeschildert)",
-   "sold_out": "Ausgebucht laut Anmeldeportal: 10 Kilometer Lauf. Die übrigen Strecken zeigen noch freie Plätze oder keine Begrenzung (nachts automatisch geprüft).",
+   "sold_out": true,
    "sold_out_auto": true
   },
   {
@@ -18659,15 +18659,14 @@
    "lat": 47.633,
    "lon": 7.692,
    "date": "2027-03-21",
-   "confirmed": false,
-   "prev_date": "2026-03-22",
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
-   "source": "https://www.hdsports.org/laufkalender-deutschland",
-   "checked": "2026-11-08",
-   "info": "Termin 2027 noch nicht veröffentlicht, laut hdsports Prognose aus dem Vorjahr (2026: 22.03.). Strecken laut hdsports.",
+   "source": "https://gruettlauf.de",
+   "checked": "2026-11-27",
+   "info": "Strecken laut hdsports. 27. Grüttlauf Lörrach am Sonntag, 21.03.2027 laut Veranstalter, Benefizlauf im Grüttpark zugunsten von leben + wohnen; Anmeldung offen (Stand 27.11.2026)",
    "url": "https://gruettlauf.de",
    "charity": "Benefizlauf zugunsten von Leben und Wohnen"
   },
@@ -26855,30 +26854,56 @@
   {
    "id": "winterlaufserie-der-triathletenschmiede-werratal-e-v-2027",
    "type": "road",
-   "name": "Winterlaufserie der Triathletenschmiede Werratal e.V.",
+   "name": "Winterlaufserie der Triathletenschmiede Werratal, 3. Lauf",
    "place": "Heringen  (Werra)",
    "bezirk": "Kassel",
    "kreis": "LK Hersfeld-Rotenburg",
    "lat": 50.883,
    "lon": 9.987,
    "date": "2027-04-11",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5",
-    "7,5",
     "10"
    ],
-   "source": "https://www.runme.de/deutschland/winterlaufserie-der-triathletenschmiede-werratal-e-v-in-heringen-werra/",
-   "checked": "2026-11-05",
+   "source": "https://triathletenschmiede.de/",
+   "checked": "2026-11-27",
    "url": "https://triathletenschmiede.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Anmeldung nur online, jeweils bis 9:30 Uhr am Lauftag, 5 € Pfand für die Startnummer. Ausgabe 2026: Start 10:30 Uhr Schülerlauf und Nordic Walking, 10:45 Uhr 5 km und 10 km. Startzeit der letzten Ausgabe laut RUNME (7,5 km um 10:30 Uhr).",
+   "info": "13. Winterlaufserie der Triathletenschmiede Werratal laut Veranstalter: Läufe am 28.02.2027 (Freibad Berka/Werra), 14.03. und 11.04.2027 (Fritz-Kunze-Bad Heringen). Schülerlauf 1 km und Nordic Walking 7,5 km um 10:30 Uhr, 5 km und 10 km um 10:45 Uhr. Anmeldung ausschließlich online ab 01.12.2026 bis 9:30 Uhr am Wettkampftag. Bei Lauf 2 und 3 freier Eintritt ins Fritz-Kunze-Bad",
    "start_place": "Fritz-Kunze-Bad, Badstraße 5, 36266 Heringen (Werra)",
    "parking": "Parken direkt am Fritz-Kunze-Bad",
    "showers": "Umkleide und Dusche im Fritz-Kunze-Bad",
    "late_reg": "Anmeldung nur online bis 9:30 Uhr am Wettkampftag",
    "prev": {
     "start_time": "10:30"
-   }
+   },
+   "start_time": "10:45",
+   "fee": "Einzellauf 5 km oder 10 km 6 € · Serie 15 € · jeweils 5 € Pfand für die Startnummer",
+   "reg_open": "2026-12-01"
+  },
+  {
+   "id": "winterlaufserie-der-triathletenschmiede-werratal-2-lauf-2027",
+   "type": "road",
+   "name": "Winterlaufserie der Triathletenschmiede Werratal, 2. Lauf",
+   "place": "Heringen  (Werra)",
+   "bezirk": "Kassel",
+   "kreis": "LK Hersfeld-Rotenburg",
+   "lat": 50.883,
+   "lon": 9.987,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://triathletenschmiede.de/",
+   "date": "2027-03-14",
+   "confirmed": true,
+   "source": "https://triathletenschmiede.de/",
+   "start_time": "10:45",
+   "fee": "Einzellauf 5 km oder 10 km 6 € · Serie 15 € · jeweils 5 € Pfand für die Startnummer",
+   "start_place": "Fritz-Kunze-Bad Heringen",
+   "reg_open": "2026-12-01",
+   "info": "13. Winterlaufserie der Triathletenschmiede Werratal laut Veranstalter: Läufe am 28.02.2027 (Freibad Berka/Werra), 14.03. und 11.04.2027 (Fritz-Kunze-Bad Heringen). Schülerlauf 1 km und Nordic Walking 7,5 km um 10:30 Uhr, 5 km und 10 km um 10:45 Uhr. Anmeldung ausschließlich online ab 01.12.2026 bis 9:30 Uhr am Wettkampftag. Bei Lauf 2 und 3 freier Eintritt ins Fritz-Kunze-Bad",
+   "checked": "2026-11-27"
   },
   {
    "id": "henkell-0-0-vinothon-wiesbaden-rheingau-genussmarathon-2027",
@@ -27377,16 +27402,16 @@
    "kreis": "Stadt Wiesbaden",
    "lat": 50.071,
    "lon": 8.257,
-   "date": "2027-05-02",
-   "confirmed": false,
+   "date": "2027-06-06",
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
-   "source": "https://www.runme.de/deutschland/charity-walk-run-wiesbaden/",
-   "checked": "2026-11-04",
+   "source": "https://charity-walk.de/",
+   "checked": "2026-11-27",
    "url": "http://www.charity-walk.info",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 12:00 Uhr).",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 12:00 Uhr). Charity Walk & Run Wiesbaden am 06.06.2027 am Warmen Damm laut Veranstalter (charity-walk.de, kommende Termine)",
    "prev": {
     "start_time": "12:00"
    },
@@ -29767,19 +29792,18 @@
    "lat": 50.517,
    "lon": 8.7,
    "date": "2027-09-12",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "10",
     "HM",
     "30"
    ],
-   "source": "https://www.runme.de/deutschland/garbenteicher-volkslauf-pohlheim-garbenteich/",
-   "checked": "2026-11-04",
+   "source": "http://www.svg-la.de/",
+   "checked": "2026-11-27",
    "url": "http://www.svg-la.de/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 09:30 Uhr).",
-   "prev": {
-    "start_time": "09:30"
-   }
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (21,0975 km um 09:30 Uhr). 46. Garbenteicher Volkslauf am Sonntag, 12.09.2027 laut SV Garbenteich: Start und Ziel Sport- und Kulturhalle, 10 km um 9:40 Uhr, 21,1 km und 30 km um 9:30 Uhr (über die Felder bis in den Schiffenberger Wald)",
+   "start_time": "09:30",
+   "start_place": "Sport- und Kulturhalle Garbenteich"
   },
   {
    "id": "stadtlauf-hanau-staerke-zeigen-gemeinsam-gegen-gewalt-an-fra-2027",
@@ -51933,8 +51957,8 @@
    "kreis": "LK Mainz-Bingen",
    "lat": 49.967,
    "lon": 7.899,
-   "date": "2027-08-13",
-   "confirmed": false,
+   "date": "2027-08-14",
+   "confirmed": true,
    "distances": [
     "5",
     "10",
@@ -51942,9 +51966,9 @@
     "52"
    ],
    "url": "https://cmrbingen.de/",
-   "source": "https://www.runme.de/deutschland/charity-mega-run/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (26 km um 09:00 Uhr). Ausgabe 2026 (15.08.2026): Anmeldung bis 14.08.2026, 23 Uhr, Pasta-Party am Vortag",
-   "checked": "2026-11-05",
+   "source": "https://cmrbingen.de/",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (26 km um 09:00 Uhr). Ausgabe 2026 (15.08.2026): Anmeldung bis 14.08.2026, 23 Uhr, Pasta-Party am Vortag. 9. Charity Mega Run Bingen: Pasta-Party am Freitag, 13.08.2027, Startschuss am Samstag, 14.08.2027 am Rhein-Nahe-Eck laut Veranstalter (5, 10, 26 und 52 km)",
+   "checked": "2026-11-27",
    "prev": {
     "start_time": "09:00"
    },
@@ -59479,18 +59503,19 @@
    "kreis": "LK Paderborn",
    "lat": 51.727,
    "lon": 8.771,
-   "date": "2027-05-02",
-   "confirmed": false,
+   "date": "2027-05-09",
+   "confirmed": true,
    "distances": [
     "10"
    ],
    "url": "https://freetrail-der-waldlauf.de/",
-   "source": "https://www.runme.de/deutschland/freetrail-der-waldlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 10:00 Uhr).",
-   "checked": "2026-11-05",
+   "source": "https://freetrail-der-waldlauf.de/",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 10:00 Uhr). 4. FREETRAIL am 09.05.2027 laut Veranstalter, Anmeldung öffnet am 15.12.2026",
+   "checked": "2026-11-27",
    "prev": {
     "start_time": "10:00"
-   }
+   },
+   "reg_open": "2026-12-15"
   },
   {
    "id": "gvg-fruehlingslauf-frechen-2027",
@@ -71805,19 +71830,17 @@
    "kreis": "LK Emsland",
    "lat": 52.965,
    "lon": 7.323,
-   "date": "2027-04-16",
-   "confirmed": false,
+   "date": "2027-04-09",
+   "confirmed": true,
    "distances": [
     "5",
     "10"
    ],
    "url": "https://www.runme.de/deutschland/doerpener-nordland-lauf/",
    "source": "https://www.runme.de/deutschland/doerpener-nordland-lauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. running.life nennt dafür den 2027-04-09. Startzeit der letzten Ausgabe laut RUNME (5 km um 17:30 Uhr).",
-   "checked": "2026-11-05",
-   "prev": {
-    "start_time": "17:30"
-   }
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5 km um 17:30 Uhr). 22. Dörpener Nordland-Lauf am Freitag, 09.04.2027 laut RUNME (nicht mehr als Prognose gekennzeichnet; running.life nennt ebenfalls den 09.04.): 2,5 km 16:30 Uhr, 5 km 17:30 Uhr, 10 km 18:30 Uhr",
+   "checked": "2026-11-27",
+   "start_time": "17:30"
   },
   {
    "id": "estorfer-scheunenlauf-2027",
@@ -84045,18 +84068,19 @@
    "kreis": "Vorpommern-Greifswald",
    "lat": 54.088,
    "lon": 13.388,
-   "date": "2027-05-15",
-   "confirmed": false,
+   "date": "2027-05-08",
+   "confirmed": true,
    "distances": [
     "10"
    ],
    "url": "https://www.citylauf-greifswald.de/",
-   "source": "https://www.runme.de/deutschland/greifswalder-citylauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 10:45 Uhr).",
-   "checked": "2026-11-05",
+   "source": "https://www.citylauf-greifswald.de/",
+   "info": "Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (10 km um 10:45 Uhr). 20. Greifswalder Sparkassen Citylauf am 08.05.2027 auf dem Marktplatz laut Veranstalter",
+   "checked": "2026-11-27",
    "prev": {
     "start_time": "10:45"
-   }
+   },
+   "start_place": "Marktplatz Greifswald"
   },
   {
    "id": "neuklosterseelauf-2027",
@@ -87445,9 +87469,9 @@
     "10"
    ],
    "source": "https://www.wlv-sport.de/home/breitensport/laufveranstaltungen/veranstaltungstermine",
-   "checked": "2026-11-13",
+   "checked": "2026-11-27",
    "end": null,
-   "info": "2. Lauf des 24. ALB-GOLD Winterlauf-Cups, Ausrichter LV Pliezhausen 2012: 10-km-Hauptlauf, 5 km und Kinderlauf. Termin laut WLV-Laufkalender (Stand 08.11.2026). Laut Veranstalterseite gilt für Einzelmeldungen der Samstag vor dem Rennen (bis 24 Uhr) als Anmeldeschluss; Startnummernausgabe ab 12:30 Uhr. Teilnahmegebühren laut Ausschreibung des ALB-GOLD Winterlauf-Cups; Startzeiten der 5- und 10-km-Läufe legt der jeweilige Ausrichter fest",
+   "info": "2. Lauf des 24. ALB-GOLD Winterlauf-Cups, Ausrichter LV Pliezhausen 2012: 10-km-Hauptlauf, 5 km und Kinderlauf. Termin laut WLV-Laufkalender (Stand 08.11.2026). Laut Veranstalterseite gilt für Einzelmeldungen der Samstag vor dem Rennen (bis 24 Uhr) als Anmeldeschluss; Startnummernausgabe ab 12:30 Uhr. Teilnahmegebühren laut Ausschreibung des ALB-GOLD Winterlauf-Cups; Startzeiten der 5- und 10-km-Läufe legt der jeweilige Ausrichter fest. Termin 30.01.2027 in Pliezhausen-Gniebel auch laut Terminliste der IGL Reutlingen (Stand 27.11.2026)",
    "lat": 48.559,
    "lon": 9.207,
    "anmeldung_url": "https://my.raceresult.com/431181/",
@@ -89964,21 +89988,22 @@
    "lat": 50.956,
    "lon": 13.858,
    "date": "2027-07-10",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "1 h",
     "4 h",
     "6 h"
    ],
    "url": "https://www.msv-meusegast.de/veranstaltungen/stundenlauf/",
-   "source": "https://running.life/de/termine/weesensteiner-rundenlauf",
-   "checked": "2026-11-08",
+   "source": "https://www.msv-meusegast.de/veranstaltungen/stundenlauf/",
+   "checked": "2026-11-27",
    "start_place": "Meldebüro am Kaiserstüble Weesenstein",
    "prev_date": "2026-05-31",
    "prev": {
     "start_time": "12:00"
    },
-   "info": "Rundenlauf des MSV Meusegast mit Stadt Dohna und Gemeinde Müglitztal auf einem exakt vermessenen, flachen 460-m-Rundkurs über Wald- und Fußwege: 1, 4 und 6 Stunden (dazu 30 Minuten und Walking). Termin 2027 laut running.life, vom Veranstalter noch nicht bestätigt. 2026 Start 6-Stundenlauf 12 Uhr, 4 Stunden 14 Uhr, 1 Stunde 16 Uhr."
+   "info": "Rundenlauf des MSV Meusegast mit Stadt Dohna und Gemeinde Müglitztal auf einem exakt vermessenen, flachen 460-m-Rundkurs über Wald- und Fußwege: 1, 4 und 6 Stunden (dazu 30 Minuten und Walking). Termin 2027 laut running.2026 Start 6-Stundenlauf 12 Uhr, 4 Stunden 14 Uhr, 1 Stunde 16 Uhr. 2. sächsischer internationaler 6-Stunden-Rundenlauf am Sonnabend, 10.07.2027 laut MSV Meusegast (bei der DUV angemeldet): 6-Stunden-Lauf ab 12:00 Uhr (auch Walking), Halbstundenlauf 17:15 Uhr; Meldung online über triathlon-service.de",
+   "start_time": "12:00"
   },
   {
    "id": "kreischaer-berglauf-2027",
@@ -93477,26 +93502,6 @@
    "lon": 9.005
   },
   {
-   "id": "pliezhaeuser-winterlauf-gniebel-2027",
-   "type": "road",
-   "name": "Pliezhäuser Winterlauf (Gniebel)",
-   "place": "Pliezhausen",
-   "date": "2027-01-23",
-   "confirmed": false,
-   "distances": [
-    "5",
-    "10"
-   ],
-   "source": "https://www.hdsports.org/laufen/pliezhaeuser-winterlauf",
-   "checked": "2026-11-09",
-   "info": "Termin noch nicht veröffentlicht, Datum geschätzt laut hdsports.org-Prognose aus dem Vorjahr (2026: 24.01.). Wertungslauf: ALB-GOLD Winterlauf-Cup.",
-   "prev_date": "2026-01-24",
-   "bezirk": "Tübingen",
-   "kreis": "LK Reutlingen",
-   "lat": 48.559,
-   "lon": 9.207
-  },
-  {
    "id": "otzberger-karnevalultra-2027",
    "type": "trail",
    "name": "Otzberger Karnevalultra",
@@ -96099,19 +96104,19 @@
    "name": "Duracher Lauf",
    "place": "Durach",
    "date": "2027-06-20",
-   "confirmed": false,
+   "confirmed": true,
    "distances": [
     "5,5",
     "10"
    ],
-   "source": "https://www.runme.de/deutschland/duracher-lauf/",
-   "checked": "2026-11-09",
-   "info": "Termin noch nicht veröffentlicht, Datum geschätzt laut RUNME-Prognose aus dem Vorjahr.",
+   "source": "https://www.edge-beyond.de/",
+   "checked": "2026-11-27",
    "url": "https://www.edge-beyond.de/",
    "bezirk": "Schwaben",
    "kreis": "LK Oberallgäu",
    "lat": 47.694,
-   "lon": 10.345
+   "lon": 10.345,
+   "info": "Duracher Lauf am 20.06.2027 laut Veranstalter (edge-beyond.de)"
   },
   {
    "id": "nibelungenrun-grossmehring-2027",
@@ -100866,18 +100871,19 @@
    "kreis": "LK Breisgau-Hochschwarzwald",
    "lat": 48.033,
    "lon": 7.583,
-   "date": "2027-05-02",
-   "confirmed": false,
+   "date": "2027-04-11",
+   "confirmed": true,
    "distances": [
     "6,5"
    ],
    "url": "http://www.run-for-europe.eu",
-   "source": "https://www.runme.de/deutschland/run-for-europe-breisach/",
-   "info": "Termin 2027 noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. 6,5 km Laufen, auch Walking, Nordic Walking und Wandern; Startzeit der letzten Ausgabe laut RUNME.",
-   "checked": "2026-11-11",
+   "source": "http://www.run-for-europe.eu",
+   "info": "6,5 km Laufen, auch Walking, Nordic Walking und Wandern; Startzeit der letzten Ausgabe laut RUNME. RUN FOR EUROPE 7 am 11.04.2027 laut Veranstalter: Start 11:00 Uhr, 6,5 km durch Frankreich und Deutschland, anschließend Europafest; auch zu Fuß oder als Wanderung",
+   "checked": "2026-11-27",
    "prev": {
     "start_time": "11:00"
-   }
+   },
+   "start_time": "11:00"
   },
   {
    "id": "heiligabend-lauf-schmiedefeld-2027",
@@ -104261,6 +104267,30 @@
    "source": "https://solvaycup.de/uebersicht/",
    "info": "19. Seeland-Lauf am 11.06.2027 laut Übersicht des Solvay-Cups 2027 (Laufserie im Salzlandkreis): Wertungslauf 5 km, Bonusstrecke 10 km, Kinderlauf 2,5 km, dazu 0,5 km; Veranstalterseite noch nicht gefunden",
    "checked": "2026-11-22"
+  },
+  {
+   "id": "winterlaufserie-der-triathletenschmiede-werratal-1-lauf-2027",
+   "type": "road",
+   "name": "Winterlaufserie der Triathletenschmiede Werratal, 1. Lauf",
+   "place": "Werra-Suhl-Tal (Berka/Werra)",
+   "bezirk": "Südwestthüringen",
+   "kreis": "Wartburgkreis",
+   "lat": 50.92,
+   "lon": 10.042,
+   "date": "2027-02-28",
+   "confirmed": true,
+   "distances": [
+    "5",
+    "10"
+   ],
+   "url": "https://triathletenschmiede.de/",
+   "source": "https://triathletenschmiede.de/",
+   "info": "13. Winterlaufserie der Triathletenschmiede Werratal laut Veranstalter: Läufe am 28.02.2027 (Freibad Berka/Werra), 14.03. und 11.04.2027 (Fritz-Kunze-Bad Heringen). Schülerlauf 1 km und Nordic Walking 7,5 km um 10:30 Uhr, 5 km und 10 km um 10:45 Uhr. Anmeldung ausschließlich online ab 01.12.2026 bis 9:30 Uhr am Wettkampftag",
+   "checked": "2026-11-27",
+   "start_time": "10:45",
+   "fee": "Einzellauf 5 km oder 10 km 6 € · Serie 15 € · jeweils 5 € Pfand für die Startnummer",
+   "start_place": "Freibad Berka/Werra",
+   "reg_open": "2026-12-01"
   }
  ]
 }
