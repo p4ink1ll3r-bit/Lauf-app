@@ -65123,28 +65123,6 @@
    "parking": "Husemannplatz P1"
   },
   {
-   "id": "firmenpuls-2027",
-   "type": "road",
-   "name": "Firmenpuls",
-   "place": "Neuss",
-   "bezirk": "Düsseldorf",
-   "kreis": "Rhein-Kreis Neuss",
-   "lat": 51.201,
-   "lon": 6.694,
-   "date": "2027-09-07",
-   "confirmed": false,
-   "distances": [
-    "5,5"
-   ],
-   "url": "https://www.firmenpuls.de/",
-   "source": "https://www.runme.de/deutschland/fitneuss-firmenlauf/",
-   "info": "Termin noch nicht bestätigt, laut RUNME Prognose aus dem Vorjahr. Strecken laut RUNME. Startzeit der letzten Ausgabe laut RUNME (5,5 km um 18:30 Uhr).",
-   "checked": "2026-11-05",
-   "prev": {
-    "start_time": "18:30"
-   }
-  },
-  {
    "id": "bergneustaedter-aggerenergie-und-sparkassen-nachtlauf-2027",
    "type": "road",
    "name": "Bergneustädter AggerEnergie- und Sparkassen Nachtlauf",
